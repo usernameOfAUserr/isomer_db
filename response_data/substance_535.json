@@ -1,0 +1,13 @@
+{
+    "names": "2-Butoxy-5-methoxy-4-methylamphetamine",
+    "iupac_name": "1-(2-Butoxy-5-methoxy-4-methylphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 535,
+    "formular": "C15H25NO2",
+    "molecular_weight": 251.365,
+    "inChl": "1S/C15H25NO2/c1-5-6-7-18-15-8-11(2)14(17-4)10-13(15)9-12(3)16/h8,10,12H,5-7,9,16H2,1-4H3",
+    "InChl_Key": "MPJPVSLBYCXXFX-UHFFFAOYSA-N",
+    "SMILES": "CCCCOc1cc(C)c(OC)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=535",
+    "validation": "m_weight unsave, calculated(251.36999999999995)"
+}

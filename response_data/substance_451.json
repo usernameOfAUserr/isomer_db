@@ -1,0 +1,13 @@
+{
+    "names": "FEA",
+    "iupac_name": "2-(Furan-2-yl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 451,
+    "formular": "C6H9NO",
+    "molecular_weight": 111.142,
+    "inChl": "1S/C6H9NO/c7-4-3-6-2-1-5-8-6/h1-2,5H,3-4,7H2",
+    "InChl_Key": "ZQSLNSHMUQXSQJ-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ccco1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=451",
+    "validation": "m_weight unsave, calculated(111.14399999999996)"
+}

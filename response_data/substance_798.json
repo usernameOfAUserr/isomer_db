@@ -1,0 +1,13 @@
+{
+    "names": "1-(3-Methyl-1H-furo[2,3-g]indazol-1-yl)propan-2-amine",
+    "iupac_name": "798 ; C13H15N3O ; 229.278",
+    "category": "data not stored",
+    "index": 798,
+    "formular": "C13H15N3O",
+    "molecular_weight": 229.278,
+    "inChl": "1S/C13H15N3O/c1-8(14)7-16-13-10(9(2)15-16)3-4-12-11(13)5-6-17-12/h3-6,8H,7,14H2,1-2H3",
+    "InChl_Key": "GUIZQWHFWLOPRO-UHFFFAOYSA-N",
+    "SMILES": "Cc1nn(CC(C)N)c2c1ccc1occc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=798",
+    "validation": "m_weight unsave, calculated(229.283)"
+}

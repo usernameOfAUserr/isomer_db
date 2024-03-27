@@ -1,0 +1,13 @@
+{
+    "names": "\u03c8-DODFE ; 4-(2,2-Difluoroethyl)-2,6-dimethoxyamphetamine",
+    "iupac_name": "1-[4-(2,2-Difluoroethyl)-2,6-dimethoxyphenyl]propan-2-amine",
+    "category": "data not stored",
+    "index": 481,
+    "formular": "C13H19F2NO2",
+    "molecular_weight": 259.292,
+    "inChl": "1S/C13H19F2NO2/c1-8(16)4-10-11(17-2)5-9(7-13(14)15)6-12(10)18-3/h5-6,8,13H,4,7,16H2,1-3H3",
+    "InChl_Key": "QVTWZVXRAGWKCV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(F)F)cc(OC)c1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=481",
+    "validation": "m_weight unsave, calculated(259.296)"
+}

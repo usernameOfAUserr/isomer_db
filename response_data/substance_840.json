@@ -1,0 +1,13 @@
+{
+    "names": "6-Chloro-N-methyl-2,3,4,5-tetrahydro-1H-3-benzazepin-7-amine",
+    "iupac_name": "840 ; C11H15ClN2 ; 210.703",
+    "category": "data not stored",
+    "index": 840,
+    "formular": "C11H15ClN2",
+    "molecular_weight": 210.703,
+    "inChl": "1S/C11H15ClN2/c1-13-10-3-2-8-4-6-14-7-5-9(8)11(10)12/h2-3,13-14H,4-7H2,1H3",
+    "InChl_Key": "PNTVUHSRYAJNND-UHFFFAOYSA-N",
+    "SMILES": "CNc1ccc2c(c1Cl)CCNCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=840",
+    "validation": "m_weight unsave, calculated(210.70799999999994)"
+}

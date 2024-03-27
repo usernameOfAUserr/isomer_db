@@ -1,0 +1,13 @@
+{
+    "names": "2,6-Dibutoxy-4-propylamphetamine",
+    "iupac_name": "1-(2,6-Dibutoxy-4-propylphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 534,
+    "formular": "C20H35NO2",
+    "molecular_weight": 321.497,
+    "inChl": "1S/C20H35NO2/c1-5-8-11-22-19-14-17(10-7-3)15-20(23-12-9-6-2)18(19)13-16(4)21/h14-16H,5-13,21H2,1-4H3",
+    "InChl_Key": "BDTDSVIWBLUMDA-UHFFFAOYSA-N",
+    "SMILES": "CCCCOc1cc(CCC)cc(OCCCC)c1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=534",
+    "validation": "m_weight unsave, calculated(321.50500000000005)"
+}

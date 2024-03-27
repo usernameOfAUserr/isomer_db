@@ -1,0 +1,13 @@
+{
+    "names": "Tolibut",
+    "iupac_name": "4-Amino-3-(4-methylphenyl)butanoic acid",
+    "category": "data not stored",
+    "index": 640,
+    "formular": "C11H15NO2",
+    "molecular_weight": 193.242,
+    "inChl": "1S/C11H15NO2/c1-8-2-4-9(5-3-8)10(7-12)6-11(13)14/h2-5,10H,6-7,12H2,1H3,(H,13,14)",
+    "InChl_Key": "MSZRPURXKHMSFF-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(CN)CC(=O)O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=640",
+    "validation": "m_weight unsave, calculated(193.24599999999995)"
+}

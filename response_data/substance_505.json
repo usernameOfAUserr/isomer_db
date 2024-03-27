@@ -1,0 +1,13 @@
+{
+    "names": "HO-DOMAI",
+    "iupac_name": "2-Amino-4,7-dimethoxy-6-methyl-2,3-dihydro-1H-inden-1-ol",
+    "category": "data not stored",
+    "index": 505,
+    "formular": "C12H17NO3",
+    "molecular_weight": 223.268,
+    "inChl": "1S/C12H17NO3/c1-6-4-9(15-2)7-5-8(13)11(14)10(7)12(6)16-3/h4,8,11,14H,5,13H2,1-3H3",
+    "InChl_Key": "HXYNJXACCAOMCR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C)c(OC)c2c1CC(N)C2O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=505",
+    "validation": "m_weight unsave, calculated(223.272)"
+}

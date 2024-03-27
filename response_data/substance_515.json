@@ -1,0 +1,13 @@
+{
+    "names": "3-HO-CPDPA",
+    "iupac_name": "3-[2-(Dipropylamino)cyclopropyl]phenol",
+    "category": "data not stored",
+    "index": 515,
+    "formular": "C15H23NO",
+    "molecular_weight": 233.349,
+    "inChl": "1S/C15H23NO/c1-3-8-16(9-4-2)15-11-14(15)12-6-5-7-13(17)10-12/h5-7,10,14-15,17H,3-4,8-9,11H2,1-2H3",
+    "InChl_Key": "SGAIAYHFAITRSL-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C1CC1c1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=515",
+    "validation": "m_weight unsave, calculated(233.35499999999996)"
+}

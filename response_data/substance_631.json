@@ -1,0 +1,13 @@
+{
+    "names": "4-Me-MPH ; 4-Methylmethylphenidate",
+    "iupac_name": "Methyl (4-methylphenyl)(piperidin-2-yl)acetate",
+    "category": "data not stored",
+    "index": 631,
+    "formular": "C15H21NO2",
+    "molecular_weight": 247.333,
+    "inChl": "1S/C15H21NO2/c1-11-6-8-12(9-7-11)14(15(17)18-2)13-5-3-4-10-16-13/h6-9,13-14,16H,3-5,10H2,1-2H3",
+    "InChl_Key": "WJZNCJIOIACDBR-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(c1ccc(C)cc1)C1CCCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=631",
+    "validation": "m_weight unsave, calculated(247.33799999999997)"
+}

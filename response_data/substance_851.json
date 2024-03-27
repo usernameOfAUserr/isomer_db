@@ -1,0 +1,13 @@
+{
+    "names": "SKF-81297",
+    "iupac_name": "(1R)-6-Chloro-1-phenyl-2,3,4,5-tetrahydro-1H-3-benzazepine-7,8-diol",
+    "category": "data not stored",
+    "index": 851,
+    "formular": "C16H16ClNO2",
+    "molecular_weight": 289.757,
+    "inChl": "1S/C16H16ClNO2/c17-15-11-6-7-18-9-13(10-4-2-1-3-5-10)12(11)8-14(19)16(15)20/h1-5,8,13,18-20H,6-7,9H2/t13-/m1/s1",
+    "InChl_Key": "GHWJEDJMOVUXEC-CYBMUJFWSA-N",
+    "SMILES": "Oc1cc2c(c(Cl)c1O)CCNC[C@@H]2c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=851",
+    "validation": "m_weight unsave, calculated(289.762)"
+}

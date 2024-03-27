@@ -1,0 +1,13 @@
+{
+    "names": "2CJP",
+    "iupac_name": "4-(4-Bromo-2,5-dimethoxyphenyl)-2,3,4,5-tetrahydro-1H-2-benzazepine",
+    "category": "Phenetylamine",
+    "index": 547,
+    "formular": "C18H20BrNO2",
+    "molecular_weight": 362.261,
+    "inChl": "1S/C18H20BrNO2/c1-21-17-9-16(19)18(22-2)8-15(17)14-7-12-5-3-4-6-13(12)10-20-11-14/h3-6,8-9,14,20H,7,10-11H2,1-2H3",
+    "InChl_Key": "FQAXYSXGRJQKMV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2CNCc3ccccc3C2)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=547",
+    "validation": "m_weight unsave, calculated(362.2670000000001)"
+}

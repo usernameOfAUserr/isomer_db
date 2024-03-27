@@ -1,0 +1,13 @@
+{
+    "names": "6-Chloro-5-fluoro-iso-AMT ; 6-Chloro-5-fluoro-\u03b1-methyltryptamine ; Ro-60-0175",
+    "iupac_name": "(2S)-1-(6-Chloro-5-fluoro-1H-indol-1-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 787,
+    "formular": "C11H12ClFN2",
+    "molecular_weight": 226.678,
+    "inChl": "1S/C11H12ClFN2/c1-7(14)6-15-3-2-8-4-10(13)9(12)5-11(8)15/h2-5,7H,6,14H2,1H3/t7-/m0/s1",
+    "InChl_Key": "XJJZQXUGLLXTHO-ZETCQYMHSA-N",
+    "SMILES": "C[C@H](N)Cn1ccc2cc(F)c(Cl)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=787",
+    "validation": "m_weight unsave, calculated(226.68199999999996)"
+}

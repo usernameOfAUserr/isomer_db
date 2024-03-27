@@ -1,0 +1,13 @@
+{
+    "names": "AH-7921",
+    "iupac_name": "3,4-Dichloro-N-{[1-(dimethylamino)cyclohexyl]methyl}benzamide",
+    "category": "data not stored",
+    "index": 695,
+    "formular": "C16H22Cl2N2O",
+    "molecular_weight": 329.265,
+    "inChl": "1S/C16H22Cl2N2O/c1-20(2)16(8-4-3-5-9-16)11-19-15(21)12-6-7-13(17)14(18)10-12/h6-7,10H,3-5,8-9,11H2,1-2H3,(H,19,21)",
+    "InChl_Key": "JMZROFPPEXCTST-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1(CNC(=O)c2ccc(Cl)c(Cl)c2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=695",
+    "validation": "m_weight unsave, calculated(329.271)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-PhPe-2-MPEA ; 2-Methoxy-5-(5-phenylpentyl)phenethylamine",
+    "iupac_name": "2-[2-Methoxy-5-(5-phenylpentyl)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 492,
+    "formular": "C20H27NO",
+    "molecular_weight": 297.434,
+    "inChl": "1S/C20H27NO/c1-22-20-13-12-18(16-19(20)14-15-21)11-7-3-6-10-17-8-4-2-5-9-17/h2,4-5,8-9,12-13,16H,3,6-7,10-11,14-15,21H2,1H3",
+    "InChl_Key": "QEEQDUHSBFTCGN-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CCCCCc2ccccc2)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=492",
+    "validation": "m_weight unsave, calculated(297.44200000000006)"
+}

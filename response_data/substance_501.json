@@ -1,0 +1,13 @@
+{
+    "names": "N-Bu-N-Pr-ADTN",
+    "iupac_name": "6-[Butyl(propyl)amino]-5,6,7,8-tetrahydronaphthalene-2,3-diol",
+    "category": "data not stored",
+    "index": 501,
+    "formular": "C17H27NO2",
+    "molecular_weight": 277.402,
+    "inChl": "1S/C17H27NO2/c1-3-5-9-18(8-4-2)15-7-6-13-11-16(19)17(20)12-14(13)10-15/h11-12,15,19-20H,3-10H2,1-2H3",
+    "InChl_Key": "BMHRLSDJTCLSSN-UHFFFAOYSA-N",
+    "SMILES": "CCCCN(CCC)C1CCc2cc(O)c(O)cc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=501",
+    "validation": "m_weight unsave, calculated(277.408)"
+}

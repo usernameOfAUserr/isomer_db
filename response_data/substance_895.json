@@ -1,0 +1,13 @@
+{
+    "names": "2C-T-PFE ; 2,5-Dimethoxy-4-pentafluoroethylthiophenethylamine",
+    "iupac_name": "2-{2,5-Dimethoxy-4-[(pentafluoroethyl)sulfanyl]phenyl}ethan-1-amine",
+    "category": "data not stored",
+    "index": 895,
+    "formular": "C12H14F5NO2S",
+    "molecular_weight": 331.302,
+    "inChl": "1S/C12H14F5NO2S/c1-19-8-6-10(21-12(16,17)11(13,14)15)9(20-2)5-7(8)3-4-18/h5-6H,3-4,18H2,1-2H3",
+    "InChl_Key": "TXHXJMHAPYERJH-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SC(F)(F)C(F)(F)F)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=895",
+    "validation": "m_weight unsave, calculated(331.3059999999999)"
+}

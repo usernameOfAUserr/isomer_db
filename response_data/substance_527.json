@@ -1,0 +1,13 @@
+{
+    "names": "4-Methyl-2,6-dipropoxyamphetamine",
+    "iupac_name": "1-(4-Methyl-2,6-dipropoxyphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 527,
+    "formular": "C16H27NO2",
+    "molecular_weight": 265.391,
+    "inChl": "1S/C16H27NO2/c1-5-7-18-15-9-12(3)10-16(19-8-6-2)14(15)11-13(4)17/h9-10,13H,5-8,11,17H2,1-4H3",
+    "InChl_Key": "OYHUCFDLMKDBSX-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1cc(C)cc(OCCC)c1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=527",
+    "validation": "m_weight unsave, calculated(265.39699999999993)"
+}

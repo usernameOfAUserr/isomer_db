@@ -1,0 +1,13 @@
+{
+    "names": "25B-NPhPr ; 4-Bromo-2,5-dimethoxy-N-phenylpropylphenethylamine",
+    "iupac_name": "N-[2-(4-Bromo-2,5-dimethoxyphenyl)ethyl]-3-phenylpropan-1-amine",
+    "category": "data not stored",
+    "index": 394,
+    "formular": "C19H24BrNO2",
+    "molecular_weight": 378.303,
+    "inChl": "1S/C19H24BrNO2/c1-22-18-14-17(20)19(23-2)13-16(18)10-12-21-11-6-9-15-7-4-3-5-8-15/h3-5,7-8,13-14,21H,6,9-12H2,1-2H3",
+    "InChl_Key": "RRGFJAFLSZGXSW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCCCc2ccccc2)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=394",
+    "validation": "m_weight unsave, calculated(378.3100000000001)"
+}

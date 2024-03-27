@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl {[8-(2-aminopropyl)-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl]methoxy}acetate",
+    "iupac_name": "709 ; C18H25NO5 ; 335.395",
+    "category": "data not stored",
+    "index": 709,
+    "formular": "C18H25NO5",
+    "molecular_weight": 335.395,
+    "inChl": "1S/C18H25NO5/c1-3-22-16(20)10-21-9-15-13-5-7-23-17(13)14(8-11(2)19)12-4-6-24-18(12)15/h11H,3-10,19H2,1-2H3",
+    "InChl_Key": "VZZXWVXDZPBBME-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)COCc1c2c(c(CC(C)N)c3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=709",
+    "validation": "m_weight unsave, calculated(335.4000000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "M-NDEPA ; N-Diethylaminocarbonylethyl-3,4,5-trimethoxyamphetamine",
+    "iupac_name": "N,N-Diethyl-N3-[1-(3,4,5-trimethoxyphenyl)propan-2-yl]-\u03b2-alaninamide ; N,N-Diethyl-3-{[1-(3,4,5-trimethoxyphenyl)propan-2-yl]amino}propanamide",
+    "category": "data not stored",
+    "index": 881,
+    "formular": "C19H32N2O4",
+    "molecular_weight": 352.468,
+    "inChl": "1S/C19H32N2O4/c1-7-21(8-2)18(22)9-10-20-14(3)11-15-12-16(23-4)19(25-6)17(13-15)24-5/h12-14,20H,7-11H2,1-6H3",
+    "InChl_Key": "JNNOHBMZAHICGX-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)C(=O)CCNC(C)Cc1cc(OC)c(OC)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=881",
+    "validation": "m_weight unsave, calculated(352.47500000000014)"
+}

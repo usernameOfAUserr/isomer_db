@@ -1,0 +1,13 @@
+{
+    "names": "PCPr ; Phencyclamine",
+    "iupac_name": "1-Phenyl-N-propylcyclohexan-1-amine",
+    "category": "Arylcycloalkylamine",
+    "index": 952,
+    "formular": "C15H23N",
+    "molecular_weight": 217.35,
+    "inChl": "1S/C15H23N/c1-2-13-16-15(11-7-4-8-12-15)14-9-5-3-6-10-14/h3,5-6,9-10,16H,2,4,7-8,11-13H2,1H3",
+    "InChl_Key": "KHXNTQRMMGXPQW-UHFFFAOYSA-N",
+    "SMILES": "CCCNC1(c2ccccc2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=952",
+    "validation": "m_weight unsave, calculated(217.35600000000002)"
+}

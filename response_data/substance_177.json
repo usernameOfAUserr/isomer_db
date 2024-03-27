@@ -1,0 +1,13 @@
+{
+    "names": "4-TSB ; 4-Thiosymbescaline ; 3,5-Diethoxy-4-methylthiophenethylamine",
+    "iupac_name": "2-[3,5-Diethoxy-4-(methylsulfanyl)phenyl]ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 177,
+    "formular": "C13H21NO2S",
+    "molecular_weight": 255.376,
+    "inChl": "1S/C13H21NO2S/c1-4-15-11-8-10(6-7-14)9-12(16-5-2)13(11)17-3/h8-9H,4-7,14H2,1-3H3",
+    "InChl_Key": "OMJVPFLTCMALSV-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(CCN)cc(OCC)c1SC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=177",
+    "validation": "m_weight unsave, calculated(255.38299999999995)"
+}

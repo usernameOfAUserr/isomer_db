@@ -1,0 +1,13 @@
+{
+    "names": "2-(tert-Butylamino)-1-(3,4-difluorophenyl)propan-1-one",
+    "iupac_name": "772 ; C13H17F2NO ; 241.277",
+    "category": "data not stored",
+    "index": 772,
+    "formular": "C13H17F2NO",
+    "molecular_weight": 241.277,
+    "inChl": "1S/C13H17F2NO/c1-8(16-13(2,3)4)12(17)9-5-6-10(14)11(15)7-9/h5-8,16H,1-4H3",
+    "InChl_Key": "JRPWUGPYWRJACU-UHFFFAOYSA-N",
+    "SMILES": "CC(NC(C)(C)C)C(=O)c1ccc(F)c(F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=772",
+    "validation": "m_weight unsave, calculated(241.28099999999998)"
+}

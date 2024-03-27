@@ -1,0 +1,13 @@
+{
+    "names": "Speciociliatine",
+    "iupac_name": "Methyl (16E)-9-methoxy-16-(methoxymethylidene)-3\u03b2,20\u03b2-corynan-17-oate ; Methyl (2E)-2-[(2S,3S,12bR)-3-ethyl-8-methoxy-1,2,3,4,6,7,12,12b-octahydroindolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-enoate ; Methyl (3\u03b2,16E,20\u03b2)-9-methoxy-16-(methoxymethylidene)corynan-17-oate",
+    "category": "data not stored",
+    "index": 677,
+    "formular": "C23H30N2O4",
+    "molecular_weight": 398.495,
+    "inChl": "1S/C23H30N2O4/c1-5-14-12-25-10-9-15-21-18(7-6-8-20(21)28-3)24-22(15)19(25)11-16(14)17(13-27-2)23(26)29-4/h6-8,13-14,16,19,24H,5,9-12H2,1-4H3/b17-13+/t14-,16+,19-/m1/s1",
+    "InChl_Key": "LELBFTMXCIIKKX-MYLQJJOTSA-N",
+    "SMILES": "CC[C@@H]1CN2CCc3c([nH]c4cccc(OC)c34)[C@H]2C[C@@H]1/C(=C\\OC)C(=O)OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=677",
+    "validation": "m_weight unsave, calculated(398.50300000000016)"
+}

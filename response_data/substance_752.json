@@ -1,0 +1,13 @@
+{
+    "names": "1-[3-(2-Phenylethyl)-9,10-dihydroanthracen-9-yl]methanamine",
+    "iupac_name": "752 ; C23H23N ; 313.435",
+    "category": "data not stored",
+    "index": 752,
+    "formular": "C23H23N",
+    "molecular_weight": 313.435,
+    "inChl": "1S/C23H23N/c24-16-23-21-9-5-4-8-19(21)15-20-14-18(12-13-22(20)23)11-10-17-6-2-1-3-7-17/h1-9,12-14,23H,10-11,15-16,24H2",
+    "InChl_Key": "VUJIISJXPIXQHB-UHFFFAOYSA-N",
+    "SMILES": "NCC1c2ccccc2Cc2cc(CCc3ccccc3)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=752",
+    "validation": "m_weight unsave, calculated(313.44399999999996)"
+}

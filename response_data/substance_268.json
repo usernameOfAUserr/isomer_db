@@ -1,0 +1,13 @@
+{
+    "names": "3-MA ; 3-Methoxyamphetamine ; MMA ; 3-MeO-AMP",
+    "iupac_name": "1-(3-Methoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 268,
+    "formular": "C10H15NO",
+    "molecular_weight": 165.232,
+    "inChl": "1S/C10H15NO/c1-8(11)6-9-4-3-5-10(7-9)12-2/h3-5,7-8H,6,11H2,1-2H3",
+    "InChl_Key": "VEJWNIYARKAHFI-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(CC(C)N)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=268",
+    "validation": "m_weight unsave, calculated(165.236)"
+}

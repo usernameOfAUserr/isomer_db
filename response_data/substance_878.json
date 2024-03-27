@@ -1,0 +1,13 @@
+{
+    "names": "9-Chloro-7-(2-ethoxyphenyl)-2,3,4,5-tetrahydro-1H-[1,4]diazepino[1,7-a]indole",
+    "iupac_name": "878 ; C20H21ClN2O ; 340.847",
+    "category": "data not stored",
+    "index": 878,
+    "formular": "C20H21ClN2O",
+    "molecular_weight": 340.847,
+    "inChl": "1S/C20H21ClN2O/c1-2-24-19-6-4-3-5-17(19)18-13-15(21)11-14-12-16-7-8-22-9-10-23(16)20(14)18/h3-6,11-13,22H,2,7-10H2,1H3",
+    "InChl_Key": "IKEIMNUIPZGNAU-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccccc1-c1cc(Cl)cc2cc3n(c12)CCNCC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=878",
+    "validation": "m_weight unsave, calculated(340.85400000000016)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Aletamine ; Alfetamine",
+    "iupac_name": "1-Phenylpent-4-en-2-amine",
+    "category": "Phenetylamine",
+    "index": 733,
+    "formular": "C11H15N",
+    "molecular_weight": 161.244,
+    "inChl": "1S/C11H15N/c1-2-6-11(12)9-10-7-4-3-5-8-10/h2-5,7-8,11H,1,6,9,12H2",
+    "InChl_Key": "WQKXQJYCZMWOSD-UHFFFAOYSA-N",
+    "SMILES": "C=CCC(N)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=733",
+    "validation": "m_weight unsave, calculated(161.248)"
+}

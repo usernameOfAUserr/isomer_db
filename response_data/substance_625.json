@@ -1,0 +1,13 @@
+{
+    "names": "Benzydamine",
+    "iupac_name": "3-[(1-Benzyl-1H-indazol-3-yl)oxy]-N,N-dimethylpropan-1-amine",
+    "category": "data not stored",
+    "index": 625,
+    "formular": "C19H23N3O",
+    "molecular_weight": 309.405,
+    "inChl": "1S/C19H23N3O/c1-21(2)13-8-14-23-19-17-11-6-7-12-18(17)22(20-19)15-16-9-4-3-5-10-16/h3-7,9-12H,8,13-15H2,1-2H3",
+    "InChl_Key": "CNBGNNVCVSKAQZ-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCCOc1nn(Cc2ccccc2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=625",
+    "validation": "m_weight unsave, calculated(309.41300000000007)"
+}

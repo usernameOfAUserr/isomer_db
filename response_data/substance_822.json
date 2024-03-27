@@ -1,0 +1,13 @@
+{
+    "names": "3-[2-Methyl-4-(3-phenylpropyl)piperazin-1-yl]phenol",
+    "iupac_name": "822 ; C20H26N2O ; 310.433",
+    "category": "data not stored",
+    "index": 822,
+    "formular": "C20H26N2O",
+    "molecular_weight": 310.433,
+    "inChl": "1S/C20H26N2O/c1-17-16-21(12-6-9-18-7-3-2-4-8-18)13-14-22(17)19-10-5-11-20(23)15-19/h2-5,7-8,10-11,15,17,23H,6,9,12-14,16H2,1H3",
+    "InChl_Key": "KTVXOUHJOOZWFP-UHFFFAOYSA-N",
+    "SMILES": "CC1CN(CCCc2ccccc2)CCN1c1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=822",
+    "validation": "m_weight unsave, calculated(310.441)"
+}

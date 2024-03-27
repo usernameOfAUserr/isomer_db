@@ -1,0 +1,13 @@
+{
+    "names": "2-Desethyl-YM-348",
+    "iupac_name": "1-(1H-Furo[2,3-g]indazol-1-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 796,
+    "formular": "C12H13N3O",
+    "molecular_weight": 215.251,
+    "inChl": "1S/C12H13N3O/c1-8(13)7-15-12-9(6-14-15)2-3-11-10(12)4-5-16-11/h2-6,8H,7,13H2,1H3",
+    "InChl_Key": "XAEAYQWCVVRSFL-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cn1ncc2ccc3occc3c21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=796",
+    "validation": "m_weight unsave, calculated(215.256)"
+}

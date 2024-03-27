@@ -1,0 +1,13 @@
+{
+    "names": "3C-BZ ; 4-Benzyloxy-3,5-dimethoxyamphetamine",
+    "iupac_name": "1-[4-(Benzyloxy)-3,5-dimethoxyphenyl]propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 21,
+    "formular": "C18H23NO3",
+    "molecular_weight": 301.38,
+    "inChl": "1S/C18H23NO3/c1-13(19)9-15-10-16(20-2)18(17(11-15)21-3)22-12-14-7-5-4-6-8-14/h4-8,10-11,13H,9,12,19H2,1-3H3",
+    "InChl_Key": "IQKPLBJGFPDASR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)cc(OC)c1OCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=21",
+    "validation": "m_weight unsave, calculated(301.386)"
+}

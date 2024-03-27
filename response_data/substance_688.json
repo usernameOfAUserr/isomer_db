@@ -1,0 +1,13 @@
+{
+    "names": "RH-34",
+    "iupac_name": "3-(2-{[(2-Methoxyphenyl)methyl]amino}ethyl)quinazoline-2,4(1H,3H)-dione",
+    "category": "data not stored",
+    "index": 688,
+    "formular": "C18H19N3O3",
+    "molecular_weight": 325.362,
+    "inChl": "1S/C18H19N3O3/c1-24-16-9-5-2-6-13(16)12-19-10-11-21-17(22)14-7-3-4-8-15(14)20-18(21)23/h2-9,19H,10-12H2,1H3,(H,20,23)",
+    "InChl_Key": "NUAJBITWGGTZCM-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CNCCn1c(=O)[nH]c2ccccc2c1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=688",
+    "validation": "m_weight unsave, calculated(325.368)"
+}

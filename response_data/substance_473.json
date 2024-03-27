@@ -1,0 +1,13 @@
+{
+    "names": "DOTFE ; 4-(2,2,2-Trifluoroethyl)-2,5-dimethoxyamphetamine",
+    "iupac_name": "1-[2,5-Dimethoxy-4-(2,2,2-trifluoroethyl)phenyl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 473,
+    "formular": "C13H18F3NO2",
+    "molecular_weight": 277.283,
+    "inChl": "1S/C13H18F3NO2/c1-8(17)4-9-5-12(19-3)10(6-11(9)18-2)7-13(14,15)16/h5-6,8H,4,7,17H2,1-3H3",
+    "InChl_Key": "OZFGHDLWUVVAPY-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(F)(F)F)c(OC)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=473",
+    "validation": "m_weight unsave, calculated(277.286)"
+}

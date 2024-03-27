@@ -1,0 +1,13 @@
+{
+    "names": "MPDA ; MTDA ; 3-Methoxy-4,5-trimethylenedioxyamphetamine",
+    "iupac_name": "1-(9-Methoxy-3,4-dihydro-2H-1,5-benzodioxepin-7-yl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 286,
+    "formular": "C13H19NO3",
+    "molecular_weight": 237.295,
+    "inChl": "1S/C13H19NO3/c1-9(14)6-10-7-11(15-2)13-12(8-10)16-4-3-5-17-13/h7-9H,3-6,14H2,1-2H3",
+    "InChl_Key": "XCXNZPQOBJFUIH-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)cc2c1OCCCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=286",
+    "validation": "m_weight unsave, calculated(237.29899999999995)"
+}

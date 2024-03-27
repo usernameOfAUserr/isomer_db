@@ -1,0 +1,13 @@
+{
+    "names": "2C-T-8 ; 4-Cyclopropylmethylthio-2,5-dimethoxyphenethylamine ; 2,5-Dimethoxy-4-cyclopropylmethylthiophenethylamine",
+    "iupac_name": "2-{4-[(Cyclopropylmethyl)sulfanyl]-2,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 44,
+    "formular": "C14H21NO2S",
+    "molecular_weight": 267.387,
+    "inChl": "1S/C14H21NO2S/c1-16-12-8-14(18-9-10-3-4-10)13(17-2)7-11(12)5-6-15/h7-8,10H,3-6,9,15H2,1-2H3",
+    "InChl_Key": "AHMSSHCYIDBVQB-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SCC2CC2)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=44",
+    "validation": "m_weight unsave, calculated(267.394)"
+}

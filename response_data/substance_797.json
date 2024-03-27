@@ -1,0 +1,13 @@
+{
+    "names": "1-(1H-[1,3]Oxazolo[5,4-g]indazol-1-yl)propan-2-amine",
+    "iupac_name": "797 ; C11H12N4O ; 216.239",
+    "category": "data not stored",
+    "index": 797,
+    "formular": "C11H12N4O",
+    "molecular_weight": 216.239,
+    "inChl": "1S/C11H12N4O/c1-7(12)5-15-11-8(4-14-15)2-3-9-10(11)13-6-16-9/h2-4,6-7H,5,12H2,1H3",
+    "InChl_Key": "NPXCAJOWJHEUBE-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cn1ncc2ccc3ocnc3c21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=797",
+    "validation": "m_weight unsave, calculated(216.24399999999997)"
+}

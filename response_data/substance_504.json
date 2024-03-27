@@ -1,0 +1,13 @@
+{
+    "names": "3-(3,4,5-Trimethoxyphenyl)pyrrolidine",
+    "iupac_name": "504 ; C13H19NO3 ; 237.295",
+    "category": "data not stored",
+    "index": 504,
+    "formular": "C13H19NO3",
+    "molecular_weight": 237.295,
+    "inChl": "1S/C13H19NO3/c1-15-11-6-10(9-4-5-14-8-9)7-12(16-2)13(11)17-3/h6-7,9,14H,4-5,8H2,1-3H3",
+    "InChl_Key": "OCFDOAHVIHRKEV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2CCNC2)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=504",
+    "validation": "m_weight unsave, calculated(237.29899999999995)"
+}

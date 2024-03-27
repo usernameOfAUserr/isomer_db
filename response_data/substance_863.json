@@ -1,0 +1,13 @@
+{
+    "names": "PHA-57378",
+    "iupac_name": "1,2,8,9,10,11-Hexahydro-7H-azepino[4,5-b][1,4]oxazino[2,3,4-hi]indole",
+    "category": "data not stored",
+    "index": 863,
+    "formular": "C14H16N2O",
+    "molecular_weight": 228.29,
+    "inChl": "1S/C14H16N2O/c1-2-11-10-4-6-15-7-5-12(10)16-8-9-17-13(3-1)14(11)16/h1-3,15H,4-9H2",
+    "InChl_Key": "KMVAXNRPZRSLSY-UHFFFAOYSA-N",
+    "SMILES": "c1cc2c3c(c1)c1c(n3CCO2)CCNCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=863",
+    "validation": ""
+}

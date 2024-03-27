@@ -1,0 +1,13 @@
+{
+    "names": "DHBA ; 3,4-Dihydroxybenzylamine",
+    "iupac_name": "4-(Aminomethyl)benzene-1,2-diol",
+    "category": "Shulgin_Index",
+    "index": 909,
+    "formular": "C7H9NO2",
+    "molecular_weight": 139.152,
+    "inChl": "1S/C7H9NO2/c8-4-5-1-2-6(9)7(10)3-5/h1-3,9-10H,4,8H2",
+    "InChl_Key": "YFMPSMITLLBENU-UHFFFAOYSA-N",
+    "SMILES": "NCc1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=909",
+    "validation": "m_weight unsave, calculated(139.15399999999997)"
+}

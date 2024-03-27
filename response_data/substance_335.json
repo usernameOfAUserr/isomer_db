@@ -1,0 +1,13 @@
+{
+    "names": "4C-O-7 ; 4C-PrO ; 1-(2,5-Dimethoxyphenyl-4-propoxy)-2-aminobutane ; \u03b1-Ethyl-2,5-dimethoxy-4-propoxyphenethylamine",
+    "iupac_name": "1-(2,5-Dimethoxy-4-propoxyphenyl)butan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 335,
+    "formular": "C15H25NO3",
+    "molecular_weight": 267.364,
+    "inChl": "1S/C15H25NO3/c1-5-7-19-15-10-13(17-3)11(8-12(16)6-2)9-14(15)18-4/h9-10,12H,5-8,16H2,1-4H3",
+    "InChl_Key": "NMDBQRGHZUWCJF-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1cc(OC)c(CC(N)CC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=335",
+    "validation": "m_weight unsave, calculated(267.36899999999997)"
+}

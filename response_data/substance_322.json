@@ -1,0 +1,13 @@
+{
+    "names": "DOHE ; 4-Hexyl-2,5-dimethoxyamphetamine ; DOHx",
+    "iupac_name": "1-(4-Hexyl-2,5-dimethoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 322,
+    "formular": "C17H29NO2",
+    "molecular_weight": 279.418,
+    "inChl": "1S/C17H29NO2/c1-5-6-7-8-9-14-11-17(20-4)15(10-13(2)18)12-16(14)19-3/h11-13H,5-10,18H2,1-4H3",
+    "InChl_Key": "NICYQFWHLYLNFE-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCc1cc(OC)c(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=322",
+    "validation": "m_weight unsave, calculated(279.424)"
+}

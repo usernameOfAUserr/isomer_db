@@ -1,0 +1,13 @@
+{
+    "names": "4C-NH2 ; 4C-NH ; 1-(4-Amino-2,5-dimethoxyphenyl)-2-aminobutane ; 4-Amino-\u03b1-ethyl-2,5-dimethoxyphenethylamine",
+    "iupac_name": "4-(2-Aminobutyl)-2,5-dimethoxyaniline",
+    "category": "Shulgin_Index",
+    "index": 338,
+    "formular": "C12H20N2O2",
+    "molecular_weight": 224.299,
+    "inChl": "1S/C12H20N2O2/c1-4-9(13)5-8-6-12(16-3)10(14)7-11(8)15-2/h6-7,9H,4-5,13-14H2,1-3H3",
+    "InChl_Key": "RSHZRAACDMYHMP-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)Cc1cc(OC)c(N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=338",
+    "validation": "m_weight unsave, calculated(224.30399999999997)"
+}

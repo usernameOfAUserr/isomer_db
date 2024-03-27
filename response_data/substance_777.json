@@ -1,0 +1,13 @@
+{
+    "names": "2-(tert-Butylamino)-1-(3,5-dichlorophenyl)propan-1-one",
+    "iupac_name": "777 ; C13H17Cl2NO ; 274.186",
+    "category": "data not stored",
+    "index": 777,
+    "formular": "C13H17Cl2NO",
+    "molecular_weight": 274.186,
+    "inChl": "1S/C13H17Cl2NO/c1-8(16-13(2,3)4)12(17)9-5-10(14)7-11(15)6-9/h5-8,16H,1-4H3",
+    "InChl_Key": "ZKFFJBXJJFDBJM-UHFFFAOYSA-N",
+    "SMILES": "CC(NC(C)(C)C)C(=O)c1cc(Cl)cc(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=777",
+    "validation": "m_weight unsave, calculated(274.19100000000003)"
+}

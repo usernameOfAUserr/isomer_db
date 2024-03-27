@@ -1,0 +1,13 @@
+{
+    "names": "Ro-60-0213",
+    "iupac_name": "(2S)-1-(7-Methoxy-4,8b-dihydroindeno[1,2-b]pyrrol-1(3aH)-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 788,
+    "formular": "C15H20N2O",
+    "molecular_weight": 244.332,
+    "inChl": "1S/C15H20N2O/c1-10(16)9-17-6-5-12-7-11-3-4-13(18-2)8-14(11)15(12)17/h3-6,8,10,12,15H,7,9,16H2,1-2H3/t10-,12?,15?/m0/s1",
+    "InChl_Key": "ONGPQVQZGGXAHQ-VLRKGOCCSA-N",
+    "SMILES": "COc1ccc2c(c1)C1C(C=CN1C[C@H](C)N)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=788",
+    "validation": "m_weight unsave, calculated(244.33799999999997)"
+}

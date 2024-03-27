@@ -1,0 +1,13 @@
+{
+    "names": "5-(2,5-Dimethoxyphenyl)-2-(2-methoxyphenyl)pyridine",
+    "iupac_name": "940 ; C20H19NO3 ; 321.37",
+    "category": "data not stored",
+    "index": 940,
+    "formular": "C20H19NO3",
+    "molecular_weight": 321.37,
+    "inChl": "1S/C20H19NO3/c1-22-15-9-11-20(24-3)17(12-15)14-8-10-18(21-13-14)16-6-4-5-7-19(16)23-2/h4-13H,1-3H3",
+    "InChl_Key": "RTOCOLPXHQGZTA-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c(-c2ccc(-c3ccccc3OC)nc2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=940",
+    "validation": "m_weight unsave, calculated(321.37600000000015)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2,4-Cl-A ; 2,4-Dichloroamphetamine ; 2,4-DCA",
+    "iupac_name": "1-(2,4-Dichlorophenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 360,
+    "formular": "C9H11Cl2N",
+    "molecular_weight": 204.096,
+    "inChl": "1S/C9H11Cl2N/c1-6(12)4-7-2-3-8(10)5-9(7)11/h2-3,5-6H,4,12H2,1H3",
+    "InChl_Key": "WFXOKSCQUWGEEH-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(Cl)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=360",
+    "validation": "m_weight unsave, calculated(204.09999999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4\u2032-Methylaminorex ; p-Methylaminorex",
+    "iupac_name": "5-(4-Methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine",
+    "category": "data not stored",
+    "index": 563,
+    "formular": "C10H12N2O",
+    "molecular_weight": 176.215,
+    "inChl": "1S/C10H12N2O/c1-7-2-4-8(5-3-7)9-6-12-10(11)13-9/h2-5,9H,6H2,1H3,(H2,11,12)",
+    "InChl_Key": "ZEQYKJRCFOFECD-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C2CN=C(N)O2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=563",
+    "validation": "m_weight unsave, calculated(176.21899999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "ALPHA ; 1-Amino-1-(3,4-methylenedioxyphenyl)propane",
+    "iupac_name": "1-(2H-1,3-Benzodioxol-5-yl)propan-1-amine ; 1-(1,3-Benzodioxol-5-yl)propan-1-amine",
+    "category": "Phenetylamine",
+    "index": 270,
+    "formular": "C10H13NO2",
+    "molecular_weight": 179.216,
+    "inChl": "1S/C10H13NO2/c1-2-8(11)7-3-4-9-10(5-7)13-6-12-9/h3-5,8H,2,6,11H2,1H3",
+    "InChl_Key": "VEOUOCLRLNJOLJ-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=270",
+    "validation": "m_weight unsave, calculated(179.21899999999994)"
+}

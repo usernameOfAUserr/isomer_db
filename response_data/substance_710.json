@@ -1,0 +1,13 @@
+{
+    "names": "Methyl 8-(2-aminopropyl)-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-carboxylate",
+    "iupac_name": "710 ; C15H19NO4 ; 277.316",
+    "category": "data not stored",
+    "index": 710,
+    "formular": "C15H19NO4",
+    "molecular_weight": 277.316,
+    "inChl": "1S/C15H19NO4/c1-8(16)7-11-9-3-5-20-14(9)12(15(17)18-2)10-4-6-19-13(10)11/h8H,3-7,16H2,1-2H3",
+    "InChl_Key": "FUCOQRWJIPYTDX-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)c1c2c(c(CC(C)N)c3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=710",
+    "validation": "m_weight unsave, calculated(277.32)"
+}

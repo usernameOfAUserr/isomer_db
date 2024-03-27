@@ -1,0 +1,13 @@
+{
+    "names": "4-Br-2,5-DFA ; 4-Bromo-2,5-difluoroamphetamine ; BDFA",
+    "iupac_name": "1-(4-Bromo-2,5-difluorophenyl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 583,
+    "formular": "C9H10BrF2N",
+    "molecular_weight": 250.083,
+    "inChl": "1S/C9H10BrF2N/c1-5(13)2-6-3-9(12)7(10)4-8(6)11/h3-5H,2,13H2,1H3",
+    "InChl_Key": "TWIJKLXSGANTJL-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1cc(F)c(Br)cc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=583",
+    "validation": "m_weight unsave, calculated(250.08599999999996)"
+}

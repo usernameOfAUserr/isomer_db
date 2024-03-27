@@ -1,0 +1,13 @@
+{
+    "names": "Allylescaline-NBOMe ; 4-Allyloxy-3,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine ; AL-NBOMe",
+    "iupac_name": "2-{3,5-Dimethoxy-4-[(prop-2-en-1-yl)oxy]phenyl}-N-[(2-methoxyphenyl)methyl]ethan-1-amine ; 2-[3,5-Dimethoxy-4-(prop-2-en-1-yloxy)phenyl]-N-(2-methoxybenzyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 377,
+    "formular": "C21H27NO4",
+    "molecular_weight": 357.443,
+    "inChl": "1S/C21H27NO4/c1-5-12-26-21-19(24-3)13-16(14-20(21)25-4)10-11-22-15-17-8-6-7-9-18(17)23-2/h5-9,13-14,22H,1,10-12,15H2,2-4H3",
+    "InChl_Key": "DUOVXYXGIGXTRX-UHFFFAOYSA-N",
+    "SMILES": "C=CCOc1c(OC)cc(CCNCc2ccccc2OC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=377",
+    "validation": "m_weight unsave, calculated(357.45000000000005)"
+}

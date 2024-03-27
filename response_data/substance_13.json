@@ -1,0 +1,13 @@
+{
+    "names": "BOB ; 4-Bromo-2,5,\u03b2-trimethoxyphenethylamine ; \u03b2-Methoxy-2C-B",
+    "iupac_name": "2-(4-Bromo-2,5-dimethoxyphenyl)-2-methoxyethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 13,
+    "formular": "C11H16BrNO3",
+    "molecular_weight": 290.154,
+    "inChl": "1S/C11H16BrNO3/c1-14-9-5-8(12)10(15-2)4-7(9)11(6-13)16-3/h4-5,11H,6,13H2,1-3H3",
+    "InChl_Key": "FYTLQNZPDWLGNU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(CN)OC)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13",
+    "validation": "m_weight unsave, calculated(290.15700000000004)"
+}

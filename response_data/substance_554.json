@@ -1,0 +1,13 @@
+{
+    "names": "2C-B-5-hemiFLY-\u03b16 ; BNAP",
+    "iupac_name": "8-Bromo-6-methoxy-2a,3,4,5-tetrahydro-2H-naphtho[1,8-bc]furan-4-amine",
+    "category": "Phenetylamine",
+    "index": 554,
+    "formular": "C12H14BrNO2",
+    "molecular_weight": 284.149,
+    "inChl": "1S/C12H14BrNO2/c1-15-10-4-9(13)12-11-6(5-16-12)2-7(14)3-8(10)11/h4,6-7H,2-3,5,14H2,1H3",
+    "InChl_Key": "CLZKGXPLDDUCQZ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Br)c2c3c1CC(N)CC3CO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=554",
+    "validation": "m_weight unsave, calculated(284.153)"
+}

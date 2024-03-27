@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-T-NB4NH2 ; N-(4-Aminobenzyl)-5-methoxytryptamine",
+    "iupac_name": "4-({[2-(5-Methoxy-1H-indol-3-yl)ethyl]amino}methyl)aniline",
+    "category": "Tryptamine",
+    "index": 435,
+    "formular": "C18H21N3O",
+    "molecular_weight": 295.379,
+    "inChl": "1S/C18H21N3O/c1-22-16-6-7-18-17(10-16)14(12-21-18)8-9-20-11-13-2-4-15(19)5-3-13/h2-7,10,12,20-21H,8-9,11,19H2,1H3",
+    "InChl_Key": "IFVUNWPYBPIEIO-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCNCc3ccc(N)cc3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=435",
+    "validation": "m_weight unsave, calculated(295.38599999999997)"
+}

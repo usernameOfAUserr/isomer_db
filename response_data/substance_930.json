@@ -1,0 +1,13 @@
+{
+    "names": "Isopropylbenzylamine ; N-Isopropylbenzylamine",
+    "iupac_name": "N-Benzylpropan-2-amine",
+    "category": "data not stored",
+    "index": 930,
+    "formular": "C10H15N",
+    "molecular_weight": 149.233,
+    "inChl": "1S/C10H15N/c1-9(2)11-8-10-6-4-3-5-7-10/h3-7,9,11H,8H2,1-2H3",
+    "InChl_Key": "LYBKPDDZTNUNNM-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=930",
+    "validation": "m_weight unsave, calculated(149.23699999999997)"
+}

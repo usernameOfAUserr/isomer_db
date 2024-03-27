@@ -1,0 +1,13 @@
+{
+    "names": "2,3-DMP2P",
+    "iupac_name": "1-(2,3-Dimethoxyphenyl)propan-2-one",
+    "category": "Phenetylamine",
+    "index": 543,
+    "formular": "C11H14O3",
+    "molecular_weight": 194.227,
+    "inChl": "1S/C11H14O3/c1-8(12)7-9-5-4-6-10(13-2)11(9)14-3/h4-6H,7H2,1-3H3",
+    "InChl_Key": "SYYURZPSSGNDQQ-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(CC(C)=O)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=543",
+    "validation": "m_weight unsave, calculated(194.22999999999993)"
+}

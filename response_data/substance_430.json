@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-T-NB4F ; N-(4-Fluorobenzyl)-5-methoxytryptamine",
+    "iupac_name": "N-[(4-Fluorophenyl)methyl]-2-(5-methoxy-1H-indol-3-yl)ethan-1-amine ; N-(4-Fluorobenzyl)-2-(5-methoxy-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 430,
+    "formular": "C18H19FN2O",
+    "molecular_weight": 298.355,
+    "inChl": "1S/C18H19FN2O/c1-22-16-6-7-18-17(10-16)14(12-21-18)8-9-20-11-13-2-4-15(19)5-3-13/h2-7,10,12,20-21H,8-9,11H2,1H3",
+    "InChl_Key": "VLTHPWFQXNRMNW-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCNCc3ccc(F)cc3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=430",
+    "validation": "m_weight unsave, calculated(298.361)"
+}

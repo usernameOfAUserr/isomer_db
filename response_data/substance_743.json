@@ -1,0 +1,13 @@
+{
+    "names": "1-(2H-1,3-Benzodioxol-5-yl)-2-(hexylamino)propan-1-one ; 1-(1,3-Benzodioxol-5-yl)-2-(hexylamino)propan-1-one",
+    "iupac_name": "743 ; C16H23NO3 ; 277.359",
+    "category": "data not stored",
+    "index": 743,
+    "formular": "C16H23NO3",
+    "molecular_weight": 277.359,
+    "inChl": "1S/C16H23NO3/c1-3-4-5-6-9-17-12(2)16(18)13-7-8-14-15(10-13)20-11-19-14/h7-8,10,12,17H,3-6,9,11H2,1-2H3",
+    "InChl_Key": "WGRJZYUGLPLXFQ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCNC(C)C(=O)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=743",
+    "validation": "m_weight unsave, calculated(277.36400000000003)"
+}

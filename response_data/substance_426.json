@@ -1,0 +1,13 @@
+{
+    "names": "25B-NPhBu ; N-(4-Phenylbutyl)-4-bromo-2,5-dimethoxyphenethylamine",
+    "iupac_name": "N-[2-(4-Bromo-2,5-dimethoxyphenyl)ethyl]-4-phenylbutan-1-amine",
+    "category": "data not stored",
+    "index": 426,
+    "formular": "C20H26BrNO2",
+    "molecular_weight": 392.33,
+    "inChl": "1S/C20H26BrNO2/c1-23-19-15-18(21)20(24-2)14-17(19)11-13-22-12-7-6-10-16-8-4-3-5-9-16/h3-5,8-9,14-15,22H,6-7,10-13H2,1-2H3",
+    "InChl_Key": "OCEJXUHFWIUKKV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCCCCc2ccccc2)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=426",
+    "validation": "m_weight unsave, calculated(392.33700000000016)"
+}

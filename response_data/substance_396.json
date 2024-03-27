@@ -1,0 +1,13 @@
+{
+    "names": "pip-2C-B",
+    "iupac_name": "1-[2-(4-Bromo-2,5-dimethoxyphenyl)ethyl]piperidine",
+    "category": "Shulgin_Index",
+    "index": 396,
+    "formular": "C15H22BrNO2",
+    "molecular_weight": 328.245,
+    "inChl": "1S/C15H22BrNO2/c1-18-14-11-13(16)15(19-2)10-12(14)6-9-17-7-4-3-5-8-17/h10-11H,3-9H2,1-2H3",
+    "InChl_Key": "HCAIUSZHAJZMDI-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN2CCCCC2)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=396",
+    "validation": "m_weight unsave, calculated(328.2500000000001)"
+}

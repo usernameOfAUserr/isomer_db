@@ -1,0 +1,13 @@
+{
+    "names": "B-FLY-NBOMe ; DOB-FLY-NBOMe",
+    "iupac_name": "1-(8-Bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl)-N-[(2-methoxyphenyl)methyl]propan-2-amine ; 1-(8-Bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl)-N-(2-methoxybenzyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 379,
+    "formular": "C21H24BrNO3",
+    "molecular_weight": 418.324,
+    "inChl": "1S/C21H24BrNO3/c1-13(23-12-14-5-3-4-6-18(14)24-2)11-17-15-7-9-26-21(15)19(22)16-8-10-25-20(16)17/h3-6,13,23H,7-12H2,1-2H3",
+    "InChl_Key": "XLBGWQRBUBQKGW-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CNC(C)Cc1c2c(c(Br)c3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=379",
+    "validation": "m_weight unsave, calculated(418.3310000000001)"
+}

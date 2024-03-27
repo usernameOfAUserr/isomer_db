@@ -1,0 +1,13 @@
+{
+    "names": "N-Me-2C-B ; 2C-B-M ; 4-Bromo-2,5-dimethoxy-N-methylphenethylamine",
+    "iupac_name": "2-(4-Bromo-2,5-dimethoxyphenyl)-N-methylethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 391,
+    "formular": "C11H16BrNO2",
+    "molecular_weight": 274.154,
+    "inChl": "1S/C11H16BrNO2/c1-13-5-4-8-6-11(15-3)9(12)7-10(8)14-2/h6-7,13H,4-5H2,1-3H3",
+    "InChl_Key": "ZRTYZUYYGULHEW-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1cc(OC)c(Br)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=391",
+    "validation": "m_weight unsave, calculated(274.15799999999996)"
+}

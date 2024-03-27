@@ -1,0 +1,13 @@
+{
+    "names": "Metadifluoromescaline ; MDFM",
+    "iupac_name": "2-[3-(Difluoromethoxy)-4,5-dimethoxyphenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 484,
+    "formular": "C11H15F2NO3",
+    "molecular_weight": 247.239,
+    "inChl": "1S/C11H15F2NO3/c1-15-8-5-7(3-4-14)6-9(10(8)16-2)17-11(12)13/h5-6,11H,3-4,14H2,1-2H3",
+    "InChl_Key": "MGKIHHYUCREKFM-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(OC(F)F)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=484",
+    "validation": "m_weight unsave, calculated(247.24099999999993)"
+}

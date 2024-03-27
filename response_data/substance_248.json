@@ -1,0 +1,13 @@
+{
+    "names": "DOI-NB ; N-Benzyl-4-iodo-2,5-dimethoxyamphetamine",
+    "iupac_name": "N-Benzyl-1-(4-iodo-2,5-dimethoxyphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 248,
+    "formular": "C18H22INO2",
+    "molecular_weight": 411.277,
+    "inChl": "1S/C18H22INO2/c1-13(20-12-14-7-5-4-6-8-14)9-15-10-18(22-3)16(19)11-17(15)21-2/h4-8,10-11,13,20H,9,12H2,1-3H3",
+    "InChl_Key": "HHZGSRWUNZMEDM-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)NCc2ccccc2)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=248",
+    "validation": "m_weight unsave, calculated(411.28300000000013)"
+}

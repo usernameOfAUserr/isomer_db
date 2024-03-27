@@ -1,0 +1,13 @@
+{
+    "names": "Coryphanthine ; N,N,N-Trimethyl-\u03b2-methoxyphenethylamine+",
+    "iupac_name": "2-Methoxy-N,N,N-trimethyl-2-phenylethan-1-aminium ; 2-Methoxy-N,N,N-trimethyl-2-phenylethanaminium",
+    "category": "data not stored",
+    "index": 524,
+    "formular": "C12H20NO",
+    "molecular_weight": 194.293,
+    "inChl": "1S/C12H20NO/c1-13(2,3)10-12(14-4)11-8-6-5-7-9-11/h5-9,12H,10H2,1-4H3/q+1",
+    "InChl_Key": "GQINVYXEQWNVSG-UHFFFAOYSA-N",
+    "SMILES": "COC(C[N+](C)(C)C)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=524",
+    "validation": "m_weight unsave, calculated(194.29799999999994)formular unsave, calculated(C12H20NO+)"
+}

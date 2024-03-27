@@ -1,0 +1,13 @@
+{
+    "names": "2C-5-TOET ; 4-Ethyl-2-methoxy-5-methylthiophenethylamine",
+    "iupac_name": "2-[4-Ethyl-2-methoxy-5-(methylsulfanyl)phenyl]ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 309,
+    "formular": "C12H19NOS",
+    "molecular_weight": 225.35,
+    "inChl": "1S/C12H19NOS/c1-4-9-7-11(14-2)10(5-6-13)8-12(9)15-3/h7-8H,4-6,13H2,1-3H3",
+    "InChl_Key": "NMFLGCDBOWGERA-UHFFFAOYSA-N",
+    "SMILES": "CCc1cc(OC)c(CCN)cc1SC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=309",
+    "validation": "m_weight unsave, calculated(225.35699999999994)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Radafaxine ; GW-353,162",
+    "iupac_name": "2-(3-Chlorophenyl)-3,5,5-trimethylmorpholin-2-ol",
+    "category": "data not stored",
+    "index": 648,
+    "formular": "C13H18ClNO2",
+    "molecular_weight": 255.741,
+    "inChl": "1S/C13H18ClNO2/c1-9-13(16,17-8-12(2,3)15-9)10-5-4-6-11(14)7-10/h4-7,9,15-16H,8H2,1-3H3",
+    "InChl_Key": "RCOBKSKAZMVBHT-UHFFFAOYSA-N",
+    "SMILES": "CC1NC(C)(C)COC1(O)c1cccc(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=648",
+    "validation": "m_weight unsave, calculated(255.74499999999998)"
+}

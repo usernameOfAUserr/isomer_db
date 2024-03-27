@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2k-MPA ; Thiothinone ; bk-MPA",
+    "iupac_name": "2-(Methylamino)-1-(thiophen-2-yl)propan-1-one",
+    "category": "data not stored",
+    "index": 652,
+    "formular": "C8H11NOS",
+    "molecular_weight": 169.244,
+    "inChl": "1S/C8H11NOS/c1-6(9-2)8(10)7-4-3-5-11-7/h3-6,9H,1-2H3",
+    "InChl_Key": "DOZQPYDMJMLVKX-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(=O)c1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=652",
+    "validation": "m_weight unsave, calculated(169.24899999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-Chloro-5-(2,5-dimethoxyphenyl)pyridine",
+    "iupac_name": "939 ; C13H12ClNO2 ; 249.693",
+    "category": "data not stored",
+    "index": 939,
+    "formular": "C13H12ClNO2",
+    "molecular_weight": 249.693,
+    "inChl": "1S/C13H12ClNO2/c1-16-10-4-5-12(17-2)11(7-10)9-3-6-13(14)15-8-9/h3-8H,1-2H3",
+    "InChl_Key": "OPJIELBHYSWINZ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c(-c2ccc(Cl)nc2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=939",
+    "validation": "m_weight unsave, calculated(249.697)"
+}

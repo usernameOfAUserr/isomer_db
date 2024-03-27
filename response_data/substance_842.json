@@ -1,0 +1,13 @@
+{
+    "names": "7,8,9,10-Tetrahydro-6H-furo[3,2-g][3]benzazepine",
+    "iupac_name": "842 ; C12H13NO ; 187.238",
+    "category": "data not stored",
+    "index": 842,
+    "formular": "C12H13NO",
+    "molecular_weight": 187.238,
+    "inChl": "1S/C12H13NO/c1-2-12-11(5-8-14-12)10-4-7-13-6-3-9(1)10/h1-2,5,8,13H,3-4,6-7H2",
+    "InChl_Key": "BGHAWUGGSCZWBN-UHFFFAOYSA-N",
+    "SMILES": "c1cc2c3c(ccc2o1)CCNCC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=842",
+    "validation": "m_weight unsave, calculated(187.242)"
+}

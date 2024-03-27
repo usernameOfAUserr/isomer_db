@@ -1,0 +1,13 @@
+{
+    "names": "3,4-CTEP ; 3,4-Dichloroethylphenidate ; 3,4-DCEP",
+    "iupac_name": "Ethyl (3,4-dichlorophenyl)(piperidin-2-yl)acetate",
+    "category": "data not stored",
+    "index": 672,
+    "formular": "C15H19Cl2NO2",
+    "molecular_weight": 316.223,
+    "inChl": "1S/C15H19Cl2NO2/c1-2-20-15(19)14(13-5-3-4-8-18-13)10-6-7-11(16)12(17)9-10/h6-7,9,13-14,18H,2-5,8H2,1H3",
+    "InChl_Key": "OATRRNIJLSHKTH-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C(c1ccc(Cl)c(Cl)c1)C1CCCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=672",
+    "validation": "m_weight unsave, calculated(316.2280000000001)"
+}

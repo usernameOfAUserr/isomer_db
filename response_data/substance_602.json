@@ -1,0 +1,13 @@
+{
+    "names": "homo-\u03b2,N-MePEA",
+    "iupac_name": "N,2-Dimethyl-3-phenylpropan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 602,
+    "formular": "C11H17N",
+    "molecular_weight": 163.259,
+    "inChl": "1S/C11H17N/c1-10(9-12-2)8-11-6-4-3-5-7-11/h3-7,10,12H,8-9H2,1-2H3",
+    "InChl_Key": "QAWKZRYBSNVOAF-UHFFFAOYSA-N",
+    "SMILES": "CNCC(C)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=602",
+    "validation": "m_weight unsave, calculated(163.26399999999998)"
+}

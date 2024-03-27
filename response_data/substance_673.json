@@ -1,0 +1,13 @@
+{
+    "names": "N-Benzyl-ethylphenidate",
+    "iupac_name": "Ethyl (1-benzylpiperidin-2-yl)(phenyl)acetate",
+    "category": "data not stored",
+    "index": 673,
+    "formular": "C22H27NO2",
+    "molecular_weight": 337.455,
+    "inChl": "1S/C22H27NO2/c1-2-25-22(24)21(19-13-7-4-8-14-19)20-15-9-10-16-23(20)17-18-11-5-3-6-12-18/h3-8,11-14,20-21H,2,9-10,15-17H2,1H3",
+    "InChl_Key": "NDYWQDKNZNLJPX-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C(c1ccccc1)C1CCCCN1Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=673",
+    "validation": "m_weight unsave, calculated(337.463)"
+}

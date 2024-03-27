@@ -1,0 +1,13 @@
+{
+    "names": "4-Cl-PEA ; 4-Chlorophenethylamine",
+    "iupac_name": "2-(4-Chlorophenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 306,
+    "formular": "C8H10ClN",
+    "molecular_weight": 155.625,
+    "inChl": "1S/C8H10ClN/c9-8-3-1-7(2-4-8)5-6-10/h1-4H,5-6,10H2",
+    "InChl_Key": "SRXFXCKTIGELTI-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=306",
+    "validation": "m_weight unsave, calculated(155.62799999999996)"
+}

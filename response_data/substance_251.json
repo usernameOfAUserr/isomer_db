@@ -1,0 +1,13 @@
+{
+    "names": "2,5-INCPMA ; N-Cyclopropylmethyl-4-iodo-2,5-dimethoxyamphetamine",
+    "iupac_name": "N-(Cyclopropylmethyl)-1-(4-iodo-2,5-dimethoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 251,
+    "formular": "C15H22INO2",
+    "molecular_weight": 375.245,
+    "inChl": "1S/C15H22INO2/c1-10(17-9-11-4-5-11)6-12-7-15(19-3)13(16)8-14(12)18-2/h7-8,10-11,17H,4-6,9H2,1-3H3",
+    "InChl_Key": "DGTQYSIECYTXFX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)NCC2CC2)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=251",
+    "validation": "m_weight unsave, calculated(375.25000000000017)"
+}

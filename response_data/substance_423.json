@@ -1,0 +1,13 @@
+{
+    "names": "25B-NB4NH2 ; N-(4-Aminobenzyl)-4-bromo-2,5-dimethoxyphenethylamine ; 25B-NBpNH2",
+    "iupac_name": "4-({[2-(4-Bromo-2,5-dimethoxyphenyl)ethyl]amino}methyl)aniline",
+    "category": "data not stored",
+    "index": 423,
+    "formular": "C17H21BrN2O2",
+    "molecular_weight": 365.265,
+    "inChl": "1S/C17H21BrN2O2/c1-21-16-10-15(18)17(22-2)9-13(16)7-8-20-11-12-3-5-14(19)6-4-12/h3-6,9-10,20H,7-8,11,19H2,1-2H3",
+    "InChl_Key": "APPULWQRPHJFSV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2ccc(N)cc2)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=423",
+    "validation": "m_weight unsave, calculated(365.2710000000001)"
+}

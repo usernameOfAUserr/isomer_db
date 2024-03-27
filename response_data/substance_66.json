@@ -1,0 +1,13 @@
+{
+    "names": "DOET ; 4-Ethyl-2,5-dimethoxyamphetamine ; DOE ; 2,5-Dimethoxy-4-ethylamphetamine ; HECATE",
+    "iupac_name": "1-(4-Ethyl-2,5-dimethoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 66,
+    "formular": "C13H21NO2",
+    "molecular_weight": 223.311,
+    "inChl": "1S/C13H21NO2/c1-5-10-7-13(16-4)11(6-9(2)14)8-12(10)15-3/h7-9H,5-6,14H2,1-4H3",
+    "InChl_Key": "HXJKWPGVENNMCC-UHFFFAOYSA-N",
+    "SMILES": "CCc1cc(OC)c(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=66",
+    "validation": "m_weight unsave, calculated(223.31599999999997)"
+}

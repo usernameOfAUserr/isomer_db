@@ -1,0 +1,13 @@
+{
+    "names": "MPH ; Methylphenidate ; Dexmethylphenidate (R,R) stereoisomer",
+    "iupac_name": "Methyl phenyl(piperidin-2-yl)acetate",
+    "category": "Phenetylamine",
+    "index": 565,
+    "formular": "C14H19NO2",
+    "molecular_weight": 233.306,
+    "inChl": "1S/C14H19NO2/c1-17-14(16)13(11-7-3-2-4-8-11)12-9-5-6-10-15-12/h2-4,7-8,12-13,15H,5-6,9-10H2,1H3",
+    "InChl_Key": "DUGOZIWVEXMGBE-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(c1ccccc1)C1CCCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=565",
+    "validation": "m_weight unsave, calculated(233.31099999999995)"
+}

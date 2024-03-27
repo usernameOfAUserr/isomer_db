@@ -1,0 +1,13 @@
+{
+    "names": "4,5-Benzo-AMT ; 4,5-Benzo-\u03b1-methyltryptamine",
+    "iupac_name": "1-(3H-Benzo[e]indol-1-yl)propan-2-amine",
+    "category": "Tryptamine",
+    "index": 679,
+    "formular": "C15H16N2",
+    "molecular_weight": 224.301,
+    "inChl": "1S/C15H16N2/c1-10(16)8-12-9-17-14-7-6-11-4-2-3-5-13(11)15(12)14/h2-7,9-10,17H,8,16H2,1H3",
+    "InChl_Key": "DARASKZDQXPLRX-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c[nH]c2ccc3ccccc3c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=679",
+    "validation": "m_weight unsave, calculated(224.30700000000002)"
+}

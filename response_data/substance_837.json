@@ -1,0 +1,13 @@
+{
+    "names": "6-Chloro-2,3,4,5-tetrahydro-1H-3-benzazepine-7-carbonitrile",
+    "iupac_name": "837 ; C11H11ClN2 ; 206.671",
+    "category": "data not stored",
+    "index": 837,
+    "formular": "C11H11ClN2",
+    "molecular_weight": 206.671,
+    "inChl": "1S/C11H11ClN2/c12-11-9(7-13)2-1-8-3-5-14-6-4-10(8)11/h1-2,14H,3-6H2",
+    "InChl_Key": "NTEHDSZFCGIGOK-UHFFFAOYSA-N",
+    "SMILES": "N#Cc1ccc2c(c1Cl)CCNCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=837",
+    "validation": "m_weight unsave, calculated(206.67599999999996)"
+}

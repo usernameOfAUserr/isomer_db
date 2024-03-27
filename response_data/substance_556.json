@@ -1,0 +1,13 @@
+{
+    "names": "diPrNAP",
+    "iupac_name": "6-Methoxy-N,N-dipropyl-2a,3,4,5-tetrahydro-2H-naphtho[1,8-bc]furan-4-amine",
+    "category": "Phenetylamine",
+    "index": 556,
+    "formular": "C18H27NO2",
+    "molecular_weight": 289.412,
+    "inChl": "1S/C18H27NO2/c1-4-8-19(9-5-2)14-10-13-12-21-17-7-6-16(20-3)15(11-14)18(13)17/h6-7,13-14H,4-5,8-12H2,1-3H3",
+    "InChl_Key": "WBUWEGQYMKGXAI-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C1Cc2c(OC)ccc3c2C(CO3)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=556",
+    "validation": "m_weight unsave, calculated(289.41900000000004)"
+}

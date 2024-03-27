@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl-\u03c8-DOM-IDFLY",
+    "iupac_name": "N-Methyl-1-(4-methylbenzo[1,2-b:5,4-b\u2032]difuran-8-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 572,
+    "formular": "C15H17NO2",
+    "molecular_weight": 243.301,
+    "inChl": "1S/C15H17NO2/c1-9(16-3)8-13-14-11(4-6-17-14)10(2)12-5-7-18-15(12)13/h4-7,9,16H,8H2,1-3H3",
+    "InChl_Key": "WVQNMGGFWKUVIO-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1c2occc2c(C)c2ccoc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=572",
+    "validation": "m_weight unsave, calculated(243.30599999999995)"
+}

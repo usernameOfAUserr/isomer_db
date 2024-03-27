@@ -1,0 +1,13 @@
+{
+    "names": "PC4MP ; 4\u2033-Me-PCP",
+    "iupac_name": "4-Methyl-1-(1-phenylcyclohexyl)piperidine",
+    "category": "Arylcycloalkylamine",
+    "index": 961,
+    "formular": "C18H27N",
+    "molecular_weight": 257.414,
+    "inChl": "1S/C18H27N/c1-16-10-14-19(15-11-16)18(12-6-3-7-13-18)17-8-4-2-5-9-17/h2,4-5,8-9,16H,3,6-7,10-15H2,1H3",
+    "InChl_Key": "AJUVHIRWTCUZLT-UHFFFAOYSA-N",
+    "SMILES": "CC1CCN(C2(c3ccccc3)CCCCC2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=961",
+    "validation": "m_weight unsave, calculated(257.42099999999994)"
+}

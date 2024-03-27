@@ -1,0 +1,13 @@
+{
+    "names": "Benzoylfentanyl ; Phenylfentanyl",
+    "iupac_name": "N-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]benzamide",
+    "category": "Fentanyl",
+    "index": 818,
+    "formular": "C26H28N2O",
+    "molecular_weight": 384.513,
+    "inChl": "1S/C26H28N2O/c29-26(23-12-6-2-7-13-23)28(24-14-8-3-9-15-24)25-17-20-27(21-18-25)19-16-22-10-4-1-5-11-22/h1-15,25H,16-21H2",
+    "InChl_Key": "BJPDWVPQDSVQKD-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccccc1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=818",
+    "validation": "m_weight unsave, calculated(384.52299999999997)"
+}

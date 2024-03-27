@@ -1,0 +1,13 @@
+{
+    "names": "3,6-Cl-2-MPEA ; 3,6-Dichloro-2-methoxyphenethylamine",
+    "iupac_name": "2-(3,6-Dichloro-2-methoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 784,
+    "formular": "C9H11Cl2NO",
+    "molecular_weight": 220.096,
+    "inChl": "1S/C9H11Cl2NO/c1-13-9-6(4-5-12)7(10)2-3-8(9)11/h2-3H,4-5,12H2,1H3",
+    "InChl_Key": "SDLDLOSTOYNNHN-UHFFFAOYSA-N",
+    "SMILES": "COc1c(Cl)ccc(Cl)c1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=784",
+    "validation": "m_weight unsave, calculated(220.099)"
+}

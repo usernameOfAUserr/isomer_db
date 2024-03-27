@@ -1,0 +1,13 @@
+{
+    "names": "3-[8-(2-Aminopropyl)-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl]propanoic acid",
+    "iupac_name": "713 ; C16H21NO4 ; 291.342",
+    "category": "data not stored",
+    "index": 713,
+    "formular": "C16H21NO4",
+    "molecular_weight": 291.342,
+    "inChl": "1S/C16H21NO4/c1-9(17)8-13-12-5-7-20-15(12)10(2-3-14(18)19)11-4-6-21-16(11)13/h9H,2-8,17H2,1H3,(H,18,19)",
+    "InChl_Key": "TZUQOPZXSVCNQP-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c2c(c(CCC(=O)O)c3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=713",
+    "validation": "m_weight unsave, calculated(291.347)"
+}

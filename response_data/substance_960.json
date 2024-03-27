@@ -1,0 +1,13 @@
+{
+    "names": "BnCP",
+    "iupac_name": "1-(1-Benzylcyclohexyl)piperidine",
+    "category": "data not stored",
+    "index": 960,
+    "formular": "C18H27N",
+    "molecular_weight": 257.414,
+    "inChl": "1S/C18H27N/c1-4-10-17(11-5-1)16-18(12-6-2-7-13-18)19-14-8-3-9-15-19/h1,4-5,10-11H,2-3,6-9,12-16H2",
+    "InChl_Key": "XYIUBCYNWDTIAX-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(CC2(N3CCCCC3)CCCCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=960",
+    "validation": "m_weight unsave, calculated(257.421)"
+}

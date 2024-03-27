@@ -1,0 +1,13 @@
+{
+    "names": "EEE ; 2,4,5-Triethoxyamphetamine",
+    "iupac_name": "1-(2,4,5-Triethoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 73,
+    "formular": "C15H25NO3",
+    "molecular_weight": 267.364,
+    "inChl": "1S/C15H25NO3/c1-5-17-13-10-15(19-7-3)14(18-6-2)9-12(13)8-11(4)16/h9-11H,5-8,16H2,1-4H3",
+    "InChl_Key": "PVOHHXSVHWUAMS-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(OCC)c(OCC)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=73",
+    "validation": "m_weight unsave, calculated(267.36899999999997)"
+}

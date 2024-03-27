@@ -1,0 +1,13 @@
+{
+    "names": "D2PM ; Diphenylprolinol",
+    "iupac_name": "Diphenyl(pyrrolidin-2-yl)methanol",
+    "category": "Phenetylamine",
+    "index": 560,
+    "formular": "C17H19NO",
+    "molecular_weight": 253.339,
+    "inChl": "1S/C17H19NO/c19-17(16-12-7-13-18-16,14-8-3-1-4-9-14)15-10-5-2-6-11-15/h1-6,8-11,16,18-19H,7,12-13H2",
+    "InChl_Key": "OGCGXUGBDJGFFY-UHFFFAOYSA-N",
+    "SMILES": "OC(c1ccccc1)(c1ccccc1)C1CCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=560",
+    "validation": "m_weight unsave, calculated(253.34499999999997)"
+}

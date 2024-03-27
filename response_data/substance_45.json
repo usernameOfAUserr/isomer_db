@@ -1,0 +1,13 @@
+{
+    "names": "2C-T-9 ; 4-tert-Butylthio-2,5-dimethoxyphenethylamine ; 2,5-Dimethoxy-4-tert-butylthiophenethylamine",
+    "iupac_name": "2-[4-(tert-Butylsulfanyl)-2,5-dimethoxyphenyl]ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 45,
+    "formular": "C14H23NO2S",
+    "molecular_weight": 269.403,
+    "inChl": "1S/C14H23NO2S/c1-14(2,3)18-13-9-11(16-4)10(6-7-15)8-12(13)17-5/h8-9H,6-7,15H2,1-5H3",
+    "InChl_Key": "PSVDMTZXLJTPNX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SC(C)(C)C)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=45",
+    "validation": "m_weight unsave, calculated(269.40999999999997)"
+}

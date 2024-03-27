@@ -1,0 +1,13 @@
+{
+    "names": "2-[1-Hydroxy-2-(methylamino)propyl]phenol",
+    "iupac_name": "748 ; C10H15NO2 ; 181.232",
+    "category": "data not stored",
+    "index": 748,
+    "formular": "C10H15NO2",
+    "molecular_weight": 181.232,
+    "inChl": "1S/C10H15NO2/c1-7(11-2)10(13)8-5-3-4-6-9(8)12/h3-7,10-13H,1-2H3",
+    "InChl_Key": "CFEPSQISKFBCRD-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(O)c1ccccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=748",
+    "validation": "m_weight unsave, calculated(181.23499999999999)"
+}

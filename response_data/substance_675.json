@@ -1,0 +1,13 @@
+{
+    "names": "Paynantheine",
+    "iupac_name": "Methyl (16E)-9-methoxy-16-(methoxymethylidene)coryn-18-en-17-oate ; Methyl (2E)-2-(3-ethenyl-8-methoxy-1,2,3,4,6,7,12,12b-octahydroindolo[2,3-a]quinolizin-2-yl)-3-methoxyprop-2-enoate",
+    "category": "data not stored",
+    "index": 675,
+    "formular": "C23H28N2O4",
+    "molecular_weight": 396.479,
+    "inChl": "1S/C23H28N2O4/c1-5-14-12-25-10-9-15-21-18(7-6-8-20(21)28-3)24-22(15)19(25)11-16(14)17(13-27-2)23(26)29-4/h5-8,13-14,16,19,24H,1,9-12H2,2-4H3/b17-13+/t14-,16-,19-/m0/s1",
+    "InChl_Key": "JGZKIGWXPPFMRG-CYSPOEIOSA-N",
+    "SMILES": "C=C[C@H]1CN2CCc3c([nH]c4cccc(OC)c34)[C@@H]2C[C@@H]1/C(=C\\OC)C(=O)OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=675",
+    "validation": "m_weight unsave, calculated(396.48700000000014)"
+}

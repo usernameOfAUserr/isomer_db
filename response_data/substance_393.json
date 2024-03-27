@@ -1,0 +1,13 @@
+{
+    "names": "2C-B-E ; N-Ethyl-2C-B ; 4-Bromo-N-ethyl-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(4-Bromo-2,5-dimethoxyphenyl)-N-ethylethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 393,
+    "formular": "C12H18BrNO2",
+    "molecular_weight": 288.181,
+    "inChl": "1S/C12H18BrNO2/c1-4-14-6-5-9-7-12(16-3)10(13)8-11(9)15-2/h7-8,14H,4-6H2,1-3H3",
+    "InChl_Key": "FTXAZQUDSNEXMB-UHFFFAOYSA-N",
+    "SMILES": "CCNCCc1cc(OC)c(Br)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=393",
+    "validation": "m_weight unsave, calculated(288.18499999999995)"
+}

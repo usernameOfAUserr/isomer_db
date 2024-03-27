@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-FA ; \u03b2-Fluoroamphetamine",
+    "iupac_name": "1-Fluoro-1-phenylpropan-2-amine",
+    "category": "Phenetylamine",
+    "index": 460,
+    "formular": "C9H12FN",
+    "molecular_weight": 153.197,
+    "inChl": "1S/C9H12FN/c1-7(11)9(10)8-5-3-2-4-6-8/h2-7,9H,11H2,1H3",
+    "InChl_Key": "PPZYDZIZQRVGPE-UHFFFAOYSA-N",
+    "SMILES": "CC(N)C(F)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=460",
+    "validation": "m_weight unsave, calculated(153.19999999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3,4,5-Trimethoxyphenibut",
+    "iupac_name": "4-Amino-3-(3,4,5-trimethoxyphenyl)butanoic acid",
+    "category": "data not stored",
+    "index": 637,
+    "formular": "C13H19NO5",
+    "molecular_weight": 269.294,
+    "inChl": "1S/C13H19NO5/c1-17-10-4-8(9(7-14)6-12(15)16)5-11(18-2)13(10)19-3/h4-5,9H,6-7,14H2,1-3H3,(H,15,16)",
+    "InChl_Key": "BNLQQJKEYZRUDQ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(CN)CC(=O)O)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=637",
+    "validation": "m_weight unsave, calculated(269.2969999999999)"
+}

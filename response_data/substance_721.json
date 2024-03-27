@@ -1,0 +1,13 @@
+{
+    "names": "N-Formyl-4-methylamphetamine",
+    "iupac_name": "N-[1-(4-Methylphenyl)propan-2-yl]formamide",
+    "category": "data not stored",
+    "index": 721,
+    "formular": "C11H15NO",
+    "molecular_weight": 177.243,
+    "inChl": "1S/C11H15NO/c1-9-3-5-11(6-4-9)7-10(2)12-8-13/h3-6,8,10H,7H2,1-2H3,(H,12,13)",
+    "InChl_Key": "SVIQZTPNGWASKN-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(CC(C)NC=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=721",
+    "validation": "m_weight unsave, calculated(177.24699999999999)"
+}

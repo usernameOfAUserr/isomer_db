@@ -1,0 +1,13 @@
+{
+    "names": "DOIP ; 4-Isopropyl-2,5-dimethoxyamphetamine",
+    "iupac_name": "1-[2,5-Dimethoxy-4-(propan-2-yl)phenyl]propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 246,
+    "formular": "C14H23NO2",
+    "molecular_weight": 237.338,
+    "inChl": "1S/C14H23NO2/c1-9(2)12-8-13(16-4)11(6-10(3)15)7-14(12)17-5/h7-10H,6,15H2,1-5H3",
+    "InChl_Key": "SPKSLAUXKHSASF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(C)C)c(OC)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=246",
+    "validation": "m_weight unsave, calculated(237.34299999999996)"
+}

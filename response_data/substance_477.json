@@ -1,0 +1,13 @@
+{
+    "names": "\u03c8-MFEM ; 4-(2-Fluoroethoxy)-2,6-dimethoxyamphetamine",
+    "iupac_name": "1-[4-(2-Fluoroethoxy)-2,6-dimethoxyphenyl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 477,
+    "formular": "C13H20FNO3",
+    "molecular_weight": 257.301,
+    "inChl": "1S/C13H20FNO3/c1-9(15)6-11-12(16-2)7-10(18-5-4-14)8-13(11)17-3/h7-9H,4-6,15H2,1-3H3",
+    "InChl_Key": "ZWTSZKWQJSFARQ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OCCF)cc(OC)c1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=477",
+    "validation": "m_weight unsave, calculated(257.30499999999995)"
+}

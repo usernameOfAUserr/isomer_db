@@ -1,0 +1,13 @@
+{
+    "names": "Amylescaline ; A ; 4-n-Amyloxy-3,5-dimethoxyphenethylamine",
+    "iupac_name": "2-[3,5-Dimethoxy-4-(pentyloxy)phenyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 319,
+    "formular": "C15H25NO3",
+    "molecular_weight": 267.364,
+    "inChl": "1S/C15H25NO3/c1-4-5-6-9-19-15-13(17-2)10-12(7-8-16)11-14(15)18-3/h10-11H,4-9,16H2,1-3H3",
+    "InChl_Key": "XXJMQLZVSYOWQC-UHFFFAOYSA-N",
+    "SMILES": "CCCCCOc1c(OC)cc(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=319",
+    "validation": "m_weight unsave, calculated(267.36899999999997)"
+}

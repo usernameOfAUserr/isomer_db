@@ -1,0 +1,13 @@
+{
+    "names": "SKF-77434",
+    "iupac_name": "(1R)-1-Phenyl-3-(prop-2-en-1-yl)-2,3,4,5-tetrahydro-1H-3-benzazepine-7,8-diol",
+    "category": "data not stored",
+    "index": 850,
+    "formular": "C19H21NO2",
+    "molecular_weight": 295.376,
+    "inChl": "1S/C19H21NO2/c1-2-9-20-10-8-15-11-18(21)19(22)12-16(15)17(13-20)14-6-4-3-5-7-14/h2-7,11-12,17,21-22H,1,8-10,13H2/t17-/m1/s1",
+    "InChl_Key": "QBUVZVXIRYFENV-QGZVFWFLSA-N",
+    "SMILES": "C=CCN1CCc2cc(O)c(O)cc2[C@@H](c2ccccc2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=850",
+    "validation": "m_weight unsave, calculated(295.382)"
+}

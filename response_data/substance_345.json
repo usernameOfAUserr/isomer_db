@@ -1,0 +1,13 @@
+{
+    "names": "5-DES-Me-DOM ; 5-DM-DOM ; 5-Hydroxy-2-methoxy-4-methylamphetamine",
+    "iupac_name": "5-(2-Aminopropyl)-4-methoxy-2-methylphenol",
+    "category": "Shulgin_Index",
+    "index": 345,
+    "formular": "C11H17NO2",
+    "molecular_weight": 195.258,
+    "inChl": "1S/C11H17NO2/c1-7-4-11(14-3)9(5-8(2)12)6-10(7)13/h4,6,8,13H,5,12H2,1-3H3",
+    "InChl_Key": "UVEGZSXIBVSOJB-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C)c(O)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=345",
+    "validation": "m_weight unsave, calculated(195.26199999999997)"
+}

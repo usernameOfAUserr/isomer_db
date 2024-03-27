@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-AI ; MEAI ; 2-Amino-5-methoxyindane ; Methoxyaminoindane",
+    "iupac_name": "5-Methoxy-2,3-dihydro-1H-inden-2-amine",
+    "category": "data not stored",
+    "index": 414,
+    "formular": "C10H13NO",
+    "molecular_weight": 163.216,
+    "inChl": "1S/C10H13NO/c1-12-10-3-2-7-4-9(11)5-8(7)6-10/h2-3,6,9H,4-5,11H2,1H3",
+    "InChl_Key": "HLXHCNWEVQNNKA-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c(c1)CC(N)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=414",
+    "validation": "m_weight unsave, calculated(163.21999999999997)"
+}

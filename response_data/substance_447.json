@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Methyldopamine ; HHA ; DHA ; \u03b1-Me-DA",
+    "iupac_name": "4-(2-Aminopropyl)benzene-1,2-diol",
+    "category": "Shulgin_Index",
+    "index": 447,
+    "formular": "C9H13NO2",
+    "molecular_weight": 167.205,
+    "inChl": "1S/C9H13NO2/c1-6(10)4-7-2-3-8(11)9(12)5-7/h2-3,5-6,11-12H,4,10H2,1H3",
+    "InChl_Key": "KSRGADMGIRTXAF-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=447",
+    "validation": "m_weight unsave, calculated(167.20799999999997)"
+}

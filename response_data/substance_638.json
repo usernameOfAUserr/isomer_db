@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl pentedrone ; 2-(Ethylamino)valerophenone ; N-Ethylnorpentedrone ; N-Ethylpentedrone ; NEP",
+    "iupac_name": "2-(Ethylamino)-1-phenylpentan-1-one",
+    "category": "data not stored",
+    "index": 638,
+    "formular": "C13H19NO",
+    "molecular_weight": 205.296,
+    "inChl": "1S/C13H19NO/c1-3-8-12(14-4-2)13(15)11-9-6-5-7-10-11/h5-7,9-10,12,14H,3-4,8H2,1-2H3",
+    "InChl_Key": "QQAHEGDXEXIQPR-UHFFFAOYSA-N",
+    "SMILES": "CCCC(NCC)C(=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=638",
+    "validation": "m_weight unsave, calculated(205.301)"
+}

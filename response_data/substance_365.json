@@ -1,0 +1,13 @@
+{
+    "names": "Norsalsolinol ; 6,7-Dihydroxy-1,2,3,4-tetrahydroisoquinoline",
+    "iupac_name": "1,2,3,4-Tetrahydroisoquinoline-6,7-diol",
+    "category": "data not stored",
+    "index": 365,
+    "formular": "C9H11NO2",
+    "molecular_weight": 165.189,
+    "inChl": "1S/C9H11NO2/c11-8-3-6-1-2-10-5-7(6)4-9(8)12/h3-4,10-12H,1-2,5H2",
+    "InChl_Key": "MBFUSGLXKQWVDW-UHFFFAOYSA-N",
+    "SMILES": "Oc1cc2c(cc1O)CNCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=365",
+    "validation": "m_weight unsave, calculated(165.192)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "25C-N2Nap1Br ; N-(1-Bromonaphthalen-2-yl)methyl-4-chloro-2,5-dimethoxyphenethylamine",
+    "iupac_name": "N-[(1-Bromonaphthalen-2-yl)methyl]-2-(4-chloro-2,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 897,
+    "formular": "C21H21BrClNO2",
+    "molecular_weight": 434.754,
+    "inChl": "1S/C21H21BrClNO2/c1-25-19-12-18(23)20(26-2)11-15(19)9-10-24-13-16-8-7-14-5-3-4-6-17(14)21(16)22/h3-8,11-12,24H,9-10,13H2,1-2H3",
+    "InChl_Key": "JCHSIGPLYYOJQW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2ccc3ccccc3c2Br)c(OC)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=897",
+    "validation": "m_weight unsave, calculated(434.7610000000001)"
+}

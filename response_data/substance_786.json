@@ -1,0 +1,13 @@
+{
+    "names": "\u03c8-DODFMO ; 4-Difluoromethoxy-2,6-dimethoxyamphetamine",
+    "iupac_name": "1-[4-(Difluoromethoxy)-2,6-dimethoxyphenyl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 786,
+    "formular": "C12H17F2NO3",
+    "molecular_weight": 261.265,
+    "inChl": "1S/C12H17F2NO3/c1-7(15)4-9-10(16-2)5-8(18-12(13)14)6-11(9)17-3/h5-7,12H,4,15H2,1-3H3",
+    "InChl_Key": "XEJQGOZXVLCLQY-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC(F)F)cc(OC)c1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=786",
+    "validation": "m_weight unsave, calculated(261.268)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2C-D-butterFLY",
+    "iupac_name": "2-(10-Methyl-2,3,4,7,8,9-hexahydrobenzo[1,2-b:4,5-b\u2032]dipyran-5-yl)ethan-1-amine ; 2-(10-Methyl-2,3,4,7,8,9-hexahydropyrano[2,3-g]chromen-5-yl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 440,
+    "formular": "C15H21NO2",
+    "molecular_weight": 247.333,
+    "inChl": "1S/C15H21NO2/c1-10-11-4-2-9-18-15(11)13(6-7-16)12-5-3-8-17-14(10)12/h2-9,16H2,1H3",
+    "InChl_Key": "PWHOIFGDPQAIEZ-UHFFFAOYSA-N",
+    "SMILES": "Cc1c2c(c(CCN)c3c1OCCC3)OCCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=440",
+    "validation": "m_weight unsave, calculated(247.33799999999994)"
+}

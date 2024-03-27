@@ -1,0 +1,13 @@
+{
+    "names": "5TF-2C-H ; 2-Methoxy-5-trifluoromethoxyphenethylamine",
+    "iupac_name": "2-[2-Methoxy-5-(trifluoromethoxy)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 471,
+    "formular": "C10H12F3NO2",
+    "molecular_weight": 235.203,
+    "inChl": "1S/C10H12F3NO2/c1-15-9-3-2-8(16-10(11,12)13)6-7(9)4-5-14/h2-3,6H,4-5,14H2,1H3",
+    "InChl_Key": "MCMDACADFWCKOB-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC(F)(F)F)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=471",
+    "validation": "m_weight unsave, calculated(235.20499999999993)"
+}

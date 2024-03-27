@@ -1,0 +1,13 @@
+{
+    "names": "2-(2,3,6,7-Tetrahydro-1H,5H-pyrido[3,2,1-ij]quinolin-9-yl)ethan-1-amine",
+    "iupac_name": "705 ; C14H20N2 ; 216.322",
+    "category": "Phenetylamine",
+    "index": 705,
+    "formular": "C14H20N2",
+    "molecular_weight": 216.322,
+    "inChl": "1S/C14H20N2/c15-6-5-11-9-12-3-1-7-16-8-2-4-13(10-11)14(12)16/h9-10H,1-8,15H2",
+    "InChl_Key": "NIFACYIMVREXSO-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cc2c3c(c1)CCCN3CCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=705",
+    "validation": "m_weight unsave, calculated(216.32799999999995)"
+}

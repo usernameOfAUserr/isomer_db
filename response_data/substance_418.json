@@ -1,0 +1,13 @@
+{
+    "names": "ETAI ; Ethyltrifluoromethylaminoindane ; 2-Amino-N-ethyl-5-(trifluoromethyl)indane",
+    "iupac_name": "N-Ethyl-5-(trifluoromethyl)-2,3-dihydro-1H-inden-2-amine",
+    "category": "Phenetylamine",
+    "index": 418,
+    "formular": "C12H14F3N",
+    "molecular_weight": 229.241,
+    "inChl": "1S/C12H14F3N/c1-2-16-11-6-8-3-4-10(12(13,14)15)5-9(8)7-11/h3-5,11,16H,2,6-7H2,1H3",
+    "InChl_Key": "PHTXVQQRWJXYPP-UHFFFAOYSA-N",
+    "SMILES": "CCNC1Cc2ccc(C(F)(F)F)cc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=418",
+    "validation": "m_weight unsave, calculated(229.24499999999998)"
+}

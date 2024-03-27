@@ -1,0 +1,13 @@
+{
+    "names": "Acetylfentanyl",
+    "iupac_name": "N-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide",
+    "category": "Fentanyl",
+    "index": 692,
+    "formular": "C21H26N2O",
+    "molecular_weight": 322.444,
+    "inChl": "1S/C21H26N2O/c1-18(24)23(20-10-6-3-7-11-20)21-13-16-22(17-14-21)15-12-19-8-4-2-5-9-19/h2-11,21H,12-17H2,1H3",
+    "InChl_Key": "FYIUUQUPOKIKNI-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=692",
+    "validation": "m_weight unsave, calculated(322.45199999999994)"
+}

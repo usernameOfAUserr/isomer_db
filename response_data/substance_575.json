@@ -1,0 +1,13 @@
+{
+    "names": "2-Et-DOM ; 2-Ethyl-5-methoxy-4-methylamphetamine",
+    "iupac_name": "1-(2-Ethyl-5-methoxy-4-methylphenyl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 575,
+    "formular": "C13H21NO",
+    "molecular_weight": 207.312,
+    "inChl": "1S/C13H21NO/c1-5-11-6-9(2)13(15-4)8-12(11)7-10(3)14/h6,8,10H,5,7,14H2,1-4H3",
+    "InChl_Key": "DOONOOKKSKQDIR-UHFFFAOYSA-N",
+    "SMILES": "CCc1cc(C)c(OC)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=575",
+    "validation": "m_weight unsave, calculated(207.31699999999995)"
+}

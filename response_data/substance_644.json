@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-PHP ; \u03b1-(Pyrrolidin-1-yl)hexanophenone ; PV-7",
+    "iupac_name": "1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-one",
+    "category": "data not stored",
+    "index": 644,
+    "formular": "C16H23NO",
+    "molecular_weight": 245.36,
+    "inChl": "1S/C16H23NO/c1-2-3-11-15(17-12-7-8-13-17)16(18)14-9-5-4-6-10-14/h4-6,9-10,15H,2-3,7-8,11-13H2,1H3",
+    "InChl_Key": "KYIJLDDXQWBNGX-UHFFFAOYSA-N",
+    "SMILES": "CCCCC(C(=O)c1ccccc1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=644",
+    "validation": "m_weight unsave, calculated(245.36599999999996)"
+}

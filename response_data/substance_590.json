@@ -1,0 +1,13 @@
+{
+    "names": "26H-NBOMe ; N-(2-Methoxybenzyl)-2,6-dimethoxyphenethylamine ; 2,6-DMPEA-NBOMe",
+    "iupac_name": "2-(2,6-Dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethan-1-amine ; 2-(2,6-Dimethoxyphenyl)-N-(2-methoxybenzyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 590,
+    "formular": "C18H23NO3",
+    "molecular_weight": 301.38,
+    "inChl": "1S/C18H23NO3/c1-20-16-8-5-4-7-14(16)13-19-12-11-15-17(21-2)9-6-10-18(15)22-3/h4-10,19H,11-13H2,1-3H3",
+    "InChl_Key": "CJVQDARPEYLYIU-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CNCCc1c(OC)cccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=590",
+    "validation": "m_weight unsave, calculated(301.386)"
+}

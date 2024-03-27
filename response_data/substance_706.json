@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-DOM-FLY",
+    "iupac_name": "[8-(2-Aminopropyl)-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl]methanol",
+    "category": "data not stored",
+    "index": 706,
+    "formular": "C14H19NO3",
+    "molecular_weight": 249.306,
+    "inChl": "1S/C14H19NO3/c1-8(15)6-11-9-2-4-18-14(9)12(7-16)10-3-5-17-13(10)11/h8,16H,2-7,15H2,1H3",
+    "InChl_Key": "AMGLAEZGLRXYHT-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c2c(c(CO)c3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=706",
+    "validation": "m_weight unsave, calculated(249.30999999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4C-B-FLY",
+    "iupac_name": "1-(8-Bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl)butan-2-amine",
+    "category": "data not stored",
+    "index": 389,
+    "formular": "C14H18BrNO2",
+    "molecular_weight": 312.202,
+    "inChl": "1S/C14H18BrNO2/c1-2-8(16)7-11-9-3-5-18-14(9)12(15)10-4-6-17-13(10)11/h8H,2-7,16H2,1H3",
+    "InChl_Key": "ASDDQDAQINFEBI-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)Cc1c2c(c(Br)c3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=389",
+    "validation": "m_weight unsave, calculated(312.207)"
+}

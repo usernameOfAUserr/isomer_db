@@ -1,0 +1,13 @@
+{
+    "names": "2C-CA ; 2C-COOH ; 2,5-Dimethoxy-4-carboxyphenethylamine",
+    "iupac_name": "4-(2-Aminoethyl)-2,5-dimethoxybenzoic acid",
+    "category": "Shulgin_Index",
+    "index": 201,
+    "formular": "C11H15NO4",
+    "molecular_weight": 225.241,
+    "inChl": "1S/C11H15NO4/c1-15-9-6-8(11(13)14)10(16-2)5-7(9)3-4-12/h5-6H,3-4,12H2,1-2H3,(H,13,14)",
+    "InChl_Key": "CGSVAQGHARVNCH-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(=O)O)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=201",
+    "validation": "m_weight unsave, calculated(225.24399999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Methyl 3-[8-(2-aminopropyl)-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl]propanoate",
+    "iupac_name": "711 ; C17H23NO4 ; 305.369",
+    "category": "data not stored",
+    "index": 711,
+    "formular": "C17H23NO4",
+    "molecular_weight": 305.369,
+    "inChl": "1S/C17H23NO4/c1-10(18)9-14-13-6-8-21-16(13)11(3-4-15(19)20-2)12-5-7-22-17(12)14/h10H,3-9,18H2,1-2H3",
+    "InChl_Key": "DKCCRYPEJSCPEB-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)CCc1c2c(c(CC(C)N)c3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=711",
+    "validation": "m_weight unsave, calculated(305.374)"
+}

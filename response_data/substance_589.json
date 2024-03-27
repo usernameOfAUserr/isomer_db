@@ -1,0 +1,13 @@
+{
+    "names": "35H-NBOMe ; 3,5-DMPEA-NBOMe",
+    "iupac_name": "2-(3,5-Dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethan-1-amine ; 2-(3,5-Dimethoxyphenyl)-N-(2-methoxybenzyl)ethan-1-amine ; N-(2-Methoxybenzyl)-3,5-dimethoxyphenethylamine",
+    "category": "data not stored",
+    "index": 589,
+    "formular": "C18H23NO3",
+    "molecular_weight": 301.38,
+    "inChl": "1S/C18H23NO3/c1-20-16-10-14(11-17(12-16)21-2)8-9-19-13-15-6-4-5-7-18(15)22-3/h4-7,10-12,19H,8-9,13H2,1-3H3",
+    "InChl_Key": "AQZSVLILZTWBTK-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2ccccc2OC)cc(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=589",
+    "validation": "m_weight unsave, calculated(301.3860000000001)"
+}

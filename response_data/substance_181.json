@@ -1,0 +1,13 @@
+{
+    "names": "ABM ; \u03b1-Butylmescaline ; \u03b1-Butyl-3,4,5-trimethoxyphenethylamine",
+    "iupac_name": "1-(3,4,5-Trimethoxyphenyl)hexan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 181,
+    "formular": "C15H25NO3",
+    "molecular_weight": 267.364,
+    "inChl": "1S/C15H25NO3/c1-5-6-7-12(16)8-11-9-13(17-2)15(19-4)14(10-11)18-3/h9-10,12H,5-8,16H2,1-4H3",
+    "InChl_Key": "MSVLOLMKUPHDNN-UHFFFAOYSA-N",
+    "SMILES": "CCCCC(N)Cc1cc(OC)c(OC)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=181",
+    "validation": "m_weight unsave, calculated(267.36899999999997)"
+}

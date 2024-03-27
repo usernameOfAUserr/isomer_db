@@ -1,0 +1,13 @@
+{
+    "names": "2C-CN ; 4-Cyano-2,5-dimethoxyphenethylamine",
+    "iupac_name": "4-(2-Aminoethyl)-2,5-dimethoxybenzonitrile",
+    "category": "Prophetic?",
+    "index": 200,
+    "formular": "C11H14N2O2",
+    "molecular_weight": 206.241,
+    "inChl": "1S/C11H14N2O2/c1-14-10-6-9(7-13)11(15-2)5-8(10)3-4-12/h5-6H,3-4,12H2,1-2H3",
+    "InChl_Key": "OGWCKYKYGQORLF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)c(OC)cc1C#N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=200",
+    "validation": "m_weight unsave, calculated(206.24499999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-tert-Butylamphetamine",
+    "iupac_name": "1-(4-tert-Butylphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 735,
+    "formular": "C13H21N",
+    "molecular_weight": 191.313,
+    "inChl": "1S/C13H21N/c1-10(14)9-11-5-7-12(8-6-11)13(2,3)4/h5-8,10H,9,14H2,1-4H3",
+    "InChl_Key": "PYIVLZVGWKGCGG-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(C(C)(C)C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=735",
+    "validation": "m_weight unsave, calculated(191.31799999999996)"
+}

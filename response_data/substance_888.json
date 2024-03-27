@@ -1,0 +1,13 @@
+{
+    "names": "25C-NB25OMe ; N-(2,5-Dimethoxybenzyl)-4-chloro-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(4-Chloro-2,5-dimethoxyphenyl)-N-[(2,5-dimethoxyphenyl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 888,
+    "formular": "C19H24ClNO4",
+    "molecular_weight": 365.851,
+    "inChl": "1S/C19H24ClNO4/c1-22-15-5-6-17(23-2)14(9-15)12-21-8-7-13-10-19(25-4)16(20)11-18(13)24-3/h5-6,9-11,21H,7-8,12H2,1-4H3",
+    "InChl_Key": "OHHZBYQCGQCOKV-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c(CNCCc2cc(OC)c(Cl)cc2OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=888",
+    "validation": "m_weight unsave, calculated(365.857)"
+}

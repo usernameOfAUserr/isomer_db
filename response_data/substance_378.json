@@ -1,0 +1,13 @@
+{
+    "names": "B-FLY-NBOH ; DOB-FLY-NBOH",
+    "iupac_name": "2-({[1-(8-Bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl)propan-2-yl]amino}methyl)phenol",
+    "category": "data not stored",
+    "index": 378,
+    "formular": "C20H22BrNO3",
+    "molecular_weight": 404.298,
+    "inChl": "1S/C20H22BrNO3/c1-12(22-11-13-4-2-3-5-17(13)23)10-16-14-6-8-25-20(14)18(21)15-7-9-24-19(15)16/h2-5,12,22-23H,6-11H2,1H3",
+    "InChl_Key": "XZSRGERBYWAKBV-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1c2c(c(Br)c3c1OCC3)OCC2)NCc1ccccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=378",
+    "validation": "m_weight unsave, calculated(404.30400000000003)"
+}

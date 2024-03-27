@@ -1,0 +1,13 @@
+{
+    "names": "PROPYNYL ; 4-Propynyloxy-3,5-dimethoxyphenethylamine ; 3,5-Dimethoxy-4-(2-propynyloxy)phenethylamine",
+    "iupac_name": "2-{3,5-Dimethoxy-4-[(prop-2-yn-1-yl)oxy]phenyl}ethan-1-amine ; 2-[3,5-Dimethoxy-4-(prop-2-yn-1-yloxy)phenyl]ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 143,
+    "formular": "C13H17NO3",
+    "molecular_weight": 235.279,
+    "inChl": "1S/C13H17NO3/c1-4-7-17-13-11(15-2)8-10(5-6-14)9-12(13)16-3/h1,8-9H,5-7,14H2,2-3H3",
+    "InChl_Key": "KNIWBMMJSJHUJB-UHFFFAOYSA-N",
+    "SMILES": "C#CCOc1c(OC)cc(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=143",
+    "validation": "m_weight unsave, calculated(235.28299999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2C-H-5-hemiFLY-\u03b16 ; NAP",
+    "iupac_name": "6-Methoxy-2a,3,4,5-tetrahydro-2H-naphtho[1,8-bc]furan-4-amine",
+    "category": "Phenetylamine",
+    "index": 553,
+    "formular": "C12H15NO2",
+    "molecular_weight": 205.253,
+    "inChl": "1S/C12H15NO2/c1-14-10-2-3-11-12-7(6-15-11)4-8(13)5-9(10)12/h2-3,7-8H,4-6,13H2,1H3",
+    "InChl_Key": "BEATWHLLAZJREQ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c3c1CC(N)CC3CO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=553",
+    "validation": "m_weight unsave, calculated(205.25699999999998)"
+}

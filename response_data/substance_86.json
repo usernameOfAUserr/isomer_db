@@ -1,0 +1,13 @@
+{
+    "names": "G-N ; 1,4-Dimethoxynaphthyl-2-isopropylamine",
+    "iupac_name": "1-(1,4-Dimethoxynaphthalen-2-yl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 86,
+    "formular": "C15H19NO2",
+    "molecular_weight": 245.317,
+    "inChl": "1S/C15H19NO2/c1-10(16)8-11-9-14(17-2)12-6-4-5-7-13(12)15(11)18-3/h4-7,9-10H,8,16H2,1-3H3",
+    "InChl_Key": "KWKDBIVLRQTMKR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c(OC)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=86",
+    "validation": "m_weight unsave, calculated(245.322)"
+}

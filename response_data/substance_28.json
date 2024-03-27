@@ -1,0 +1,13 @@
+{
+    "names": "2C-G-3 ; 2,5-Dimethoxy-3,4-(trimethylene)phenethylamine ; 3,4-Trimethylene-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(4,7-Dimethoxy-2,3-dihydro-1H-inden-5-yl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 28,
+    "formular": "C13H19NO2",
+    "molecular_weight": 221.295,
+    "inChl": "1S/C13H19NO2/c1-15-12-8-9(6-7-14)13(16-2)11-5-3-4-10(11)12/h8H,3-7,14H2,1-2H3",
+    "InChl_Key": "DUYSKWSFDDDWQI-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)c(OC)c2c1CCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=28",
+    "validation": "m_weight unsave, calculated(221.29999999999993)"
+}

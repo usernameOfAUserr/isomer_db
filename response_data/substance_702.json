@@ -1,0 +1,13 @@
+{
+    "names": "homo-3,4-DMPEA",
+    "iupac_name": "3-(3,4-Dimethoxyphenyl)propan-1-amine",
+    "category": "data not stored",
+    "index": 702,
+    "formular": "C11H17NO2",
+    "molecular_weight": 195.258,
+    "inChl": "1S/C11H17NO2/c1-13-10-6-5-9(4-3-7-12)8-11(10)14-2/h5-6,8H,3-4,7,12H2,1-2H3",
+    "InChl_Key": "WYYQSKUMIFPNFW-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CCCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=702",
+    "validation": "m_weight unsave, calculated(195.26199999999997)"
+}

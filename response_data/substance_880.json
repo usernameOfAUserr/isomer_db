@@ -1,0 +1,13 @@
+{
+    "names": "3,4-DMPEA-NDEPA ; N-Diethylaminocarbonylethyl-3,4-dimethoxyphenethylamine",
+    "iupac_name": "N3-[2-(3,4-Dimethoxyphenyl)ethyl]-N,N-diethyl-\u03b2-alaninamide ; 3-{[2-(3,4-Dimethoxyphenyl)ethyl]amino}-N,N-diethylpropanamide",
+    "category": "data not stored",
+    "index": 880,
+    "formular": "C17H28N2O3",
+    "molecular_weight": 308.416,
+    "inChl": "1S/C17H28N2O3/c1-5-19(6-2)17(20)10-12-18-11-9-14-7-8-15(21-3)16(13-14)22-4/h7-8,13,18H,5-6,9-12H2,1-4H3",
+    "InChl_Key": "QZUWROSXLSSRSV-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)C(=O)CCNCCc1ccc(OC)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=880",
+    "validation": "m_weight unsave, calculated(308.4220000000001)"
+}

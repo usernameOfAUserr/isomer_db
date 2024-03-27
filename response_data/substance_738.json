@@ -1,0 +1,13 @@
+{
+    "names": "25I-CPA ; DICPA",
+    "iupac_name": "2-(4-Iodo-2,5-dimethoxyphenyl)cyclopropan-1-amine ; 2-(4-Iodo-2,5-dimethoxyphenyl)cyclopropanamine",
+    "category": "data not stored",
+    "index": 738,
+    "formular": "C11H14INO2",
+    "molecular_weight": 319.139,
+    "inChl": "1S/C11H14INO2/c1-14-10-5-8(12)11(15-2)4-7(10)6-3-9(6)13/h4-6,9H,3,13H2,1-2H3",
+    "InChl_Key": "XASDNWMPPXXOGH-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2CC2N)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=738",
+    "validation": "m_weight unsave, calculated(319.1420000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-HO-CPDBA",
+    "iupac_name": "3-[2-(Dibutylamino)cyclopropyl]phenol",
+    "category": "data not stored",
+    "index": 516,
+    "formular": "C17H27NO",
+    "molecular_weight": 261.402,
+    "inChl": "1S/C17H27NO/c1-3-5-10-18(11-6-4-2)17-13-16(17)14-8-7-9-15(19)12-14/h7-9,12,16-17,19H,3-6,10-11,13H2,1-2H3",
+    "InChl_Key": "PDBZVLNUNOGADS-UHFFFAOYSA-N",
+    "SMILES": "CCCCN(CCCC)C1CC1c1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=516",
+    "validation": "m_weight unsave, calculated(261.409)"
+}

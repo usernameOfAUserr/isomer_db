@@ -1,0 +1,13 @@
+{
+    "names": "2-(tert-Butylamino)-1-(3-chlorophenyl)hexan-1-one",
+    "iupac_name": "780 ; C16H24ClNO ; 281.821",
+    "category": "data not stored",
+    "index": 780,
+    "formular": "C16H24ClNO",
+    "molecular_weight": 281.821,
+    "inChl": "1S/C16H24ClNO/c1-5-6-10-14(18-16(2,3)4)15(19)12-8-7-9-13(17)11-12/h7-9,11,14,18H,5-6,10H2,1-4H3",
+    "InChl_Key": "WSLDIWPVDFGUNH-UHFFFAOYSA-N",
+    "SMILES": "CCCCC(NC(C)(C)C)C(=O)c1cccc(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=780",
+    "validation": "m_weight unsave, calculated(281.82700000000006)"
+}

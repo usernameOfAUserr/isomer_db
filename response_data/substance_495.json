@@ -1,0 +1,13 @@
+{
+    "names": "5-Ph-2-MPEA ; 5-Phenyl-2-methoxyphenethylamine",
+    "iupac_name": "2-(4-Methoxy[1,1\u2032-biphenyl]-3-yl)ethan-1-amine ; 2-(4-Methoxybiphenyl-3-yl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 495,
+    "formular": "C15H17NO",
+    "molecular_weight": 227.302,
+    "inChl": "1S/C15H17NO/c1-17-15-8-7-13(11-14(15)9-10-16)12-5-3-2-4-6-12/h2-8,11H,9-10,16H2,1H3",
+    "InChl_Key": "MMNYANAUZJAHNU-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(-c2ccccc2)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=495",
+    "validation": "m_weight unsave, calculated(227.307)"
+}

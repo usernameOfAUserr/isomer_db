@@ -1,0 +1,13 @@
+{
+    "names": "2-(tert-Butylamino)-1-(4-chloro-3-methylphenyl)propan-1-one",
+    "iupac_name": "775 ; C14H20ClNO ; 253.768",
+    "category": "data not stored",
+    "index": 775,
+    "formular": "C14H20ClNO",
+    "molecular_weight": 253.768,
+    "inChl": "1S/C14H20ClNO/c1-9-8-11(6-7-12(9)15)13(17)10(2)16-14(3,4)5/h6-8,10,16H,1-5H3",
+    "InChl_Key": "GBWQJKNNWYLCQD-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(C(=O)C(C)NC(C)(C)C)ccc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=775",
+    "validation": "m_weight unsave, calculated(253.773)"
+}

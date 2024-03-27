@@ -1,0 +1,13 @@
+{
+    "names": "2-HO-CPDPA",
+    "iupac_name": "2-[2-(Dipropylamino)cyclopropyl]phenol",
+    "category": "Phenetylamine",
+    "index": 509,
+    "formular": "C15H23NO",
+    "molecular_weight": 233.349,
+    "inChl": "1S/C15H23NO/c1-3-9-16(10-4-2)14-11-13(14)12-7-5-6-8-15(12)17/h5-8,13-14,17H,3-4,9-11H2,1-2H3",
+    "InChl_Key": "LARFBOKVMNMLSW-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C1CC1c1ccccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=509",
+    "validation": "m_weight unsave, calculated(233.35499999999996)"
+}

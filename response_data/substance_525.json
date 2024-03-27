@@ -1,0 +1,13 @@
+{
+    "names": "2,6-Diethoxy-4-methylamphetamine",
+    "iupac_name": "1-(2,6-Diethoxy-4-methylphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 525,
+    "formular": "C14H23NO2",
+    "molecular_weight": 237.338,
+    "inChl": "1S/C14H23NO2/c1-5-16-13-7-10(3)8-14(17-6-2)12(13)9-11(4)15/h7-8,11H,5-6,9,15H2,1-4H3",
+    "InChl_Key": "RDYQCSJBPCKLSG-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(C)cc(OCC)c1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=525",
+    "validation": "m_weight unsave, calculated(237.34299999999993)"
+}

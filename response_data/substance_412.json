@@ -1,0 +1,13 @@
+{
+    "names": "5,8-ADT ; 2-Amino-5,8-dimethoxytetralin",
+    "iupac_name": "5,8-Dimethoxy-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "category": "Phenetylamine",
+    "index": 412,
+    "formular": "C12H17NO2",
+    "molecular_weight": 207.269,
+    "inChl": "1S/C12H17NO2/c1-14-11-5-6-12(15-2)10-7-8(13)3-4-9(10)11/h5-6,8H,3-4,7,13H2,1-2H3",
+    "InChl_Key": "ZBZBZZQOTZTHIC-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c2c1CCC(N)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=412",
+    "validation": "m_weight unsave, calculated(207.27299999999997)"
+}

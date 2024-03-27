@@ -1,0 +1,13 @@
+{
+    "names": "4C-BOHB ; \u03b1-Ethyl-\u03b2-hydroxy-4-bromo-2,5-dimethoxyphenethylamine ; \u03b2-HO-4C-B",
+    "iupac_name": "2-Amino-1-(4-bromo-2,5-dimethoxyphenyl)butan-1-ol",
+    "category": "data not stored",
+    "index": 577,
+    "formular": "C12H18BrNO3",
+    "molecular_weight": 304.18,
+    "inChl": "1S/C12H18BrNO3/c1-4-9(14)12(15)7-5-11(17-3)8(13)6-10(7)16-2/h5-6,9,12,15H,4,14H2,1-3H3",
+    "InChl_Key": "VYFOTQYNYBXYBX-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)C(O)c1cc(OC)c(Br)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=577",
+    "validation": ""
+}

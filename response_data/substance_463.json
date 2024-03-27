@@ -1,0 +1,13 @@
+{
+    "names": "3,4,5-Tri(1,1,2,2-tetrafluoroethoxy)phenethylamine ; TeF-TRIS",
+    "iupac_name": "2-[3,4,5-Tris(1,1,2,2-tetrafluoroethoxy)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 463,
+    "formular": "C14H11F12NO3",
+    "molecular_weight": 469.223,
+    "inChl": "1S/C14H11F12NO3/c15-9(16)12(21,22)28-6-3-5(1-2-27)4-7(29-13(23,24)10(17)18)8(6)30-14(25,26)11(19)20/h3-4,9-11H,1-2,27H2",
+    "InChl_Key": "IUDSILFEZVSQNR-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cc(OC(F)(F)C(F)F)c(OC(F)(F)C(F)F)c(OC(F)(F)C(F)F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=463",
+    "validation": "m_weight unsave, calculated(469.2219999999999)"
+}

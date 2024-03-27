@@ -1,0 +1,13 @@
+{
+    "names": "homo-DMA",
+    "iupac_name": "4-(3,4-Dimethoxyphenyl)butan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 608,
+    "formular": "C12H19NO2",
+    "molecular_weight": 209.285,
+    "inChl": "1S/C12H19NO2/c1-9(13)4-5-10-6-7-11(14-2)12(8-10)15-3/h6-9H,4-5,13H2,1-3H3",
+    "InChl_Key": "GKVCAXLHDBMIPO-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CCC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=608",
+    "validation": "m_weight unsave, calculated(209.28900000000002)"
+}

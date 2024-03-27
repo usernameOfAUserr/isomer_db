@@ -1,0 +1,13 @@
+{
+    "names": "5-Chloro-AMT ; 5-Chloro-\u03b1-methyltryptamine ; PAL-542",
+    "iupac_name": "1-(5-Chloro-1H-indol-3-yl)propan-2-amine",
+    "category": "Tryptamine",
+    "index": 741,
+    "formular": "C11H13ClN2",
+    "molecular_weight": 208.687,
+    "inChl": "1S/C11H13ClN2/c1-7(13)4-8-6-14-11-3-2-9(12)5-10(8)11/h2-3,5-7,14H,4,13H2,1H3",
+    "InChl_Key": "QMKOQSCXSYPIPB-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c[nH]c2ccc(Cl)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=741",
+    "validation": "m_weight unsave, calculated(208.69199999999998)"
+}

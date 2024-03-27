@@ -1,0 +1,13 @@
+{
+    "names": "DOB-2-hemidragonFLY",
+    "iupac_name": "1-(4-Bromo-5-methoxy-1-benzofuran-7-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 353,
+    "formular": "C12H14BrNO2",
+    "molecular_weight": 284.149,
+    "inChl": "1S/C12H14BrNO2/c1-7(14)5-8-6-10(15-2)11(13)9-3-4-16-12(8)9/h3-4,6-7H,5,14H2,1-2H3",
+    "InChl_Key": "ZMHZYXFRDHUJDP-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c2occc2c1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=353",
+    "validation": "m_weight unsave, calculated(284.153)"
+}

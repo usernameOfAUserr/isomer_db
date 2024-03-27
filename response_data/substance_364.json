@@ -1,0 +1,13 @@
+{
+    "names": "Gepefrine ; 3-HA ; 3-Hydroxyamphetamine",
+    "iupac_name": "3-(2-Aminopropyl)phenol",
+    "category": "Shulgin_Index",
+    "index": 364,
+    "formular": "C9H13NO",
+    "molecular_weight": 151.206,
+    "inChl": "1S/C9H13NO/c1-7(10)5-8-3-2-4-9(11)6-8/h2-4,6-7,11H,5,10H2,1H3",
+    "InChl_Key": "WTDGMHYYGNJEKQ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=364",
+    "validation": "m_weight unsave, calculated(151.20899999999997)"
+}

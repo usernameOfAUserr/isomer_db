@@ -1,0 +1,13 @@
+{
+    "names": "2C-D ; 2,5-Dimethoxy-4-methylphenethylamine ; LE-25 ; 4-Methyl-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(2,5-Dimethoxy-4-methylphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 23,
+    "formular": "C11H17NO2",
+    "molecular_weight": 195.258,
+    "inChl": "1S/C11H17NO2/c1-8-6-11(14-3)9(4-5-12)7-10(8)13-2/h6-7H,4-5,12H2,1-3H3",
+    "InChl_Key": "UNQQFDCVEMVQHM-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)c(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=23",
+    "validation": "m_weight unsave, calculated(195.26199999999997)"
+}

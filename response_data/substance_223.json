@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Carboxy-2C-H ; \u03b1-Carboxy-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2,5-Dimethoxyphenylalanine ; 2-Amino-3-(2,5-dimethoxyphenyl)propanoic acid",
+    "category": "data not stored",
+    "index": 223,
+    "formular": "C11H15NO4",
+    "molecular_weight": 225.241,
+    "inChl": "1S/C11H15NO4/c1-15-8-3-4-10(16-2)7(5-8)6-9(12)11(13)14/h3-5,9H,6,12H2,1-2H3,(H,13,14)",
+    "InChl_Key": "CKBYDXAFHYVJPV-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c(CC(N)C(=O)O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=223",
+    "validation": "m_weight unsave, calculated(225.24399999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2,6-Diethoxy-4-hexylamphetamine",
+    "iupac_name": "1-(2,6-Diethoxy-4-hexylphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 533,
+    "formular": "C19H33NO2",
+    "molecular_weight": 307.471,
+    "inChl": "1S/C19H33NO2/c1-5-8-9-10-11-16-13-18(21-6-2)17(12-15(4)20)19(14-16)22-7-3/h13-15H,5-12,20H2,1-4H3",
+    "InChl_Key": "OCSIHZOWGPXKMA-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCc1cc(OCC)c(CC(C)N)c(OCC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=533",
+    "validation": "m_weight unsave, calculated(307.478)"
+}

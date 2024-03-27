@@ -1,0 +1,13 @@
+{
+    "names": "25B-NBOMe5TrOEt ; N-(2-Methoxy-5-trityloxyethylbenzyl)-4-bromo-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(4-Bromo-2,5-dimethoxyphenyl)-N-({2-methoxy-5-[2-(triphenylmethoxy)ethyl]phenyl}methyl)ethan-1-amine ; 2-(4-Bromo-2,5-dimethoxyphenyl)-N-{2-methoxy-5-[2-(trityloxy)ethyl]benzyl}ethan-1-amine",
+    "category": "data not stored",
+    "index": 942,
+    "formular": "C39H40BrNO4",
+    "molecular_weight": 666.643,
+    "inChl": "1S/C39H40BrNO4/c1-42-36-20-19-29(25-31(36)28-41-23-21-30-26-38(44-3)35(40)27-37(30)43-2)22-24-45-39(32-13-7-4-8-14-32,33-15-9-5-10-16-33)34-17-11-6-12-18-34/h4-20,25-27,41H,21-24,28H2,1-3H3",
+    "InChl_Key": "FAKKFUNNBKKOQN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2cc(CCOC(c3ccccc3)(c3ccccc3)c3ccccc3)ccc2OC)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=942",
+    "validation": "m_weight unsave, calculated(666.6560000000002)"
+}

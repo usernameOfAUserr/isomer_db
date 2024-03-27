@@ -1,0 +1,13 @@
+{
+    "names": "2-Br-PEA-NBOMe ; N-(2-Methoxybenzyl)-2-bromophenethylamine",
+    "iupac_name": "2-(2-Bromophenyl)-N-[(2-methoxyphenyl)methyl]ethan-1-amine ; 2-(2-Bromophenyl)-N-(2-methoxybenzyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 594,
+    "formular": "C16H18BrNO",
+    "molecular_weight": 320.224,
+    "inChl": "1S/C16H18BrNO/c1-19-16-9-5-3-7-14(16)12-18-11-10-13-6-2-4-8-15(13)17/h2-9,18H,10-12H2,1H3",
+    "InChl_Key": "VMPXHQKYDZNTMX-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CNCCc1ccccc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=594",
+    "validation": "m_weight unsave, calculated(320.22999999999996)"
+}

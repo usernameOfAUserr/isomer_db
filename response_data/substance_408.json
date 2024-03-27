@@ -1,0 +1,13 @@
+{
+    "names": "6-MAT ; 2-Amino-6-methoxytetralin",
+    "iupac_name": "6-Methoxy-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "category": "data not stored",
+    "index": 408,
+    "formular": "C11H15NO",
+    "molecular_weight": 177.243,
+    "inChl": "1S/C11H15NO/c1-13-11-5-3-8-6-10(12)4-2-9(8)7-11/h3,5,7,10H,2,4,6,12H2,1H3",
+    "InChl_Key": "WASIYUSITZITPW-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c(c1)CCC(N)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=408",
+    "validation": "m_weight unsave, calculated(177.24699999999996)"
+}

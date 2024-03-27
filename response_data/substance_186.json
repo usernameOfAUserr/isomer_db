@@ -1,0 +1,13 @@
+{
+    "names": "1-(2,4-Dimethoxyphenyl)-2-(N,N-dimethylamino)butane ; N,N-Dimethyl-1-(2,4-dimethoxyphenyl)-2-aminobutane",
+    "iupac_name": "1-(2,4-Dimethoxyphenyl)-N,N-dimethylbutan-2-amine",
+    "category": "data not stored",
+    "index": 186,
+    "formular": "C14H23NO2",
+    "molecular_weight": 237.338,
+    "inChl": "1S/C14H23NO2/c1-6-12(15(2)3)9-11-7-8-13(16-4)10-14(11)17-5/h7-8,10,12H,6,9H2,1-5H3",
+    "InChl_Key": "VKQFUSDLSFBSPO-UHFFFAOYSA-N",
+    "SMILES": "CCC(Cc1ccc(OC)cc1OC)N(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=186",
+    "validation": "m_weight unsave, calculated(237.34299999999996)"
+}

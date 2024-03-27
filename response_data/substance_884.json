@@ -1,0 +1,13 @@
+{
+    "names": "3,4-DMPEA-N3TM ; N-(Thiophen-3-ylmethyl)-3,4-dimethoxyphenethylamine",
+    "iupac_name": "2-(3,4-Dimethoxyphenyl)-N-[(thiophen-3-yl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 884,
+    "formular": "C15H19NO2S",
+    "molecular_weight": 277.382,
+    "inChl": "1S/C15H19NO2S/c1-17-14-4-3-12(9-15(14)18-2)5-7-16-10-13-6-8-19-11-13/h3-4,6,8-9,11,16H,5,7,10H2,1-2H3",
+    "InChl_Key": "SHVMXSFFCMBCAM-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CCNCc2ccsc2)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=884",
+    "validation": "m_weight unsave, calculated(277.38900000000007)"
+}

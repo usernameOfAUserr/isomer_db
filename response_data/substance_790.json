@@ -1,0 +1,13 @@
+{
+    "names": "1-(6-Fluoro-1H-indazol-1-yl)propan-2-amine",
+    "iupac_name": "790 ; C10H12FN3 ; 193.221",
+    "category": "data not stored",
+    "index": 790,
+    "formular": "C10H12FN3",
+    "molecular_weight": 193.221,
+    "inChl": "1S/C10H12FN3/c1-7(12)6-14-10-4-9(11)3-2-8(10)5-13-14/h2-5,7H,6,12H2,1H3",
+    "InChl_Key": "OARAVURQNSHWSP-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cn1ncc2ccc(F)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=790",
+    "validation": "m_weight unsave, calculated(193.22499999999997)"
+}

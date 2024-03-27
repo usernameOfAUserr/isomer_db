@@ -1,0 +1,13 @@
+{
+    "names": "O-Methyl-AL-34662",
+    "iupac_name": "(2S)-1-(6-Methoxy-1H-indazol-1-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 791,
+    "formular": "C11H15N3O",
+    "molecular_weight": 205.256,
+    "inChl": "1S/C11H15N3O/c1-8(12)7-14-11-5-10(15-2)4-3-9(11)6-13-14/h3-6,8H,7,12H2,1-2H3/t8-/m0/s1",
+    "InChl_Key": "WSEWULCWBQDNEH-QMMMGPOBSA-N",
+    "SMILES": "COc1ccc2cnn(C[C@H](C)N)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=791",
+    "validation": "m_weight unsave, calculated(205.26099999999997)"
+}

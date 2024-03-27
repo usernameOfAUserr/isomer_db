@@ -1,0 +1,13 @@
+{
+    "names": "Morazone",
+    "iupac_name": "1,5-Dimethyl-4-[(3-methyl-2-phenylmorpholin-4-yl)methyl]-2-phenyl-1,2-dihydro-3H-pyrazol-3-one",
+    "category": "data not stored",
+    "index": 730,
+    "formular": "C23H27N3O2",
+    "molecular_weight": 377.479,
+    "inChl": "1S/C23H27N3O2/c1-17-21(23(27)26(24(17)3)20-12-8-5-9-13-20)16-25-14-15-28-22(18(25)2)19-10-6-4-7-11-19/h4-13,18,22H,14-16H2,1-3H3",
+    "InChl_Key": "OOGNFQMTGRZRAB-UHFFFAOYSA-N",
+    "SMILES": "Cc1c(CN2CCOC(c3ccccc3)C2C)c(=O)n(-c2ccccc2)n1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=730",
+    "validation": "m_weight unsave, calculated(377.4880000000001)"
+}

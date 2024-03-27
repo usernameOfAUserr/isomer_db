@@ -1,0 +1,13 @@
+{
+    "names": "3-TIM ; 3-Thioisomescaline ; 2,4-Dimethoxy-3-methylthiophenethylamine ; 3-Methylthio-2,4-dimethoxyphenethylamine",
+    "iupac_name": "2-[2,4-Dimethoxy-3-(methylsulfanyl)phenyl]ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 153,
+    "formular": "C11H17NO2S",
+    "molecular_weight": 227.323,
+    "inChl": "1S/C11H17NO2S/c1-13-9-5-4-8(6-7-12)10(14-2)11(9)15-3/h4-5H,6-7,12H2,1-3H3",
+    "InChl_Key": "LEELWLKZRKDMAS-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CCN)c(OC)c1SC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=153",
+    "validation": "m_weight unsave, calculated(227.32899999999995)"
+}

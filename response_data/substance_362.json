@@ -1,0 +1,13 @@
+{
+    "names": "4-Br-2,5-Cl-A ; 4-Bromo-2,5-dichloroamphetamine",
+    "iupac_name": "1-(4-Bromo-2,5-dichlorophenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 362,
+    "formular": "C9H10BrCl2N",
+    "molecular_weight": 282.992,
+    "inChl": "1S/C9H10BrCl2N/c1-5(13)2-6-3-9(12)7(10)4-8(6)11/h3-5H,2,13H2,1H3",
+    "InChl_Key": "GFEGLCVGYUKNPF-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1cc(Cl)c(Br)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=362",
+    "validation": "m_weight unsave, calculated(282.996)"
+}

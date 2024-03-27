@@ -1,0 +1,13 @@
+{
+    "names": "\u03c8-2C-DFE ; 4-(2,2-Difluoroethyl)-2,6-dimethoxyphenethylamine",
+    "iupac_name": "2-[4-(2,2-Difluoroethyl)-2,6-dimethoxyphenyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 480,
+    "formular": "C12H17F2NO2",
+    "molecular_weight": 245.266,
+    "inChl": "1S/C12H17F2NO2/c1-16-10-5-8(7-12(13)14)6-11(17-2)9(10)3-4-15/h5-6,12H,3-4,7,15H2,1-2H3",
+    "InChl_Key": "KNPDYDCQWCSZFA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(F)F)cc(OC)c1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=480",
+    "validation": "m_weight unsave, calculated(245.26899999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "HOPP ; 1-(4-Hydroxyphenyl)piperazine",
+    "iupac_name": "4-(Piperazin-1-yl)phenol",
+    "category": "Shulgin_Index",
+    "index": 810,
+    "formular": "C10H14N2O",
+    "molecular_weight": 178.231,
+    "inChl": "1S/C10H14N2O/c13-10-3-1-9(2-4-10)12-7-5-11-6-8-12/h1-4,11,13H,5-8H2",
+    "InChl_Key": "GPEOAEVZTOQXLG-UHFFFAOYSA-N",
+    "SMILES": "Oc1ccc(N2CCNCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=810",
+    "validation": "m_weight unsave, calculated(178.23499999999999)"
+}

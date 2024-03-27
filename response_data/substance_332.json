@@ -1,0 +1,13 @@
+{
+    "names": "4C-BU ; 4C-DOBU ; 1-(4-Butyl-2,5-dimethoxyphenyl)-2-aminobutane ; 4-Butyl-\u03b1-ethyl-2,5-dimethoxyphenethylamine",
+    "iupac_name": "1-(4-Butyl-2,5-dimethoxyphenyl)butan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 332,
+    "formular": "C16H27NO2",
+    "molecular_weight": 265.391,
+    "inChl": "1S/C16H27NO2/c1-5-7-8-12-10-16(19-4)13(9-14(17)6-2)11-15(12)18-3/h10-11,14H,5-9,17H2,1-4H3",
+    "InChl_Key": "CSLQMMHMEWQUDC-UHFFFAOYSA-N",
+    "SMILES": "CCCCc1cc(OC)c(CC(N)CC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=332",
+    "validation": "m_weight unsave, calculated(265.39699999999993)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-[2,6-Dimethyl-4-(3-phenylpropyl)piperazin-1-yl]phenol",
+    "iupac_name": "823 ; C21H28N2O ; 324.46",
+    "category": "data not stored",
+    "index": 823,
+    "formular": "C21H28N2O",
+    "molecular_weight": 324.46,
+    "inChl": "1S/C21H28N2O/c1-17-15-22(13-7-10-19-8-4-3-5-9-19)16-18(2)23(17)20-11-6-12-21(24)14-20/h3-6,8-9,11-12,14,17-18,24H,7,10,13,15-16H2,1-2H3",
+    "InChl_Key": "WCSBSVKXTPXOBT-UHFFFAOYSA-N",
+    "SMILES": "CC1CN(CCCc2ccccc2)CC(C)N1c1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=823",
+    "validation": "m_weight unsave, calculated(324.46799999999996)"
+}

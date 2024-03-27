@@ -1,0 +1,13 @@
+{
+    "names": "NPDPA ; N-Isopropyl-\u03b1-phenylphenethylamine ; Isophenidine ; Isopropylphenidine",
+    "iupac_name": "N-(1,2-Diphenylethyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 727,
+    "formular": "C17H21N",
+    "molecular_weight": 239.355,
+    "inChl": "1S/C17H21N/c1-14(2)18-17(16-11-7-4-8-12-16)13-15-9-5-3-6-10-15/h3-12,14,17-18H,13H2,1-2H3",
+    "InChl_Key": "FBRJTEBLJRHAQX-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NC(Cc1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=727",
+    "validation": "m_weight unsave, calculated(239.362)"
+}

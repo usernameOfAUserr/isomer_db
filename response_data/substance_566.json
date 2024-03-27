@@ -1,0 +1,13 @@
+{
+    "names": "EPH ; Ethylphenidate",
+    "iupac_name": "Ethyl phenyl(piperidin-2-yl)acetate",
+    "category": "data not stored",
+    "index": 566,
+    "formular": "C15H21NO2",
+    "molecular_weight": 247.333,
+    "inChl": "1S/C15H21NO2/c1-2-18-15(17)14(12-8-4-3-5-9-12)13-10-6-7-11-16-13/h3-5,8-9,13-14,16H,2,6-7,10-11H2,1H3",
+    "InChl_Key": "AIVSIRYZIBXTMM-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C(c1ccccc1)C1CCCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=566",
+    "validation": "m_weight unsave, calculated(247.33799999999997)"
+}

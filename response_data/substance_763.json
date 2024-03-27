@@ -1,0 +1,13 @@
+{
+    "names": "N-Ethyl-1-(4-methoxy-2-methylphenyl)propan-2-amine",
+    "iupac_name": "763 ; C13H21NO ; 207.312",
+    "category": "data not stored",
+    "index": 763,
+    "formular": "C13H21NO",
+    "molecular_weight": 207.312,
+    "inChl": "1S/C13H21NO/c1-5-14-11(3)9-12-6-7-13(15-4)8-10(12)2/h6-8,11,14H,5,9H2,1-4H3",
+    "InChl_Key": "FGFNKEDKWIKXEU-UHFFFAOYSA-N",
+    "SMILES": "CCNC(C)Cc1ccc(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=763",
+    "validation": "m_weight unsave, calculated(207.31699999999998)"
+}

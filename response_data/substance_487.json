@@ -1,0 +1,13 @@
+{
+    "names": "3C-DFM ; 4-(2,2-Difluoromethoxy)-3,5-dimethoxyamphetamine",
+    "iupac_name": "1-[4-(Difluoromethoxy)-3,5-dimethoxyphenyl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 487,
+    "formular": "C12H17F2NO3",
+    "molecular_weight": 261.265,
+    "inChl": "1S/C12H17F2NO3/c1-7(15)4-8-5-9(16-2)11(18-12(13)14)10(6-8)17-3/h5-7,12H,4,15H2,1-3H3",
+    "InChl_Key": "BQVYKMZBEBFRIG-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)cc(OC)c1OC(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=487",
+    "validation": "m_weight unsave, calculated(261.268)"
+}

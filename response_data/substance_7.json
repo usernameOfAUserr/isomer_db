@@ -1,0 +1,13 @@
+{
+    "names": "ALEPH-7 ; 4-Propylthio-2,5-dimethoxyamphetamine ; 2,5-Dimethoxy-4-n-propylthioamphetamine",
+    "iupac_name": "1-[2,5-Dimethoxy-4-(propylsulfanyl)phenyl]propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7,
+    "formular": "C14H23NO2S",
+    "molecular_weight": 269.403,
+    "inChl": "1S/C14H23NO2S/c1-5-6-18-14-9-12(16-3)11(7-10(2)15)8-13(14)17-4/h8-10H,5-7,15H2,1-4H3",
+    "InChl_Key": "XHWDHFUBCVWXDZ-UHFFFAOYSA-N",
+    "SMILES": "CCCSc1cc(OC)c(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7",
+    "validation": "m_weight unsave, calculated(269.40999999999997)"
+}

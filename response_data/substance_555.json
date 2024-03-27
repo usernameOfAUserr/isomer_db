@@ -1,0 +1,13 @@
+{
+    "names": "diMeNAP",
+    "iupac_name": "6-Methoxy-N,N-dimethyl-2a,3,4,5-tetrahydro-2H-naphtho[1,8-bc]furan-4-amine",
+    "category": "Phenetylamine",
+    "index": 555,
+    "formular": "C14H19NO2",
+    "molecular_weight": 233.306,
+    "inChl": "1S/C14H19NO2/c1-15(2)10-6-9-8-17-13-5-4-12(16-3)11(7-10)14(9)13/h4-5,9-10H,6-8H2,1-3H3",
+    "InChl_Key": "NRQKPYBPFDFAAT-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c3c1CC(N(C)C)CC3CO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=555",
+    "validation": "m_weight unsave, calculated(233.31099999999998)"
+}

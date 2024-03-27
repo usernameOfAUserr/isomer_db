@@ -1,0 +1,13 @@
+{
+    "names": "4-Chloro-indole acetic acid methyl ester",
+    "iupac_name": "Methyl (4-chloro-1H-indol-3-yl)acetate",
+    "category": "data not stored",
+    "index": 658,
+    "formular": "C11H10ClNO2",
+    "molecular_weight": 223.656,
+    "inChl": "1S/C11H10ClNO2/c1-15-10(14)5-7-6-13-9-4-2-3-8(12)11(7)9/h2-4,6,13H,5H2,1H3",
+    "InChl_Key": "SYPGJEURLIGNPE-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)Cc1c[nH]c2cccc(Cl)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=658",
+    "validation": "m_weight unsave, calculated(223.65900000000002)"
+}

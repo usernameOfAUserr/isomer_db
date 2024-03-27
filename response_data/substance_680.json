@@ -1,0 +1,13 @@
+{
+    "names": "4,5-Benzo-iso-AMT ; 4,5-Benzo-\u03b1-methyl-isotryptamine",
+    "iupac_name": "1-(3H-Benzo[e]indol-3-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 680,
+    "formular": "C15H16N2",
+    "molecular_weight": 224.301,
+    "inChl": "1S/C15H16N2/c1-11(16)10-17-9-8-14-13-5-3-2-4-12(13)6-7-15(14)17/h2-9,11H,10,16H2,1H3",
+    "InChl_Key": "DZJPTHGVBJXGJH-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cn1ccc2c3ccccc3ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=680",
+    "validation": "m_weight unsave, calculated(224.307)"
+}

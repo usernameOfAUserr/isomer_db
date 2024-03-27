@@ -1,0 +1,13 @@
+{
+    "names": "PBA ; 4-Bromoamphetamine ; 4-BA ; 4-Br-AMP",
+    "iupac_name": "1-(4-Bromophenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 347,
+    "formular": "C9H12BrN",
+    "molecular_weight": 214.102,
+    "inChl": "1S/C9H12BrN/c1-7(11)6-8-2-4-9(10)5-3-8/h2-5,7H,6,11H2,1H3",
+    "InChl_Key": "SMNXUMMCCOZPPN-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(Br)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=347",
+    "validation": "m_weight unsave, calculated(214.10599999999997)"
+}

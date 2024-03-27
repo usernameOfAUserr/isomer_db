@@ -1,0 +1,13 @@
+{
+    "names": "2C-F ; 4-Fluoro-2,5-dimethoxyphenethylamine ; 2,5-Dimethoxy-4-fluorophenethylamine",
+    "iupac_name": "2-(4-Fluoro-2,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 26,
+    "formular": "C10H14FNO2",
+    "molecular_weight": 199.222,
+    "inChl": "1S/C10H14FNO2/c1-13-9-6-8(11)10(14-2)5-7(9)3-4-12/h5-6H,3-4,12H2,1-2H3",
+    "InChl_Key": "QAVFEDRVOUKIPM-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)c(OC)cc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=26",
+    "validation": "m_weight unsave, calculated(199.22499999999997)"
+}

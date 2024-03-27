@@ -1,0 +1,13 @@
+{
+    "names": "2,5-Dibutoxy-4-butylamphetamine",
+    "iupac_name": "1-(2,5-Dibutoxy-4-butylphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 536,
+    "formular": "C21H37NO2",
+    "molecular_weight": 335.524,
+    "inChl": "1S/C21H37NO2/c1-5-8-11-18-15-21(24-13-10-7-3)19(14-17(4)22)16-20(18)23-12-9-6-2/h15-17H,5-14,22H2,1-4H3",
+    "InChl_Key": "WRZDEQDMYCYBKF-UHFFFAOYSA-N",
+    "SMILES": "CCCCOc1cc(CC(C)N)c(OCCCC)cc1CCCC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=536",
+    "validation": "m_weight unsave, calculated(335.53200000000015)"
+}

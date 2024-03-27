@@ -1,0 +1,13 @@
+{
+    "names": "2C-SF3 ; 2,5-Dimethoxy-4-trifluoromercaptophenethylamine",
+    "iupac_name": "2-[2,5-Dimethoxy-4-(trifluoro-\u03bb4-sulfanyl)phenyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 893,
+    "formular": "C10H14F3NO2S",
+    "molecular_weight": 269.284,
+    "inChl": "1S/C10H14F3NO2S/c1-15-8-6-10(17(11,12)13)9(16-2)5-7(8)3-4-14/h5-6H,3-4,14H2,1-2H3",
+    "InChl_Key": "BMZIKFIWUZNMPP-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(S(F)(F)F)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=893",
+    "validation": "m_weight unsave, calculated(269.28799999999995)"
+}

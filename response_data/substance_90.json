@@ -1,0 +1,13 @@
+{
+    "names": "IDNNA ; 2,5-IDNNA ; 2,5-Dimethoxy-N,N-dimethyl-4-iodoamphetamine",
+    "iupac_name": "1-(4-Iodo-2,5-dimethoxyphenyl)-N,N-dimethylpropan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 90,
+    "formular": "C13H20INO2",
+    "molecular_weight": 349.208,
+    "inChl": "1S/C13H20INO2/c1-9(15(2)3)6-10-7-13(17-5)11(14)8-12(10)16-4/h7-9H,6H2,1-5H3",
+    "InChl_Key": "XBCUSBRGRALQID-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N(C)C)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=90",
+    "validation": "m_weight unsave, calculated(349.2120000000001)"
+}

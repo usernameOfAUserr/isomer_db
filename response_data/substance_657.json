@@ -1,0 +1,13 @@
+{
+    "names": "4-AcO-indole ; 4-Acetoxyindole",
+    "iupac_name": "1H-Indol-4-yl acetate",
+    "category": "data not stored",
+    "index": 657,
+    "formular": "C10H9NO2",
+    "molecular_weight": 175.184,
+    "inChl": "1S/C10H9NO2/c1-7(12)13-10-4-2-3-9-8(10)5-6-11-9/h2-6,11H,1H3",
+    "InChl_Key": "ZXDMUHFTJWEDEF-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Oc1cccc2[nH]ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=657",
+    "validation": "m_weight unsave, calculated(175.187)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-DM-25I-NBOH ; N-(2-Hydroxybenzyl)-2-hydroxy-4-iodo-5-methoxyphenethylamine",
+    "iupac_name": "2-(2-{[(2-Hydroxyphenyl)methyl]amino}ethyl)-5-iodo-4-methoxyphenol ; 2-{2-[(2-Hydroxybenzyl)amino]ethyl}-5-iodo-4-methoxyphenol",
+    "category": "data not stored",
+    "index": 947,
+    "formular": "C16H18INO3",
+    "molecular_weight": 399.223,
+    "inChl": "1S/C16H18INO3/c1-21-16-8-11(15(20)9-13(16)17)6-7-18-10-12-4-2-3-5-14(12)19/h2-5,8-9,18-20H,6-7,10H2,1H3",
+    "InChl_Key": "HSTWDMWIDIYDSS-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2ccccc2O)c(O)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=947",
+    "validation": "m_weight unsave, calculated(399.228)"
+}

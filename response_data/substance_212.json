@@ -1,0 +1,13 @@
+{
+    "names": "2CT2-2ETO ; 2-Ethoxy-4-ethylthio-5-methoxyphenethylamine",
+    "iupac_name": "2-[2-Ethoxy-4-(ethylsulfanyl)-5-methoxyphenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 212,
+    "formular": "C13H21NO2S",
+    "molecular_weight": 255.376,
+    "inChl": "1S/C13H21NO2S/c1-4-16-11-9-13(17-5-2)12(15-3)8-10(11)6-7-14/h8-9H,4-7,14H2,1-3H3",
+    "InChl_Key": "KVHWZNAVMLBLMV-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(SCC)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=212",
+    "validation": "m_weight unsave, calculated(255.38299999999995)"
+}

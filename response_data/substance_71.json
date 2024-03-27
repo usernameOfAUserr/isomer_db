@@ -1,0 +1,13 @@
+{
+    "names": "DOPR ; 4-Propyl-2,5-dimethoxyamphetamine ; DOP ; 2,5-Dimethoxy-4-n-propylamphetamine",
+    "iupac_name": "1-(2,5-Dimethoxy-4-propylphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 71,
+    "formular": "C14H23NO2",
+    "molecular_weight": 237.338,
+    "inChl": "1S/C14H23NO2/c1-5-6-11-8-14(17-4)12(7-10(2)15)9-13(11)16-3/h8-10H,5-7,15H2,1-4H3",
+    "InChl_Key": "UEEAUFJYLUJWQJ-UHFFFAOYSA-N",
+    "SMILES": "CCCc1cc(OC)c(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=71",
+    "validation": "m_weight unsave, calculated(237.34299999999996)"
+}

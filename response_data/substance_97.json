@@ -1,0 +1,13 @@
+{
+    "names": "PMA ; 4-Methoxyamphetamine ; 4-MA ; 4-MeO-AMP",
+    "iupac_name": "1-(4-Methoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 97,
+    "formular": "C10H15NO",
+    "molecular_weight": 165.232,
+    "inChl": "1S/C10H15NO/c1-8(11)7-9-3-5-10(12-2)6-4-9/h3-6,8H,7,11H2,1-2H3",
+    "InChl_Key": "NEGYEDYHPHMHGK-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CC(C)N)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=97",
+    "validation": "m_weight unsave, calculated(165.236)"
+}

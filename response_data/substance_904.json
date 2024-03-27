@@ -1,0 +1,13 @@
+{
+    "names": "MBZP ; Methylbenzylpiperazine ; 1-Methyl-4-benzylpiperazine",
+    "iupac_name": "1-Benzyl-4-methylpiperazine",
+    "category": "Shulgin_Index",
+    "index": 904,
+    "formular": "C12H18N2",
+    "molecular_weight": 190.285,
+    "inChl": "1S/C12H18N2/c1-13-7-9-14(10-8-13)11-12-5-3-2-4-6-12/h2-6H,7-11H2,1H3",
+    "InChl_Key": "MLJOKPBESJWYGL-UHFFFAOYSA-N",
+    "SMILES": "CN1CCN(Cc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=904",
+    "validation": "m_weight unsave, calculated(190.29000000000002)"
+}

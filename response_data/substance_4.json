@@ -1,0 +1,13 @@
+{
+    "names": "ALEPH-2 ; 4-Ethylthio-2,5-dimethoxyamphetamine ; 2,5-Dimethoxy-4-ethylthioamphetamine",
+    "iupac_name": "1-[4-(Ethylsulfanyl)-2,5-dimethoxyphenyl]propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 4,
+    "formular": "C13H21NO2S",
+    "molecular_weight": 255.376,
+    "inChl": "1S/C13H21NO2S/c1-5-17-13-8-11(15-3)10(6-9(2)14)7-12(13)16-4/h7-9H,5-6,14H2,1-4H3",
+    "InChl_Key": "MCYCODJKXUJSAT-UHFFFAOYSA-N",
+    "SMILES": "CCSc1cc(OC)c(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4",
+    "validation": "m_weight unsave, calculated(255.38299999999995)"
+}

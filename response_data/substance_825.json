@@ -1,0 +1,13 @@
+{
+    "names": "3-(2,4-Dimethylpiperazin-1-yl)phenol",
+    "iupac_name": "825 ; C12H18N2O ; 206.284",
+    "category": "data not stored",
+    "index": 825,
+    "formular": "C12H18N2O",
+    "molecular_weight": 206.284,
+    "inChl": "1S/C12H18N2O/c1-10-9-13(2)6-7-14(10)11-4-3-5-12(15)8-11/h3-5,8,10,15H,6-7,9H2,1-2H3",
+    "InChl_Key": "TVGXOOZPDLJTGP-UHFFFAOYSA-N",
+    "SMILES": "CC1CN(C)CCN1c1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=825",
+    "validation": "m_weight unsave, calculated(206.28900000000002)"
+}
