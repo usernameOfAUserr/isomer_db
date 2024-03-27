@@ -1,5 +1,5 @@
 
-cd C:\Users\User\PycharmProjects\web_scraper
+cd C:\Users\User\PycharmProjects\web_scraper REM this must be the location on the downloaded project
 pip install asyncio
 pip install aiohttp
 pip install bs4
@@ -12,4 +12,3 @@ echo Waiting for the server to start..."
 ping 127.0.0.1 -n 5 > nul
 echo Opening browser..."
 start http://127.0.0.1:8000/webscraper
-pause
