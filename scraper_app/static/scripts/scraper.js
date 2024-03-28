@@ -83,7 +83,6 @@ function reset_db(){
 
 function load_new_substances(){
     changeBackground();
-    alert("I start the search");
     $.ajax({
         type:'GET',
         url: "webscraper/get_new_substances",
@@ -93,10 +92,10 @@ function load_new_substances(){
             for (url in response.newSubstances){
                 alert(response.newSubstances[smile])
             }
+            changeBackground();
         },
         error:function(){
             alert("not possible, try to reload whole db");
         },
     });
-    changeBackground();
 }

@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 import re
 from .getCategory import getCategorys
 
+
 findable = []
 newOnes_bySMILES = []
 

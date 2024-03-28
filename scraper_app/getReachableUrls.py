@@ -72,8 +72,6 @@ async def fetch_url(session, url, folder, categorys):
             for dictionary, list_of_indexes in categorys.items():
                 if index in list_of_indexes:
                     category = str(dictionary)
-                    print(category
-                          )
                 else:
                     try:
                     # search for tag in the data that reviels the category
@@ -83,34 +81,28 @@ async def fetch_url(session, url, folder, categorys):
                                 right_div = tag.parent
                                 text = right_div.text.strip()
                                 category = text.replace("Tags", "").strip()
-                            print(category)
                     except:
                         pass
             # formular
             formular = clippable[data_quantity - 5].text
-            print(formular)
 
             # molecular_weight
             molecular_weight = clippable[data_quantity - 4].text
             molecular_weight = float(molecular_weight)
-            print(molecular_weight)
 
             # inChl
             InChl_regex = re.compile(r"InChI=(.*)")
             match = InChl_regex.search(clippable[data_quantity - 3].text)
             inchl = match.group(1)
-            print(inchl)
             # inchl_key
             inchl_key = clippable[data_quantity - 2].text
             smiles = data.find(id="smiles").text
-            print(inchl_key, smiles)
 
             # validation
             molecule = Chem.MolFromSmiles(smiles)
             canonical_smiles = Chem.MolToSmiles(molecule)
             weight_chem = Descriptors.MolWt(molecule)
             formula_chem = rdMolDescriptors.CalcMolFormula(molecule)
-            print(molecule, canonical_smiles, weight_chem, formula_chem)
             validation_message = ""
             if molecular_weight != round(weight_chem, 2):
                 validation_message += f"m_weight unsave, calculated({weight_chem})"
@@ -142,6 +134,7 @@ async def fetch_url(session, url, folder, categorys):
 
 
 async def get_responses(categorys, urls):
+    print(f"urls to insert: {urls}")
     folder = "new_ones"  # Der Zielordner, in dem die JSON-Dateien gespeichert werden sollen
     os.makedirs(folder, exist_ok=True)  # Erstellen Sie den Ordner, falls er nicht existiert
     # the list with all urls is created
@@ -172,6 +165,7 @@ def start():
         asyncio.run(get_responses(categorys, changes_accoure))
     except:
         categorys = get_category()
+        print("I had to look for changes in categorys as well :(\n")
     # #load the categorys from external file in order to improve the speed, categorys are NOT!!! loaded in in this run
         asyncio.run(get_responses(categorys, changes_accoure))
 
@@ -183,7 +177,6 @@ counter = 0
 
 
 async def find_not_reachable_urls(session, url):
-    print(url)
     global counter
     counter += 1
     try:
@@ -201,28 +194,31 @@ async def find_not_reachable_urls(session, url):
 
 
 async def manage(urls):
-   # timeout = aiohttp.ClientTimeout(total=None, connect=None, sock_connect=None, sock_read=60)
-    async with aiohttp.ClientSession() as session:
+   print(f"Length of urls: {len(urls)}")
+   timeout = aiohttp.ClientTimeout(total=None, connect=None, sock_connect=None, sock_read=60)
+   async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(limit=10), timeout=timeout) as session:
         tasks = [find_not_reachable_urls(session, url) for url in urls]
         results = await asyncio.gather(*tasks)
 
 
 def getReachableUrls():
-    try:
-        with open("not_reachable_urls.json", "r") as json_file:
-            file = json.load(json_file)
-        previous_not_reachable = file["not_reachable"]
-        print("not_reachable loaded")
-        asyncio.run(manage(previous_not_reachable))
-
+    
+    with open("not_reachable_urls.json", "r") as json_file:
+        file = json.load(json_file)
+    previous_not_reachable = file["not_reachable"]
+    print("not_reachable loaded")
+    asyncio.run(manage(previous_not_reachable))
+    """
     except:
         print("previous not reachable urls couldnt be loaded")
         urls = [f"https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id={i}" for i in range(1300, 16000)]
         asyncio.run(manage(urls))
+        print("url-accessability determined")
+        """
     data = {
         "not_reachable": not_reachable
     }
-    with open("not_reachable_urls.json", "w") as file:
+    with open("not_reachable_urls.json", "r") as file:
         json.dump(data, file)
     data = {
         "new_ones": changes_accoure
@@ -233,4 +229,3 @@ def getReachableUrls():
         print(changes_accoure)
         start()
     return changes_accoure
-
