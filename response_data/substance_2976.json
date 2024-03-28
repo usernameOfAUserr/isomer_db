@@ -1,0 +1,13 @@
+{
+    "names": "N-Methylphenetrazine",
+    "iupac_name": "3-Ethyl-4-methyl-2-phenylmorpholine",
+    "category": "data not stored",
+    "index": 2976,
+    "formular": "C13H19NO",
+    "molecular_weight": 205.296,
+    "inChl": "1S/C13H19NO/c1-3-12-13(15-10-9-14(12)2)11-7-5-4-6-8-11/h4-8,12-13H,3,9-10H2,1-2H3",
+    "InChl_Key": "AGZZVDZENOKVTN-UHFFFAOYSA-N",
+    "SMILES": "CCC1C(c2ccccc2)OCCN1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2976",
+    "validation": "m_weight unsave, calculated(205.30100000000002)"
+}

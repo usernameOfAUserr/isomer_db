@@ -1,0 +1,13 @@
+{
+    "names": "4-BnO-3,5-DMBnCN",
+    "iupac_name": "[4-(Benzyloxy)-3,5-dimethoxyphenyl]acetonitrile",
+    "category": "data not stored",
+    "index": 14196,
+    "formular": "C17H17NO3",
+    "molecular_weight": 283.322,
+    "inChl": "1S/C17H17NO3/c1-19-15-10-14(8-9-18)11-16(20-2)17(15)21-12-13-6-4-3-5-7-13/h3-7,10-11H,8,12H2,1-2H3",
+    "InChl_Key": "FYALZUOVWRCMRR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC#N)cc(OC)c1OCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14196",
+    "validation": "m_weight unsave, calculated(283.32699999999994)"
+}

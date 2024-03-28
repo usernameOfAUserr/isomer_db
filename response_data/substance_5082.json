@@ -1,0 +1,13 @@
+{
+    "names": "Lisuride",
+    "iupac_name": "N,N-Diethyl-N\u2032-(6-methyl-9,10-didehydroergolin-8\u03b1-yl)urea ; N,N-Diethyl-N\u2032-[(6aR,9S)-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-yl]urea ; N,N-Diethyl-N\u2032-[(8\u03b1)-6-methyl-9,10-didehydroergolin-8-yl]urea ; 1,1-Diethyl-3-(6-methyl-9,10-didehydroergolin-8\u03b1-yl)urea",
+    "category": "data not stored",
+    "index": 5082,
+    "formular": "C20H26N4O",
+    "molecular_weight": 338.447,
+    "inChl": "1S/C20H26N4O/c1-4-24(5-2)20(25)22-14-10-16-15-7-6-8-17-19(15)13(11-21-17)9-18(16)23(3)12-14/h6-8,10-11,14,18,21H,4-5,9,12H2,1-3H3,(H,22,25)/t14-,18+/m0/s1",
+    "InChl_Key": "BKRGVLQUQGGVSM-KBXCAEBGSA-N",
+    "SMILES": "CCN(CC)C(=O)N[C@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5082",
+    "validation": "m_weight unsave, calculated(338.4550000000001)"
+}

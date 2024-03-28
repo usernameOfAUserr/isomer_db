@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Oxo-5-fluoro-\u03b1-methyl-NMT ; \u03b2-Oxo-5-fluoro-\u03b1-methyl-N-methyltryptamine ; BK-5F-NM-AMT",
+    "iupac_name": "1-(5-Fluoro-1H-indol-3-yl)-2-(methylamino)propan-1-one",
+    "category": "Tryptamine",
+    "index": 12714,
+    "formular": "C12H13FN2O",
+    "molecular_weight": 220.243,
+    "inChl": "1S/C12H13FN2O/c1-7(14-2)12(16)10-6-15-11-4-3-8(13)5-9(10)11/h3-7,14-15H,1-2H3",
+    "InChl_Key": "NONYEOWAEONGSG-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(=O)c1c[nH]c2ccc(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12714",
+    "validation": "m_weight unsave, calculated(220.247)"
+}

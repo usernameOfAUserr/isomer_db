@@ -1,0 +1,13 @@
+{
+    "names": "Cocaine reverse ester 1 ; REC ; Reverse ester cocaine",
+    "iupac_name": "(2R,3S)-2-(Acetyloxy)-8-methyl-8-azabicyclo[3.2.1]octan-3-yl benzoate",
+    "category": "data not stored",
+    "index": 3421,
+    "formular": "C17H21NO4",
+    "molecular_weight": 303.353,
+    "inChl": "1S/C17H21NO4/c1-11(19)21-16-14-9-8-13(18(14)2)10-15(16)22-17(20)12-6-4-3-5-7-12/h3-7,13-16H,8-10H2,1-2H3/t13?,14?,15-,16+/m0/s1",
+    "InChl_Key": "QAVJUWLVUKNZFV-SSHXOBKSSA-N",
+    "SMILES": "CC(=O)O[C@@H]1C2CCC(C[C@@H]1OC(=O)c1ccccc1)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3421",
+    "validation": "m_weight unsave, calculated(303.35799999999995)"
+}

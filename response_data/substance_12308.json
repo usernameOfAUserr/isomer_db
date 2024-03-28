@@ -1,0 +1,13 @@
+{
+    "names": "4-PrO-BAL",
+    "iupac_name": "4-Propoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 12308,
+    "formular": "C10H12O2",
+    "molecular_weight": 164.201,
+    "inChl": "1S/C10H12O2/c1-2-7-12-10-5-3-9(8-11)4-6-10/h3-6,8H,2,7H2,1H3",
+    "InChl_Key": "FGXZWMCBNMMYPL-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1ccc(C=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12308",
+    "validation": "m_weight unsave, calculated(164.20399999999998)"
+}

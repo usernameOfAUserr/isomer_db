@@ -1,0 +1,13 @@
+{
+    "names": "m-Fluoromethcathinone AC ; 3-Fluoro-N-acetyl-N-methylcathinone",
+    "iupac_name": "N-[1-(3-Fluorophenyl)-1-oxopropan-2-yl]-N-methylacetamide",
+    "category": "data not stored",
+    "index": 1977,
+    "formular": "C12H14FNO2",
+    "molecular_weight": 223.243,
+    "inChl": "1S/C12H14FNO2/c1-8(14(3)9(2)15)12(16)10-5-4-6-11(13)7-10/h4-8H,1-3H3",
+    "InChl_Key": "YYEMDYRBQCZYDW-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)N(C)C(C)C(=O)c1cccc(F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1977",
+    "validation": "m_weight unsave, calculated(223.24699999999999)"
+}

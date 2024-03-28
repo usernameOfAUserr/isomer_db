@@ -1,0 +1,13 @@
+{
+    "names": "2F-Deschloronorketamine",
+    "iupac_name": "2-Amino-2-(2-fluorophenyl)cyclohexan-1-one",
+    "category": "Arylcycloalkylamine",
+    "index": 12519,
+    "formular": "C12H14FNO",
+    "molecular_weight": 207.244,
+    "inChl": "1S/C12H14FNO/c13-10-6-2-1-5-9(10)12(14)8-4-3-7-11(12)15/h1-2,5-6H,3-4,7-8,14H2",
+    "InChl_Key": "QAAHWOFISODWNS-UHFFFAOYSA-N",
+    "SMILES": "NC1(c2ccccc2F)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12519",
+    "validation": "m_weight unsave, calculated(207.24800000000002)"
+}

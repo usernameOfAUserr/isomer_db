@@ -1,0 +1,13 @@
+{
+    "names": "3-CPM ; 3-Cl-PM ; 3-Chlorophenmetrazine ; PAL-594",
+    "iupac_name": "2-(3-Chlorophenyl)-3-methylmorpholine",
+    "category": "data not stored",
+    "index": 8633,
+    "formular": "C11H14ClNO",
+    "molecular_weight": 211.688,
+    "inChl": "1S/C11H14ClNO/c1-8-11(14-6-5-13-8)9-3-2-4-10(12)7-9/h2-4,7-8,11,13H,5-6H2,1H3",
+    "InChl_Key": "BOFUZZAQNVYZFF-UHFFFAOYSA-N",
+    "SMILES": "CC1NCCOC1c1cccc(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8633",
+    "validation": "m_weight unsave, calculated(211.692)"
+}

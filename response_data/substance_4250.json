@@ -1,0 +1,13 @@
+{
+    "names": "US 5292736 #9",
+    "iupac_name": "4-(2-{(1E)-1-[(Naphthalen-1-yl)methylidene]-1H-inden-3-yl}ethyl)morpholine",
+    "category": "cannabinodids",
+    "index": 4250,
+    "formular": "C26H25NO",
+    "molecular_weight": 367.483,
+    "inChl": "1S/C26H25NO/c1-2-9-24-20(6-1)7-5-8-21(24)18-23-19-22(25-10-3-4-11-26(23)25)12-13-27-14-16-28-17-15-27/h1-11,18-19H,12-17H2/b23-18+",
+    "InChl_Key": "RTRAPBQOJODDGH-PTGBLXJZSA-N",
+    "SMILES": "C1=C(CCN2CCOCC2)c2ccccc2/C1=C/c1cccc2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4250",
+    "validation": "m_weight unsave, calculated(367.4920000000001)"
+}

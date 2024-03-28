@@ -1,0 +1,13 @@
+{
+    "names": "3-Fluoroproscaline ; 3-FP ; FP ; 4-(3-Fluoropropoxy)-3,5-dimethoxyphenethylamine",
+    "iupac_name": "2-[4-(3-Fluoropropoxy)-3,5-dimethoxyphenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 2188,
+    "formular": "C13H20FNO3",
+    "molecular_weight": 257.301,
+    "inChl": "1S/C13H20FNO3/c1-16-11-8-10(4-6-15)9-12(17-2)13(11)18-7-3-5-14/h8-9H,3-7,15H2,1-2H3",
+    "InChl_Key": "FMAGEKSBHIYXPF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(OC)c1OCCCF",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2188",
+    "validation": "m_weight unsave, calculated(257.30499999999995)"
+}

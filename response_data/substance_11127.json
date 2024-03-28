@@ -1,0 +1,13 @@
+{
+    "names": "1,4-Benzenedialdehyde ; Terephthaldehyde",
+    "iupac_name": "Benzene-1,4-dicarbaldehyde",
+    "category": "data not stored",
+    "index": 11127,
+    "formular": "C8H6O2",
+    "molecular_weight": 134.132,
+    "inChl": "1S/C8H6O2/c9-5-7-1-2-8(6-10)4-3-7/h1-6H",
+    "InChl_Key": "KUCOHFSKRZZVRO-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1ccc(C=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11127",
+    "validation": "m_weight unsave, calculated(134.13399999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-(4-Bromo-2,5-dimethoxybenzoyl)piperazine",
+    "iupac_name": "(4-Bromo-2,5-dimethoxyphenyl)(piperazin-1-yl)methanone",
+    "category": "Phenetylamine",
+    "index": 10370,
+    "formular": "C13H17BrN2O3",
+    "molecular_weight": 329.19,
+    "inChl": "1S/C13H17BrN2O3/c1-18-11-8-10(14)12(19-2)7-9(11)13(17)16-5-3-15-4-6-16/h7-8,15H,3-6H2,1-2H3",
+    "InChl_Key": "BMRDSTLUPXLDKD-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(=O)N2CCNCC2)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10370",
+    "validation": ""
+}

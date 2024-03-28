@@ -1,0 +1,13 @@
+{
+    "names": "5-MeS-2,4-DMBAL ; 5-Methylthio-2,4-dimethoxybenzaldehyde",
+    "iupac_name": "2,4-Dimethoxy-5-(methylsulfanyl)benzaldehyde",
+    "category": "data not stored",
+    "index": 11079,
+    "formular": "C10H12O3S",
+    "molecular_weight": 212.265,
+    "inChl": "1S/C10H12O3S/c1-12-8-5-9(13-2)10(14-3)4-7(8)6-11/h4-6H,1-3H3",
+    "InChl_Key": "FOHQCGFVAVHIAE-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(SC)cc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11079",
+    "validation": "m_weight unsave, calculated(212.26999999999998)"
+}

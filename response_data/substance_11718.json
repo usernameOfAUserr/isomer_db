@@ -1,0 +1,13 @@
+{
+    "names": "Ro-16-3607",
+    "iupac_name": "tert-Butyl 8-methoxy-9-oxo-11,12,13,13a-tetrahydro-9H-imidazo[1,5-a]pyrrolo[2,1-c][1,4]benzodiazepine-1-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 11718,
+    "formular": "C20H23N3O4",
+    "molecular_weight": 369.414,
+    "inChl": "1S/C20H23N3O4/c1-20(2,3)27-19(25)16-17-13-8-6-10-22(13)18(24)15-12(23(17)11-21-16)7-5-9-14(15)26-4/h5,7,9,11,13H,6,8,10H2,1-4H3",
+    "InChl_Key": "VEWIUEUYTQRUFK-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c1C(=O)N1CCCC1c1c(C(=O)OC(C)(C)C)ncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11718",
+    "validation": "m_weight unsave, calculated(369.42100000000016)"
+}

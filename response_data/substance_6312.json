@@ -1,0 +1,13 @@
+{
+    "names": "3\u03b2-Phenyltropane-2\u03b2-carboxylic acid chloride",
+    "iupac_name": "(2S,3S)-8-Methyl-3-phenyl-8-azabicyclo[3.2.1]octane-2-carbonyl chloride",
+    "category": "data not stored",
+    "index": 6312,
+    "formular": "C15H18ClNO",
+    "molecular_weight": 263.763,
+    "inChl": "1S/C15H18ClNO/c1-17-11-7-8-13(17)14(15(16)18)12(9-11)10-5-3-2-4-6-10/h2-6,11-14H,7-9H2,1H3/t11?,12-,13?,14+/m1/s1",
+    "InChl_Key": "BKTWOCFPEVPWBM-HHTDUIENSA-N",
+    "SMILES": "CN1C2CCC1[C@@H](C(=O)Cl)[C@@H](c1ccccc1)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6312",
+    "validation": "m_weight unsave, calculated(263.76800000000003)"
+}

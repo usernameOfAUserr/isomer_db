@@ -1,0 +1,13 @@
+{
+    "names": "N-Cyclopentyl-3-fluorocathinone",
+    "iupac_name": "2-(Cyclopentylamino)-1-(3-fluorophenyl)propan-1-one",
+    "category": "data not stored",
+    "index": 6737,
+    "formular": "C14H18FNO",
+    "molecular_weight": 235.297,
+    "inChl": "1S/C14H18FNO/c1-10(16-13-7-2-3-8-13)14(17)11-5-4-6-12(15)9-11/h4-6,9-10,13,16H,2-3,7-8H2,1H3",
+    "InChl_Key": "CFVHNYYHCCJXDK-UHFFFAOYSA-N",
+    "SMILES": "CC(NC1CCCC1)C(=O)c1cccc(F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6737",
+    "validation": "m_weight unsave, calculated(235.30199999999996)"
+}

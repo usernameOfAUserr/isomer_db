@@ -1,0 +1,13 @@
+{
+    "names": "25I-N1Nap2OH ; N-(2-Hydroxynaphthalen-1-ylmethyl)-4-iodo-2,5-dimethoxyphenethylamine",
+    "iupac_name": "1-({[2-(4-Iodo-2,5-dimethoxyphenyl)ethyl]amino}methyl)naphthalen-2-ol",
+    "category": "Phenetylamine",
+    "index": 5516,
+    "formular": "C21H22INO3",
+    "molecular_weight": 463.309,
+    "inChl": "1S/C21H22INO3/c1-25-20-12-18(22)21(26-2)11-15(20)9-10-23-13-17-16-6-4-3-5-14(16)7-8-19(17)24/h3-8,11-12,23-24H,9-10,13H2,1-2H3",
+    "InChl_Key": "CTGIMYIUEBZAGO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2c(O)ccc3ccccc23)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5516",
+    "validation": "m_weight unsave, calculated(463.3150000000002)"
+}

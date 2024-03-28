@@ -1,0 +1,13 @@
+{
+    "names": "N-PhPe-A ; N-(5-Phenylpentyl)amphetamine",
+    "iupac_name": "5-Phenyl-N-(1-phenylpropan-2-yl)pentan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10641,
+    "formular": "C20H27N",
+    "molecular_weight": 281.435,
+    "inChl": "1S/C20H27N/c1-18(17-20-14-7-3-8-15-20)21-16-10-4-9-13-19-11-5-2-6-12-19/h2-3,5-8,11-12,14-15,18,21H,4,9-10,13,16-17H2,1H3",
+    "InChl_Key": "HJSNGVRGYKYSOZ-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NCCCCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10641",
+    "validation": "m_weight unsave, calculated(281.4429999999999)"
+}

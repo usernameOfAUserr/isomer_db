@@ -1,0 +1,13 @@
+{
+    "names": "DMAA ; Dimethylamylamine ; Methylhexanamine",
+    "iupac_name": "4-Methylhexan-2-amine",
+    "category": "Phenetylamine",
+    "index": 12152,
+    "formular": "C7H17N",
+    "molecular_weight": 115.217,
+    "inChl": "1S/C7H17N/c1-4-6(2)5-7(3)8/h6-7H,4-5,8H2,1-3H3",
+    "InChl_Key": "YAHRDLICUYEDAU-UHFFFAOYSA-N",
+    "SMILES": "CCC(C)CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12152",
+    "validation": "m_weight unsave, calculated(115.22)"
+}

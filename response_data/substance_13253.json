@@ -1,0 +1,13 @@
+{
+    "names": "Cyclopentolate",
+    "iupac_name": "2-(Dimethylamino)ethyl (1-hydroxycyclopentyl)(phenyl)acetate",
+    "category": "data not stored",
+    "index": 13253,
+    "formular": "C17H25NO3",
+    "molecular_weight": 291.385,
+    "inChl": "1S/C17H25NO3/c1-18(2)12-13-21-16(19)15(14-8-4-3-5-9-14)17(20)10-6-7-11-17/h3-5,8-9,15,20H,6-7,10-13H2,1-2H3",
+    "InChl_Key": "SKYSRIRYMSLOIN-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCOC(=O)C(c1ccccc1)C1(O)CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13253",
+    "validation": "m_weight unsave, calculated(291.39099999999996)"
+}

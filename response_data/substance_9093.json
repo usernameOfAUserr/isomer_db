@@ -1,0 +1,13 @@
+{
+    "names": "PCEMPy",
+    "iupac_name": "3-Ethyl-3-methyl-1-(1-phenylcyclohexyl)pyrrolidine",
+    "category": "Arylcycloalkylamine",
+    "index": 9093,
+    "formular": "C19H29N",
+    "molecular_weight": 271.44,
+    "inChl": "1S/C19H29N/c1-3-18(2)14-15-20(16-18)19(12-8-5-9-13-19)17-10-6-4-7-11-17/h4,6-7,10-11H,3,5,8-9,12-16H2,1-2H3",
+    "InChl_Key": "FRBKRGLEAWDCIX-UHFFFAOYSA-N",
+    "SMILES": "CCC1(C)CCN(C2(c3ccccc3)CCCCC2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9093",
+    "validation": "m_weight unsave, calculated(271.4479999999999)"
+}

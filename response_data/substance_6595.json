@@ -1,0 +1,13 @@
+{
+    "names": "1-(2H-1,3-Benzodioxol-5-yl)pentan-1-one",
+    "iupac_name": "6595 ; C12H14O3 ; 206.238",
+    "category": "data not stored",
+    "index": 6595,
+    "formular": "C12H14O3",
+    "molecular_weight": 206.238,
+    "inChl": "1S/C12H14O3/c1-2-3-4-10(13)9-5-6-11-12(7-9)15-8-14-11/h5-7H,2-4,8H2,1H3",
+    "InChl_Key": "VSLRIRGQCOPULE-UHFFFAOYSA-N",
+    "SMILES": "CCCCC(=O)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6595",
+    "validation": "m_weight unsave, calculated(206.24099999999996)"
+}

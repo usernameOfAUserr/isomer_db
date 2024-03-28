@@ -1,0 +1,13 @@
+{
+    "names": "JB-841 ; Ditran-B ; 3-Piperidyl benzilate",
+    "iupac_name": "Piperidin-3-yl hydroxy(diphenyl)acetate",
+    "category": "data not stored",
+    "index": 9788,
+    "formular": "C19H21NO3",
+    "molecular_weight": 311.375,
+    "inChl": "1S/C19H21NO3/c21-18(23-17-12-7-13-20-14-17)19(22,15-8-3-1-4-9-15)16-10-5-2-6-11-16/h1-6,8-11,17,20,22H,7,12-14H2",
+    "InChl_Key": "IGXOSKVDCFQEBF-UHFFFAOYSA-N",
+    "SMILES": "O=C(OC1CCCNC1)C(O)(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9788",
+    "validation": "m_weight unsave, calculated(311.3810000000001)"
+}

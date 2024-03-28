@@ -1,0 +1,13 @@
+{
+    "names": "5-[(Diphenylmethanesulfinyl)methyl]-3-(trifluoromethyl)-1,2,4-oxadiazole",
+    "iupac_name": "3648 ; C17H13F3N2O2S ; 366.358",
+    "category": "data not stored",
+    "index": 3648,
+    "formular": "C17H13F3N2O2S",
+    "molecular_weight": 366.358,
+    "inChl": "1S/C17H13F3N2O2S/c18-17(19,20)16-21-14(24-22-16)11-25(23)15(12-7-3-1-4-8-12)13-9-5-2-6-10-13/h1-10,15H,11H2",
+    "InChl_Key": "JGLPDUKBODWHIN-UHFFFAOYSA-N",
+    "SMILES": "O=S(Cc1nc(C(F)(F)F)no1)C(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3648",
+    "validation": "m_weight unsave, calculated(366.36400000000003)"
+}

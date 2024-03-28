@@ -1,0 +1,13 @@
+{
+    "names": "CMP-TPC",
+    "iupac_name": "N-[1-(Cyclohexa-1,4-dien-1-yl)propan-2-yl]-N-methyl-1-(trifluoroacetyl)-L-prolinamide ; (2S)-N-[1-(Cyclohexa-1,4-dien-1-yl)propan-2-yl]-N-methyl-1-(trifluoroacetyl)pyrrolidine-2-carboxamide",
+    "category": "data not stored",
+    "index": 7098,
+    "formular": "C17H23F3N2O2",
+    "molecular_weight": 344.372,
+    "inChl": "1S/C17H23F3N2O2/c1-12(11-13-7-4-3-5-8-13)21(2)15(23)14-9-6-10-22(14)16(24)17(18,19)20/h3-4,8,12,14H,5-7,9-11H2,1-2H3/t12?,14-/m0/s1",
+    "InChl_Key": "JHKLVRUWPVRJTO-PYMCNQPYSA-N",
+    "SMILES": "CC(CC1=CCC=CC1)N(C)C(=O)[C@@H]1CCCN1C(=O)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7098",
+    "validation": "m_weight unsave, calculated(344.3770000000001)"
+}

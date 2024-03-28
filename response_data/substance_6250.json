@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 6-(4-chlorophenyl)-4H-imidazo[1,5-a]naphtho[2,1-f][1,4]diazepine-3-carboxylate",
+    "iupac_name": "6250 ; C24H18ClN3O2 ; 415.872",
+    "category": "Aryldiazepine",
+    "index": 6250,
+    "formular": "C24H18ClN3O2",
+    "molecular_weight": 415.872,
+    "inChl": "1S/C24H18ClN3O2/c1-2-30-24(29)22-20-13-26-21(16-7-10-17(25)11-8-16)19-12-9-15-5-3-4-6-18(15)23(19)28(20)14-27-22/h3-12,14H,2,13H2,1H3",
+    "InChl_Key": "OLCFVZAAUQHMLE-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ncn2c1CN=C(c1ccc(Cl)cc1)c1ccc3ccccc3c1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6250",
+    "validation": "m_weight unsave, calculated(415.8800000000001)"
+}

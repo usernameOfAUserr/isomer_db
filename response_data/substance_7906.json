@@ -1,0 +1,13 @@
+{
+    "names": "2C-PLY ; 2C-H-MOTH",
+    "iupac_name": "2-(2,3,4,7,8,9-Hexahydrobenzo[1,2-b:4,5-b\u2032]dipyran-5-yl)ethan-1-amine ; 2-(2,3,4,7,8,9-Hexahydropyrano[2,3-g]chromen-5-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 7906,
+    "formular": "C14H19NO2",
+    "molecular_weight": 233.306,
+    "inChl": "1S/C14H19NO2/c15-6-5-12-11-4-2-7-16-13(11)9-10-3-1-8-17-14(10)12/h9H,1-8,15H2",
+    "InChl_Key": "IRZRFCDHRXYRFD-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c2c(cc3c1OCCC3)OCCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7906",
+    "validation": "m_weight unsave, calculated(233.31099999999995)"
+}

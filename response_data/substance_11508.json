@@ -1,0 +1,13 @@
+{
+    "names": "5-Iodo-DMT ; 5-Iodo-N,N-dimethyltryptamine",
+    "iupac_name": "2-(5-Iodo-1H-indol-3-yl)-N,N-dimethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 11508,
+    "formular": "C12H15IN2",
+    "molecular_weight": 314.165,
+    "inChl": "1S/C12H15IN2/c1-15(2)6-5-9-8-14-12-4-3-10(13)7-11(9)12/h3-4,7-8,14H,5-6H2,1-2H3",
+    "InChl_Key": "XYQLQZJFTUUKHM-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2ccc(I)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11508",
+    "validation": "m_weight unsave, calculated(314.17)"
+}

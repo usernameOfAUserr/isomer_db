@@ -1,0 +1,13 @@
+{
+    "names": "(2,2-Difluorocyclopropyl)mescaline ; 3,3-DFCPM",
+    "iupac_name": "2-{4-[(2,2-Difluorocyclopropyl)methoxy]-3,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "data not stored",
+    "index": 11314,
+    "formular": "C14H19F2NO3",
+    "molecular_weight": 287.302,
+    "inChl": "1S/C14H19F2NO3/c1-18-11-5-9(3-4-17)6-12(19-2)13(11)20-8-10-7-14(10,15)16/h5-6,10H,3-4,7-8,17H2,1-2H3",
+    "InChl_Key": "WUFJAIAXCVNWQN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(OC)c1OCC1CC1(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11314",
+    "validation": "m_weight unsave, calculated(287.3059999999999)"
+}

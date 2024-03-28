@@ -1,0 +1,13 @@
+{
+    "names": "2,3-DMMC ; 2,3-Dimethylmethcathinone",
+    "iupac_name": "1-(2,3-Dimethylphenyl)-2-(methylamino)propan-1-one",
+    "category": "data not stored",
+    "index": 1020,
+    "formular": "C12H17NO",
+    "molecular_weight": 191.269,
+    "inChl": "1S/C12H17NO/c1-8-6-5-7-11(9(8)2)12(14)10(3)13-4/h5-7,10,13H,1-4H3",
+    "InChl_Key": "APVRHNHXZXFDLN-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(=O)c1cccc(C)c1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1020",
+    "validation": "m_weight unsave, calculated(191.27399999999994)"
+}

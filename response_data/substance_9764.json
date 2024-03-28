@@ -1,0 +1,13 @@
+{
+    "names": "2-(4-Chlorophenoxy)-N-[4-methyl-2-(4-methylpiperazin-1-yl)quinolin-6-yl]acetamide",
+    "iupac_name": "9764 ; C23H25ClN4O2 ; 424.923",
+    "category": "data not stored",
+    "index": 9764,
+    "formular": "C23H25ClN4O2",
+    "molecular_weight": 424.923,
+    "inChl": "1S/C23H25ClN4O2/c1-16-13-22(28-11-9-27(2)10-12-28)26-21-8-5-18(14-20(16)21)25-23(29)15-30-19-6-3-17(24)4-7-19/h3-8,13-14H,9-12,15H2,1-2H3,(H,25,29)",
+    "InChl_Key": "OKIVGPUCUWMOIH-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(N2CCN(C)CC2)nc2ccc(NC(=O)COc3ccc(Cl)cc3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9764",
+    "validation": "m_weight unsave, calculated(424.93200000000013)"
+}

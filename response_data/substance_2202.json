@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyltyramine ; 4-Hydroxy-N-methylphenethylamine ; HMePEA",
+    "iupac_name": "4-[2-(Methylamino)ethyl]phenol",
+    "category": "Peyote alkaloid",
+    "index": 2202,
+    "formular": "C9H13NO",
+    "molecular_weight": 151.206,
+    "inChl": "1S/C9H13NO/c1-10-7-6-8-2-4-9(11)5-3-8/h2-5,10-11H,6-7H2,1H3",
+    "InChl_Key": "AXVZFRBSCNEKPQ-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1ccc(O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2202",
+    "validation": "m_weight unsave, calculated(151.20899999999997)"
+}

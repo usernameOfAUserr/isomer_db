@@ -1,0 +1,13 @@
+{
+    "names": "1-(Naphthalen-1-yl)propan-2-one",
+    "iupac_name": "11055 ; C13H12O ; 184.234",
+    "category": "data not stored",
+    "index": 11055,
+    "formular": "C13H12O",
+    "molecular_weight": 184.234,
+    "inChl": "1S/C13H12O/c1-10(14)9-12-7-4-6-11-5-2-3-8-13(11)12/h2-8H,9H2,1H3",
+    "InChl_Key": "FGMOPLPOIRMOJW-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Cc1cccc2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11055",
+    "validation": "m_weight unsave, calculated(184.238)"
+}

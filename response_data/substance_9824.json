@@ -1,0 +1,13 @@
+{
+    "names": "MA-NB4Me ; N-(4-Methylbenzyl)-N-methylamphetamine",
+    "iupac_name": "N-Methyl-N-[(4-methylphenyl)methyl]-1-phenylpropan-2-amine",
+    "category": "data not stored",
+    "index": 9824,
+    "formular": "C18H23N",
+    "molecular_weight": 253.382,
+    "inChl": "1S/C18H23N/c1-15-9-11-18(12-10-15)14-19(3)16(2)13-17-7-5-4-6-8-17/h4-12,16H,13-14H2,1-3H3",
+    "InChl_Key": "HKVKXNRVEUNUSE-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(CN(C)C(C)Cc2ccccc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9824",
+    "validation": "m_weight unsave, calculated(253.38899999999998)"
+}

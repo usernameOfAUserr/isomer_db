@@ -1,0 +1,13 @@
+{
+    "names": "3-TDFM ; 4-Difluoromethoxy-3-methoxy-5-methylthiophenethylamine",
+    "iupac_name": "2-[4-(Difluoromethoxy)-3-methoxy-5-(methylsulfanyl)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10286,
+    "formular": "C11H15F2NO2S",
+    "molecular_weight": 263.304,
+    "inChl": "1S/C11H15F2NO2S/c1-15-8-5-7(3-4-14)6-9(17-2)10(8)16-11(12)13/h5-6,11H,3-4,14H2,1-2H3",
+    "InChl_Key": "YFPKDXRMOGEZOB-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(SC)c1OC(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10286",
+    "validation": "m_weight unsave, calculated(263.30899999999997)"
+}

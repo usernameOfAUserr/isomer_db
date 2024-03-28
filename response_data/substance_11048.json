@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Methyl-P2P",
+    "iupac_name": "3-Phenylbutan-2-one",
+    "category": "data not stored",
+    "index": 11048,
+    "formular": "C10H12O",
+    "molecular_weight": 148.202,
+    "inChl": "1S/C10H12O/c1-8(9(2)11)10-6-4-3-5-7-10/h3-8H,1-2H3",
+    "InChl_Key": "CVWMNAWLNRRPOL-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)C(C)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11048",
+    "validation": "m_weight unsave, calculated(148.20499999999996)"
+}

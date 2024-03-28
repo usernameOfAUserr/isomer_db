@@ -1,0 +1,13 @@
+{
+    "names": "4\u2032-Methyl-\u03b1-(pyrrolidin-1-yl)isobutanophenone",
+    "iupac_name": "2-Methyl-1-(4-methylphenyl)-2-(pyrrolidin-1-yl)propan-1-one",
+    "category": "data not stored",
+    "index": 2120,
+    "formular": "C15H21NO",
+    "molecular_weight": 231.333,
+    "inChl": "1S/C15H21NO/c1-12-6-8-13(9-7-12)14(17)15(2,3)16-10-4-5-11-16/h6-9H,4-5,10-11H2,1-3H3",
+    "InChl_Key": "YMGQEFUZLVESMR-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)C(C)(C)N2CCCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2120",
+    "validation": "m_weight unsave, calculated(231.33900000000003)"
+}

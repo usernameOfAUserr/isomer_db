@@ -1,0 +1,13 @@
+{
+    "names": "3-Br-PEA ; 3-Bromophenethylamine",
+    "iupac_name": "2-(3-Bromophenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 1508,
+    "formular": "C8H10BrN",
+    "molecular_weight": 200.076,
+    "inChl": "1S/C8H10BrN/c9-8-3-1-2-7(6-8)4-5-10/h1-3,6H,4-5,10H2",
+    "InChl_Key": "ORHRHMLEFQBHND-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cccc(Br)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1508",
+    "validation": "m_weight unsave, calculated(200.07899999999995)"
+}

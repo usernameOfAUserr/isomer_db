@@ -1,0 +1,13 @@
+{
+    "names": "4-Cl-BzPip",
+    "iupac_name": "(4-Chlorophenyl)(piperidin-3-yl)methanone",
+    "category": "data not stored",
+    "index": 10079,
+    "formular": "C12H14ClNO",
+    "molecular_weight": 223.699,
+    "inChl": "1S/C12H14ClNO/c13-11-5-3-9(4-6-11)12(15)10-2-1-7-14-8-10/h3-6,10,14H,1-2,7-8H2",
+    "InChl_Key": "IXWBWTMJACOQNG-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccc(Cl)cc1)C1CCCNC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10079",
+    "validation": "m_weight unsave, calculated(223.70299999999995)"
+}

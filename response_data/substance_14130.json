@@ -1,0 +1,13 @@
+{
+    "names": "2,4,6-TEt-BnCN",
+    "iupac_name": "(2,4,6-Triethylphenyl)acetonitrile",
+    "category": "data not stored",
+    "index": 14130,
+    "formular": "C14H19N",
+    "molecular_weight": 201.307,
+    "inChl": "1S/C14H19N/c1-4-11-9-12(5-2)14(7-8-15)13(6-3)10-11/h9-10H,4-7H2,1-3H3",
+    "InChl_Key": "IUKFSXSUVKDECV-UHFFFAOYSA-N",
+    "SMILES": "CCc1cc(CC)c(CC#N)c(CC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14130",
+    "validation": "m_weight unsave, calculated(201.31299999999996)"
+}

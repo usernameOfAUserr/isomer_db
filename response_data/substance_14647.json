@@ -1,0 +1,13 @@
+{
+    "names": "5-(Naphthalen-2-ylmethoxy)tryptamine",
+    "iupac_name": "2-{5-[(Naphthalen-2-yl)methoxy]-1H-indol-3-yl}ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 14647,
+    "formular": "C21H20N2O",
+    "molecular_weight": 316.396,
+    "inChl": "1S/C21H20N2O/c22-10-9-18-13-23-21-8-7-19(12-20(18)21)24-14-15-5-6-16-3-1-2-4-17(16)11-15/h1-8,11-13,23H,9-10,14,22H2",
+    "InChl_Key": "SPDOMOCWKCKHME-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2ccc(OCc3ccc4ccccc4c3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14647",
+    "validation": "m_weight unsave, calculated(316.404)"
+}

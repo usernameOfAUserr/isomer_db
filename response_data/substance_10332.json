@@ -1,0 +1,13 @@
+{
+    "names": "2C-O-3 ; 2,5-Dimethoxy-4-methallyloxyphenethylamine",
+    "iupac_name": "2-{2,5-Dimethoxy-4-[(2-methylprop-2-en-1-yl)oxy]phenyl}ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10332,
+    "formular": "C14H21NO3",
+    "molecular_weight": 251.321,
+    "inChl": "1S/C14H21NO3/c1-10(2)9-18-14-8-12(16-3)11(5-6-15)7-13(14)17-4/h7-8H,1,5-6,9,15H2,2-4H3",
+    "InChl_Key": "PQYXUMHLYXNQEM-UHFFFAOYSA-N",
+    "SMILES": "C=C(C)COc1cc(OC)c(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10332",
+    "validation": "m_weight unsave, calculated(251.32599999999994)"
+}

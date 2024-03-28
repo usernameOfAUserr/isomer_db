@@ -1,0 +1,13 @@
+{
+    "names": "2,4,6-TFA ; 2,4,6-Trifluoroamphetamine",
+    "iupac_name": "1-(2,4,6-Trifluorophenyl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10250,
+    "formular": "C9H10F3N",
+    "molecular_weight": 189.178,
+    "inChl": "1S/C9H10F3N/c1-5(13)2-7-8(11)3-6(10)4-9(7)12/h3-5H,2,13H2,1H3",
+    "InChl_Key": "NIEPRHZEHULLHV-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c(F)cc(F)cc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10250",
+    "validation": "m_weight unsave, calculated(189.17999999999995)"
+}

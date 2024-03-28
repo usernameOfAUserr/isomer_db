@@ -1,0 +1,13 @@
+{
+    "names": "(C6)-CP 47,497",
+    "iupac_name": "2-[(1S,3R)-3-Hydroxycyclohexyl]-5-(2-methylheptan-2-yl)phenol",
+    "category": "cannabinodids",
+    "index": 4735,
+    "formular": "C20H32O2",
+    "molecular_weight": 304.467,
+    "inChl": "1S/C20H32O2/c1-4-5-6-12-20(2,3)16-10-11-18(19(22)14-16)15-8-7-9-17(21)13-15/h10-11,14-15,17,21-22H,4-9,12-13H2,1-3H3/t15-,17+/m0/s1",
+    "InChl_Key": "KQUGQXNYBWYGAI-DOTOQJQBSA-N",
+    "SMILES": "CCCCCC(C)(C)c1ccc([C@H]2CCC[C@@H](O)C2)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4735",
+    "validation": "m_weight unsave, calculated(304.474)"
+}

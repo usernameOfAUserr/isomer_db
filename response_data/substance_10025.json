@@ -1,0 +1,13 @@
+{
+    "names": "N-iPr-2,3-HPEA ; N-Isopropyl-2,3-dihydroxyphenethylamine",
+    "iupac_name": "N-[2-(2,3-Dimethoxyphenyl)ethyl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10025,
+    "formular": "C13H21NO2",
+    "molecular_weight": 223.311,
+    "inChl": "1S/C13H21NO2/c1-10(2)14-9-8-11-6-5-7-12(15-3)13(11)16-4/h5-7,10,14H,8-9H2,1-4H3",
+    "InChl_Key": "GDCJQVOYOOAQNU-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(CCNC(C)C)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10025",
+    "validation": "m_weight unsave, calculated(223.316)"
+}

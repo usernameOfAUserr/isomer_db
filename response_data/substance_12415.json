@@ -1,0 +1,13 @@
+{
+    "names": "1-(4-Methylphenoxy)propan-2-amine",
+    "iupac_name": "12415 ; C10H15NO ; 165.232",
+    "category": "data not stored",
+    "index": 12415,
+    "formular": "C10H15NO",
+    "molecular_weight": 165.232,
+    "inChl": "1S/C10H15NO/c1-8-3-5-10(6-4-8)12-7-9(2)11/h3-6,9H,7,11H2,1-2H3",
+    "InChl_Key": "IKSQZYUYDAEOEE-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(OCC(C)N)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12415",
+    "validation": "m_weight unsave, calculated(165.23599999999996)"
+}

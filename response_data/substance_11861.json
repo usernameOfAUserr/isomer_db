@@ -1,0 +1,13 @@
+{
+    "names": "8-Methyl-8-azabicyclo[3.2.1]octan-2-yl 2-hydroxy-3-methyl-2-phenylbut-3-enoate",
+    "iupac_name": "11861 ; C19H25NO3 ; 315.407",
+    "category": "data not stored",
+    "index": 11861,
+    "formular": "C19H25NO3",
+    "molecular_weight": 315.407,
+    "inChl": "1S/C19H25NO3/c1-13(2)19(22,14-7-5-4-6-8-14)18(21)23-17-12-10-15-9-11-16(17)20(15)3/h4-8,15-17,22H,1,9-12H2,2-3H3",
+    "InChl_Key": "LPCWAGHWJNRXDB-UHFFFAOYSA-N",
+    "SMILES": "C=C(C)C(O)(C(=O)OC1CCC2CCC1N2C)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11861",
+    "validation": "m_weight unsave, calculated(315.41300000000007)"
+}

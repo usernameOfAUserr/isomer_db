@@ -1,0 +1,13 @@
+{
+    "names": "Fomocaine",
+    "iupac_name": "4-{3-[4-(Phenoxymethyl)phenyl]propyl}morpholine",
+    "category": "Phenetylamine",
+    "index": 10623,
+    "formular": "C20H25NO2",
+    "molecular_weight": 311.418,
+    "inChl": "1S/C20H25NO2/c1-2-6-20(7-3-1)23-17-19-10-8-18(9-11-19)5-4-12-21-13-15-22-16-14-21/h1-3,6-11H,4-5,12-17H2",
+    "InChl_Key": "CVHGCWVMTZWGAY-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(OCc2ccc(CCCN3CCOCC3)cc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10623",
+    "validation": "m_weight unsave, calculated(311.425)"
+}

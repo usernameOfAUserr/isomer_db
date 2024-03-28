@@ -1,0 +1,13 @@
+{
+    "names": "AM-729",
+    "iupac_name": "(6aR,10aR)-3-[(Adamantan-1-yl)methyl]-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-ol",
+    "category": "cannabinodids",
+    "index": 4658,
+    "formular": "C27H36O2",
+    "molecular_weight": 392.574,
+    "inChl": "1S/C27H36O2/c1-16-4-5-22-21(6-16)25-23(28)10-20(11-24(25)29-26(22,2)3)15-27-12-17-7-18(13-27)9-19(8-17)14-27/h4,10-11,17-19,21-22,28H,5-9,12-15H2,1-3H3/t17?,18?,19?,21-,22-,27?/m1/s1",
+    "InChl_Key": "VDJBGWTWCFAPCD-SFDMKYNQSA-N",
+    "SMILES": "CC1=CC[C@@H]2[C@@H](C1)c1c(O)cc(CC34CC5CC(CC(C5)C3)C4)cc1OC2(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4658",
+    "validation": "m_weight unsave, calculated(392.5830000000003)"
+}

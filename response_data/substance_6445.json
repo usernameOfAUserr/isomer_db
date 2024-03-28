@@ -1,0 +1,13 @@
+{
+    "names": "AL-1095",
+    "iupac_name": "2-[(4-Chlorophenyl)(phenyl)methyl]-1-azabicyclo[2.2.2]octan-3-ol",
+    "category": "data not stored",
+    "index": 6445,
+    "formular": "C20H22ClNO",
+    "molecular_weight": 327.848,
+    "inChl": "1S/C20H22ClNO/c21-17-8-6-15(7-9-17)18(14-4-2-1-3-5-14)19-20(23)16-10-12-22(19)13-11-16/h1-9,16,18-20,23H,10-13H2",
+    "InChl_Key": "JXCMZYHEZWCLOD-UHFFFAOYSA-N",
+    "SMILES": "OC1C2CCN(CC2)C1C(c1ccccc1)c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6445",
+    "validation": "m_weight unsave, calculated(327.85500000000013)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "23H-NBBr ; N-(2-Bromobenzyl)-2,3-dimethoxyphenethylamine",
+    "iupac_name": "N-[(2-Bromophenyl)methyl]-2-(2,3-dimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14834,
+    "formular": "C17H20BrNO2",
+    "molecular_weight": 350.25,
+    "inChl": "1S/C17H20BrNO2/c1-20-16-9-5-7-13(17(16)21-2)10-11-19-12-14-6-3-4-8-15(14)18/h3-9,19H,10-12H2,1-2H3",
+    "InChl_Key": "AHXDTSOZHOZKFC-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(CCNCc2ccccc2Br)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14834",
+    "validation": "m_weight unsave, calculated(350.2560000000001)"
+}

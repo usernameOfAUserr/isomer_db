@@ -1,0 +1,13 @@
+{
+    "names": "6-HO-PPAT ; JMB-249",
+    "iupac_name": "6-(Dipropylamino)-5,6,7,8-tetrahydronaphthalen-2-ol",
+    "category": "Shulgin_Index",
+    "index": 6454,
+    "formular": "C16H25NO",
+    "molecular_weight": 247.376,
+    "inChl": "1S/C16H25NO/c1-3-9-17(10-4-2)15-7-5-14-12-16(18)8-6-13(14)11-15/h6,8,12,15,18H,3-5,7,9-11H2,1-2H3",
+    "InChl_Key": "GJLQYNALOOKSLR-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C1CCc2cc(O)ccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6454",
+    "validation": "m_weight unsave, calculated(247.38199999999995)"
+}

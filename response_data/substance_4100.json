@@ -1,0 +1,13 @@
+{
+    "names": "{1-[(1-Methylpiperidin-2-yl)methyl]-1H-indol-3-yl}(octahydroquinolin-1(2H)-yl)methanone",
+    "iupac_name": "4100 ; C25H35N3O ; 393.565",
+    "category": "cannabinodids",
+    "index": 4100,
+    "formular": "C25H35N3O",
+    "molecular_weight": 393.565,
+    "inChl": "1S/C25H35N3O/c1-26-15-7-6-11-20(26)17-27-18-22(21-12-3-5-14-24(21)27)25(29)28-16-8-10-19-9-2-4-13-23(19)28/h3,5,12,14,18-20,23H,2,4,6-11,13,15-17H2,1H3",
+    "InChl_Key": "MIDRJPJGWXMBPG-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCCC1Cn1cc(C(=O)N2CCCC3CCCCC32)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4100",
+    "validation": "m_weight unsave, calculated(393.57500000000033)"
+}

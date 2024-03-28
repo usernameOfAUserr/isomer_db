@@ -1,0 +1,13 @@
+{
+    "names": "6,6a,7,8,9,13b-Hexahydro[1]benzopyrano[4,3-a][3]benzazepine-11,12-diol ; 6,6a,7,8,9,13b-Hexahydrochromeno[4,3-a][3]benzazepine-11,12-diol",
+    "iupac_name": "1315 ; C17H17NO3 ; 283.322",
+    "category": "data not stored",
+    "index": 1315,
+    "formular": "C17H17NO3",
+    "molecular_weight": 283.322,
+    "inChl": "1S/C17H17NO3/c19-14-7-10-5-6-18-13-9-21-16-4-2-1-3-11(16)17(13)12(10)8-15(14)20/h1-4,7-8,13,17-20H,5-6,9H2",
+    "InChl_Key": "UTEYDINLSRZWDN-UHFFFAOYSA-N",
+    "SMILES": "Oc1cc2c(cc1O)C1c3ccccc3OCC1NCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1315",
+    "validation": "m_weight unsave, calculated(283.32700000000006)"
+}

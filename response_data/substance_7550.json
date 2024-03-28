@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-N-trifluoroethyl-NET ; 4-Hydroxy-N-trifluoroethyl-N-ethyltryptamine",
+    "iupac_name": "3-{2-[Ethyl(2,2,2-trifluoroethyl)amino]ethyl}-1H-indol-4-ol",
+    "category": "Prophetic? \u00b7 Tryptamine",
+    "index": 7550,
+    "formular": "C14H17F3N2O",
+    "molecular_weight": 286.293,
+    "inChl": "1S/C14H17F3N2O/c1-2-19(9-14(15,16)17)7-6-10-8-18-11-4-3-5-12(20)13(10)11/h3-5,8,18,20H,2,6-7,9H2,1H3",
+    "InChl_Key": "FPLOOGHRYJIHLY-UHFFFAOYSA-N",
+    "SMILES": "CCN(CCc1c[nH]c2cccc(O)c12)CC(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7550",
+    "validation": "m_weight unsave, calculated(286.297)"
+}

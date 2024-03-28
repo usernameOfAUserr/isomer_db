@@ -1,0 +1,13 @@
+{
+    "names": "PBCHA",
+    "iupac_name": "2-Phenylbicyclo[2.2.1]heptan-2-amine",
+    "category": "Arylcycloalkylamine",
+    "index": 1182,
+    "formular": "C13H17N",
+    "molecular_weight": 187.281,
+    "inChl": "1S/C13H17N/c14-13(11-4-2-1-3-5-11)9-10-6-7-12(13)8-10/h1-5,10,12H,6-9,14H2",
+    "InChl_Key": "VTADSSBVGLAWDN-UHFFFAOYSA-N",
+    "SMILES": "NC1(c2ccccc2)CC2CCC1C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1182",
+    "validation": "m_weight unsave, calculated(187.28600000000003)"
+}

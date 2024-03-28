@@ -1,0 +1,13 @@
+{
+    "names": "N-Cycloheptyllysergamide",
+    "iupac_name": "N-Cycloheptyl-6-methyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N-Cycloheptyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N-Cycloheptyl-6-methyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 5936,
+    "formular": "C23H29N3O",
+    "molecular_weight": 363.496,
+    "inChl": "1S/C23H29N3O/c1-26-14-16(23(27)25-17-7-4-2-3-5-8-17)11-19-18-9-6-10-20-22(18)15(13-24-20)12-21(19)26/h6,9-11,13,16-17,21,24H,2-5,7-8,12,14H2,1H3,(H,25,27)/t16-,21-/m1/s1",
+    "InChl_Key": "DFKNZRDGRBEOOQ-IIBYNOLFSA-N",
+    "SMILES": "CN1C[C@H](C(=O)NC2CCCCCC2)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5936",
+    "validation": "m_weight unsave, calculated(363.5050000000002)"
+}

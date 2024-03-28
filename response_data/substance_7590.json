@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-EPMI",
+    "iupac_name": "3-[(1-Ethylpyrrolidin-2-yl)methyl]-1H-indol-4-ol",
+    "category": "Prophetic?",
+    "index": 7590,
+    "formular": "C15H20N2O",
+    "molecular_weight": 244.332,
+    "inChl": "1S/C15H20N2O/c1-2-17-8-4-5-12(17)9-11-10-16-13-6-3-7-14(18)15(11)13/h3,6-7,10,12,16,18H,2,4-5,8-9H2,1H3",
+    "InChl_Key": "QXIBFBISQOOSBY-UHFFFAOYSA-N",
+    "SMILES": "CCN1CCCC1Cc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7590",
+    "validation": "m_weight unsave, calculated(244.33800000000002)"
+}

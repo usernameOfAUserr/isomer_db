@@ -1,0 +1,13 @@
+{
+    "names": "(Pentenyl) UR-144 ; TMCP-4en-PIMO",
+    "iupac_name": "[1-(Pent-4-en-1-yl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone",
+    "category": "cannabinodids",
+    "index": 4864,
+    "formular": "C21H27NO",
+    "molecular_weight": 309.445,
+    "inChl": "1S/C21H27NO/c1-6-7-10-13-22-14-16(15-11-8-9-12-17(15)22)18(23)19-20(2,3)21(19,4)5/h6,8-9,11-12,14,19H,1,7,10,13H2,2-5H3",
+    "InChl_Key": "NXTLUQFOTQPMOD-UHFFFAOYSA-N",
+    "SMILES": "C=CCCCn1cc(C(=O)C2C(C)(C)C2(C)C)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4864",
+    "validation": "m_weight unsave, calculated(309.4530000000001)"
+}

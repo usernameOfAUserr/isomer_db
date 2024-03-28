@@ -1,0 +1,13 @@
+{
+    "names": "(2-Pentyl) JWH-018",
+    "iupac_name": "(Naphthalen-1-yl)[1-(pentan-2-yl)-1H-indol-3-yl]methanone",
+    "category": "cannabinodids",
+    "index": 4146,
+    "formular": "C24H23NO",
+    "molecular_weight": 341.446,
+    "inChl": "1S/C24H23NO/c1-3-9-17(2)25-16-22(20-13-6-7-15-23(20)25)24(26)21-14-8-11-18-10-4-5-12-19(18)21/h4-8,10-17H,3,9H2,1-2H3",
+    "InChl_Key": "PYSUCFNXILFYSH-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C)n1cc(C(=O)c2cccc3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4146",
+    "validation": "m_weight unsave, calculated(341.45400000000006)"
+}

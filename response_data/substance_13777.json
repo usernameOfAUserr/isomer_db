@@ -1,0 +1,13 @@
+{
+    "names": "3-{(5S)-5-Methyl-1-[2-(2-methylpyrimidin-5-yl)ethyl]-1,2,5,6-tetrahydropyridin-3-yl}-1H-pyrrolo[2,3-b]pyridine",
+    "iupac_name": "13777 ; C20H23N5 ; 333.43",
+    "category": "data not stored",
+    "index": 13777,
+    "formular": "C20H23N5",
+    "molecular_weight": 333.43,
+    "inChl": "1S/C20H23N5/c1-14-8-17(19-11-24-20-18(19)4-3-6-21-20)13-25(12-14)7-5-16-9-22-15(2)23-10-16/h3-4,6,8-11,14H,5,7,12-13H2,1-2H3,(H,21,24)/t14-/m0/s1",
+    "InChl_Key": "GQGVWUKPLVHYSV-AWEZNQCLSA-N",
+    "SMILES": "Cc1ncc(CCN2CC(c3c[nH]c4ncccc34)=C[C@H](C)C2)cn1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13777",
+    "validation": "m_weight unsave, calculated(333.4390000000001)"
+}

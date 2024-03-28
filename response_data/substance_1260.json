@@ -1,0 +1,13 @@
+{
+    "names": "ADTN ; 2-Amino-6,7-dihydroxytetralin",
+    "iupac_name": "6-Amino-5,6,7,8-tetrahydronaphthalene-2,3-diol",
+    "category": "data not stored",
+    "index": 1260,
+    "formular": "C10H13NO2",
+    "molecular_weight": 179.216,
+    "inChl": "1S/C10H13NO2/c11-8-2-1-6-4-9(12)10(13)5-7(6)3-8/h4-5,8,12-13H,1-3,11H2",
+    "InChl_Key": "ASXGAOFCKGHGMF-UHFFFAOYSA-N",
+    "SMILES": "NC1CCc2cc(O)c(O)cc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1260",
+    "validation": "m_weight unsave, calculated(179.219)"
+}

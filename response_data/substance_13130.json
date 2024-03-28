@@ -1,0 +1,13 @@
+{
+    "names": "25B-NBOH-NBOC",
+    "iupac_name": "tert-Butyl [2-(4-bromo-2,5-dimethoxyphenyl)ethyl][(2-hydroxyphenyl)methyl]carbamate",
+    "category": "data not stored",
+    "index": 13130,
+    "formular": "C22H28BrNO5",
+    "molecular_weight": 466.365,
+    "inChl": "1S/C22H28BrNO5/c1-22(2,3)29-21(26)24(14-16-8-6-7-9-18(16)25)11-10-15-12-20(28-5)17(23)13-19(15)27-4/h6-9,12-13,25H,10-11,14H2,1-5H3",
+    "InChl_Key": "WNYULYQWINVFAN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN(Cc2ccccc2O)C(=O)OC(C)(C)C)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13130",
+    "validation": "m_weight unsave, calculated(466.37200000000024)"
+}

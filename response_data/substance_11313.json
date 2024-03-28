@@ -1,0 +1,13 @@
+{
+    "names": "4-AcO-TMT+ ; 4-Acetoxy-N,N,N-trimethyltryptamine+",
+    "iupac_name": "2-[4-(Acetyloxy)-1H-indol-3-yl]-N,N,N-trimethylethan-1-aminium",
+    "category": "Tryptamine",
+    "index": 11313,
+    "formular": "C15H21N2O2",
+    "molecular_weight": 261.339,
+    "inChl": "1S/C15H21N2O2/c1-11(18)19-14-7-5-6-13-15(14)12(10-16-13)8-9-17(2,3)4/h5-7,10,16H,8-9H2,1-4H3/q+1",
+    "InChl_Key": "VHDACRCBOLXOKS-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Oc1cccc2[nH]cc(CC[N+](C)(C)C)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11313",
+    "validation": "m_weight unsave, calculated(261.34499999999997)formular unsave, calculated(C15H21N2O2+)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "SDB-006 ; BZ-PICA",
+    "iupac_name": "N-Benzyl-1-pentyl-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4720,
+    "formular": "C21H24N2O",
+    "molecular_weight": 320.428,
+    "inChl": "1S/C21H24N2O/c1-2-3-9-14-23-16-19(18-12-7-8-13-20(18)23)21(24)22-15-17-10-5-4-6-11-17/h4-8,10-13,16H,2-3,9,14-15H2,1H3,(H,22,24)",
+    "InChl_Key": "OLACYTSBFXCDOH-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NCc2ccccc2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4720",
+    "validation": "m_weight unsave, calculated(320.43600000000004)"
+}

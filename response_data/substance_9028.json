@@ -1,0 +1,13 @@
+{
+    "names": "2-EtO-\u03b1-Et-PEA-HFBA",
+    "iupac_name": "N-[1-(2-Ethoxyphenyl)butan-2-yl]-2,2,3,3,4,4,4-heptafluorobutanamide",
+    "category": "data not stored",
+    "index": 9028,
+    "formular": "C16H18F7NO2",
+    "molecular_weight": 389.308,
+    "inChl": "1S/C16H18F7NO2/c1-3-11(9-10-7-5-6-8-12(10)26-4-2)24-13(25)14(17,18)15(19,20)16(21,22)23/h5-8,11H,3-4,9H2,1-2H3,(H,24,25)",
+    "InChl_Key": "NJKKHOAHZVPWRW-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccccc1CC(CC)NC(=O)C(F)(F)C(F)(F)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9028",
+    "validation": "m_weight unsave, calculated(389.311)"
+}

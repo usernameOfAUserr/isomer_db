@@ -1,0 +1,13 @@
+{
+    "names": "2-Dimethylaminoethyl-18-methoxycoronaridinamide",
+    "iupac_name": "N-[2-(Dimethylamino)ethyl]-21-methoxyibogamine-18-carboxamide ; (6S,6aS,7R,9R)-N-[2-(Dimethylamino)ethyl]-7-(2-methoxyethyl)-7,8,9,10,12,13-hexahydro-5H-6,9-methanopyrido[1\u2032,2\u2032:1,2]azepino[4,5-b]indole-6(6aH)-carboxamide",
+    "category": "data not stored",
+    "index": 8444,
+    "formular": "C25H36N4O2",
+    "molecular_weight": 424.579,
+    "inChl": "1S/C25H36N4O2/c1-28(2)12-10-26-24(30)25-15-17-14-18(9-13-31-3)23(25)29(16-17)11-8-20-19-6-4-5-7-21(19)27-22(20)25/h4-7,17-18,23,27H,8-16H2,1-3H3,(H,26,30)/t17-,18+,23+,25-/m1/s1",
+    "InChl_Key": "INQNJWGNHNUYPS-GMMXXOHYSA-N",
+    "SMILES": "COCC[C@H]1C[C@H]2CN3CCc4c([nH]c5ccccc45)[C@](C(=O)NCCN(C)C)(C2)[C@H]13",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8444",
+    "validation": "m_weight unsave, calculated(424.5890000000002)"
+}

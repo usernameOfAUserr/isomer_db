@@ -1,0 +1,13 @@
+{
+    "names": "1,2-Diphenylethane-1,2-diamine",
+    "iupac_name": "6648 ; C14H16N2 ; 212.29",
+    "category": "data not stored",
+    "index": 6648,
+    "formular": "C14H16N2",
+    "molecular_weight": 212.29,
+    "inChl": "1S/C14H16N2/c15-13(11-7-3-1-4-8-11)14(16)12-9-5-2-6-10-12/h1-10,13-14H,15-16H2",
+    "InChl_Key": "PONXTPCRRASWKW-UHFFFAOYSA-N",
+    "SMILES": "NC(c1ccccc1)C(N)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6648",
+    "validation": "m_weight unsave, calculated(212.29599999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "RTI-229 ; 3\u03b2-(4-Iodophenyl)tropane-2\u03b2-pyrrolidine carboxamide",
+    "iupac_name": "[(2S,3S)-3-(4-Iodophenyl)-8-methyl-8-azabicyclo[3.2.1]octan-2-yl](pyrrolidin-1-yl)methanone",
+    "category": "data not stored",
+    "index": 8708,
+    "formular": "C19H25IN2O",
+    "molecular_weight": 424.319,
+    "inChl": "1S/C19H25IN2O/c1-21-15-8-9-17(21)18(19(23)22-10-2-3-11-22)16(12-15)13-4-6-14(20)7-5-13/h4-7,15-18H,2-3,8-12H2,1H3/t15?,16-,17?,18+/m1/s1",
+    "InChl_Key": "HPQILAIJSLHQQC-FPQWYMTMSA-N",
+    "SMILES": "CN1C2CCC1[C@@H](C(=O)N1CCCC1)[C@@H](c1ccc(I)cc1)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8708",
+    "validation": "m_weight unsave, calculated(424.3260000000003)"
+}

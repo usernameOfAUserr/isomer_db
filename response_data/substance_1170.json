@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Me-NBCN ; N-(2-Cyanobenzyl)-\u03b2-methylphenethylamine",
+    "iupac_name": "2-{[(2-Phenylpropyl)amino]methyl}benzonitrile",
+    "category": "data not stored",
+    "index": 1170,
+    "formular": "C17H18N2",
+    "molecular_weight": 250.338,
+    "inChl": "1S/C17H18N2/c1-14(15-7-3-2-4-8-15)12-19-13-17-10-6-5-9-16(17)11-18/h2-10,14,19H,12-13H2,1H3",
+    "InChl_Key": "AUILUGVBDWHSCG-UHFFFAOYSA-N",
+    "SMILES": "CC(CNCc1ccccc1C#N)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1170",
+    "validation": "m_weight unsave, calculated(250.345)"
+}

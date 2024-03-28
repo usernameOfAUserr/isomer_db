@@ -1,0 +1,13 @@
+{
+    "names": "N-Propylaniline",
+    "iupac_name": "12628 ; C9H13N ; 135.206",
+    "category": "data not stored",
+    "index": 12628,
+    "formular": "C9H13N",
+    "molecular_weight": 135.206,
+    "inChl": "1S/C9H13N/c1-2-8-10-9-6-4-3-5-7-9/h3-7,10H,2,8H2,1H3",
+    "InChl_Key": "CDZOGLJOFWFVOZ-UHFFFAOYSA-N",
+    "SMILES": "CCCNc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12628",
+    "validation": "m_weight unsave, calculated(135.20999999999998)"
+}

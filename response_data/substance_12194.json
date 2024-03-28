@@ -1,0 +1,13 @@
+{
+    "names": "MDA NS ; 3,4-Methylenedioxy-\u03b2-methyl-\u03b2-nitrostyrene",
+    "iupac_name": "5-[(1E)-2-Nitroprop-1-en-1-yl]-2H-1,3-benzodioxole",
+    "category": "Phenetylamine",
+    "index": 12194,
+    "formular": "C10H9NO4",
+    "molecular_weight": 207.183,
+    "inChl": "1S/C10H9NO4/c1-7(11(12)13)4-8-2-3-9-10(5-8)15-6-14-9/h2-5H,6H2,1H3/b7-4+",
+    "InChl_Key": "CCEVJKZHAJJQJR-QPJJXVBHSA-N",
+    "SMILES": "C/C(=C\\c1ccc2c(c1)OCO2)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12194",
+    "validation": "m_weight unsave, calculated(207.18499999999995)"
+}

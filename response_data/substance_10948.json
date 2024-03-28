@@ -1,0 +1,13 @@
+{
+    "names": "2-(Thiophen-2-yl)propan-1-amine",
+    "iupac_name": "10948 ; C7H11NS ; 141.234",
+    "category": "Phenetylamine",
+    "index": 10948,
+    "formular": "C7H11NS",
+    "molecular_weight": 141.234,
+    "inChl": "1S/C7H11NS/c1-6(5-8)7-3-2-4-9-7/h2-4,6H,5,8H2,1H3",
+    "InChl_Key": "FWRBHKLKOBUBEQ-UHFFFAOYSA-N",
+    "SMILES": "CC(CN)c1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10948",
+    "validation": "m_weight unsave, calculated(141.23899999999998)"
+}

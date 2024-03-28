@@ -1,0 +1,13 @@
+{
+    "names": "N-(2-Phenylpropan-2-yl)-1-(4,4,4-trifluorobutyl)-1H-indazole-3-carboxamide",
+    "iupac_name": "7692 ; C21H22F3N3O ; 389.414",
+    "category": "cannabinodids",
+    "index": 7692,
+    "formular": "C21H22F3N3O",
+    "molecular_weight": 389.414,
+    "inChl": "1S/C21H22F3N3O/c1-20(2,15-9-4-3-5-10-15)25-19(28)18-16-11-6-7-12-17(16)27(26-18)14-8-13-21(22,23)24/h3-7,9-12H,8,13-14H2,1-2H3,(H,25,28)",
+    "InChl_Key": "GFMOJBXKYVIKNP-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1nn(CCCC(F)(F)F)c2ccccc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7692",
+    "validation": "m_weight unsave, calculated(389.421)"
+}

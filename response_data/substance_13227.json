@@ -1,0 +1,13 @@
+{
+    "names": "CCBM(PP)-2201-4",
+    "iupac_name": "1-(5-Fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-pyrrolo[3,2-b]pyridine-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 13227,
+    "formular": "C22H26FN3O",
+    "molecular_weight": 367.46,
+    "inChl": "1S/C22H26FN3O/c1-22(2,17-10-5-3-6-11-17)25-21(27)18-16-26(15-8-4-7-13-23)19-12-9-14-24-20(18)19/h3,5-6,9-12,14,16H,4,7-8,13,15H2,1-2H3,(H,25,27)",
+    "InChl_Key": "QOQGMFHRDPYHKI-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1cn(CCCCCF)c2cccnc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13227",
+    "validation": "m_weight unsave, calculated(367.46800000000013)"
+}

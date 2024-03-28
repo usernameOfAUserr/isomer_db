@@ -1,0 +1,13 @@
+{
+    "names": "N-Benzyl-2-(2,5-dimethoxy-4-methylphenyl)ethan-1-amine",
+    "iupac_name": "13415 ; C18H23NO2 ; 285.381",
+    "category": "data not stored",
+    "index": 13415,
+    "formular": "C18H23NO2",
+    "molecular_weight": 285.381,
+    "inChl": "1S/C18H23NO2/c1-14-11-18(21-3)16(12-17(14)20-2)9-10-19-13-15-7-5-4-6-8-15/h4-8,11-12,19H,9-10,13H2,1-3H3",
+    "InChl_Key": "FYLTXRQPYWVIDJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2ccccc2)c(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13415",
+    "validation": "m_weight unsave, calculated(285.387)"
+}

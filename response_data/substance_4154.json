@@ -1,0 +1,13 @@
+{
+    "names": "(4-Methoxyphenyl){(3R)-5-methyl-3-[(morpholin-4-yl)methyl]-2,3-dihydro[1,4]oxazino[2,3,4-hi]indol-6-yl}methanone",
+    "iupac_name": "4154 ; C24H26N2O4 ; 406.474",
+    "category": "cannabinodids",
+    "index": 4154,
+    "formular": "C24H26N2O4",
+    "molecular_weight": 406.474,
+    "inChl": "1S/C24H26N2O4/c1-16-22(24(27)17-6-8-19(28-2)9-7-17)20-4-3-5-21-23(20)26(16)18(15-30-21)14-25-10-12-29-13-11-25/h3-9,18H,10-15H2,1-2H3/t18-/m1/s1",
+    "InChl_Key": "QPVVITYZJFFLDY-GOSISDBHSA-N",
+    "SMILES": "COc1ccc(C(=O)c2c(C)n3c4c(cccc24)OC[C@H]3CN2CCOCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4154",
+    "validation": "m_weight unsave, calculated(406.4820000000003)"
+}

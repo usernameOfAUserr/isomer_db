@@ -1,0 +1,13 @@
+{
+    "names": "7-Fluoro-5-MeO-MCBT ; 7-Fluoro-5-methoxy-N-methyl-N-cyclobutyltryptamine",
+    "iupac_name": "N-[2-(7-Fluoro-5-methoxy-1H-indol-3-yl)ethyl]-N-methylcyclobutanamine",
+    "category": "Tryptamine",
+    "index": 13530,
+    "formular": "C16H21FN2O",
+    "molecular_weight": 276.349,
+    "inChl": "1S/C16H21FN2O/c1-19(12-4-3-5-12)7-6-11-10-18-16-14(11)8-13(20-2)9-15(16)17/h8-10,12,18H,3-7H2,1-2H3",
+    "InChl_Key": "NANHFHYYSBAVNA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(F)c2[nH]cc(CCN(C)C3CCC3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13530",
+    "validation": "m_weight unsave, calculated(276.3549999999999)"
+}

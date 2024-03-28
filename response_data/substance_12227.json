@@ -1,0 +1,13 @@
+{
+    "names": "2C-V-BOC",
+    "iupac_name": "tert-Butyl [2-(4-ethenyl-2,5-dimethoxyphenyl)ethyl]carbamate",
+    "category": "Phenetylamine",
+    "index": 12227,
+    "formular": "C17H25NO4",
+    "molecular_weight": 307.385,
+    "inChl": "1S/C17H25NO4/c1-7-12-10-15(21-6)13(11-14(12)20-5)8-9-18-16(19)22-17(2,3)4/h7,10-11H,1,8-9H2,2-6H3,(H,18,19)",
+    "InChl_Key": "UKFOEJFBRWWKDC-UHFFFAOYSA-N",
+    "SMILES": "C=Cc1cc(OC)c(CCNC(=O)OC(C)(C)C)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12227",
+    "validation": "m_weight unsave, calculated(307.39000000000004)"
+}

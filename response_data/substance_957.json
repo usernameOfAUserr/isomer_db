@@ -1,0 +1,13 @@
+{
+    "names": "PCEOH ; PCHOEA",
+    "iupac_name": "2-[(1-Phenylcyclohexyl)amino]ethan-1-ol",
+    "category": "Arylcycloalkylamine",
+    "index": 957,
+    "formular": "C14H21NO",
+    "molecular_weight": 219.323,
+    "inChl": "1S/C14H21NO/c16-12-11-15-14(9-5-2-6-10-14)13-7-3-1-4-8-13/h1,3-4,7-8,15-16H,2,5-6,9-12H2",
+    "InChl_Key": "KPRIKYIJCZVTDK-UHFFFAOYSA-N",
+    "SMILES": "OCCNC1(c2ccccc2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=957",
+    "validation": "m_weight unsave, calculated(219.328)"
+}

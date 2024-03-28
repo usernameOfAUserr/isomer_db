@@ -1,0 +1,13 @@
+{
+    "names": "2-(Thiophen-2-yl)-3-methylmorpholine",
+    "iupac_name": "3-Methyl-2-(thiophen-2-yl)morpholine",
+    "category": "data not stored",
+    "index": 12437,
+    "formular": "C9H13NOS",
+    "molecular_weight": 183.271,
+    "inChl": "1S/C9H13NOS/c1-7-9(11-5-4-10-7)8-3-2-6-12-8/h2-3,6-7,9-10H,4-5H2,1H3",
+    "InChl_Key": "CFIQCNQGAHTASJ-UHFFFAOYSA-N",
+    "SMILES": "CC1NCCOC1c1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12437",
+    "validation": "m_weight unsave, calculated(183.276)"
+}

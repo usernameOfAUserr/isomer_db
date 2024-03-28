@@ -1,0 +1,13 @@
+{
+    "names": "N-Propanoyl-mephedrone ; N-Propanoyl-N,4-dimethylcathinone",
+    "iupac_name": "N-Methyl-N-[1-(4-methylphenyl)-1-oxopropan-2-yl]propanamide",
+    "category": "data not stored",
+    "index": 1957,
+    "formular": "C14H19NO2",
+    "molecular_weight": 233.306,
+    "inChl": "1S/C14H19NO2/c1-5-13(16)15(4)11(3)14(17)12-8-6-10(2)7-9-12/h6-9,11H,5H2,1-4H3",
+    "InChl_Key": "RLPOQFGYIWJECK-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(C)C(C)C(=O)c1ccc(C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1957",
+    "validation": "m_weight unsave, calculated(233.31099999999998)"
+}

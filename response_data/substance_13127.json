@@ -1,0 +1,13 @@
+{
+    "names": "tert-Butyl [(2-fluorophenyl)methyl][2-(2-hydroxy-4-iodo-5-methoxyphenyl)ethyl]carbamate",
+    "iupac_name": "13127 ; C21H25FINO4 ; 501.33",
+    "category": "data not stored",
+    "index": 13127,
+    "formular": "C21H25FINO4",
+    "molecular_weight": 501.33,
+    "inChl": "1S/C21H25FINO4/c1-21(2,3)28-20(26)24(13-15-7-5-6-8-16(15)22)10-9-14-11-19(27-4)17(23)12-18(14)25/h5-8,11-12,25H,9-10,13H2,1-4H3",
+    "InChl_Key": "RNOXJCOVUKHNOI-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN(Cc2ccccc2F)C(=O)OC(C)(C)C)c(O)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13127",
+    "validation": "m_weight unsave, calculated(501.33600000000007)"
+}

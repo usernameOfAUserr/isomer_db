@@ -1,0 +1,13 @@
+{
+    "names": "1-{4-[(5-Fluoropentyl)sulfanyl]-2,5-dimethoxyphenyl}butan-2-amine",
+    "iupac_name": "13475 ; C17H28FNO2S ; 329.473",
+    "category": "data not stored",
+    "index": 13475,
+    "formular": "C17H28FNO2S",
+    "molecular_weight": 329.473,
+    "inChl": "1S/C17H28FNO2S/c1-4-14(19)10-13-11-16(21-3)17(12-15(13)20-2)22-9-7-5-6-8-18/h11-12,14H,4-10,19H2,1-3H3",
+    "InChl_Key": "SIKUAMDZJPGGRH-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)Cc1cc(OC)c(SCCCCCF)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13475",
+    "validation": "m_weight unsave, calculated(329.4810000000001)"
+}

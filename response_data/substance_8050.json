@@ -1,0 +1,13 @@
+{
+    "names": "O-1064",
+    "iupac_name": "(5Z,8Z,11Z,14Z)-N-(2-Fluoroethyl)-2,16,16-trimethylhenicosa-5,8,11,14-tetraenamide",
+    "category": "cannabinodids",
+    "index": 8050,
+    "formular": "C26H44FNO",
+    "molecular_weight": 405.632,
+    "inChl": "1S/C26H44FNO/c1-5-6-17-20-26(3,4)21-18-15-13-11-9-7-8-10-12-14-16-19-24(2)25(29)28-23-22-27/h7-8,11-14,18,21,24H,5-6,9-10,15-17,19-20,22-23H2,1-4H3,(H,28,29)/b8-7-,13-11-,14-12-,21-18-",
+    "InChl_Key": "GZUPVOKRMCLJLX-GTIIYDKQSA-N",
+    "SMILES": "CCCCCC(C)(C)/C=C\\C/C=C\\C/C=C\\C/C=C\\CCC(C)C(=O)NCCF",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8050",
+    "validation": "m_weight unsave, calculated(405.64200000000017)"
+}

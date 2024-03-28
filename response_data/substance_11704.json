@@ -1,0 +1,13 @@
+{
+    "names": "Ro-15-2200",
+    "iupac_name": "Ethyl 6-(2-fluorophenyl)-4H-imidazo[1,5-a][1]benzazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 11704,
+    "formular": "C21H17FN2O2",
+    "molecular_weight": 348.37,
+    "inChl": "1S/C21H17FN2O2/c1-2-26-21(25)20-19-12-11-14(15-7-3-5-9-17(15)22)16-8-4-6-10-18(16)24(19)13-23-20/h3-11,13H,2,12H2,1H3",
+    "InChl_Key": "MBFKBNOKYYDIMZ-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ncn2c1CC=C(c1ccccc1F)c1ccccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11704",
+    "validation": "m_weight unsave, calculated(348.37700000000007)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "WO 2009/106982 #99",
+    "iupac_name": "N-[(2S)-1-({2-[(Cyclopropanesulfonyl)amino]ethyl}amino)-3,3-dimethyl-1-oxobutan-2-yl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4927,
+    "formular": "C26H32FN5O4S",
+    "molecular_weight": 529.627,
+    "inChl": "1S/C26H32FN5O4S/c1-26(2,3)23(25(34)28-14-15-29-37(35,36)19-12-13-19)30-24(33)22-20-6-4-5-7-21(20)32(31-22)16-17-8-10-18(27)11-9-17/h4-11,19,23,29H,12-16H2,1-3H3,(H,28,34)(H,30,33)/t23-/m1/s1",
+    "InChl_Key": "TVZSCHMQNUBBSQ-HSZRJFAPSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)C(=O)NCCNS(=O)(=O)C1CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4927",
+    "validation": "m_weight unsave, calculated(529.6380000000001)"
+}

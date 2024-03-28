@@ -1,0 +1,13 @@
+{
+    "names": "HU-336",
+    "iupac_name": "(6aR,10aR)-6,6,9-Trimethyl-3-pentyl-6a,7,10,10a-tetrahydro-1H-dibenzo[b,d]pyran-1,4(6H)-dione",
+    "category": "cannabinodids",
+    "index": 4900,
+    "formular": "C21H28O3",
+    "molecular_weight": 328.445,
+    "inChl": "1S/C21H28O3/c1-5-6-7-8-14-12-17(22)18-15-11-13(2)9-10-16(15)21(3,4)24-20(18)19(14)23/h9,12,15-16H,5-8,10-11H2,1-4H3/t15-,16-/m1/s1",
+    "InChl_Key": "GOZGLSHDDOJPJS-HZPDHXFCSA-N",
+    "SMILES": "CCCCCC1=CC(=O)C2=C(OC(C)(C)[C@@H]3CC=C(C)C[C@@H]23)C1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4900",
+    "validation": "m_weight unsave, calculated(328.4520000000001)"
+}

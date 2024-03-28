@@ -1,0 +1,13 @@
+{
+    "names": "2,4-DM-DP-2-AI ; 4,7-Dimethoxy-2-(dipropylamino)indane ; RDS-127",
+    "iupac_name": "4,7-Dimethoxy-N,N-dipropyl-2,3-dihydro-1H-inden-2-amine",
+    "category": "Phenetylamine",
+    "index": 10078,
+    "formular": "C17H27NO2",
+    "molecular_weight": 277.402,
+    "inChl": "1S/C17H27NO2/c1-5-9-18(10-6-2)13-11-14-15(12-13)17(20-4)8-7-16(14)19-3/h7-8,13H,5-6,9-12H2,1-4H3",
+    "InChl_Key": "FPAHQTSJKYIURQ-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C1Cc2c(OC)ccc(OC)c2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10078",
+    "validation": "m_weight unsave, calculated(277.408)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Naloxegol ; NKTR-118",
+    "iupac_name": "(5\u03b1,6\u03b1)-6-[(2,5,8,11,14,17,20-Heptaoxadocosan-22-yl)oxy]-17-(prop-2-en-1-yl)-4,5-epoxymorphinan-3,14-diol",
+    "category": "data not stored",
+    "index": 13939,
+    "formular": "C34H53NO11",
+    "molecular_weight": 651.785,
+    "inChl": "1S/C34H53NO11/c1-3-9-35-10-8-33-30-26-4-5-27(36)31(30)46-32(33)28(6-7-34(33,37)29(35)25-26)45-24-23-44-22-21-43-20-19-42-18-17-41-16-15-40-14-13-39-12-11-38-2/h3-5,28-29,32,36-37H,1,6-25H2,2H3/t28-,29+,32-,33-,34+/m0/s1",
+    "InChl_Key": "XNKCCCKFOQNXKV-ZRSCBOBOSA-N",
+    "SMILES": "C=CCN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](OCCOCCOCCOCCOCCOCCOCCOC)CC[C@@]3(O)[C@H]1C5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13939",
+    "validation": "m_weight unsave, calculated(651.7940000000003)"
+}

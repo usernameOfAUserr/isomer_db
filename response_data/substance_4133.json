@@ -1,0 +1,13 @@
+{
+    "names": "2\u2032-MeO-AM-694",
+    "iupac_name": "[1-(5-Fluoropentyl)-1H-indol-3-yl](2-methoxyphenyl)methanone",
+    "category": "cannabinodids",
+    "index": 4133,
+    "formular": "C21H22FNO2",
+    "molecular_weight": 339.403,
+    "inChl": "1S/C21H22FNO2/c1-25-20-12-6-4-10-17(20)21(24)18-15-23(14-8-2-7-13-22)19-11-5-3-9-16(18)19/h3-6,9-12,15H,2,7-8,13-14H2,1H3",
+    "InChl_Key": "WFDDFECBEFNDNE-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1C(=O)c1cn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4133",
+    "validation": "m_weight unsave, calculated(339.4100000000001)"
+}

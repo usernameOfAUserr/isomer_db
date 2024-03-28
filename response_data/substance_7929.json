@@ -1,0 +1,13 @@
+{
+    "names": "Narrabeenamine B",
+    "iupac_name": "(3aR,8aS)-5,6-Dibromo-3a-hydroxy-1,1-dimethyl-1,2,3,3a,8,8a-hexahydropyrrolo[2,3-b]indol-1-ium",
+    "category": "data not stored",
+    "index": 7929,
+    "formular": "C12H15Br2N2O",
+    "molecular_weight": 363.068,
+    "inChl": "1S/C12H15Br2N2O/c1-16(2)4-3-12(17)7-5-8(13)9(14)6-10(7)15-11(12)16/h5-6,11,15,17H,3-4H2,1-2H3/q+1/t11-,12+/m0/s1",
+    "InChl_Key": "WAYKYVGCQQXSTB-NWDGAFQWSA-N",
+    "SMILES": "C[N+]1(C)CC[C@@]2(O)c3cc(Br)c(Br)cc3N[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7929",
+    "validation": "m_weight unsave, calculated(363.07300000000015)formular unsave, calculated(C12H15Br2N2O+)"
+}

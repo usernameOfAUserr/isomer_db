@@ -1,0 +1,13 @@
+{
+    "names": "Caldaret",
+    "iupac_name": "5-Methyl-2-(piperazin-1-yl)benzene-1-sulfonic acid",
+    "category": "data not stored",
+    "index": 13218,
+    "formular": "C11H16N2O3S",
+    "molecular_weight": 256.321,
+    "inChl": "1S/C11H16N2O3S/c1-9-2-3-10(11(8-9)17(14,15)16)13-6-4-12-5-7-13/h2-3,8,12H,4-7H2,1H3,(H,14,15,16)",
+    "InChl_Key": "DCDFLGVJWQIRGH-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(N2CCNCC2)c(S(=O)(=O)O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13218",
+    "validation": "m_weight unsave, calculated(256.327)"
+}

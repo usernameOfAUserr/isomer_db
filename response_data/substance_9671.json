@@ -1,0 +1,13 @@
+{
+    "names": "1-{2-[2-(Cyclopropylmethoxy)phenyl]cyclopropyl}methanamine",
+    "iupac_name": "9671 ; C14H19NO ; 217.307",
+    "category": "data not stored",
+    "index": 9671,
+    "formular": "C14H19NO",
+    "molecular_weight": 217.307,
+    "inChl": "1S/C14H19NO/c15-8-11-7-13(11)12-3-1-2-4-14(12)16-9-10-5-6-10/h1-4,10-11,13H,5-9,15H2",
+    "InChl_Key": "UXQKEFDSVCUVQW-UHFFFAOYSA-N",
+    "SMILES": "NCC1CC1c1ccccc1OCC1CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9671",
+    "validation": "m_weight unsave, calculated(217.31199999999993)"
+}

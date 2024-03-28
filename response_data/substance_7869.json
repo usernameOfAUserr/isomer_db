@@ -1,0 +1,13 @@
+{
+    "names": "6-Fluoroyryptophol ; 6-F-Tryptophol",
+    "iupac_name": "2-(6-Fluoro-1H-indol-3-yl)ethan-1-ol",
+    "category": "data not stored",
+    "index": 7869,
+    "formular": "C10H10FNO",
+    "molecular_weight": 179.191,
+    "inChl": "1S/C10H10FNO/c11-8-1-2-9-7(3-4-13)6-12-10(9)5-8/h1-2,5-6,12-13H,3-4H2",
+    "InChl_Key": "CHZSOQJAKJGMFS-UHFFFAOYSA-N",
+    "SMILES": "OCCc1c[nH]c2cc(F)ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7869",
+    "validation": "m_weight unsave, calculated(179.194)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "SP-111 ; \u03949-THC Morpholinobutyrate",
+    "iupac_name": "(6aR,10aR)-6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl 4-(morpholin-4-yl)butanoate",
+    "category": "cannabinodids",
+    "index": 4631,
+    "formular": "C29H43NO4",
+    "molecular_weight": 469.656,
+    "inChl": "1S/C29H43NO4/c1-5-6-7-9-22-19-25(33-27(31)10-8-13-30-14-16-32-17-15-30)28-23-18-21(2)11-12-24(23)29(3,4)34-26(28)20-22/h18-20,23-24H,5-17H2,1-4H3/t23-,24-/m1/s1",
+    "InChl_Key": "HAQNKTBQOIAWDB-DNQXCXABSA-N",
+    "SMILES": "CCCCCc1cc(OC(=O)CCCN2CCOCC2)c2c(c1)OC(C)(C)[C@@H]1CCC(C)=C[C@@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4631",
+    "validation": "m_weight unsave, calculated(469.6660000000003)"
+}

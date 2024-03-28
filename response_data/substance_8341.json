@@ -1,0 +1,13 @@
+{
+    "names": "EFELA",
+    "iupac_name": "N-Ethyl-N-(2-fluoroethyl)-6-methyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N-Ethyl-N-(2-fluoroethyl)-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N-Ethyl-N-(2-fluoroethyl)-6-methyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 8341,
+    "formular": "C20H24FN3O",
+    "molecular_weight": 341.422,
+    "inChl": "1S/C20H24FN3O/c1-3-24(8-7-21)20(25)14-9-16-15-5-4-6-17-19(15)13(11-22-17)10-18(16)23(2)12-14/h4-6,9,11,14,18,22H,3,7-8,10,12H2,1-2H3/t14-,18-/m1/s1",
+    "InChl_Key": "VPOYDTCUIXGJSJ-RDTXWAMCSA-N",
+    "SMILES": "CCN(CCF)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8341",
+    "validation": "m_weight unsave, calculated(341.4300000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Loxapine",
+    "iupac_name": "2-Chloro-11-(4-methylpiperazin-1-yl)dibenzo[b,f][1,4]oxazepine",
+    "category": "data not stored",
+    "index": 8379,
+    "formular": "C18H18ClN3O",
+    "molecular_weight": 327.808,
+    "inChl": "1S/C18H18ClN3O/c1-21-8-10-22(11-9-21)18-14-12-13(19)6-7-16(14)23-17-5-3-2-4-15(17)20-18/h2-7,12H,8-11H2,1H3",
+    "InChl_Key": "XJGVXQDUIWGIRW-UHFFFAOYSA-N",
+    "SMILES": "CN1CCN(C2=Nc3ccccc3Oc3ccc(Cl)cc32)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8379",
+    "validation": "m_weight unsave, calculated(327.81500000000005)"
+}

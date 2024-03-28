@@ -1,0 +1,13 @@
+{
+    "names": "25G-NBOMe ; N-(2-Methoxybenzyl)-2,5-dimethoxy-3,4-dimethylphenethylamine ; 2C-G-NBOMe",
+    "iupac_name": "2-(2,5-Dimethoxy-3,4-dimethylphenyl)-N-[(2-methoxyphenyl)methyl]ethan-1-amine ; 2-(2,5-Dimethoxy-3,4-dimethylphenyl)-N-(2-methoxybenzyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 5545,
+    "formular": "C20H27NO3",
+    "molecular_weight": 329.433,
+    "inChl": "1S/C20H27NO3/c1-14-15(2)20(24-5)16(12-19(14)23-4)10-11-21-13-17-8-6-7-9-18(17)22-3/h6-9,12,21H,10-11,13H2,1-5H3",
+    "InChl_Key": "VDAUMFACIMNTDA-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CNCCc1cc(OC)c(C)c(C)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5545",
+    "validation": "m_weight unsave, calculated(329.44000000000005)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-(1-Naphthylmethane)indene",
+    "iupac_name": "1-[(1H-Inden-3-yl)methyl]naphthalene",
+    "category": "data not stored",
+    "index": 13959,
+    "formular": "C20H16",
+    "molecular_weight": 256.341,
+    "inChl": "1S/C20H16/c1-3-10-19-15(6-1)8-5-9-17(19)14-18-13-12-16-7-2-4-11-20(16)18/h1-11,13H,12,14H2",
+    "InChl_Key": "UJYMLHZWCROCCS-UHFFFAOYSA-N",
+    "SMILES": "C1=C(Cc2cccc3ccccc23)c2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13959",
+    "validation": "m_weight unsave, calculated(256.34799999999996)"
+}

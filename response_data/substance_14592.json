@@ -1,0 +1,13 @@
+{
+    "names": "AM-2223",
+    "iupac_name": "(2-Iodo-5-isothiocyanatophenyl){6-isothiocyanato-1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}methanone",
+    "category": "cannabinodids",
+    "index": 14592,
+    "formular": "C24H21IN4OS2",
+    "molecular_weight": 572.484,
+    "inChl": "1S/C24H21IN4OS2/c1-28-9-3-2-4-18(28)12-29-13-21(19-7-5-17(27-15-32)11-23(19)29)24(30)20-10-16(26-14-31)6-8-22(20)25/h5-8,10-11,13,18H,2-4,9,12H2,1H3",
+    "InChl_Key": "UZEJZTWNEZPTHV-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCCC1Cn1cc(C(=O)c2cc(N=C=S)ccc2I)c2ccc(N=C=S)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14592",
+    "validation": "m_weight unsave, calculated(572.4970000000003)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Epinephrine ; Adrenaline ; (R)-4-[1-Hydroxy-2-(methylamino)ethyl]benzene-1,2-diol",
+    "iupac_name": "4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]benzene-1,2-diol",
+    "category": "Shulgin_Index",
+    "index": 2010,
+    "formular": "C9H13NO3",
+    "molecular_weight": 183.204,
+    "inChl": "1S/C9H13NO3/c1-10-5-9(13)6-2-3-7(11)8(12)4-6/h2-4,9-13H,5H2,1H3/t9-/m0/s1",
+    "InChl_Key": "UCTWMZQNUQWSLP-VIFPVBQESA-N",
+    "SMILES": "CNC[C@H](O)c1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2010",
+    "validation": "m_weight unsave, calculated(183.207)"
+}

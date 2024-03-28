@@ -1,0 +1,13 @@
+{
+    "names": "JWH-311",
+    "iupac_name": "2-(2-Fluorophenyl)-1-(1-pentyl-1H-indol-3-yl)ethan-1-one",
+    "category": "cannabinodids",
+    "index": 1773,
+    "formular": "C21H22FNO",
+    "molecular_weight": 323.404,
+    "inChl": "1S/C21H22FNO/c1-2-3-8-13-23-15-18(17-10-5-7-12-20(17)23)21(24)14-16-9-4-6-11-19(16)22/h4-7,9-12,15H,2-3,8,13-14H2,1H3",
+    "InChl_Key": "RLINGXSUWCVHIQ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)Cc2ccccc2F)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1773",
+    "validation": "m_weight unsave, calculated(323.411)"
+}

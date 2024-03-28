@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2\u2032-Phenyl fentanyl ; Hydrocinnamoylfentanyl ; 3-Phenylpropanoylfentanyl",
+    "iupac_name": "N,3-Diphenyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide",
+    "category": "Fentanyl",
+    "index": 3098,
+    "formular": "C28H32N2O",
+    "molecular_weight": 412.566,
+    "inChl": "1S/C28H32N2O/c31-28(17-16-24-10-4-1-5-11-24)30(26-14-8-3-9-15-26)27-19-22-29(23-20-27)21-18-25-12-6-2-7-13-25/h1-15,27H,16-23H2",
+    "InChl_Key": "DIRAGWDYMRIDIO-UHFFFAOYSA-N",
+    "SMILES": "O=C(CCc1ccccc1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3098",
+    "validation": "m_weight unsave, calculated(412.57700000000006)"
+}

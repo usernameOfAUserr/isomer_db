@@ -1,0 +1,13 @@
+{
+    "names": "MK-212 ; CPP",
+    "iupac_name": "2-Chloro-6-(piperazin-1-yl)pyrazine",
+    "category": "data not stored",
+    "index": 9745,
+    "formular": "C8H11ClN4",
+    "molecular_weight": 198.653,
+    "inChl": "1S/C8H11ClN4/c9-7-5-11-6-8(12-7)13-3-1-10-2-4-13/h5-6,10H,1-4H2",
+    "InChl_Key": "CJAWPFJGFFNXQI-UHFFFAOYSA-N",
+    "SMILES": "Clc1cncc(N2CCNCC2)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9745",
+    "validation": "m_weight unsave, calculated(198.65699999999995)"
+}

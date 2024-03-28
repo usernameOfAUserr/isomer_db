@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 1-[(oxolan-2-yl)methyl]-4-phenylpiperidine-4-carboxylate",
+    "iupac_name": "9077 ; C19H27NO3 ; 317.423",
+    "category": "data not stored",
+    "index": 9077,
+    "formular": "C19H27NO3",
+    "molecular_weight": 317.423,
+    "inChl": "1S/C19H27NO3/c1-2-22-18(21)19(16-7-4-3-5-8-16)10-12-20(13-11-19)15-17-9-6-14-23-17/h3-5,7-8,17H,2,6,9-15H2,1H3",
+    "InChl_Key": "XHVUNHHOQQSROO-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CC2CCCO2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9077",
+    "validation": "m_weight unsave, calculated(317.4289999999999)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Dipropylquinolin-2-amine",
+    "iupac_name": "11378 ; C15H20N2 ; 228.333",
+    "category": "data not stored",
+    "index": 11378,
+    "formular": "C15H20N2",
+    "molecular_weight": 228.333,
+    "inChl": "1S/C15H20N2/c1-3-11-17(12-4-2)15-10-9-13-7-5-6-8-14(13)16-15/h5-10H,3-4,11-12H2,1-2H3",
+    "InChl_Key": "NSHKIGSAABRNSY-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)c1ccc2ccccc2n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11378",
+    "validation": "m_weight unsave, calculated(228.33899999999994)"
+}

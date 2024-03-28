@@ -1,0 +1,13 @@
+{
+    "names": "AL-38022A",
+    "iupac_name": "1-(8,9-Dihydropyrano[2,3-g]indazol-1(7H)-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 5745,
+    "formular": "C13H17N3O",
+    "molecular_weight": 231.294,
+    "inChl": "1S/C13H17N3O/c1-9(14)8-16-13-10(7-15-16)4-5-12-11(13)3-2-6-17-12/h4-5,7,9H,2-3,6,8,14H2,1H3",
+    "InChl_Key": "FJRIVFVALIEIOY-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cn1ncc2ccc3c(c21)CCCO3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5745",
+    "validation": "m_weight unsave, calculated(231.29899999999995)"
+}

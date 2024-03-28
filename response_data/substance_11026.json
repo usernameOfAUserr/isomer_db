@@ -1,0 +1,13 @@
+{
+    "names": "(2E)-3-(3,4-Dimethoxyphenyl)-2-methylprop-2-enoic acid",
+    "iupac_name": "11026 ; C12H14O4 ; 222.237",
+    "category": "data not stored",
+    "index": 11026,
+    "formular": "C12H14O4",
+    "molecular_weight": 222.237,
+    "inChl": "1S/C12H14O4/c1-8(12(13)14)6-9-4-5-10(15-2)11(7-9)16-3/h4-7H,1-3H3,(H,13,14)/b8-6+",
+    "InChl_Key": "HWFGFNBLIMJWLY-SOFGYWHQSA-N",
+    "SMILES": "COc1ccc(/C=C(\\C)C(=O)O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11026",
+    "validation": "m_weight unsave, calculated(222.23999999999998)"
+}

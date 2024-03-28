@@ -1,0 +1,13 @@
+{
+    "names": "2-Ethyl-4,4-dimethyl-7-(2-methyloctan-2-yl)-2,4-dihydro[1]benzopyrano[4,3-c]pyrazol-9-ol",
+    "iupac_name": "4902 ; C23H34N2O2 ; 370.528",
+    "category": "cannabinodids",
+    "index": 4902,
+    "formular": "C23H34N2O2",
+    "molecular_weight": 370.528,
+    "inChl": "1S/C23H34N2O2/c1-7-9-10-11-12-22(3,4)16-13-18(26)20-19(14-16)27-23(5,6)17-15-25(8-2)24-21(17)20/h13-15,26H,7-12H2,1-6H3",
+    "InChl_Key": "YDSPBMVKWIIBIS-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCC(C)(C)c1cc(O)c2c(c1)OC(C)(C)c1cn(CC)nc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4902",
+    "validation": "m_weight unsave, calculated(370.53700000000015)"
+}

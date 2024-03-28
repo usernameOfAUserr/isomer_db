@@ -1,0 +1,13 @@
+{
+    "names": "N-(Benzyloxy)-2-phenylcyclopropan-1-amine ; N-(Benzyloxy)-2-phenylcyclopropanamine",
+    "iupac_name": "1493 ; C16H17NO ; 239.312",
+    "category": "data not stored",
+    "index": 1493,
+    "formular": "C16H17NO",
+    "molecular_weight": 239.312,
+    "inChl": "1S/C16H17NO/c1-3-7-13(8-4-1)12-18-17-16-11-15(16)14-9-5-2-6-10-14/h1-10,15-17H,11-12H2",
+    "InChl_Key": "KKEPVPXXWMWQTF-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(CONC2CC2c2ccccc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1493",
+    "validation": "m_weight unsave, calculated(239.318)"
+}

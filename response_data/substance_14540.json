@@ -1,0 +1,13 @@
+{
+    "names": "Letrozole",
+    "iupac_name": "4,4\u2032-[(1H-1,2,4-Triazol-1-yl)methylene]dibenzonitrile",
+    "category": "data not stored",
+    "index": 14540,
+    "formular": "C17H11N5",
+    "molecular_weight": 285.303,
+    "inChl": "1S/C17H11N5/c18-9-13-1-5-15(6-2-13)17(22-12-20-11-21-22)16-7-3-14(10-19)4-8-16/h1-8,11-12,17H",
+    "InChl_Key": "HPJKCIUCZWXJDR-UHFFFAOYSA-N",
+    "SMILES": "N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14540",
+    "validation": "m_weight unsave, calculated(285.31)"
+}

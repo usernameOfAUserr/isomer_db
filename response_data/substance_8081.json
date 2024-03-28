@@ -1,0 +1,13 @@
+{
+    "names": "Methyl 1-[(oxan-4-yl)methyl]-3-(2,2,3,3-tetramethylcyclopropane-1-carbonyl)-1H-indole-6-carboxylate",
+    "iupac_name": "8081 ; C24H31NO4 ; 397.507",
+    "category": "cannabinodids",
+    "index": 8081,
+    "formular": "C24H31NO4",
+    "molecular_weight": 397.507,
+    "inChl": "1S/C24H31NO4/c1-23(2)21(24(23,3)4)20(26)18-14-25(13-15-8-10-29-11-9-15)19-12-16(22(27)28-5)6-7-17(18)19/h6-7,12,14-15,21H,8-11,13H2,1-5H3",
+    "InChl_Key": "JAIPFCNJVNJMDU-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)c1ccc2c(C(=O)C3C(C)(C)C3(C)C)cn(CC3CCOCC3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8081",
+    "validation": "m_weight unsave, calculated(397.51500000000016)"
+}

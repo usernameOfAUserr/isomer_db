@@ -1,0 +1,13 @@
+{
+    "names": "AM-1237",
+    "iupac_name": "[6-Amino-1-(5-hydroxypentyl)-1H-indol-3-yl](naphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 14627,
+    "formular": "C24H24N2O2",
+    "molecular_weight": 372.46,
+    "inChl": "1S/C24H24N2O2/c25-18-11-12-20-22(16-26(23(20)15-18)13-4-1-5-14-27)24(28)21-10-6-8-17-7-2-3-9-19(17)21/h2-3,6-12,15-16,27H,1,4-5,13-14,25H2",
+    "InChl_Key": "RNYQKBYFAQWTBH-UHFFFAOYSA-N",
+    "SMILES": "Nc1ccc2c(C(=O)c3cccc4ccccc34)cn(CCCCCO)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14627",
+    "validation": "m_weight unsave, calculated(372.4680000000001)"
+}

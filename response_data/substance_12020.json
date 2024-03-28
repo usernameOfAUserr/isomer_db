@@ -1,0 +1,13 @@
+{
+    "names": "4-Phenylpiperidine",
+    "iupac_name": "12020 ; C11H15N ; 161.244",
+    "category": "Phenetylamine",
+    "index": 12020,
+    "formular": "C11H15N",
+    "molecular_weight": 161.244,
+    "inChl": "1S/C11H15N/c1-2-4-10(5-3-1)11-6-8-12-9-7-11/h1-5,11-12H,6-9H2",
+    "InChl_Key": "UTBULQCHEUWJNV-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(C2CCNCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12020",
+    "validation": "m_weight unsave, calculated(161.24800000000002)"
+}

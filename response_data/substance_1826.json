@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl N-methyl-N-(1,2,3,4-tetrahydronaphthalen-2-yl)-\u03b2-alaninate ; Ethyl 3-[methyl(1,2,3,4-tetrahydronaphthalen-2-yl)amino]propanoate",
+    "iupac_name": "1826 ; C16H23NO2 ; 261.359",
+    "category": "data not stored",
+    "index": 1826,
+    "formular": "C16H23NO2",
+    "molecular_weight": 261.359,
+    "inChl": "1S/C16H23NO2/c1-3-19-16(18)10-11-17(2)15-9-8-13-6-4-5-7-14(13)12-15/h4-7,15H,3,8-12H2,1-2H3",
+    "InChl_Key": "MOZJAJCEYTUZLW-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)CCN(C)C1CCc2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1826",
+    "validation": "m_weight unsave, calculated(261.365)"
+}

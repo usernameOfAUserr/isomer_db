@@ -1,0 +1,13 @@
+{
+    "names": "FG-8205 ; L-663,581",
+    "iupac_name": "7-Chloro-5-methyl-3-[5-(propan-2-yl)-1,2,4-oxadiazol-3-yl]-4,5-dihydro-6H-imidazo[1,5-a][1,4]benzodiazepin-6-one",
+    "category": "Aryldiazepine",
+    "index": 3436,
+    "formular": "C17H16ClN5O2",
+    "molecular_weight": 357.794,
+    "inChl": "1S/C17H16ClN5O2/c1-9(2)16-20-15(21-25-16)14-12-7-22(3)17(24)13-10(18)5-4-6-11(13)23(12)8-19-14/h4-6,8-9H,7H2,1-3H3",
+    "InChl_Key": "SEWXZWMBVGJJPG-UHFFFAOYSA-N",
+    "SMILES": "CC(C)c1nc(-c2ncn3c2CN(C)C(=O)c2c(Cl)cccc2-3)no1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3436",
+    "validation": "m_weight unsave, calculated(357.8010000000001)"
+}

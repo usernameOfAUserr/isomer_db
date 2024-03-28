@@ -1,0 +1,13 @@
+{
+    "names": "1-Propyl-AMT ; 1-Propyl-\u03b1-methyltryptamine",
+    "iupac_name": "1-(1-Propyl-1H-indol-3-yl)propan-2-amine",
+    "category": "Tryptamine",
+    "index": 5454,
+    "formular": "C14H20N2",
+    "molecular_weight": 216.322,
+    "inChl": "1S/C14H20N2/c1-3-8-16-10-12(9-11(2)15)13-6-4-5-7-14(13)16/h4-7,10-11H,3,8-9,15H2,1-2H3",
+    "InChl_Key": "YISGDWSLBBTJAE-UHFFFAOYSA-N",
+    "SMILES": "CCCn1cc(CC(C)N)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5454",
+    "validation": "m_weight unsave, calculated(216.32799999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-(2,3-Dimethylphenyl)-2-methylquinazolin-4(3H)-one",
+    "iupac_name": "13322 ; C17H16N2O ; 264.322",
+    "category": "data not stored",
+    "index": 13322,
+    "formular": "C17H16N2O",
+    "molecular_weight": 264.322,
+    "inChl": "1S/C17H16N2O/c1-11-7-6-10-16(12(11)2)19-13(3)18-15-9-5-4-8-14(15)17(19)20/h4-10H,1-3H3",
+    "InChl_Key": "JIKUUQKCXVSNPX-UHFFFAOYSA-N",
+    "SMILES": "Cc1cccc(-n2c(C)nc3ccccc3c2=O)c1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13322",
+    "validation": "m_weight unsave, calculated(264.328)"
+}

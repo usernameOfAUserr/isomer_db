@@ -1,0 +1,13 @@
+{
+    "names": "Ibogaminalog",
+    "iupac_name": "3-Methyl-1,2,3,4,5,6-hexahydroazepino[4,5-b]indole",
+    "category": "data not stored",
+    "index": 11451,
+    "formular": "C13H16N2",
+    "molecular_weight": 200.28,
+    "inChl": "1S/C13H16N2/c1-15-8-6-11-10-4-2-3-5-12(10)14-13(11)7-9-15/h2-5,14H,6-9H2,1H3",
+    "InChl_Key": "WBCPONKOWIDTJM-UHFFFAOYSA-N",
+    "SMILES": "CN1CCc2[nH]c3ccccc3c2CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11451",
+    "validation": "m_weight unsave, calculated(200.28500000000003)"
+}

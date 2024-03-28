@@ -1,0 +1,13 @@
+{
+    "names": "1-(2-{5-[(Prop-2-en-1-yl)oxy]-2,3-dihydro-1-benzofuran-4-yl}cyclopropyl)methanamine",
+    "iupac_name": "9647 ; C15H19NO2 ; 245.317",
+    "category": "data not stored",
+    "index": 9647,
+    "formular": "C15H19NO2",
+    "molecular_weight": 245.317,
+    "inChl": "1S/C15H19NO2/c1-2-6-17-14-4-3-13-11(5-7-18-13)15(14)12-8-10(12)9-16/h2-4,10,12H,1,5-9,16H2",
+    "InChl_Key": "DPQLVLTYJLTOLU-UHFFFAOYSA-N",
+    "SMILES": "C=CCOc1ccc2c(c1C1CC1CN)CCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9647",
+    "validation": "m_weight unsave, calculated(245.32199999999992)"
+}

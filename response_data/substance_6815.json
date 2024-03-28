@@ -1,0 +1,13 @@
+{
+    "names": "2-HO-5,N-MePEA-\u03b2k ; \u03b2-Keto-2-hydroxy-5,N-dimethylphenethylamine",
+    "iupac_name": "1-(2-Hydroxy-5-methylphenyl)-2-(methylamino)ethan-1-one ; 1-(2-Hydroxy-5-methylphenyl)-2-(methylamino)ethanone",
+    "category": "Shulgin_Index",
+    "index": 6815,
+    "formular": "C10H13NO2",
+    "molecular_weight": 179.216,
+    "inChl": "1S/C10H13NO2/c1-7-3-4-9(12)8(5-7)10(13)6-11-2/h3-5,11-12H,6H2,1-2H3",
+    "InChl_Key": "MUCHNRBSQBZGQA-UHFFFAOYSA-N",
+    "SMILES": "CNCC(=O)c1cc(C)ccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6815",
+    "validation": "m_weight unsave, calculated(179.219)"
+}

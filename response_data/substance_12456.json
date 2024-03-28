@@ -1,0 +1,13 @@
+{
+    "names": "2-I-4,5-MDPEA-NB",
+    "iupac_name": "N-Benzyl-2-(6-iodo-2H-1,3-benzodioxol-5-yl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 12456,
+    "formular": "C16H16INO2",
+    "molecular_weight": 381.208,
+    "inChl": "1S/C16H16INO2/c17-14-9-16-15(19-11-20-16)8-13(14)6-7-18-10-12-4-2-1-3-5-12/h1-5,8-9,18H,6-7,10-11H2",
+    "InChl_Key": "WTRUTOOEDLJHRP-UHFFFAOYSA-N",
+    "SMILES": "Ic1cc2c(cc1CCNCc1ccccc1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12456",
+    "validation": "m_weight unsave, calculated(381.21300000000014)"
+}

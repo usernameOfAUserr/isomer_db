@@ -1,0 +1,13 @@
+{
+    "names": "([1,1\u2032-Biphenyl]-3-yl)(1-pentyl-1H-indol-3-yl)methanone",
+    "iupac_name": "4088 ; C26H25NO ; 367.483",
+    "category": "cannabinodids",
+    "index": 4088,
+    "formular": "C26H25NO",
+    "molecular_weight": 367.483,
+    "inChl": "1S/C26H25NO/c1-2-3-9-17-27-19-24(23-15-7-8-16-25(23)27)26(28)22-14-10-13-21(18-22)20-11-5-4-6-12-20/h4-8,10-16,18-19H,2-3,9,17H2,1H3",
+    "InChl_Key": "NDZOLXJQXWOFRU-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2cccc(-c3ccccc3)c2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4088",
+    "validation": "m_weight unsave, calculated(367.4920000000001)"
+}

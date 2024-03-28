@@ -1,0 +1,13 @@
+{
+    "names": "4-(3-MeO-BnS)-2,5-DMBAL ; 4-(3-Methoxybenzylthio)-2,5-dimethoxybenzaldehyde",
+    "iupac_name": "2,5-Dimethoxy-4-{[(3-methoxyphenyl)methyl]sulfanyl}benzaldehyde",
+    "category": "data not stored",
+    "index": 3556,
+    "formular": "C17H18O4S",
+    "molecular_weight": 318.387,
+    "inChl": "1S/C17H18O4S/c1-19-14-6-4-5-12(7-14)11-22-17-9-15(20-2)13(10-18)8-16(17)21-3/h4-10H,11H2,1-3H3",
+    "InChl_Key": "SAXJBHJESNBYRN-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(CSc2cc(OC)c(C=O)cc2OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3556",
+    "validation": "m_weight unsave, calculated(318.39400000000006)"
+}

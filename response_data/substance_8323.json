@@ -1,0 +1,13 @@
+{
+    "names": "3-EtS-4,5-DMBAL ; 3-Ethylthio-4,5-dimethoxybenzaldehyde",
+    "iupac_name": "3-(Ethylsulfanyl)-4,5-dimethoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 8323,
+    "formular": "C11H14O3S",
+    "molecular_weight": 226.292,
+    "inChl": "1S/C11H14O3S/c1-4-15-10-6-8(7-12)5-9(13-2)11(10)14-3/h5-7H,4H2,1-3H3",
+    "InChl_Key": "CZOMDLXQXHOIGM-UHFFFAOYSA-N",
+    "SMILES": "CCSc1cc(C=O)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8323",
+    "validation": "m_weight unsave, calculated(226.29699999999997)"
+}

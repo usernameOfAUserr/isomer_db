@@ -1,0 +1,13 @@
+{
+    "names": "Ligandrol ; LGD-4033 ; VK5211",
+    "iupac_name": "4-{(2R)-2-[(1R)-2,2,2-Trifluoro-1-hydroxyethyl]pyrrolidin-1-yl}-2-(trifluoromethyl)benzonitrile",
+    "category": "data not stored",
+    "index": 13211,
+    "formular": "C14H12F6N2O",
+    "molecular_weight": 338.248,
+    "inChl": "1S/C14H12F6N2O/c15-13(16,17)10-6-9(4-3-8(10)7-21)22-5-1-2-11(22)12(23)14(18,19)20/h3-4,6,11-12,23H,1-2,5H2/t11-,12-/m1/s1",
+    "InChl_Key": "OPSIVAKKLQRWKC-VXGBXAGGSA-N",
+    "SMILES": "N#Cc1ccc(N2CCC[C@@H]2[C@@H](O)C(F)(F)F)cc1C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13211",
+    "validation": "m_weight unsave, calculated(338.2509999999999)"
+}

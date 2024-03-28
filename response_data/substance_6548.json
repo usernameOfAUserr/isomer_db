@@ -1,0 +1,13 @@
+{
+    "names": "PAL-869 ; PAL-870 (S) ; PAL-871 (R)",
+    "iupac_name": "5-Phenylpent-4-yn-2-amine",
+    "category": "data not stored",
+    "index": 6548,
+    "formular": "C11H13N",
+    "molecular_weight": 159.228,
+    "inChl": "1S/C11H13N/c1-10(12)6-5-9-11-7-3-2-4-8-11/h2-4,7-8,10H,6,12H2,1H3",
+    "InChl_Key": "AIEIYOQMLDXJFT-UHFFFAOYSA-N",
+    "SMILES": "CC(N)CC#Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6548",
+    "validation": "m_weight unsave, calculated(159.23199999999997)"
+}

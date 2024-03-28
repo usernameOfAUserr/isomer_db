@@ -1,0 +1,13 @@
+{
+    "names": "2-(Pyridazin-3-yl)ethan-1-amine",
+    "iupac_name": "11007 ; C6H9N3 ; 123.156",
+    "category": "Phenetylamine",
+    "index": 11007,
+    "formular": "C6H9N3",
+    "molecular_weight": 123.156,
+    "inChl": "1S/C6H9N3/c7-4-3-6-2-1-5-8-9-6/h1-2,5H,3-4,7H2",
+    "InChl_Key": "GKPGWUFVIZLEOL-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cccnn1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11007",
+    "validation": "m_weight unsave, calculated(123.15899999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "MDMB-CHMCZCA",
+    "iupac_name": "Methyl N-[9-(cyclohexylmethyl)-9H-carbazole-3-carbonyl]-3-methyl-L-valinate ; Methyl (2S)-2-{[9-(cyclohexylmethyl)-9H-carbazole-3-carbonyl]amino}-3,3-dimethylbutanoate",
+    "category": "cannabinodids",
+    "index": 4837,
+    "formular": "C27H34N2O3",
+    "molecular_weight": 434.57,
+    "inChl": "1S/C27H34N2O3/c1-27(2,3)24(26(31)32-4)28-25(30)19-14-15-23-21(16-19)20-12-8-9-13-22(20)29(23)17-18-10-6-5-7-11-18/h8-9,12-16,18,24H,5-7,10-11,17H2,1-4H3,(H,28,30)/t24-/m1/s1",
+    "InChl_Key": "FAWVRKNYDPKTDZ-XMMPIXPASA-N",
+    "SMILES": "COC(=O)[C@@H](NC(=O)c1ccc2c(c1)c1ccccc1n2CC1CCCCC1)C(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4837",
+    "validation": "m_weight unsave, calculated(434.5800000000003)"
+}

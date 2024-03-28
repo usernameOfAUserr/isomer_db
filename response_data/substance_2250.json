@@ -1,0 +1,13 @@
+{
+    "names": "Peyoglutam",
+    "iupac_name": "10-Hydroxy-8,9-dimethoxy-1,5,6,10b-tetrahydropyrrolo[2,1-a]isoquinolin-3(2H)-one",
+    "category": "Peyote alkaloid",
+    "index": 2250,
+    "formular": "C14H17NO4",
+    "molecular_weight": 263.289,
+    "inChl": "1S/C14H17NO4/c1-18-10-7-8-5-6-15-9(3-4-11(15)16)12(8)13(17)14(10)19-2/h7,9,17H,3-6H2,1-2H3",
+    "InChl_Key": "NYAWMEJINFTGIO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(c(O)c1OC)C1CCC(=O)N1CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2250",
+    "validation": "m_weight unsave, calculated(263.29299999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Bradanicline ; TC-5619",
+    "iupac_name": "N-{(2S,3R)-2-[(Pyridin-3-yl)methyl]-1-azabicyclo[2.2.2]octan-3-yl}-1-benzofuran-2-carboxamide",
+    "category": "data not stored",
+    "index": 3695,
+    "formular": "C22H23N3O2",
+    "molecular_weight": 361.437,
+    "inChl": "1S/C22H23N3O2/c26-22(20-13-17-5-1-2-6-19(17)27-20)24-21-16-7-10-25(11-8-16)18(21)12-15-4-3-9-23-14-15/h1-6,9,13-14,16,18,21H,7-8,10-12H2,(H,24,26)/t18-,21+/m0/s1",
+    "InChl_Key": "OXKRFEWMSWPKKV-GHTZIAJQSA-N",
+    "SMILES": "O=C(N[C@@H]1C2CCN(CC2)[C@H]1Cc1cccnc1)c1cc2ccccc2o1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3695",
+    "validation": "m_weight unsave, calculated(361.4450000000001)"
+}

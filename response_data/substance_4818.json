@@ -1,0 +1,13 @@
+{
+    "names": "SGT-52",
+    "iupac_name": "[(3S)-3,4-Dimethylpiperazin-1-yl][1-(5-fluoropentyl)-1H-indol-3-yl]methanone",
+    "category": "cannabinodids",
+    "index": 4818,
+    "formular": "C20H28FN3O",
+    "molecular_weight": 345.454,
+    "inChl": "1S/C20H28FN3O/c1-16-14-24(13-12-22(16)2)20(25)18-15-23(11-7-3-6-10-21)19-9-5-4-8-17(18)19/h4-5,8-9,15-16H,3,6-7,10-14H2,1-2H3/t16-/m0/s1",
+    "InChl_Key": "SFZHJYXBFFQLLS-INIZCTEOSA-N",
+    "SMILES": "C[C@H]1CN(C(=O)c2cn(CCCCCF)c3ccccc23)CCN1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4818",
+    "validation": "m_weight unsave, calculated(345.4620000000002)"
+}

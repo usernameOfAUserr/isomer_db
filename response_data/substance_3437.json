@@ -1,0 +1,13 @@
+{
+    "names": "Fletazepam",
+    "iupac_name": "7-Chloro-5-(2-fluorophenyl)-1-(2,2,2-trifluoroethyl)-2,3-dihydro-1H-1,4-benzodiazepine",
+    "category": "Aryldiazepine",
+    "index": 3437,
+    "formular": "C17H13ClF4N2",
+    "molecular_weight": 356.745,
+    "inChl": "1S/C17H13ClF4N2/c18-11-5-6-15-13(9-11)16(12-3-1-2-4-14(12)19)23-7-8-24(15)10-17(20,21)22/h1-6,9H,7-8,10H2",
+    "InChl_Key": "CIZCSUNUBQXVFP-UHFFFAOYSA-N",
+    "SMILES": "Fc1ccccc1C1=NCCN(CC(F)(F)F)c2ccc(Cl)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3437",
+    "validation": "m_weight unsave, calculated(356.75)"
+}

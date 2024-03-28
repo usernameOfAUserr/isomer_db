@@ -1,0 +1,13 @@
+{
+    "names": "3-Chloro-11-[(5-methoxypentyl)amino]-6-methyl-6,11-dihydro-5H-5\u03bb6-dibenzo[c,f][1,2]thiazepine-5,5-dione",
+    "iupac_name": "8451 ; C20H25ClN2O3S ; 408.942",
+    "category": "data not stored",
+    "index": 8451,
+    "formular": "C20H25ClN2O3S",
+    "molecular_weight": 408.942,
+    "inChl": "1S/C20H25ClN2O3S/c1-23-18-9-5-4-8-16(18)20(22-12-6-3-7-13-26-2)17-11-10-15(21)14-19(17)27(23,24)25/h4-5,8-11,14,20,22H,3,6-7,12-13H2,1-2H3",
+    "InChl_Key": "SDAUNNCVMIODJR-UHFFFAOYSA-N",
+    "SMILES": "COCCCCCNC1c2ccccc2N(C)S(=O)(=O)c2cc(Cl)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8451",
+    "validation": "m_weight unsave, calculated(408.9510000000002)"
+}

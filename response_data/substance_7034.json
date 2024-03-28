@@ -1,0 +1,13 @@
+{
+    "names": "2C-T-2-OH ; 4-(2-Hydroxyethylthio)-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-{[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]sulfanyl}ethan-1-ol",
+    "category": "data not stored",
+    "index": 7034,
+    "formular": "C12H19NO3S",
+    "molecular_weight": 257.349,
+    "inChl": "1S/C12H19NO3S/c1-15-10-8-12(17-6-5-14)11(16-2)7-9(10)3-4-13/h7-8,14H,3-6,13H2,1-2H3",
+    "InChl_Key": "NHZDUZPZMPAAIE-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SCCO)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7034",
+    "validation": "m_weight unsave, calculated(257.35499999999996)"
+}

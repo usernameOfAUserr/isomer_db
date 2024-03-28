@@ -1,0 +1,13 @@
+{
+    "names": "R-4066 ; Spirodone",
+    "iupac_name": "6-(3,4-Dihydro-2H-spiro[naphthalene-1,4\u2032-piperidin]-1\u2032-yl)-4,4-diphenylhexan-3-one",
+    "category": "data not stored",
+    "index": 3219,
+    "formular": "C32H37NO",
+    "molecular_weight": 451.642,
+    "inChl": "1S/C32H37NO/c1-2-30(34)32(27-14-5-3-6-15-27,28-16-7-4-8-17-28)22-25-33-23-20-31(21-24-33)19-11-13-26-12-9-10-18-29(26)31/h3-10,12,14-18H,2,11,13,19-25H2,1H3",
+    "InChl_Key": "ZVFXEHSJPKPKDW-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)C(CCN1CCC2(CCCc3ccccc32)CC1)(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3219",
+    "validation": "m_weight unsave, calculated(451.6540000000004)"
+}

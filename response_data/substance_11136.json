@@ -1,0 +1,13 @@
+{
+    "names": "2-Me-BAL ; o-Tolualdehyde",
+    "iupac_name": "2-Methylbenzaldehyde",
+    "category": "data not stored",
+    "index": 11136,
+    "formular": "C8H8O",
+    "molecular_weight": 120.149,
+    "inChl": "1S/C8H8O/c1-7-4-2-3-5-8(7)6-9/h2-6H,1H3",
+    "InChl_Key": "BTFQKIATRPGRBS-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccccc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11136",
+    "validation": "m_weight unsave, calculated(120.15099999999997)"
+}

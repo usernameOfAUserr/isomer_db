@@ -1,0 +1,13 @@
+{
+    "names": "MDMB-4F-BUT7AICA",
+    "iupac_name": "Methyl N-[1-(4-fluorobutyl)-1H-pyrrolo[2,3-b]pyridine-3-carbonyl]-3-methyl-L-valinate ; Methyl (2S)-2-{[1-(4-fluorobutyl)-1H-pyrrolo[2,3-b]pyridine-3-carbonyl]amino}-3,3-dimethylbutanoate",
+    "category": "cannabinodids",
+    "index": 14110,
+    "formular": "C19H26FN3O3",
+    "molecular_weight": 363.426,
+    "inChl": "1S/C19H26FN3O3/c1-19(2,3)15(18(25)26-4)22-17(24)14-12-23(11-6-5-9-20)16-13(14)8-7-10-21-16/h7-8,10,12,15H,5-6,9,11H2,1-4H3,(H,22,24)/t15-/m1/s1",
+    "InChl_Key": "IAFQTIYFZNNKMH-OAHLLOKOSA-N",
+    "SMILES": "COC(=O)[C@@H](NC(=O)c1cn(CCCCF)c2ncccc12)C(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14110",
+    "validation": "m_weight unsave, calculated(363.4330000000002)"
+}

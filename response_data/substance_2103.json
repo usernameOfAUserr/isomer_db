@@ -1,0 +1,13 @@
+{
+    "names": "2-n-Decyloxy-4-methoxy-N,N-dimethylamphetamine",
+    "iupac_name": "1-[2-(Decyloxy)-4-methoxyphenyl]-N,N-dimethylpropan-2-amine",
+    "category": "data not stored",
+    "index": 2103,
+    "formular": "C22H39NO2",
+    "molecular_weight": 349.551,
+    "inChl": "1S/C22H39NO2/c1-6-7-8-9-10-11-12-13-16-25-22-18-21(24-5)15-14-20(22)17-19(2)23(3)4/h14-15,18-19H,6-13,16-17H2,1-5H3",
+    "InChl_Key": "AOSDQWFGZYDYHC-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCCCOc1cc(OC)ccc1CC(C)N(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2103",
+    "validation": "m_weight unsave, calculated(349.55900000000014)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-(Thiophen-2-yl)ethan-1-amine",
+    "iupac_name": "12106 ; C6H9NS ; 127.207",
+    "category": "Phenetylamine",
+    "index": 12106,
+    "formular": "C6H9NS",
+    "molecular_weight": 127.207,
+    "inChl": "1S/C6H9NS/c1-5(7)6-3-2-4-8-6/h2-5H,7H2,1H3",
+    "InChl_Key": "LYJBVRVJQXVVPI-UHFFFAOYSA-N",
+    "SMILES": "CC(N)c1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12106",
+    "validation": "m_weight unsave, calculated(127.212)"
+}

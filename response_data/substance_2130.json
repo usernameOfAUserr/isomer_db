@@ -1,0 +1,13 @@
+{
+    "names": "3-FA ; 3-Fluoroamphetamine ; 3F-AMP",
+    "iupac_name": "1-(3-Fluorophenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 2130,
+    "formular": "C9H12FN",
+    "molecular_weight": 153.197,
+    "inChl": "1S/C9H12FN/c1-7(11)5-8-3-2-4-9(10)6-8/h2-4,6-7H,5,11H2,1H3",
+    "InChl_Key": "PIOCLGPCMNPZFT-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1cccc(F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2130",
+    "validation": "m_weight unsave, calculated(153.19999999999996)"
+}

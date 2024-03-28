@@ -1,0 +1,13 @@
+{
+    "names": "R-1317",
+    "iupac_name": "4-Phenyl-1-[(2E)-3-phenylprop-2-en-1-yl]piperidin-4-yl propanoate",
+    "category": "data not stored",
+    "index": 3282,
+    "formular": "C23H27NO2",
+    "molecular_weight": 349.466,
+    "inChl": "1S/C23H27NO2/c1-2-22(25)26-23(21-13-7-4-8-14-21)15-18-24(19-16-23)17-9-12-20-10-5-3-6-11-20/h3-14H,2,15-19H2,1H3/b12-9+",
+    "InChl_Key": "STWAFYHWLNRRHY-FMIVXFBMSA-N",
+    "SMILES": "CCC(=O)OC1(c2ccccc2)CCN(C/C=C/c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3282",
+    "validation": "m_weight unsave, calculated(349.47400000000005)"
+}

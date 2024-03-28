@@ -1,0 +1,13 @@
+{
+    "names": "HME ; \u03b2,3-Dihydroxy-4-methoxyphenethylamine",
+    "iupac_name": "5-(2-Amino-1-hydroxyethyl)-2-methoxyphenol",
+    "category": "Shulgin_Index",
+    "index": 6582,
+    "formular": "C9H13NO3",
+    "molecular_weight": 183.204,
+    "inChl": "1S/C9H13NO3/c1-13-9-3-2-6(4-7(9)11)8(12)5-10/h2-4,8,11-12H,5,10H2,1H3",
+    "InChl_Key": "VSRZZLQWNRYVDK-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C(O)CN)cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6582",
+    "validation": "m_weight unsave, calculated(183.20699999999997)"
+}

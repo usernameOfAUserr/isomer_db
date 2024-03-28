@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2,2-HO-N-Me-5-MA ; \u03b2,2-Dihydroxy-5-methoxymethamphetamine",
+    "iupac_name": "2-[1-Hydroxy-2-(methylamino)propyl]-4-methoxyphenol",
+    "category": "Shulgin_Index",
+    "index": 6856,
+    "formular": "C11H17NO3",
+    "molecular_weight": 211.258,
+    "inChl": "1S/C11H17NO3/c1-7(12-2)11(14)9-6-8(15-3)4-5-10(9)13/h4-7,11-14H,1-3H3",
+    "InChl_Key": "OZBWNQQJAATCCF-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(O)c1cc(OC)ccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6856",
+    "validation": "m_weight unsave, calculated(211.261)"
+}

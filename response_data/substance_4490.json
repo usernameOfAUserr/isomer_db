@@ -1,0 +1,13 @@
+{
+    "names": "SGT-51 ; 5F-ADB-PICA ; ADMB-5F-PICA ; 5F-ADBICA",
+    "iupac_name": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4490,
+    "formular": "C20H28FN3O2",
+    "molecular_weight": 361.454,
+    "inChl": "1S/C20H28FN3O2/c1-20(2,3)17(18(22)25)23-19(26)15-13-24(12-8-4-7-11-21)16-10-6-5-9-14(15)16/h5-6,9-10,13,17H,4,7-8,11-12H2,1-3H3,(H2,22,25)(H,23,26)/t17-/m1/s1",
+    "InChl_Key": "ITZSOCZDFSHNCL-QGZVFWFLSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1cn(CCCCCF)c2ccccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4490",
+    "validation": "m_weight unsave, calculated(361.4610000000002)"
+}

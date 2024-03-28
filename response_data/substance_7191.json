@@ -1,0 +1,13 @@
+{
+    "names": "1-Pentylindole",
+    "iupac_name": "1-Pentyl-1H-indole",
+    "category": "data not stored",
+    "index": 7191,
+    "formular": "C13H17N",
+    "molecular_weight": 187.281,
+    "inChl": "1S/C13H17N/c1-2-3-6-10-14-11-9-12-7-4-5-8-13(12)14/h4-5,7-9,11H,2-3,6,10H2,1H3",
+    "InChl_Key": "QWLCOOAYMQWDPR-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1ccc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7191",
+    "validation": "m_weight unsave, calculated(187.286)"
+}

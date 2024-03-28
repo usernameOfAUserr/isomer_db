@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2,5-HO-N-Me-2-MPEA ; \u03b2,5-Dihydroxy-N-methyl-2-methoxyphenethylamine",
+    "iupac_name": "3-[1-Hydroxy-2-(methylamino)ethyl]-4-methoxyphenol",
+    "category": "Shulgin_Index",
+    "index": 6824,
+    "formular": "C10H15NO3",
+    "molecular_weight": 197.231,
+    "inChl": "1S/C10H15NO3/c1-11-6-9(13)8-5-7(12)3-4-10(8)14-2/h3-5,9,11-13H,6H2,1-2H3",
+    "InChl_Key": "YZQCLAHERDJGHU-UHFFFAOYSA-N",
+    "SMILES": "CNCC(O)c1cc(O)ccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6824",
+    "validation": "m_weight unsave, calculated(197.23399999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-Benzyloxy-\u03b1-methyl-NET ; 5-Benzyloxy-\u03b1-methyl-N-ethyltryptamine",
+    "iupac_name": "1-[5-(Benzyloxy)-1H-indol-3-yl]-N-ethylpropan-2-amine",
+    "category": "Tryptamine",
+    "index": 5832,
+    "formular": "C20H24N2O",
+    "molecular_weight": 308.417,
+    "inChl": "1S/C20H24N2O/c1-3-21-15(2)11-17-13-22-20-10-9-18(12-19(17)20)23-14-16-7-5-4-6-8-16/h4-10,12-13,15,21-22H,3,11,14H2,1-2H3",
+    "InChl_Key": "SEUSVSXMONQSSE-UHFFFAOYSA-N",
+    "SMILES": "CCNC(C)Cc1c[nH]c2ccc(OCc3ccccc3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5832",
+    "validation": "m_weight unsave, calculated(308.425)"
+}

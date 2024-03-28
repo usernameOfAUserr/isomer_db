@@ -1,0 +1,13 @@
+{
+    "names": "SGT-114",
+    "iupac_name": "1-[2-(tert-Butylamino)-2-oxoethyl]-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11541,
+    "formular": "C23H28N4O2",
+    "molecular_weight": 392.494,
+    "inChl": "1S/C23H28N4O2/c1-22(2,3)24-19(28)15-27-18-14-10-9-13-17(18)20(26-27)21(29)25-23(4,5)16-11-7-6-8-12-16/h6-14H,15H2,1-5H3,(H,24,28)(H,25,29)",
+    "InChl_Key": "KHNNTTUELCOHEA-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(C)NC(=O)Cn1nc(C(=O)NC(C)(C)c2ccccc2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11541",
+    "validation": "m_weight unsave, calculated(392.5030000000001)"
+}

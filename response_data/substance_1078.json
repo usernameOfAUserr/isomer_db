@@ -1,0 +1,13 @@
+{
+    "names": "2-I-TMA ; 2-Iodo-3,4,5-trimethoxyamphetamine",
+    "iupac_name": "1-(2-Iodo-3,4,5-trimethoxyphenyl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 1078,
+    "formular": "C12H18INO3",
+    "molecular_weight": 351.181,
+    "inChl": "1S/C12H18INO3/c1-7(14)5-8-6-9(15-2)11(16-3)12(17-4)10(8)13/h6-7H,5,14H2,1-4H3",
+    "InChl_Key": "BIOGMPHWEYYWAN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c(I)c(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1078",
+    "validation": "m_weight unsave, calculated(351.18399999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "JWH-204",
+    "iupac_name": "2-(2-Chlorophenyl)-1-(2-methyl-1-pentyl-1H-indol-3-yl)ethan-1-one",
+    "category": "cannabinodids",
+    "index": 4311,
+    "formular": "C22H24ClNO",
+    "molecular_weight": 353.885,
+    "inChl": "1S/C22H24ClNO/c1-3-4-9-14-24-16(2)22(18-11-6-8-13-20(18)24)21(25)15-17-10-5-7-12-19(17)23/h5-8,10-13H,3-4,9,14-15H2,1-2H3",
+    "InChl_Key": "JUWWNZZHFZTXED-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1c(C)c(C(=O)Cc2ccccc2Cl)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4311",
+    "validation": "m_weight unsave, calculated(353.89300000000003)"
+}

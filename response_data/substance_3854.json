@@ -1,0 +1,13 @@
+{
+    "names": "TP-003",
+    "iupac_name": "2\u2032,4-Difluoro-5\u2032-[8-fluoro-7-(2-hydroxypropan-2-yl)imidazo[1,2-a]pyridin-3-yl][1,1\u2032-biphenyl]-2-carbonitrile",
+    "category": "data not stored",
+    "index": 3854,
+    "formular": "C23H16F3N3O",
+    "molecular_weight": 407.388,
+    "inChl": "1S/C23H16F3N3O/c1-23(2,30)18-7-8-29-20(12-28-22(29)21(18)26)13-3-6-19(25)17(10-13)16-5-4-15(24)9-14(16)11-27/h3-10,12,30H,1-2H3",
+    "InChl_Key": "SJMMDWXJSSJHOQ-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(O)c1ccn2c(-c3ccc(F)c(-c4ccc(F)cc4C#N)c3)cnc2c1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3854",
+    "validation": "m_weight unsave, calculated(407.39500000000015)"
+}

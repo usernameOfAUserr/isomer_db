@@ -1,0 +1,13 @@
+{
+    "names": "(6aR,12bR)-4,6,6a,7,8,12b-Hexahydroindolo[4,3-ab]phenanthridin-2-ol",
+    "iupac_name": "5704 ; C18H16N2O ; 276.332",
+    "category": "data not stored",
+    "index": 5704,
+    "formular": "C18H16N2O",
+    "molecular_weight": 276.332,
+    "inChl": "1S/C18H16N2O/c21-12-6-14-17-11(9-20-16(17)7-12)5-15-18(14)13-4-2-1-3-10(13)8-19-15/h1-4,6-7,9,15,18-21H,5,8H2/t15-,18-/m1/s1",
+    "InChl_Key": "YEQRDEDAMBPKQD-CRAIPNDOSA-N",
+    "SMILES": "Oc1cc2c3c(c[nH]c3c1)C[C@H]1NCc3ccccc3[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5704",
+    "validation": "m_weight unsave, calculated(276.33899999999994)"
+}

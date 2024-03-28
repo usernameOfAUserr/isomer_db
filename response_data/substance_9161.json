@@ -1,0 +1,13 @@
+{
+    "names": "3-Methyl-1-(2-phenylethyl)-4-(thiophen-2-yl)piperidin-4-yl acetate",
+    "iupac_name": "9161 ; C20H25NO2S ; 343.483",
+    "category": "data not stored",
+    "index": 9161,
+    "formular": "C20H25NO2S",
+    "molecular_weight": 343.483,
+    "inChl": "1S/C20H25NO2S/c1-16-15-21(12-10-18-7-4-3-5-8-18)13-11-20(16,23-17(2)22)19-9-6-14-24-19/h3-9,14,16H,10-13,15H2,1-2H3",
+    "InChl_Key": "SWWZAWOJNZNMSM-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)OC1(c2cccs2)CCN(CCc2ccccc2)CC1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9161",
+    "validation": "m_weight unsave, calculated(343.4920000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "PNI-D ; SGT-1B",
+    "iupac_name": "(2,3-Dichlorophenyl)(1-pentyl-1H-indol-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4040,
+    "formular": "C20H19Cl2NO",
+    "molecular_weight": 360.277,
+    "inChl": "1S/C20H19Cl2NO/c1-2-3-6-12-23-13-16(14-8-4-5-11-18(14)23)20(24)15-9-7-10-17(21)19(15)22/h4-5,7-11,13H,2-3,6,12H2,1H3",
+    "InChl_Key": "BXAMKSVSIYISEO-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2cccc(Cl)c2Cl)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4040",
+    "validation": "m_weight unsave, calculated(360.284)"
+}

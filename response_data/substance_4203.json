@@ -1,0 +1,13 @@
+{
+    "names": "US 6017919 #1-8",
+    "iupac_name": "(2E)-N-[(4-Hydroxyphenyl)methyl]-3-[4-methoxy-3-(pentyloxy)phenyl]prop-2-enamide",
+    "category": "cannabinodids",
+    "index": 4203,
+    "formular": "C22H27NO4",
+    "molecular_weight": 369.454,
+    "inChl": "1S/C22H27NO4/c1-3-4-5-14-27-21-15-17(8-12-20(21)26-2)9-13-22(25)23-16-18-6-10-19(24)11-7-18/h6-13,15,24H,3-5,14,16H2,1-2H3,(H,23,25)/b13-9+",
+    "InChl_Key": "NOGFYVSIQCLTPJ-UKTHLTGXSA-N",
+    "SMILES": "CCCCCOc1cc(/C=C/C(=O)NCc2ccc(O)cc2)ccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4203",
+    "validation": "m_weight unsave, calculated(369.4610000000001)"
+}

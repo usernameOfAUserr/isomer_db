@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-HO-3-FA ; \u03b2-Hydroxy-3-fluoroamphetamine",
+    "iupac_name": "2-Amino-1-(3-fluorophenyl)propan-1-ol",
+    "category": "data not stored",
+    "index": 6491,
+    "formular": "C9H12FNO",
+    "molecular_weight": 169.196,
+    "inChl": "1S/C9H12FNO/c1-6(11)9(12)7-3-2-4-8(10)5-7/h2-6,9,12H,11H2,1H3",
+    "InChl_Key": "DVIIBWRQNLCWLQ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)C(O)c1cccc(F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6491",
+    "validation": "m_weight unsave, calculated(169.19899999999996)"
+}

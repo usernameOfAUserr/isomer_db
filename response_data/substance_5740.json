@@ -1,0 +1,13 @@
+{
+    "names": "N-Methylhomotryptamine",
+    "iupac_name": "3-(1H-Indol-3-yl)-N-methylpropan-1-amine",
+    "category": "data not stored",
+    "index": 5740,
+    "formular": "C12H16N2",
+    "molecular_weight": 188.269,
+    "inChl": "1S/C12H16N2/c1-13-8-4-5-10-9-14-12-7-3-2-6-11(10)12/h2-3,6-7,9,13-14H,4-5,8H2,1H3",
+    "InChl_Key": "NSHWYAHUTQARKB-UHFFFAOYSA-N",
+    "SMILES": "CNCCCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5740",
+    "validation": "m_weight unsave, calculated(188.274)"
+}

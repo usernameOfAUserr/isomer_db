@@ -1,0 +1,13 @@
+{
+    "names": "2C-V-TFA",
+    "iupac_name": "N-[2-(4-Ethenyl-2,5-dimethoxyphenyl)ethyl]-2,2,2-trifluoroacetamide",
+    "category": "Phenetylamine",
+    "index": 12232,
+    "formular": "C14H16F3NO3",
+    "molecular_weight": 303.277,
+    "inChl": "1S/C14H16F3NO3/c1-4-9-7-12(21-3)10(8-11(9)20-2)5-6-18-13(19)14(15,16)17/h4,7-8H,1,5-6H2,2-3H3,(H,18,19)",
+    "InChl_Key": "YDVBJWFDARBZTJ-UHFFFAOYSA-N",
+    "SMILES": "C=Cc1cc(OC)c(CCNC(=O)C(F)(F)F)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12232",
+    "validation": "m_weight unsave, calculated(303.28)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "F-22 NS",
+    "iupac_name": "5-Methoxy-2,2-dimethyl-6-[(1E)-2-nitroprop-1-en-1-yl]-2,3-dihydro-1-benzofuran",
+    "category": "data not stored",
+    "index": 12862,
+    "formular": "C14H17NO4",
+    "molecular_weight": 263.289,
+    "inChl": "1S/C14H17NO4/c1-9(15(16)17)5-10-6-13-11(7-12(10)18-4)8-14(2,3)19-13/h5-7H,8H2,1-4H3/b9-5+",
+    "InChl_Key": "UWVWHMQIDTVBCW-WEVVVXLNSA-N",
+    "SMILES": "COc1cc2c(cc1/C=C(\\C)[N+](=O)[O-])OC(C)(C)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12862",
+    "validation": "m_weight unsave, calculated(263.293)"
+}

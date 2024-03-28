@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Carboxy-4-hydroxy-3-methoxyphenethylamine",
+    "iupac_name": "3-Methoxytyrosine ; 2-Amino-3-(4-hydroxy-3-methoxyphenyl)propanoic acid",
+    "category": "data not stored",
+    "index": 2701,
+    "formular": "C10H13NO4",
+    "molecular_weight": 211.215,
+    "inChl": "1S/C10H13NO4/c1-15-9-5-6(2-3-8(9)12)4-7(11)10(13)14/h2-3,5,7,12H,4,11H2,1H3,(H,13,14)",
+    "InChl_Key": "PFDUUKDQEHURQC-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(N)C(=O)O)ccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2701",
+    "validation": "m_weight unsave, calculated(211.21699999999996)"
+}

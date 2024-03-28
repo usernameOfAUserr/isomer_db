@@ -1,0 +1,13 @@
+{
+    "names": "4-Hydroxy-5-methylindole",
+    "iupac_name": "5-Methyl-1H-indol-4-ol",
+    "category": "data not stored",
+    "index": 13837,
+    "formular": "C9H9NO",
+    "molecular_weight": 147.174,
+    "inChl": "1S/C9H9NO/c1-6-2-3-8-7(9(6)11)4-5-10-8/h2-5,10-11H,1H3",
+    "InChl_Key": "URGMLVWXPXSAKY-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc2[nH]ccc2c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13837",
+    "validation": "m_weight unsave, calculated(147.17700000000002)"
+}

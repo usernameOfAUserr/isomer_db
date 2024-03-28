@@ -1,0 +1,13 @@
+{
+    "names": "AM-697",
+    "iupac_name": "5-[3-(2-Iodobenzoyl)-1H-indol-1-yl]pentyl 4-methylbenzene-1-sulfonate",
+    "category": "cannabinodids",
+    "index": 14608,
+    "formular": "C27H26INO4S",
+    "molecular_weight": 587.469,
+    "inChl": "1S/C27H26INO4S/c1-20-13-15-21(16-14-20)34(31,32)33-18-8-2-7-17-29-19-24(22-9-4-6-12-26(22)29)27(30)23-10-3-5-11-25(23)28/h3-6,9-16,19H,2,7-8,17-18H2,1H3",
+    "InChl_Key": "UDDMALGYZYGULS-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(S(=O)(=O)OCCCCCn2cc(C(=O)c3ccccc3I)c3ccccc32)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14608",
+    "validation": "m_weight unsave, calculated(587.479)"
+}

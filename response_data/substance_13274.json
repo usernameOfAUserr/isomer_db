@@ -1,0 +1,13 @@
+{
+    "names": "4-Cl-3-MMC",
+    "iupac_name": "1-(4-Chloro-3-methylphenyl)-2-(methylamino)propan-1-one",
+    "category": "data not stored",
+    "index": 13274,
+    "formular": "C11H14ClNO",
+    "molecular_weight": 211.688,
+    "inChl": "1S/C11H14ClNO/c1-7-6-9(4-5-10(7)12)11(14)8(2)13-3/h4-6,8,13H,1-3H3",
+    "InChl_Key": "URGPSLGDHKUXKS-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(=O)c1ccc(Cl)c(C)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13274",
+    "validation": "m_weight unsave, calculated(211.69199999999998)"
+}

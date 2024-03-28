@@ -1,0 +1,13 @@
+{
+    "names": "LSM-775 ; Morpholine lysergamide ; LA-Morph ; LSM ; Lysergic acid morpholide",
+    "iupac_name": "(6-Methyl-9,10-didehydroergolin-8\u03b2-yl)(morpholin-4-yl)methanone ; [(6aR,9R)-7-Methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-yl](morpholin-4-yl)methanone ; [(8\u03b2)-6-Methyl-9,10-didehydroergolin-8-yl](morpholin-4-yl)methanone",
+    "category": "data not stored",
+    "index": 5338,
+    "formular": "C20H23N3O2",
+    "molecular_weight": 337.416,
+    "inChl": "1S/C20H23N3O2/c1-22-12-14(20(24)23-5-7-25-8-6-23)9-16-15-3-2-4-17-19(15)13(11-21-17)10-18(16)22/h2-4,9,11,14,18,21H,5-8,10,12H2,1H3/t14-,18-/m1/s1",
+    "InChl_Key": "OTQWCDNEJVKXKG-RDTXWAMCSA-N",
+    "SMILES": "CN1C[C@H](C(=O)N2CCOCC2)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5338",
+    "validation": "m_weight unsave, calculated(337.4230000000002)"
+}

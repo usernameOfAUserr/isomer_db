@@ -1,0 +1,13 @@
+{
+    "names": "3,5-DMe-4-HO-BAL",
+    "iupac_name": "4-Hydroxy-3,5-dimethylbenzaldehyde",
+    "category": "data not stored",
+    "index": 14178,
+    "formular": "C9H10O2",
+    "molecular_weight": 150.175,
+    "inChl": "1S/C9H10O2/c1-6-3-8(5-10)4-7(2)9(6)11/h3-5,11H,1-2H3",
+    "InChl_Key": "UYGBSRJODQHNLQ-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(C=O)cc(C)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14178",
+    "validation": "m_weight unsave, calculated(150.177)"
+}

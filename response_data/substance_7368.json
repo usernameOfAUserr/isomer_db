@@ -1,0 +1,13 @@
+{
+    "names": "3-(4-Bromo-1-methyl-1H-pyrazol-5-yl)-N-(4-chlorophenyl)aniline",
+    "iupac_name": "7368 ; C16H13BrClN3 ; 362.652",
+    "category": "data not stored",
+    "index": 7368,
+    "formular": "C16H13BrClN3",
+    "molecular_weight": 362.652,
+    "inChl": "1S/C16H13BrClN3/c1-21-16(15(17)10-19-21)11-3-2-4-14(9-11)20-13-7-5-12(18)6-8-13/h2-10,20H,1H3",
+    "InChl_Key": "CEDWMDLRVLLSQK-UHFFFAOYSA-N",
+    "SMILES": "Cn1ncc(Br)c1-c1cccc(Nc2ccc(Cl)cc2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7368",
+    "validation": "m_weight unsave, calculated(362.658)"
+}

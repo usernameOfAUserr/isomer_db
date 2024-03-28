@@ -1,0 +1,13 @@
+{
+    "names": "4\u2032-Nitro-CPT",
+    "iupac_name": "Methyl (2S,3S)-8-methyl-3-(4-nitrophenyl)-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "category": "data not stored",
+    "index": 1915,
+    "formular": "C16H20N2O4",
+    "molecular_weight": 304.341,
+    "inChl": "1S/C16H20N2O4/c1-17-12-7-8-14(17)15(16(19)22-2)13(9-12)10-3-5-11(6-4-10)18(20)21/h3-6,12-15H,7-9H2,1-2H3/t12?,13-,14?,15+/m1/s1",
+    "InChl_Key": "JWBRJGZNZCKAEB-JYVUQVBGSA-N",
+    "SMILES": "COC(=O)[C@@H]1C2CCC(C[C@@H]1c1ccc([N+](=O)[O-])cc1)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1915",
+    "validation": "m_weight unsave, calculated(304.346)"
+}

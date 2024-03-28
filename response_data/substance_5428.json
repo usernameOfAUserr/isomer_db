@@ -1,0 +1,13 @@
+{
+    "names": "7-MeO-TH\u03b2C ; 7-Methoxy-1,2,3,4-tetrahydro-\u03b2-carboline",
+    "iupac_name": "7-Methoxy-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indole ; 7-Methoxy-2,3,4,9-tetrahydro-1H-\u03b2-carboline",
+    "category": "data not stored",
+    "index": 5428,
+    "formular": "C12H14N2O",
+    "molecular_weight": 202.252,
+    "inChl": "1S/C12H14N2O/c1-15-8-2-3-9-10-4-5-13-7-12(10)14-11(9)6-8/h2-3,6,13-14H,4-5,7H2,1H3",
+    "InChl_Key": "SCIRNASYBOGBOO-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c3c([nH]c2c1)CNCC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5428",
+    "validation": "m_weight unsave, calculated(202.25699999999995)"
+}

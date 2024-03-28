@@ -1,0 +1,13 @@
+{
+    "names": "Etoetonitazene",
+    "iupac_name": "2-(2-{[4-(2-Ethoxyethoxy)phenyl]methyl}-5-nitro-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine",
+    "category": "data not stored",
+    "index": 12294,
+    "formular": "C24H32N4O4",
+    "molecular_weight": 440.535,
+    "inChl": "1S/C24H32N4O4/c1-4-26(5-2)13-14-27-23-12-9-20(28(29)30)18-22(23)25-24(27)17-19-7-10-21(11-8-19)32-16-15-31-6-3/h7-12,18H,4-6,13-17H2,1-3H3",
+    "InChl_Key": "NWEAJFXJKVCITM-UHFFFAOYSA-N",
+    "SMILES": "CCOCCOc1ccc(Cc2nc3cc([N+](=O)[O-])ccc3n2CCN(CC)CC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12294",
+    "validation": "m_weight unsave, calculated(440.54400000000027)"
+}

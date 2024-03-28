@@ -1,0 +1,13 @@
+{
+    "names": "G-4 NS ; 2,5-Dimethoxy-3,4-tetramethylene-\u03b2-methyl-\u03b2-nitrostyrene",
+    "iupac_name": "5,8-Dimethoxy-6-[(1E)-2-nitroprop-1-en-1-yl]-1,2,3,4-tetrahydronaphthalene",
+    "category": "data not stored",
+    "index": 12864,
+    "formular": "C15H19NO4",
+    "molecular_weight": 277.316,
+    "inChl": "1S/C15H19NO4/c1-10(16(17)18)8-11-9-14(19-2)12-6-4-5-7-13(12)15(11)20-3/h8-9H,4-7H2,1-3H3/b10-8+",
+    "InChl_Key": "MTDGDWYMPRTBLT-CSKARUKUSA-N",
+    "SMILES": "COc1cc(/C=C(\\C)[N+](=O)[O-])c(OC)c2c1CCCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12864",
+    "validation": "m_weight unsave, calculated(277.32)"
+}

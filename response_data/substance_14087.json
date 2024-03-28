@@ -1,0 +1,13 @@
+{
+    "names": "1V-LSD ; 1-Valeryl-N,N-diethyllysergamide ; 1-Pentanoyl-LSD ; 1-Valeroyl-LSD ; 1-Valeryl-LSD",
+    "iupac_name": "N,N-Diethyl-6-methyl-1-pentanoyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N,N-Diethyl-7-methyl-4-pentanoyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N,N-Diethyl-6-methyl-1-pentanoyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 14087,
+    "formular": "C25H33N3O2",
+    "molecular_weight": 407.548,
+    "inChl": "1S/C25H33N3O2/c1-5-8-12-23(29)28-16-17-14-22-20(19-10-9-11-21(28)24(17)19)13-18(15-26(22)4)25(30)27(6-2)7-3/h9-11,13,16,18,22H,5-8,12,14-15H2,1-4H3/t18-,22-/m1/s1",
+    "InChl_Key": "GIIBVGJWUZNECE-XMSQKQJNSA-N",
+    "SMILES": "CCCCC(=O)n1cc2c3c(cccc31)C1=C[C@@H](C(=O)N(CC)CC)CN(C)[C@@H]1C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14087",
+    "validation": "m_weight unsave, calculated(407.5580000000002)"
+}

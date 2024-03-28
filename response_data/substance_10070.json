@@ -1,0 +1,13 @@
+{
+    "names": "Clorgiline ; Clorgyline",
+    "iupac_name": "N-[2-(2,4-Dichlorophenoxy)ethyl]-N-methylprop-2-yn-1-amine",
+    "category": "Phenetylamine",
+    "index": 10070,
+    "formular": "C12H13Cl2NO",
+    "molecular_weight": 258.144,
+    "inChl": "1S/C12H13Cl2NO/c1-3-6-15(2)7-8-16-12-5-4-10(13)9-11(12)14/h1,4-5,9H,6-8H2,2H3",
+    "InChl_Key": "ZADNYQATZCKUFO-UHFFFAOYSA-N",
+    "SMILES": "C#CCN(C)CCOc1ccc(Cl)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10070",
+    "validation": "m_weight unsave, calculated(258.14799999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "THPHP",
+    "iupac_name": "2-(Pyrrolidin-1-yl)-1-(5,6,7,8-tetrahydronaphthalen-2-yl)hexan-1-one",
+    "category": "data not stored",
+    "index": 8623,
+    "formular": "C20H29NO",
+    "molecular_weight": 299.45,
+    "inChl": "1S/C20H29NO/c1-2-3-10-19(21-13-6-7-14-21)20(22)18-12-11-16-8-4-5-9-17(16)15-18/h11-12,15,19H,2-10,13-14H2,1H3",
+    "InChl_Key": "OTVRHYOKZXMYCX-UHFFFAOYSA-N",
+    "SMILES": "CCCCC(C(=O)c1ccc2c(c1)CCCC2)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8623",
+    "validation": "m_weight unsave, calculated(299.4580000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Flavokavain A ; Flavokawin A",
+    "iupac_name": "(2E)-1-(2-Hydroxy-4,6-dimethoxyphenyl)-3-(4-methoxyphenyl)prop-2-en-1-one",
+    "category": "data not stored",
+    "index": 9889,
+    "formular": "C18H18O5",
+    "molecular_weight": 314.333,
+    "inChl": "1S/C18H18O5/c1-21-13-7-4-12(5-8-13)6-9-15(19)18-16(20)10-14(22-2)11-17(18)23-3/h4-11,20H,1-3H3/b9-6+",
+    "InChl_Key": "CGIBCVBDFUTMPT-RMKNXTFCSA-N",
+    "SMILES": "COc1ccc(/C=C/C(=O)c2c(O)cc(OC)cc2OC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9889",
+    "validation": "m_weight unsave, calculated(314.33700000000005)"
+}

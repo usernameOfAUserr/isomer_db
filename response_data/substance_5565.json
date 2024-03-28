@@ -1,0 +1,13 @@
+{
+    "names": "T-NBOH ; N-(2-Hydroxybenzyl)tryptamine",
+    "iupac_name": "2-({[2-(1H-Indol-3-yl)ethyl]amino}methyl)phenol",
+    "category": "Tryptamine",
+    "index": 5565,
+    "formular": "C17H18N2O",
+    "molecular_weight": 266.338,
+    "inChl": "1S/C17H18N2O/c20-17-8-4-1-5-14(17)11-18-10-9-13-12-19-16-7-3-2-6-15(13)16/h1-8,12,18-20H,9-11H2",
+    "InChl_Key": "NUCDWASRCGAPHW-UHFFFAOYSA-N",
+    "SMILES": "Oc1ccccc1CNCCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5565",
+    "validation": "m_weight unsave, calculated(266.344)"
+}

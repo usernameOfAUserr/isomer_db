@@ -1,0 +1,13 @@
+{
+    "names": "5-Fluoro-N-(but-3-en-2-yl)-PMI ; 5-Fluoro-3-[N-(but-3-en-2-yl)pyrrolidinylmethyl]indole",
+    "iupac_name": "3-{[1-(But-3-en-2-yl)pyrrolidin-2-yl]methyl}-5-fluoro-1H-indole",
+    "category": "data not stored",
+    "index": 13635,
+    "formular": "C17H21FN2",
+    "molecular_weight": 272.36,
+    "inChl": "1S/C17H21FN2/c1-3-12(2)20-8-4-5-15(20)9-13-11-19-17-7-6-14(18)10-16(13)17/h3,6-7,10-12,15,19H,1,4-5,8-9H2,2H3",
+    "InChl_Key": "WVQXZJOZYFVXTE-UHFFFAOYSA-N",
+    "SMILES": "C=CC(C)N1CCCC1Cc1c[nH]c2ccc(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13635",
+    "validation": "m_weight unsave, calculated(272.367)"
+}

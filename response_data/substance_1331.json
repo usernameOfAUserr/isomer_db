@@ -1,0 +1,13 @@
+{
+    "names": "NB-2-AI ; N-Butyl-2-aminoindane",
+    "iupac_name": "N-Butyl-2,3-dihydro-1H-inden-2-amine",
+    "category": "data not stored",
+    "index": 1331,
+    "formular": "C13H19N",
+    "molecular_weight": 189.297,
+    "inChl": "1S/C13H19N/c1-2-3-8-14-13-9-11-6-4-5-7-12(11)10-13/h4-7,13-14H,2-3,8-10H2,1H3",
+    "InChl_Key": "USGDCMIVRWBLEQ-UHFFFAOYSA-N",
+    "SMILES": "CCCCNC1Cc2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1331",
+    "validation": "m_weight unsave, calculated(189.302)"
+}

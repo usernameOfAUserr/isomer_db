@@ -1,0 +1,13 @@
+{
+    "names": "9-Chloro-11-phenyl-6,11-dihydro-5H-pyrimido[4,5-b][1,5]benzodiazepin-5-one",
+    "iupac_name": "14812 ; C17H11ClN4O ; 322.748",
+    "category": "Aryldiazepine \u00b7 Prophetic?",
+    "index": 14812,
+    "formular": "C17H11ClN4O",
+    "molecular_weight": 322.748,
+    "inChl": "1S/C17H11ClN4O/c18-11-6-7-14-15(8-11)22(12-4-2-1-3-5-12)16-13(17(23)21-14)9-19-10-20-16/h1-10H,(H,21,23)",
+    "InChl_Key": "YGOMOZIZFFOUHC-UHFFFAOYSA-N",
+    "SMILES": "O=C1Nc2ccc(Cl)cc2N(c2ccccc2)c2ncncc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14812",
+    "validation": "m_weight unsave, calculated(322.75500000000005)"
+}

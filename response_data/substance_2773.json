@@ -1,0 +1,13 @@
+{
+    "names": "N-Acetyl MPM ; N-Acetyl-2,5-dimethoxy-4-propoxyamphetamine",
+    "iupac_name": "N-[1-(2,5-Dimethoxy-4-propoxyphenyl)propan-2-yl]acetamide",
+    "category": "data not stored",
+    "index": 2773,
+    "formular": "C16H25NO4",
+    "molecular_weight": 295.374,
+    "inChl": "1S/C16H25NO4/c1-6-7-21-16-10-14(19-4)13(9-15(16)20-5)8-11(2)17-12(3)18/h9-11H,6-8H2,1-5H3,(H,17,18)",
+    "InChl_Key": "YNPPFPPGAAYISS-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1cc(OC)c(CC(C)NC(C)=O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2773",
+    "validation": "m_weight unsave, calculated(295.379)"
+}

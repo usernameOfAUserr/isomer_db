@@ -1,0 +1,13 @@
+{
+    "names": "Methyl 3-bromo-4-(2,5-dimethoxy-4-methylphenyl)-4-oxobutanoate",
+    "iupac_name": "1845 ; C14H17BrO5 ; 345.186",
+    "category": "data not stored",
+    "index": 1845,
+    "formular": "C14H17BrO5",
+    "molecular_weight": 345.186,
+    "inChl": "1S/C14H17BrO5/c1-8-5-12(19-3)9(6-11(8)18-2)14(17)10(15)7-13(16)20-4/h5-6,10H,7H2,1-4H3",
+    "InChl_Key": "BULCKWPOBPRJIK-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)CC(Br)C(=O)c1cc(OC)c(C)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1845",
+    "validation": "m_weight unsave, calculated(345.18899999999996)"
+}

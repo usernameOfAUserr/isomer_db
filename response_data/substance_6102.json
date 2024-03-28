@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Me-2-MMA ; \u03b2-Methyl-2-methoxymethamphetamine",
+    "iupac_name": "3-(2-Methoxyphenyl)-N-methylbutan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 6102,
+    "formular": "C12H19NO",
+    "molecular_weight": 193.285,
+    "inChl": "1S/C12H19NO/c1-9(10(2)13-3)11-7-5-6-8-12(11)14-4/h5-10,13H,1-4H3",
+    "InChl_Key": "GNDRALUYSQLXHW-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(C)c1ccccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6102",
+    "validation": "m_weight unsave, calculated(193.28999999999996)"
+}

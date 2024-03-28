@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Me-5-DM-DMA ; 2-MeO-5-HO-N,N-DMA",
+    "iupac_name": "3-[2-(Dimethylamino)propyl]-4-methoxyphenol",
+    "category": "data not stored",
+    "index": 14075,
+    "formular": "C12H19NO2",
+    "molecular_weight": 209.285,
+    "inChl": "1S/C12H19NO2/c1-9(13(2)3)7-10-8-11(14)5-6-12(10)15-4/h5-6,8-9,14H,7H2,1-4H3",
+    "InChl_Key": "NKKWNGDERZQDEH-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(O)cc1CC(C)N(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14075",
+    "validation": "m_weight unsave, calculated(209.289)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "JWH-015 ; NA-PrMIMO",
+    "iupac_name": "(2-Methyl-1-propyl-1H-indol-3-yl)(naphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4001,
+    "formular": "C23H21NO",
+    "molecular_weight": 327.419,
+    "inChl": "1S/C23H21NO/c1-3-15-24-16(2)22(20-12-6-7-14-21(20)24)23(25)19-13-8-10-17-9-4-5-11-18(17)19/h4-14H,3,15H2,1-2H3",
+    "InChl_Key": "LJSBBBWQTLXQEN-UHFFFAOYSA-N",
+    "SMILES": "CCCn1c(C)c(C(=O)c2cccc3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4001",
+    "validation": "m_weight unsave, calculated(327.4270000000001)"
+}

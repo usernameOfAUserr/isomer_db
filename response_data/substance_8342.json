@@ -1,0 +1,13 @@
+{
+    "names": "LA-pFAZ",
+    "iupac_name": "(3-Fluoroazetidin-1-yl)(6-methyl-9,10-didehydroergolin-8\u03b2-yl)methanone ; (3-Fluoroazetidin-1-yl)[(6aR,9R)-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-yl]methanone ; (3-Fluoroazetidin-1-yl)[(8\u03b2)-6-methyl-9,10-didehydroergolin-8-yl]methanone",
+    "category": "data not stored",
+    "index": 8342,
+    "formular": "C19H20FN3O",
+    "molecular_weight": 325.38,
+    "inChl": "1S/C19H20FN3O/c1-22-8-12(19(24)23-9-13(20)10-23)5-15-14-3-2-4-16-18(14)11(7-21-16)6-17(15)22/h2-5,7,12-13,17,21H,6,8-10H2,1H3/t12-,17-/m1/s1",
+    "InChl_Key": "CBSMXUSELGRXND-SJKOYZFVSA-N",
+    "SMILES": "CN1C[C@H](C(=O)N2CC(F)C2)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8342",
+    "validation": "m_weight unsave, calculated(325.3870000000001)"
+}

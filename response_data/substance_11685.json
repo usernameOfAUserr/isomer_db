@@ -1,0 +1,13 @@
+{
+    "names": "Clotizolam",
+    "iupac_name": "2-Chloro-4-(2-chlorophenyl)-9-methyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine",
+    "category": "Aryldiazepine",
+    "index": 11685,
+    "formular": "C15H10Cl2N4S",
+    "molecular_weight": 349.238,
+    "inChl": "1S/C15H10Cl2N4S/c1-8-19-20-13-7-18-14(9-4-2-3-5-11(9)16)10-6-12(17)22-15(10)21(8)13/h2-6H,7H2,1H3",
+    "InChl_Key": "CHGXYVPOFYZWRH-UHFFFAOYSA-N",
+    "SMILES": "Cc1nnc2n1-c1sc(Cl)cc1C(c1ccccc1Cl)=NC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11685",
+    "validation": "m_weight unsave, calculated(349.246)"
+}

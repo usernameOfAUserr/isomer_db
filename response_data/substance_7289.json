@@ -1,0 +1,13 @@
+{
+    "names": "7-API NS",
+    "iupac_name": "7-[(1E)-2-Nitroprop-1-en-1-yl]-1H-indole",
+    "category": "data not stored",
+    "index": 7289,
+    "formular": "C11H10N2O2",
+    "molecular_weight": 202.209,
+    "inChl": "1S/C11H10N2O2/c1-8(13(14)15)7-10-4-2-3-9-5-6-12-11(9)10/h2-7,12H,1H3/b8-7+",
+    "InChl_Key": "CQLQHJUBKVSHJB-BQYQJAHWSA-N",
+    "SMILES": "C/C(=C\\c1cccc2cc[nH]c12)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7289",
+    "validation": "m_weight unsave, calculated(202.213)"
+}

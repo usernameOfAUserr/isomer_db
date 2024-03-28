@@ -1,0 +1,13 @@
+{
+    "names": "JWH-151",
+    "iupac_name": "(7-Methoxynaphthalen-1-yl)(2-methyl-1-propyl-1H-indol-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 11253,
+    "formular": "C24H23NO2",
+    "molecular_weight": 357.445,
+    "inChl": "1S/C24H23NO2/c1-4-14-25-16(2)23(20-9-5-6-11-22(20)25)24(26)19-10-7-8-17-12-13-18(27-3)15-21(17)19/h5-13,15H,4,14H2,1-3H3",
+    "InChl_Key": "NRRZXWDIHJREMJ-UHFFFAOYSA-N",
+    "SMILES": "CCCn1c(C)c(C(=O)c2cccc3ccc(OC)cc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11253",
+    "validation": "m_weight unsave, calculated(357.45300000000015)"
+}

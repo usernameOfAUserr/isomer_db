@@ -1,0 +1,13 @@
+{
+    "names": "2-TFMBZP-HFBA",
+    "iupac_name": "2,2,3,3,4,4,4-Heptafluoro-1-(4-{[2-(trifluoromethyl)phenyl]methyl}piperazin-1-yl)butan-1-one",
+    "category": "data not stored",
+    "index": 8832,
+    "formular": "C16H14F10N2O",
+    "molecular_weight": 440.279,
+    "inChl": "1S/C16H14F10N2O/c17-13(18,15(22,23)16(24,25)26)12(29)28-7-5-27(6-8-28)9-10-3-1-2-4-11(10)14(19,20)21/h1-4H,5-9H2",
+    "InChl_Key": "BJBGPVQYUBKVGL-UHFFFAOYSA-N",
+    "SMILES": "O=C(N1CCN(Cc2ccccc2C(F)(F)F)CC1)C(F)(F)C(F)(F)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8832",
+    "validation": "m_weight unsave, calculated(440.2810000000001)"
+}

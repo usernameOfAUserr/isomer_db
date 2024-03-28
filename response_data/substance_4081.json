@@ -1,0 +1,13 @@
+{
+    "names": "US 5068234 #2J",
+    "iupac_name": "(4-Methoxyphenyl){1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}methanone",
+    "category": "cannabinodids",
+    "index": 4081,
+    "formular": "C23H26N2O2",
+    "molecular_weight": 362.465,
+    "inChl": "1S/C23H26N2O2/c1-24-14-6-5-7-18(24)15-25-16-21(20-8-3-4-9-22(20)25)23(26)17-10-12-19(27-2)13-11-17/h3-4,8-13,16,18H,5-7,14-15H2,1-2H3",
+    "InChl_Key": "VFWLFYIKEQOJRN-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C(=O)c2cn(CC3CCCCN3C)c3ccccc23)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4081",
+    "validation": "m_weight unsave, calculated(362.47300000000024)"
+}

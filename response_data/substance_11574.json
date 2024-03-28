@@ -1,0 +1,13 @@
+{
+    "names": "SGT-159",
+    "iupac_name": "N-[2-(4-Chlorophenyl)propan-2-yl]-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11574,
+    "formular": "C24H28ClN3O",
+    "molecular_weight": 409.952,
+    "inChl": "1S/C24H28ClN3O/c1-24(2,18-12-14-19(25)15-13-18)26-23(29)22-20-10-6-7-11-21(20)28(27-22)16-17-8-4-3-5-9-17/h6-7,10-15,17H,3-5,8-9,16H2,1-2H3,(H,26,29)",
+    "InChl_Key": "UUPIMJOTUWJPGP-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1nn(CC2CCCCC2)c2ccccc12)c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11574",
+    "validation": "m_weight unsave, calculated(409.9610000000003)"
+}

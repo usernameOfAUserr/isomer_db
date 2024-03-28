@@ -1,0 +1,13 @@
+{
+    "names": "(6-{[(2R)-1-Methylpiperidin-2-yl]methyl}pyrrolo[1,2-b][1,2,5]thiadiazol-4-yl)(naphthalen-1-yl)methanone",
+    "iupac_name": "3584 ; C23H23N3OS ; 389.513",
+    "category": "cannabinodids",
+    "index": 3584,
+    "formular": "C23H23N3OS",
+    "molecular_weight": 389.513,
+    "inChl": "1S/C23H23N3OS/c1-25-12-5-4-9-17(25)13-18-14-21(22-15-24-28-26(18)22)23(27)20-11-6-8-16-7-2-3-10-19(16)20/h2-3,6-8,10-11,14-15,17H,4-5,9,12-13H2,1H3/t17-/m1/s1",
+    "InChl_Key": "GAASRXWJHIOOGQ-QGZVFWFLSA-N",
+    "SMILES": "CN1CCCC[C@@H]1Cc1cc(C(=O)c2cccc3ccccc23)c2cnsn12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3584",
+    "validation": "m_weight unsave, calculated(389.5240000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "16-Oxatabernanthine ; Furanyl-tabernanthine",
+    "iupac_name": "13-Methoxy-16-oxaibogamine ; (6R,6aS,7S,9R)-7-Ethyl-3-methoxy-6,6a,7,8,9,10,12,13-octahydro-6,9-methano[1]benzofuro[2,3-d]pyrido[1,2-a]azepine",
+    "category": "data not stored",
+    "index": 8415,
+    "formular": "C20H25NO2",
+    "molecular_weight": 311.418,
+    "inChl": "1S/C20H25NO2/c1-3-13-8-12-9-17-19(13)21(11-12)7-6-16-15-5-4-14(22-2)10-18(15)23-20(16)17/h4-5,10,12-13,17,19H,3,6-9,11H2,1-2H3/t12-,13+,17-,19+/m1/s1",
+    "InChl_Key": "IVNDNWKNZWVKFL-BXSJSEAGSA-N",
+    "SMILES": "CC[C@H]1C[C@@H]2C[C@H]3c4oc5cc(OC)ccc5c4CCN(C2)[C@@H]13",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8415",
+    "validation": "m_weight unsave, calculated(311.425)"
+}

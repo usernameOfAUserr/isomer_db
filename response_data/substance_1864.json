@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 5,5-diethoxy-1-methylpiperidine-3-carboxylate",
+    "iupac_name": "1864 ; C13H25NO4 ; 259.342",
+    "category": "data not stored",
+    "index": 1864,
+    "formular": "C13H25NO4",
+    "molecular_weight": 259.342,
+    "inChl": "1S/C13H25NO4/c1-5-16-12(15)11-8-13(17-6-2,18-7-3)10-14(4)9-11/h11H,5-10H2,1-4H3",
+    "InChl_Key": "WHAYIHKAJLLJCI-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1CN(C)CC(OCC)(OCC)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1864",
+    "validation": "m_weight unsave, calculated(259.34599999999995)"
+}

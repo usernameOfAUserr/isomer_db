@@ -1,0 +1,13 @@
+{
+    "names": "2-Methyl-6-(nonyloxy)-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indole",
+    "iupac_name": "14444 ; C21H32N2O ; 328.492",
+    "category": "data not stored",
+    "index": 14444,
+    "formular": "C21H32N2O",
+    "molecular_weight": 328.492,
+    "inChl": "1S/C21H32N2O/c1-3-4-5-6-7-8-9-14-24-17-10-11-20-19(15-17)18-12-13-23(2)16-21(18)22-20/h10-11,15,22H,3-9,12-14,16H2,1-2H3",
+    "InChl_Key": "GHFPDJPFPIODLB-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCCOc1ccc2[nH]c3c(c2c1)CCN(C)C3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14444",
+    "validation": "m_weight unsave, calculated(328.5000000000001)"
+}

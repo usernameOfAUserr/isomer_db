@@ -1,0 +1,13 @@
+{
+    "names": "2,5-Dimethoxyphenylacetone ; 2,5-MeOP2P",
+    "iupac_name": "1-(2,5-Dimethoxyphenyl)propan-2-one",
+    "category": "data not stored",
+    "index": 11043,
+    "formular": "C11H14O3",
+    "molecular_weight": 194.227,
+    "inChl": "1S/C11H14O3/c1-8(12)6-9-7-10(13-2)4-5-11(9)14-3/h4-5,7H,6H2,1-3H3",
+    "InChl_Key": "RUCPISZJMCQMPY-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c(CC(C)=O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11043",
+    "validation": "m_weight unsave, calculated(194.22999999999996)"
+}

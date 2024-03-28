@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-MET ; 5-Methoxy-N-methyl-N-ethyltryptamine",
+    "iupac_name": "N-Ethyl-2-(5-methoxy-1H-indol-3-yl)-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5201,
+    "formular": "C14H20N2O",
+    "molecular_weight": 232.321,
+    "inChl": "1S/C14H20N2O/c1-4-16(2)8-7-11-10-15-14-6-5-12(17-3)9-13(11)14/h5-6,9-10,15H,4,7-8H2,1-3H3",
+    "InChl_Key": "AVECDEWGCOLCPZ-UHFFFAOYSA-N",
+    "SMILES": "CCN(C)CCc1c[nH]c2ccc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5201",
+    "validation": "m_weight unsave, calculated(232.327)"
+}

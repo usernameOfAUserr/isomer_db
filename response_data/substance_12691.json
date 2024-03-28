@@ -1,0 +1,13 @@
+{
+    "names": "5,5,12a-Trimethyl-8-pentyl-2,3,4,4a,5,11,12,12a-octahydro-1H-benzo[b]naphtho[2,1-d]pyran-10-ol",
+    "iupac_name": "12691 ; C25H36O2 ; 368.552",
+    "category": "cannabinodids",
+    "index": 12691,
+    "formular": "C25H36O2",
+    "molecular_weight": 368.552,
+    "inChl": "1S/C25H36O2/c1-5-6-7-10-17-15-20(26)22-18-12-14-25(4)13-9-8-11-19(25)23(18)24(2,3)27-21(22)16-17/h15-16,19,26H,5-14H2,1-4H3",
+    "InChl_Key": "LFLZJTRWADVEGK-UHFFFAOYSA-N",
+    "SMILES": "CCCCCc1cc(O)c2c(c1)OC(C)(C)C1=C2CCC2(C)CCCCC12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12691",
+    "validation": "m_weight unsave, calculated(368.56100000000015)"
+}

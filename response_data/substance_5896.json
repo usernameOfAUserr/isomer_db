@@ -1,0 +1,13 @@
+{
+    "names": "5-Methylcarbamoyl-T ; 5-(Methylcarbamoyl)tryptamine",
+    "iupac_name": "3-(2-Aminoethyl)-N-methyl-1H-indole-5-carboxamide",
+    "category": "Tryptamine",
+    "index": 5896,
+    "formular": "C12H15N3O",
+    "molecular_weight": 217.267,
+    "inChl": "1S/C12H15N3O/c1-14-12(16)8-2-3-11-10(6-8)9(4-5-13)7-15-11/h2-3,6-7,15H,4-5,13H2,1H3,(H,14,16)",
+    "InChl_Key": "XELBQPSQPBTHCE-UHFFFAOYSA-N",
+    "SMILES": "CNC(=O)c1ccc2[nH]cc(CCN)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5896",
+    "validation": "m_weight unsave, calculated(217.272)"
+}

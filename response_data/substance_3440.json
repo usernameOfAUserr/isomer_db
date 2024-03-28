@@ -1,0 +1,13 @@
+{
+    "names": "Flubrotizolam ; Flurotizolam ; LS-152,574",
+    "iupac_name": "2-Bromo-4-(2-fluorophenyl)-9-methyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine",
+    "category": "Aryldiazepine",
+    "index": 3440,
+    "formular": "C15H10BrFN4S",
+    "molecular_weight": 377.234,
+    "inChl": "1S/C15H10BrFN4S/c1-8-19-20-13-7-18-14(9-4-2-3-5-11(9)17)10-6-12(16)22-15(10)21(8)13/h2-6H,7H2,1H3",
+    "InChl_Key": "VOZDBDBHBXLWCG-UHFFFAOYSA-N",
+    "SMILES": "Cc1nnc2n1-c1sc(Br)cc1C(c1ccccc1F)=NC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3440",
+    "validation": "m_weight unsave, calculated(377.2420000000001)"
+}

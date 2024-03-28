@@ -1,0 +1,13 @@
+{
+    "names": "Baeocystin ; 4-Phosphonooxy-N-methyltryptamine ; 4-PO-NMT",
+    "iupac_name": "3-[2-(Methylamino)ethyl]-1H-indol-4-yl dihydrogen phosphate",
+    "category": "Tryptamine",
+    "index": 5123,
+    "formular": "C11H15N2O4P",
+    "molecular_weight": 270.222,
+    "inChl": "1S/C11H15N2O4P/c1-12-6-5-8-7-13-9-3-2-4-10(11(8)9)17-18(14,15)16/h2-4,7,12-13H,5-6H2,1H3,(H2,14,15,16)",
+    "InChl_Key": "WTPBXXCVZZZXKR-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1c[nH]c2cccc(OP(=O)(O)O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5123",
+    "validation": "m_weight unsave, calculated(270.22499999999997)"
+}

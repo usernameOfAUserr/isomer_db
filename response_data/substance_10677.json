@@ -1,0 +1,13 @@
+{
+    "names": "N-CPM-A ; N-Cyclopropylmethylamphetamine",
+    "iupac_name": "N-(Cyclopropylmethyl)-1-phenylpropan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10677,
+    "formular": "C13H19N",
+    "molecular_weight": 189.297,
+    "inChl": "1S/C13H19N/c1-11(14-10-13-7-8-13)9-12-5-3-2-4-6-12/h2-6,11,13-14H,7-10H2,1H3",
+    "InChl_Key": "BYCDOXVZUHPDPT-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NCC1CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10677",
+    "validation": "m_weight unsave, calculated(189.30199999999994)"
+}

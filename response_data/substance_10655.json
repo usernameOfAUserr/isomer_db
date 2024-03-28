@@ -1,0 +1,13 @@
+{
+    "names": "3-Methyl-THIQ",
+    "iupac_name": "3-Methyl-1,2,3,4-tetrahydroisoquinoline",
+    "category": "Phenetylamine",
+    "index": 10655,
+    "formular": "C10H13N",
+    "molecular_weight": 147.217,
+    "inChl": "1S/C10H13N/c1-8-6-9-4-2-3-5-10(9)7-11-8/h2-5,8,11H,6-7H2,1H3",
+    "InChl_Key": "UEKQPSAKUNXFHL-UHFFFAOYSA-N",
+    "SMILES": "CC1Cc2ccccc2CN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10655",
+    "validation": "m_weight unsave, calculated(147.221)"
+}

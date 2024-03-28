@@ -1,0 +1,13 @@
+{
+    "names": "EXP-561",
+    "iupac_name": "4-Phenylbicyclo[2.2.2]octan-1-amine",
+    "category": "Phenetylamine",
+    "index": 12013,
+    "formular": "C14H19N",
+    "molecular_weight": 201.307,
+    "inChl": "1S/C14H19N/c15-14-9-6-13(7-10-14,8-11-14)12-4-2-1-3-5-12/h1-5H,6-11,15H2",
+    "InChl_Key": "JXMVQBDHMBOHDH-UHFFFAOYSA-N",
+    "SMILES": "NC12CCC(c3ccccc3)(CC1)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12013",
+    "validation": "m_weight unsave, calculated(201.31300000000005)"
+}

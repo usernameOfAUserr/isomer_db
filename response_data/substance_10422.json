@@ -1,0 +1,13 @@
+{
+    "names": "TeFPEA-2 ; 2,3,4,6-Tetrafluorophenethylamine",
+    "iupac_name": "2-(2,3,4,6-Tetrafluorophenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10422,
+    "formular": "C8H7F4N",
+    "molecular_weight": 193.141,
+    "inChl": "1S/C8H7F4N/c9-5-3-6(10)8(12)7(11)4(5)1-2-13/h3H,1-2,13H2",
+    "InChl_Key": "DBYQYJQSSUURTO-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c(F)cc(F)c(F)c1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10422",
+    "validation": "m_weight unsave, calculated(193.14299999999994)"
+}

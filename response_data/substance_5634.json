@@ -1,0 +1,13 @@
+{
+    "names": "N-Pentyl-NMT ; N-Pentyl-N-methyltryptamine",
+    "iupac_name": "N-[2-(1H-Indol-3-yl)ethyl]-N-methylpentan-1-amine",
+    "category": "Tryptamine",
+    "index": 5634,
+    "formular": "C16H24N2",
+    "molecular_weight": 244.375,
+    "inChl": "1S/C16H24N2/c1-3-4-7-11-18(2)12-10-14-13-17-16-9-6-5-8-15(14)16/h5-6,8-9,13,17H,3-4,7,10-12H2,1-2H3",
+    "InChl_Key": "ZHXAQRYGNJUXFY-UHFFFAOYSA-N",
+    "SMILES": "CCCCCN(C)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5634",
+    "validation": "m_weight unsave, calculated(244.38200000000003)"
+}

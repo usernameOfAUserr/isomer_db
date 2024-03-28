@@ -1,0 +1,13 @@
+{
+    "names": "PAL-738",
+    "iupac_name": "2-(3-Chlorophenyl)-5-methylmorpholine",
+    "category": "data not stored",
+    "index": 7123,
+    "formular": "C11H14ClNO",
+    "molecular_weight": 211.688,
+    "inChl": "1S/C11H14ClNO/c1-8-7-14-11(6-13-8)9-3-2-4-10(12)5-9/h2-5,8,11,13H,6-7H2,1H3",
+    "InChl_Key": "DAGWNRUYMBGFSV-UHFFFAOYSA-N",
+    "SMILES": "CC1COC(c2cccc(Cl)c2)CN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7123",
+    "validation": "m_weight unsave, calculated(211.692)"
+}

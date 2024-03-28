@@ -1,0 +1,13 @@
+{
+    "names": "N,N,\u03b2-Et-PEA ; N,N,\u03b2-Triethylphenethylamine",
+    "iupac_name": "N,N-Diethyl-2-phenylbutan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10786,
+    "formular": "C14H23N",
+    "molecular_weight": 205.339,
+    "inChl": "1S/C14H23N/c1-4-13(12-15(5-2)6-3)14-10-8-7-9-11-14/h7-11,13H,4-6,12H2,1-3H3",
+    "InChl_Key": "KQGCWYDMZCARBU-UHFFFAOYSA-N",
+    "SMILES": "CCC(CN(CC)CC)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10786",
+    "validation": "m_weight unsave, calculated(205.3449999999999)"
+}

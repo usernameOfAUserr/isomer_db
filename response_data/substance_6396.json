@@ -1,0 +1,13 @@
+{
+    "names": "(M21) 2C-T-7-FLY",
+    "iupac_name": "3-{[8-(2-Aminoethyl)-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl]sulfanyl}propan-1-ol",
+    "category": "data not stored",
+    "index": 6396,
+    "formular": "C15H21NO3S",
+    "molecular_weight": 295.397,
+    "inChl": "1S/C15H21NO3S/c16-5-2-10-11-3-7-19-14(11)15(20-9-1-6-17)12-4-8-18-13(10)12/h17H,1-9,16H2",
+    "InChl_Key": "AMWUFEBWKKQCGH-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c2c(c(SCCCO)c3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6396",
+    "validation": "m_weight unsave, calculated(295.404)"
+}

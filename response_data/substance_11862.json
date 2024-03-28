@@ -1,0 +1,13 @@
+{
+    "names": "8-Methyl-8-azabicyclo[3.2.1]octan-2-yl cyclohexyl(hydroxy)(thiophen-2-yl)acetate",
+    "iupac_name": "11862 ; C20H29NO3S ; 363.514",
+    "category": "data not stored",
+    "index": 11862,
+    "formular": "C20H29NO3S",
+    "molecular_weight": 363.514,
+    "inChl": "1S/C20H29NO3S/c1-21-15-9-11-16(21)17(12-10-15)24-19(22)20(23,18-8-5-13-25-18)14-6-3-2-4-7-14/h5,8,13-17,23H,2-4,6-7,9-12H2,1H3",
+    "InChl_Key": "WSRVGFQYBQVAJN-UHFFFAOYSA-N",
+    "SMILES": "CN1C2CCC(OC(=O)C(O)(c3cccs3)C3CCCCC3)C1CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11862",
+    "validation": "m_weight unsave, calculated(363.5230000000002)"
+}

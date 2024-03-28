@@ -1,0 +1,13 @@
+{
+    "names": "1cP-AL-LAD",
+    "iupac_name": "1-(Cyclopropanecarbonyl)-N,N-diethyl-6-(prop-2-en-1-yl)-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-4-(Cyclopropanecarbonyl)-N,N-diethyl-7-(prop-2-en-1-yl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-1-(Cyclopropanecarbonyl)-N,N-diethyl-6-(prop-2-en-1-yl)-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 11396,
+    "formular": "C26H31N3O2",
+    "molecular_weight": 417.543,
+    "inChl": "1S/C26H31N3O2/c1-4-12-28-15-19(25(30)27(5-2)6-3)13-21-20-8-7-9-22-24(20)18(14-23(21)28)16-29(22)26(31)17-10-11-17/h4,7-9,13,16-17,19,23H,1,5-6,10-12,14-15H2,2-3H3/t19-,23-/m1/s1",
+    "InChl_Key": "VSABTUDYQCMWKE-AUSIDOKSSA-N",
+    "SMILES": "C=CCN1C[C@H](C(=O)N(CC)CC)C=C2c3cccc4c3c(cn4C(=O)C3CC3)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11396",
+    "validation": "m_weight unsave, calculated(417.5530000000003)"
+}

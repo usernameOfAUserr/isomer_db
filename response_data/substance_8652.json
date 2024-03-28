@@ -1,0 +1,13 @@
+{
+    "names": "4\u2032-MeO-4-MAR ; 4\u2032-Methoxy-4-methylaminorex",
+    "iupac_name": "5-(4-Methoxyphenyl)-4-methyl-4,5-dihydro-1,3-oxazol-2-amine",
+    "category": "data not stored",
+    "index": 8652,
+    "formular": "C11H14N2O2",
+    "molecular_weight": 206.241,
+    "inChl": "1S/C11H14N2O2/c1-7-10(15-11(12)13-7)8-3-5-9(14-2)6-4-8/h3-7,10H,1-2H3,(H2,12,13)",
+    "InChl_Key": "YXWPMDHZXCGTPK-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C2OC(N)=NC2C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8652",
+    "validation": "m_weight unsave, calculated(206.24499999999998)"
+}

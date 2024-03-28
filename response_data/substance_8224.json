@@ -1,0 +1,13 @@
+{
+    "names": "XL-i-270",
+    "iupac_name": "8-Ethynyl-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine",
+    "category": "Aryldiazepine",
+    "index": 8224,
+    "formular": "C19H14N4",
+    "molecular_weight": 298.341,
+    "inChl": "1S/C19H14N4/c1-3-14-9-10-17-16(11-14)19(15-7-5-4-6-8-15)20-12-18-22-21-13(2)23(17)18/h1,4-11H,12H2,2H3",
+    "InChl_Key": "YMFJMRVJWVJJAB-UHFFFAOYSA-N",
+    "SMILES": "C#Cc1ccc2c(c1)C(c1ccccc1)=NCc1nnc(C)n1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8224",
+    "validation": "m_weight unsave, calculated(298.349)"
+}

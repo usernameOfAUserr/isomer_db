@@ -1,0 +1,13 @@
+{
+    "names": "2-(1H-Indol-4-yl)-N,N-dimethylethan-1-amine",
+    "iupac_name": "2787 ; C12H16N2 ; 188.269",
+    "category": "data not stored",
+    "index": 2787,
+    "formular": "C12H16N2",
+    "molecular_weight": 188.269,
+    "inChl": "1S/C12H16N2/c1-14(2)9-7-10-4-3-5-12-11(10)6-8-13-12/h3-6,8,13H,7,9H2,1-2H3",
+    "InChl_Key": "CUMMXOMCIOVFBY-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1cccc2[nH]ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2787",
+    "validation": "m_weight unsave, calculated(188.274)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Uldazepam",
+    "iupac_name": "7-Chloro-5-(2-chlorophenyl)-N-[(prop-2-en-1-yl)oxy]-3H-1,4-benzodiazepin-2-amine",
+    "category": "Aryldiazepine",
+    "index": 3481,
+    "formular": "C18H15Cl2N3O",
+    "molecular_weight": 360.237,
+    "inChl": "1S/C18H15Cl2N3O/c1-2-9-24-23-17-11-21-18(13-5-3-4-6-15(13)20)14-10-12(19)7-8-16(14)22-17/h2-8,10H,1,9,11H2,(H,22,23)",
+    "InChl_Key": "DTMPGSXFUXZBDK-UHFFFAOYSA-N",
+    "SMILES": "C=CCONC1=Nc2ccc(Cl)cc2C(c2ccccc2Cl)=NC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3481",
+    "validation": "m_weight unsave, calculated(360.244)"
+}

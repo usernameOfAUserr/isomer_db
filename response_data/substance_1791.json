@@ -1,0 +1,13 @@
+{
+    "names": "2C-C-BOC ; N-tert-Butoxycarbonyl-4-chloro-2,5-dimethoxyphenethylamine",
+    "iupac_name": "tert-Butyl [2-(4-chloro-2,5-dimethoxyphenyl)ethyl]carbamate",
+    "category": "data not stored",
+    "index": 1791,
+    "formular": "C15H22ClNO4",
+    "molecular_weight": 315.792,
+    "inChl": "1S/C15H22ClNO4/c1-15(2,3)21-14(18)17-7-6-10-8-13(20-5)11(16)9-12(10)19-4/h8-9H,6-7H2,1-5H3,(H,17,18)",
+    "InChl_Key": "ZBRMVEMEOGOZOC-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNC(=O)OC(C)(C)C)c(OC)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1791",
+    "validation": "m_weight unsave, calculated(315.797)"
+}

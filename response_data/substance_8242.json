@@ -1,0 +1,13 @@
+{
+    "names": "YT-iii-31",
+    "iupac_name": "8-Ethynyl-N-methyl-6-phenyl-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxamide",
+    "category": "Aryldiazepine",
+    "index": 8242,
+    "formular": "C21H16N4O",
+    "molecular_weight": 340.378,
+    "inChl": "1S/C21H16N4O/c1-3-14-9-10-17-16(11-14)19(15-7-5-4-6-8-15)23-12-18-20(21(26)22-2)24-13-25(17)18/h1,4-11,13H,12H2,2H3,(H,22,26)",
+    "InChl_Key": "QEKVNFUHLYUJPO-UHFFFAOYSA-N",
+    "SMILES": "C#Cc1ccc2c(c1)C(c1ccccc1)=NCc1c(C(=O)NC)ncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8242",
+    "validation": "m_weight unsave, calculated(340.386)"
+}

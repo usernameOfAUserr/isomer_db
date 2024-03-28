@@ -1,0 +1,13 @@
+{
+    "names": "EA-1543",
+    "iupac_name": "Propan-2-yl 6,6,9-trimethyl-3-pentyl-7,8,9,10-tetrahydro-6H-dibenzo[b,d]pyran-1-yl methylphosphonate",
+    "category": "cannabinodids",
+    "index": 9961,
+    "formular": "C25H39O4P",
+    "molecular_weight": 434.549,
+    "inChl": "1S/C25H39O4P/c1-8-9-10-11-19-15-22-24(23(16-19)29-30(7,26)28-17(2)3)20-14-18(4)12-13-21(20)25(5,6)27-22/h15-18H,8-14H2,1-7H3",
+    "InChl_Key": "YUCOWSKKRMKSBJ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCc1cc2c(c(OP(C)(=O)OC(C)C)c1)C1=C(CCC(C)C1)C(C)(C)O2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9961",
+    "validation": "m_weight unsave, calculated(434.5570000000003)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Oxprenolol",
+    "iupac_name": "1-[(Propan-2-yl)amino]-3-{2-[(prop-2-en-1-yl)oxy]phenoxy}propan-2-ol",
+    "category": "Phenetylamine",
+    "index": 12126,
+    "formular": "C15H23NO3",
+    "molecular_weight": 265.348,
+    "inChl": "1S/C15H23NO3/c1-4-9-18-14-7-5-6-8-15(14)19-11-13(17)10-16-12(2)3/h4-8,12-13,16-17H,1,9-11H2,2-3H3",
+    "InChl_Key": "CEMAWMOMDPGJMB-UHFFFAOYSA-N",
+    "SMILES": "C=CCOc1ccccc1OCC(O)CNC(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12126",
+    "validation": "m_weight unsave, calculated(265.35299999999995)"
+}

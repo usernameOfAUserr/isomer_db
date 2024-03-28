@@ -1,0 +1,13 @@
+{
+    "names": "4\u2032-CF3-PAT",
+    "iupac_name": "N,N-Dimethyl-4-[4-(trifluoromethyl)phenyl]-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "category": "data not stored",
+    "index": 2863,
+    "formular": "C19H20F3N",
+    "molecular_weight": 319.364,
+    "inChl": "1S/C19H20F3N/c1-23(2)16-11-14-5-3-4-6-17(14)18(12-16)13-7-9-15(10-8-13)19(20,21)22/h3-10,16,18H,11-12H2,1-2H3",
+    "InChl_Key": "DMZILZFFWINIES-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1Cc2ccccc2C(c2ccc(C(F)(F)F)cc2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2863",
+    "validation": "m_weight unsave, calculated(319.37)"
+}

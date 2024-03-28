@@ -1,0 +1,13 @@
+{
+    "names": "1B-LSD",
+    "iupac_name": "1-Butanoyl-N,N-diethyl-6-methyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-4-Butanoyl-N,N-diethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-1-Butanoyl-N,N-diethyl-6-methyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 7037,
+    "formular": "C24H31N3O2",
+    "molecular_weight": 393.522,
+    "inChl": "1S/C24H31N3O2/c1-5-9-22(28)27-15-16-13-21-19(18-10-8-11-20(27)23(16)18)12-17(14-25(21)4)24(29)26(6-2)7-3/h8,10-12,15,17,21H,5-7,9,13-14H2,1-4H3/t17-,21-/m1/s1",
+    "InChl_Key": "SVRFNPSJPIDUBC-DYESRHJHSA-N",
+    "SMILES": "CCCC(=O)n1cc2c3c(cccc31)C1=C[C@@H](C(=O)N(CC)CC)CN(C)[C@@H]1C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7037",
+    "validation": "m_weight unsave, calculated(393.53100000000023)"
+}

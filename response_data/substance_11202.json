@@ -1,0 +1,13 @@
+{
+    "names": "DOI-TFA",
+    "iupac_name": "2,2,2-Trifluoro-N-[1-(4-iodo-2,5-dimethoxyphenyl)propan-2-yl]acetamide",
+    "category": "data not stored",
+    "index": 11202,
+    "formular": "C13H15F3INO3",
+    "molecular_weight": 417.163,
+    "inChl": "1S/C13H15F3INO3/c1-7(18-12(19)13(14,15)16)4-8-5-11(21-3)9(17)6-10(8)20-2/h5-7H,4H2,1-3H3,(H,18,19)",
+    "InChl_Key": "QVWLZXDQSXYTFI-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)NC(=O)C(F)(F)F)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11202",
+    "validation": "m_weight unsave, calculated(417.1650000000001)"
+}

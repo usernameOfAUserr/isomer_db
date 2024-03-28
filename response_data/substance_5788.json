@@ -1,0 +1,13 @@
+{
+    "names": "Abrine ; \u03b1-Carboxy-N-methyltryptamine",
+    "iupac_name": "N-Methyl-L-tryptophan ; 3-(1H-Indol-3-yl)-2-(methylamino)propanoic acid",
+    "category": "Tryptamine",
+    "index": 5788,
+    "formular": "C12H14N2O2",
+    "molecular_weight": 218.252,
+    "inChl": "1S/C12H14N2O2/c1-13-11(12(15)16)6-8-7-14-10-5-3-2-4-9(8)10/h2-5,7,11,13-14H,6H2,1H3,(H,15,16)/t11-/m0/s1",
+    "InChl_Key": "CZCIKBSVHDNIDH-NSHDSACASA-N",
+    "SMILES": "CN[C@@H](Cc1c[nH]c2ccccc12)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5788",
+    "validation": "m_weight unsave, calculated(218.256)"
+}

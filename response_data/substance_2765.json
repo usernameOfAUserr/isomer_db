@@ -1,0 +1,13 @@
+{
+    "names": "N-[1-(4-Ethoxyphenyl)propan-2-yl]acetamide",
+    "iupac_name": "2765 ; C13H19NO2 ; 221.295",
+    "category": "data not stored",
+    "index": 2765,
+    "formular": "C13H19NO2",
+    "molecular_weight": 221.295,
+    "inChl": "1S/C13H19NO2/c1-4-16-13-7-5-12(6-8-13)9-10(2)14-11(3)15/h5-8,10H,4,9H2,1-3H3,(H,14,15)",
+    "InChl_Key": "SEYZMKOZZQPIKU-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(CC(C)NC(C)=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2765",
+    "validation": "m_weight unsave, calculated(221.29999999999995)"
+}

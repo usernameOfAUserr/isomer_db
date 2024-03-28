@@ -1,0 +1,13 @@
+{
+    "names": "Lumateperone",
+    "iupac_name": "1-(4-Fluorophenyl)-4-[(6bR,10aS)-3-methyl-2,3,6b,9,10,10a-hexahydro-1H-pyrido[3\u2032,4\u2032:4,5]pyrrolo[1,2,3-de]quinoxalin-8(7H)-yl]butan-1-one",
+    "category": "data not stored",
+    "index": 8339,
+    "formular": "C24H28FN3O",
+    "molecular_weight": 393.497,
+    "inChl": "1S/C24H28FN3O/c1-26-14-15-28-21-11-13-27(16-20(21)19-4-2-5-22(26)24(19)28)12-3-6-23(29)17-7-9-18(25)10-8-17/h2,4-5,7-10,20-21H,3,6,11-16H2,1H3/t20-,21-/m0/s1",
+    "InChl_Key": "HOIIHACBCFLJET-SFTDATJTSA-N",
+    "SMILES": "CN1CCN2c3c(cccc31)[C@@H]1CN(CCCC(=O)c3ccc(F)cc3)CC[C@@H]12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8339",
+    "validation": "m_weight unsave, calculated(393.50600000000014)"
+}

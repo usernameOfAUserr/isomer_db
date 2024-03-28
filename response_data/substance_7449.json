@@ -1,0 +1,13 @@
+{
+    "names": "2-Bromoallylescaline ; 2-BrAL",
+    "iupac_name": "2-{4-[(2-Bromoprop-2-en-1-yl)oxy]-3,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "data not stored",
+    "index": 7449,
+    "formular": "C13H18BrNO3",
+    "molecular_weight": 316.191,
+    "inChl": "1S/C13H18BrNO3/c1-9(14)8-18-13-11(16-2)6-10(4-5-15)7-12(13)17-3/h6-7H,1,4-5,8,15H2,2-3H3",
+    "InChl_Key": "INFFPXHAHAMPFA-UHFFFAOYSA-N",
+    "SMILES": "C=C(Br)COc1c(OC)cc(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7449",
+    "validation": "m_weight unsave, calculated(316.19499999999994)"
+}

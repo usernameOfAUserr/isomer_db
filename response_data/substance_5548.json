@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2,2-Dihydroxy-N-methylphenethylamine",
+    "iupac_name": "2-[1-Hydroxy-2-(methylamino)ethyl]phenol",
+    "category": "data not stored",
+    "index": 5548,
+    "formular": "C9H13NO2",
+    "molecular_weight": 167.205,
+    "inChl": "1S/C9H13NO2/c1-10-6-9(12)7-4-2-3-5-8(7)11/h2-5,9-12H,6H2,1H3",
+    "InChl_Key": "YVGQHEIZCSVQHE-UHFFFAOYSA-N",
+    "SMILES": "CNCC(O)c1ccccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5548",
+    "validation": "m_weight unsave, calculated(167.20799999999997)"
+}

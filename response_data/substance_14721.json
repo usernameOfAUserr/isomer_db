@@ -1,0 +1,13 @@
+{
+    "names": "2-(2,3-Dihydro-1H-inden-1-yl)ethan-1-amine",
+    "iupac_name": "14721 ; C11H15N ; 161.244",
+    "category": "data not stored",
+    "index": 14721,
+    "formular": "C11H15N",
+    "molecular_weight": 161.244,
+    "inChl": "1S/C11H15N/c12-8-7-10-6-5-9-3-1-2-4-11(9)10/h1-4,10H,5-8,12H2",
+    "InChl_Key": "KQLYVTCAUKHNRW-UHFFFAOYSA-N",
+    "SMILES": "NCCC1CCc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14721",
+    "validation": "m_weight unsave, calculated(161.24800000000002)"
+}

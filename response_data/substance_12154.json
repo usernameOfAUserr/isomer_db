@@ -1,0 +1,13 @@
+{
+    "names": "N,5-Dimethylhexan-2-amine",
+    "iupac_name": "12154 ; C8H19N ; 129.243",
+    "category": "Phenetylamine",
+    "index": 12154,
+    "formular": "C8H19N",
+    "molecular_weight": 129.243,
+    "inChl": "1S/C8H19N/c1-7(2)5-6-8(3)9-4/h7-9H,5-6H2,1-4H3",
+    "InChl_Key": "VFQPKDNSCZTUMI-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)CCC(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12154",
+    "validation": "m_weight unsave, calculated(129.24699999999999)"
+}

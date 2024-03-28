@@ -1,0 +1,13 @@
+{
+    "names": "1-(5-Methoxy-4-methyl-2,3-dihydro-1-benzofuran-7-yl)propan-2-amine",
+    "iupac_name": "14534 ; C13H19NO2 ; 221.295",
+    "category": "data not stored",
+    "index": 14534,
+    "formular": "C13H19NO2",
+    "molecular_weight": 221.295,
+    "inChl": "1S/C13H19NO2/c1-8(14)6-10-7-12(15-3)9(2)11-4-5-16-13(10)11/h7-8H,4-6,14H2,1-3H3",
+    "InChl_Key": "QBMHQOVNABAOHH-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c2c(c1C)CCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14534",
+    "validation": "m_weight unsave, calculated(221.29999999999995)"
+}

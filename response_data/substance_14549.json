@@ -1,0 +1,13 @@
+{
+    "names": "2-(5-Methoxy-1H-indol-3-yl)-N-methyl-N-[(oxolan-2-yl)methyl]ethan-1-amine",
+    "iupac_name": "14549 ; C17H24N2O2 ; 288.385",
+    "category": "Tryptamine",
+    "index": 14549,
+    "formular": "C17H24N2O2",
+    "molecular_weight": 288.385,
+    "inChl": "1S/C17H24N2O2/c1-19(12-15-4-3-9-21-15)8-7-13-11-18-17-6-5-14(20-2)10-16(13)17/h5-6,10-11,15,18H,3-4,7-9,12H2,1-2H3",
+    "InChl_Key": "PIJMHBAEZMJCCV-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN(C)CC3CCCO3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14549",
+    "validation": "m_weight unsave, calculated(288.3909999999999)"
+}

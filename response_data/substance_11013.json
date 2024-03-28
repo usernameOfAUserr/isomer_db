@@ -1,0 +1,13 @@
+{
+    "names": "Rasagiline",
+    "iupac_name": "N-(Prop-2-yn-1-yl)-2,3-dihydro-1H-inden-1-amine",
+    "category": "Phenetylamine",
+    "index": 11013,
+    "formular": "C12H13N",
+    "molecular_weight": 171.238,
+    "inChl": "1S/C12H13N/c1-2-9-13-12-8-7-10-5-3-4-6-11(10)12/h1,3-6,12-13H,7-9H2",
+    "InChl_Key": "RUOKEQAAGRXIBM-UHFFFAOYSA-N",
+    "SMILES": "C#CCNC1CCc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11013",
+    "validation": "m_weight unsave, calculated(171.24300000000002)"
+}

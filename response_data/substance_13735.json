@@ -1,0 +1,13 @@
+{
+    "names": "\u03c8-TMCPA",
+    "iupac_name": "2-(2,4,6-Trimethoxyphenyl)cyclopropan-1-amine",
+    "category": "data not stored",
+    "index": 13735,
+    "formular": "C12H17NO3",
+    "molecular_weight": 223.268,
+    "inChl": "1S/C12H17NO3/c1-14-7-4-10(15-2)12(8-6-9(8)13)11(5-7)16-3/h4-5,8-9H,6,13H2,1-3H3",
+    "InChl_Key": "PSZZKLQZWAAUIU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(C2CC2N)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13735",
+    "validation": "m_weight unsave, calculated(223.27199999999996)"
+}

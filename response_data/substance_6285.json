@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-HO-4-MPEA ; \u03b2-Hydroxy-4-methoxyphenethylamine",
+    "iupac_name": "2-Amino-1-(4-methoxyphenyl)ethan-1-ol ; 2-Amino-1-(4-methoxyphenyl)ethanol",
+    "category": "Shulgin_Index",
+    "index": 6285,
+    "formular": "C9H13NO2",
+    "molecular_weight": 167.205,
+    "inChl": "1S/C9H13NO2/c1-12-8-4-2-7(3-5-8)9(11)6-10/h2-5,9,11H,6,10H2,1H3",
+    "InChl_Key": "LQEPONWCAMNCOY-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C(O)CN)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6285",
+    "validation": "m_weight unsave, calculated(167.20799999999997)"
+}

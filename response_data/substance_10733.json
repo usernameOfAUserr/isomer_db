@@ -1,0 +1,13 @@
+{
+    "names": "N-(2-Methylprop-2-enoyl)phenethylamine",
+    "iupac_name": "2-Methyl-N-(2-phenylethyl)prop-2-enamide",
+    "category": "Phenetylamine",
+    "index": 10733,
+    "formular": "C12H15NO",
+    "molecular_weight": 189.254,
+    "inChl": "1S/C12H15NO/c1-10(2)12(14)13-9-8-11-6-4-3-5-7-11/h3-7H,1,8-9H2,2H3,(H,13,14)",
+    "InChl_Key": "GTAFMQMHTPUJMR-UHFFFAOYSA-N",
+    "SMILES": "C=C(C)C(=O)NCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10733",
+    "validation": "m_weight unsave, calculated(189.25800000000004)"
+}

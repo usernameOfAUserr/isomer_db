@@ -1,0 +1,13 @@
+{
+    "names": "2\u2032-Et-AM-694 ; 2Et-PH-5F-PIMO",
+    "iupac_name": "(2-Ethylphenyl)[1-(5-fluoropentyl)-1H-indol-3-yl]methanone",
+    "category": "cannabinodids",
+    "index": 4074,
+    "formular": "C22H24FNO",
+    "molecular_weight": 337.43,
+    "inChl": "1S/C22H24FNO/c1-2-17-10-4-5-11-18(17)22(25)20-16-24(15-9-3-8-14-23)21-13-7-6-12-19(20)21/h4-7,10-13,16H,2-3,8-9,14-15H2,1H3",
+    "InChl_Key": "DKPFADUFBYDTOV-UHFFFAOYSA-N",
+    "SMILES": "CCc1ccccc1C(=O)c1cn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4074",
+    "validation": "m_weight unsave, calculated(337.4380000000001)"
+}

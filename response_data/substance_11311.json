@@ -1,0 +1,13 @@
+{
+    "names": "Quinolin-8-yl 4-(pentyloxy)naphthalene-1-carboxylate",
+    "iupac_name": "11311 ; C25H23NO3 ; 385.455",
+    "category": "cannabinodids",
+    "index": 11311,
+    "formular": "C25H23NO3",
+    "molecular_weight": 385.455,
+    "inChl": "1S/C25H23NO3/c1-2-3-6-17-28-22-15-14-21(19-11-4-5-12-20(19)22)25(27)29-23-13-7-9-18-10-8-16-26-24(18)23/h4-5,7-16H,2-3,6,17H2,1H3",
+    "InChl_Key": "LKARKIBJKOTJHZ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCOc1ccc(C(=O)Oc2cccc3cccnc23)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11311",
+    "validation": "m_weight unsave, calculated(385.4630000000001)"
+}

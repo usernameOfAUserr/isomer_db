@@ -1,0 +1,13 @@
+{
+    "names": "SGT-223",
+    "iupac_name": "1-Pentyl-N-phenyl-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11626,
+    "formular": "C19H21N3O",
+    "molecular_weight": 307.39,
+    "inChl": "1S/C19H21N3O/c1-2-3-9-14-22-17-13-8-7-12-16(17)18(21-22)19(23)20-15-10-5-4-6-11-15/h4-8,10-13H,2-3,9,14H2,1H3,(H,20,23)",
+    "InChl_Key": "QHQGTZHJWZFUBP-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1nc(C(=O)Nc2ccccc2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11626",
+    "validation": "m_weight unsave, calculated(307.39700000000005)"
+}

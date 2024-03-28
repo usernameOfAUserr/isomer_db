@@ -1,0 +1,13 @@
+{
+    "names": "QDOB ; 4-Bromo-2,5-dimethoxy-N,N,N-trimethylamphetamine+ ; N,N,N-Trimethyl-DOB",
+    "iupac_name": "1-(4-Bromo-2,5-dimethoxyphenyl)-N,N,N-trimethylpropan-2-aminium",
+    "category": "Phenetylamine",
+    "index": 2418,
+    "formular": "C14H23BrNO2",
+    "molecular_weight": 317.242,
+    "inChl": "1S/C14H23BrNO2/c1-10(16(2,3)4)7-11-8-14(18-6)12(15)9-13(11)17-5/h8-10H,7H2,1-6H3/q+1",
+    "InChl_Key": "VHNHSLNBQRAAPY-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)[N+](C)(C)C)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2418",
+    "validation": "m_weight unsave, calculated(317.24700000000007)formular unsave, calculated(C14H23BrNO2+)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2,3,5,6-BMMB ; 2,6-Dibromo-3,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(2,6-Dibromo-3,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7881,
+    "formular": "C10H13Br2NO2",
+    "molecular_weight": 339.024,
+    "inChl": "1S/C10H13Br2NO2/c1-14-7-5-8(15-2)10(12)6(3-4-13)9(7)11/h5H,3-4,13H2,1-2H3",
+    "InChl_Key": "HFGALPYXRFZYGX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(Br)c(CCN)c1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7881",
+    "validation": "m_weight unsave, calculated(339.027)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Acetorphine",
+    "iupac_name": "(7R)-7-[(2R)-2-Hydroxypentan-2-yl]-6\u03b1-methoxy-17-methyl-4,5\u03b1-epoxy-6,14\u03b1-ethenomorphinan-3-yl acetate ; (4R,4aR,7R,7aR,12bS,14R)-14-[(2R)-2-Hydroxypentan-2-yl]-7-methoxy-3-methyl-1,2,3,4,7,7a-hexahydro-4a,7-ethano-4,12-methano[1]benzofuro[3,2-e]isoquinolin-9-yl acetate ; (5\u03b1,6\u03b2,14\u03b2,18R)-18-[(2R)-2-Hydroxypentan-2-yl]-6-methoxy-17-methyl-7,8-didehydro-18,19-dihydro-4,5-epoxy-6,14-ethenomorphinan-3-yl acetate ; (5\u03b1,6\u03b2,14\u03b2,18R)-18-[(2R)-2-Hydroxypentan-2-yl]-6-methoxy-17-methyl-7,8-didehydro-4,5-epoxy-6,14-ethanomorphinan-3-yl acetate",
+    "category": "data not stored",
+    "index": 7655,
+    "formular": "C27H35NO5",
+    "molecular_weight": 453.571,
+    "inChl": "1S/C27H35NO5/c1-6-9-24(3,30)19-15-25-10-11-27(19,31-5)23-26(25)12-13-28(4)20(25)14-17-7-8-18(32-16(2)29)22(33-23)21(17)26/h7-8,10-11,19-20,23,30H,6,9,12-15H2,1-5H3/t19-,20-,23-,24-,25-,26+,27-/m1/s1",
+    "InChl_Key": "LFYBMMHFJIAKFE-PMEKXCSPSA-N",
+    "SMILES": "CCC[C@@](C)(O)[C@H]1C[C@@]23C=C[C@]1(OC)[C@@H]1Oc4c(OC(C)=O)ccc5c4[C@@]12CCN(C)[C@@H]3C5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7655",
+    "validation": "m_weight unsave, calculated(453.57900000000024)"
+}

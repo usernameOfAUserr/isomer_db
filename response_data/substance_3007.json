@@ -1,0 +1,13 @@
+{
+    "names": "Clonazepam ; 2\u2032-Chloronitrazepam ; Clonitrazepam",
+    "iupac_name": "5-(2-Chlorophenyl)-7-nitro-1,3-dihydro-2H-1,4-benzodiazepin-2-one",
+    "category": "Aryldiazepine",
+    "index": 3007,
+    "formular": "C15H10ClN3O3",
+    "molecular_weight": 315.711,
+    "inChl": "1S/C15H10ClN3O3/c16-12-4-2-1-3-10(12)15-11-7-9(19(21)22)5-6-13(11)18-14(20)8-17-15/h1-7H,8H2,(H,18,20)",
+    "InChl_Key": "DGBIGWXXNGSACT-UHFFFAOYSA-N",
+    "SMILES": "O=C1CN=C(c2ccccc2Cl)c2cc([N+](=O)[O-])ccc2N1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3007",
+    "validation": "m_weight unsave, calculated(315.716)"
+}

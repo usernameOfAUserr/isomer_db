@@ -1,0 +1,13 @@
+{
+    "names": "p-Propanamidofentanyl",
+    "iupac_name": "N-[1-(2-Phenylethyl)piperidin-4-yl]-N-(4-propanamidophenyl)propanamide",
+    "category": "Fentanyl",
+    "index": 11897,
+    "formular": "C25H33N3O2",
+    "molecular_weight": 407.548,
+    "inChl": "1S/C25H33N3O2/c1-3-24(29)26-21-10-12-22(13-11-21)28(25(30)4-2)23-15-18-27(19-16-23)17-14-20-8-6-5-7-9-20/h5-13,23H,3-4,14-19H2,1-2H3,(H,26,29)",
+    "InChl_Key": "CUIGHYMWVBCYDN-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)Nc1ccc(N(C(=O)CC)C2CCN(CCc3ccccc3)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11897",
+    "validation": "m_weight unsave, calculated(407.5580000000002)"
+}

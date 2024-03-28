@@ -1,0 +1,13 @@
+{
+    "names": "1-(6,7,8,9-Tetrahydro-5H-5,9-methanobenzo[7]annulen-5-yl)piperidine",
+    "iupac_name": "3367 ; C17H23N ; 241.371",
+    "category": "Arylcycloalkylamine",
+    "index": 3367,
+    "formular": "C17H23N",
+    "molecular_weight": 241.371,
+    "inChl": "1S/C17H23N/c1-4-11-18(12-5-1)17-10-6-7-14(13-17)15-8-2-3-9-16(15)17/h2-3,8-9,14H,1,4-7,10-13H2",
+    "InChl_Key": "GHLOMBKVKONRMI-UHFFFAOYSA-N",
+    "SMILES": "c1ccc2c(c1)C1CCCC2(N2CCCCC2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3367",
+    "validation": "m_weight unsave, calculated(241.378)"
+}

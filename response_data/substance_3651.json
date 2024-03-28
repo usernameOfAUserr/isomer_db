@@ -1,0 +1,13 @@
+{
+    "names": "4-[(Diphenylmethanesulfinyl)methyl]pyridine",
+    "iupac_name": "3651 ; C19H17NOS ; 307.409",
+    "category": "data not stored",
+    "index": 3651,
+    "formular": "C19H17NOS",
+    "molecular_weight": 307.409,
+    "inChl": "1S/C19H17NOS/c21-22(15-16-11-13-20-14-12-16)19(17-7-3-1-4-8-17)18-9-5-2-6-10-18/h1-14,19H,15H2",
+    "InChl_Key": "PXMIPUJDUOGPQE-UHFFFAOYSA-N",
+    "SMILES": "O=S(Cc1ccncc1)C(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3651",
+    "validation": "m_weight unsave, calculated(307.418)"
+}

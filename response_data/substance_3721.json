@@ -1,0 +1,13 @@
+{
+    "names": "LY-404,039 ; Pomaglumetad",
+    "iupac_name": "(1R,4S,5S,6S)-4-Amino-2,2-dioxo-2\u03bb6-thiabicyclo[3.1.0]hexane-4,6-dicarboxylic acid",
+    "category": "data not stored",
+    "index": 3721,
+    "formular": "C7H9NO6S",
+    "molecular_weight": 235.214,
+    "inChl": "1S/C7H9NO6S/c8-7(6(11)12)1-15(13,14)4-2(3(4)7)5(9)10/h2-4H,1,8H2,(H,9,10)(H,11,12)/t2-,3-,4+,7+/m1/s1",
+    "InChl_Key": "AVDUGNCTZRCAHH-MDASVERJSA-N",
+    "SMILES": "N[C@@]1(C(=O)O)CS(=O)(=O)[C@H]2[C@H](C(=O)O)[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3721",
+    "validation": "m_weight unsave, calculated(235.21699999999996)"
+}

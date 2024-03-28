@@ -1,0 +1,13 @@
+{
+    "names": "7-Iodo-5-MeO-T-NBOMe ; 7-Iodo-N-(2-methoxybenzyl)-5-methoxytryptamine",
+    "iupac_name": "2-(7-Iodo-5-methoxy-1H-indol-3-yl)-N-[(2-methoxyphenyl)methyl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 3327,
+    "formular": "C19H21IN2O2",
+    "molecular_weight": 436.287,
+    "inChl": "1S/C19H21IN2O2/c1-23-15-9-16-13(12-22-19(16)17(20)10-15)7-8-21-11-14-5-3-4-6-18(14)24-2/h3-6,9-10,12,21-22H,7-8,11H2,1-2H3",
+    "InChl_Key": "UNCGMHPBVQHLOR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(I)c2[nH]cc(CCNCc3ccccc3OC)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3327",
+    "validation": "m_weight unsave, calculated(436.2930000000002)"
+}

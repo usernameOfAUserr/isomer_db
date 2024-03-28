@@ -1,0 +1,13 @@
+{
+    "names": "SGT-128",
+    "iupac_name": "(4-Benzylpiperidin-1-yl)[1-(cyclohexylmethyl)-1H-indol-3-yl]methanone",
+    "category": "cannabinodids",
+    "index": 11555,
+    "formular": "C28H34N2O",
+    "molecular_weight": 414.582,
+    "inChl": "1S/C28H34N2O/c31-28(29-17-15-23(16-18-29)19-22-9-3-1-4-10-22)26-21-30(20-24-11-5-2-6-12-24)27-14-8-7-13-25(26)27/h1,3-4,7-10,13-14,21,23-24H,2,5-6,11-12,15-20H2",
+    "InChl_Key": "XEQYKQHJTCUVPV-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1cn(CC2CCCCC2)c2ccccc12)N1CCC(Cc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11555",
+    "validation": "m_weight unsave, calculated(414.5930000000002)"
+}

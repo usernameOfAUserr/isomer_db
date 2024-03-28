@@ -1,0 +1,13 @@
+{
+    "names": "5-Methoxyindole",
+    "iupac_name": "5-Methoxy-1H-indole",
+    "category": "data not stored",
+    "index": 11328,
+    "formular": "C9H9NO",
+    "molecular_weight": 147.174,
+    "inChl": "1S/C9H9NO/c1-11-8-2-3-9-7(6-8)4-5-10-9/h2-6,10H,1H3",
+    "InChl_Key": "DWAQDRSOVMLGRQ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]ccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11328",
+    "validation": "m_weight unsave, calculated(147.177)"
+}

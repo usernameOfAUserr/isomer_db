@@ -1,0 +1,13 @@
+{
+    "names": "2-[(Diphenylmethanesulfinyl)methyl]thiophene",
+    "iupac_name": "3668 ; C18H16OS2 ; 312.449",
+    "category": "data not stored",
+    "index": 3668,
+    "formular": "C18H16OS2",
+    "molecular_weight": 312.449,
+    "inChl": "1S/C18H16OS2/c19-21(14-17-12-7-13-20-17)18(15-8-3-1-4-9-15)16-10-5-2-6-11-16/h1-13,18H,14H2",
+    "InChl_Key": "SBXYSZUJHLDOOB-UHFFFAOYSA-N",
+    "SMILES": "O=S(Cc1cccs1)C(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3668",
+    "validation": "m_weight unsave, calculated(312.459)"
+}

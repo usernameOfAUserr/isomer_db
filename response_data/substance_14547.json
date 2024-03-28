@@ -1,0 +1,13 @@
+{
+    "names": "N-(Cyclopropylmethyl)-2-(5-methoxy-1H-indol-3-yl)-N-methylethan-1-amine",
+    "iupac_name": "14547 ; C16H22N2O ; 258.359",
+    "category": "Tryptamine",
+    "index": 14547,
+    "formular": "C16H22N2O",
+    "molecular_weight": 258.359,
+    "inChl": "1S/C16H22N2O/c1-18(11-12-3-4-12)8-7-13-10-17-16-6-5-14(19-2)9-15(13)16/h5-6,9-10,12,17H,3-4,7-8,11H2,1-2H3",
+    "InChl_Key": "IUVDHYLPNQZMCE-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN(C)CC3CC3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14547",
+    "validation": "m_weight unsave, calculated(258.3649999999999)"
+}

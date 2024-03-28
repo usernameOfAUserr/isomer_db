@@ -1,0 +1,13 @@
+{
+    "names": "JB-840 ; Oxyclipine ; N-Methyl-3-piperidyl phenylcyclohexylglycolate",
+    "iupac_name": "1-Methylpiperidin-3-yl cyclohexyl(hydroxy)phenylacetate",
+    "category": "data not stored",
+    "index": 12257,
+    "formular": "C20H29NO3",
+    "molecular_weight": 331.449,
+    "inChl": "1S/C20H29NO3/c1-21-14-8-13-18(15-21)24-19(22)20(23,16-9-4-2-5-10-16)17-11-6-3-7-12-17/h2,4-5,9-10,17-18,23H,3,6-8,11-15H2,1H3",
+    "InChl_Key": "LCFBCKSQWVQIBY-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCC(OC(=O)C(O)(c2ccccc2)C2CCCCC2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12257",
+    "validation": "m_weight unsave, calculated(331.45600000000024)"
+}

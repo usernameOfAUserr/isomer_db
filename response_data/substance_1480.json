@@ -1,0 +1,13 @@
+{
+    "names": "1-NAPCPA",
+    "iupac_name": "2-(Naphthalen-1-yl)cyclopropan-1-amine ; 2-(Naphthalen-1-yl)cyclopropanamine",
+    "category": "data not stored",
+    "index": 1480,
+    "formular": "C13H13N",
+    "molecular_weight": 183.249,
+    "inChl": "1S/C13H13N/c14-13-8-12(13)11-7-3-5-9-4-1-2-6-10(9)11/h1-7,12-13H,8,14H2",
+    "InChl_Key": "QSBCZQISIPLNNT-UHFFFAOYSA-N",
+    "SMILES": "NC1CC1c1cccc2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1480",
+    "validation": "m_weight unsave, calculated(183.254)"
+}

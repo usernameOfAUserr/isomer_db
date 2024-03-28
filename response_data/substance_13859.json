@@ -1,0 +1,13 @@
+{
+    "names": "4,4\u2032-biDMT-5,5\u2032-diol ; 4,4\u2032-Bibufotenin",
+    "iupac_name": "3,3\u2032-Bis[2-(dimethylamino)ethyl]-1H,1\u2032H-[4,4\u2032-biindole]-5,5\u2032-diol",
+    "category": "data not stored",
+    "index": 13859,
+    "formular": "C24H30N4O2",
+    "molecular_weight": 406.521,
+    "inChl": "1S/C24H30N4O2/c1-27(2)11-9-15-13-25-17-5-7-19(29)23(21(15)17)24-20(30)8-6-18-22(24)16(14-26-18)10-12-28(3)4/h5-8,13-14,25-26,29-30H,9-12H2,1-4H3",
+    "InChl_Key": "BHWGOCYRSIBSTK-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2ccc(O)c(-c3c(O)ccc4[nH]cc(CCN(C)C)c34)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13859",
+    "validation": "m_weight unsave, calculated(406.5300000000002)"
+}

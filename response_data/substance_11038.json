@@ -1,0 +1,13 @@
+{
+    "names": "1-Phenyl-2-pentanone",
+    "iupac_name": "1-Phenylpentan-2-one",
+    "category": "data not stored",
+    "index": 11038,
+    "formular": "C11H14O",
+    "molecular_weight": 162.228,
+    "inChl": "1S/C11H14O/c1-2-6-11(12)9-10-7-4-3-5-8-10/h3-5,7-8H,2,6,9H2,1H3",
+    "InChl_Key": "NFKAWBGFIMBUMB-UHFFFAOYSA-N",
+    "SMILES": "CCCC(=O)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11038",
+    "validation": "m_weight unsave, calculated(162.232)"
+}

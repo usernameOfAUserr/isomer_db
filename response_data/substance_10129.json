@@ -1,0 +1,13 @@
+{
+    "names": "Amitifadine ; DOV-21,947 ; EB-1010",
+    "iupac_name": "(1R,5S)-1-(3,4-Dichlorophenyl)-3-azabicyclo[3.1.0]hexane",
+    "category": "Phenetylamine",
+    "index": 10129,
+    "formular": "C11H11Cl2N",
+    "molecular_weight": 228.118,
+    "inChl": "1S/C11H11Cl2N/c12-9-2-1-7(3-10(9)13)11-4-8(11)5-14-6-11/h1-3,8,14H,4-6H2/t8-,11+/m1/s1",
+    "InChl_Key": "BSMNRYCSBFHEMQ-KCJUWKMLSA-N",
+    "SMILES": "Clc1ccc([C@]23CNC[C@H]2C3)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10129",
+    "validation": "m_weight unsave, calculated(228.12199999999996)"
+}

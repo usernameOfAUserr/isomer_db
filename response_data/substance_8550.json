@@ -1,0 +1,13 @@
+{
+    "names": "4-PHMC ; 4-Phenylmethcathinone",
+    "iupac_name": "1-([1,1\u2032-Biphenyl]-4-yl)-2-(methylamino)propan-1-one",
+    "category": "data not stored",
+    "index": 8550,
+    "formular": "C16H17NO",
+    "molecular_weight": 239.312,
+    "inChl": "1S/C16H17NO/c1-12(17-2)16(18)15-10-8-14(9-11-15)13-6-4-3-5-7-13/h3-12,17H,1-2H3",
+    "InChl_Key": "QAZHBRSWOVAGGB-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(=O)c1ccc(-c2ccccc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8550",
+    "validation": "m_weight unsave, calculated(239.318)"
+}

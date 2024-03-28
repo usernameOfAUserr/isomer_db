@@ -1,0 +1,13 @@
+{
+    "names": "2-(2,5-Dimethoxy-4-pentylphenyl)-N-[(2-methoxyphenyl)methyl]ethan-1-amine",
+    "iupac_name": "13413 ; C23H33NO3 ; 371.513",
+    "category": "data not stored",
+    "index": 13413,
+    "formular": "C23H33NO3",
+    "molecular_weight": 371.513,
+    "inChl": "1S/C23H33NO3/c1-5-6-7-10-18-15-23(27-4)19(16-22(18)26-3)13-14-24-17-20-11-8-9-12-21(20)25-2/h8-9,11-12,15-16,24H,5-7,10,13-14,17H2,1-4H3",
+    "InChl_Key": "UUCBIYPJBQLDPS-UHFFFAOYSA-N",
+    "SMILES": "CCCCCc1cc(OC)c(CCNCc2ccccc2OC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13413",
+    "validation": "m_weight unsave, calculated(371.52100000000013)"
+}

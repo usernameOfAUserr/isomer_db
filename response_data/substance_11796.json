@@ -1,0 +1,13 @@
+{
+    "names": "MMB-BUTINACA",
+    "iupac_name": "Methyl N-(1-butyl-1H-indazole-3-carbonyl)-L-valinate ; Methyl (2S)-2-[(1-butyl-1H-indazole-3-carbonyl)amino]-3-methylbutanoate",
+    "category": "cannabinodids",
+    "index": 11796,
+    "formular": "C18H25N3O3",
+    "molecular_weight": 331.409,
+    "inChl": "1S/C18H25N3O3/c1-5-6-11-21-14-10-8-7-9-13(14)16(20-21)17(22)19-15(12(2)3)18(23)24-4/h7-10,12,15H,5-6,11H2,1-4H3,(H,19,22)/t15-/m0/s1",
+    "InChl_Key": "IDHAOJSQVHFOCQ-HNNXBMFYSA-N",
+    "SMILES": "CCCCn1nc(C(=O)N[C@H](C(=O)OC)C(C)C)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11796",
+    "validation": "m_weight unsave, calculated(331.4160000000001)"
+}

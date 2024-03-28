@@ -1,0 +1,13 @@
+{
+    "names": "4F-MDMB-BINACA ; 4F-MDMB-BUTINACA ; MDMB-4F-BINACA",
+    "iupac_name": "Methyl N-[1-(4-Fluorobutyl)-1H-indazole-3-carbonyl]-3-methyl-L-valinate ; Methyl (2S)-2-{[1-(4-fluorobutyl)-1H-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate",
+    "category": "cannabinodids",
+    "index": 7167,
+    "formular": "C19H26FN3O3",
+    "molecular_weight": 363.426,
+    "inChl": "1S/C19H26FN3O3/c1-19(2,3)16(18(25)26-4)21-17(24)15-13-9-5-6-10-14(13)23(22-15)12-8-7-11-20/h5-6,9-10,16H,7-8,11-12H2,1-4H3,(H,21,24)/t16-/m1/s1",
+    "InChl_Key": "GZGKSDAMWRWYOZ-MRXNPFEDSA-N",
+    "SMILES": "COC(=O)[C@@H](NC(=O)c1nn(CCCCF)c2ccccc12)C(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7167",
+    "validation": "m_weight unsave, calculated(363.4330000000002)"
+}

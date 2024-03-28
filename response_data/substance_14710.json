@@ -1,0 +1,13 @@
+{
+    "names": "1-Methyl-3-phenyl-3-(piperidin-1-yl)pyrrolidin-2-one",
+    "iupac_name": "14710 ; C16H22N2O ; 258.359",
+    "category": "Arylcycloalkylamine",
+    "index": 14710,
+    "formular": "C16H22N2O",
+    "molecular_weight": 258.359,
+    "inChl": "1S/C16H22N2O/c1-17-13-10-16(15(17)19,14-8-4-2-5-9-14)18-11-6-3-7-12-18/h2,4-5,8-9H,3,6-7,10-13H2,1H3",
+    "InChl_Key": "LBPAWUSEFJACHD-UHFFFAOYSA-N",
+    "SMILES": "CN1CCC(c2ccccc2)(N2CCCCC2)C1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14710",
+    "validation": "m_weight unsave, calculated(258.36499999999995)"
+}

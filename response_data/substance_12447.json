@@ -1,0 +1,13 @@
+{
+    "names": "1-(9-Iodo-7,8-dihydrodibenzo[c,e]azocin-6(5H)-yl)ethan-1-one",
+    "iupac_name": "12447 ; C17H16INO ; 377.22",
+    "category": "data not stored",
+    "index": 12447,
+    "formular": "C17H16INO",
+    "molecular_weight": 377.22,
+    "inChl": "1S/C17H16INO/c1-12(20)19-10-9-16-15(7-4-8-17(16)18)14-6-3-2-5-13(14)11-19/h2-8H,9-11H2,1H3",
+    "InChl_Key": "FLBNYNOKWLUCIZ-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)N1CCc2c(I)cccc2-c2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12447",
+    "validation": "m_weight unsave, calculated(377.22500000000014)"
+}

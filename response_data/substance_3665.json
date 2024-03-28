@@ -1,0 +1,13 @@
+{
+    "names": "2-Chloro-5-[(diphenylmethanesulfinyl)methyl]thiophene",
+    "iupac_name": "3665 ; C18H15ClOS2 ; 346.894",
+    "category": "data not stored",
+    "index": 3665,
+    "formular": "C18H15ClOS2",
+    "molecular_weight": 346.894,
+    "inChl": "1S/C18H15ClOS2/c19-17-12-11-16(21-17)13-22(20)18(14-7-3-1-4-8-14)15-9-5-2-6-10-15/h1-12,18H,13H2",
+    "InChl_Key": "VTIAUGCAERNPSM-UHFFFAOYSA-N",
+    "SMILES": "O=S(Cc1ccc(Cl)s1)C(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3665",
+    "validation": "m_weight unsave, calculated(346.90400000000005)"
+}

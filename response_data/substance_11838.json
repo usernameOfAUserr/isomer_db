@@ -1,0 +1,13 @@
+{
+    "names": "3-[(2-Methylphenyl)(phenyl)methoxy]-1-azabicyclo[2.2.2]octane",
+    "iupac_name": "11838 ; C21H25NO ; 307.429",
+    "category": "data not stored",
+    "index": 11838,
+    "formular": "C21H25NO",
+    "molecular_weight": 307.429,
+    "inChl": "1S/C21H25NO/c1-16-7-5-6-10-19(16)21(18-8-3-2-4-9-18)23-20-15-22-13-11-17(20)12-14-22/h2-10,17,20-21H,11-15H2,1H3",
+    "InChl_Key": "OKFLCYFGJIHXEC-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccccc1C(OC1CN2CCC1CC2)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11838",
+    "validation": "m_weight unsave, calculated(307.4370000000001)"
+}

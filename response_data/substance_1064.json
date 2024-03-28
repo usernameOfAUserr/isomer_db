@@ -1,0 +1,13 @@
+{
+    "names": "N-(2-Hydroxyethyl)amphetamine",
+    "iupac_name": "2-[(1-Phenylpropan-2-yl)amino]ethan-1-ol ; 2-[(1-Phenylpropan-2-yl)amino]ethanol",
+    "category": "data not stored",
+    "index": 1064,
+    "formular": "C11H17NO",
+    "molecular_weight": 179.259,
+    "inChl": "1S/C11H17NO/c1-10(12-7-8-13)9-11-5-3-2-4-6-11/h2-6,10,12-13H,7-9H2,1H3",
+    "InChl_Key": "KQERCLGZXVLCKZ-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NCCO",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1064",
+    "validation": "m_weight unsave, calculated(179.263)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "DCBN-PINACA ; SGT-87",
+    "iupac_name": "N-[(3,4-Dichlorophenyl)methyl]-1-pentyl-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4438,
+    "formular": "C20H21Cl2N3O",
+    "molecular_weight": 390.306,
+    "inChl": "1S/C20H21Cl2N3O/c1-2-3-6-11-25-18-8-5-4-7-15(18)19(24-25)20(26)23-13-14-9-10-16(21)17(22)12-14/h4-5,7-10,12H,2-3,6,11,13H2,1H3,(H,23,26)",
+    "InChl_Key": "VNNFDMNEFGWJLM-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1nc(C(=O)NCc2ccc(Cl)c(Cl)c2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4438",
+    "validation": "m_weight unsave, calculated(390.3140000000001)"
+}

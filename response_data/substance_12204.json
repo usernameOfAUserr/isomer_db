@@ -1,0 +1,13 @@
+{
+    "names": "Eudesmic acid",
+    "iupac_name": "3,4,5-Trimethoxybenzoic acid",
+    "category": "Phenetylamine",
+    "index": 12204,
+    "formular": "C10H12O5",
+    "molecular_weight": 212.199,
+    "inChl": "1S/C10H12O5/c1-13-7-4-6(10(11)12)5-8(14-2)9(7)15-3/h4-5H,1-3H3,(H,11,12)",
+    "InChl_Key": "SJSOFNCYXJUNBT-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(=O)O)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12204",
+    "validation": "m_weight unsave, calculated(212.20099999999996)"
+}

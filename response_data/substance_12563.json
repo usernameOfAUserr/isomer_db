@@ -1,0 +1,13 @@
+{
+    "names": "1-Benzyl-2-phenyl-1H-benzimidazole",
+    "iupac_name": "12563 ; C20H16N2 ; 284.354",
+    "category": "data not stored",
+    "index": 12563,
+    "formular": "C20H16N2",
+    "molecular_weight": 284.354,
+    "inChl": "1S/C20H16N2/c1-3-9-16(10-4-1)15-22-19-14-8-7-13-18(19)21-20(22)17-11-5-2-6-12-17/h1-14H,15H2",
+    "InChl_Key": "LCFXRSKBJWQHON-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(Cn2c(-c3ccccc3)nc3ccccc32)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12563",
+    "validation": "m_weight unsave, calculated(284.362)"
+}

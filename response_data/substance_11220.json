@@ -1,0 +1,13 @@
+{
+    "names": "Brodifacoum ; Bromfenacoum",
+    "iupac_name": "3-[3-(4\u2032-Bromo[1,1\u2032-biphenyl]-4-yl)-1,2,3,4-tetrahydronaphthalen-1-yl]-4-hydroxy-2H-1-benzopyran-2-one",
+    "category": "cannabinodids",
+    "index": 11220,
+    "formular": "C31H23BrO3",
+    "molecular_weight": 523.417,
+    "inChl": "1S/C31H23BrO3/c32-24-15-13-20(14-16-24)19-9-11-21(12-10-19)23-17-22-5-1-2-6-25(22)27(18-23)29-30(33)26-7-3-4-8-28(26)35-31(29)34/h1-16,23,27,33H,17-18H2",
+    "InChl_Key": "VEUZZDOCACZPRY-UHFFFAOYSA-N",
+    "SMILES": "O=c1oc2ccccc2c(O)c1[C@@H]1C[C@@H](c2ccc(-c3ccc(Br)cc3)cc2)Cc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11220",
+    "validation": "m_weight unsave, calculated(523.4260000000004)"
+}

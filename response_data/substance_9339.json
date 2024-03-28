@@ -1,0 +1,13 @@
+{
+    "names": "2,5-DMA-TFA ; N-Trifluoroacetyl-2,5-dimethoxyamphetamine",
+    "iupac_name": "N-[1-(2,5-Dimethoxyphenyl)propan-2-yl]-2,2,2-trifluoroacetamide",
+    "category": "data not stored",
+    "index": 9339,
+    "formular": "C13H16F3NO3",
+    "molecular_weight": 291.266,
+    "inChl": "1S/C13H16F3NO3/c1-8(17-12(18)13(14,15)16)6-9-7-10(19-2)4-5-11(9)20-3/h4-5,7-8H,6H2,1-3H3,(H,17,18)",
+    "InChl_Key": "CKEYUNCNEBUQDJ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c(CC(C)NC(=O)C(F)(F)F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9339",
+    "validation": "m_weight unsave, calculated(291.269)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "(\u03b2-Cyclobutyl) 4-MA ; (\u03b2-Cyclobutyl) 4-methylamphetamine",
+    "iupac_name": "1-[1-(4-Methylphenyl)cyclobutyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 8665,
+    "formular": "C13H19N",
+    "molecular_weight": 189.297,
+    "inChl": "1S/C13H19N/c1-10-4-6-12(7-5-10)13(11(2)14)8-3-9-13/h4-7,11H,3,8-9,14H2,1-2H3",
+    "InChl_Key": "BVEQKUZVLUBDDU-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C2(C(C)N)CCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8665",
+    "validation": "m_weight unsave, calculated(189.30199999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "WO 2009/106980 #173",
+    "iupac_name": "N-[1-(Cyclohexylmethyl)-5-fluoro-1H-indazole-3-carbonyl]-3-methyl-L-valylglycinamide ; N-{(2S)-1-[(2-Amino-2-oxoethyl)amino]-3,3-dimethyl-1-oxobutan-2-yl}-1-(cyclohexylmethyl)-5-fluoro-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4942,
+    "formular": "C23H32FN5O3",
+    "molecular_weight": 445.53,
+    "inChl": "1S/C23H32FN5O3/c1-23(2,3)20(22(32)26-12-18(25)30)27-21(31)19-16-11-15(24)9-10-17(16)29(28-19)13-14-7-5-4-6-8-14/h9-11,14,20H,4-8,12-13H2,1-3H3,(H2,25,30)(H,26,32)(H,27,31)/t20-/m1/s1",
+    "InChl_Key": "JIXUIFWDWRLSCR-HXUWFJFHSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(CC2CCCCC2)c2ccc(F)cc12)C(=O)NCC(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4942",
+    "validation": "m_weight unsave, calculated(445.5390000000002)"
+}

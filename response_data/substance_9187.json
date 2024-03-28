@@ -1,0 +1,13 @@
+{
+    "names": "R-1965",
+    "iupac_name": "Propyl 1-[4-(4-methylphenyl)-4-oxobutyl]-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 9187,
+    "formular": "C26H33NO3",
+    "molecular_weight": 407.545,
+    "inChl": "1S/C26H33NO3/c1-3-20-30-25(29)26(23-8-5-4-6-9-23)15-18-27(19-16-26)17-7-10-24(28)22-13-11-21(2)12-14-22/h4-6,8-9,11-14H,3,7,10,15-20H2,1-2H3",
+    "InChl_Key": "ZNBDWUTZROCZBT-UHFFFAOYSA-N",
+    "SMILES": "CCCOC(=O)C1(c2ccccc2)CCN(CCCC(=O)c2ccc(C)cc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9187",
+    "validation": "m_weight unsave, calculated(407.55400000000003)"
+}

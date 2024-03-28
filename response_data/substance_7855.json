@@ -1,0 +1,13 @@
+{
+    "names": "TMAT ; 5,6,7-Trimethoxy-2-aminotetralin",
+    "iupac_name": "5,6,7-Trimethoxy-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7855,
+    "formular": "C13H19NO3",
+    "molecular_weight": 237.295,
+    "inChl": "1S/C13H19NO3/c1-15-11-7-8-6-9(14)4-5-10(8)12(16-2)13(11)17-3/h7,9H,4-6,14H2,1-3H3",
+    "InChl_Key": "FCDPWOQCEZITSA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(c(OC)c1OC)CCC(N)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7855",
+    "validation": "m_weight unsave, calculated(237.29899999999998)"
+}

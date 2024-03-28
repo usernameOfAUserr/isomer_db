@@ -1,0 +1,13 @@
+{
+    "names": "3-TTFM ; 3-Methoxy-5-methylthio-4-trifluoromethoxyphenethylamine",
+    "iupac_name": "2-[3-Methoxy-5-(methylsulfanyl)-4-(trifluoromethoxy)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10287,
+    "formular": "C11H14F3NO2S",
+    "molecular_weight": 281.295,
+    "inChl": "1S/C11H14F3NO2S/c1-16-8-5-7(3-4-15)6-9(18-2)10(8)17-11(12,13)14/h5-6H,3-4,15H2,1-2H3",
+    "InChl_Key": "YGZGQJVFKORQHV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(SC)c1OC(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10287",
+    "validation": "m_weight unsave, calculated(281.299)"
+}

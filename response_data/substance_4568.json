@@ -1,0 +1,13 @@
+{
+    "names": "WO 2001/058869 #490",
+    "iupac_name": "N-(Cyclohexylmethyl)-7-methoxy-1-[2-(morpholin-4-yl)ethyl]-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4568,
+    "formular": "C22H32N4O3",
+    "molecular_weight": 400.514,
+    "inChl": "1S/C22H32N4O3/c1-28-19-9-5-8-18-20(22(27)23-16-17-6-3-2-4-7-17)24-26(21(18)19)11-10-25-12-14-29-15-13-25/h5,8-9,17H,2-4,6-7,10-16H2,1H3,(H,23,27)",
+    "InChl_Key": "NBAAOHVNXMIYCR-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c(C(=O)NCC3CCCCC3)nn(CCN3CCOCC3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4568",
+    "validation": "m_weight unsave, calculated(400.52300000000025)"
+}

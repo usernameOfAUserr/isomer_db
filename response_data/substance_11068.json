@@ -1,0 +1,13 @@
+{
+    "names": "N-Formylnorephedrine",
+    "iupac_name": "N-(1-Hydroxy-1-phenylpropan-2-yl)formamide",
+    "category": "data not stored",
+    "index": 11068,
+    "formular": "C10H13NO2",
+    "molecular_weight": 179.216,
+    "inChl": "1S/C10H13NO2/c1-8(11-7-12)10(13)9-5-3-2-4-6-9/h2-8,10,13H,1H3,(H,11,12)",
+    "InChl_Key": "QFNZWJWWABAZNV-UHFFFAOYSA-N",
+    "SMILES": "CC(NC=O)C(O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11068",
+    "validation": "m_weight unsave, calculated(179.219)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-{2-[2-Chloro-3-fluoro-6-(2-fluoroethoxy)phenyl]cyclopropyl}methanamine",
+    "iupac_name": "12971 ; C12H14ClF2NO ; 261.695",
+    "category": "data not stored",
+    "index": 12971,
+    "formular": "C12H14ClF2NO",
+    "molecular_weight": 261.695,
+    "inChl": "1S/C12H14ClF2NO/c13-12-9(15)1-2-10(17-4-3-14)11(12)8-5-7(8)6-16/h1-2,7-8H,3-6,16H2",
+    "InChl_Key": "LIVNCHBFKKLLCJ-UHFFFAOYSA-N",
+    "SMILES": "NCC1CC1c1c(OCCF)ccc(F)c1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12971",
+    "validation": "m_weight unsave, calculated(261.69899999999996)"
+}

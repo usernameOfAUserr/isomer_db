@@ -1,0 +1,13 @@
+{
+    "names": "2C-DB ; 2,4-Dibromo-3,6-dimethoxyphenethylamine",
+    "iupac_name": "2-(2,4-Dibromo-3,6-dimethoxyphenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10413,
+    "formular": "C10H13Br2NO2",
+    "molecular_weight": 339.024,
+    "inChl": "1S/C10H13Br2NO2/c1-14-8-5-7(11)10(15-2)9(12)6(8)3-4-13/h5H,3-4,13H2,1-2H3",
+    "InChl_Key": "ISCLQOQPPGRPTK-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Br)c(OC)c(Br)c1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10413",
+    "validation": "m_weight unsave, calculated(339.027)"
+}

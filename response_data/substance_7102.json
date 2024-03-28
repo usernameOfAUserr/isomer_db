@@ -1,0 +1,13 @@
+{
+    "names": "5-NH2-2,4-DMA ; 5-Amino-2,4-dimethoxyamphetamine",
+    "iupac_name": "5-(2-Aminopropyl)-2,4-dimethoxyaniline",
+    "category": "Shulgin_Index",
+    "index": 7102,
+    "formular": "C11H18N2O2",
+    "molecular_weight": 210.273,
+    "inChl": "1S/C11H18N2O2/c1-7(12)4-8-5-9(13)11(15-3)6-10(8)14-2/h5-7H,4,12-13H2,1-3H3",
+    "InChl_Key": "GPLJWKBNYXUQHX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(CC(C)N)cc1N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7102",
+    "validation": "m_weight unsave, calculated(210.27699999999996)"
+}

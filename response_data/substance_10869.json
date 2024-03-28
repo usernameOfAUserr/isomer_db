@@ -1,0 +1,13 @@
+{
+    "names": "3-BZM",
+    "iupac_name": "3-Benzylmorpholine",
+    "category": "Phenetylamine",
+    "index": 10869,
+    "formular": "C11H15NO",
+    "molecular_weight": 177.243,
+    "inChl": "1S/C11H15NO/c1-2-4-10(5-3-1)8-11-9-13-7-6-12-11/h1-5,11-12H,6-9H2",
+    "InChl_Key": "LSXCLMMIDIVSFG-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(CC2COCCN2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10869",
+    "validation": "m_weight unsave, calculated(177.247)"
+}

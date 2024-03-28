@@ -1,0 +1,13 @@
+{
+    "names": "1-(Naphthalen-1-yl)ethan-1-amine",
+    "iupac_name": "10039 ; C12H13N ; 171.238",
+    "category": "Phenetylamine",
+    "index": 10039,
+    "formular": "C12H13N",
+    "molecular_weight": 171.238,
+    "inChl": "1S/C12H13N/c1-9(13)11-8-4-6-10-5-2-3-7-12(10)11/h2-9H,13H2,1H3",
+    "InChl_Key": "RTCUCQWIICFPOD-UHFFFAOYSA-N",
+    "SMILES": "CC(N)c1cccc2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10039",
+    "validation": "m_weight unsave, calculated(171.243)"
+}

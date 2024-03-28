@@ -1,0 +1,13 @@
+{
+    "names": "2Me3Ph glycidate ; 2Me3Ph glycidic acid",
+    "iupac_name": "2-Methyl-3-phenyloxirane-2-carboxylic acid",
+    "category": "data not stored",
+    "index": 7848,
+    "formular": "C10H10O3",
+    "molecular_weight": 178.185,
+    "inChl": "1S/C10H10O3/c1-10(9(11)12)8(13-10)7-5-3-2-4-6-7/h2-6,8H,1H3,(H,11,12)",
+    "InChl_Key": "UPEAOFCHTFWNFG-UHFFFAOYSA-N",
+    "SMILES": "CC1(C(=O)O)OC1c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7848",
+    "validation": "m_weight unsave, calculated(178.187)"
+}

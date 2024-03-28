@@ -1,0 +1,13 @@
+{
+    "names": "Avizafone ; Ro-03-7355",
+    "iupac_name": "L-Lysyl-N-(2-benzoyl-4-chlorophenyl)-N-methylglycinamide ; (2S)-2,6-Diamino-N-{2-[(2-benzoyl-4-chlorophenyl)(methyl)amino]-2-oxoethyl}hexanamide",
+    "category": "Aryldiazepine",
+    "index": 2839,
+    "formular": "C22H27ClN4O3",
+    "molecular_weight": 430.928,
+    "inChl": "1S/C22H27ClN4O3/c1-27(20(28)14-26-22(30)18(25)9-5-6-12-24)19-11-10-16(23)13-17(19)21(29)15-7-3-2-4-8-15/h2-4,7-8,10-11,13,18H,5-6,9,12,14,24-25H2,1H3,(H,26,30)/t18-/m0/s1",
+    "InChl_Key": "LTKOVYBBGBGKTA-SFHVURJKSA-N",
+    "SMILES": "CN(C(=O)CNC(=O)[C@@H](N)CCCCN)c1ccc(Cl)cc1C(=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2839",
+    "validation": "m_weight unsave, calculated(430.9360000000001)"
+}

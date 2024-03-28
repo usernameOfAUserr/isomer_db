@@ -1,0 +1,13 @@
+{
+    "names": "N-Heptan-3-ylphenethyl)amine",
+    "iupac_name": "N-(2-Phenylethyl)heptan-3-amine",
+    "category": "data not stored",
+    "index": 10327,
+    "formular": "C15H25N",
+    "molecular_weight": 219.366,
+    "inChl": "1S/C15H25N/c1-3-5-11-15(4-2)16-13-12-14-9-7-6-8-10-14/h6-10,15-16H,3-5,11-13H2,1-2H3",
+    "InChl_Key": "CTHFIPPPDYQPAQ-UHFFFAOYSA-N",
+    "SMILES": "CCCCC(CC)NCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10327",
+    "validation": "m_weight unsave, calculated(219.372)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2,3,5-MBM ; 3-Bromo-2,5-dimethylphenethylamine",
+    "iupac_name": "2-(3-Bromo-2,5-dimethylphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7059,
+    "formular": "C10H14BrN",
+    "molecular_weight": 228.129,
+    "inChl": "1S/C10H14BrN/c1-7-5-9(3-4-12)8(2)10(11)6-7/h5-6H,3-4,12H2,1-2H3",
+    "InChl_Key": "PKHDQEALKJDESR-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(Br)c(C)c(CCN)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7059",
+    "validation": "m_weight unsave, calculated(228.13299999999995)"
+}

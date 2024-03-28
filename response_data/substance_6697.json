@@ -1,0 +1,13 @@
+{
+    "names": "Escaline-NBOH ; N-(2-Hydroxybenzyl)-4-ethoxy-3,5-dimethoxyphenethylamine",
+    "iupac_name": "2-({[2-(4-Ethoxy-3,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "category": "data not stored",
+    "index": 6697,
+    "formular": "C19H25NO4",
+    "molecular_weight": 331.406,
+    "inChl": "1S/C19H25NO4/c1-4-24-19-17(22-2)11-14(12-18(19)23-3)9-10-20-13-15-7-5-6-8-16(15)21/h5-8,11-12,20-21H,4,9-10,13H2,1-3H3",
+    "InChl_Key": "LFRSMEFXFJBKRM-UHFFFAOYSA-N",
+    "SMILES": "CCOc1c(OC)cc(CCNCc2ccccc2O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6697",
+    "validation": "m_weight unsave, calculated(331.412)"
+}

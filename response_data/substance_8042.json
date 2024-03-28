@@ -1,0 +1,13 @@
+{
+    "names": "ACEA ; AM-881",
+    "iupac_name": "(5Z,8Z,11Z,14Z)-N-(2-Chloroethyl)icosa-5,8,11,14-tetraenamide",
+    "category": "cannabinodids",
+    "index": 8042,
+    "formular": "C22H36ClNO",
+    "molecular_weight": 365.98,
+    "inChl": "1S/C22H36ClNO/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-22(25)24-21-20-23/h6-7,9-10,12-13,15-16H,2-5,8,11,14,17-21H2,1H3,(H,24,25)/b7-6-,10-9-,13-12-,16-15-",
+    "InChl_Key": "SCJNCDSAIRBRIA-DOFZRALJSA-N",
+    "SMILES": "CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)NCCCl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8042",
+    "validation": "m_weight unsave, calculated(365.98900000000015)"
+}

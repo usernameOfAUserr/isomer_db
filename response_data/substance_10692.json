@@ -1,0 +1,13 @@
+{
+    "names": "Amphetaminil ; AN-1 ; N-(\u03b1\u2032-Cyanobenzyl)amphetamine",
+    "iupac_name": "Phenyl[(1-phenylpropan-2-yl)amino]acetonitrile",
+    "category": "Phenetylamine",
+    "index": 10692,
+    "formular": "C17H18N2",
+    "molecular_weight": 250.338,
+    "inChl": "1S/C17H18N2/c1-14(12-15-8-4-2-5-9-15)19-17(13-18)16-10-6-3-7-11-16/h2-11,14,17,19H,12H2,1H3",
+    "InChl_Key": "NFHVTCJKAHYEQN-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NC(C#N)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10692",
+    "validation": "m_weight unsave, calculated(250.34499999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-Methylfentanyl",
+    "iupac_name": "N-[4-Methyl-1-(2-phenylethyl)piperidin-4-yl]-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 1603,
+    "formular": "C23H30N2O",
+    "molecular_weight": 350.497,
+    "inChl": "1S/C23H30N2O/c1-3-22(26)25(21-12-8-5-9-13-21)23(2)15-18-24(19-16-23)17-14-20-10-6-4-7-11-20/h4-13H,3,14-19H2,1-2H3",
+    "InChl_Key": "GNKKPEHVTFKLMN-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1(C)CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1603",
+    "validation": "m_weight unsave, calculated(350.506)"
+}

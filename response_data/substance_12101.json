@@ -1,0 +1,13 @@
+{
+    "names": "Furfurylamine ; 2-Furanylmethylamine",
+    "iupac_name": "1-(Furan-2-yl)methanamine",
+    "category": "Phenetylamine",
+    "index": 12101,
+    "formular": "C5H7NO",
+    "molecular_weight": 97.115,
+    "inChl": "1S/C5H7NO/c6-4-5-2-1-3-7-5/h1-3H,4,6H2",
+    "InChl_Key": "DDRPCXLAQZKBJP-UHFFFAOYSA-N",
+    "SMILES": "NCc1ccco1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12101",
+    "validation": "m_weight unsave, calculated(97.11699999999998)"
+}

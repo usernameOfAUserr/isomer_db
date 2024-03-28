@@ -1,0 +1,13 @@
+{
+    "names": "4-PhPr-2-MA ; 2-Methoxy-4-(3-phenylpropyl)amphetamine",
+    "iupac_name": "1-[2-Methoxy-4-(3-phenylpropyl)phenyl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 2332,
+    "formular": "C19H25NO",
+    "molecular_weight": 283.408,
+    "inChl": "1S/C19H25NO/c1-15(20)13-18-12-11-17(14-19(18)21-2)10-6-9-16-7-4-3-5-8-16/h3-5,7-8,11-12,14-15H,6,9-10,13,20H2,1-2H3",
+    "InChl_Key": "ZGGKVIHEOVKYJK-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCCc2ccccc2)ccc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2332",
+    "validation": "m_weight unsave, calculated(283.4150000000001)"
+}

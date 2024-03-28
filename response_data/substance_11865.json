@@ -1,0 +1,13 @@
+{
+    "names": "EA-3443",
+    "iupac_name": "1-Methylpiperidin-4-yl cyclopentyl(hydroxy)phenylacetate",
+    "category": "data not stored",
+    "index": 11865,
+    "formular": "C19H27NO3",
+    "molecular_weight": 317.423,
+    "inChl": "1S/C19H27NO3/c1-20-13-11-17(12-14-20)23-18(21)19(22,16-9-5-6-10-16)15-7-3-2-4-8-15/h2-4,7-8,16-17,22H,5-6,9-14H2,1H3",
+    "InChl_Key": "DZFJGXMHIMAYMW-UHFFFAOYSA-N",
+    "SMILES": "CN1CCC(OC(=O)C(O)(c2ccccc2)C2CCCC2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11865",
+    "validation": "m_weight unsave, calculated(317.4290000000002)"
+}

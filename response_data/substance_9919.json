@@ -1,0 +1,13 @@
+{
+    "names": "BU08028",
+    "iupac_name": "(18R)-17-(Cyclopropylmethyl)-18-[(2S)-2-hydroxy-3,3-dimethylpentan-2-yl]-6-methoxy-4,5\u03b1-epoxy-6\u03b2,14\u03b2-ethanomorphinan-3-ol ; (4R,4aS,6R,7R,7aR,12bS)-3-(Cyclopropylmethyl)-6-[(2S)-2-hydroxy-3,3-dimethylpentan-2-yl]-7-methoxy-1,2,3,4,5,6,7,7a-octahydro-4a,7-ethano-4,12-methano[1]benzofuro[3,2-e]isoquinolin-9-ol ; (18R)-17-(Cyclopropylmethyl)-18-[(2S)-2-hydroxy-3,3-dimethylpentan-2-yl]-6-methoxy-18,19-dihydro-4,5\u03b1-epoxy-6\u03b2,14\u03b2-ethenomorphinan-3-ol ; (5\u03b1,6\u03b2,14\u03b2,18R)-17-(Cyclopropylmethyl)-18-[(2S)-2-hydroxy-3,3-dimethylpentan-2-yl]-6-methoxy-18,19-dihydro-4,5-epoxy-6,14-ethenomorphinan-3-ol",
+    "category": "data not stored",
+    "index": 9919,
+    "formular": "C30H43NO4",
+    "molecular_weight": 481.667,
+    "inChl": "1S/C30H43NO4/c1-6-26(2,3)27(4,33)21-16-28-11-12-30(21,34-5)25-29(28)13-14-31(17-18-7-8-18)22(28)15-19-9-10-20(32)24(35-25)23(19)29/h9-10,18,21-22,25,32-33H,6-8,11-17H2,1-5H3/t21-,22-,25-,27+,28-,29+,30-/m1/s1",
+    "InChl_Key": "HBENZIXOGRCSQN-VQWWACLZSA-N",
+    "SMILES": "CCC(C)(C)[C@@](C)(O)[C@H]1C[C@@]23CC[C@]1(OC)[C@@H]1Oc4c(O)ccc5c4[C@@]12CCN(CC1CC1)[C@@H]3C5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9919",
+    "validation": "m_weight unsave, calculated(481.67700000000036)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-(2-HO-EtS)-2,5-DMBAL ; 4-(2-Hydroxyethylthio)-2,5-dimethoxybenzaldehyde",
+    "iupac_name": "4-[(2-Hydroxyethyl)sulfanyl]-2,5-dimethoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 11105,
+    "formular": "C11H14O4S",
+    "molecular_weight": 242.291,
+    "inChl": "1S/C11H14O4S/c1-14-9-6-11(16-4-3-12)10(15-2)5-8(9)7-13/h5-7,12H,3-4H2,1-2H3",
+    "InChl_Key": "XQICUZXAAJDKIF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SCCO)c(OC)cc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11105",
+    "validation": "m_weight unsave, calculated(242.29599999999996)"
+}

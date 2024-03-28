@@ -1,0 +1,13 @@
+{
+    "names": "Maprotiline",
+    "iupac_name": "3-(9,10-Ethanoanthracen-9(10H)-yl)-N-methylpropan-1-amine",
+    "category": "data not stored",
+    "index": 9426,
+    "formular": "C20H23N",
+    "molecular_weight": 277.403,
+    "inChl": "1S/C20H23N/c1-21-14-6-12-20-13-11-15(16-7-2-4-9-18(16)20)17-8-3-5-10-19(17)20/h2-5,7-10,15,21H,6,11-14H2,1H3",
+    "InChl_Key": "QSLMDECMDJKHMQ-UHFFFAOYSA-N",
+    "SMILES": "CNCCCC12CCC(c3ccccc31)c1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9426",
+    "validation": "m_weight unsave, calculated(277.411)"
+}

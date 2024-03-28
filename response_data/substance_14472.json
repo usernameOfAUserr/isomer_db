@@ -1,0 +1,13 @@
+{
+    "names": "6-Cyano-4-amino-N-acetyltryptamine",
+    "iupac_name": "N-[2-(4-Amino-6-cyano-1H-indol-3-yl)ethyl]acetamide",
+    "category": "Tryptamine",
+    "index": 14472,
+    "formular": "C13H14N4O",
+    "molecular_weight": 242.276,
+    "inChl": "1S/C13H14N4O/c1-8(18)16-3-2-10-7-17-12-5-9(6-14)4-11(15)13(10)12/h4-5,7,17H,2-3,15H2,1H3,(H,16,18)",
+    "InChl_Key": "NKSWRYRNXQZBIR-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NCCc1c[nH]c2cc(C#N)cc(N)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14472",
+    "validation": "m_weight unsave, calculated(242.28199999999998)"
+}

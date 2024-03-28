@@ -1,0 +1,13 @@
+{
+    "names": "3-HO-2-I-4-MBAL ; 2-Iodoisovanillin",
+    "iupac_name": "3-Hydroxy-2-iodo-4-methoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 3894,
+    "formular": "C8H7IO3",
+    "molecular_weight": 278.044,
+    "inChl": "1S/C8H7IO3/c1-12-6-3-2-5(4-10)7(9)8(6)11/h2-4,11H,1H3",
+    "InChl_Key": "KLXKKFGRNPBWGM-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C=O)c(I)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3894",
+    "validation": "m_weight unsave, calculated(278.045)"
+}

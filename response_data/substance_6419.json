@@ -1,0 +1,13 @@
+{
+    "names": "PNAI ; 5-Nitro-2-aminoindane",
+    "iupac_name": "5-Nitro-2,3-dihydro-1H-inden-2-amine",
+    "category": "Shulgin_Index",
+    "index": 6419,
+    "formular": "C9H10N2O2",
+    "molecular_weight": 178.188,
+    "inChl": "1S/C9H10N2O2/c10-8-3-6-1-2-9(11(12)13)5-7(6)4-8/h1-2,5,8H,3-4,10H2",
+    "InChl_Key": "MDRSLNMEVGJERF-UHFFFAOYSA-N",
+    "SMILES": "NC1Cc2ccc([N+](=O)[O-])cc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6419",
+    "validation": "m_weight unsave, calculated(178.19099999999997)"
+}

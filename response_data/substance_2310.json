@@ -1,0 +1,13 @@
+{
+    "names": "2C-BI-11 ; 4-(Biphenyl-4-yl)-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(12,15-Dimethoxy[11,21:24,31-terphenyl]-14-yl)ethan-1-amine ; 2-(2,5-Dimethoxy-1,1\u2032:4\u2032,1\u2033-terphenyl-4-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 2310,
+    "formular": "C22H23NO2",
+    "molecular_weight": 333.424,
+    "inChl": "1S/C22H23NO2/c1-24-21-15-20(22(25-2)14-19(21)12-13-23)18-10-8-17(9-11-18)16-6-4-3-5-7-16/h3-11,14-15H,12-13,23H2,1-2H3",
+    "InChl_Key": "ZQEKXNJKMUWVBC-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(-c2ccc(-c3ccccc3)cc2)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2310",
+    "validation": "m_weight unsave, calculated(333.43100000000004)"
+}

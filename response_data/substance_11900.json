@@ -1,0 +1,13 @@
+{
+    "names": "p-Methoxyphenylacetylfentanyl",
+    "iupac_name": "2-(4-Methoxyphenyl)-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide",
+    "category": "data not stored",
+    "index": 11900,
+    "formular": "C28H32N2O2",
+    "molecular_weight": 428.566,
+    "inChl": "1S/C28H32N2O2/c1-32-27-14-12-24(13-15-27)22-28(31)30(25-10-6-3-7-11-25)26-17-20-29(21-18-26)19-16-23-8-4-2-5-9-23/h2-15,26H,16-22H2,1H3",
+    "InChl_Key": "PTIDTADQDOZFRV-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CC(=O)N(c2ccccc2)C2CCN(CCc3ccccc3)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11900",
+    "validation": "m_weight unsave, calculated(428.5760000000003)"
+}

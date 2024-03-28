@@ -1,0 +1,13 @@
+{
+    "names": "7-Fluoro-5-HO-MIPT ; 7-Fluoro-5-hydroxy-N-methyl-N-isopropyltryptamine",
+    "iupac_name": "7-Fluoro-3-{2-[methyl(propan-2-yl)amino]ethyl}-1H-indol-5-ol",
+    "category": "Tryptamine",
+    "index": 13535,
+    "formular": "C14H19FN2O",
+    "molecular_weight": 250.312,
+    "inChl": "1S/C14H19FN2O/c1-9(2)17(3)5-4-10-8-16-14-12(10)6-11(18)7-13(14)15/h6-9,16,18H,4-5H2,1-3H3",
+    "InChl_Key": "MXFFZBJPVFMIHN-UHFFFAOYSA-N",
+    "SMILES": "CC(C)N(C)CCc1c[nH]c2c(F)cc(O)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13535",
+    "validation": "m_weight unsave, calculated(250.31699999999998)"
+}

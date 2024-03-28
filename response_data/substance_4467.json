@@ -1,0 +1,13 @@
+{
+    "names": "AB-002",
+    "iupac_name": "2-(Adamantan-1-yl)-1-(1-pentyl-1H-indol-3-yl)ethan-1-one",
+    "category": "cannabinodids",
+    "index": 4467,
+    "formular": "C25H33NO",
+    "molecular_weight": 363.536,
+    "inChl": "1S/C25H33NO/c1-2-3-6-9-26-17-22(21-7-4-5-8-23(21)26)24(27)16-25-13-18-10-19(14-25)12-20(11-18)15-25/h4-5,7-8,17-20H,2-3,6,9-16H2,1H3",
+    "InChl_Key": "BRHHDIPEHOKFET-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)CC23CC4CC(CC(C4)C2)C3)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4467",
+    "validation": "m_weight unsave, calculated(363.5450000000002)"
+}

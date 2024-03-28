@@ -1,0 +1,13 @@
+{
+    "names": "4\u2032-Fluoro desmethaqualone",
+    "iupac_name": "3-(4-Fluorophenyl)-2-methylquinazolin-4(3H)-one",
+    "category": "data not stored",
+    "index": 12636,
+    "formular": "C15H11FN2O",
+    "molecular_weight": 254.259,
+    "inChl": "1S/C15H11FN2O/c1-10-17-14-5-3-2-4-13(14)15(19)18(10)12-8-6-11(16)7-9-12/h2-9H,1H3",
+    "InChl_Key": "RONAQXGMJDYSJD-UHFFFAOYSA-N",
+    "SMILES": "Cc1nc2ccccc2c(=O)n1-c1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12636",
+    "validation": "m_weight unsave, calculated(254.264)"
+}

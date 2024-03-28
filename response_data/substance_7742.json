@@ -1,0 +1,13 @@
+{
+    "names": "1-Pentyl-3-[1-(2-phenylpropan-2-yl)-1H-1,2,3-triazol-4-yl]-1H-indazole",
+    "iupac_name": "7742 ; C23H27N5 ; 373.494",
+    "category": "cannabinodids",
+    "index": 7742,
+    "formular": "C23H27N5",
+    "molecular_weight": 373.494,
+    "inChl": "1S/C23H27N5/c1-4-5-11-16-27-21-15-10-9-14-19(21)22(25-27)20-17-28(26-24-20)23(2,3)18-12-7-6-8-13-18/h6-10,12-15,17H,4-5,11,16H2,1-3H3",
+    "InChl_Key": "MGFMIVJEWWXASE-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1nc(-c2cn(C(C)(C)c3ccccc3)nn2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7742",
+    "validation": "m_weight unsave, calculated(373.50400000000013)"
+}

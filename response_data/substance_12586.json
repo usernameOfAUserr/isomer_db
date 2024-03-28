@@ -1,0 +1,13 @@
+{
+    "names": "[4-(4-Methylpiperazin-1-yl)-1H-benzimidazol-2-yl](naphthalen-1-yl)methanone",
+    "iupac_name": "12586 ; C23H22N4O ; 370.447",
+    "category": "data not stored",
+    "index": 12586,
+    "formular": "C23H22N4O",
+    "molecular_weight": 370.447,
+    "inChl": "1S/C23H22N4O/c1-26-12-14-27(15-13-26)20-11-5-10-19-21(20)25-23(24-19)22(28)18-9-4-7-16-6-2-3-8-17(16)18/h2-11H,12-15H2,1H3,(H,24,25)",
+    "InChl_Key": "RWYIFLFDQKYUEK-UHFFFAOYSA-N",
+    "SMILES": "CN1CCN(c2cccc3[nH]c(C(=O)c4cccc5ccccc45)nc23)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12586",
+    "validation": "m_weight unsave, calculated(370.4560000000001)"
+}

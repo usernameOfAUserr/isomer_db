@@ -1,0 +1,13 @@
+{
+    "names": "6-Hydroxy-1-methyl-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid",
+    "iupac_name": "14318 ; C11H13NO3 ; 207.226",
+    "category": "data not stored",
+    "index": 14318,
+    "formular": "C11H13NO3",
+    "molecular_weight": 207.226,
+    "inChl": "1S/C11H13NO3/c1-6-9-3-2-8(13)4-7(9)5-10(12-6)11(14)15/h2-4,6,10,12-13H,5H2,1H3,(H,14,15)",
+    "InChl_Key": "ZROUARAECJDWIY-UHFFFAOYSA-N",
+    "SMILES": "CC1NC(C(=O)O)Cc2cc(O)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14318",
+    "validation": "m_weight unsave, calculated(207.22899999999998)"
+}

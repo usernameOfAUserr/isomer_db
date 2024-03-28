@@ -1,0 +1,13 @@
+{
+    "names": "6-PrO-NAP",
+    "iupac_name": "1-(6-Propoxynaphthalen-2-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 2468,
+    "formular": "C16H21NO",
+    "molecular_weight": 243.344,
+    "inChl": "1S/C16H21NO/c1-3-8-18-16-7-6-14-10-13(9-12(2)17)4-5-15(14)11-16/h4-7,10-12H,3,8-9,17H2,1-2H3",
+    "InChl_Key": "CRXAYNAYXGFRGO-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1ccc2cc(CC(C)N)ccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2468",
+    "validation": "m_weight unsave, calculated(243.34999999999997)"
+}

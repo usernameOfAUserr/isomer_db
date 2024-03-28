@@ -1,0 +1,13 @@
+{
+    "names": "Descarboxylysergic acid",
+    "iupac_name": "6-Methyl-9,10-didehydroergoline ; 7-Methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline",
+    "category": "data not stored",
+    "index": 1286,
+    "formular": "C15H16N2",
+    "molecular_weight": 224.301,
+    "inChl": "1S/C15H16N2/c1-17-7-3-5-11-12-4-2-6-13-15(12)10(9-16-13)8-14(11)17/h2,4-6,9,14,16H,3,7-8H2,1H3/t14-/m1/s1",
+    "InChl_Key": "AHFZNJIKXMBLTJ-CQSZACIVSA-N",
+    "SMILES": "CN1CCC=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1286",
+    "validation": "m_weight unsave, calculated(224.30700000000002)"
+}

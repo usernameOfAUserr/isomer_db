@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-CCM ; \u03b2-Carboline-3-carboxylic acid methyl ester ; \u03b2C-3-COOH methyl ester",
+    "iupac_name": "Methyl 9H-pyrido[3,4-b]indole-3-carboxylate ; Methyl 9H-\u03b2-carboline-3-carboxylate",
+    "category": "data not stored",
+    "index": 5443,
+    "formular": "C13H10N2O2",
+    "molecular_weight": 226.231,
+    "inChl": "1S/C13H10N2O2/c1-17-13(16)11-6-9-8-4-2-3-5-10(8)15-12(9)7-14-11/h2-7,15H,1H3",
+    "InChl_Key": "UKHFPVCOXBJPIN-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)c1cc2c(cn1)[nH]c1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5443",
+    "validation": "m_weight unsave, calculated(226.23500000000004)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-(1,1,2,2-FEtO)-PEA ; 3-(1,1,2,2-Tetrafluoroethoxy)phenethylamine",
+    "iupac_name": "2-[3-(1,1,2,2-Tetrafluoroethoxy)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10492,
+    "formular": "C10H11F4NO",
+    "molecular_weight": 237.194,
+    "inChl": "1S/C10H11F4NO/c11-9(12)10(13,14)16-8-3-1-2-7(6-8)4-5-15/h1-3,6,9H,4-5,15H2",
+    "InChl_Key": "AHUZESLNGZAKTQ-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cccc(OC(F)(F)C(F)F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10492",
+    "validation": "m_weight unsave, calculated(237.1959999999999)"
+}

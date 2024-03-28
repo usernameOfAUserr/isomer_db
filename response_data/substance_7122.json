@@ -1,0 +1,13 @@
+{
+    "names": "N-Ethyl-NAP ; PAL-1045",
+    "iupac_name": "N-Ethyl-1-(naphthalen-2-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 7122,
+    "formular": "C15H19N",
+    "molecular_weight": 213.318,
+    "inChl": "1S/C15H19N/c1-3-16-12(2)10-13-8-9-14-6-4-5-7-15(14)11-13/h4-9,11-12,16H,3,10H2,1-2H3",
+    "InChl_Key": "HKSRURFPXCLKOG-UHFFFAOYSA-N",
+    "SMILES": "CCNC(C)Cc1ccc2ccccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7122",
+    "validation": "m_weight unsave, calculated(213.324)"
+}

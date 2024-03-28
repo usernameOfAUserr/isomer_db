@@ -1,0 +1,13 @@
+{
+    "names": "RB-64 ; 22-Thiocyanatosalvinorin A",
+    "iupac_name": "Methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxo-9-{[(thiocyanato)acetyl]oxy}dodecahydro-2H-naphtho[2,1-c]pyran-7-carboxylate",
+    "category": "data not stored",
+    "index": 9314,
+    "formular": "C24H27NO8S",
+    "molecular_weight": 489.538,
+    "inChl": "1S/C24H27NO8S/c1-23-6-4-14-22(29)33-17(13-5-7-31-10-13)9-24(14,2)20(23)19(27)16(8-15(23)21(28)30-3)32-18(26)11-34-12-25/h5,7,10,14-17,20H,4,6,8-9,11H2,1-3H3/t14-,15-,16-,17-,20-,23-,24-/m0/s1",
+    "InChl_Key": "AZPUAKGNQXURGA-ZWLNRFIDSA-N",
+    "SMILES": "COC(=O)[C@@H]1C[C@H](OC(=O)CSC#N)C(=O)[C@H]2[C@@]1(C)CC[C@H]1C(=O)O[C@H](c3ccoc3)C[C@]21C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9314",
+    "validation": "m_weight unsave, calculated(489.54600000000033)"
+}

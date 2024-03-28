@@ -1,0 +1,13 @@
+{
+    "names": "4,5-MeO-NCPT ; 4,5-Dimethoxy-N-cyclopropyltryptamine",
+    "iupac_name": "N-[2-(4,5-Dimethoxy-1H-indol-3-yl)ethyl]cyclopropanamine",
+    "category": "Tryptamine",
+    "index": 13077,
+    "formular": "C15H20N2O2",
+    "molecular_weight": 260.332,
+    "inChl": "1S/C15H20N2O2/c1-18-13-6-5-12-14(15(13)19-2)10(9-17-12)7-8-16-11-3-4-11/h5-6,9,11,16-17H,3-4,7-8H2,1-2H3",
+    "InChl_Key": "BBLUXQQVHCPWCI-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCNC3CC3)c2c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13077",
+    "validation": "m_weight unsave, calculated(260.33699999999993)"
+}

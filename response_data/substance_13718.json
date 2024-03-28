@@ -1,0 +1,13 @@
+{
+    "names": "4-AcO-NMT ; 4-Acetoxy-N-methyltryptamine",
+    "iupac_name": "3-[2-(Methylamino)ethyl]-1H-indol-4-yl acetate",
+    "category": "Tryptamine",
+    "index": 13718,
+    "formular": "C13H16N2O2",
+    "molecular_weight": 232.278,
+    "inChl": "1S/C13H16N2O2/c1-9(16)17-12-5-3-4-11-13(12)10(8-15-11)6-7-14-2/h3-5,8,14-15H,6-7H2,1-2H3",
+    "InChl_Key": "SZDVWWXANVXVIW-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1c[nH]c2cccc(OC(C)=O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13718",
+    "validation": "m_weight unsave, calculated(232.283)"
+}

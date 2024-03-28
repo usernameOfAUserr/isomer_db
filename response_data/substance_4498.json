@@ -1,0 +1,13 @@
+{
+    "names": "5F-AMB-PINACA ; 5F-MMB-PINACA ; 5F-AMB ; MMB-5F-PINACA",
+    "iupac_name": "Methyl N-[1-(5-fluoropentyl)-1H-indazole-3-carbonyl]-L-valinate ; Methyl (2S)-2-{[1-(5-fluoropentyl)-1H-indazole-3-carbonyl]amino}-3-methylbutanoate",
+    "category": "cannabinodids",
+    "index": 4498,
+    "formular": "C19H26FN3O3",
+    "molecular_weight": 363.426,
+    "inChl": "1S/C19H26FN3O3/c1-13(2)16(19(25)26-3)21-18(24)17-14-9-5-6-10-15(14)23(22-17)12-8-4-7-11-20/h5-6,9-10,13,16H,4,7-8,11-12H2,1-3H3,(H,21,24)/t16-/m0/s1",
+    "InChl_Key": "SAFXSUZMRLTBMM-INIZCTEOSA-N",
+    "SMILES": "COC(=O)[C@@H](NC(=O)c1nn(CCCCCF)c2ccccc12)C(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4498",
+    "validation": "m_weight unsave, calculated(363.43300000000016)"
+}

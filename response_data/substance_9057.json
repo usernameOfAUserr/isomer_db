@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 1-hexyl-4-phenylpiperidine-4-carboxylate",
+    "iupac_name": "9057 ; C20H31NO2 ; 317.466",
+    "category": "data not stored",
+    "index": 9057,
+    "formular": "C20H31NO2",
+    "molecular_weight": 317.466,
+    "inChl": "1S/C20H31NO2/c1-3-5-6-10-15-21-16-13-20(14-17-21,19(22)23-4-2)18-11-8-7-9-12-18/h7-9,11-12H,3-6,10,13-17H2,1-2H3",
+    "InChl_Key": "ICLNERWNGMYSLQ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCN1CCC(C(=O)OCC)(c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9057",
+    "validation": "m_weight unsave, calculated(317.47299999999996)"
+}

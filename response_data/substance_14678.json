@@ -1,0 +1,13 @@
+{
+    "names": "3-EtO-NNDMA",
+    "iupac_name": "1-(3-Ethoxyphenyl)-N,N-dimethylpropan-2-amine",
+    "category": "data not stored",
+    "index": 14678,
+    "formular": "C13H21NO",
+    "molecular_weight": 207.312,
+    "inChl": "1S/C13H21NO/c1-5-15-13-8-6-7-12(10-13)9-11(2)14(3)4/h6-8,10-11H,5,9H2,1-4H3",
+    "InChl_Key": "OQRFTSSIOAIXLJ-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cccc(CC(C)N(C)C)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14678",
+    "validation": "m_weight unsave, calculated(207.31699999999995)"
+}

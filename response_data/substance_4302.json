@@ -1,0 +1,13 @@
+{
+    "names": "JWH-181",
+    "iupac_name": "(2-Methyl-1-pentyl-1H-indol-3-yl)(4-propylnaphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4302,
+    "formular": "C28H31NO",
+    "molecular_weight": 397.552,
+    "inChl": "1S/C28H31NO/c1-4-6-11-19-29-20(3)27(25-15-9-10-16-26(25)29)28(30)24-18-17-21(12-5-2)22-13-7-8-14-23(22)24/h7-10,13-18H,4-6,11-12,19H2,1-3H3",
+    "InChl_Key": "MRZUOBIFOHQHRD-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1c(C)c(C(=O)c2ccc(CCC)c3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4302",
+    "validation": "m_weight unsave, calculated(397.5620000000002)"
+}

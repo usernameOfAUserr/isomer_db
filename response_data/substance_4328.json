@@ -1,0 +1,13 @@
+{
+    "names": "JWH-421",
+    "iupac_name": "(4-Iodonaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4328,
+    "formular": "C24H22INO",
+    "molecular_weight": 467.342,
+    "inChl": "1S/C24H22INO/c1-2-3-8-15-26-16-21(19-11-6-7-12-23(19)26)24(27)20-13-14-22(25)18-10-5-4-9-17(18)20/h4-7,9-14,16H,2-3,8,15H2,1H3",
+    "InChl_Key": "USKZVVYKFRBNFR-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2ccc(I)c3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4328",
+    "validation": "m_weight unsave, calculated(467.3500000000001)"
+}

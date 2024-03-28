@@ -1,0 +1,13 @@
+{
+    "names": "Hongfeng Deng PhD #7.15",
+    "iupac_name": "[1-(5-Fluoropentyl)-6-nitro-1H-indol-3-yl](2-iodophenyl)methanone",
+    "category": "cannabinodids",
+    "index": 4063,
+    "formular": "C20H18FIN2O3",
+    "molecular_weight": 480.271,
+    "inChl": "1S/C20H18FIN2O3/c21-10-4-1-5-11-23-13-17(20(25)16-6-2-3-7-18(16)22)15-9-8-14(24(26)27)12-19(15)23/h2-3,6-9,12-13H,1,4-5,10-11H2",
+    "InChl_Key": "DOVJSCSUUFRIQB-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccccc1I)c1cn(CCCCCF)c2cc([N+](=O)[O-])ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4063",
+    "validation": "m_weight unsave, calculated(480.2770000000001)"
+}

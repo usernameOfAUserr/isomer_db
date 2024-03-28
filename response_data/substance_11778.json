@@ -1,0 +1,13 @@
+{
+    "names": "N,O-Diacetylpseudoephedrine",
+    "iupac_name": "(1S,2S)-2-[Acetyl(methyl)amino]-1-phenylpropyl acetate",
+    "category": "data not stored",
+    "index": 11778,
+    "formular": "C14H19NO3",
+    "molecular_weight": 249.306,
+    "inChl": "1S/C14H19NO3/c1-10(15(4)11(2)16)14(18-12(3)17)13-8-6-5-7-9-13/h5-10,14H,1-4H3/t10-,14+/m0/s1",
+    "InChl_Key": "DISCLSGXBAXBTJ-IINYFYTJSA-N",
+    "SMILES": "CC(=O)O[C@@H](c1ccccc1)[C@H](C)N(C)C(C)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11778",
+    "validation": "m_weight unsave, calculated(249.31)"
+}

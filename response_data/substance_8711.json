@@ -1,0 +1,13 @@
+{
+    "names": "RTI-177 ; 2\u03b2-(3-Phenylisoxazol-5-yl)-3\u03b2-(4-chlorophenyl)tropane",
+    "iupac_name": "(2S,3S)-3-(4-Chlorophenyl)-8-methyl-2-(3-phenyl-1,2-oxazol-5-yl)-8-azabicyclo[3.2.1]octane",
+    "category": "data not stored",
+    "index": 8711,
+    "formular": "C23H23ClN2O",
+    "molecular_weight": 378.895,
+    "inChl": "1S/C23H23ClN2O/c1-26-18-11-12-21(26)23(19(13-18)15-7-9-17(24)10-8-15)22-14-20(25-27-22)16-5-3-2-4-6-16/h2-10,14,18-19,21,23H,11-13H2,1H3/t18?,19-,21?,23+/m1/s1",
+    "InChl_Key": "ZGCYMNJHHKQEGA-BJSHUGAESA-N",
+    "SMILES": "CN1C2CCC1[C@@H](c1cc(-c3ccccc3)no1)[C@@H](c1ccc(Cl)cc1)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8711",
+    "validation": "m_weight unsave, calculated(378.9030000000001)"
+}

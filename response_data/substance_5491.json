@@ -1,0 +1,13 @@
+{
+    "names": "6-Nitro-N-(3-diethylamino-3-oxopropyl)-N-methyltyptamine",
+    "iupac_name": "N,N-Diethyl-N3-methyl-N3-[2-(6-nitro-1H-indol-3-yl)ethyl]-\u03b2-alaninamide ; N,N-Diethyl-3-{methyl[2-(6-nitro-1H-indol-3-yl)ethyl]amino}propanamide",
+    "category": "Tryptamine",
+    "index": 5491,
+    "formular": "C18H26N4O3",
+    "molecular_weight": 346.424,
+    "inChl": "1S/C18H26N4O3/c1-4-21(5-2)18(23)9-11-20(3)10-8-14-13-19-17-12-15(22(24)25)6-7-16(14)17/h6-7,12-13,19H,4-5,8-11H2,1-3H3",
+    "InChl_Key": "QKPGLBCSCBYORN-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)C(=O)CCN(C)CCc1c[nH]c2cc([N+](=O)[O-])ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5491",
+    "validation": "m_weight unsave, calculated(346.43100000000015)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "DOI-5-hemiFLY ; I-SF",
+    "iupac_name": "1-(7-Iodo-5-methoxy-2,3-dihydro-1-benzofuran-4-yl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7876,
+    "formular": "C12H16INO2",
+    "molecular_weight": 333.165,
+    "inChl": "1S/C12H16INO2/c1-7(14)5-9-8-3-4-16-12(8)10(13)6-11(9)15-2/h6-7H,3-5,14H2,1-2H3",
+    "InChl_Key": "IMOMRMHRHBTGPT-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(I)c2c(c1CC(C)N)CCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7876",
+    "validation": "m_weight unsave, calculated(333.1690000000001)"
+}

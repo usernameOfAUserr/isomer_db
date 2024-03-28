@@ -1,0 +1,13 @@
+{
+    "names": "ED-mor-A ; 4-(\u03b1-Methyl-3,4-ethylenedioxyphenethyl)morpholine",
+    "iupac_name": "4-[1-(2,3-Dihydro-1,4-benzodioxin-6-yl)propan-2-yl]morpholine",
+    "category": "Shulgin_Index",
+    "index": 6805,
+    "formular": "C15H21NO3",
+    "molecular_weight": 263.332,
+    "inChl": "1S/C15H21NO3/c1-12(16-4-6-17-7-5-16)10-13-2-3-14-15(11-13)19-9-8-18-14/h2-3,11-12H,4-10H2,1H3",
+    "InChl_Key": "WAEJEMVIFWVHEZ-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccc2c(c1)OCCO2)N1CCOCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6805",
+    "validation": "m_weight unsave, calculated(263.337)"
+}

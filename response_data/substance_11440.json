@@ -1,0 +1,13 @@
+{
+    "names": "Ibutamoren ; MK-667 ; L-163,191",
+    "iupac_name": "1-(Methanesulfonyl)-1\u2032-(2-methylalanyl-O-benzyl-D-seryl)-1,2-dihydrospiro[indole-3,4\u2032-piperidine] ; 2-Amino-N-{(2R)-3-(benzyloxy)-1-[1-(methanesulfonyl)-1,2-dihydrospiro[indole-3,4\u2032-piperidin]-1\u2032-yl]-1-oxopropan-2-yl}-2-methylpropanamide",
+    "category": "data not stored",
+    "index": 11440,
+    "formular": "C27H36N4O5S",
+    "molecular_weight": 528.664,
+    "inChl": "1S/C27H36N4O5S/c1-26(2,28)25(33)29-22(18-36-17-20-9-5-4-6-10-20)24(32)30-15-13-27(14-16-30)19-31(37(3,34)35)23-12-8-7-11-21(23)27/h4-12,22H,13-19,28H2,1-3H3,(H,29,33)/t22-/m1/s1",
+    "InChl_Key": "UMUPQWIGCOZEOY-JOCHJYFZSA-N",
+    "SMILES": "CC(C)(N)C(=O)N[C@H](COCc1ccccc1)C(=O)N1CCC2(CC1)CN(S(C)(=O)=O)c1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11440",
+    "validation": "m_weight unsave, calculated(528.6750000000003)"
+}

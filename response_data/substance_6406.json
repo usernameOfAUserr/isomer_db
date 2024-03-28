@@ -1,0 +1,13 @@
+{
+    "names": "2,3-MDMPEA ; N-Methyl-2,3-methylenedioxyphenethylamine",
+    "iupac_name": "2-(2H-1,3-Benzodioxol-4-yl)-N-methylethan-1-amine ; 2-(1,3-Benzodioxol-4-yl)-N-methylethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 6406,
+    "formular": "C10H13NO2",
+    "molecular_weight": 179.216,
+    "inChl": "1S/C10H13NO2/c1-11-6-5-8-3-2-4-9-10(8)13-7-12-9/h2-4,11H,5-7H2,1H3",
+    "InChl_Key": "UUIQNIVDNCLWDS-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1cccc2c1OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6406",
+    "validation": "m_weight unsave, calculated(179.21899999999994)"
+}

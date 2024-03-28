@@ -1,0 +1,13 @@
+{
+    "names": "2-{[2-(Furan-2-yl)phenyl]methanesulfinyl}acetamide",
+    "iupac_name": "9690 ; C13H13NO3S ; 263.312",
+    "category": "data not stored",
+    "index": 9690,
+    "formular": "C13H13NO3S",
+    "molecular_weight": 263.312,
+    "inChl": "1S/C13H13NO3S/c14-13(15)9-18(16)8-10-4-1-2-5-11(10)12-6-3-7-17-12/h1-7H,8-9H2,(H2,14,15)",
+    "InChl_Key": "PBLVNBFWALHXSS-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)CS(=O)Cc1ccccc1-c1ccco1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9690",
+    "validation": "m_weight unsave, calculated(263.318)"
+}

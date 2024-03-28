@@ -1,0 +1,13 @@
+{
+    "names": "[(6aR,10aR)-3-(Adamantan-1-yl)-1-hydroxy-6,6-dimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-9-yl]methyl 2,2-dimethylpropanoate",
+    "iupac_name": "6607 ; C31H42O4 ; 478.663",
+    "category": "cannabinodids",
+    "index": 6607,
+    "formular": "C31H42O4",
+    "molecular_weight": 478.663,
+    "inChl": "1S/C31H42O4/c1-29(2,3)28(33)34-17-18-6-7-24-23(11-18)27-25(32)12-22(13-26(27)35-30(24,4)5)31-14-19-8-20(15-31)10-21(9-19)16-31/h6,12-13,19-21,23-24,32H,7-11,14-17H2,1-5H3/t19?,20?,21?,23-,24-,31?/m1/s1",
+    "InChl_Key": "OHLPUHVXEGUPBR-BYOOMSNPSA-N",
+    "SMILES": "CC(C)(C)C(=O)OCC1=CC[C@@H]2[C@@H](C1)c1c(O)cc(C34CC5CC(CC(C5)C3)C4)cc1OC2(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6607",
+    "validation": "m_weight unsave, calculated(478.6730000000004)"
+}

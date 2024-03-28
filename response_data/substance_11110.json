@@ -1,0 +1,13 @@
+{
+    "names": "2-BnS-5-MBAL ; 2-Benzylthio-5-methoxybenzaldehyde",
+    "iupac_name": "2-(Benzylsulfanyl)-5-methoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 11110,
+    "formular": "C15H14O2S",
+    "molecular_weight": 258.335,
+    "inChl": "1S/C15H14O2S/c1-17-14-7-8-15(13(9-14)10-16)18-11-12-5-3-2-4-6-12/h2-10H,11H2,1H3",
+    "InChl_Key": "QVJGVLVIYOXAKW-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(SCc2ccccc2)c(C=O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11110",
+    "validation": "m_weight unsave, calculated(258.342)"
+}

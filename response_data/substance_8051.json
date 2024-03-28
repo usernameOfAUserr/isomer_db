@@ -1,0 +1,13 @@
+{
+    "names": "O-1812",
+    "iupac_name": "(5Z,8Z,11Z,14Z)-20-Cyano-N-[(2R)-1-hydroxypropan-2-yl]-16,16-dimethylicosa-5,8,11,14-tetraenamide",
+    "category": "cannabinodids",
+    "index": 8051,
+    "formular": "C26H42N2O2",
+    "molecular_weight": 414.624,
+    "inChl": "1S/C26H42N2O2/c1-24(23-29)28-25(30)19-15-12-10-8-6-4-5-7-9-11-13-16-20-26(2,3)21-17-14-18-22-27/h4-5,8-11,16,20,24,29H,6-7,12-15,17-19,21,23H2,1-3H3,(H,28,30)/b5-4-,10-8-,11-9-,20-16-/t24-/m1/s1",
+    "InChl_Key": "WZQHSBKOWZOASP-QLZKPENWSA-N",
+    "SMILES": "C[C@H](CO)NC(=O)CCC/C=C\\C/C=C\\C/C=C\\C/C=C\\C(C)(C)CCCCC#N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8051",
+    "validation": "m_weight unsave, calculated(414.6340000000003)"
+}

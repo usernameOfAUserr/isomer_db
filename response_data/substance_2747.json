@@ -1,0 +1,13 @@
+{
+    "names": "9-Chloro-1-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine",
+    "iupac_name": "2747 ; C11H14ClN ; 195.689",
+    "category": "data not stored",
+    "index": 2747,
+    "formular": "C11H14ClN",
+    "molecular_weight": 195.689,
+    "inChl": "1S/C11H14ClN/c1-8-7-13-6-5-9-3-2-4-10(12)11(8)9/h2-4,8,13H,5-7H2,1H3",
+    "InChl_Key": "MSXFEKRSKBQMGJ-UHFFFAOYSA-N",
+    "SMILES": "CC1CNCCc2cccc(Cl)c21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2747",
+    "validation": "m_weight unsave, calculated(195.693)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-NMe2SO2-A ; 4-Dimethylaminosulfonylamphetamine",
+    "iupac_name": "4-(2-Aminopropyl)-N,N-dimethylbenzene-1-sulfonamide",
+    "category": "Phenetylamine",
+    "index": 10598,
+    "formular": "C11H18N2O2S",
+    "molecular_weight": 242.338,
+    "inChl": "1S/C11H18N2O2S/c1-9(12)8-10-4-6-11(7-5-10)16(14,15)13(2)3/h4-7,9H,8,12H2,1-3H3",
+    "InChl_Key": "DBYIEESZVDLHBC-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(S(=O)(=O)N(C)C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10598",
+    "validation": "m_weight unsave, calculated(242.34399999999994)"
+}

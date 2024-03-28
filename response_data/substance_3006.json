@@ -1,0 +1,13 @@
+{
+    "names": "Clobazam",
+    "iupac_name": "7-Chloro-1-methyl-5-phenyl-1H-1,5-benzodiazepine-2,4(3H,5H)-dione",
+    "category": "Aryldiazepine",
+    "index": 3006,
+    "formular": "C16H13ClN2O2",
+    "molecular_weight": 300.74,
+    "inChl": "1S/C16H13ClN2O2/c1-18-13-8-7-11(17)9-14(13)19(16(21)10-15(18)20)12-5-3-2-4-6-12/h2-9H,10H2,1H3",
+    "InChl_Key": "CXOXHMZGEKVPMT-UHFFFAOYSA-N",
+    "SMILES": "CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3006",
+    "validation": ""
+}

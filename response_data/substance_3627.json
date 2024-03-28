@@ -1,0 +1,13 @@
+{
+    "names": "Methyl (2R,3S)-3-(benzoyloxy)-8-(methanesulfonyl)-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "iupac_name": "3627 ; C17H21NO6S ; 367.417",
+    "category": "data not stored",
+    "index": 3627,
+    "formular": "C17H21NO6S",
+    "molecular_weight": 367.417,
+    "inChl": "1S/C17H21NO6S/c1-23-17(20)15-13-9-8-12(18(13)25(2,21)22)10-14(15)24-16(19)11-6-4-3-5-7-11/h3-7,12-15H,8-10H2,1-2H3/t12?,13?,14-,15+/m0/s1",
+    "InChl_Key": "VLGAUQOJBBVGAN-PFSRBDOWSA-N",
+    "SMILES": "COC(=O)[C@@H]1C2CCC(C[C@@H]1OC(=O)c1ccccc1)N2S(C)(=O)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3627",
+    "validation": "m_weight unsave, calculated(367.4230000000002)"
+}

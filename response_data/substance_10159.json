@@ -1,0 +1,13 @@
+{
+    "names": "4,3-MMeA ; 4-Methoxy-3-methylamphetamine",
+    "iupac_name": "1-(4-Methoxy-3-methylphenyl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10159,
+    "formular": "C11H17NO",
+    "molecular_weight": 179.259,
+    "inChl": "1S/C11H17NO/c1-8-6-10(7-9(2)12)4-5-11(8)13-3/h4-6,9H,7,12H2,1-3H3",
+    "InChl_Key": "HTWBCLIOMBETGN-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CC(C)N)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10159",
+    "validation": "m_weight unsave, calculated(179.26299999999998)"
+}

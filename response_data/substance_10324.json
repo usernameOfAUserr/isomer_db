@@ -1,0 +1,13 @@
+{
+    "names": "DOPF-2 ; 4-(2-Fluoropropyl)-2,5-dimethoxyamphetamine",
+    "iupac_name": "1-[4-(2-Fluoropropyl)-2,5-dimethoxyphenyl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10324,
+    "formular": "C14H22FNO2",
+    "molecular_weight": 255.328,
+    "inChl": "1S/C14H22FNO2/c1-9(15)5-11-7-14(18-4)12(6-10(2)16)8-13(11)17-3/h7-10H,5-6,16H2,1-4H3",
+    "InChl_Key": "GHTLUDSPWKVFAY-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)F)c(OC)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10324",
+    "validation": "m_weight unsave, calculated(255.33299999999997)"
+}

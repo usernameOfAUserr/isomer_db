@@ -1,0 +1,13 @@
+{
+    "names": "JWH-444",
+    "iupac_name": "(5-Bromo-1-pentyl-1H-indol-3-yl)(naphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4343,
+    "formular": "C24H22BrNO",
+    "molecular_weight": 420.342,
+    "inChl": "1S/C24H22BrNO/c1-2-3-6-14-26-16-22(21-15-18(25)12-13-23(21)26)24(27)20-11-7-9-17-8-4-5-10-19(17)20/h4-5,7-13,15-16H,2-3,6,14H2,1H3",
+    "InChl_Key": "UNEKBGOEBJFLPZ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2cccc3ccccc23)c2cc(Br)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4343",
+    "validation": "m_weight unsave, calculated(420.35000000000014)"
+}

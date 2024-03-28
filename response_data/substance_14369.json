@@ -1,0 +1,13 @@
+{
+    "names": "{4-[Benzoyl(phenyl)amino]-1-[2-(thiophen-2-yl)ethyl]piperidin-4-yl}methyl benzoate",
+    "iupac_name": "14369 ; C32H32N2O3S ; 524.673",
+    "category": "Fentanyl",
+    "index": 14369,
+    "formular": "C32H32N2O3S",
+    "molecular_weight": 524.673,
+    "inChl": "1S/C32H32N2O3S/c35-30(26-11-4-1-5-12-26)34(28-15-8-3-9-16-28)32(25-37-31(36)27-13-6-2-7-14-27)19-22-33(23-20-32)21-18-29-17-10-24-38-29/h1-17,24H,18-23,25H2",
+    "InChl_Key": "SLGLPVWATSKMNM-UHFFFAOYSA-N",
+    "SMILES": "O=C(OCC1(N(C(=O)c2ccccc2)c2ccccc2)CCN(CCc2cccs2)CC1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14369",
+    "validation": "m_weight unsave, calculated(524.6860000000003)"
+}

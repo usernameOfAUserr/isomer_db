@@ -1,0 +1,13 @@
+{
+    "names": "S4",
+    "iupac_name": "N2-(2-Methylquinolin-4-yl)-N-phenylglycinamide ; 2-[(2-Methylquinolin-4-yl)amino]-N-phenylacetamide",
+    "category": "data not stored",
+    "index": 9914,
+    "formular": "C18H17N3O",
+    "molecular_weight": 291.347,
+    "inChl": "1S/C18H17N3O/c1-13-11-17(15-9-5-6-10-16(15)20-13)19-12-18(22)21-14-7-3-2-4-8-14/h2-11H,12H2,1H3,(H,19,20)(H,21,22)",
+    "InChl_Key": "HRXVDSHQRNNGBO-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(NCC(=O)Nc2ccccc2)c2ccccc2n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9914",
+    "validation": "m_weight unsave, calculated(291.354)"
+}

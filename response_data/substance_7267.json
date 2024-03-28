@@ -1,0 +1,13 @@
+{
+    "names": "DOHP ; 4-Heptyl-2,5-dimethoxyamphetamine",
+    "iupac_name": "1-(4-Heptyl-2,5-dimethoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7267,
+    "formular": "C18H31NO2",
+    "molecular_weight": 293.444,
+    "inChl": "1S/C18H31NO2/c1-5-6-7-8-9-10-15-12-18(21-4)16(11-14(2)19)13-17(15)20-3/h12-14H,5-11,19H2,1-4H3",
+    "InChl_Key": "OTDMGXQPXDCJNK-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCc1cc(OC)c(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7267",
+    "validation": "m_weight unsave, calculated(293.451)"
+}

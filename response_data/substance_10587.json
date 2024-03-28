@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Me-4-CA ; N,N-Dimethyl-4-chloroamphetamine",
+    "iupac_name": "1-(4-Chlorophenyl)-N,N-dimethylpropan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10587,
+    "formular": "C11H16ClN",
+    "molecular_weight": 197.704,
+    "inChl": "1S/C11H16ClN/c1-9(13(2)3)8-10-4-6-11(12)7-5-10/h4-7,9H,8H2,1-3H3",
+    "InChl_Key": "DUZIUJWBWTXQGI-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccc(Cl)cc1)N(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10587",
+    "validation": "m_weight unsave, calculated(197.709)"
+}

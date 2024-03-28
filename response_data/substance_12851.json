@@ -1,0 +1,13 @@
+{
+    "names": "\u03c8-DOM NS ; 2,6-Dimethoxy-4-methyl-\u03b2-methyl-\u03b2-nitrostyrene",
+    "iupac_name": "1,3-Dimethoxy-5-methyl-2-[(1E)-2-nitroprop-1-en-1-yl]benzene",
+    "category": "data not stored",
+    "index": 12851,
+    "formular": "C12H15NO4",
+    "molecular_weight": 237.252,
+    "inChl": "1S/C12H15NO4/c1-8-5-11(16-3)10(12(6-8)17-4)7-9(2)13(14)15/h5-7H,1-4H3/b9-7+",
+    "InChl_Key": "OCGQTFSJXRJIGX-VQHVLOKHSA-N",
+    "SMILES": "COc1cc(C)cc(OC)c1/C=C(\\C)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12851",
+    "validation": "m_weight unsave, calculated(237.25499999999997)"
+}

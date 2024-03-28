@@ -1,0 +1,13 @@
+{
+    "names": "SGT-26",
+    "iupac_name": "(1-Butyl-1H-indazol-3-yl)(4-methylnaphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 11282,
+    "formular": "C23H22N2O",
+    "molecular_weight": 342.434,
+    "inChl": "1S/C23H22N2O/c1-3-4-15-25-21-12-8-7-11-20(21)22(24-25)23(26)19-14-13-16(2)17-9-5-6-10-18(17)19/h5-14H,3-4,15H2,1-2H3",
+    "InChl_Key": "OGPSOYCZOWNTML-UHFFFAOYSA-N",
+    "SMILES": "CCCCn1nc(C(=O)c2ccc(C)c3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11282",
+    "validation": "m_weight unsave, calculated(342.44200000000006)"
+}

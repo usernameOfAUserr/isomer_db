@@ -1,0 +1,13 @@
+{
+    "names": "Lophophine NS ; 3-Methoxy-4,5-methylenedioxy-\u03b2-nitrostyrene",
+    "iupac_name": "4-Methoxy-6-[(E)-2-nitroethenyl]-2H-1,3-benzodioxole",
+    "category": "data not stored",
+    "index": 12402,
+    "formular": "C10H9NO5",
+    "molecular_weight": 223.182,
+    "inChl": "1S/C10H9NO5/c1-14-8-4-7(2-3-11(12)13)5-9-10(8)16-6-15-9/h2-5H,6H2,1H3/b3-2+",
+    "InChl_Key": "XMXLXUDKGGRTAW-NSCUHMNNSA-N",
+    "SMILES": "COc1cc(/C=C/[N+](=O)[O-])cc2c1OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12402",
+    "validation": "m_weight unsave, calculated(223.18399999999997)"
+}

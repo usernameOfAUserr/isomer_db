@@ -1,0 +1,13 @@
+{
+    "names": "2-[(3-Chloro[1,1\u2032-biphenyl]-2-yl)oxy]ethan-1-amine",
+    "iupac_name": "10010 ; C14H14ClNO ; 247.72",
+    "category": "Phenetylamine",
+    "index": 10010,
+    "formular": "C14H14ClNO",
+    "molecular_weight": 247.72,
+    "inChl": "1S/C14H14ClNO/c15-13-8-4-7-12(14(13)17-10-9-16)11-5-2-1-3-6-11/h1-8H,9-10,16H2",
+    "InChl_Key": "HVEPDWYPGZPHJG-UHFFFAOYSA-N",
+    "SMILES": "NCCOc1c(Cl)cccc1-c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10010",
+    "validation": "m_weight unsave, calculated(247.72500000000002)"
+}

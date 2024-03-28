@@ -1,0 +1,13 @@
+{
+    "names": "N,3,4-Trimethyl-5-phenyl-1,3-oxazolidin-2-imine",
+    "iupac_name": "11928 ; C12H16N2O ; 204.268",
+    "category": "data not stored",
+    "index": 11928,
+    "formular": "C12H16N2O",
+    "molecular_weight": 204.268,
+    "inChl": "1S/C12H16N2O/c1-9-11(10-7-5-4-6-8-10)15-12(13-2)14(9)3/h4-9,11H,1-3H3",
+    "InChl_Key": "IDEDMWIYQQPUEJ-UHFFFAOYSA-N",
+    "SMILES": "CN=C1OC(c2ccccc2)C(C)N1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11928",
+    "validation": "m_weight unsave, calculated(204.27300000000002)"
+}

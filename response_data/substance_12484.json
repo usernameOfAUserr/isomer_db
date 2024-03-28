@@ -1,0 +1,13 @@
+{
+    "names": "Isoflurane",
+    "iupac_name": "2-Chloro-2-(difluoromethoxy)-1,1,1-trifluoroethane",
+    "category": "data not stored",
+    "index": 12484,
+    "formular": "C3H2ClF5O",
+    "molecular_weight": 184.492,
+    "inChl": "1S/C3H2ClF5O/c4-1(3(7,8)9)10-2(5)6/h1-2H",
+    "InChl_Key": "PIWKPBJCKXDKJR-UHFFFAOYSA-N",
+    "SMILES": "FC(F)OC(Cl)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12484",
+    "validation": "m_weight unsave, calculated(184.491)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Triiodothyronine ; T3",
+    "iupac_name": "O-(4-Hydroxy-3-iodophenyl)-3,5-diiodotyrosine ; 2-Amino-3-[4-(4-hydroxy-3-iodophenoxy)-3,5-diiodophenyl]propanoic acid",
+    "category": "data not stored",
+    "index": 10634,
+    "formular": "C15H12I3NO4",
+    "molecular_weight": 650.973,
+    "inChl": "1S/C15H12I3NO4/c16-9-6-8(1-2-13(9)20)23-14-10(17)3-7(4-11(14)18)5-12(19)15(21)22/h1-4,6,12,20H,5,19H2,(H,21,22)",
+    "InChl_Key": "AUYYCJSJGJYCDS-UHFFFAOYSA-N",
+    "SMILES": "NC(Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10634",
+    "validation": "m_weight unsave, calculated(650.9760000000001)"
+}

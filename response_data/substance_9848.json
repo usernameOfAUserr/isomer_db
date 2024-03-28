@@ -1,0 +1,13 @@
+{
+    "names": "N-Propargyl-3-TFMA ; N-Propargyl-3-trifluoromethylamphetamine",
+    "iupac_name": "N-{1-[3-(Trifluoromethyl)phenyl]propan-2-yl}prop-2-yn-1-amine",
+    "category": "data not stored",
+    "index": 9848,
+    "formular": "C13H14F3N",
+    "molecular_weight": 241.252,
+    "inChl": "1S/C13H14F3N/c1-3-7-17-10(2)8-11-5-4-6-12(9-11)13(14,15)16/h1,4-6,9-10,17H,7-8H2,2H3",
+    "InChl_Key": "IZZLBKSVDHDIMQ-UHFFFAOYSA-N",
+    "SMILES": "C#CCNC(C)Cc1cccc(C(F)(F)F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9848",
+    "validation": "m_weight unsave, calculated(241.25599999999994)"
+}

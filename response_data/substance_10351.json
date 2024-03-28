@@ -1,0 +1,13 @@
+{
+    "names": "5TF-2C-B ; 4-Bromo-2-methoxy-5-trifluoromethoxyphenethylamine",
+    "iupac_name": "2-[4-Bromo-2-methoxy-5-(trifluoromethoxy)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10351,
+    "formular": "C10H11BrF3NO2",
+    "molecular_weight": 314.099,
+    "inChl": "1S/C10H11BrF3NO2/c1-16-8-5-7(11)9(17-10(12,13)14)4-6(8)2-3-15/h4-5H,2-3,15H2,1H3",
+    "InChl_Key": "IVHSFJMLRUIDJQ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Br)c(OC(F)(F)F)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10351",
+    "validation": "m_weight unsave, calculated(314.10099999999994)"
+}

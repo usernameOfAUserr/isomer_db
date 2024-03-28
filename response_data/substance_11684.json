@@ -1,0 +1,13 @@
+{
+    "names": "Iprizolam",
+    "iupac_name": "4-(2-Chlorophenyl)-9-methyl-2-(propan-2-yl)-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine",
+    "category": "Aryldiazepine",
+    "index": 11684,
+    "formular": "C18H17ClN4S",
+    "molecular_weight": 356.872,
+    "inChl": "1S/C18H17ClN4S/c1-10(2)15-8-13-17(12-6-4-5-7-14(12)19)20-9-16-22-21-11(3)23(16)18(13)24-15/h4-8,10H,9H2,1-3H3",
+    "InChl_Key": "WWCARQJMDLRKEN-UHFFFAOYSA-N",
+    "SMILES": "Cc1nnc2n1-c1sc(C(C)C)cc1C(c1ccccc1Cl)=NC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11684",
+    "validation": "m_weight unsave, calculated(356.88200000000006)"
+}

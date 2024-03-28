@@ -1,0 +1,13 @@
+{
+    "names": "(amino) Etonitazene ; 5-Amino-etodesnitazene",
+    "iupac_name": "1-[2-(Diethylamino)ethyl]-2-[(4-ethoxyphenyl)methyl]-1H-benzimidazol-5-amine",
+    "category": "data not stored",
+    "index": 11361,
+    "formular": "C22H30N4O",
+    "molecular_weight": 366.5,
+    "inChl": "1S/C22H30N4O/c1-4-25(5-2)13-14-26-21-12-9-18(23)16-20(21)24-22(26)15-17-7-10-19(11-8-17)27-6-3/h7-12,16H,4-6,13-15,23H2,1-3H3",
+    "InChl_Key": "AWYRKIIHWPBDAA-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(Cc2nc3cc(N)ccc3n2CCN(CC)CC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11361",
+    "validation": "m_weight unsave, calculated(366.50900000000007)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-(Aminomethyl)-2-phenylcyclobutan-1-ol",
+    "iupac_name": "10831 ; C11H15NO ; 177.243",
+    "category": "Phenetylamine",
+    "index": 10831,
+    "formular": "C11H15NO",
+    "molecular_weight": 177.243,
+    "inChl": "1S/C11H15NO/c12-8-11(13)7-6-10(11)9-4-2-1-3-5-9/h1-5,10,13H,6-8,12H2",
+    "InChl_Key": "BCRVEUGXEFAJBE-UHFFFAOYSA-N",
+    "SMILES": "NCC1(O)CCC1c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10831",
+    "validation": "m_weight unsave, calculated(177.247)"
+}

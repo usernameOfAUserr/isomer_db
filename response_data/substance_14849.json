@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-NPT ; 4-Hydroxy-N-propyltryptamine",
+    "iupac_name": "3-[2-(Propylamino)ethyl]-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 14849,
+    "formular": "C13H18N2O",
+    "molecular_weight": 218.295,
+    "inChl": "1S/C13H18N2O/c1-2-7-14-8-6-10-9-15-11-4-3-5-12(16)13(10)11/h3-5,9,14-16H,2,6-8H2,1H3",
+    "InChl_Key": "MRUKLTXSCIPEBU-UHFFFAOYSA-N",
+    "SMILES": "CCCNCCc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14849",
+    "validation": "m_weight unsave, calculated(218.3)"
+}

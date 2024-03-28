@@ -1,0 +1,13 @@
+{
+    "names": "PEPAP ; R-1147 ; Phenethylphenylacetoxypiperidine",
+    "iupac_name": "4-Phenyl-1-(2-phenylethyl)piperidin-4-yl acetate",
+    "category": "data not stored",
+    "index": 3280,
+    "formular": "C21H25NO2",
+    "molecular_weight": 323.429,
+    "inChl": "1S/C21H25NO2/c1-18(23)24-21(20-10-6-3-7-11-20)13-16-22(17-14-21)15-12-19-8-4-2-5-9-19/h2-11H,12-17H2,1H3",
+    "InChl_Key": "BVURVTVDNWSNFN-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)OC1(c2ccccc2)CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3280",
+    "validation": "m_weight unsave, calculated(323.43600000000004)"
+}

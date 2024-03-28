@@ -1,0 +1,13 @@
+{
+    "names": "1-(Furan-2-yl)pentan-2-amine",
+    "iupac_name": "10938 ; C9H15NO ; 153.222",
+    "category": "Phenetylamine",
+    "index": 10938,
+    "formular": "C9H15NO",
+    "molecular_weight": 153.222,
+    "inChl": "1S/C9H15NO/c1-2-4-8(10)7-9-5-3-6-11-9/h3,5-6,8H,2,4,7,10H2,1H3",
+    "InChl_Key": "XKAQEMMMHKFNCP-UHFFFAOYSA-N",
+    "SMILES": "CCCC(N)Cc1ccco1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10938",
+    "validation": "m_weight unsave, calculated(153.22499999999997)"
+}

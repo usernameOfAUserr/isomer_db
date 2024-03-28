@@ -1,0 +1,13 @@
+{
+    "names": "N-{1-[4-(Methylsulfanyl)phenyl]butan-2-yl}formamide",
+    "iupac_name": "2571 ; C12H17NOS ; 223.334",
+    "category": "data not stored",
+    "index": 2571,
+    "formular": "C12H17NOS",
+    "molecular_weight": 223.334,
+    "inChl": "1S/C12H17NOS/c1-3-11(13-9-14)8-10-4-6-12(15-2)7-5-10/h4-7,9,11H,3,8H2,1-2H3,(H,13,14)",
+    "InChl_Key": "NFMVEFOUYGHBKE-UHFFFAOYSA-N",
+    "SMILES": "CCC(Cc1ccc(SC)cc1)NC=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2571",
+    "validation": "m_weight unsave, calculated(223.341)"
+}

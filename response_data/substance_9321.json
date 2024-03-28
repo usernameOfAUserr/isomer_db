@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-3-MeO-\u03b1-PVP ; 4\u2032-Hydroxy-3\u2032-methoxy-\u03b1-(pyrrolidin-1-yl)valerophenone ; HMPV",
+    "iupac_name": "1-(4-Hydroxy-3-methoxyphenyl)-2-(pyrrolidin-1-yl)pentan-1-one",
+    "category": "data not stored",
+    "index": 9321,
+    "formular": "C16H23NO3",
+    "molecular_weight": 277.359,
+    "inChl": "1S/C16H23NO3/c1-3-6-13(17-9-4-5-10-17)16(19)12-7-8-14(18)15(11-12)20-2/h7-8,11,13,18H,3-6,9-10H2,1-2H3",
+    "InChl_Key": "LGTMQHOZRKNUTB-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccc(O)c(OC)c1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9321",
+    "validation": "m_weight unsave, calculated(277.36400000000003)"
+}

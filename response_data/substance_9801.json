@@ -1,0 +1,13 @@
+{
+    "names": "1-Hydroxyethyl isolysergamide ; Isolysergic acid \u03b1-hydroxyethylamide",
+    "iupac_name": "N-(1-Hydroxyethyl)-6-methyl-9,10-didehydroergoline-8\u03b1-carboxamide ; (6aR,9S)-N-(1-Hydroxyethyl)-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b1)-N-(1-Hydroxyethyl)-6-methyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 9801,
+    "formular": "C18H21N3O2",
+    "molecular_weight": 311.378,
+    "inChl": "1S/C18H21N3O2/c1-10(22)20-18(23)12-6-14-13-4-3-5-15-17(13)11(8-19-15)7-16(14)21(2)9-12/h3-6,8,10,12,16,19,22H,7,9H2,1-2H3,(H,20,23)/t10?,12-,16+/m0/s1",
+    "InChl_Key": "WYTJZJPVCDWOOI-QXAQSSTFSA-N",
+    "SMILES": "CC(O)NC(=O)[C@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9801",
+    "validation": "m_weight unsave, calculated(311.38500000000005)"
+}

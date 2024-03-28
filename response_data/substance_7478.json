@@ -1,0 +1,13 @@
+{
+    "names": "(4-Methoxycyclohexyl)benzene",
+    "iupac_name": "7478 ; C13H18O ; 190.281",
+    "category": "data not stored",
+    "index": 7478,
+    "formular": "C13H18O",
+    "molecular_weight": 190.281,
+    "inChl": "1S/C13H18O/c1-14-13-9-7-12(8-10-13)11-5-3-2-4-6-11/h2-6,12-13H,7-10H2,1H3",
+    "InChl_Key": "ISSFAAFZIJMWHN-UHFFFAOYSA-N",
+    "SMILES": "COC1CCC(c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7478",
+    "validation": "m_weight unsave, calculated(190.28600000000003)"
+}

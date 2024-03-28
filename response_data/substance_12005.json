@@ -1,0 +1,13 @@
+{
+    "names": "5-Cyclohexyl-N,N-dimethylpentan-1-amine",
+    "iupac_name": "12005 ; C13H27N ; 197.36",
+    "category": "Phenetylamine",
+    "index": 12005,
+    "formular": "C13H27N",
+    "molecular_weight": 197.36,
+    "inChl": "1S/C13H27N/c1-14(2)12-8-4-7-11-13-9-5-3-6-10-13/h13H,3-12H2,1-2H3",
+    "InChl_Key": "GELRCLKVOPWJBW-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCCCCC1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12005",
+    "validation": "m_weight unsave, calculated(197.36599999999996)"
+}

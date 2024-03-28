@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-NBT ; 4-Hydroxy-N-butyltryptamine",
+    "iupac_name": "3-[2-(Butylamino)ethyl]-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 14850,
+    "formular": "C14H20N2O",
+    "molecular_weight": 232.321,
+    "inChl": "1S/C14H20N2O/c1-2-3-8-15-9-7-11-10-16-12-5-4-6-13(17)14(11)12/h4-6,10,15-17H,2-3,7-9H2,1H3",
+    "InChl_Key": "QJAJFMKFCXJGRW-UHFFFAOYSA-N",
+    "SMILES": "CCCCNCCc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14850",
+    "validation": "m_weight unsave, calculated(232.327)"
+}

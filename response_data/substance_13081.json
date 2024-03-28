@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-F,4-Me-CPA",
+    "iupac_name": "2-Fluoro-2-(4-methylphenyl)cyclopropan-1-amine",
+    "category": "data not stored",
+    "index": 13081,
+    "formular": "C10H12FN",
+    "molecular_weight": 165.207,
+    "inChl": "1S/C10H12FN/c1-7-2-4-8(5-3-7)10(11)6-9(10)12/h2-5,9H,6,12H2,1H3",
+    "InChl_Key": "JEBMWAUALYWCIW-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C2(F)CC2N)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13081",
+    "validation": "m_weight unsave, calculated(165.21099999999998)"
+}

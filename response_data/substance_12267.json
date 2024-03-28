@@ -1,0 +1,13 @@
+{
+    "names": "GBL ; \u03b3-Butyrolactone",
+    "iupac_name": "Oxolan-2-one",
+    "category": "data not stored",
+    "index": 12267,
+    "formular": "C4H6O2",
+    "molecular_weight": 86.089,
+    "inChl": "1S/C4H6O2/c5-4-2-1-3-6-4/h1-3H2",
+    "InChl_Key": "YEJRWHAVMIAJKC-UHFFFAOYSA-N",
+    "SMILES": "O=C1CCCO1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12267",
+    "validation": "m_weight unsave, calculated(86.09)"
+}

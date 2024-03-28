@@ -1,0 +1,13 @@
+{
+    "names": "5F-MDA-19-TMCP",
+    "iupac_name": "N\u2032-[1-(5-Fluoropentyl)-2-oxo-1,2-dihydro-3H-indol-3-ylidene]-2,2,3,3-tetramethylcyclopropane-1-carbohydrazide",
+    "category": "cannabinodids",
+    "index": 4126,
+    "formular": "C21H28FN3O2",
+    "molecular_weight": 373.464,
+    "inChl": "1S/C21H28FN3O2/c1-20(2)17(21(20,3)4)18(26)24-23-16-14-10-6-7-11-15(14)25(19(16)27)13-9-5-8-12-22/h6-7,10-11,17H,5,8-9,12-13H2,1-4H3,(H,24,26)/b23-16-",
+    "InChl_Key": "PRXCXNXDBMJFFC-KQWNVCNZSA-N",
+    "SMILES": "CC1(C)C(C(=O)N/N=C2\\C(=O)N(CCCCCF)c3ccccc32)C1(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4126",
+    "validation": "m_weight unsave, calculated(373.47200000000015)"
+}

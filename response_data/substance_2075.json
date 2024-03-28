@@ -1,0 +1,13 @@
+{
+    "names": "2C-SE-21 ; 2,5-Dimethoxy-4-(2-fluoroethylseleno)phenethylamine",
+    "iupac_name": "2-{4-[(2-Fluoroethyl)selanyl]-2,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "data not stored",
+    "index": 2075,
+    "formular": "C12H18FNO2Se",
+    "molecular_weight": 306.235,
+    "inChl": "1S/C12H18FNO2Se/c1-15-10-8-12(17-6-4-13)11(16-2)7-9(10)3-5-14/h7-8H,3-6,14H2,1-2H3",
+    "InChl_Key": "XSVWIVWPLWEQOK-UHFFFAOYSA-N",
+    "SMILES": "COc1cc([Se]CCF)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2075",
+    "validation": "m_weight unsave, calculated(306.23900000000003)"
+}

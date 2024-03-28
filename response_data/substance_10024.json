@@ -1,0 +1,13 @@
+{
+    "names": "N-[2-(3,5-Dichlorophenoxy)ethyl]cyclopropanamine",
+    "iupac_name": "10024 ; C11H13Cl2NO ; 246.133",
+    "category": "Phenetylamine",
+    "index": 10024,
+    "formular": "C11H13Cl2NO",
+    "molecular_weight": 246.133,
+    "inChl": "1S/C11H13Cl2NO/c12-8-5-9(13)7-11(6-8)15-4-3-14-10-1-2-10/h5-7,10,14H,1-4H2",
+    "InChl_Key": "NKJCXNYVZQNLOI-UHFFFAOYSA-N",
+    "SMILES": "Clc1cc(Cl)cc(OCCNC2CC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10024",
+    "validation": "m_weight unsave, calculated(246.137)"
+}

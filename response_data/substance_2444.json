@@ -1,0 +1,13 @@
+{
+    "names": "2-MPA ; Methiopropamine",
+    "iupac_name": "N-Methyl-1-(thiophen-2-yl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 2444,
+    "formular": "C8H13NS",
+    "molecular_weight": 155.261,
+    "inChl": "1S/C8H13NS/c1-7(9-2)6-8-4-3-5-10-8/h3-5,7,9H,6H2,1-2H3",
+    "InChl_Key": "HPHUWHKFQXTZPS-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2444",
+    "validation": "m_weight unsave, calculated(155.26599999999996)"
+}

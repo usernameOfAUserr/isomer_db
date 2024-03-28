@@ -1,0 +1,13 @@
+{
+    "names": "2,3-MDPV ; 3\u2032,4\u2032-Methylenedioxy-\u03b1-(pyrrolidin-1-yl)valerophenone ; 2,3-Methylenedioxypyrovalerone",
+    "iupac_name": "1-(2H-1,3-Benzodioxol-4-yl)-2-(pyrrolidin-1-yl)pentan-1-one",
+    "category": "data not stored",
+    "index": 8612,
+    "formular": "C16H21NO3",
+    "molecular_weight": 275.343,
+    "inChl": "1S/C16H21NO3/c1-2-6-13(17-9-3-4-10-17)15(18)12-7-5-8-14-16(12)20-11-19-14/h5,7-8,13H,2-4,6,9-11H2,1H3",
+    "InChl_Key": "LBRDQHPPVAYKTK-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1cccc2c1OCO2)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8612",
+    "validation": "m_weight unsave, calculated(275.348)"
+}

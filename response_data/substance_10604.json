@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-F-4-BA ; \u03b2-Fluoro-4-bromoamphetamine",
+    "iupac_name": "1-(4-Bromophenyl)-1-fluoropropan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10604,
+    "formular": "C9H11BrFN",
+    "molecular_weight": 232.093,
+    "inChl": "1S/C9H11BrFN/c1-6(12)9(11)7-2-4-8(10)5-3-7/h2-6,9H,12H2,1H3",
+    "InChl_Key": "VGGHMOOOGJCWCJ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)C(F)c1ccc(Br)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10604",
+    "validation": "m_weight unsave, calculated(232.09599999999998)"
+}

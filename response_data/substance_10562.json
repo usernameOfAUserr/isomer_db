@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Me-4-TMS-A ; N,N-Dimethyl-4-trimethylsilylamphetamine",
+    "iupac_name": "1-[4-(Trimethylsilyl)phenyl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10562,
+    "formular": "C12H21NSi",
+    "molecular_weight": 207.387,
+    "inChl": "1S/C12H21NSi/c1-10(13)9-11-5-7-12(8-6-11)14(2,3)4/h5-8,10H,9,13H2,1-4H3",
+    "InChl_Key": "RBJAGBGAQNIFBH-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc([Si](C)(C)C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10562",
+    "validation": "m_weight unsave, calculated(207.39299999999994)"
+}

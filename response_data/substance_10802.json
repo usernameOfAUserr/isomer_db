@@ -1,0 +1,13 @@
+{
+    "names": "(Z)-\u03b2-CHF-PEA ; (Z)-\u03b2-(Fluoromethylidene)phenethylamine",
+    "iupac_name": "(2Z)-3-Fluoro-2-phenylprop-2-en-1-amine",
+    "category": "Phenetylamine",
+    "index": 10802,
+    "formular": "C9H10FN",
+    "molecular_weight": 151.181,
+    "inChl": "1S/C9H10FN/c10-6-9(7-11)8-4-2-1-3-5-8/h1-6H,7,11H2/b9-6+",
+    "InChl_Key": "BVQOKAMNLHBPMH-RMKNXTFCSA-N",
+    "SMILES": "NC/C(=C\\F)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10802",
+    "validation": "m_weight unsave, calculated(151.18399999999997)"
+}

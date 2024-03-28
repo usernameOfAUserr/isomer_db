@@ -1,0 +1,13 @@
+{
+    "names": "(3-Bromo-2,5-dimethoxyphenyl)(piperazin-1-yl)methanone",
+    "iupac_name": "11389 ; C13H17BrN2O3 ; 329.19",
+    "category": "data not stored",
+    "index": 11389,
+    "formular": "C13H17BrN2O3",
+    "molecular_weight": 329.19,
+    "inChl": "1S/C13H17BrN2O3/c1-18-9-7-10(12(19-2)11(14)8-9)13(17)16-5-3-15-4-6-16/h7-8,15H,3-6H2,1-2H3",
+    "InChl_Key": "NGTOAJIIFDGUJJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Br)c(OC)c(C(=O)N2CCNCC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11389",
+    "validation": ""
+}

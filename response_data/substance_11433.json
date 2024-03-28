@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Methyl-DOB ; \u03b1,\u03b1-Dimethyl-2C-B",
+    "iupac_name": "1-(4-Bromo-2,5-dimethoxyphenyl)-2-methylpropan-2-amine",
+    "category": "data not stored",
+    "index": 11433,
+    "formular": "C12H18BrNO2",
+    "molecular_weight": 288.181,
+    "inChl": "1S/C12H18BrNO2/c1-12(2,14)7-8-5-11(16-4)9(13)6-10(8)15-3/h5-6H,7,14H2,1-4H3",
+    "InChl_Key": "FMQBLCBGLSRKNP-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)(C)N)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11433",
+    "validation": "m_weight unsave, calculated(288.185)"
+}

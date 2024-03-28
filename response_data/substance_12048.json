@@ -1,0 +1,13 @@
+{
+    "names": "1-Methyl-1,2,3,7,8,8a-hexahydrocyclopenta[ij]isoquinoline",
+    "iupac_name": "12048 ; C12H15N ; 173.254",
+    "category": "Phenetylamine",
+    "index": 12048,
+    "formular": "C12H15N",
+    "molecular_weight": 173.254,
+    "inChl": "1S/C12H15N/c1-13-8-7-10-4-2-3-9-5-6-11(13)12(9)10/h2-4,11H,5-8H2,1H3",
+    "InChl_Key": "CQEFJCPSOYTPOE-UHFFFAOYSA-N",
+    "SMILES": "CN1CCc2cccc3c2C1CC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12048",
+    "validation": "m_weight unsave, calculated(173.25900000000001)"
+}

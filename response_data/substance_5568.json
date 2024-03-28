@@ -1,0 +1,13 @@
+{
+    "names": "4-Methyl-AET ; 4-Methyl-\u03b1-ethyltryptamine",
+    "iupac_name": "1-(4-Methyl-1H-indol-3-yl)butan-2-amine",
+    "category": "Tryptamine",
+    "index": 5568,
+    "formular": "C13H18N2",
+    "molecular_weight": 202.295,
+    "inChl": "1S/C13H18N2/c1-3-11(14)7-10-8-15-12-6-4-5-9(2)13(10)12/h4-6,8,11,15H,3,7,14H2,1-2H3",
+    "InChl_Key": "XKHCIOVNXOVPIK-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)Cc1c[nH]c2cccc(C)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5568",
+    "validation": "m_weight unsave, calculated(202.301)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-(5-Fluoro-2-methoxyphenyl)cyclopropane-1-carbaldehyde",
+    "iupac_name": "9743 ; C11H11FO2 ; 194.202",
+    "category": "data not stored",
+    "index": 9743,
+    "formular": "C11H11FO2",
+    "molecular_weight": 194.202,
+    "inChl": "1S/C11H11FO2/c1-14-11-3-2-8(12)5-10(11)9-4-7(9)6-13/h2-3,5-7,9H,4H2,1H3",
+    "InChl_Key": "XTUKUELYZKPHRP-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(F)cc1C1CC1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9743",
+    "validation": "m_weight unsave, calculated(194.20499999999996)"
+}

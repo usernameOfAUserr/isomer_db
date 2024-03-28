@@ -1,0 +1,13 @@
+{
+    "names": "JZL-195",
+    "iupac_name": "4-Nitrophenyl 4-[(3-phenoxyphenyl)methyl]piperazine-1-carboxylate",
+    "category": "cannabinodids",
+    "index": 4733,
+    "formular": "C24H23N3O5",
+    "molecular_weight": 433.457,
+    "inChl": "1S/C24H23N3O5/c28-24(32-22-11-9-20(10-12-22)27(29)30)26-15-13-25(14-16-26)18-19-5-4-8-23(17-19)31-21-6-2-1-3-7-21/h1-12,17H,13-16,18H2",
+    "InChl_Key": "QNYRAEKLMNDRFY-UHFFFAOYSA-N",
+    "SMILES": "O=C(Oc1ccc([N+](=O)[O-])cc1)N1CCN(Cc2cccc(Oc3ccccc3)c2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4733",
+    "validation": "m_weight unsave, calculated(433.46400000000017)"
+}

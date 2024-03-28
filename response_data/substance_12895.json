@@ -1,0 +1,13 @@
+{
+    "names": "1-[(2H-1,3-Benzodioxol-5-yl)methyl]-4-methylpiperazine",
+    "iupac_name": "12895 ; C13H18N2O2 ; 234.294",
+    "category": "data not stored",
+    "index": 12895,
+    "formular": "C13H18N2O2",
+    "molecular_weight": 234.294,
+    "inChl": "1S/C13H18N2O2/c1-14-4-6-15(7-5-14)9-11-2-3-12-13(8-11)17-10-16-12/h2-3,8H,4-7,9-10H2,1H3",
+    "InChl_Key": "QCJDACRQEXDUKB-UHFFFAOYSA-N",
+    "SMILES": "CN1CCN(Cc2ccc3c(c2)OCO3)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12895",
+    "validation": "m_weight unsave, calculated(234.29899999999998)"
+}

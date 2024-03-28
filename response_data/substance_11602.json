@@ -1,0 +1,13 @@
+{
+    "names": "SGT-196",
+    "iupac_name": "N-Benzyl-1-[(oxan-4-yl)methyl]-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11602,
+    "formular": "C21H23N3O2",
+    "molecular_weight": 349.426,
+    "inChl": "1S/C21H23N3O2/c25-21(22-14-16-6-2-1-3-7-16)20-18-8-4-5-9-19(18)24(23-20)15-17-10-12-26-13-11-17/h1-9,17H,10-15H2,(H,22,25)",
+    "InChl_Key": "OATSWZRQENHMQN-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCc1ccccc1)c1nn(CC2CCOCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11602",
+    "validation": "m_weight unsave, calculated(349.43399999999997)"
+}

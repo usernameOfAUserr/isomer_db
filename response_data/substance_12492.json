@@ -1,0 +1,13 @@
+{
+    "names": "QDOEA-NBBr",
+    "iupac_name": "3-(2-{[(2-Bromophenyl)methyl]amino}ethyl)quinazoline-2,4(1H,3H)-dione",
+    "category": "data not stored",
+    "index": 12492,
+    "formular": "C17H16BrN3O2",
+    "molecular_weight": 374.232,
+    "inChl": "1S/C17H16BrN3O2/c18-14-7-3-1-5-12(14)11-19-9-10-21-16(22)13-6-2-4-8-15(13)20-17(21)23/h1-8,19H,9-11H2,(H,20,23)",
+    "InChl_Key": "RNSWGJLBWGNUBI-UHFFFAOYSA-N",
+    "SMILES": "O=c1[nH]c2ccccc2c(=O)n1CCNCc1ccccc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12492",
+    "validation": "m_weight unsave, calculated(374.23800000000006)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Fospropofol",
+    "iupac_name": "[2,6-Di(propan-2-yl)phenoxy]methyl dihydrogen phosphate",
+    "category": "data not stored",
+    "index": 13981,
+    "formular": "C13H21O5P",
+    "molecular_weight": 288.277,
+    "inChl": "1S/C13H21O5P/c1-9(2)11-6-5-7-12(10(3)4)13(11)17-8-18-19(14,15)16/h5-7,9-10H,8H2,1-4H3,(H2,14,15,16)",
+    "InChl_Key": "QVNNONOFASOXQV-UHFFFAOYSA-N",
+    "SMILES": "CC(C)c1cccc(C(C)C)c1OCOP(=O)(O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13981",
+    "validation": "m_weight unsave, calculated(288.28)"
+}

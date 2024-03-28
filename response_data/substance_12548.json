@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Desmethyl-clonitazene",
+    "iupac_name": "2-{2-[(4-Chlorophenyl)methyl]-5-nitro-1H-benzimidazol-1-yl}-N,N-dimethylethan-1-amine",
+    "category": "data not stored",
+    "index": 12548,
+    "formular": "C18H19ClN4O2",
+    "molecular_weight": 358.822,
+    "inChl": "1S/C18H19ClN4O2/c1-21(2)9-10-22-17-8-7-15(23(24)25)12-16(17)20-18(22)11-13-3-5-14(19)6-4-13/h3-8,12H,9-11H2,1-2H3",
+    "InChl_Key": "ADOCTNYCDBOBBH-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCn1c(Cc2ccc(Cl)cc2)nc2cc([N+](=O)[O-])ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12548",
+    "validation": "m_weight unsave, calculated(358.8290000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "WO 2008/032164 #73",
+    "iupac_name": "3-[2-(Morpholin-4-yl)ethyl]-N-(naphthalen-1-yl)-2-oxo-2,3-dihydro-1H-benzimidazole-1-carboxamide",
+    "category": "cannabinodids",
+    "index": 4886,
+    "formular": "C24H24N4O3",
+    "molecular_weight": 416.472,
+    "inChl": "1S/C24H24N4O3/c29-23(25-20-9-5-7-18-6-1-2-8-19(18)20)28-22-11-4-3-10-21(22)27(24(28)30)13-12-26-14-16-31-17-15-26/h1-11H,12-17H2,(H,25,29)",
+    "InChl_Key": "ISVXIBNOIJJZGK-UHFFFAOYSA-N",
+    "SMILES": "O=C(Nc1cccc2ccccc12)n1c(=O)n(CCN2CCOCC2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4886",
+    "validation": "m_weight unsave, calculated(416.4810000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "6-(2-Fluorophenyl)-5-pentyl-N-(2-phenylpropan-2-yl)pyridine-3-carboxamide",
+    "iupac_name": "7777 ; C26H29FN2O ; 404.52",
+    "category": "cannabinodids",
+    "index": 7777,
+    "formular": "C26H29FN2O",
+    "molecular_weight": 404.52,
+    "inChl": "1S/C26H29FN2O/c1-4-5-7-12-19-17-20(18-28-24(19)22-15-10-11-16-23(22)27)25(30)29-26(2,3)21-13-8-6-9-14-21/h6,8-11,13-18H,4-5,7,12H2,1-3H3,(H,29,30)",
+    "InChl_Key": "QRZINGLGWZNJHY-UHFFFAOYSA-N",
+    "SMILES": "CCCCCc1cc(C(=O)NC(C)(C)c2ccccc2)cnc1-c1ccccc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7777",
+    "validation": "m_weight unsave, calculated(404.5290000000001)"
+}

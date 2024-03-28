@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-FMe-4-Cl-PEA ; \u03b1-Fluoromethyl-4-chlorophenethylamine ; FpCA",
+    "iupac_name": "1-(4-Chlorophenyl)-3-fluoropropan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10572,
+    "formular": "C9H11ClFN",
+    "molecular_weight": 187.642,
+    "inChl": "1S/C9H11ClFN/c10-8-3-1-7(2-4-8)5-9(12)6-11/h1-4,9H,5-6,12H2",
+    "InChl_Key": "BXLICFUSUZPSHT-UHFFFAOYSA-N",
+    "SMILES": "NC(CF)Cc1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10572",
+    "validation": "m_weight unsave, calculated(187.64499999999998)"
+}

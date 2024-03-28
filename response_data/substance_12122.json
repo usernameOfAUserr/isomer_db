@@ -1,0 +1,13 @@
+{
+    "names": "Armodafinil",
+    "iupac_name": "2-[(R)-Diphenylmethanesulfinyl]acetamide",
+    "category": "data not stored",
+    "index": 12122,
+    "formular": "C15H15NO2S",
+    "molecular_weight": 273.35,
+    "inChl": "1S/C15H15NO2S/c16-14(17)11-19(18)15(12-7-3-1-4-8-12)13-9-5-2-6-10-13/h1-10,15H,11H2,(H2,16,17)/t19-/m1/s1",
+    "InChl_Key": "YFGHCGITMMYXAQ-LJQANCHMSA-N",
+    "SMILES": "NC(=O)C[S@@](=O)C(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12122",
+    "validation": "m_weight unsave, calculated(273.357)"
+}

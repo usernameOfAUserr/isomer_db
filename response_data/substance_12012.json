@@ -1,0 +1,13 @@
+{
+    "names": "2-(2-Phenylethyl)cyclopropan-1-amine",
+    "iupac_name": "12012 ; C11H15N ; 161.244",
+    "category": "Phenetylamine",
+    "index": 12012,
+    "formular": "C11H15N",
+    "molecular_weight": 161.244,
+    "inChl": "1S/C11H15N/c12-11-8-10(11)7-6-9-4-2-1-3-5-9/h1-5,10-11H,6-8,12H2",
+    "InChl_Key": "WKRQUWCGWFBAQJ-UHFFFAOYSA-N",
+    "SMILES": "NC1CC1CCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12012",
+    "validation": "m_weight unsave, calculated(161.24800000000002)"
+}

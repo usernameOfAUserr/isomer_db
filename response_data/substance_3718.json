@@ -1,0 +1,13 @@
+{
+    "names": "Guanfacine",
+    "iupac_name": "N-Carbamimidoyl-2-(2,6-dichlorophenyl)acetamide",
+    "category": "data not stored",
+    "index": 3718,
+    "formular": "C9H9Cl2N3O",
+    "molecular_weight": 246.093,
+    "inChl": "1S/C9H9Cl2N3O/c10-6-2-1-3-7(11)5(6)4-8(15)14-9(12)13/h1-3H,4H2,(H4,12,13,14,15)",
+    "InChl_Key": "INJOMKTZOLKMBF-UHFFFAOYSA-N",
+    "SMILES": "N=C(N)NC(=O)Cc1c(Cl)cccc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3718",
+    "validation": "m_weight unsave, calculated(246.097)"
+}

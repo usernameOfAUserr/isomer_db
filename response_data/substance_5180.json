@@ -1,0 +1,13 @@
+{
+    "names": "4-Methyl-AMT ; 4-Methyl-\u03b1-methyltryptamine ; 4,\u03b1-DMT ; MP-809",
+    "iupac_name": "1-(4-Methyl-1H-indol-3-yl)propan-2-amine",
+    "category": "Tryptamine",
+    "index": 5180,
+    "formular": "C12H16N2",
+    "molecular_weight": 188.269,
+    "inChl": "1S/C12H16N2/c1-8-4-3-5-11-12(8)10(7-14-11)6-9(2)13/h3-5,7,9,14H,6,13H2,1-2H3",
+    "InChl_Key": "KEOYEGHPRBDSKD-UHFFFAOYSA-N",
+    "SMILES": "Cc1cccc2[nH]cc(CC(C)N)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5180",
+    "validation": "m_weight unsave, calculated(188.274)"
+}

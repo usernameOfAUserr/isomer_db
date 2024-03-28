@@ -1,0 +1,13 @@
+{
+    "names": "5H-DOM ; 2-Methoxy-4-methylamphetamine ; 2,4-MMA",
+    "iupac_name": "1-(2-Methoxy-4-methylphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 5502,
+    "formular": "C11H17NO",
+    "molecular_weight": 179.259,
+    "inChl": "1S/C11H17NO/c1-8-4-5-10(7-9(2)12)11(6-8)13-3/h4-6,9H,7,12H2,1-3H3",
+    "InChl_Key": "GCODSUWFMIHFEM-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C)ccc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5502",
+    "validation": "m_weight unsave, calculated(179.26299999999998)"
+}

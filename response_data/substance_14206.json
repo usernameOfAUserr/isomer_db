@@ -1,0 +1,13 @@
+{
+    "names": "25N-NBMe ; N-(2-Methylbenzyl)-4-nitro-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(2,5-Dimethoxy-4-nitrophenyl)-N-[(2-methylphenyl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 14206,
+    "formular": "C18H22N2O4",
+    "molecular_weight": 330.378,
+    "inChl": "1S/C18H22N2O4/c1-13-6-4-5-7-15(13)12-19-9-8-14-10-18(24-3)16(20(21)22)11-17(14)23-2/h4-7,10-11,19H,8-9,12H2,1-3H3",
+    "InChl_Key": "YMUYHMKHAUOYDK-UHFFFAOYSA-N",
+    "SMILES": "COc1cc([N+](=O)[O-])c(OC)cc1CCNCc1ccccc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14206",
+    "validation": "m_weight unsave, calculated(330.38400000000007)"
+}

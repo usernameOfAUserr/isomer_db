@@ -1,0 +1,13 @@
+{
+    "names": "1-(2-Phenylethyl)-4-(pyridin-2-yl)piperidin-4-yl acetate",
+    "iupac_name": "9137 ; C20H24N2O2 ; 324.417",
+    "category": "data not stored",
+    "index": 9137,
+    "formular": "C20H24N2O2",
+    "molecular_weight": 324.417,
+    "inChl": "1S/C20H24N2O2/c1-17(23)24-20(19-9-5-6-13-21-19)11-15-22(16-12-20)14-10-18-7-3-2-4-8-18/h2-9,13H,10-12,14-16H2,1H3",
+    "InChl_Key": "FOPAHIJJDRXZHE-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)OC1(c2ccccn2)CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9137",
+    "validation": "m_weight unsave, calculated(324.42400000000004)"
+}

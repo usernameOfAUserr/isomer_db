@@ -1,0 +1,13 @@
+{
+    "names": "5-[(3-Chloro-6-methyl-5,5-dioxo-6,11-dihydro-5H-5\u03bb6-dibenzo[c,f][1,2]thiazepin-11-yl)amino]pentanoic acid",
+    "iupac_name": "8448 ; C19H21ClN2O4S ; 408.899",
+    "category": "data not stored",
+    "index": 8448,
+    "formular": "C19H21ClN2O4S",
+    "molecular_weight": 408.899,
+    "inChl": "1S/C19H21ClN2O4S/c1-22-16-7-3-2-6-14(16)19(21-11-5-4-8-18(23)24)15-10-9-13(20)12-17(15)27(22,25)26/h2-3,6-7,9-10,12,19,21H,4-5,8,11H2,1H3,(H,23,24)",
+    "InChl_Key": "BYPYVXCZPZLHBO-UHFFFAOYSA-N",
+    "SMILES": "CN1c2ccccc2C(NCCCCC(=O)O)c2ccc(Cl)cc2S1(=O)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8448",
+    "validation": "m_weight unsave, calculated(408.9070000000002)"
+}

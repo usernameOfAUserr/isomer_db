@@ -1,0 +1,13 @@
+{
+    "names": "HBOX ; BOX",
+    "iupac_name": "7-Methoxy-2,3,4,5-tetrahydro-1-benzoxepin-4-amine",
+    "category": "Phenetylamine",
+    "index": 10081,
+    "formular": "C11H15NO2",
+    "molecular_weight": 193.242,
+    "inChl": "1S/C11H15NO2/c1-13-10-2-3-11-8(7-10)6-9(12)4-5-14-11/h2-3,7,9H,4-6,12H2,1H3",
+    "InChl_Key": "UJQFTKGYTPMNCX-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c(c1)CC(N)CCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10081",
+    "validation": "m_weight unsave, calculated(193.24599999999995)"
+}

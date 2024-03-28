@@ -1,0 +1,13 @@
+{
+    "names": "5-Carbamoyl-mor-T ; 5-Carbamoyl-mor-tryptamine",
+    "iupac_name": "3-[2-(Morpholin-4-yl)ethyl]-1H-indole-5-carboxamide",
+    "category": "Tryptamine",
+    "index": 5888,
+    "formular": "C15H19N3O2",
+    "molecular_weight": 273.33,
+    "inChl": "1S/C15H19N3O2/c16-15(19)11-1-2-14-13(9-11)12(10-17-14)3-4-18-5-7-20-8-6-18/h1-2,9-10,17H,3-8H2,(H2,16,19)",
+    "InChl_Key": "QMOCSCIIDCGORV-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)c1ccc2[nH]cc(CCN3CCOCC3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5888",
+    "validation": "m_weight unsave, calculated(273.33599999999984)"
+}

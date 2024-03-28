@@ -1,0 +1,13 @@
+{
+    "names": "N-(4-Methylphenyl)phenethylamine",
+    "iupac_name": "4-Methyl-N-(2-phenylethyl)aniline",
+    "category": "data not stored",
+    "index": 10364,
+    "formular": "C15H17N",
+    "molecular_weight": 211.302,
+    "inChl": "1S/C15H17N/c1-13-7-9-15(10-8-13)16-12-11-14-5-3-2-4-6-14/h2-10,16H,11-12H2,1H3",
+    "InChl_Key": "UJUIUSIMISOGNL-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(NCCc2ccccc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10364",
+    "validation": "m_weight unsave, calculated(211.30800000000002)"
+}

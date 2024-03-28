@@ -1,0 +1,13 @@
+{
+    "names": "Alphacetylmethadol",
+    "iupac_name": "rac-(3S,6R)-6-(Dimethylamino)-4,4-diphenylheptan-3-yl acetate",
+    "category": "data not stored",
+    "index": 13808,
+    "formular": "2C23H31NO2",
+    "molecular_weight": 706.995,
+    "inChl": "1S/2C23H31NO2/c2*1-6-22(26-19(3)25)23(17-18(2)24(4)5,20-13-9-7-10-14-20)21-15-11-8-12-16-21/h2*7-16,18,22H,6,17H2,1-5H3/t2*18-,22+/m10/s1",
+    "InChl_Key": "HYAUQUUCBMIXJW-UAILNNRFSA-N",
+    "SMILES": "CC[C@@H](OC(C)=O)C(C[C@H](C)N(C)C)(c1ccccc1)c1ccccc1.CC[C@H](OC(C)=O)C(C[C@@H](C)N(C)C)(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13808",
+    "validation": "m_weight unsave, calculated(707.0120000000002)formular unsave, calculated(C46H62N2O4)"
+}

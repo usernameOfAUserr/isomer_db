@@ -1,0 +1,13 @@
+{
+    "names": "2C-YN ; 4-Ethynyl-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(4-Ethynyl-2,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 5378,
+    "formular": "C12H15NO2",
+    "molecular_weight": 205.253,
+    "inChl": "1S/C12H15NO2/c1-4-9-7-12(15-3)10(5-6-13)8-11(9)14-2/h1,7-8H,5-6,13H2,2-3H3",
+    "InChl_Key": "MLJHHYIJBZVUEA-UHFFFAOYSA-N",
+    "SMILES": "C#Cc1cc(OC)c(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5378",
+    "validation": "m_weight unsave, calculated(205.25699999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-[4-(Ethylsulfanyl)phenyl]-N-hydroxy-N-methylpropan-2-amine",
+    "iupac_name": "1393 ; C12H19NOS ; 225.35",
+    "category": "data not stored",
+    "index": 1393,
+    "formular": "C12H19NOS",
+    "molecular_weight": 225.35,
+    "inChl": "1S/C12H19NOS/c1-4-15-12-7-5-11(6-8-12)9-10(2)13(3)14/h5-8,10,14H,4,9H2,1-3H3",
+    "InChl_Key": "RMYDTRNCYJXIEA-UHFFFAOYSA-N",
+    "SMILES": "CCSc1ccc(CC(C)N(C)O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1393",
+    "validation": "m_weight unsave, calculated(225.35699999999997)"
+}

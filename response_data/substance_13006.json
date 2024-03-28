@@ -1,0 +1,13 @@
+{
+    "names": "2-[(2H3)Methylamino]-2-phenylcyclohexan-1-one",
+    "iupac_name": "13006 ; C13H14D3NO ; 206.299",
+    "category": "Arylcycloalkylamine",
+    "index": 13006,
+    "formular": "C13H14D3NO",
+    "molecular_weight": 206.299,
+    "inChl": "1S/C13H17NO/c1-14-13(10-6-5-9-12(13)15)11-7-3-2-4-8-11/h2-4,7-8,14H,5-6,9-10H2,1H3/i1D3",
+    "InChl_Key": "ZAGBSZSITDFFAF-FIBGUPNXSA-N",
+    "SMILES": "[2H]C([2H])([2H])NC1(c2ccccc2)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13006",
+    "validation": "m_weight unsave, calculated(206.30330533400002)formular unsave, calculated(C13H17NO)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "PRO-LPD-824",
+    "iupac_name": "[(8\u03b2)-6-Propyl-9,10-didehydroergolin-8-yl](pyrrolidin-1-yl)methanone",
+    "category": "data not stored",
+    "index": 13752,
+    "formular": "C22H27N3O",
+    "molecular_weight": 349.469,
+    "inChl": "1S/C22H27N3O/c1-2-8-25-14-16(22(26)24-9-3-4-10-24)11-18-17-6-5-7-19-21(17)15(13-23-19)12-20(18)25/h5-7,11,13,16,20,23H,2-4,8-10,12,14H2,1H3/t16-,20-/m1/s1",
+    "InChl_Key": "RLVSWQXVYCIBSY-OXQOHEQNSA-N",
+    "SMILES": "CCCN1C[C@H](C(=O)N2CCCC2)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13752",
+    "validation": "m_weight unsave, calculated(349.4780000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Divinatorin B",
+    "iupac_name": "Methyl (4S,4aR,5S,8aR)-5-[2-(furan-3-yl)ethyl]-4-hydroxy-6-(hydroxymethyl)-5,8a-dimethyl-3,4,4a,5,6,7,8,8a-octahydronaphthalene-1-carboxylate",
+    "category": "data not stored",
+    "index": 3524,
+    "formular": "C21H30O5",
+    "molecular_weight": 362.46,
+    "inChl": "1S/C21H30O5/c1-20(9-6-14-8-11-26-13-14)15(12-22)7-10-21(2)16(19(24)25-3)4-5-17(23)18(20)21/h4,8,11,13,15,17-18,22-23H,5-7,9-10,12H2,1-3H3/t15?,17-,18+,20-,21-/m0/s1",
+    "InChl_Key": "ZCYNGZQSKJQXRJ-JMYUKNDZSA-N",
+    "SMILES": "COC(=O)C1=CC[C@H](O)[C@H]2[C@@]1(C)CCC(CO)[C@]2(C)CCc1ccoc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3524",
+    "validation": "m_weight unsave, calculated(362.4660000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Imuracetam",
+    "iupac_name": "N,N\u2032-Bis[(2-oxopyrrolidin-1-yl)methyl]urea",
+    "category": "data not stored",
+    "index": 9978,
+    "formular": "C11H18N4O3",
+    "molecular_weight": 254.286,
+    "inChl": "1S/C11H18N4O3/c16-9-3-1-5-14(9)7-12-11(18)13-8-15-6-2-4-10(15)17/h1-8H2,(H2,12,13,18)",
+    "InChl_Key": "WMKONRFEZGAHTE-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCN1CCCC1=O)NCN1CCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9978",
+    "validation": "m_weight unsave, calculated(254.28999999999996)"
+}

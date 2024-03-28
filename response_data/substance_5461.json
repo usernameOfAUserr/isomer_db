@@ -1,0 +1,13 @@
+{
+    "names": "1-Benzyl-AMT ; 1-Benzyl-\u03b1-methyltryptamine",
+    "iupac_name": "1-(1-Benzyl-1H-indol-3-yl)propan-2-amine",
+    "category": "Tryptamine",
+    "index": 5461,
+    "formular": "C18H20N2",
+    "molecular_weight": 264.365,
+    "inChl": "1S/C18H20N2/c1-14(19)11-16-13-20(12-15-7-3-2-4-8-15)18-10-6-5-9-17(16)18/h2-10,13-14H,11-12,19H2,1H3",
+    "InChl_Key": "GDRWQEOJSGTFNQ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1cn(Cc2ccccc2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5461",
+    "validation": "m_weight unsave, calculated(264.372)"
+}

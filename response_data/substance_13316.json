@@ -1,0 +1,13 @@
+{
+    "names": "AEP-CHMINACA",
+    "iupac_name": "N-[(2S)-1-Amino-1-oxopentan-2-yl]-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 13316,
+    "formular": "C20H28N4O2",
+    "molecular_weight": 356.462,
+    "inChl": "1S/C20H28N4O2/c1-2-8-16(19(21)25)22-20(26)18-15-11-6-7-12-17(15)24(23-18)13-14-9-4-3-5-10-14/h6-7,11-12,14,16H,2-5,8-10,13H2,1H3,(H2,21,25)(H,22,26)/t16-/m0/s1",
+    "InChl_Key": "FOGBYCHIDCWXCE-INIZCTEOSA-N",
+    "SMILES": "CCC[C@H](NC(=O)c1nn(CC2CCCCC2)c2ccccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13316",
+    "validation": "m_weight unsave, calculated(356.47000000000025)"
+}

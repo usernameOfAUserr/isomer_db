@@ -1,0 +1,13 @@
+{
+    "names": "CYN-LAD ; CYANOLAD",
+    "iupac_name": "6-Cyano-N,N-diethyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-7-Cyano-N,N-diethyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-6-Cyano-N,N-diethyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 9934,
+    "formular": "C20H22N4O",
+    "molecular_weight": 334.415,
+    "inChl": "1S/C20H22N4O/c1-3-23(4-2)20(25)14-8-16-15-6-5-7-17-19(15)13(10-22-17)9-18(16)24(11-14)12-21/h5-8,10,14,18,22H,3-4,9,11H2,1-2H3/t14-,18-/m1/s1",
+    "InChl_Key": "PRJLFXBNAZPHEJ-RDTXWAMCSA-N",
+    "SMILES": "CCN(CC)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C#N)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9934",
+    "validation": "m_weight unsave, calculated(334.4230000000001)"
+}

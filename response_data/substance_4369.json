@@ -1,0 +1,13 @@
+{
+    "names": "MPMI",
+    "iupac_name": "3-[(1-Methylpyrrolidin-2-yl)methyl]-1H-indole",
+    "category": "Tryptamine",
+    "index": 4369,
+    "formular": "C14H18N2",
+    "molecular_weight": 214.306,
+    "inChl": "1S/C14H18N2/c1-16-8-4-5-12(16)9-11-10-15-14-7-3-2-6-13(11)14/h2-3,6-7,10,12,15H,4-5,8-9H2,1H3",
+    "InChl_Key": "HCTCDEAMCNSARD-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCC1Cc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4369",
+    "validation": "m_weight unsave, calculated(214.312)"
+}

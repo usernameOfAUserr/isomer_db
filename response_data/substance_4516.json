@@ -1,0 +1,13 @@
+{
+    "names": "AMB-FUBICA ; MMB-FUBICA",
+    "iupac_name": "Methyl N-{1-[(4-fluorophenyl)methyl]-1H-indole-3-carbonyl}-L-valinate ; Methyl (2S)-2-({1-[(4-fluorophenyl)methyl]-1H-indole-3-carbonyl}amino)-3-methylbutanoate",
+    "category": "cannabinodids",
+    "index": 4516,
+    "formular": "C22H23FN2O3",
+    "molecular_weight": 382.428,
+    "inChl": "1S/C22H23FN2O3/c1-14(2)20(22(27)28-3)24-21(26)18-13-25(19-7-5-4-6-17(18)19)12-15-8-10-16(23)11-9-15/h4-11,13-14,20H,12H2,1-3H3,(H,24,26)/t20-/m0/s1",
+    "InChl_Key": "NYQOGZPXNJSYDW-FQEVSTJZSA-N",
+    "SMILES": "COC(=O)[C@@H](NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4516",
+    "validation": "m_weight unsave, calculated(382.4350000000001)"
+}

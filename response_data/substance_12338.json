@@ -1,0 +1,13 @@
+{
+    "names": "2C-T-2 acetaldehyde",
+    "iupac_name": "[4-(Ethylsulfanyl)-2,5-dimethoxyphenyl]acetaldehyde",
+    "category": "data not stored",
+    "index": 12338,
+    "formular": "C12H16O3S",
+    "molecular_weight": 240.319,
+    "inChl": "1S/C12H16O3S/c1-4-16-12-8-10(14-2)9(5-6-13)7-11(12)15-3/h6-8H,4-5H2,1-3H3",
+    "InChl_Key": "LJXHQSMMCRWLKN-UHFFFAOYSA-N",
+    "SMILES": "CCSc1cc(OC)c(CC=O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12338",
+    "validation": "m_weight unsave, calculated(240.32399999999996)"
+}

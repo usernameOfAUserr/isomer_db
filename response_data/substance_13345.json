@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-MIPT BOC",
+    "iupac_name": "tert-Butyl 5-methoxy-3-{2-[methyl(propan-2-yl)amino]ethyl}-1H-indole-1-carboxylate",
+    "category": "data not stored",
+    "index": 13345,
+    "formular": "C20H30N2O3",
+    "molecular_weight": 346.464,
+    "inChl": "1S/C20H30N2O3/c1-14(2)21(6)11-10-15-13-22(19(23)25-20(3,4)5)18-9-8-16(24-7)12-17(15)18/h8-9,12-14H,10-11H2,1-7H3",
+    "InChl_Key": "AMZWBTWBKOGMQS-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c(c1)c(CCN(C)C(C)C)cn2C(=O)OC(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13345",
+    "validation": "m_weight unsave, calculated(346.4710000000001)"
+}

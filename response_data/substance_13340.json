@@ -1,0 +1,13 @@
+{
+    "names": "CUMYL-INACA",
+    "iupac_name": "N-(2-Phenylpropan-2-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 13340,
+    "formular": "C17H17N3O",
+    "molecular_weight": 279.336,
+    "inChl": "1S/C17H17N3O/c1-17(2,12-8-4-3-5-9-12)18-16(21)15-13-10-6-7-11-14(13)19-20-15/h3-11H,1-2H3,(H,18,21)(H,19,20)",
+    "InChl_Key": "COOPWWXIRLDJCP-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1n[nH]c2ccccc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13340",
+    "validation": "m_weight unsave, calculated(279.3430000000001)"
+}

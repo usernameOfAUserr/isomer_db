@@ -1,0 +1,13 @@
+{
+    "names": "2-Methyl-AMT ; 2-Methyl-\u03b1-methyltryptamine ; Alpha-2 ; 2,\u03b1-DMT ; 2,\u03b1-Dimethyltryptamine ; Indole, 2-methyl-3-(2-amino)propane ; 2-Me-\u03b1-MT ; 2-Methyl-3-(2-amino)propylindole ; Tryptamine, 2,\u03b1-dimethyl",
+    "iupac_name": "1-(2-Methyl-1H-indol-3-yl)propan-2-amine",
+    "category": "Tryptamine",
+    "index": 5007,
+    "formular": "C12H16N2",
+    "molecular_weight": 188.269,
+    "inChl": "1S/C12H16N2/c1-8(13)7-11-9(2)14-12-6-4-3-5-10(11)12/h3-6,8,14H,7,13H2,1-2H3",
+    "InChl_Key": "AXZQFXRPULJFQK-UHFFFAOYSA-N",
+    "SMILES": "Cc1[nH]c2ccccc2c1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5007",
+    "validation": "m_weight unsave, calculated(188.274)"
+}

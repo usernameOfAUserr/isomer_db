@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Hydroxy-furanylfentanyl",
+    "iupac_name": "N-[1-(2-Hydroxy-2-phenylethyl)piperidin-4-yl]-N-phenylfuran-2-carboxamide",
+    "category": "Fentanyl",
+    "index": 11461,
+    "formular": "C24H26N2O3",
+    "molecular_weight": 390.475,
+    "inChl": "1S/C24H26N2O3/c27-22(19-8-3-1-4-9-19)18-25-15-13-21(14-16-25)26(20-10-5-2-6-11-20)24(28)23-12-7-17-29-23/h1-12,17,21-22,27H,13-16,18H2",
+    "InChl_Key": "SNLHFGFNAMRQKF-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccco1)N(c1ccccc1)C1CCN(CC(O)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11461",
+    "validation": "m_weight unsave, calculated(390.483)"
+}

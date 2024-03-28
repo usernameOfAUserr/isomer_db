@@ -1,0 +1,13 @@
+{
+    "names": "DON-Ac ; N-Acetyl-4-nitro-2,5-dimethoxyamphetamine",
+    "iupac_name": "N-[1-(2,5-Dimethoxy-4-nitrophenyl)propan-2-yl]acetamide",
+    "category": "Shulgin_Index",
+    "index": 7204,
+    "formular": "C13H18N2O5",
+    "molecular_weight": 282.292,
+    "inChl": "1S/C13H18N2O5/c1-8(14-9(2)16)5-10-6-13(20-4)11(15(17)18)7-12(10)19-3/h6-8H,5H2,1-4H3,(H,14,16)",
+    "InChl_Key": "VDFHKWJVOLLLPO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc([N+](=O)[O-])c(OC)cc1CC(C)NC(C)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7204",
+    "validation": "m_weight unsave, calculated(282.29600000000005)"
+}

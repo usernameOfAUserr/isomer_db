@@ -1,0 +1,13 @@
+{
+    "names": "N-(m-Hydroxymethyl)phenylpiperidine",
+    "iupac_name": "[3-(Piperidin-1-yl)phenyl]methanol",
+    "category": "data not stored",
+    "index": 14529,
+    "formular": "C12H17NO",
+    "molecular_weight": 191.269,
+    "inChl": "1S/C12H17NO/c14-10-11-5-4-6-12(9-11)13-7-2-1-3-8-13/h4-6,9,14H,1-3,7-8,10H2",
+    "InChl_Key": "HNESBVGXCDQHLJ-UHFFFAOYSA-N",
+    "SMILES": "OCc1cccc(N2CCCCC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14529",
+    "validation": "m_weight unsave, calculated(191.27399999999992)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "MADAM-2 ; N,2-Dimethyl-3,4-methylenedioxyamphetamine",
+    "iupac_name": "N-Methyl-1-(4-methyl-2H-1,3-benzodioxol-5-yl)propan-2-amine ; N-Methyl-1-(4-methyl-1,3-benzodioxol-5-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 2147,
+    "formular": "C12H17NO2",
+    "molecular_weight": 207.269,
+    "inChl": "1S/C12H17NO2/c1-8(13-3)6-10-4-5-11-12(9(10)2)15-7-14-11/h4-5,8,13H,6-7H2,1-3H3",
+    "InChl_Key": "VVYKVRVKEJMJSV-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1ccc2c(c1C)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2147",
+    "validation": "m_weight unsave, calculated(207.27299999999997)"
+}

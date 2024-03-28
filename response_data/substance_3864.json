@@ -1,0 +1,13 @@
+{
+    "names": "Benzoylecgonine",
+    "iupac_name": "(2R,3S)-3-(Benzoyloxy)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylic acid",
+    "category": "data not stored",
+    "index": 3864,
+    "formular": "C16H19NO4",
+    "molecular_weight": 289.326,
+    "inChl": "1S/C16H19NO4/c1-17-11-7-8-12(17)14(15(18)19)13(9-11)21-16(20)10-5-3-2-4-6-10/h2-6,11-14H,7-9H2,1H3,(H,18,19)/t11?,12?,13-,14+/m0/s1",
+    "InChl_Key": "GVGYEFKIHJTNQZ-CLRIEMFWSA-N",
+    "SMILES": "CN1C2CCC1[C@@H](C(=O)O)[C@@H](OC(=O)c1ccccc1)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3864",
+    "validation": "m_weight unsave, calculated(289.331)"
+}

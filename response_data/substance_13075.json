@@ -1,0 +1,13 @@
+{
+    "names": "[2-(4-Chlorophenyl)prop-2-en-1-yl]hydrazine",
+    "iupac_name": "13075 ; C9H11ClN2 ; 182.65",
+    "category": "data not stored",
+    "index": 13075,
+    "formular": "C9H11ClN2",
+    "molecular_weight": 182.65,
+    "inChl": "1S/C9H11ClN2/c1-7(6-12-11)8-2-4-9(10)5-3-8/h2-5,12H,1,6,11H2",
+    "InChl_Key": "KKCKEQJPBGUVEQ-UHFFFAOYSA-N",
+    "SMILES": "C=C(CNN)c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13075",
+    "validation": ""
+}

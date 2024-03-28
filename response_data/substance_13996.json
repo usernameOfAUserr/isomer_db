@@ -1,0 +1,13 @@
+{
+    "names": "Quinolin-8-yl 1-(4-fluoropentyl)-1H-indazole-3-carboxylate",
+    "iupac_name": "13996 ; C22H20FN3O2 ; 377.412",
+    "category": "cannabinodids",
+    "index": 13996,
+    "formular": "C22H20FN3O2",
+    "molecular_weight": 377.412,
+    "inChl": "1S/C22H20FN3O2/c1-15(23)7-6-14-26-18-11-3-2-10-17(18)21(25-26)22(27)28-19-12-4-8-16-9-5-13-24-20(16)19/h2-5,8-13,15H,6-7,14H2,1H3",
+    "InChl_Key": "FDXKFCSTBCWEOF-UHFFFAOYSA-N",
+    "SMILES": "CC(F)CCCn1nc(C(=O)Oc2cccc3cccnc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13996",
+    "validation": "m_weight unsave, calculated(377.4190000000001)"
+}

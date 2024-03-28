@@ -1,0 +1,13 @@
+{
+    "names": "PZM-27",
+    "iupac_name": "(2S)-N-(Cyclopropylmethyl)-1-(4-hydroxyphenyl)-N-methyl-3-({[(2S)-1-(thiophen-3-yl)propan-2-yl]carbamoyl}amino)propan-2-aminium",
+    "category": "data not stored",
+    "index": 11824,
+    "formular": "C22H31N3O2S",
+    "molecular_weight": 401.565,
+    "inChl": "1S/C22H31N3O2S/c1-16(11-19-9-10-28-15-19)24-22(27)23-13-20(25(2)14-18-3-4-18)12-17-5-7-21(26)8-6-17/h5-10,15-16,18,20,26H,3-4,11-14H2,1-2H3,(H2,23,24,27)/p+1/t16-,20-/m0/s1",
+    "InChl_Key": "PLGMVQYVBKZUBK-JXFKEZNVSA-O",
+    "SMILES": "C[C@@H](Cc1ccsc1)NC(=O)NC[C@H](Cc1ccc(O)cc1)[NH+](C)CC1CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11824",
+    "validation": "m_weight unsave, calculated(402.58400000000023)formular unsave, calculated(C22H32N3O2S+)"
+}

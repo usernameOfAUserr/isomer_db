@@ -1,0 +1,13 @@
+{
+    "names": "6F-AB-HINACA",
+    "iupac_name": "N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1-(6-fluorohexyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 8070,
+    "formular": "C19H27FN4O2",
+    "molecular_weight": 362.442,
+    "inChl": "1S/C19H27FN4O2/c1-13(2)16(18(21)25)22-19(26)17-14-9-5-6-10-15(14)24(23-17)12-8-4-3-7-11-20/h5-6,9-10,13,16H,3-4,7-8,11-12H2,1-2H3,(H2,21,25)(H,22,26)/t16-/m0/s1",
+    "InChl_Key": "BKBQEPPCAFGQPP-INIZCTEOSA-N",
+    "SMILES": "CC(C)[C@H](NC(=O)c1nn(CCCCCCF)c2ccccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8070",
+    "validation": "m_weight unsave, calculated(362.4490000000001)"
+}

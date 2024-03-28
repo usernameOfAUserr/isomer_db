@@ -1,0 +1,13 @@
+{
+    "names": "4-AcO-PIPT ; 4-Acetoxy-N-propyl-N-isopropyltryptamine",
+    "iupac_name": "3-{2-[(Propan-2-yl)(propyl)amino]ethyl}-1H-indol-4-yl acetate",
+    "category": "Tryptamine",
+    "index": 13169,
+    "formular": "C18H26N2O2",
+    "molecular_weight": 302.411,
+    "inChl": "1S/C18H26N2O2/c1-5-10-20(13(2)3)11-9-15-12-19-16-7-6-8-17(18(15)16)22-14(4)21/h6-8,12-13,19H,5,9-11H2,1-4H3",
+    "InChl_Key": "CNGCYOYLGRGRQJ-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCc1c[nH]c2cccc(OC(C)=O)c12)C(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13169",
+    "validation": "m_weight unsave, calculated(302.41800000000006)"
+}

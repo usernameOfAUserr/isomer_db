@@ -1,0 +1,13 @@
+{
+    "names": "Phenylacetaldehyde ; Hyacinthin ; Phenylethanal",
+    "iupac_name": "Phenylacetaldehyde",
+    "category": "data not stored",
+    "index": 1873,
+    "formular": "C8H8O",
+    "molecular_weight": 120.149,
+    "inChl": "1S/C8H8O/c9-7-6-8-4-2-1-3-5-8/h1-5,7H,6H2",
+    "InChl_Key": "DTUQWGWMVIHBKE-UHFFFAOYSA-N",
+    "SMILES": "O=CCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1873",
+    "validation": "m_weight unsave, calculated(120.15099999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2C-3-COOH methyl amide ; \u03b2-Carboline-3-carboxylic acid methyl amide ; FG-7142 ; ZK-31906",
+    "iupac_name": "N-Methyl-9H-pyrido[3,4-b]indole-3-carboxamide ; N-Methyl-9H-\u03b2-carboline-3-carboxamide",
+    "category": "data not stored",
+    "index": 5444,
+    "formular": "C13H11N3O",
+    "molecular_weight": 225.246,
+    "inChl": "1S/C13H11N3O/c1-14-13(17)11-6-9-8-4-2-3-5-10(8)16-12(9)7-15-11/h2-7,16H,1H3,(H,14,17)",
+    "InChl_Key": "QMCOPDWHWYSJSA-UHFFFAOYSA-N",
+    "SMILES": "CNC(=O)c1cc2c(cn1)[nH]c1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5444",
+    "validation": "m_weight unsave, calculated(225.25100000000003)"
+}

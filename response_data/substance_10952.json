@@ -1,0 +1,13 @@
+{
+    "names": "1-Amino-2-(thiophen-2-yl)propan-2-ol",
+    "iupac_name": "10952 ; C7H11NOS ; 157.233",
+    "category": "Phenetylamine",
+    "index": 10952,
+    "formular": "C7H11NOS",
+    "molecular_weight": 157.233,
+    "inChl": "1S/C7H11NOS/c1-7(9,5-8)6-3-2-4-10-6/h2-4,9H,5,8H2,1H3",
+    "InChl_Key": "ZJJKSRKFQJJIKJ-UHFFFAOYSA-N",
+    "SMILES": "CC(O)(CN)c1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10952",
+    "validation": "m_weight unsave, calculated(157.23799999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Indane",
+    "iupac_name": "2,3-Dihydro-1H-indene",
+    "category": "data not stored",
+    "index": 3939,
+    "formular": "C9H10",
+    "molecular_weight": 118.176,
+    "inChl": "1S/C9H10/c1-2-5-9-7-3-6-8(9)4-1/h1-2,4-5H,3,6-7H2",
+    "InChl_Key": "PQNFLJBBNBOBRQ-UHFFFAOYSA-N",
+    "SMILES": "c1ccc2c(c1)CCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3939",
+    "validation": "m_weight unsave, calculated(118.17899999999996)"
+}

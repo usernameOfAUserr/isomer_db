@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 1-[5-(oxolan-2-yl)pentyl]-4-phenylpiperidine-4-carboxylate",
+    "iupac_name": "9081 ; C23H35NO3 ; 373.529",
+    "category": "data not stored",
+    "index": 9081,
+    "formular": "C23H35NO3",
+    "molecular_weight": 373.529,
+    "inChl": "1S/C23H35NO3/c1-2-26-22(25)23(20-10-5-3-6-11-20)14-17-24(18-15-23)16-8-4-7-12-21-13-9-19-27-21/h3,5-6,10-11,21H,2,4,7-9,12-19H2,1H3",
+    "InChl_Key": "XQDDBZPLKHZVKW-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CCCCCC2CCCO2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9081",
+    "validation": "m_weight unsave, calculated(373.53700000000003)"
+}

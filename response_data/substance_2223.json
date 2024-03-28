@@ -1,0 +1,13 @@
+{
+    "names": "N-Acetylanhalamine ; 2-Acetyl-8-hydroxy-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline",
+    "iupac_name": "1-(8-Hydroxy-6,7-dimethoxy-3,4-dihydroisoquinolin-2(1H)-yl)ethan-1-one ; 1-(8-Hydroxy-6,7-dimethoxy-3,4-dihydroisoquinolin-2(1H)-yl)ethanone",
+    "category": "Peyote alkaloid",
+    "index": 2223,
+    "formular": "C13H17NO4",
+    "molecular_weight": 251.278,
+    "inChl": "1S/C13H17NO4/c1-8(15)14-5-4-9-6-11(17-2)13(18-3)12(16)10(9)7-14/h6,16H,4-5,7H2,1-3H3",
+    "InChl_Key": "WMZAOQCUUOUCRY-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(c(O)c1OC)CN(C(C)=O)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2223",
+    "validation": "m_weight unsave, calculated(251.28199999999993)"
+}

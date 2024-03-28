@@ -1,0 +1,13 @@
+{
+    "names": "1-[3-(2-Aminoethyl)-1H-indol-5-yl]-2-phenylethan-1-one",
+    "iupac_name": "14722 ; C18H18N2O ; 278.348",
+    "category": "Tryptamine",
+    "index": 14722,
+    "formular": "C18H18N2O",
+    "molecular_weight": 278.348,
+    "inChl": "1S/C18H18N2O/c19-9-8-15-12-20-17-7-6-14(11-16(15)17)18(21)10-13-4-2-1-3-5-13/h1-7,11-12,20H,8-10,19H2",
+    "InChl_Key": "AYQZWXOUOIMUPV-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2ccc(C(=O)Cc3ccccc3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14722",
+    "validation": "m_weight unsave, calculated(278.35499999999996)"
+}

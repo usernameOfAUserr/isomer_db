@@ -1,0 +1,13 @@
+{
+    "names": "7-Chloropsilocin ; 7-Chloro-4-hydroxy-N,N-dimethyltryptamine",
+    "iupac_name": "7-Chloro-3-[2-(dimethylamino)ethyl]-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 14493,
+    "formular": "C12H15ClN2O",
+    "molecular_weight": 238.713,
+    "inChl": "1S/C12H15ClN2O/c1-15(2)6-5-8-7-14-12-9(13)3-4-10(16)11(8)12/h3-4,7,14,16H,5-6H2,1-2H3",
+    "InChl_Key": "VDRKJUCVOKIQED-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2c(Cl)ccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14493",
+    "validation": "m_weight unsave, calculated(238.718)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Nimetazepam",
+    "iupac_name": "1-Methyl-7-nitro-5-phenyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one",
+    "category": "Aryldiazepine",
+    "index": 3024,
+    "formular": "C16H13N3O3",
+    "molecular_weight": 295.293,
+    "inChl": "1S/C16H13N3O3/c1-18-14-8-7-12(19(21)22)9-13(14)16(17-10-15(18)20)11-5-3-2-4-6-11/h2-9H,10H2,1H3",
+    "InChl_Key": "GWUSZQUVEVMBPI-UHFFFAOYSA-N",
+    "SMILES": "CN1C(=O)CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3024",
+    "validation": "m_weight unsave, calculated(295.298)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "URB-597 ; KDS-4103",
+    "iupac_name": "3\u2032-Carbamoyl[1,1\u2032-biphenyl]-3-yl cyclohexylcarbamate",
+    "category": "cannabinodids",
+    "index": 4726,
+    "formular": "C20H22N2O3",
+    "molecular_weight": 338.4,
+    "inChl": "1S/C20H22N2O3/c21-19(23)16-8-4-6-14(12-16)15-7-5-11-18(13-15)25-20(24)22-17-9-2-1-3-10-17/h4-8,11-13,17H,1-3,9-10H2,(H2,21,23)(H,22,24)",
+    "InChl_Key": "ROFVXGGUISEHAM-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)c1cccc(-c2cccc(OC(=O)NC3CCCCC3)c2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4726",
+    "validation": "m_weight unsave, calculated(338.4070000000002)"
+}

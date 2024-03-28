@@ -1,0 +1,13 @@
+{
+    "names": "1-[2,5-Dimethoxy-3-(3-phenylpropyl)phenyl]propan-2-amine",
+    "iupac_name": "12200 ; C20H27NO2 ; 313.434",
+    "category": "Phenetylamine",
+    "index": 12200,
+    "formular": "C20H27NO2",
+    "molecular_weight": 313.434,
+    "inChl": "1S/C20H27NO2/c1-15(21)12-18-14-19(22-2)13-17(20(18)23-3)11-7-10-16-8-5-4-6-9-16/h4-6,8-9,13-15H,7,10-12,21H2,1-3H3",
+    "InChl_Key": "UKGSCGQPKOWVLI-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCCc2ccccc2)c(OC)c(CC(C)N)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12200",
+    "validation": "m_weight unsave, calculated(313.4410000000001)"
+}

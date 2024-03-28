@@ -1,0 +1,13 @@
+{
+    "names": "Arimistan",
+    "iupac_name": "Androsta-3,5-diene-7,17-dione ; (8R,9S,10R,13S,14S)-10,13-Dimethyl-9,10,11,12,13,14,15,16-octahydro-1H-cyclopenta[a]phenanthrene-7,17(2H,8H)-dione",
+    "category": "data not stored",
+    "index": 13212,
+    "formular": "C19H24O2",
+    "molecular_weight": 284.393,
+    "inChl": "1S/C19H24O2/c1-18-9-4-3-5-12(18)11-15(20)17-13-6-7-16(21)19(13,2)10-8-14(17)18/h3,5,11,13-14,17H,4,6-10H2,1-2H3/t13-,14-,17-,18-,19-/m0/s1",
+    "InChl_Key": "VHDOTNMSJDQVEE-ZENYQMPMSA-N",
+    "SMILES": "C[C@]12CCC=CC1=CC(=O)[C@@H]1[C@@H]2CC[C@]2(C)C(=O)CC[C@@H]12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13212",
+    "validation": "m_weight unsave, calculated(284.399)"
+}

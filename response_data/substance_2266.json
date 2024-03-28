@@ -1,0 +1,13 @@
+{
+    "names": "Longimammamine",
+    "iupac_name": "2-Methyl-1,2,3,4-tetrahydroisoquinoline-5,8-diol",
+    "category": "data not stored",
+    "index": 2266,
+    "formular": "C10H13NO2",
+    "molecular_weight": 179.216,
+    "inChl": "1S/C10H13NO2/c1-11-5-4-7-8(6-11)10(13)3-2-9(7)12/h2-3,12-13H,4-6H2,1H3",
+    "InChl_Key": "VJUXRRVFQXPNGO-UHFFFAOYSA-N",
+    "SMILES": "CN1CCc2c(O)ccc(O)c2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2266",
+    "validation": "m_weight unsave, calculated(179.219)"
+}

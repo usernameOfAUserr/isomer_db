@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-T-NB3Me ; N-(3-Methylbenzyl)-5-methoxytryptamine",
+    "iupac_name": "2-(5-Methoxy-1H-indol-3-yl)-N-[(3-methylphenyl)methyl]ethan-1-amine ; 2-(5-Methoxy-1H-indol-3-yl)-N-(3-methylbenzyl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 1158,
+    "formular": "C19H22N2O",
+    "molecular_weight": 294.391,
+    "inChl": "1S/C19H22N2O/c1-14-4-3-5-15(10-14)12-20-9-8-16-13-21-19-7-6-17(22-2)11-18(16)19/h3-7,10-11,13,20-21H,8-9,12H2,1-2H3",
+    "InChl_Key": "WCPCOZYXNZHAMM-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCNCc3cccc(C)c3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1158",
+    "validation": "m_weight unsave, calculated(294.39799999999997)"
+}

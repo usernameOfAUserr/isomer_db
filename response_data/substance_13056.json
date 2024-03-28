@@ -1,0 +1,13 @@
+{
+    "names": "5,6-Dihydro-4H-pyrrolo[3,2,1-ij]quinolin-5-amine",
+    "iupac_name": "13056 ; C11H12N2 ; 172.226",
+    "category": "data not stored",
+    "index": 13056,
+    "formular": "C11H12N2",
+    "molecular_weight": 172.226,
+    "inChl": "1S/C11H12N2/c12-10-6-9-3-1-2-8-4-5-13(7-10)11(8)9/h1-5,10H,6-7,12H2",
+    "InChl_Key": "CXUNSONYXKCCJI-UHFFFAOYSA-N",
+    "SMILES": "NC1Cc2cccc3ccn(c23)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13056",
+    "validation": "m_weight unsave, calculated(172.23099999999997)"
+}

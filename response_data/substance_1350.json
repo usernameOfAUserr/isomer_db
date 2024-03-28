@@ -1,0 +1,13 @@
+{
+    "names": "4-{1-Hydroxy-2-[(3-hydroxypropyl)amino]ethyl}benzene-1,2-diol",
+    "iupac_name": "1350 ; C11H17NO4 ; 227.257",
+    "category": "data not stored",
+    "index": 1350,
+    "formular": "C11H17NO4",
+    "molecular_weight": 227.257,
+    "inChl": "1S/C11H17NO4/c13-5-1-4-12-7-11(16)8-2-3-9(14)10(15)6-8/h2-3,6,11-16H,1,4-5,7H2",
+    "InChl_Key": "GNCYSXKWDZSSND-UHFFFAOYSA-N",
+    "SMILES": "OCCCNCC(O)c1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1350",
+    "validation": "m_weight unsave, calculated(227.26)"
+}

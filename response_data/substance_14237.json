@@ -1,0 +1,13 @@
+{
+    "names": "MEPEA-NM1Nap",
+    "iupac_name": "2-(4-Ethoxy-3-methoxyphenyl)-N-[(naphthalen-1-yl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 14237,
+    "formular": "C22H25NO2",
+    "molecular_weight": 335.439,
+    "inChl": "1S/C22H25NO2/c1-3-25-21-12-11-17(15-22(21)24-2)13-14-23-16-19-9-6-8-18-7-4-5-10-20(18)19/h4-12,15,23H,3,13-14,16H2,1-2H3",
+    "InChl_Key": "VATVFOTVRKOPDF-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(CCNCc2cccc3ccccc23)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14237",
+    "validation": "m_weight unsave, calculated(335.447)"
+}

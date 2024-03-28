@@ -1,0 +1,13 @@
+{
+    "names": "1-(5-Bromothiophen-2-yl)-2-(tert-butylamino)ethan-1-ol",
+    "iupac_name": "12141 ; C10H16BrNOS ; 278.209",
+    "category": "Phenetylamine",
+    "index": 12141,
+    "formular": "C10H16BrNOS",
+    "molecular_weight": 278.209,
+    "inChl": "1S/C10H16BrNOS/c1-10(2,3)12-6-7(13)8-4-5-9(11)14-8/h4-5,7,12-13H,6H2,1-3H3",
+    "InChl_Key": "ZYEBIXIZJRKPDP-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(C)NCC(O)c1ccc(Br)s1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12141",
+    "validation": "m_weight unsave, calculated(278.21500000000003)"
+}

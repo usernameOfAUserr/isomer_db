@@ -1,0 +1,13 @@
+{
+    "names": "[4-(Hexyloxy)naphthalen-1-yl](naphthalen-1-yl)methanone",
+    "iupac_name": "8156 ; C27H26O2 ; 382.494",
+    "category": "cannabinodids",
+    "index": 8156,
+    "formular": "C27H26O2",
+    "molecular_weight": 382.494,
+    "inChl": "1S/C27H26O2/c1-2-3-4-9-19-29-26-18-17-25(22-14-7-8-15-23(22)26)27(28)24-16-10-12-20-11-5-6-13-21(20)24/h5-8,10-18H,2-4,9,19H2,1H3",
+    "InChl_Key": "CWUOLTVQXBFROF-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCOc1ccc(C(=O)c2cccc3ccccc23)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8156",
+    "validation": "m_weight unsave, calculated(382.5030000000001)"
+}

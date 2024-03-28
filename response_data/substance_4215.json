@@ -1,0 +1,13 @@
+{
+    "names": "5F-AMPPPCA",
+    "iupac_name": "N-(Adamantan-1-yl)-1-(5-fluoropentyl)-4-methyl-5-phenyl-1H-pyrazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4215,
+    "formular": "C26H34FN3O",
+    "molecular_weight": 423.566,
+    "inChl": "1S/C26H34FN3O/c1-18-23(25(31)28-26-15-19-12-20(16-26)14-21(13-19)17-26)29-30(11-7-3-6-10-27)24(18)22-8-4-2-5-9-22/h2,4-5,8-9,19-21H,3,6-7,10-17H2,1H3,(H,28,31)",
+    "InChl_Key": "CAFVIJYBTPIWFD-UHFFFAOYSA-N",
+    "SMILES": "Cc1c(C(=O)NC23CC4CC(CC(C4)C2)C3)nn(CCCCCF)c1-c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4215",
+    "validation": "m_weight unsave, calculated(423.57600000000036)"
+}

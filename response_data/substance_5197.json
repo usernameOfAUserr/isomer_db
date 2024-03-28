@@ -1,0 +1,13 @@
+{
+    "names": "Bufotalin",
+    "iupac_name": "16\u03b2-(Acetyloxy)-3\u03b2,14-dihydroxy-5\u03b2-bufa-20,22-dienolide ; (3S,5R,8R,9S,10S,13R,14S,16S,17R)-3,14-Dihydroxy-10,13-dimethyl-17-(2-oxo-2H-pyran-5-yl)hexadecahydro-1H-cyclopenta[a]phenanthren-16-yl acetate ; (3\u03b2,5\u03b2,16\u03b2)-16-(Acetyloxy)-3,14-dihydroxybufa-20,22-dienolide",
+    "category": "data not stored",
+    "index": 5197,
+    "formular": "C26H36O6",
+    "molecular_weight": 444.56,
+    "inChl": "1S/C26H36O6/c1-15(27)32-21-13-26(30)20-6-5-17-12-18(28)8-10-24(17,2)19(20)9-11-25(26,3)23(21)16-4-7-22(29)31-14-16/h4,7,14,17-21,23,28,30H,5-6,8-13H2,1-3H3/t17-,18+,19+,20-,21+,23+,24+,25-,26+/m1/s1",
+    "InChl_Key": "VOZHMAYHYHEWBW-NVOOAVKYSA-N",
+    "SMILES": "CC(=O)O[C@H]1C[C@]2(O)[C@@H]3CC[C@@H]4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]2(C)[C@H]1c1ccc(=O)oc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5197",
+    "validation": "m_weight unsave, calculated(444.5680000000002)"
+}

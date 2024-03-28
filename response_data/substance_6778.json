@@ -1,0 +1,13 @@
+{
+    "names": "1-[4-(Butan-2-yl)-2,5-dimethoxyphenyl]ethan-1-one",
+    "iupac_name": "6778 ; C14H20O3 ; 236.307",
+    "category": "data not stored",
+    "index": 6778,
+    "formular": "C14H20O3",
+    "molecular_weight": 236.307,
+    "inChl": "1S/C14H20O3/c1-6-9(2)11-7-14(17-5)12(10(3)15)8-13(11)16-4/h7-9H,6H2,1-5H3",
+    "InChl_Key": "ZOYWUKVPNLNOEO-UHFFFAOYSA-N",
+    "SMILES": "CCC(C)c1cc(OC)c(C(C)=O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6778",
+    "validation": "m_weight unsave, calculated(236.31099999999995)"
+}

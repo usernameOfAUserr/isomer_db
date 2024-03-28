@@ -1,0 +1,13 @@
+{
+    "names": "BOE ; \u03b2-Methoxy-4-ethyl-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(4-Ethyl-2,5-dimethoxyphenyl)-2-methoxyethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7262,
+    "formular": "C13H21NO3",
+    "molecular_weight": 239.311,
+    "inChl": "1S/C13H21NO3/c1-5-9-6-12(16-3)10(7-11(9)15-2)13(8-14)17-4/h6-7,13H,5,8,14H2,1-4H3",
+    "InChl_Key": "IJTKRVQOZAXRFT-UHFFFAOYSA-N",
+    "SMILES": "CCc1cc(OC)c(C(CN)OC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7262",
+    "validation": "m_weight unsave, calculated(239.31499999999994)"
+}

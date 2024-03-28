@@ -1,0 +1,13 @@
+{
+    "names": "TH-PBP",
+    "iupac_name": "2-(Pyrrolidin-1-yl)-1-(5,6,7,8-tetrahydronaphthalen-2-yl)butan-1-one",
+    "category": "data not stored",
+    "index": 2991,
+    "formular": "C18H25NO",
+    "molecular_weight": 271.397,
+    "inChl": "1S/C18H25NO/c1-2-17(19-11-5-6-12-19)18(20)16-10-9-14-7-3-4-8-15(14)13-16/h9-10,13,17H,2-8,11-12H2,1H3",
+    "InChl_Key": "DNKYSKGKPOHTKY-UHFFFAOYSA-N",
+    "SMILES": "CCC(C(=O)c1ccc2c(c1)CCCC2)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2991",
+    "validation": "m_weight unsave, calculated(271.40399999999994)"
+}

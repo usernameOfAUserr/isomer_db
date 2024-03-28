@@ -1,0 +1,13 @@
+{
+    "names": "N,N,5-TMT-4,7-dione ;  5-Methylpsilocin quinone ; 5-Me-DMT-4,7-dione",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-5-methyl-3a,7a-dihydro-1H-indole-4,7-dione",
+    "category": "data not stored",
+    "index": 13849,
+    "formular": "C13H18N2O2",
+    "molecular_weight": 234.294,
+    "inChl": "1S/C13H18N2O2/c1-8-6-10(16)12-11(13(8)17)9(7-14-12)4-5-15(2)3/h6-7,11-12,14H,4-5H2,1-3H3",
+    "InChl_Key": "QWWYBONFORMXPT-UHFFFAOYSA-N",
+    "SMILES": "CC1=CC(=O)C2NC=C(CCN(C)C)C2C1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13849",
+    "validation": "m_weight unsave, calculated(234.29899999999995)"
+}

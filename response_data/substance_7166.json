@@ -1,0 +1,13 @@
+{
+    "names": "2,5-INHA ; N-Hydroxy-4-iodo-2,5-dimethoxyamphetamine",
+    "iupac_name": "N-Hydroxy-1-(4-iodo-2,5-dimethoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7166,
+    "formular": "C11H16INO3",
+    "molecular_weight": 337.154,
+    "inChl": "1S/C11H16INO3/c1-7(13-14)4-8-5-11(16-3)9(12)6-10(8)15-2/h5-7,13-14H,4H2,1-3H3",
+    "InChl_Key": "NCMQBVDCEKNHMV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)NO)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7166",
+    "validation": "m_weight unsave, calculated(337.157)"
+}

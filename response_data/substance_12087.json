@@ -1,0 +1,13 @@
+{
+    "names": "4,4-Diphenylbutan-1-amine",
+    "iupac_name": "12087 ; C16H19N ; 225.329",
+    "category": "Phenetylamine",
+    "index": 12087,
+    "formular": "C16H19N",
+    "molecular_weight": 225.329,
+    "inChl": "1S/C16H19N/c17-13-7-12-16(14-8-3-1-4-9-14)15-10-5-2-6-11-15/h1-6,8-11,16H,7,12-13,17H2",
+    "InChl_Key": "MAAQGZFMFXQVOG-UHFFFAOYSA-N",
+    "SMILES": "NCCCC(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12087",
+    "validation": "m_weight unsave, calculated(225.335)"
+}

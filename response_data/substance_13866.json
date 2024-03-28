@@ -1,0 +1,13 @@
+{
+    "names": "5,7\u2032-(biDMTylidene)-4,4\u2032-dione",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-5-{3-[2-(dimethylamino)ethyl]-4-oxo-1,4-dihydro-7H-indol-7-ylidene}-1,5-dihydro-4H-indol-4-one",
+    "category": "data not stored",
+    "index": 13866,
+    "formular": "C24H28N4O2",
+    "molecular_weight": 404.505,
+    "inChl": "1S/C24H28N4O2/c1-27(2)11-9-15-13-25-19-7-5-18(24(30)21(15)19)17-6-8-20(29)22-16(10-12-28(3)4)14-26-23(17)22/h5-8,13-14,25-26H,9-12H2,1-4H3",
+    "InChl_Key": "BWMFECAVNBMYLM-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2c1C(=O)C(=C1C=CC(=O)c3c(CCN(C)C)c[nH]c31)C=C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13866",
+    "validation": "m_weight unsave, calculated(404.5140000000002)"
+}

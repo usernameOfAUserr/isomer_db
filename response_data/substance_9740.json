@@ -1,0 +1,13 @@
+{
+    "names": "PF-4479745",
+    "iupac_name": "2-Benzyl-N,9-dimethyl-6,7,8,9-tetrahydro-5H-pyrimido[4,5-d]azepin-4-amine",
+    "category": "data not stored",
+    "index": 9740,
+    "formular": "C17H22N4",
+    "molecular_weight": 282.383,
+    "inChl": "1S/C17H22N4/c1-12-11-19-9-8-14-16(12)20-15(21-17(14)18-2)10-13-6-4-3-5-7-13/h3-7,12,19H,8-11H2,1-2H3,(H,18,20,21)",
+    "InChl_Key": "IHHALLDEDARSAL-UHFFFAOYSA-N",
+    "SMILES": "CNc1nc(Cc2ccccc2)nc2c1CCNCC2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9740",
+    "validation": "m_weight unsave, calculated(282.39099999999996)"
+}

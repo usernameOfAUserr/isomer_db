@@ -1,0 +1,13 @@
+{
+    "names": "PZM-21",
+    "iupac_name": "N-[(2S)-2-(Dimethylamino)-3-phenylpropyl]-N\u2032-[(2S)-1-(thiophen-3-yl)propan-2-yl]urea",
+    "category": "data not stored",
+    "index": 11820,
+    "formular": "C19H27N3OS",
+    "molecular_weight": 345.502,
+    "inChl": "1S/C19H27N3OS/c1-15(11-17-9-10-24-14-17)21-19(23)20-13-18(22(2)3)12-16-7-5-4-6-8-16/h4-10,14-15,18H,11-13H2,1-3H3,(H2,20,21,23)/t15-,18-/m0/s1",
+    "InChl_Key": "LGUNAZMQJSOQTG-YJBOKZPZSA-N",
+    "SMILES": "C[C@@H](Cc1ccsc1)NC(=O)NC[C@H](Cc1ccccc1)N(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11820",
+    "validation": "m_weight unsave, calculated(345.51200000000006)"
+}

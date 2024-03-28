@@ -1,0 +1,13 @@
+{
+    "names": "5-AcO-DIPT ; 5-Acetoxy-N,N-diisopropyltryptamine",
+    "iupac_name": "3-{2-[Di(propan-2-yl)amino]ethyl}-1H-indol-5-yl acetate",
+    "category": "Tryptamine",
+    "index": 13178,
+    "formular": "C18H26N2O2",
+    "molecular_weight": 302.411,
+    "inChl": "1S/C18H26N2O2/c1-12(2)20(13(3)4)9-8-15-11-19-18-7-6-16(10-17(15)18)22-14(5)21/h6-7,10-13,19H,8-9H2,1-5H3",
+    "InChl_Key": "OBISAWHGEWBEPT-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Oc1ccc2[nH]cc(CCN(C(C)C)C(C)C)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13178",
+    "validation": "m_weight unsave, calculated(302.418)"
+}

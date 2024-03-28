@@ -1,0 +1,13 @@
+{
+    "names": "Opipramol",
+    "iupac_name": "2-{4-[3-(5H-Dibenzo[b,f]azepin-5-yl)propyl]piperazin-1-yl}ethan-1-ol",
+    "category": "data not stored",
+    "index": 9434,
+    "formular": "C23H29N3O",
+    "molecular_weight": 363.496,
+    "inChl": "1S/C23H29N3O/c27-19-18-25-16-14-24(15-17-25)12-5-13-26-22-8-3-1-6-20(22)10-11-21-7-2-4-9-23(21)26/h1-4,6-11,27H,5,12-19H2",
+    "InChl_Key": "YNZFUWZUGRBMHL-UHFFFAOYSA-N",
+    "SMILES": "OCCN1CCN(CCCN2c3ccccc3C=Cc3ccccc32)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9434",
+    "validation": "m_weight unsave, calculated(363.50500000000005)"
+}

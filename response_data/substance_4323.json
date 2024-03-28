@@ -1,0 +1,13 @@
+{
+    "names": "JWH-370 ; NA-P-2Me-PHPYOMO",
+    "iupac_name": "[5-(2-Methylphenyl)-1-pentyl-1H-pyrrol-3-yl](naphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4323,
+    "formular": "C27H27NO",
+    "molecular_weight": 381.509,
+    "inChl": "1S/C27H27NO/c1-3-4-9-17-28-19-22(18-26(28)23-14-7-5-11-20(23)2)27(29)25-16-10-13-21-12-6-8-15-24(21)25/h5-8,10-16,18-19H,3-4,9,17H2,1-2H3",
+    "InChl_Key": "HZMLAMXVETUEJZ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2cccc3ccccc23)cc1-c1ccccc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4323",
+    "validation": "m_weight unsave, calculated(381.51900000000006)"
+}

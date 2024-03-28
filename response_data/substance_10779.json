@@ -1,0 +1,13 @@
+{
+    "names": "Zylofuramine ; N-Ethyl-\u03b1-(oxolan-2-yl)phenethylamine",
+    "iupac_name": "N-Ethyl-1-(oxolan-2-yl)-2-phenylethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10779,
+    "formular": "C14H21NO",
+    "molecular_weight": 219.323,
+    "inChl": "1S/C14H21NO/c1-2-15-13(14-9-6-10-16-14)11-12-7-4-3-5-8-12/h3-5,7-8,13-15H,2,6,9-11H2,1H3",
+    "InChl_Key": "DOFCLOLKFGSRTG-UHFFFAOYSA-N",
+    "SMILES": "CCNC(Cc1ccccc1)C1CCCO1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10779",
+    "validation": "m_weight unsave, calculated(219.328)"
+}

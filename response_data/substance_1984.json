@@ -1,0 +1,13 @@
+{
+    "names": "Norborno-5-MeO-DMT ; 5-Methoxy-N,N-dimethyl-norborno-tryptamine",
+    "iupac_name": "3-(5-Methoxy-1H-indol-3-yl)-N,N-dimethylbicyclo[2.2.1]heptan-2-amine",
+    "category": "Tryptamine",
+    "index": 1984,
+    "formular": "C18H24N2O",
+    "molecular_weight": 284.396,
+    "inChl": "1S/C18H24N2O/c1-20(2)18-12-5-4-11(8-12)17(18)15-10-19-16-7-6-13(21-3)9-14(15)16/h6-7,9-12,17-19H,4-5,8H2,1-3H3",
+    "InChl_Key": "LUOBXHHXCQDBRQ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(C3C4CCC(C4)C3N(C)C)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1984",
+    "validation": "m_weight unsave, calculated(284.4030000000001)"
+}

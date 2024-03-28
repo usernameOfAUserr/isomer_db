@@ -1,0 +1,13 @@
+{
+    "names": "DCl-\u03c8-2C-O ; 3,5-Dichloro-2,4,6-trimethoxyphenethylamine",
+    "iupac_name": "2-(3,5-Dichloro-2,4,6-trimethoxyphenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10461,
+    "formular": "C11H15Cl2NO3",
+    "molecular_weight": 280.148,
+    "inChl": "1S/C11H15Cl2NO3/c1-15-9-6(4-5-14)10(16-2)8(13)11(17-3)7(9)12/h4-5,14H2,1-3H3",
+    "InChl_Key": "NZUWSOUZJFHNRP-UHFFFAOYSA-N",
+    "SMILES": "COc1c(Cl)c(OC)c(CCN)c(OC)c1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10461",
+    "validation": "m_weight unsave, calculated(280.151)"
+}

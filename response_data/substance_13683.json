@@ -1,0 +1,13 @@
+{
+    "names": "1-Ethyl-6-fluoropsilocin ; 1-Ethyl-6-fluoro-4-hydroxy-N,N-dimethyltryptamine ; 1-Ethyl-6-fluoro-4-HO-DMT ; O-4284",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-1-ethyl-6-fluoro-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 13683,
+    "formular": "C14H19FN2O",
+    "molecular_weight": 250.312,
+    "inChl": "1S/C14H19FN2O/c1-4-17-9-10(5-6-16(2)3)14-12(17)7-11(15)8-13(14)18/h7-9,18H,4-6H2,1-3H3",
+    "InChl_Key": "HMLQKPRWUNGJSB-UHFFFAOYSA-N",
+    "SMILES": "CCn1cc(CCN(C)C)c2c(O)cc(F)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13683",
+    "validation": "m_weight unsave, calculated(250.31699999999995)"
+}

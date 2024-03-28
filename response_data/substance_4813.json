@@ -1,0 +1,13 @@
+{
+    "names": "[1-(Cyclohexylmethyl)-7-methoxy-1H-indol-3-yl](4-ethyl-3,3-dimethylpiperazin-1-yl)methanone",
+    "iupac_name": "4813 ; C25H37N3O2 ; 411.58",
+    "category": "cannabinodids",
+    "index": 4813,
+    "formular": "C25H37N3O2",
+    "molecular_weight": 411.58,
+    "inChl": "1S/C25H37N3O2/c1-5-28-15-14-26(18-25(28,2)3)24(29)21-17-27(16-19-10-7-6-8-11-19)23-20(21)12-9-13-22(23)30-4/h9,12-13,17,19H,5-8,10-11,14-16,18H2,1-4H3",
+    "InChl_Key": "UHNMZKXKDDISSX-UHFFFAOYSA-N",
+    "SMILES": "CCN1CCN(C(=O)c2cn(CC3CCCCC3)c3c(OC)cccc23)CC1(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4813",
+    "validation": "m_weight unsave, calculated(411.5900000000003)"
+}

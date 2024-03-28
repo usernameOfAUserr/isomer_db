@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Hydroxymescaline NB imine",
+    "iupac_name": "2-[(E)-Benzylideneamino]-1-(3,4,5-trimethoxyphenyl)ethan-1-ol",
+    "category": "data not stored",
+    "index": 11937,
+    "formular": "C18H21NO4",
+    "molecular_weight": 315.364,
+    "inChl": "1S/C18H21NO4/c1-21-16-9-14(10-17(22-2)18(16)23-3)15(20)12-19-11-13-7-5-4-6-8-13/h4-11,15,20H,12H2,1-3H3/b19-11+",
+    "InChl_Key": "HFGSWPFOEYGQGK-YBFXNURJSA-N",
+    "SMILES": "COc1cc(C(O)C/N=C/c2ccccc2)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11937",
+    "validation": "m_weight unsave, calculated(315.36899999999997)"
+}

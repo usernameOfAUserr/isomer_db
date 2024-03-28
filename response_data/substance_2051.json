@@ -1,0 +1,13 @@
+{
+    "names": "3C-B ; 4-Butoxy-3,5-dimethoxyamphetamine",
+    "iupac_name": "1-(4-Butoxy-3,5-dimethoxyphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 2051,
+    "formular": "C15H25NO3",
+    "molecular_weight": 267.364,
+    "inChl": "1S/C15H25NO3/c1-5-6-7-19-15-13(17-3)9-12(8-11(2)16)10-14(15)18-4/h9-11H,5-8,16H2,1-4H3",
+    "InChl_Key": "CRELLSBHEKVHPI-UHFFFAOYSA-N",
+    "SMILES": "CCCCOc1c(OC)cc(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2051",
+    "validation": "m_weight unsave, calculated(267.36899999999997)"
+}

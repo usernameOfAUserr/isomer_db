@@ -1,0 +1,13 @@
+{
+    "names": "VCHSR",
+    "iupac_name": "5-(4-Chlorophenyl)-3-[(E)-2-cyclohexylethenyl]-1-(2,4-dichlorophenyl)-4-methyl-1H-pyrazole",
+    "category": "cannabinodids",
+    "index": 8139,
+    "formular": "C24H23Cl3N2",
+    "molecular_weight": 445.812,
+    "inChl": "1S/C24H23Cl3N2/c1-16-22(13-7-17-5-3-2-4-6-17)28-29(23-14-12-20(26)15-21(23)27)24(16)18-8-10-19(25)11-9-18/h7-15,17H,2-6H2,1H3/b13-7+",
+    "InChl_Key": "UMOLSRBHNLXWGD-NTUHNPAUSA-N",
+    "SMILES": "Cc1c(/C=C/C2CCCCC2)nn(-c2ccc(Cl)cc2Cl)c1-c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8139",
+    "validation": "m_weight unsave, calculated(445.82100000000025)"
+}

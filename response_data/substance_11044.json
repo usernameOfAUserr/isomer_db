@@ -1,0 +1,13 @@
+{
+    "names": "4-AcOP2P",
+    "iupac_name": "4-(2-Oxopropyl)phenyl acetate",
+    "category": "data not stored",
+    "index": 11044,
+    "formular": "C11H12O3",
+    "molecular_weight": 192.211,
+    "inChl": "1S/C11H12O3/c1-8(12)7-10-3-5-11(6-4-10)14-9(2)13/h3-6H,7H2,1-2H3",
+    "InChl_Key": "VJHQSLSGLIVQJE-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Cc1ccc(OC(C)=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11044",
+    "validation": "m_weight unsave, calculated(192.21399999999997)"
+}

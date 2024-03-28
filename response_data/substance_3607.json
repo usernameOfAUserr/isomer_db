@@ -1,0 +1,13 @@
+{
+    "names": "4\u2032-Bromoaminorex",
+    "iupac_name": "5-(4-Bromophenyl)-4,5-dihydro-1,3-oxazol-2-amine",
+    "category": "data not stored",
+    "index": 3607,
+    "formular": "C9H9BrN2O",
+    "molecular_weight": 241.085,
+    "inChl": "1S/C9H9BrN2O/c10-7-3-1-6(2-4-7)8-5-12-9(11)13-8/h1-4,8H,5H2,(H2,11,12)",
+    "InChl_Key": "QKNWNIQGFNMGFH-UHFFFAOYSA-N",
+    "SMILES": "NC1=NCC(c2ccc(Br)cc2)O1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3607",
+    "validation": "m_weight unsave, calculated(241.08799999999997)"
+}

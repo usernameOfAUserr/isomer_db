@@ -1,0 +1,13 @@
+{
+    "names": "5\u2032-Chloro-5-methyl-1-propyl-1,2,5,6-tetrahydro-3,3\u2032-bipyridine",
+    "iupac_name": "13768 ; C14H19ClN2 ; 250.767",
+    "category": "data not stored",
+    "index": 13768,
+    "formular": "C14H19ClN2",
+    "molecular_weight": 250.767,
+    "inChl": "1S/C14H19ClN2/c1-3-4-17-9-11(2)5-13(10-17)12-6-14(15)8-16-7-12/h5-8,11H,3-4,9-10H2,1-2H3",
+    "InChl_Key": "VFXVISMUPGDHKK-UHFFFAOYSA-N",
+    "SMILES": "CCCN1CC(c2cncc(Cl)c2)=CC(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13768",
+    "validation": "m_weight unsave, calculated(250.77299999999997)"
+}

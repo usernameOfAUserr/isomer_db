@@ -1,0 +1,13 @@
+{
+    "names": "N-[2-(3-Nitrophenoxy)ethyl]cyclopropanamine",
+    "iupac_name": "10535 ; C11H14N2O3 ; 222.24",
+    "category": "Phenetylamine",
+    "index": 10535,
+    "formular": "C11H14N2O3",
+    "molecular_weight": 222.24,
+    "inChl": "1S/C11H14N2O3/c14-13(15)10-2-1-3-11(8-10)16-7-6-12-9-4-5-9/h1-3,8-9,12H,4-7H2",
+    "InChl_Key": "MKCANFJHFJYSEL-UHFFFAOYSA-N",
+    "SMILES": "O=[N+]([O-])c1cccc(OCCNC2CC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10535",
+    "validation": ""
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2AD-STS-135 ; SGT-100",
+    "iupac_name": "N-(Adamantan-2-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4440,
+    "formular": "C24H31FN2O",
+    "molecular_weight": 382.514,
+    "inChl": "1S/C24H31FN2O/c25-8-4-1-5-9-27-15-21(20-6-2-3-7-22(20)27)24(28)26-23-18-11-16-10-17(13-18)14-19(23)12-16/h2-3,6-7,15-19,23H,1,4-5,8-14H2,(H,26,28)",
+    "InChl_Key": "MOAMCQDHGSTZSF-UHFFFAOYSA-N",
+    "SMILES": "O=C(NC1C2CC3CC(C2)CC1C3)c1cn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4440",
+    "validation": "m_weight unsave, calculated(382.52300000000025)"
+}

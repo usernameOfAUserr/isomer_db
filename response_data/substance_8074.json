@@ -1,0 +1,13 @@
+{
+    "names": "{6-Bromo-1-[(oxan-4-yl)methyl]-1H-indol-3-yl}(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "iupac_name": "8074 ; C22H28BrNO2 ; 418.367",
+    "category": "cannabinodids",
+    "index": 8074,
+    "formular": "C22H28BrNO2",
+    "molecular_weight": 418.367,
+    "inChl": "1S/C22H28BrNO2/c1-21(2)20(22(21,3)4)19(25)17-13-24(12-14-7-9-26-10-8-14)18-11-15(23)5-6-16(17)18/h5-6,11,13-14,20H,7-10,12H2,1-4H3",
+    "InChl_Key": "KGRNLURBZOQGDM-UHFFFAOYSA-N",
+    "SMILES": "CC1(C)C(C(=O)c2cn(CC3CCOCC3)c3cc(Br)ccc23)C1(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8074",
+    "validation": "m_weight unsave, calculated(418.3750000000003)"
+}

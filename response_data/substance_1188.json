@@ -1,0 +1,13 @@
+{
+    "names": "4-CF3-PBCHA",
+    "iupac_name": "2-[4-(Trifluoromethyl)phenyl]bicyclo[2.2.1]heptan-2-amine",
+    "category": "Arylcycloalkylamine",
+    "index": 1188,
+    "formular": "C14H16F3N",
+    "molecular_weight": 255.279,
+    "inChl": "1S/C14H16F3N/c15-14(16,17)11-5-3-10(4-6-11)13(18)8-9-1-2-12(13)7-9/h3-6,9,12H,1-2,7-8,18H2",
+    "InChl_Key": "XVPXWLOYYQIUGG-UHFFFAOYSA-N",
+    "SMILES": "NC1(c2ccc(C(F)(F)F)cc2)CC2CCC1C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1188",
+    "validation": "m_weight unsave, calculated(255.283)"
+}

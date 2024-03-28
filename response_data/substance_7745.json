@@ -1,0 +1,13 @@
+{
+    "names": "1-(3-Cyclopropylpropyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide",
+    "iupac_name": "7745 ; C23H27N3O ; 361.48",
+    "category": "cannabinodids",
+    "index": 7745,
+    "formular": "C23H27N3O",
+    "molecular_weight": 361.48,
+    "inChl": "1S/C23H27N3O/c1-23(2,18-10-4-3-5-11-18)24-22(27)21-19-12-6-7-13-20(19)26(25-21)16-8-9-17-14-15-17/h3-7,10-13,17H,8-9,14-16H2,1-2H3,(H,24,27)",
+    "InChl_Key": "GOTMFEYBQKOJRB-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1nn(CCCC2CC2)c2ccccc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7745",
+    "validation": "m_weight unsave, calculated(361.48900000000003)"
+}

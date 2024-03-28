@@ -1,0 +1,13 @@
+{
+    "names": "Pseudococaine",
+    "iupac_name": "Methyl (2S,3S)-3-(benzoyloxy)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "category": "data not stored",
+    "index": 3630,
+    "formular": "C17H21NO4",
+    "molecular_weight": 303.353,
+    "inChl": "1S/C17H21NO4/c1-18-12-8-9-13(18)15(17(20)21-2)14(10-12)22-16(19)11-6-4-3-5-7-11/h3-7,12-15H,8-10H2,1-2H3/t12?,13?,14-,15-/m0/s1",
+    "InChl_Key": "ZPUCINDJVBIVPJ-WUCCLRPBSA-N",
+    "SMILES": "COC(=O)[C@H]1C2CCC(C[C@@H]1OC(=O)c1ccccc1)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3630",
+    "validation": "m_weight unsave, calculated(303.35799999999995)"
+}

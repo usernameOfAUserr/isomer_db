@@ -1,0 +1,13 @@
+{
+    "names": "6-Fluoroserotonin ; 6-Fluoro-5-hydroxytryptamine ; 6-Fluoro-5-HO-T",
+    "iupac_name": "3-(2-Aminoethyl)-6-fluoro-1H-indol-5-ol",
+    "category": "Tryptamine",
+    "index": 7899,
+    "formular": "C10H11FN2O",
+    "molecular_weight": 194.206,
+    "inChl": "1S/C10H11FN2O/c11-8-4-9-7(3-10(8)14)6(1-2-12)5-13-9/h3-5,13-14H,1-2,12H2",
+    "InChl_Key": "IRQXJTNGYYCJOH-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2cc(F)c(O)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7899",
+    "validation": "m_weight unsave, calculated(194.20899999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "SGT-82",
+    "iupac_name": "1-Pentyl-N-(propan-2-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11299,
+    "formular": "C16H23N3O",
+    "molecular_weight": 273.373,
+    "inChl": "1S/C16H23N3O/c1-4-5-8-11-19-14-10-7-6-9-13(14)15(18-19)16(20)17-12(2)3/h6-7,9-10,12H,4-5,8,11H2,1-3H3,(H,17,20)",
+    "InChl_Key": "NDMMHVSSDNOGDT-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1nc(C(=O)NC(C)C)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11299",
+    "validation": "m_weight unsave, calculated(273.38000000000005)"
+}

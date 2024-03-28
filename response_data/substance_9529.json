@@ -1,0 +1,13 @@
+{
+    "names": "Vardenafil",
+    "iupac_name": "2-[2-Ethoxy-5-(4-ethylpiperazine-1-sulfonyl)phenyl]-5-methyl-7-propylimidazo[5,1-f][1,2,4]triazin-4(3H)-one ; 2-[2-Ethoxy-5-(4-ethylpiperazine-1-sulfonyl)phenyl]-5-methyl-7-propylimidazo[5,1-f][1,2,4]triazin-4(1H)-one",
+    "category": "data not stored",
+    "index": 9529,
+    "formular": "C23H32N6O4S",
+    "molecular_weight": 488.603,
+    "inChl": "1S/C23H32N6O4S/c1-5-8-20-24-16(4)21-23(30)25-22(26-29(20)21)18-15-17(9-10-19(18)33-7-3)34(31,32)28-13-11-27(6-2)12-14-28/h9-10,15H,5-8,11-14H2,1-4H3,(H,25,26,30)",
+    "InChl_Key": "SECKRCOLJRRGGV-UHFFFAOYSA-N",
+    "SMILES": "CCCc1nc(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(CC)CC4)ccc3OCC)nn12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9529",
+    "validation": "m_weight unsave, calculated(488.6140000000003)"
+}

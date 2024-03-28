@@ -1,0 +1,13 @@
+{
+    "names": "4-tBuS-2,5-DMBAL ; 4-tert-Butylthio-2,5-dimethoxybenzaldehyde",
+    "iupac_name": "4-(tert-Butylsulfanyl)-2,5-dimethoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 8281,
+    "formular": "C13H18O3S",
+    "molecular_weight": 254.345,
+    "inChl": "1S/C13H18O3S/c1-13(2,3)17-12-7-10(15-4)9(8-14)6-11(12)16-5/h6-8H,1-5H3",
+    "InChl_Key": "IUEJWAGHANOOEF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SC(C)(C)C)c(OC)cc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8281",
+    "validation": "m_weight unsave, calculated(254.35099999999997)"
+}

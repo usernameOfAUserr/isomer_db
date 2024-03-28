@@ -1,0 +1,13 @@
+{
+    "names": "N-[(1,6-Dimethylergolin-8\u03b2-yl)methyl]acetamide ; N-{[(6aR,9S,10aR)-4,7-Dimethyl-4,6,6a,7,8,9,10,10a-octahydroindolo[4,3-fg]quinolin-9-yl]methyl}acetamide ; N-{[(8\u03b2)-1,6-Dimethylergolin-8-yl]methyl}acetamide",
+    "iupac_name": "5281 ; C19H25N3O ; 311.421",
+    "category": "data not stored",
+    "index": 5281,
+    "formular": "C19H25N3O",
+    "molecular_weight": 311.421,
+    "inChl": "1S/C19H25N3O/c1-12(23)20-9-13-7-16-15-5-4-6-17-19(15)14(11-22(17)3)8-18(16)21(2)10-13/h4-6,11,13,16,18H,7-10H2,1-3H3,(H,20,23)/t13-,16+,18+/m0/s1",
+    "InChl_Key": "HHIMKXBURGQUEF-FDQGKXFDSA-N",
+    "SMILES": "CC(=O)NC[C@@H]1C[C@@H]2c3cccc4c3c(cn4C)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5281",
+    "validation": "m_weight unsave, calculated(311.42900000000003)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-Me-4-F-PCP",
+    "iupac_name": "1-[1-(4-Fluoro-3-methylphenyl)cyclohexyl]piperidine",
+    "category": "Arylcycloalkylamine",
+    "index": 3391,
+    "formular": "C18H26FN",
+    "molecular_weight": 275.404,
+    "inChl": "1S/C18H26FN/c1-15-14-16(8-9-17(15)19)18(10-4-2-5-11-18)20-12-6-3-7-13-20/h8-9,14H,2-7,10-13H2,1H3",
+    "InChl_Key": "PWWGDFZFBNIKQN-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(C2(N3CCCCC3)CCCCC2)ccc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3391",
+    "validation": "m_weight unsave, calculated(275.41099999999994)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-Methyl-DMT ; 1-Methyl-N,N-dimethyltryptamine ; 1-TMT ; N,N,1-Trimethyltryptamine",
+    "iupac_name": "N,N-Dimethyl-2-(1-methyl-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5111,
+    "formular": "C13H18N2",
+    "molecular_weight": 202.295,
+    "inChl": "1S/C13H18N2/c1-14(2)9-8-11-10-15(3)13-7-5-4-6-12(11)13/h4-7,10H,8-9H2,1-3H3",
+    "InChl_Key": "WYFWKMQPMCPKLZ-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1cn(C)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5111",
+    "validation": "m_weight unsave, calculated(202.30100000000002)"
+}

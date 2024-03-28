@@ -1,0 +1,13 @@
+{
+    "names": "2,3-Diphenylcyclopropan-1-amine ; 2,3-Diphenylcyclopropanamine",
+    "iupac_name": "1502 ; C15H15N ; 209.286",
+    "category": "Phenetylamine",
+    "index": 1502,
+    "formular": "C15H15N",
+    "molecular_weight": 209.286,
+    "inChl": "1S/C15H15N/c16-15-13(11-7-3-1-4-8-11)14(15)12-9-5-2-6-10-12/h1-10,13-15H,16H2",
+    "InChl_Key": "RYTXAPKVNHVKAX-UHFFFAOYSA-N",
+    "SMILES": "NC1C(c2ccccc2)C1c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1502",
+    "validation": "m_weight unsave, calculated(209.292)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-Cyano-4-fluoro-N-acetyltryptamine",
+    "iupac_name": "N-[2-(5-Cyano-4-fluoro-1H-indol-3-yl)ethyl]acetamide",
+    "category": "Tryptamine",
+    "index": 14467,
+    "formular": "C13H12FN3O",
+    "molecular_weight": 245.252,
+    "inChl": "1S/C13H12FN3O/c1-8(18)16-5-4-10-7-17-11-3-2-9(6-15)13(14)12(10)11/h2-3,7,17H,4-5H2,1H3,(H,16,18)",
+    "InChl_Key": "NLJMSUOFYDXUCG-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NCCc1c[nH]c2ccc(C#N)c(F)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14467",
+    "validation": "m_weight unsave, calculated(245.25699999999998)"
+}

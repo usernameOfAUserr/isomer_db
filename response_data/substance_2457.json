@@ -1,0 +1,13 @@
+{
+    "names": "4-CC ; 4-Chlorocathinone",
+    "iupac_name": "2-Amino-1-(4-chlorophenyl)propan-1-one",
+    "category": "data not stored",
+    "index": 2457,
+    "formular": "C9H10ClNO",
+    "molecular_weight": 183.635,
+    "inChl": "1S/C9H10ClNO/c1-6(11)9(12)7-2-4-8(10)5-3-7/h2-6H,11H2,1H3",
+    "InChl_Key": "PWNZKQBNTIOCAT-UHFFFAOYSA-N",
+    "SMILES": "CC(N)C(=O)c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2457",
+    "validation": "m_weight unsave, calculated(183.63799999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-cHe-N-Me-PEA ; N-Methyl-\u03b2-cyclohexylphenethylamine",
+    "iupac_name": "2-Cyclohexyl-N-methyl-2-phenylethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10787,
+    "formular": "C15H23N",
+    "molecular_weight": 217.35,
+    "inChl": "1S/C15H23N/c1-16-12-15(13-8-4-2-5-9-13)14-10-6-3-7-11-14/h2,4-5,8-9,14-16H,3,6-7,10-12H2,1H3",
+    "InChl_Key": "CKCPDYFJMZGBNG-UHFFFAOYSA-N",
+    "SMILES": "CNCC(c1ccccc1)C1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10787",
+    "validation": "m_weight unsave, calculated(217.3559999999999)"
+}

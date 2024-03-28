@@ -1,0 +1,13 @@
+{
+    "names": "2-BnS-4,5-DMBAL ; 2-Benzylthio-4,5-dimethoxybenzaldehyde",
+    "iupac_name": "2-(Benzylsulfanyl)-4,5-dimethoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 11111,
+    "formular": "C16H16O3S",
+    "molecular_weight": 288.361,
+    "inChl": "1S/C16H16O3S/c1-18-14-8-13(10-17)16(9-15(14)19-2)20-11-12-6-4-3-5-7-12/h3-10H,11H2,1-2H3",
+    "InChl_Key": "BGHHQLNFJJGTLV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C=O)c(SCc2ccccc2)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11111",
+    "validation": "m_weight unsave, calculated(288.36800000000005)"
+}

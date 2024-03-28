@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-EALT ; 4-Hydroxy-N-ethyl-N-allyltryptamine",
+    "iupac_name": "3-{2-[Ethyl(prop-2-en-1-yl)amino]ethyl}-1H-indol-4-ol",
+    "category": "Prophetic? \u00b7 Tryptamine",
+    "index": 7596,
+    "formular": "C15H20N2O",
+    "molecular_weight": 244.332,
+    "inChl": "1S/C15H20N2O/c1-3-9-17(4-2)10-8-12-11-16-13-6-5-7-14(18)15(12)13/h3,5-7,11,16,18H,1,4,8-10H2,2H3",
+    "InChl_Key": "NOYGBPMOTDWKIU-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(CC)CCc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7596",
+    "validation": "m_weight unsave, calculated(244.338)"
+}

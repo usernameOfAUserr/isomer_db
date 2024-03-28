@@ -1,0 +1,13 @@
+{
+    "names": "6-Fluoro-4-acetamido-N-acetyltryptamine",
+    "iupac_name": "N-[3-(2-Acetamidoethyl)-6-fluoro-1H-indol-4-yl]acetamide",
+    "category": "Tryptamine",
+    "index": 14469,
+    "formular": "C14H16FN3O2",
+    "molecular_weight": 277.294,
+    "inChl": "1S/C14H16FN3O2/c1-8(19)16-4-3-10-7-17-12-5-11(15)6-13(14(10)12)18-9(2)20/h5-7,17H,3-4H2,1-2H3,(H,16,19)(H,18,20)",
+    "InChl_Key": "ASNHSMUAKFUSAP-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NCCc1c[nH]c2cc(F)cc(NC(C)=O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14469",
+    "validation": "m_weight unsave, calculated(277.299)"
+}

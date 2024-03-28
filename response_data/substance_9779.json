@@ -1,0 +1,13 @@
+{
+    "names": "7-Methyl-iso-DMT ; 7-Methyl-N,N-diimethyl-isotryptamine",
+    "iupac_name": "N,N-Dimethyl-2-(7-methyl-1H-indol-1-yl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 9779,
+    "formular": "C13H18N2",
+    "molecular_weight": 202.295,
+    "inChl": "1S/C13H18N2/c1-11-5-4-6-12-7-8-15(13(11)12)10-9-14(2)3/h4-8H,9-10H2,1-3H3",
+    "InChl_Key": "DVGPCBBZUODSFU-UHFFFAOYSA-N",
+    "SMILES": "Cc1cccc2ccn(CCN(C)C)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9779",
+    "validation": "m_weight unsave, calculated(202.301)"
+}

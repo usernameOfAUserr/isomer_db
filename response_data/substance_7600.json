@@ -1,0 +1,13 @@
+{
+    "names": "A07",
+    "iupac_name": "3,4-Dichloro-N-{[1-(dimethylamino)cyclohexyl]methyl}benzene-1-sulfonamide",
+    "category": "data not stored",
+    "index": 7600,
+    "formular": "C15H22Cl2N2O2S",
+    "molecular_weight": 365.318,
+    "inChl": "1S/C15H22Cl2N2O2S/c1-19(2)15(8-4-3-5-9-15)11-18-22(20,21)12-6-7-13(16)14(17)10-12/h6-7,10,18H,3-5,8-9,11H2,1-2H3",
+    "InChl_Key": "NSMAOTNCYHMVJX-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1(CNS(=O)(=O)c2ccc(Cl)c(Cl)c2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7600",
+    "validation": "m_weight unsave, calculated(365.3260000000001)"
+}

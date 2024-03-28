@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Dimethyl-3-{5-nitro-2-[2-(pyrrolidin-1-yl)ethyl]-1H-benzimidazol-1-yl}propan-1-amine",
+    "iupac_name": "12566 ; C18H27N5O2 ; 345.439",
+    "category": "data not stored",
+    "index": 12566,
+    "formular": "C18H27N5O2",
+    "molecular_weight": 345.439,
+    "inChl": "1S/C18H27N5O2/c1-20(2)9-5-12-22-17-7-6-15(23(24)25)14-16(17)19-18(22)8-13-21-10-3-4-11-21/h6-7,14H,3-5,8-13H2,1-2H3",
+    "InChl_Key": "GGNACQZWWXXBSL-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCCn1c(CCN2CCCC2)nc2cc([N+](=O)[O-])ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12566",
+    "validation": "m_weight unsave, calculated(345.44700000000006)"
+}

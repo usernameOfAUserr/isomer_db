@@ -1,0 +1,13 @@
+{
+    "names": "DOI-BOC",
+    "iupac_name": "tert-Butyl [1-(4-iodo-2,5-dimethoxyphenyl)propan-2-yl]carbamate",
+    "category": "data not stored",
+    "index": 11204,
+    "formular": "C16H24INO4",
+    "molecular_weight": 421.271,
+    "inChl": "1S/C16H24INO4/c1-10(18-15(19)22-16(2,3)4)7-11-8-14(21-6)12(17)9-13(11)20-5/h8-10H,7H2,1-6H3,(H,18,19)",
+    "InChl_Key": "IRXJPAMMCJSVGH-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)NC(=O)OC(C)(C)C)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11204",
+    "validation": "m_weight unsave, calculated(421.2750000000002)"
+}

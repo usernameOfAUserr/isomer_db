@@ -1,0 +1,13 @@
+{
+    "names": "Ro-16-0153",
+    "iupac_name": "tert-Butyl 8-chloro-9-oxo-12,12a-dihydro-9H,11H-azeto[2,1-c]imidazo[1,5-a][1,4]benzodiazepine-1-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 11753,
+    "formular": "C18H18ClN3O3",
+    "molecular_weight": 359.807,
+    "inChl": "1S/C18H18ClN3O3/c1-18(2,3)25-17(24)14-15-12-7-8-21(12)16(23)13-10(19)5-4-6-11(13)22(15)9-20-14/h4-6,9,12H,7-8H2,1-3H3",
+    "InChl_Key": "BWVJHTLMZSXUFK-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(C)OC(=O)c1ncn2c1C1CCN1C(=O)c1c(Cl)cccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11753",
+    "validation": "m_weight unsave, calculated(359.8130000000001)"
+}

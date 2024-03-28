@@ -1,0 +1,13 @@
+{
+    "names": "6-Me-2,4-DEPEA ; 2,4-Diethoxy-6-methylphenethylamine",
+    "iupac_name": "2-(2,4-Diethoxy-6-methylphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7806,
+    "formular": "C13H21NO2",
+    "molecular_weight": 223.311,
+    "inChl": "1S/C13H21NO2/c1-4-15-11-8-10(3)12(6-7-14)13(9-11)16-5-2/h8-9H,4-7,14H2,1-3H3",
+    "InChl_Key": "PPNLDSPOCWRREN-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(C)c(CCN)c(OCC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7806",
+    "validation": "m_weight unsave, calculated(223.31599999999995)"
+}

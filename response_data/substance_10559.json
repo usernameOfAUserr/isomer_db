@@ -1,0 +1,13 @@
+{
+    "names": "JWH-161",
+    "iupac_name": "(4aR,13bR)-2,5,5-Trimethyl-8-pentyl-3,4,4a,5,8,13b-hexahydro[2]benzopyrano[3,4-b]carbazol-13-ol",
+    "category": "cannabinodids",
+    "index": 10559,
+    "formular": "C27H33NO2",
+    "molecular_weight": 403.556,
+    "inChl": "1S/C27H33NO2/c1-5-6-9-14-28-21-11-8-7-10-18(21)24-22(28)16-23-25(26(24)29)19-15-17(2)12-13-20(19)27(3,4)30-23/h7-8,10-11,15-16,19-20,29H,5-6,9,12-14H2,1-4H3/t19-,20-/m1/s1",
+    "InChl_Key": "VDJUAFPNHZRTNL-WOJBJXKFSA-N",
+    "SMILES": "CCCCCn1c2ccccc2c2c(O)c3c(cc21)OC(C)(C)[C@@H]1CCC(C)=C[C@@H]31",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10559",
+    "validation": "m_weight unsave, calculated(403.56600000000014)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "BM-4-MA ; \u03b2,4-Dimethylamphetamine",
+    "iupac_name": "3-(4-Methylphenyl)butan-2-amine",
+    "category": "data not stored",
+    "index": 8659,
+    "formular": "C11H17N",
+    "molecular_weight": 163.259,
+    "inChl": "1S/C11H17N/c1-8-4-6-11(7-5-8)9(2)10(3)12/h4-7,9-10H,12H2,1-3H3",
+    "InChl_Key": "SQFFSZMDAYVKMK-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(C)C(C)N)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8659",
+    "validation": "m_weight unsave, calculated(163.26399999999995)"
+}

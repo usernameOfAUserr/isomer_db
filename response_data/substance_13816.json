@@ -1,0 +1,13 @@
+{
+    "names": "2-(Hydroxyimino)-1-phenylpropan-1-one",
+    "iupac_name": "13816 ; C9H9NO2 ; 163.173",
+    "category": "data not stored",
+    "index": 13816,
+    "formular": "C9H9NO2",
+    "molecular_weight": 163.173,
+    "inChl": "1S/C9H9NO2/c1-7(10-12)9(11)8-5-3-2-4-6-8/h2-6,12H,1H3",
+    "InChl_Key": "YPINLRNGSGGJJT-UHFFFAOYSA-N",
+    "SMILES": "CC(=NO)C(=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13816",
+    "validation": "m_weight unsave, calculated(163.176)"
+}

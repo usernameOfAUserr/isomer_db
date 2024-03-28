@@ -1,0 +1,13 @@
+{
+    "names": "MDPVP ; 3\u2032,4\u2032-Methylenedioxy-2-(propylamino)valerophenone",
+    "iupac_name": "1-(2H-1,3-Benzodioxol-5-yl)-2-(propylamino)pentan-1-one ; 1-(1,3-Benzodioxol-5-yl)-2-(propylamino)pentan-1-one",
+    "category": "Shulgin_Index",
+    "index": 6766,
+    "formular": "C15H21NO3",
+    "molecular_weight": 263.332,
+    "inChl": "1S/C15H21NO3/c1-3-5-12(16-8-4-2)15(17)11-6-7-13-14(9-11)19-10-18-13/h6-7,9,12,16H,3-5,8,10H2,1-2H3",
+    "InChl_Key": "VXVXJHULPMWIMC-UHFFFAOYSA-N",
+    "SMILES": "CCCNC(CCC)C(=O)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6766",
+    "validation": "m_weight unsave, calculated(263.33699999999993)"
+}

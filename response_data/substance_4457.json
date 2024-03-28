@@ -1,0 +1,13 @@
+{
+    "names": "GRC-10693 ; Tedalinab",
+    "iupac_name": "(4S,7R)-N-tert-Butyl-1-(2,4-difluorophenyl)-4,5,6,7-tetrahydro-1H-4,7-methanoindazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4457,
+    "formular": "C19H21F2N3O",
+    "molecular_weight": 345.386,
+    "inChl": "1S/C19H21F2N3O/c1-19(2,3)22-18(25)16-15-10-4-5-11(8-10)17(15)24(23-16)14-7-6-12(20)9-13(14)21/h6-7,9-11H,4-5,8H2,1-3H3,(H,22,25)/t10-,11+/m0/s1",
+    "InChl_Key": "NTPZXHMTJGOMCJ-WDEREUQCSA-N",
+    "SMILES": "CC(C)(C)NC(=O)c1nn(-c2ccc(F)cc2F)c2c1[C@H]1CC[C@@H]2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4457",
+    "validation": "m_weight unsave, calculated(345.3930000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-Bromo-6-(3-methylbut-2-en-1-yl)tryptophan ; 2-Amino-3-[5-bromo-6-(3-methylbut-2-en-1-yl)-1H-indol-3-yl]propanoic acid",
+    "iupac_name": "14486 ; C16H19BrN2O2 ; 351.238",
+    "category": "Tryptamine",
+    "index": 14486,
+    "formular": "C16H19BrN2O2",
+    "molecular_weight": 351.238,
+    "inChl": "1S/C16H19BrN2O2/c1-9(2)3-4-10-6-15-12(7-13(10)17)11(8-19-15)5-14(18)16(20)21/h3,6-8,14,19H,4-5,18H2,1-2H3,(H,20,21)",
+    "InChl_Key": "RETBPFVGXIESRM-UHFFFAOYSA-N",
+    "SMILES": "CC(C)=CCc1cc2[nH]cc(CC(N)C(=O)O)c2cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14486",
+    "validation": "m_weight unsave, calculated(351.24400000000014)"
+}

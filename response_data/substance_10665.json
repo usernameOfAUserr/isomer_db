@@ -1,0 +1,13 @@
+{
+    "names": "N-cHe-A ; N-Cyclohexylamphetamine",
+    "iupac_name": "N-(1-Phenylpropan-2-yl)cyclohexanamine",
+    "category": "Phenetylamine",
+    "index": 10665,
+    "formular": "C15H23N",
+    "molecular_weight": 217.35,
+    "inChl": "1S/C15H23N/c1-13(12-14-8-4-2-5-9-14)16-15-10-6-3-7-11-15/h2,4-5,8-9,13,15-16H,3,6-7,10-12H2,1H3",
+    "InChl_Key": "YSCGHIJDKVTDSJ-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NC1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10665",
+    "validation": "m_weight unsave, calculated(217.3559999999999)"
+}

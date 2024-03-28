@@ -1,0 +1,13 @@
+{
+    "names": "2\u2032-Me-PAT",
+    "iupac_name": "N,N-Dimethyl-4-(2-methylphenyl)-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "category": "data not stored",
+    "index": 2870,
+    "formular": "C19H23N",
+    "molecular_weight": 265.393,
+    "inChl": "1S/C19H23N/c1-14-8-4-6-10-17(14)19-13-16(20(2)3)12-15-9-5-7-11-18(15)19/h4-11,16,19H,12-13H2,1-3H3",
+    "InChl_Key": "PPQJESFHSZPEOS-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccccc1C1CC(N(C)C)Cc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2870",
+    "validation": "m_weight unsave, calculated(265.4)"
+}

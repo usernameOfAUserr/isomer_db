@@ -1,0 +1,13 @@
+{
+    "names": "5-Nonyloxy-DMT ; 5-Nonyloxy-N,N-dimethyltryptamine",
+    "iupac_name": "N,N-Dimethyl-2-[5-(nonyloxy)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 14430,
+    "formular": "C21H34N2O",
+    "molecular_weight": 330.507,
+    "inChl": "1S/C21H34N2O/c1-4-5-6-7-8-9-10-15-24-19-11-12-21-20(16-19)18(17-22-21)13-14-23(2)3/h11-12,16-17,22H,4-10,13-15H2,1-3H3",
+    "InChl_Key": "FKSQXJSCAIVTKW-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCCOc1ccc2[nH]cc(CCN(C)C)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14430",
+    "validation": "m_weight unsave, calculated(330.5160000000001)"
+}

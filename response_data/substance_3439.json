@@ -1,0 +1,13 @@
+{
+    "names": "Flubrometazepam",
+    "iupac_name": "7-Bromo-5-(2-fluorophenyl)-1-methyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one",
+    "category": "Aryldiazepine",
+    "index": 3439,
+    "formular": "C16H12BrFN2O",
+    "molecular_weight": 347.182,
+    "inChl": "1S/C16H12BrFN2O/c1-20-14-7-6-10(17)8-12(14)16(19-9-15(20)21)11-4-2-3-5-13(11)18/h2-8H,9H2,1H3",
+    "InChl_Key": "KMADJPBGARDOAO-UHFFFAOYSA-N",
+    "SMILES": "CN1C(=O)CN=C(c2ccccc2F)c2cc(Br)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3439",
+    "validation": "m_weight unsave, calculated(347.187)"
+}

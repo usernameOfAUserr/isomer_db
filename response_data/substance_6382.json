@@ -1,0 +1,13 @@
+{
+    "names": "Dicloqualone ; SL-164",
+    "iupac_name": "5-Chloro-3-(4-chloro-2-methylphenyl)-2-methylquinazolin-4(3H)-one",
+    "category": "data not stored",
+    "index": 6382,
+    "formular": "C16H12Cl2N2O",
+    "molecular_weight": 319.185,
+    "inChl": "1S/C16H12Cl2N2O/c1-9-8-11(17)6-7-14(9)20-10(2)19-13-5-3-4-12(18)15(13)16(20)21/h3-8H,1-2H3",
+    "InChl_Key": "KUIHLOHNUGOCTO-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(Cl)ccc1-n1c(C)nc2cccc(Cl)c2c1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6382",
+    "validation": "m_weight unsave, calculated(319.191)"
+}

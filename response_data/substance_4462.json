@@ -1,0 +1,13 @@
+{
+    "names": "Indomethacin morpholinylamide ; \u03b1-Oxo-1-(4-Chlorobenzoyl)-2-methyl-5-methoxy-mor-tryptamine ; BML-190",
+    "iupac_name": "2-[1-(4-Chlorobenzoyl)-5-methoxy-2-methyl-1H-indol-3-yl]-1-(morpholin-4-yl)ethan-1-one",
+    "category": "cannabinodids",
+    "index": 4462,
+    "formular": "C23H23ClN2O4",
+    "molecular_weight": 426.893,
+    "inChl": "1S/C23H23ClN2O4/c1-15-19(14-22(27)25-9-11-30-12-10-25)20-13-18(29-2)7-8-21(20)26(15)23(28)16-3-5-17(24)6-4-16/h3-8,13H,9-12,14H2,1-2H3",
+    "InChl_Key": "BJSDNVVWJYDOLK-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c(c1)c(CC(=O)N1CCOCC1)c(C)n2C(=O)c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4462",
+    "validation": "m_weight unsave, calculated(426.90000000000003)"
+}

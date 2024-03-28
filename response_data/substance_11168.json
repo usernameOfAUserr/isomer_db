@@ -1,0 +1,13 @@
+{
+    "names": "N-[(1E)-2-(4-Methoxyphenyl)ethylidene]hydroxylamine",
+    "iupac_name": "11168 ; C9H11NO2 ; 165.189",
+    "category": "data not stored",
+    "index": 11168,
+    "formular": "C9H11NO2",
+    "molecular_weight": 165.189,
+    "inChl": "1S/C9H11NO2/c1-12-9-4-2-8(3-5-9)6-7-10-11/h2-5,7,11H,6H2,1H3/b10-7+",
+    "InChl_Key": "XWHVYQNRIHTVTH-JXMROGBWSA-N",
+    "SMILES": "COc1ccc(C/C=N/O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11168",
+    "validation": "m_weight unsave, calculated(165.192)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "7-MeO-NMT ; 7-Methoxy-N-methyltryptamine",
+    "iupac_name": "2-(7-Methoxy-1H-indol-3-yl)-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5160,
+    "formular": "C12H16N2O",
+    "molecular_weight": 204.268,
+    "inChl": "1S/C12H16N2O/c1-13-7-6-9-8-14-12-10(9)4-3-5-11(12)15-2/h3-5,8,13-14H,6-7H2,1-2H3",
+    "InChl_Key": "HVJBZFUEBPMZEI-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1c[nH]c2c(OC)cccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5160",
+    "validation": "m_weight unsave, calculated(204.273)"
+}

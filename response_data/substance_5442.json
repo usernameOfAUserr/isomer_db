@@ -1,0 +1,13 @@
+{
+    "names": "8-MeO-THH ; 8-Methoxytetrahydroharman",
+    "iupac_name": "8-Methoxy-1-methyl-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indole ; 8-Methoxy-1-methyl-2,3,4,9-tetrahydro-1H-\u03b2-carboline",
+    "category": "data not stored",
+    "index": 5442,
+    "formular": "C13H16N2O",
+    "molecular_weight": 216.279,
+    "inChl": "1S/C13H16N2O/c1-8-12-10(6-7-14-8)9-4-3-5-11(16-2)13(9)15-12/h3-5,8,14-15H,6-7H2,1-2H3",
+    "InChl_Key": "WIZGJHZEOWEHMU-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c3c([nH]c12)C(C)NCC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5442",
+    "validation": "m_weight unsave, calculated(216.28399999999996)"
+}

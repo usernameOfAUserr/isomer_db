@@ -1,0 +1,13 @@
+{
+    "names": "Methyl {4-[phenyl(propanoyl)amino]-1-[2-(2H-tetrazol-2-yl)ethyl]piperidin-4-yl}methyl carbonate",
+    "iupac_name": "14385 ; C20H28N6O4 ; 416.474",
+    "category": "Fentanyl",
+    "index": 14385,
+    "formular": "C20H28N6O4",
+    "molecular_weight": 416.474,
+    "inChl": "1S/C20H28N6O4/c1-3-18(27)26(17-7-5-4-6-8-17)20(15-30-19(28)29-2)9-11-24(12-10-20)13-14-25-22-16-21-23-25/h4-8,16H,3,9-15H2,1-2H3",
+    "InChl_Key": "WUXVWUVKJGVDGP-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1(COC(=O)OC)CCN(CCn2ncnn2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14385",
+    "validation": "m_weight unsave, calculated(416.4820000000002)"
+}

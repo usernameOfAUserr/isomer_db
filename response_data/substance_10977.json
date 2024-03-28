@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Methylhistamine",
+    "iupac_name": "1-(1H-Imidazol-4-yl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10977,
+    "formular": "C6H11N3",
+    "molecular_weight": 125.172,
+    "inChl": "1S/C6H11N3/c1-5(7)2-6-3-8-4-9-6/h3-5H,2,7H2,1H3,(H,8,9)",
+    "InChl_Key": "XNQIOISZPFVUFG-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c[nH]cn1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10977",
+    "validation": "m_weight unsave, calculated(125.175)"
+}

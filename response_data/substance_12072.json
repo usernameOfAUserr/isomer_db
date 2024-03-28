@@ -1,0 +1,13 @@
+{
+    "names": "Methyl cyclohexyl(phenyl)acetate",
+    "iupac_name": "12072 ; C15H20O2 ; 232.318",
+    "category": "Phenetylamine",
+    "index": 12072,
+    "formular": "C15H20O2",
+    "molecular_weight": 232.318,
+    "inChl": "1S/C15H20O2/c1-17-15(16)14(12-8-4-2-5-9-12)13-10-6-3-7-11-13/h2,4-5,8-9,13-14H,3,6-7,10-11H2,1H3",
+    "InChl_Key": "CHGRSXGBVBMMAP-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(c1ccccc1)C1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12072",
+    "validation": "m_weight unsave, calculated(232.32299999999992)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "6-Cl-THPI",
+    "iupac_name": "6-Chloro-1,2,3,4-tetrahydropyrazino[1,2-a]indole",
+    "category": "data not stored",
+    "index": 7138,
+    "formular": "C11H11ClN2",
+    "molecular_weight": 206.671,
+    "inChl": "1S/C11H11ClN2/c12-10-3-1-2-8-6-9-7-13-4-5-14(9)11(8)10/h1-3,6,13H,4-5,7H2",
+    "InChl_Key": "AWEHDQNNOZXHOU-UHFFFAOYSA-N",
+    "SMILES": "Clc1cccc2cc3n(c12)CCNC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7138",
+    "validation": "m_weight unsave, calculated(206.67599999999996)"
+}

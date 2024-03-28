@@ -1,0 +1,13 @@
+{
+    "names": "N-Ac-3-TFMA ; N-Acetyl-3-trifluoromethylamphetamine",
+    "iupac_name": "N-{1-[3-(Trifluoromethyl)phenyl]propan-2-yl}acetamide",
+    "category": "data not stored",
+    "index": 9857,
+    "formular": "C12H14F3NO",
+    "molecular_weight": 245.241,
+    "inChl": "1S/C12H14F3NO/c1-8(16-9(2)17)6-10-4-3-5-11(7-10)12(13,14)15/h3-5,7-8H,6H2,1-2H3,(H,16,17)",
+    "InChl_Key": "ZVKARXLKNIBGIR-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NC(C)Cc1cccc(C(F)(F)F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9857",
+    "validation": "m_weight unsave, calculated(245.24399999999994)"
+}

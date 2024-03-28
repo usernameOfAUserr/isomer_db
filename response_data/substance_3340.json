@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-MALT ; 4-Hydroxy-N-methyl-N-allyltryptamine",
+    "iupac_name": "3-{2-[Methyl(prop-2-en-1-yl)amino]ethyl}-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 3340,
+    "formular": "C14H18N2O",
+    "molecular_weight": 230.306,
+    "inChl": "1S/C14H18N2O/c1-3-8-16(2)9-7-11-10-15-12-5-4-6-13(17)14(11)12/h3-6,10,15,17H,1,7-9H2,2H3",
+    "InChl_Key": "NWEWNVPCYZONHK-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(C)CCc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3340",
+    "validation": "m_weight unsave, calculated(230.311)"
+}

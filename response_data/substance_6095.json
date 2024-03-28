@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Dimethyl-5-phenylimidazo[1,5-a]quinoline-3-carboxamide",
+    "iupac_name": "6095 ; C20H17N3O ; 315.368",
+    "category": "data not stored",
+    "index": 6095,
+    "formular": "C20H17N3O",
+    "molecular_weight": 315.368,
+    "inChl": "1S/C20H17N3O/c1-22(2)20(24)19-18-12-16(14-8-4-3-5-9-14)15-10-6-7-11-17(15)23(18)13-21-19/h3-13H,1-2H3",
+    "InChl_Key": "HGGDYINLFSRQNX-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C(=O)c1ncn2c1cc(-c1ccccc1)c1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6095",
+    "validation": "m_weight unsave, calculated(315.37600000000003)"
+}

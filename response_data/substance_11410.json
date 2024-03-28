@@ -1,0 +1,13 @@
+{
+    "names": "BOD-NBOMe",
+    "iupac_name": "2-(2,5-Dimethoxy-4-methylphenyl)-2-methoxy-N-[(2-methoxyphenyl)methyl]ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 11410,
+    "formular": "C20H27NO4",
+    "molecular_weight": 345.433,
+    "inChl": "1S/C20H27NO4/c1-14-10-19(24-4)16(11-18(14)23-3)20(25-5)13-21-12-15-8-6-7-9-17(15)22-2/h6-11,20-21H,12-13H2,1-5H3",
+    "InChl_Key": "ZQUPLOFMHVQIGA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(CNCc2ccccc2OC)OC)c(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11410",
+    "validation": "m_weight unsave, calculated(345.439)"
+}

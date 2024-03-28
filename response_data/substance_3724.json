@@ -1,0 +1,13 @@
+{
+    "names": "ADX-47273",
+    "iupac_name": "(4-Fluorophenyl){(3S)-3-[3-(4-fluorophenyl)-1,2,4-oxadiazol-5-yl]piperidin-1-yl}methanone",
+    "category": "data not stored",
+    "index": 3724,
+    "formular": "C20H17F2N3O2",
+    "molecular_weight": 369.365,
+    "inChl": "1S/C20H17F2N3O2/c21-16-7-3-13(4-8-16)18-23-19(27-24-18)15-2-1-11-25(12-15)20(26)14-5-9-17(22)10-6-14/h3-10,15H,1-2,11-12H2/t15-/m0/s1",
+    "InChl_Key": "VXQCCZHCFBHTTD-HNNXBMFYSA-N",
+    "SMILES": "O=C(c1ccc(F)cc1)N1CCC[C@H](c2nc(-c3ccc(F)cc3)no2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3724",
+    "validation": "m_weight unsave, calculated(369.371)"
+}

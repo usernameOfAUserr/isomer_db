@@ -1,0 +1,13 @@
+{
+    "names": "3\u2032-Methyl desmethaqualone",
+    "iupac_name": "2-Methyl-3-(3-methylphenyl)quinazolin-4(3H)-one",
+    "category": "data not stored",
+    "index": 12632,
+    "formular": "C16H14N2O",
+    "molecular_weight": 250.295,
+    "inChl": "1S/C16H14N2O/c1-11-6-5-7-13(10-11)18-12(2)17-15-9-4-3-8-14(15)16(18)19/h3-10H,1-2H3",
+    "InChl_Key": "ACZZXQREKJMALJ-UHFFFAOYSA-N",
+    "SMILES": "Cc1cccc(-n2c(C)nc3ccccc3c2=O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12632",
+    "validation": "m_weight unsave, calculated(250.30100000000002)"
+}

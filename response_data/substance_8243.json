@@ -1,0 +1,13 @@
+{
+    "names": "EMJ-i-026",
+    "iupac_name": "8-Ethynyl-6-phenyl-3-[3-(propan-2-yl)-1,2,4-oxadiazol-5-yl]-4H-imidazo[1,5-a][1,4]benzodiazepine",
+    "category": "Aryldiazepine",
+    "index": 8243,
+    "formular": "C24H19N5O",
+    "molecular_weight": 393.441,
+    "inChl": "1S/C24H19N5O/c1-4-16-10-11-19-18(12-16)21(17-8-6-5-7-9-17)25-13-20-22(26-14-29(19)20)24-27-23(15(2)3)28-30-24/h1,5-12,14-15H,13H2,2-3H3",
+    "InChl_Key": "DXICIZZTOHEULQ-UHFFFAOYSA-N",
+    "SMILES": "C#Cc1ccc2c(c1)C(c1ccccc1)=NCc1c(-c3nc(C(C)C)no3)ncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8243",
+    "validation": "m_weight unsave, calculated(393.4500000000001)"
+}

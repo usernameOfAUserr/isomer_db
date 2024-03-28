@@ -1,0 +1,13 @@
+{
+    "names": "3-[2-(Dimethylamino)ethyl]-1H-indazol-5-ol",
+    "iupac_name": "14798 ; C11H15N3O ; 205.256",
+    "category": "data not stored",
+    "index": 14798,
+    "formular": "C11H15N3O",
+    "molecular_weight": 205.256,
+    "inChl": "1S/C11H15N3O/c1-14(2)6-5-11-9-7-8(15)3-4-10(9)12-13-11/h3-4,7,15H,5-6H2,1-2H3,(H,12,13)",
+    "InChl_Key": "HPXSSTRGWNQATI-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1n[nH]c2ccc(O)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14798",
+    "validation": "m_weight unsave, calculated(205.26100000000002)"
+}

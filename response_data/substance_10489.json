@@ -1,0 +1,13 @@
+{
+    "names": "2-(2-Fluorophenyl)-N,N-dipropylcyclopropan-1-amine",
+    "iupac_name": "10489 ; C15H22FN ; 235.34",
+    "category": "Phenetylamine",
+    "index": 10489,
+    "formular": "C15H22FN",
+    "molecular_weight": 235.34,
+    "inChl": "1S/C15H22FN/c1-3-9-17(10-4-2)15-11-13(15)12-7-5-6-8-14(12)16/h5-8,13,15H,3-4,9-11H2,1-2H3",
+    "InChl_Key": "IDIJMAQOOZIZRH-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C1CC1c1ccccc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10489",
+    "validation": "m_weight unsave, calculated(235.34599999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "SGT-232",
+    "iupac_name": "N-(2-Methylbut-3-yn-2-yl)-1-[(oxan-4-yl)methyl]-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11636,
+    "formular": "C19H23N3O2",
+    "molecular_weight": 325.405,
+    "inChl": "1S/C19H23N3O2/c1-4-19(2,3)20-18(23)17-15-7-5-6-8-16(15)22(21-17)13-14-9-11-24-12-10-14/h1,5-8,14H,9-13H2,2-3H3,(H,20,23)",
+    "InChl_Key": "YNBYIZZCZIFSCP-UHFFFAOYSA-N",
+    "SMILES": "C#CC(C)(C)NC(=O)c1nn(CC2CCOCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11636",
+    "validation": "m_weight unsave, calculated(325.41200000000015)"
+}

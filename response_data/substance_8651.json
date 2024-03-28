@@ -1,0 +1,13 @@
+{
+    "names": "3\u2032-F-4-MAR ; 3\u2032-Fluoro-4-methylaminorex",
+    "iupac_name": "5-(3-Fluorophenyl)-4-methyl-4,5-dihydro-1,3-oxazol-2-amine",
+    "category": "data not stored",
+    "index": 8651,
+    "formular": "C10H11FN2O",
+    "molecular_weight": 194.206,
+    "inChl": "1S/C10H11FN2O/c1-6-9(14-10(12)13-6)7-3-2-4-8(11)5-7/h2-6,9H,1H3,(H2,12,13)",
+    "InChl_Key": "NLTFIGMSPAMYAR-UHFFFAOYSA-N",
+    "SMILES": "CC1N=C(N)OC1c1cccc(F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8651",
+    "validation": "m_weight unsave, calculated(194.20899999999997)"
+}

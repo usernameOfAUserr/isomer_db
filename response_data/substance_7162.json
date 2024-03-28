@@ -1,0 +1,13 @@
+{
+    "names": "4-OH-tert-Leucine-ADB-CHMINACA",
+    "iupac_name": "N-{1-[(4-Hydroxycyclohexyl)methyl]-1H-indazole-3-carbonyl}-3-methyl-L-valine ; (2S)-2-({1-[(4-Hydroxycyclohexyl)methyl]-1H-indazole-3-carbonyl}amino)-3,3-dimethylbutanoic acid",
+    "category": "cannabinodids",
+    "index": 7162,
+    "formular": "C21H29N3O4",
+    "molecular_weight": 387.473,
+    "inChl": "1S/C21H29N3O4/c1-21(2,3)18(20(27)28)22-19(26)17-15-6-4-5-7-16(15)24(23-17)12-13-8-10-14(25)11-9-13/h4-7,13-14,18,25H,8-12H2,1-3H3,(H,22,26)(H,27,28)/t13?,14?,18-/m1/s1",
+    "InChl_Key": "HWEQMPAYSNTICF-WTNGLUPJSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(CC2CCC(O)CC2)c2ccccc12)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7162",
+    "validation": "m_weight unsave, calculated(387.48000000000013)"
+}

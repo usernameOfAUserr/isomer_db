@@ -1,0 +1,13 @@
+{
+    "names": "Saripidem",
+    "iupac_name": "N-{[2-(4-Chlorophenyl)imidazo[1,2-a]pyridin-3-yl]methyl}-N-methylbutanamide",
+    "category": "data not stored",
+    "index": 3788,
+    "formular": "C19H20ClN3O",
+    "molecular_weight": 341.835,
+    "inChl": "1S/C19H20ClN3O/c1-3-6-18(24)22(2)13-16-19(14-8-10-15(20)11-9-14)21-17-7-4-5-12-23(16)17/h4-5,7-12H,3,6,13H2,1-2H3",
+    "InChl_Key": "LIFDPEORUVTOCP-UHFFFAOYSA-N",
+    "SMILES": "CCCC(=O)N(C)Cc1c(-c2ccc(Cl)cc2)nc2ccccn12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3788",
+    "validation": "m_weight unsave, calculated(341.84200000000004)"
+}

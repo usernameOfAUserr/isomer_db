@@ -1,0 +1,13 @@
+{
+    "names": "CUMYL-NBMICA",
+    "iupac_name": "1-[(Bicyclo[2.2.1]heptan-2-yl)methyl]-N-(2-phenylpropan-2-yl)-1H-indole-3-carboxamide",
+    "category": "data not stored",
+    "index": 13836,
+    "formular": "C26H30N2O",
+    "molecular_weight": 386.529,
+    "inChl": "1S/C26H30N2O/c1-26(2,21-8-4-3-5-9-21)27-25(29)23-17-28(24-11-7-6-10-22(23)24)16-20-15-18-12-13-19(20)14-18/h3-11,17-20H,12-16H2,1-2H3,(H,27,29)",
+    "InChl_Key": "BANLFAZSVPLZEB-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1cn(CC2CC3CCC2C3)c2ccccc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13836",
+    "validation": "m_weight unsave, calculated(386.53900000000004)"
+}

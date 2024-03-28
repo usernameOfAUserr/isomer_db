@@ -1,0 +1,13 @@
+{
+    "names": "Homosildenafil ; Methyl-sildenafil",
+    "iupac_name": "5-[2-Ethoxy-5-(4-ethylpiperazine-1-sulfonyl)phenyl]-1-methyl-3-propyl-1,4-dihydro-7H-pyrazolo[4,3-d]pyrimidin-7-one",
+    "category": "data not stored",
+    "index": 13982,
+    "formular": "C23H32N6O4S",
+    "molecular_weight": 488.603,
+    "inChl": "1S/C23H32N6O4S/c1-5-8-18-20-21(27(4)26-18)23(30)25-22(24-20)17-15-16(9-10-19(17)33-7-3)34(31,32)29-13-11-28(6-2)12-14-29/h9-10,15H,5-8,11-14H2,1-4H3,(H,24,25,30)",
+    "InChl_Key": "MJEXYQIZUOHDGY-UHFFFAOYSA-N",
+    "SMILES": "CCCc1nn(C)c2c(=O)nc(-c3cc(S(=O)(=O)N4CCN(CC)CC4)ccc3OCC)[nH]c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13982",
+    "validation": "m_weight unsave, calculated(488.6140000000003)"
+}

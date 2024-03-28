@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Diethyl-2-(1H-pyrrol-1-yl)ethan-1-amine",
+    "iupac_name": "10920 ; C10H18N2 ; 166.263",
+    "category": "Phenetylamine",
+    "index": 10920,
+    "formular": "C10H18N2",
+    "molecular_weight": 166.263,
+    "inChl": "1S/C10H18N2/c1-3-11(4-2)9-10-12-7-5-6-8-12/h5-8H,3-4,9-10H2,1-2H3",
+    "InChl_Key": "PYLHNJCHZHALAE-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCn1cccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10920",
+    "validation": "m_weight unsave, calculated(166.26799999999997)"
+}

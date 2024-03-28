@@ -1,0 +1,13 @@
+{
+    "names": "Oxiracetam",
+    "iupac_name": "2-(4-Hydroxy-2-oxopyrrolidin-1-yl)acetamide",
+    "category": "data not stored",
+    "index": 9983,
+    "formular": "C6H10N2O3",
+    "molecular_weight": 158.155,
+    "inChl": "1S/C6H10N2O3/c7-5(10)3-8-2-4(9)1-6(8)11/h4,9H,1-3H2,(H2,7,10)",
+    "InChl_Key": "IHLAQQPQKRMGSS-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)CN1CC(O)CC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9983",
+    "validation": "m_weight unsave, calculated(158.15699999999998)"
+}

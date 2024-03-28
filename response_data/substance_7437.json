@@ -1,0 +1,13 @@
+{
+    "names": "T-NBOH4Br ; N-(2-Hydroxy-5-bromobenzyl)tryptamine",
+    "iupac_name": "5-Bromo-2-({[2-(1H-indol-3-yl)ethyl]amino}methyl)phenol",
+    "category": "Tryptamine",
+    "index": 7437,
+    "formular": "C17H17BrN2O",
+    "molecular_weight": 345.234,
+    "inChl": "1S/C17H17BrN2O/c18-14-6-5-13(17(21)9-14)10-19-8-7-12-11-20-16-4-2-1-3-15(12)16/h1-6,9,11,19-21H,7-8,10H2",
+    "InChl_Key": "CULYNOYCINBZGF-UHFFFAOYSA-N",
+    "SMILES": "Oc1cc(Br)ccc1CNCCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7437",
+    "validation": "m_weight unsave, calculated(345.24)"
+}

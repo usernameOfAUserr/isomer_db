@@ -1,0 +1,13 @@
+{
+    "names": "5-HO-3,4-DEBAL ; 5-Hydroxy-3,4-diethoxybenzaldehyde",
+    "iupac_name": "3,4-Diethoxy-5-hydroxybenzaldehyde",
+    "category": "data not stored",
+    "index": 8309,
+    "formular": "C11H14O4",
+    "molecular_weight": 210.226,
+    "inChl": "1S/C11H14O4/c1-3-14-10-6-8(7-12)5-9(13)11(10)15-4-2/h5-7,13H,3-4H2,1-2H3",
+    "InChl_Key": "WFVDZHOHZFZOKA-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(C=O)cc(O)c1OCC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8309",
+    "validation": "m_weight unsave, calculated(210.22899999999996)"
+}

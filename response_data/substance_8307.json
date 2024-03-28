@@ -1,0 +1,13 @@
+{
+    "names": "5-EtS-3,4-DEBAL ; 5-Ethylthio-3,4-diethoxybenzaldehyde",
+    "iupac_name": "3,4-Diethoxy-5-(ethylsulfanyl)benzaldehyde",
+    "category": "data not stored",
+    "index": 8307,
+    "formular": "C13H18O3S",
+    "molecular_weight": 254.345,
+    "inChl": "1S/C13H18O3S/c1-4-15-11-7-10(9-14)8-12(17-6-3)13(11)16-5-2/h7-9H,4-6H2,1-3H3",
+    "InChl_Key": "OVKLAVNEQAKVBG-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(C=O)cc(SCC)c1OCC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8307",
+    "validation": "m_weight unsave, calculated(254.35099999999997)"
+}

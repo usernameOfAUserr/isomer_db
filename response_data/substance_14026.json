@@ -1,0 +1,13 @@
+{
+    "names": "N-(2C-T-7) fentanyl",
+    "iupac_name": "N-(1-{2-[2,5-Dimethoxy-4-(propylsulfanyl)phenyl]ethyl}piperidin-4-yl)-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 14026,
+    "formular": "C27H38N2O3S",
+    "molecular_weight": 470.667,
+    "inChl": "1S/C27H38N2O3S/c1-5-18-33-26-20-24(31-3)21(19-25(26)32-4)12-15-28-16-13-23(14-17-28)29(27(30)6-2)22-10-8-7-9-11-22/h7-11,19-20,23H,5-6,12-18H2,1-4H3",
+    "InChl_Key": "SBBMOHKSHNBAAX-UHFFFAOYSA-N",
+    "SMILES": "CCCSc1cc(OC)c(CCN2CCC(N(C(=O)CC)c3ccccc3)CC2)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14026",
+    "validation": "m_weight unsave, calculated(470.67900000000026)"
+}

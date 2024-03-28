@@ -1,0 +1,13 @@
+{
+    "names": "N-Pr-3,4-DHPEA ; N-Propyl-3,4-dihydroxyphenethylamine",
+    "iupac_name": "4-[2-(Propylamino)ethyl]benzene-1,2-diol",
+    "category": "Phenetylamine",
+    "index": 10139,
+    "formular": "C11H17NO2",
+    "molecular_weight": 195.258,
+    "inChl": "1S/C11H17NO2/c1-2-6-12-7-5-9-3-4-10(13)11(14)8-9/h3-4,8,12-14H,2,5-7H2,1H3",
+    "InChl_Key": "WYIZELDTYZKNIL-UHFFFAOYSA-N",
+    "SMILES": "CCCNCCc1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10139",
+    "validation": "m_weight unsave, calculated(195.262)"
+}

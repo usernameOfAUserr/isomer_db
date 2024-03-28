@@ -1,0 +1,13 @@
+{
+    "names": "2-Bromo-1-(2,5-dimethoxy-4-methylphenyl)ethan-1-one",
+    "iupac_name": "1861 ; C11H13BrO3 ; 273.123",
+    "category": "data not stored",
+    "index": 1861,
+    "formular": "C11H13BrO3",
+    "molecular_weight": 273.123,
+    "inChl": "1S/C11H13BrO3/c1-7-4-11(15-3)8(9(13)6-12)5-10(7)14-2/h4-5H,6H2,1-3H3",
+    "InChl_Key": "WEEDBQSHFOQUJF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(=O)CBr)c(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1861",
+    "validation": "m_weight unsave, calculated(273.12600000000003)"
+}

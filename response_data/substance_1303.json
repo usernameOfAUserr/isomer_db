@@ -1,0 +1,13 @@
+{
+    "names": "1-(5-Chlorothiophen-2-yl)-2-(morpholin-4-yl)pentan-1-one",
+    "iupac_name": "1303 ; C13H18ClNO2S ; 287.806",
+    "category": "data not stored",
+    "index": 1303,
+    "formular": "C13H18ClNO2S",
+    "molecular_weight": 287.806,
+    "inChl": "1S/C13H18ClNO2S/c1-2-3-10(15-6-8-17-9-7-15)13(16)11-4-5-12(14)18-11/h4-5,10H,2-3,6-9H2,1H3",
+    "InChl_Key": "VLWVAAWTRJBXKF-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccc(Cl)s1)N1CCOCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1303",
+    "validation": "m_weight unsave, calculated(287.81200000000007)"
+}

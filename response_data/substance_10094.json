@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Et-5-(4-TFMPh)-2-MA ; N,N-Diethyl-5-(4-trifluoromethylphenyl)-2-methoxyamphetamine",
+    "iupac_name": "N,N-Diethyl-1-[4-methoxy-4\u2032-(trifluoromethyl)[1,1\u2032-biphenyl]-3-yl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10094,
+    "formular": "C21H26F3NO",
+    "molecular_weight": 365.432,
+    "inChl": "1S/C21H26F3NO/c1-5-25(6-2)15(3)13-18-14-17(9-12-20(18)26-4)16-7-10-19(11-8-16)21(22,23)24/h7-12,14-15H,5-6,13H2,1-4H3",
+    "InChl_Key": "XEBOWPVHGPSBEP-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)C(C)Cc1cc(-c2ccc(C(F)(F)F)cc2)ccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10094",
+    "validation": "m_weight unsave, calculated(365.4390000000001)"
+}

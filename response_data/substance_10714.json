@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl-5-phenyl-N-(3-phenylpropyl)pentan-1-amine",
+    "iupac_name": "10714 ; C21H29N ; 295.462",
+    "category": "Phenetylamine",
+    "index": 10714,
+    "formular": "C21H29N",
+    "molecular_weight": 295.462,
+    "inChl": "1S/C21H29N/c1-22(19-11-17-21-14-7-3-8-15-21)18-10-4-9-16-20-12-5-2-6-13-20/h2-3,5-8,12-15H,4,9-11,16-19H2,1H3",
+    "InChl_Key": "SFQDRARITKKUSW-UHFFFAOYSA-N",
+    "SMILES": "CN(CCCCCc1ccccc1)CCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10714",
+    "validation": "m_weight unsave, calculated(295.4699999999999)"
+}

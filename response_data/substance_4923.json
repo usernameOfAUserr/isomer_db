@@ -1,0 +1,13 @@
+{
+    "names": "ADSB-FUB-187",
+    "iupac_name": "7-Chloro-N-[(2S)-1-({2-[(cyclopropanesulfonyl)amino]ethyl}amino)-3,3-dimethyl-1-oxobutan-2-yl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4923,
+    "formular": "C26H31ClFN5O4S",
+    "molecular_weight": 564.072,
+    "inChl": "1S/C26H31ClFN5O4S/c1-26(2,3)23(25(35)29-13-14-30-38(36,37)18-11-12-18)31-24(34)21-19-5-4-6-20(27)22(19)33(32-21)15-16-7-9-17(28)10-8-16/h4-10,18,23,30H,11-15H2,1-3H3,(H,29,35)(H,31,34)/t23-/m1/s1",
+    "InChl_Key": "UANJTRHQSBHCID-HSZRJFAPSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(Cc2ccc(F)cc2)c2c(Cl)cccc12)C(=O)NCCNS(=O)(=O)C1CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4923",
+    "validation": "m_weight unsave, calculated(564.0830000000001)"
+}

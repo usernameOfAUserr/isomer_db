@@ -1,0 +1,13 @@
+{
+    "names": "R-1828",
+    "iupac_name": "Methyl 1-[4-(4-methylphenyl)-4-oxobutyl]-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 9185,
+    "formular": "C24H29NO3",
+    "molecular_weight": 379.492,
+    "inChl": "1S/C24H29NO3/c1-19-10-12-20(13-11-19)22(26)9-6-16-25-17-14-24(15-18-25,23(27)28-2)21-7-4-3-5-8-21/h3-5,7-8,10-13H,6,9,14-18H2,1-2H3",
+    "InChl_Key": "TZTIQOANDAYVBE-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C1(c2ccccc2)CCN(CCCC(=O)c2ccc(C)cc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9185",
+    "validation": "m_weight unsave, calculated(379.50000000000006)"
+}

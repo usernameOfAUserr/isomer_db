@@ -1,0 +1,13 @@
+{
+    "names": "4-MeSO2HN-A ; 4-Methylsulfonamidoamphetamine",
+    "iupac_name": "N-[4-(2-Aminopropyl)phenyl]methanesulfonamide",
+    "category": "Phenetylamine",
+    "index": 10599,
+    "formular": "C10H16N2O2S",
+    "molecular_weight": 228.311,
+    "inChl": "1S/C10H16N2O2S/c1-8(11)7-9-3-5-10(6-4-9)12-15(2,13)14/h3-6,8,12H,7,11H2,1-2H3",
+    "InChl_Key": "KLTZJTOZEWYQHS-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(NS(C)(=O)=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10599",
+    "validation": "m_weight unsave, calculated(228.31699999999995)"
+}

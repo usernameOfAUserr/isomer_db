@@ -1,0 +1,13 @@
+{
+    "names": "Pozanicline ; ABT-089",
+    "iupac_name": "2-Methyl-3-{[(2R)-pyrrolidin-2-yl]methoxy}pyridine",
+    "category": "data not stored",
+    "index": 3699,
+    "formular": "C11H16N2O",
+    "molecular_weight": 192.258,
+    "inChl": "1S/C11H16N2O/c1-9-11(5-3-6-12-9)14-8-10-4-2-7-13-10/h3,5-6,10,13H,2,4,7-8H2,1H3/t10-/m1/s1",
+    "InChl_Key": "YRVIKLBSVVNSHF-SNVBAGLBSA-N",
+    "SMILES": "Cc1ncccc1OC[C@H]1CCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3699",
+    "validation": "m_weight unsave, calculated(192.26199999999997)"
+}

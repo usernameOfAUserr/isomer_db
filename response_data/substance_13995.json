@@ -1,0 +1,13 @@
+{
+    "names": "Quinolin-8-yl 1H-indole-3-carboxylate",
+    "iupac_name": "13995 ; C18H12N2O2 ; 288.3",
+    "category": "cannabinodids",
+    "index": 13995,
+    "formular": "C18H12N2O2",
+    "molecular_weight": 288.3,
+    "inChl": "1S/C18H12N2O2/c21-18(14-11-20-15-8-2-1-7-13(14)15)22-16-9-3-5-12-6-4-10-19-17(12)16/h1-11,20H",
+    "InChl_Key": "IPTXMEJICIBATJ-UHFFFAOYSA-N",
+    "SMILES": "O=C(Oc1cccc2cccnc12)c1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13995",
+    "validation": "m_weight unsave, calculated(288.306)"
+}

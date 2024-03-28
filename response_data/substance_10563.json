@@ -1,0 +1,13 @@
+{
+    "names": "4-TES-PEA ; 4-Triethylsilylphenethylamine",
+    "iupac_name": "2-[4-(Triethylsilyl)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10563,
+    "formular": "C14H25NSi",
+    "molecular_weight": 235.441,
+    "inChl": "1S/C14H25NSi/c1-4-16(5-2,6-3)14-9-7-13(8-10-14)11-12-15/h7-10H,4-6,11-12,15H2,1-3H3",
+    "InChl_Key": "JETMCEJHOVQOQV-UHFFFAOYSA-N",
+    "SMILES": "CC[Si](CC)(CC)c1ccc(CCN)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10563",
+    "validation": "m_weight unsave, calculated(235.44699999999992)"
+}

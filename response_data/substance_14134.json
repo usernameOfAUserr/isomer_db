@@ -1,0 +1,13 @@
+{
+    "names": "1-Methyl-4-benzyloxy-DMT ; 1-Methyl-4-benzyloxy-N,N-dimethyltryptamine",
+    "iupac_name": "2-[5-(Benzyloxy)-1-methyl-1H-indol-3-yl]-N,N-dimethylethan-1-amine",
+    "category": "data not stored",
+    "index": 14134,
+    "formular": "C20H24N2O",
+    "molecular_weight": 308.417,
+    "inChl": "1S/C20H24N2O/c1-21(2)12-11-17-14-22(3)20-10-9-18(13-19(17)20)23-15-16-7-5-4-6-8-16/h4-10,13-14H,11-12,15H2,1-3H3",
+    "InChl_Key": "ACDLMULXLKEBCP-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1cn(C)c2ccc(OCc3ccccc3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14134",
+    "validation": "m_weight unsave, calculated(308.42500000000007)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "6-MeS-NAP",
+    "iupac_name": "1-[6-(Methylsulfanyl)naphthalen-2-yl]propan-2-amine",
+    "category": "data not stored",
+    "index": 2471,
+    "formular": "C14H17NS",
+    "molecular_weight": 231.356,
+    "inChl": "1S/C14H17NS/c1-10(15)7-11-3-4-13-9-14(16-2)6-5-12(13)8-11/h3-6,8-10H,7,15H2,1-2H3",
+    "InChl_Key": "YTLQCSVRMANEOQ-UHFFFAOYSA-N",
+    "SMILES": "CSc1ccc2cc(CC(C)N)ccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2471",
+    "validation": "m_weight unsave, calculated(231.36399999999998)"
+}

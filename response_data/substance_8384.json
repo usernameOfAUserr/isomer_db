@@ -1,0 +1,13 @@
+{
+    "names": "Codeinone",
+    "iupac_name": "3-Methoxy-17-methyl-7,8-didehydro-4,5\u03b1-epoxymorphinan-6-one ; (4R,4aR,7aR,12bS)-9-Methoxy-3-methyl-2,3,4,4a-tetrahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinolin-7(7aH)-one ; (5\u03b1)-3-Methoxy-17-methyl-7,8-didehydro-4,5-epoxymorphinan-6-one",
+    "category": "data not stored",
+    "index": 8384,
+    "formular": "C18H19NO3",
+    "molecular_weight": 297.348,
+    "inChl": "1S/C18H19NO3/c1-19-8-7-18-11-4-5-13(20)17(18)22-16-14(21-2)6-3-10(15(16)18)9-12(11)19/h3-6,11-12,17H,7-9H2,1-2H3/t11-,12+,17-,18-/m0/s1",
+    "InChl_Key": "XYYVYLMBEZUESM-CMKMFDCUSA-N",
+    "SMILES": "COc1ccc2c3c1O[C@H]1C(=O)C=C[C@H]4[C@@H](C2)N(C)CC[C@]314",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8384",
+    "validation": "m_weight unsave, calculated(297.35400000000004)"
+}

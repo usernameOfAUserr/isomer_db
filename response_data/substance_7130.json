@@ -1,0 +1,13 @@
+{
+    "names": "DOMeSOM ; 2,5-Dimethoxy-4-(methylsulfinylmethyl)amphetamine",
+    "iupac_name": "1-{4-[(Methanesulfinyl)methyl]-2,5-dimethoxyphenyl}propan-2-amine",
+    "category": "data not stored",
+    "index": 7130,
+    "formular": "C13H21NO3S",
+    "molecular_weight": 271.376,
+    "inChl": "1S/C13H21NO3S/c1-9(14)5-10-6-13(17-3)11(8-18(4)15)7-12(10)16-2/h6-7,9H,5,8,14H2,1-4H3",
+    "InChl_Key": "INSBXLKZYHOONW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CS(C)=O)c(OC)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7130",
+    "validation": "m_weight unsave, calculated(271.382)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 5-(dipropylcarbamoyl)-4-propylimidazo[1,5-a]quinoline-3-carboxylate",
+    "iupac_name": "5988 ; C24H31N3O3 ; 409.521",
+    "category": "data not stored",
+    "index": 5988,
+    "formular": "C24H31N3O3",
+    "molecular_weight": 409.521,
+    "inChl": "1S/C24H31N3O3/c1-5-11-18-20(23(28)26(14-6-2)15-7-3)17-12-9-10-13-19(17)27-16-25-21(22(18)27)24(29)30-8-4/h9-10,12-13,16H,5-8,11,14-15H2,1-4H3",
+    "InChl_Key": "PAENJAFAJCOEPE-UHFFFAOYSA-N",
+    "SMILES": "CCCc1c(C(=O)N(CCC)CCC)c2ccccc2n2cnc(C(=O)OCC)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5988",
+    "validation": "m_weight unsave, calculated(409.5300000000002)"
+}

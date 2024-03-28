@@ -1,0 +1,13 @@
+{
+    "names": "CTMP-propyl ; CTPP",
+    "iupac_name": "2-[1-(3,4-Dichlorophenyl)butyl]piperidine",
+    "category": "data not stored",
+    "index": 8649,
+    "formular": "C15H21Cl2N",
+    "molecular_weight": 286.24,
+    "inChl": "1S/C15H21Cl2N/c1-2-5-12(15-6-3-4-9-18-15)11-7-8-13(16)14(17)10-11/h7-8,10,12,15,18H,2-6,9H2,1H3",
+    "InChl_Key": "USGRALLMTYXJMV-UHFFFAOYSA-N",
+    "SMILES": "CCCC(c1ccc(Cl)c(Cl)c1)C1CCCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8649",
+    "validation": "m_weight unsave, calculated(286.246)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-(7,7-Dimethyloctyloxy)-T ; 5-(7,7-Dimethyloctyloxy)tryptamine",
+    "iupac_name": "2-{5-[(7,7-Dimethyloctyl)oxy]-1H-indol-3-yl}ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 14428,
+    "formular": "C20H32N2O",
+    "molecular_weight": 316.481,
+    "inChl": "1S/C20H32N2O/c1-20(2,3)11-6-4-5-7-13-23-17-8-9-19-18(14-17)16(10-12-21)15-22-19/h8-9,14-15,22H,4-7,10-13,21H2,1-3H3",
+    "InChl_Key": "BWGQNOPSHAYCQP-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(C)CCCCCCOc1ccc2[nH]cc(CCN)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14428",
+    "validation": "m_weight unsave, calculated(316.489)"
+}

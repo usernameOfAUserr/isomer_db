@@ -1,0 +1,13 @@
+{
+    "names": "Phenylephrine ; N-Methyl-\u03b2,3-dihydroxyphenethylamine ; \u03b2-HO-N-Me-3-HPEA ; m-Synephrine",
+    "iupac_name": "3-[1-Hydroxy-2-(methylamino)ethyl]phenol",
+    "category": "Shulgin_Index",
+    "index": 6157,
+    "formular": "C9H13NO2",
+    "molecular_weight": 167.205,
+    "inChl": "1S/C9H13NO2/c1-10-6-9(12)7-3-2-4-8(11)5-7/h2-5,9-12H,6H2,1H3",
+    "InChl_Key": "SONNWYBIRXJNDC-UHFFFAOYSA-N",
+    "SMILES": "CNCC(O)c1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6157",
+    "validation": "m_weight unsave, calculated(167.208)"
+}

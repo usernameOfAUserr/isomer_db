@@ -1,0 +1,13 @@
+{
+    "names": "Etodesnitazene ; Etazene ; Desnitroetonitazene",
+    "iupac_name": "2-{2-[(4-Ethoxyphenyl)methyl]-1H-benzimidazol-1-yl}-N,N-diethylethan-1-amine",
+    "category": "data not stored",
+    "index": 12289,
+    "formular": "C22H29N3O",
+    "molecular_weight": 351.485,
+    "inChl": "1S/C22H29N3O/c1-4-24(5-2)15-16-25-21-10-8-7-9-20(21)23-22(25)17-18-11-13-19(14-12-18)26-6-3/h7-14H,4-6,15-17H2,1-3H3",
+    "InChl_Key": "BMLPNUNXHUGDOI-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(Cc2nc3ccccc3n2CCN(CC)CC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12289",
+    "validation": "m_weight unsave, calculated(351.494)"
+}

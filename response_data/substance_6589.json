@@ -1,0 +1,13 @@
+{
+    "names": "2-(Pyrrolidin-1-yl)-3,4-dihydronaphthalen-1(2H)-one",
+    "iupac_name": "6589 ; C14H17NO ; 215.291",
+    "category": "data not stored",
+    "index": 6589,
+    "formular": "C14H17NO",
+    "molecular_weight": 215.291,
+    "inChl": "1S/C14H17NO/c16-14-12-6-2-1-5-11(12)7-8-13(14)15-9-3-4-10-15/h1-2,5-6,13H,3-4,7-10H2",
+    "InChl_Key": "WJPZNHOSMWOQLU-UHFFFAOYSA-N",
+    "SMILES": "O=C1c2ccccc2CCC1N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6589",
+    "validation": "m_weight unsave, calculated(215.29599999999996)"
+}

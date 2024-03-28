@@ -1,0 +1,13 @@
+{
+    "names": "3-(2-Ethoxy-4-ethyl-5-methoxyphenyl)piperidine",
+    "iupac_name": "13037 ; C16H25NO2 ; 263.375",
+    "category": "data not stored",
+    "index": 13037,
+    "formular": "C16H25NO2",
+    "molecular_weight": 263.375,
+    "inChl": "1S/C16H25NO2/c1-4-12-9-16(19-5-2)14(10-15(12)18-3)13-7-6-8-17-11-13/h9-10,13,17H,4-8,11H2,1-3H3",
+    "InChl_Key": "CBBFREYVJSSVIL-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(CC)c(OC)cc1C1CCCNC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13037",
+    "validation": "m_weight unsave, calculated(263.381)"
+}

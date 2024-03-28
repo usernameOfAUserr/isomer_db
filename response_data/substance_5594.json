@@ -1,0 +1,13 @@
+{
+    "names": "5-EtO-MET ; 5-Ethoxy-N-methyl-N-ethyltryptamine",
+    "iupac_name": "2-(5-Ethoxy-1H-indol-3-yl)-N-ethyl-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5594,
+    "formular": "C15H22N2O",
+    "molecular_weight": 246.348,
+    "inChl": "1S/C15H22N2O/c1-4-17(3)9-8-12-11-16-15-7-6-13(18-5-2)10-14(12)15/h6-7,10-11,16H,4-5,8-9H2,1-3H3",
+    "InChl_Key": "KCPQLNQEAJVBMZ-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc2[nH]cc(CCN(C)CC)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5594",
+    "validation": "m_weight unsave, calculated(246.35399999999996)"
+}

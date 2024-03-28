@@ -1,0 +1,13 @@
+{
+    "names": "CP-809,101",
+    "iupac_name": "2-[(3-Chlorophenyl)methoxy]-6-(piperazin-1-yl)pyrazine",
+    "category": "data not stored",
+    "index": 9665,
+    "formular": "C15H17ClN4O",
+    "molecular_weight": 304.775,
+    "inChl": "1S/C15H17ClN4O/c16-13-3-1-2-12(8-13)11-21-15-10-18-9-14(19-15)20-6-4-17-5-7-20/h1-3,8-10,17H,4-7,11H2",
+    "InChl_Key": "PCWGGOVOEWHPMG-UHFFFAOYSA-N",
+    "SMILES": "Clc1cccc(COc2cncc(N3CCNCC3)n2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9665",
+    "validation": "m_weight unsave, calculated(304.78100000000006)"
+}

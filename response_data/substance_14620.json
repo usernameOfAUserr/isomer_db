@@ -1,0 +1,13 @@
+{
+    "names": "AM-1283",
+    "iupac_name": "[1-(4-Hydroxybutyl)-1H-indol-3-yl](naphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 14620,
+    "formular": "C23H21NO2",
+    "molecular_weight": 343.418,
+    "inChl": "1S/C23H21NO2/c25-15-6-5-14-24-16-21(19-11-3-4-13-22(19)24)23(26)20-12-7-9-17-8-1-2-10-18(17)20/h1-4,7-13,16,25H,5-6,14-15H2",
+    "InChl_Key": "FIBVDFAPDNJBNI-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1cccc2ccccc12)c1cn(CCCCO)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14620",
+    "validation": "m_weight unsave, calculated(343.4260000000001)"
+}

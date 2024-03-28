@@ -1,0 +1,13 @@
+{
+    "names": "Glutamic acid",
+    "iupac_name": "Glutamic acid ; 2-Aminopentanedioic acid",
+    "category": "data not stored",
+    "index": 7799,
+    "formular": "C5H9NO4",
+    "molecular_weight": 147.129,
+    "inChl": "1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)",
+    "InChl_Key": "WHUUTDBJXJRKMK-UHFFFAOYSA-N",
+    "SMILES": "NC(CCC(=O)O)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7799",
+    "validation": "m_weight unsave, calculated(147.13)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-(4-Hydroxy-3-methoxybenzyliden)tyramine",
+    "iupac_name": "4-[(E)-{[2-(4-Hydroxyphenyl)ethyl]imino}methyl]-2-methoxyphenol",
+    "category": "data not stored",
+    "index": 3598,
+    "formular": "C16H17NO3",
+    "molecular_weight": 271.311,
+    "inChl": "1S/C16H17NO3/c1-20-16-10-13(4-7-15(16)19)11-17-9-8-12-2-5-14(18)6-3-12/h2-7,10-11,18-19H,8-9H2,1H3/b17-11+",
+    "InChl_Key": "VHUINYRVPRWTFR-GZTJUZNOSA-N",
+    "SMILES": "COc1cc(/C=N/CCc2ccc(O)cc2)ccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3598",
+    "validation": "m_weight unsave, calculated(271.31600000000003)"
+}

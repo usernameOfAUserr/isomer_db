@@ -1,0 +1,13 @@
+{
+    "names": "N-mor-2-MA",
+    "iupac_name": "4-[1-(2-Methoxyphenyl)propan-2-yl]morpholine",
+    "category": "Shulgin_Index",
+    "index": 6113,
+    "formular": "C14H21NO2",
+    "molecular_weight": 235.322,
+    "inChl": "1S/C14H21NO2/c1-12(15-7-9-17-10-8-15)11-13-5-3-4-6-14(13)16-2/h3-6,12H,7-11H2,1-2H3",
+    "InChl_Key": "FBHHJANCRCAJCC-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CC(C)N1CCOCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6113",
+    "validation": "m_weight unsave, calculated(235.32699999999994)"
+}

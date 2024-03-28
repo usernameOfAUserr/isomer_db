@@ -1,0 +1,13 @@
+{
+    "names": "4-DHBF-PCA",
+    "iupac_name": "1-(2,3-Dihydro-1-benzofuran-5-yl)cyclohexan-1-amine",
+    "category": "Arylcycloalkylamine",
+    "index": 3379,
+    "formular": "C14H19NO",
+    "molecular_weight": 217.307,
+    "inChl": "1S/C14H19NO/c15-14(7-2-1-3-8-14)12-4-5-13-11(10-12)6-9-16-13/h4-5,10H,1-3,6-9,15H2",
+    "InChl_Key": "ZXJYAGYMEAKJRW-UHFFFAOYSA-N",
+    "SMILES": "NC1(c2ccc3c(c2)CCO3)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3379",
+    "validation": "m_weight unsave, calculated(217.31199999999998)"
+}

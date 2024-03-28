@@ -1,0 +1,13 @@
+{
+    "names": "1-[(1R,2R,5S)-2-Phenylbicyclo[3.1.0]hexan-2-yl]piperidine",
+    "iupac_name": "3372 ; C17H23N ; 241.371",
+    "category": "Arylcycloalkylamine",
+    "index": 3372,
+    "formular": "C17H23N",
+    "molecular_weight": 241.371,
+    "inChl": "1S/C17H23N/c1-3-7-15(8-4-1)17(10-9-14-13-16(14)17)18-11-5-2-6-12-18/h1,3-4,7-8,14,16H,2,5-6,9-13H2/t14-,16+,17-/m0/s1",
+    "InChl_Key": "QWQBIGYOFYXHMI-UAGQMJEPSA-N",
+    "SMILES": "c1ccc([C@@]2(N3CCCCC3)CC[C@H]3C[C@H]32)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3372",
+    "validation": "m_weight unsave, calculated(241.37800000000001)"
+}

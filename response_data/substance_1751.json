@@ -1,0 +1,13 @@
+{
+    "names": "(2-Adamantyl) 5F-APINACA ; A-5F-PINACA",
+    "iupac_name": "N-(Adamantan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 1751,
+    "formular": "C23H30FN3O",
+    "molecular_weight": 383.502,
+    "inChl": "1S/C23H30FN3O/c24-8-4-1-5-9-27-20-7-3-2-6-19(20)22(26-27)23(28)25-21-17-11-15-10-16(13-17)14-18(21)12-15/h2-3,6-7,15-18,21H,1,4-5,8-14H2,(H,25,28)",
+    "InChl_Key": "XPESDAVMEXJZCY-UHFFFAOYSA-N",
+    "SMILES": "O=C(NC1C2CC3CC(C2)CC1C3)c1nn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1751",
+    "validation": "m_weight unsave, calculated(383.51100000000025)"
+}

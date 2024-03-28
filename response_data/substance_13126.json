@@ -1,0 +1,13 @@
+{
+    "names": "tert-Butyl [(2-{[tert-butyl(dimethyl)silyl]oxy}phenyl)methyl][2-(2-hydroxy-4-iodo-5-methoxyphenyl)ethyl]carbamate",
+    "iupac_name": "13126 ; C27H40INO5Si ; 613.6",
+    "category": "data not stored",
+    "index": 13126,
+    "formular": "C27H40INO5Si",
+    "molecular_weight": 613.6,
+    "inChl": "1S/C27H40INO5Si/c1-26(2,3)33-25(31)29(15-14-19-16-24(32-7)21(28)17-22(19)30)18-20-12-10-11-13-23(20)34-35(8,9)27(4,5)6/h10-13,16-17,30H,14-15,18H2,1-9H3",
+    "InChl_Key": "INWINDZRTCVOJG-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN(Cc2ccccc2O[Si](C)(C)C(C)(C)C)C(=O)OC(C)(C)C)c(O)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13126",
+    "validation": "m_weight unsave, calculated(613.6090000000004)"
+}

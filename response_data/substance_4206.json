@@ -1,0 +1,13 @@
+{
+    "names": "US 2013/0178453 #34",
+    "iupac_name": "(6-Ethyl-6H-thieno[2,3-b]pyrrol-5-yl)(1-propyl-1H-pyrrolo[2,3-b]pyridin-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4206,
+    "formular": "C19H19N3OS",
+    "molecular_weight": 337.439,
+    "inChl": "1S/C19H19N3OS/c1-3-9-21-12-15(14-6-5-8-20-18(14)21)17(23)16-11-13-7-10-24-19(13)22(16)4-2/h5-8,10-12H,3-4,9H2,1-2H3",
+    "InChl_Key": "BGQSTDAOWJYYGB-UHFFFAOYSA-N",
+    "SMILES": "CCCn1cc(C(=O)c2cc3ccsc3n2CC)c2cccnc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4206",
+    "validation": "m_weight unsave, calculated(337.44800000000004)"
+}

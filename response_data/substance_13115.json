@@ -1,0 +1,13 @@
+{
+    "names": "1-Benzofuran-2-carbaldehyde",
+    "iupac_name": "13115 ; C9H6O2 ; 146.143",
+    "category": "data not stored",
+    "index": 13115,
+    "formular": "C9H6O2",
+    "molecular_weight": 146.143,
+    "inChl": "1S/C9H6O2/c10-6-8-5-7-3-1-2-4-9(7)11-8/h1-6H",
+    "InChl_Key": "ADDZHRRCUWNSCS-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1cc2ccccc2o1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13115",
+    "validation": "m_weight unsave, calculated(146.14499999999998)"
+}

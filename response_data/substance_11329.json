@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1,\u03b2-Oxo-5-MeO-DMT ; \u03b1,\u03b2-Dioxo-5-methoxy-N,N-dimethyltryptamine",
+    "iupac_name": "2-(5-Methoxy-1H-indol-3-yl)-N,N-dimethyl-2-oxoacetamide",
+    "category": "Tryptamine",
+    "index": 11329,
+    "formular": "C13H14N2O3",
+    "molecular_weight": 246.262,
+    "inChl": "1S/C13H14N2O3/c1-15(2)13(17)12(16)10-7-14-11-5-4-8(18-3)6-9(10)11/h4-7,14H,1-3H3",
+    "InChl_Key": "PMSOYLIXEFINNU-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(C(=O)C(=O)N(C)C)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11329",
+    "validation": "m_weight unsave, calculated(246.266)"
+}

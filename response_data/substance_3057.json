@@ -1,0 +1,13 @@
+{
+    "names": "QMPSB",
+    "iupac_name": "Quinolin-8-yl 4-methyl-3-(piperidine-1-sulfonyl)benzoate",
+    "category": "cannabinodids",
+    "index": 3057,
+    "formular": "C22H22N2O4S",
+    "molecular_weight": 410.486,
+    "inChl": "1S/C22H22N2O4S/c1-16-10-11-18(15-20(16)29(26,27)24-13-3-2-4-14-24)22(25)28-19-9-5-7-17-8-6-12-23-21(17)19/h5-12,15H,2-4,13-14H2,1H3",
+    "InChl_Key": "WORIMYADZQJWOU-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)Oc2cccc3cccnc23)cc1S(=O)(=O)N1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3057",
+    "validation": "m_weight unsave, calculated(410.49500000000006)"
+}

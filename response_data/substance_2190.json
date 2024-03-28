@@ -1,0 +1,13 @@
+{
+    "names": "3C-FE ; 4-(2-Fluoroethoxy)-3,5-dimethoxyamphetamine ; 3C-FEM",
+    "iupac_name": "1-[4-(2-Fluoroethoxy)-3,5-dimethoxyphenyl]propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 2190,
+    "formular": "C13H20FNO3",
+    "molecular_weight": 257.301,
+    "inChl": "1S/C13H20FNO3/c1-9(15)6-10-7-11(16-2)13(18-5-4-14)12(8-10)17-3/h7-9H,4-6,15H2,1-3H3",
+    "InChl_Key": "BILSAOCOBOYWEO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)cc(OC)c1OCCF",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2190",
+    "validation": "m_weight unsave, calculated(257.30499999999995)"
+}

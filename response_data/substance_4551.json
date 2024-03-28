@@ -1,0 +1,13 @@
+{
+    "names": "CBD-003",
+    "iupac_name": "N-[(4-Methylphenyl)methyl]-3-(piperidine-1-sulfonyl)benzamide",
+    "category": "cannabinodids",
+    "index": 4551,
+    "formular": "C20H24N2O3S",
+    "molecular_weight": 372.481,
+    "inChl": "1S/C20H24N2O3S/c1-16-8-10-17(11-9-16)15-21-20(23)18-6-5-7-19(14-18)26(24,25)22-12-3-2-4-13-22/h5-11,14H,2-4,12-13,15H2,1H3,(H,21,23)",
+    "InChl_Key": "YESULRVJOAPWSI-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(CNC(=O)c2cccc(S(=O)(=O)N3CCCCC3)c2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4551",
+    "validation": "m_weight unsave, calculated(372.4900000000003)"
+}

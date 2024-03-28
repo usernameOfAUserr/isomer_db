@@ -1,0 +1,13 @@
+{
+    "names": "2-Anilino-2-phenylcyclohexan-1-one",
+    "iupac_name": "14745 ; C18H19NO ; 265.35",
+    "category": "data not stored",
+    "index": 14745,
+    "formular": "C18H19NO",
+    "molecular_weight": 265.35,
+    "inChl": "1S/C18H19NO/c20-17-13-7-8-14-18(17,15-9-3-1-4-10-15)19-16-11-5-2-6-12-16/h1-6,9-12,19H,7-8,13-14H2",
+    "InChl_Key": "DRTDAABVQDWEGO-UHFFFAOYSA-N",
+    "SMILES": "O=C1CCCCC1(Nc1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14745",
+    "validation": "m_weight unsave, calculated(265.35600000000005)"
+}

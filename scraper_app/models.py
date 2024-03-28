@@ -13,6 +13,7 @@ class Substance(models.Model):
     inchl_key = models.CharField(max_length=100,default="not_known")
     smiles = models.CharField(max_length=100,default="not_known")
     category_tag = models.CharField(max_length=100,default="not_known")
+    validation_message = models.CharField(max_length=300,default="")
 
 class json_substance(models.Model):
     all = models.JSONField()

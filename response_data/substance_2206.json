@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyldopamine ; 3,4-Dihydroxy-N-methylphenethylamine ; Deoxyepinephrine ; Epinine ; N-Me-DHPEA",
+    "iupac_name": "4-[2-(Methylamino)ethyl]benzene-1,2-diol",
+    "category": "Peyote alkaloid",
+    "index": 2206,
+    "formular": "C9H13NO2",
+    "molecular_weight": 167.205,
+    "inChl": "1S/C9H13NO2/c1-10-5-4-7-2-3-8(11)9(12)6-7/h2-3,6,10-12H,4-5H2,1H3",
+    "InChl_Key": "NGKZFDYBISXGGS-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2206",
+    "validation": "m_weight unsave, calculated(167.208)"
+}

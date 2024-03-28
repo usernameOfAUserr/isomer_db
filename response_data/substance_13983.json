@@ -1,0 +1,13 @@
+{
+    "names": "Indiplon",
+    "iupac_name": "N-Methyl-N-{3-[3-(thiophene-2-carbonyl)pyrazolo[1,5-a]pyrimidin-7-yl]phenyl}acetamide",
+    "category": "data not stored",
+    "index": 13983,
+    "formular": "C20H16N4O2S",
+    "molecular_weight": 376.432,
+    "inChl": "1S/C20H16N4O2S/c1-13(25)23(2)15-6-3-5-14(11-15)17-8-9-21-20-16(12-22-24(17)20)19(26)18-7-4-10-27-18/h3-12H,1-2H3",
+    "InChl_Key": "CBIAWPMZSFFRGN-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)N(C)c1cccc(-c2ccnc3c(C(=O)c4cccs4)cnn23)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13983",
+    "validation": "m_weight unsave, calculated(376.4410000000001)"
+}

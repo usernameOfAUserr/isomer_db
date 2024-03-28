@@ -1,0 +1,13 @@
+{
+    "names": "Phenetrazine",
+    "iupac_name": "3-Ethyl-2-phenylmorpholine",
+    "category": "data not stored",
+    "index": 1105,
+    "formular": "C12H17NO",
+    "molecular_weight": 191.269,
+    "inChl": "1S/C12H17NO/c1-2-11-12(14-9-8-13-11)10-6-4-3-5-7-10/h3-7,11-13H,2,8-9H2,1H3",
+    "InChl_Key": "DOMAVIHZFHQQHF-UHFFFAOYSA-N",
+    "SMILES": "CCC1NCCOC1c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1105",
+    "validation": "m_weight unsave, calculated(191.27400000000003)"
+}

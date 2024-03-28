@@ -1,0 +1,13 @@
+{
+    "names": "7-Chloro-2-carboxyl-4-acetyltryptamine",
+    "iupac_name": "4-Acetyl-3-(2-aminoethyl)-7-chloro-1H-indole-2-carboxylic acid",
+    "category": "Tryptamine",
+    "index": 11075,
+    "formular": "C13H13ClN2O3",
+    "molecular_weight": 280.707,
+    "inChl": "1S/C13H13ClN2O3/c1-6(17)7-2-3-9(14)12-10(7)8(4-5-15)11(16-12)13(18)19/h2-3,16H,4-5,15H2,1H3,(H,18,19)",
+    "InChl_Key": "VNLOCHULIARRKR-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)c1ccc(Cl)c2[nH]c(C(=O)O)c(CCN)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11075",
+    "validation": "m_weight unsave, calculated(280.711)"
+}

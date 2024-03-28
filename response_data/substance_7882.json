@@ -1,0 +1,13 @@
+{
+    "names": "6-F-3-Me-Indole",
+    "iupac_name": "6-Fluoro-3-methyl-1H-indole",
+    "category": "data not stored",
+    "index": 7882,
+    "formular": "C9H8FN",
+    "molecular_weight": 149.165,
+    "inChl": "1S/C9H8FN/c1-6-5-11-9-4-7(10)2-3-8(6)9/h2-5,11H,1H3",
+    "InChl_Key": "BKFGKRQBSCLQNL-UHFFFAOYSA-N",
+    "SMILES": "Cc1c[nH]c2cc(F)ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7882",
+    "validation": "m_weight unsave, calculated(149.16799999999998)"
+}

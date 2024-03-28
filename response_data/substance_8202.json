@@ -1,0 +1,13 @@
+{
+    "names": "QMPCB ; SGT-11",
+    "iupac_name": "Quinolin-8-yl 4-methyl-3-(piperidine-1-carbonyl)benzoate",
+    "category": "cannabinodids",
+    "index": 8202,
+    "formular": "C23H22N2O3",
+    "molecular_weight": 374.432,
+    "inChl": "1S/C23H22N2O3/c1-16-10-11-18(15-19(16)22(26)25-13-3-2-4-14-25)23(27)28-20-9-5-7-17-8-6-12-24-21(17)20/h5-12,15H,2-4,13-14H2,1H3",
+    "InChl_Key": "ZMGFNMXJCDRMLP-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)Oc2cccc3cccnc23)cc1C(=O)N1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8202",
+    "validation": "m_weight unsave, calculated(374.44)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-Fluoro-N-thietan-3-yl-NMT ; 5-Fluoro-N-thietan-3-yl-N-methyltryptamine",
+    "iupac_name": "N-[2-(5-Fluoro-1H-indol-3-yl)ethyl]-N-methylthietan-3-amine",
+    "category": "Tryptamine",
+    "index": 13368,
+    "formular": "C14H17FN2S",
+    "molecular_weight": 264.362,
+    "inChl": "1S/C14H17FN2S/c1-17(12-8-18-9-12)5-4-10-7-16-14-3-2-11(15)6-13(10)14/h2-3,6-7,12,16H,4-5,8-9H2,1H3",
+    "InChl_Key": "HFBYAVUEBRLBOB-UHFFFAOYSA-N",
+    "SMILES": "CN(CCc1c[nH]c2ccc(F)cc12)C1CSC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13368",
+    "validation": "m_weight unsave, calculated(264.36899999999997)"
+}

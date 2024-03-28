@@ -1,0 +1,13 @@
+{
+    "names": "N-Benzyl-3-oxo-1,2,3,5-tetrahydropyrido[1,2-a]benzimidazole-4-carboxamide",
+    "iupac_name": "3793 ; C19H17N3O2 ; 319.357",
+    "category": "data not stored",
+    "index": 3793,
+    "formular": "C19H17N3O2",
+    "molecular_weight": 319.357,
+    "inChl": "1S/C19H17N3O2/c23-16-10-11-22-15-9-5-4-8-14(15)21-18(22)17(16)19(24)20-12-13-6-2-1-3-7-13/h1-9,21H,10-12H2,(H,20,24)",
+    "InChl_Key": "YZXQSHVNIPXGKK-UHFFFAOYSA-N",
+    "SMILES": "O=C1CCN2C(=C1C(=O)NCc1ccccc1)Nc1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3793",
+    "validation": "m_weight unsave, calculated(319.36400000000003)"
+}

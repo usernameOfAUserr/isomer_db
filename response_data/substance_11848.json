@@ -1,0 +1,13 @@
+{
+    "names": "1-Methylpiperidin-3-yl diphenylacetate",
+    "iupac_name": "11848 ; C20H23NO2 ; 309.402",
+    "category": "data not stored",
+    "index": 11848,
+    "formular": "C20H23NO2",
+    "molecular_weight": 309.402,
+    "inChl": "1S/C20H23NO2/c1-21-14-8-13-18(15-21)23-20(22)19(16-9-4-2-5-10-16)17-11-6-3-7-12-17/h2-7,9-12,18-19H,8,13-15H2,1H3",
+    "InChl_Key": "JOOITGNDMHFLJI-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCC(OC(=O)C(c2ccccc2)c2ccccc2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11848",
+    "validation": "m_weight unsave, calculated(309.40900000000005)"
+}

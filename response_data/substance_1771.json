@@ -1,0 +1,13 @@
+{
+    "names": "JWH-237",
+    "iupac_name": "2-(3-Chlorophenyl)-1-(1-pentyl-1H-indol-3-yl)ethan-1-one",
+    "category": "cannabinodids",
+    "index": 1771,
+    "formular": "C21H22ClNO",
+    "molecular_weight": 339.858,
+    "inChl": "1S/C21H22ClNO/c1-2-3-6-12-23-15-19(18-10-4-5-11-20(18)23)21(24)14-16-8-7-9-17(22)13-16/h4-5,7-11,13,15H,2-3,6,12,14H2,1H3",
+    "InChl_Key": "KURUPMPUIIQATM-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)Cc2cccc(Cl)c2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1771",
+    "validation": "m_weight unsave, calculated(339.866)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Boldenone acetate",
+    "iupac_name": "3-Oxoandrosta-1,4-dien-17\u03b2-yl acetate ; (8R,9S,10R,13S,14S,17S)-10,13-Dimethyl-3-oxo-6,7,8,9,10,11,12,13,14,15,16,17-dodecahydro-3H-cyclopenta[a]phenanthren-17-yl acetate ; (17\u03b2)-3-Oxoandrosta-1,4-dien-17-yl acetate",
+    "category": "data not stored",
+    "index": 3976,
+    "formular": "C21H28O3",
+    "molecular_weight": 328.445,
+    "inChl": "1S/C21H28O3/c1-13(22)24-19-7-6-17-16-5-4-14-12-15(23)8-10-20(14,2)18(16)9-11-21(17,19)3/h8,10,12,16-19H,4-7,9,11H2,1-3H3/t16-,17-,18-,19-,20-,21-/m0/s1",
+    "InChl_Key": "KPCDGGNHYODURF-PXQJOHHUSA-N",
+    "SMILES": "CC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@H]3CC[C@]12C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3976",
+    "validation": "m_weight unsave, calculated(328.45200000000006)"
+}

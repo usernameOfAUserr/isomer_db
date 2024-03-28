@@ -1,0 +1,13 @@
+{
+    "names": "SGT-176",
+    "iupac_name": "N-Cycloheptyl-6-fluoro-1-pentyl-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11589,
+    "formular": "C21H29FN2O",
+    "molecular_weight": 344.466,
+    "inChl": "1S/C21H29FN2O/c1-2-3-8-13-24-15-19(18-12-11-16(22)14-20(18)24)21(25)23-17-9-6-4-5-7-10-17/h11-12,14-15,17H,2-10,13H2,1H3,(H,23,25)",
+    "InChl_Key": "LEIHSPDFUWRXKE-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NC2CCCCCC2)c2ccc(F)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11589",
+    "validation": "m_weight unsave, calculated(344.4740000000003)"
+}

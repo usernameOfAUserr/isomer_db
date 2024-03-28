@@ -1,0 +1,13 @@
+{
+    "names": "PeMePEA ; Pentamethyphenethylamine",
+    "iupac_name": "2-(Pentamethylphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7910,
+    "formular": "C13H21N",
+    "molecular_weight": 191.313,
+    "inChl": "1S/C13H21N/c1-8-9(2)11(4)13(6-7-14)12(5)10(8)3/h6-7,14H2,1-5H3",
+    "InChl_Key": "JFLFQSJPOUSVCM-UHFFFAOYSA-N",
+    "SMILES": "Cc1c(C)c(C)c(CCN)c(C)c1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7910",
+    "validation": "m_weight unsave, calculated(191.31799999999996)"
+}

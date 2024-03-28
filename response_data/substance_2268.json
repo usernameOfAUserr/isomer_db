@@ -1,0 +1,13 @@
+{
+    "names": "Salsoline",
+    "iupac_name": "7-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-6-ol",
+    "category": "data not stored",
+    "index": 2268,
+    "formular": "C11H15NO2",
+    "molecular_weight": 193.242,
+    "inChl": "1S/C11H15NO2/c1-7-9-6-11(14-2)10(13)5-8(9)3-4-12-7/h5-7,12-13H,3-4H2,1-2H3",
+    "InChl_Key": "YTPRLBGPGZHUPD-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(cc1O)CCNC2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2268",
+    "validation": "m_weight unsave, calculated(193.24599999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-Cyclopentyl-T ; 5-Cyclopentyltryptamine",
+    "iupac_name": "2-(5-Cyclopentyl-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 11946,
+    "formular": "C15H20N2",
+    "molecular_weight": 228.333,
+    "inChl": "1S/C15H20N2/c16-8-7-13-10-17-15-6-5-12(9-14(13)15)11-3-1-2-4-11/h5-6,9-11,17H,1-4,7-8,16H2",
+    "InChl_Key": "ZCKUFKOJCDUQRY-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2ccc(C3CCCC3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11946",
+    "validation": "m_weight unsave, calculated(228.33899999999994)"
+}

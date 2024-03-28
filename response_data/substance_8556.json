@@ -1,0 +1,13 @@
+{
+    "names": "bk-2C-iP ; \u03b2-Keto-4-isopropyl-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-Amino-1-[2,5-dimethoxy-4-(propan-2-yl)phenyl]ethan-1-one",
+    "category": "data not stored",
+    "index": 8556,
+    "formular": "C13H19NO3",
+    "molecular_weight": 237.295,
+    "inChl": "1S/C13H19NO3/c1-8(2)9-5-13(17-4)10(11(15)7-14)6-12(9)16-3/h5-6,8H,7,14H2,1-4H3",
+    "InChl_Key": "ZOPYJOSHJWJRDS-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(C)C)c(OC)cc1C(=O)CN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8556",
+    "validation": "m_weight unsave, calculated(237.299)"
+}

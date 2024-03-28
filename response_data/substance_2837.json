@@ -1,0 +1,13 @@
+{
+    "names": "Modafiendz ; N-Methylbisfluoromodafinil",
+    "iupac_name": "2-[Bis(4-fluorophenyl)methanesulfinyl]-N-methylacetamide",
+    "category": "data not stored",
+    "index": 2837,
+    "formular": "C16H15F2NO2S",
+    "molecular_weight": 323.358,
+    "inChl": "1S/C16H15F2NO2S/c1-19-15(20)10-22(21)16(11-2-6-13(17)7-3-11)12-4-8-14(18)9-5-12/h2-9,16H,10H2,1H3,(H,19,20)",
+    "InChl_Key": "MQZWTCIUDSDFCQ-UHFFFAOYSA-N",
+    "SMILES": "CNC(=O)CS(=O)C(c1ccc(F)cc1)c1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2837",
+    "validation": "m_weight unsave, calculated(323.36400000000003)"
+}

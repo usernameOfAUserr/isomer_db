@@ -1,0 +1,13 @@
+{
+    "names": "Lysergic acid methyl ester ; Methyl lysergate",
+    "iupac_name": "Methyl 6-methyl-9,10-didehydroergoline-8\u03b2-carboxylate ; Methyl (8\u03b2)-6-methyl-9,10-didehydroergoline-8-carboxylate",
+    "category": "data not stored",
+    "index": 13915,
+    "formular": "C17H18N2O2",
+    "molecular_weight": 282.337,
+    "inChl": "1S/C17H18N2O2/c1-19-9-11(17(20)21-2)6-13-12-4-3-5-14-16(12)10(8-18-14)7-15(13)19/h3-6,8,11,15,18H,7,9H2,1-2H3/t11-,15-/m1/s1",
+    "InChl_Key": "RNHDWLRHUJZABX-IAQYHMDHSA-N",
+    "SMILES": "COC(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13915",
+    "validation": "m_weight unsave, calculated(282.34299999999996)"
+}

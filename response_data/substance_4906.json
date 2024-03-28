@@ -1,0 +1,13 @@
+{
+    "names": "O-1057",
+    "iupac_name": "(6aR,10aR)-3-(6-Cyano-2-methylhexan-2-yl)-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl 4-(morpholin-4-yl)butanoate",
+    "category": "cannabinodids",
+    "index": 4906,
+    "formular": "C32H46N2O4",
+    "molecular_weight": 522.719,
+    "inChl": "1S/C32H46N2O4/c1-23-11-12-26-25(20-23)30-27(37-29(35)10-9-15-34-16-18-36-19-17-34)21-24(22-28(30)38-32(26,4)5)31(2,3)13-7-6-8-14-33/h11,21-22,25-26H,6-10,12-13,15-20H2,1-5H3/t25-,26-/m1/s1",
+    "InChl_Key": "YRDNBEPFVBMTNP-CLJLJLNGSA-N",
+    "SMILES": "CC1=CC[C@@H]2[C@@H](C1)c1c(OC(=O)CCCN3CCOCC3)cc(C(C)(C)CCCCC#N)cc1OC2(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4906",
+    "validation": "m_weight unsave, calculated(522.7300000000004)"
+}

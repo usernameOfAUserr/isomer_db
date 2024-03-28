@@ -1,0 +1,13 @@
+{
+    "names": "1-Benzylcyclopropan-1-amine ; 1-Benzylcyclopropanamine",
+    "iupac_name": "1511 ; C10H13N ; 147.217",
+    "category": "Phenetylamine",
+    "index": 1511,
+    "formular": "C10H13N",
+    "molecular_weight": 147.217,
+    "inChl": "1S/C10H13N/c11-10(6-7-10)8-9-4-2-1-3-5-9/h1-5H,6-8,11H2",
+    "InChl_Key": "GEQRCQKFLCJFEC-UHFFFAOYSA-N",
+    "SMILES": "NC1(Cc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1511",
+    "validation": "m_weight unsave, calculated(147.221)"
+}

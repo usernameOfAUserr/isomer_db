@@ -1,0 +1,13 @@
+{
+    "names": "Methyl (oxan-2-yl)(phenyl)acetate",
+    "iupac_name": "12071 ; C14H18O3 ; 234.291",
+    "category": "Phenetylamine",
+    "index": 12071,
+    "formular": "C14H18O3",
+    "molecular_weight": 234.291,
+    "inChl": "1S/C14H18O3/c1-16-14(15)13(11-7-3-2-4-8-11)12-9-5-6-10-17-12/h2-4,7-8,12-13H,5-6,9-10H2,1H3",
+    "InChl_Key": "DTGCWKSRSZRKRD-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(c1ccccc1)C1CCCCO1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12071",
+    "validation": "m_weight unsave, calculated(234.29499999999993)"
+}

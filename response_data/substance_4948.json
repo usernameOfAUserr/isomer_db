@@ -1,0 +1,13 @@
+{
+    "names": "WO 2009/106980 #442",
+    "iupac_name": "1-(4-Cyanobutyl)-N-[(2S)-1-{[(4-hydroxyoxan-4-yl)methyl]amino}-3,3-dimethyl-1-oxobutan-2-yl]-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4948,
+    "formular": "C25H35N5O4",
+    "molecular_weight": 469.577,
+    "inChl": "1S/C25H35N5O4/c1-24(2,3)21(23(32)27-17-25(33)11-15-34-16-12-25)28-22(31)20-18-9-5-6-10-19(18)30(29-20)14-8-4-7-13-26/h5-6,9-10,21,33H,4,7-8,11-12,14-17H2,1-3H3,(H,27,32)(H,28,31)/t21-/m1/s1",
+    "InChl_Key": "JRROGAWNECUIFV-OAQYLSRUSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(CCCCC#N)c2ccccc12)C(=O)NCC1(O)CCOCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4948",
+    "validation": "m_weight unsave, calculated(469.5860000000004)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "MRZ 2/177",
+    "iupac_name": "3-(Propan-2-yl)adamantan-1-amine",
+    "category": "data not stored",
+    "index": 6932,
+    "formular": "C13H23N",
+    "molecular_weight": 193.328,
+    "inChl": "1S/C13H23N/c1-9(2)12-4-10-3-11(5-12)7-13(14,6-10)8-12/h9-11H,3-8,14H2,1-2H3",
+    "InChl_Key": "UNZLVAUDWGXALA-UHFFFAOYSA-N",
+    "SMILES": "CC(C)C12CC3CC(CC(N)(C3)C1)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6932",
+    "validation": "m_weight unsave, calculated(193.33399999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Methoxy-4-methylthioamphetamine",
+    "iupac_name": "1-Methoxy-1-[4-(methylsulfanyl)phenyl]propan-2-amine",
+    "category": "data not stored",
+    "index": 2408,
+    "formular": "C11H17NOS",
+    "molecular_weight": 211.324,
+    "inChl": "1S/C11H17NOS/c1-8(12)11(13-2)9-4-6-10(14-3)7-5-9/h4-8,11H,12H2,1-3H3",
+    "InChl_Key": "KBXOWVLXLCNVKZ-UHFFFAOYSA-N",
+    "SMILES": "COC(c1ccc(SC)cc1)C(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2408",
+    "validation": "m_weight unsave, calculated(211.32999999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-MCPA",
+    "iupac_name": "2-(2-Methoxyphenyl)cyclopropan-1-amine",
+    "category": "data not stored",
+    "index": 3612,
+    "formular": "C10H13NO",
+    "molecular_weight": 163.216,
+    "inChl": "1S/C10H13NO/c1-12-10-5-3-2-4-7(10)8-6-9(8)11/h2-5,8-9H,6,11H2,1H3",
+    "InChl_Key": "DHHVOLWFZZZOCA-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1C1CC1N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3612",
+    "validation": "m_weight unsave, calculated(163.21999999999997)"
+}

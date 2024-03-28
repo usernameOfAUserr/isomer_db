@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2,\u03b2,4-TFA ; \u03b2,\u03b2,4-Trifluoroamphetamine",
+    "iupac_name": "1,1-Difluoro-1-(4-fluorophenyl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10605,
+    "formular": "C9H10F3N",
+    "molecular_weight": 189.178,
+    "inChl": "1S/C9H10F3N/c1-6(13)9(11,12)7-2-4-8(10)5-3-7/h2-6H,13H2,1H3",
+    "InChl_Key": "XQISNWAIRFJURZ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)C(F)(F)c1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10605",
+    "validation": "m_weight unsave, calculated(189.17999999999992)"
+}

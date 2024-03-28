@@ -1,0 +1,13 @@
+{
+    "names": "3-TIP ; 4-Isopropoxy-3-methoxy-5-methylthiophenethylamine",
+    "iupac_name": "2-{3-Methoxy-5-(methylsulfanyl)-4-[(propan-2-yl)oxy]phenyl}ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10288,
+    "formular": "C13H21NO2S",
+    "molecular_weight": 255.376,
+    "inChl": "1S/C13H21NO2S/c1-9(2)16-13-11(15-3)7-10(5-6-14)8-12(13)17-4/h7-9H,5-6,14H2,1-4H3",
+    "InChl_Key": "INPNDHZMGAZGMM-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(SC)c1OC(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10288",
+    "validation": "m_weight unsave, calculated(255.38299999999998)"
+}

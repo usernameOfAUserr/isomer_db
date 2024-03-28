@@ -1,0 +1,13 @@
+{
+    "names": "NSI-189",
+    "iupac_name": "(4-Benzylpiperazin-1-yl){2-[(3-methylbutyl)amino]pyridin-3-yl}methanone",
+    "category": "data not stored",
+    "index": 2982,
+    "formular": "C22H30N4O",
+    "molecular_weight": 366.5,
+    "inChl": "1S/C22H30N4O/c1-18(2)10-12-24-21-20(9-6-11-23-21)22(27)26-15-13-25(14-16-26)17-19-7-4-3-5-8-19/h3-9,11,18H,10,12-17H2,1-2H3,(H,23,24)",
+    "InChl_Key": "DYTOQURYRYYNOR-UHFFFAOYSA-N",
+    "SMILES": "CC(C)CCNc1ncccc1C(=O)N1CCN(Cc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2982",
+    "validation": "m_weight unsave, calculated(366.50900000000007)"
+}

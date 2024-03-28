@@ -1,0 +1,13 @@
+{
+    "names": "p-Methyl AP-237",
+    "iupac_name": "1-{2-Methyl-4-[(2E)-3-(4-methylphenyl)prop-2-en-1-yl]piperazin-1-yl}butan-1-one",
+    "category": "data not stored",
+    "index": 8621,
+    "formular": "C19H28N2O",
+    "molecular_weight": 300.438,
+    "inChl": "1S/C19H28N2O/c1-4-6-19(22)21-14-13-20(15-17(21)3)12-5-7-18-10-8-16(2)9-11-18/h5,7-11,17H,4,6,12-15H2,1-3H3/b7-5+",
+    "InChl_Key": "SPBJFWRILCEQDY-FNORWQNLSA-N",
+    "SMILES": "CCCC(=O)N1CCN(C/C=C/c2ccc(C)cc2)CC1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8621",
+    "validation": "m_weight unsave, calculated(300.446)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "MDA-77",
+    "iupac_name": "N\u2032-(6-Methoxy-2-oxo-1-pentyl-1,2-dihydro-3H-indol-3-ylidene)benzohydrazide",
+    "category": "cannabinodids",
+    "index": 4718,
+    "formular": "C21H23N3O3",
+    "molecular_weight": 365.426,
+    "inChl": "1S/C21H23N3O3/c1-3-4-8-13-24-18-14-16(27-2)11-12-17(18)19(21(24)26)22-23-20(25)15-9-6-5-7-10-15/h5-7,9-12,14H,3-4,8,13H2,1-2H3,(H,23,25)/b22-19-",
+    "InChl_Key": "BUSVEUMKIXHTKG-QOCHGBHMSA-N",
+    "SMILES": "CCCCCN1C(=O)/C(=N\\NC(=O)c2ccccc2)c2ccc(OC)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4718",
+    "validation": "m_weight unsave, calculated(365.43300000000016)"
+}

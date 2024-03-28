@@ -1,0 +1,13 @@
+{
+    "names": "5-Octyloxy-T ; 5-Octyloxytryptamine",
+    "iupac_name": "2-[5-(Octyloxy)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 14423,
+    "formular": "C18H28N2O",
+    "molecular_weight": 288.428,
+    "inChl": "1S/C18H28N2O/c1-2-3-4-5-6-7-12-21-16-8-9-18-17(13-16)15(10-11-19)14-20-18/h8-9,13-14,20H,2-7,10-12,19H2,1H3",
+    "InChl_Key": "LTTOQYQUAVKRPY-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCOc1ccc2[nH]cc(CCN)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14423",
+    "validation": "m_weight unsave, calculated(288.435)"
+}

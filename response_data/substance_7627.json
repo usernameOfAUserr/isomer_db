@@ -1,0 +1,13 @@
+{
+    "names": "N-AL-M ; N-Allyl-3,4,5-trimethoxyphenethylamine",
+    "iupac_name": "N-[2-(3,4,5-Trimethoxyphenyl)ethyl]prop-2-en-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7627,
+    "formular": "C14H21NO3",
+    "molecular_weight": 251.321,
+    "inChl": "1S/C14H21NO3/c1-5-7-15-8-6-11-9-12(16-2)14(18-4)13(10-11)17-3/h5,9-10,15H,1,6-8H2,2-4H3",
+    "InChl_Key": "KEUUJKBDXNQWAY-UHFFFAOYSA-N",
+    "SMILES": "C=CCNCCc1cc(OC)c(OC)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7627",
+    "validation": "m_weight unsave, calculated(251.326)"
+}

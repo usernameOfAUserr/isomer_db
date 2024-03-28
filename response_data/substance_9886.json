@@ -1,0 +1,13 @@
+{
+    "names": "Yangonin",
+    "iupac_name": "4-Methoxy-6-[(E)-2-(4-methoxyphenyl)ethenyl]-2H-pyran-2-one",
+    "category": "data not stored",
+    "index": 9886,
+    "formular": "C15H14O4",
+    "molecular_weight": 258.269,
+    "inChl": "1S/C15H14O4/c1-17-12-6-3-11(4-7-12)5-8-13-9-14(18-2)10-15(16)19-13/h3-10H,1-2H3/b8-5+",
+    "InChl_Key": "XLHIYUYCSMZCCC-VMPITWQZSA-N",
+    "SMILES": "COc1ccc(/C=C/c2cc(OC)cc(=O)o2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9886",
+    "validation": "m_weight unsave, calculated(258.27299999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "P4TCP",
+    "iupac_name": "1-(4-Phenylthian-4-yl)piperidine",
+    "category": "Arylcycloalkylamine",
+    "index": 9550,
+    "formular": "C16H23NS",
+    "molecular_weight": 261.426,
+    "inChl": "1S/C16H23NS/c1-3-7-15(8-4-1)16(9-13-18-14-10-16)17-11-5-2-6-12-17/h1,3-4,7-8H,2,5-6,9-14H2",
+    "InChl_Key": "RIIRMUBUGPAIQD-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(C2(N3CCCCC3)CCSCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9550",
+    "validation": "m_weight unsave, calculated(261.43399999999997)"
+}

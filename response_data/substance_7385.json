@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Di(pyridin-2-ylmethyl)-T ; N,N-Di(pyridin-2-yl-methyl)tryptamine",
+    "iupac_name": "2-(1H-Indol-3-yl)-N,N-bis[(pyridin-2-yl)methyl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 7385,
+    "formular": "C22H22N4",
+    "molecular_weight": 342.437,
+    "inChl": "1S/C22H22N4/c1-2-10-22-21(9-1)18(15-25-22)11-14-26(16-19-7-3-5-12-23-19)17-20-8-4-6-13-24-20/h1-10,12-13,15,25H,11,14,16-17H2",
+    "InChl_Key": "HNGCBEXEWLKDPE-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(CN(CCc2c[nH]c3ccccc23)Cc2ccccn2)nc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7385",
+    "validation": "m_weight unsave, calculated(342.446)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-(4-Chloroanilino)-2-phenylcyclohexan-1-one",
+    "iupac_name": "14746 ; C18H18ClNO ; 299.795",
+    "category": "data not stored",
+    "index": 14746,
+    "formular": "C18H18ClNO",
+    "molecular_weight": 299.795,
+    "inChl": "1S/C18H18ClNO/c19-15-9-11-16(12-10-15)20-18(13-5-4-8-17(18)21)14-6-2-1-3-7-14/h1-3,6-7,9-12,20H,4-5,8,13H2",
+    "InChl_Key": "BFFWYQJLFXEMIQ-UHFFFAOYSA-N",
+    "SMILES": "O=C1CCCCC1(Nc1ccc(Cl)cc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14746",
+    "validation": "m_weight unsave, calculated(299.80099999999993)"
+}

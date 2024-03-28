@@ -1,0 +1,13 @@
+{
+    "names": "SB-656104A",
+    "iupac_name": "6-[(2R)-2-{2-[4-(4-Chlorophenoxy)piperidin-1-yl]ethyl}pyrrolidine-1-sulfonyl]-1H-indole",
+    "category": "data not stored",
+    "index": 3712,
+    "formular": "C25H30ClN3O3S",
+    "molecular_weight": 488.042,
+    "inChl": "1S/C25H30ClN3O3S/c26-20-4-6-22(7-5-20)32-23-11-16-28(17-12-23)15-10-21-2-1-14-29(21)33(30,31)24-8-3-19-9-13-27-25(19)18-24/h3-9,13,18,21,23,27H,1-2,10-12,14-17H2/t21-/m1/s1",
+    "InChl_Key": "QEGMGDYIJDZJCI-OAQYLSRUSA-N",
+    "SMILES": "O=S(=O)(c1ccc2cc[nH]c2c1)N1CCC[C@H]1CCN1CCC(Oc2ccc(Cl)cc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3712",
+    "validation": "m_weight unsave, calculated(488.05300000000017)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-Ethyllysergamide ; LAE-32",
+    "iupac_name": "N-Ethyl-6-methyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N-Ethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N-Ethyl-6-methyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 5311,
+    "formular": "C18H21N3O",
+    "molecular_weight": 295.379,
+    "inChl": "1S/C18H21N3O/c1-3-19-18(22)12-7-14-13-5-4-6-15-17(13)11(9-20-15)8-16(14)21(2)10-12/h4-7,9,12,16,20H,3,8,10H2,1-2H3,(H,19,22)/t12-,16-/m1/s1",
+    "InChl_Key": "VEBWTGYUIBTVNR-MLGOLLRUSA-N",
+    "SMILES": "CCNC(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5311",
+    "validation": "m_weight unsave, calculated(295.386)"
+}

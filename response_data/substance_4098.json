@@ -1,0 +1,13 @@
+{
+    "names": "[4-(2-Hydroxyethyl)naphthalen-1-yl]{1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}methanone",
+    "iupac_name": "4098 ; C28H30N2O2 ; 426.55",
+    "category": "cannabinodids",
+    "index": 4098,
+    "formular": "C28H30N2O2",
+    "molecular_weight": 426.55,
+    "inChl": "1S/C28H30N2O2/c1-29-16-7-6-8-21(29)18-30-19-26(24-11-4-5-12-27(24)30)28(32)25-14-13-20(15-17-31)22-9-2-3-10-23(22)25/h2-5,9-14,19,21,31H,6-8,15-18H2,1H3",
+    "InChl_Key": "YSNVWEVEYXZGIZ-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCCC1Cn1cc(C(=O)c2ccc(CCO)c3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4098",
+    "validation": "m_weight unsave, calculated(426.5600000000003)"
+}

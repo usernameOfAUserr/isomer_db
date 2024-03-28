@@ -1,0 +1,13 @@
+{
+    "names": "2-(4-Chloroanilino)-2-methylcyclohexan-1-one",
+    "iupac_name": "14752 ; C13H16ClNO ; 237.725",
+    "category": "data not stored",
+    "index": 14752,
+    "formular": "C13H16ClNO",
+    "molecular_weight": 237.725,
+    "inChl": "1S/C13H16ClNO/c1-13(9-3-2-4-12(13)16)15-11-7-5-10(14)6-8-11/h5-8,15H,2-4,9H2,1H3",
+    "InChl_Key": "OIYGOPSDMIBUPI-UHFFFAOYSA-N",
+    "SMILES": "CC1(Nc2ccc(Cl)cc2)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14752",
+    "validation": "m_weight unsave, calculated(237.7299999999999)"
+}

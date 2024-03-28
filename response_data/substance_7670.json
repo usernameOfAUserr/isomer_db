@@ -1,0 +1,13 @@
+{
+    "names": "Norcodeine",
+    "iupac_name": "3-Methoxy-7,8-didehydro-4,5\u03b1-epoxymorphinan-6\u03b1-ol ; (4R,4aR,7S,7aR,12bS)-9-Methoxy-2,3,4,4a,7,7a-hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinolin-7-ol ; (5\u03b1,6\u03b1)-3-Methoxy-7,8-didehydro-4,5-epoxymorphinan-6-ol",
+    "category": "data not stored",
+    "index": 7670,
+    "formular": "C17H19NO3",
+    "molecular_weight": 285.338,
+    "inChl": "1S/C17H19NO3/c1-20-13-5-2-9-8-11-10-3-4-12(19)16-17(10,6-7-18-11)14(9)15(13)21-16/h2-5,10-12,16,18-19H,6-8H2,1H3/t10-,11+,12-,16-,17-/m0/s1",
+    "InChl_Key": "HKOIXWVRNLGFOR-KOFBORESSA-N",
+    "SMILES": "COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)NCC[C@@]341",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7670",
+    "validation": "m_weight unsave, calculated(285.34299999999996)"
+}

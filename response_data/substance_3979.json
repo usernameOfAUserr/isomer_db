@@ -1,0 +1,13 @@
+{
+    "names": "Carisoprodol",
+    "iupac_name": "2-[(Carbamoyloxy)methyl]-2-methylpentyl propan-2-ylcarbamate (non-preferred name)",
+    "category": "data not stored",
+    "index": 3979,
+    "formular": "C12H24N2O4",
+    "molecular_weight": 260.33,
+    "inChl": "1S/C12H24N2O4/c1-5-6-12(4,7-17-10(13)15)8-18-11(16)14-9(2)3/h9H,5-8H2,1-4H3,(H2,13,15)(H,14,16)",
+    "InChl_Key": "OFZCIYFFPZCNJE-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C)(COC(N)=O)COC(=O)NC(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3979",
+    "validation": ""
+}

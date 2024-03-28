@@ -1,0 +1,13 @@
+{
+    "names": "2-Pyridylethylamine ; 2-PYEA",
+    "iupac_name": "2-(Pyridin-2-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10912,
+    "formular": "C7H10N2",
+    "molecular_weight": 122.168,
+    "inChl": "1S/C7H10N2/c8-5-4-7-3-1-2-6-9-7/h1-3,6H,4-5,8H2",
+    "InChl_Key": "XPQIPUZPSLAZDV-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ccccn1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10912",
+    "validation": "m_weight unsave, calculated(122.17099999999996)"
+}

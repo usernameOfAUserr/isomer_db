@@ -1,0 +1,13 @@
+{
+    "names": "N-Cyclohexylacetamide",
+    "iupac_name": "N-Cyclohexylacetamide",
+    "category": "data not stored",
+    "index": 11977,
+    "formular": "C8H15NO",
+    "molecular_weight": 141.211,
+    "inChl": "1S/C8H15NO/c1-7(10)9-8-5-3-2-4-6-8/h8H,2-6H2,1H3,(H,9,10)",
+    "InChl_Key": "WRAGCBBWIYQMRF-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NC1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11977",
+    "validation": "m_weight unsave, calculated(141.214)"
+}

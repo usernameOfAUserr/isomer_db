@@ -1,0 +1,13 @@
+{
+    "names": "5\u2032-HO-2,6\u2032-bipsilocin ; 2,6\u2032-biDMT-4,4\u2032,5\u2032-triol",
+    "iupac_name": "3,3\u2032-Bis[2-(dimethylamino)ethyl]-1H,1\u2032H-[2,6\u2032-biindole]-4,4\u2032,5\u2032-triol",
+    "category": "Tryptamine",
+    "index": 8470,
+    "formular": "C24H30N4O3",
+    "molecular_weight": 422.52,
+    "inChl": "1S/C24H30N4O3/c1-27(2)10-8-14-13-25-18-12-16(23(30)24(31)20(14)18)22-15(9-11-28(3)4)21-17(26-22)6-5-7-19(21)29/h5-7,12-13,25-26,29-31H,8-11H2,1-4H3",
+    "InChl_Key": "JCPZRVYYZQMZCP-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2cc(-c3[nH]c4cccc(O)c4c3CCN(C)C)c(O)c(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8470",
+    "validation": "m_weight unsave, calculated(422.52900000000017)"
+}

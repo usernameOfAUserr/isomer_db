@@ -1,0 +1,13 @@
+{
+    "names": "STS-135 ; A-5F-PICA ; 5F-APICA",
+    "iupac_name": "N-(Adamantan-1-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4707,
+    "formular": "C24H31FN2O",
+    "molecular_weight": 382.514,
+    "inChl": "1S/C24H31FN2O/c25-8-4-1-5-9-27-16-21(20-6-2-3-7-22(20)27)23(28)26-24-13-17-10-18(14-24)12-19(11-17)15-24/h2-3,6-7,16-19H,1,4-5,8-15H2,(H,26,28)",
+    "InChl_Key": "COYHGVCHRRXECF-UHFFFAOYSA-N",
+    "SMILES": "O=C(NC12CC3CC(CC(C3)C1)C2)c1cn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4707",
+    "validation": "m_weight unsave, calculated(382.5230000000003)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "(4-Fluorophenyl)[1-(5-sulfanylpentyl)piperidin-4-yl]methanone",
+    "iupac_name": "6975 ; C17H24FNOS ; 309.442",
+    "category": "data not stored",
+    "index": 6975,
+    "formular": "C17H24FNOS",
+    "molecular_weight": 309.442,
+    "inChl": "1S/C17H24FNOS/c18-16-6-4-14(5-7-16)17(20)15-8-11-19(12-9-15)10-2-1-3-13-21/h4-7,15,21H,1-3,8-13H2",
+    "InChl_Key": "KDBXJLUPSAFLAV-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccc(F)cc1)C1CCN(CCCCCS)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6975",
+    "validation": "m_weight unsave, calculated(309.45)"
+}

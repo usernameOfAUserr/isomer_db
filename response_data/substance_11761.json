@@ -1,0 +1,13 @@
+{
+    "names": "5H-2C-G",
+    "iupac_name": "2-(2-Methoxy-3,4-dimethylphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 11761,
+    "formular": "C11H17NO",
+    "molecular_weight": 179.259,
+    "inChl": "1S/C11H17NO/c1-8-4-5-10(6-7-12)11(13-3)9(8)2/h4-5H,6-7,12H2,1-3H3",
+    "InChl_Key": "SZQQDRVBAFWKPE-UHFFFAOYSA-N",
+    "SMILES": "COc1c(CCN)ccc(C)c1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11761",
+    "validation": "m_weight unsave, calculated(179.26299999999995)"
+}

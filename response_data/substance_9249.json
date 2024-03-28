@@ -1,0 +1,13 @@
+{
+    "names": "4-Benzyl-1-(2-phenylethyl)piperidin-4-ol",
+    "iupac_name": "9249 ; C20H25NO ; 295.419",
+    "category": "data not stored",
+    "index": 9249,
+    "formular": "C20H25NO",
+    "molecular_weight": 295.419,
+    "inChl": "1S/C20H25NO/c22-20(17-19-9-5-2-6-10-19)12-15-21(16-13-20)14-11-18-7-3-1-4-8-18/h1-10,22H,11-17H2",
+    "InChl_Key": "ABYUHJKPPSWBTJ-UHFFFAOYSA-N",
+    "SMILES": "OC1(Cc2ccccc2)CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9249",
+    "validation": "m_weight unsave, calculated(295.42600000000004)"
+}

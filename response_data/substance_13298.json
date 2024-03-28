@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl-4-ANPP",
+    "iupac_name": "N-Ethyl-N-phenyl-1-(2-phenylethyl)piperidin-4-amine",
+    "category": "Fentanyl",
+    "index": 13298,
+    "formular": "C21H28N2",
+    "molecular_weight": 308.46,
+    "inChl": "1S/C21H28N2/c1-2-23(20-11-7-4-8-12-20)21-14-17-22(18-15-21)16-13-19-9-5-3-6-10-19/h3-12,21H,2,13-18H2,1H3",
+    "InChl_Key": "XVQAKXNCXQMKEJ-UHFFFAOYSA-N",
+    "SMILES": "CCN(c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13298",
+    "validation": "m_weight unsave, calculated(308.4689999999999)"
+}

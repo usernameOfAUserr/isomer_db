@@ -1,0 +1,13 @@
+{
+    "names": "3-Methyl phenoxy acetylfentanil",
+    "iupac_name": "N-[3-Methyl-1-(2-phenoxyethyl)piperidin-4-yl]-N-phenylacetamide",
+    "category": "Fentanyl",
+    "index": 2890,
+    "formular": "C22H28N2O2",
+    "molecular_weight": 352.47,
+    "inChl": "1S/C22H28N2O2/c1-18-17-23(15-16-26-21-11-7-4-8-12-21)14-13-22(18)24(19(2)25)20-9-5-3-6-10-20/h3-12,18,22H,13-17H2,1-2H3",
+    "InChl_Key": "BMKBNQJKTAKNHB-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)N(c1ccccc1)C1CCN(CCOc2ccccc2)CC1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2890",
+    "validation": "m_weight unsave, calculated(352.47800000000007)"
+}

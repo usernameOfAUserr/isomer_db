@@ -1,0 +1,13 @@
+{
+    "names": "2-{4-[(4-Fluorophenyl)methoxy]-1-[tri(propan-2-yl)silyl]-1H-indol-3-yl}-N,N-dimethylethan-1-amine",
+    "iupac_name": "14792 ; C28H41FN2OSi ; 468.722",
+    "category": "Tryptamine",
+    "index": 14792,
+    "formular": "C28H41FN2OSi",
+    "molecular_weight": 468.722,
+    "inChl": "1S/C28H41FN2OSi/c1-20(2)33(21(3)4,22(5)6)31-18-24(16-17-30(7)8)28-26(31)10-9-11-27(28)32-19-23-12-14-25(29)15-13-23/h9-15,18,20-22H,16-17,19H2,1-8H3",
+    "InChl_Key": "GDUIPHHIPXGGHX-UHFFFAOYSA-N",
+    "SMILES": "CC(C)[Si](C(C)C)(C(C)C)n1cc(CCN(C)C)c2c(OCc3ccc(F)cc3)cccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14792",
+    "validation": "m_weight unsave, calculated(468.7330000000002)"
+}

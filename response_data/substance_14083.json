@@ -1,0 +1,13 @@
+{
+    "names": "34H-NBF ; N-(2-Fluorobenzyl)-3,4-dimethoxyphenethylamine",
+    "iupac_name": "2-(3,4-Dimethoxyphenyl)-N-[(2-fluorophenyl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 14083,
+    "formular": "C17H20FNO2",
+    "molecular_weight": 289.345,
+    "inChl": "1S/C17H20FNO2/c1-20-16-8-7-13(11-17(16)21-2)9-10-19-12-14-5-3-4-6-15(14)18/h3-8,11,19H,9-10,12H2,1-2H3",
+    "InChl_Key": "ZZYHQLBBNRWMCR-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CCNCc2ccccc2F)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14083",
+    "validation": "m_weight unsave, calculated(289.3500000000001)"
+}

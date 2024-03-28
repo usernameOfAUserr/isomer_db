@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-PBT",
+    "iupac_name": "2-(Pyrrolidin-1-yl)-1-(thiophen-2-yl)butan-1-one",
+    "category": "data not stored",
+    "index": 1097,
+    "formular": "C12H17NOS",
+    "molecular_weight": 223.334,
+    "inChl": "1S/C12H17NOS/c1-2-10(13-7-3-4-8-13)12(14)11-6-5-9-15-11/h5-6,9-10H,2-4,7-8H2,1H3",
+    "InChl_Key": "NGVNNJYFJYTCCO-UHFFFAOYSA-N",
+    "SMILES": "CCC(C(=O)c1cccs1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1097",
+    "validation": "m_weight unsave, calculated(223.34099999999992)"
+}

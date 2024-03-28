@@ -1,0 +1,13 @@
+{
+    "names": "3-[2-(Cyclopropyloxy)-5-methoxy-4-(trifluoromethyl)phenyl]piperidine",
+    "iupac_name": "13043 ; C16H20F3NO2 ; 315.331",
+    "category": "data not stored",
+    "index": 13043,
+    "formular": "C16H20F3NO2",
+    "molecular_weight": 315.331,
+    "inChl": "1S/C16H20F3NO2/c1-21-15-7-12(10-3-2-6-20-9-10)14(22-11-4-5-11)8-13(15)16(17,18)19/h7-8,10-11,20H,2-6,9H2,1H3",
+    "InChl_Key": "WUDKDXNBPBMYLC-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2CCCNC2)c(OC2CC2)cc1C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13043",
+    "validation": "m_weight unsave, calculated(315.3350000000001)"
+}

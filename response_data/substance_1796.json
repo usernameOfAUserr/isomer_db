@@ -1,0 +1,13 @@
+{
+    "names": "25C-NBOMe6OH ; N-(6-Hydroxy-2-methoxybenzyl)-4-chloro-2,5-dimethoxyphenethylamine ; 6\u2032-HO-25C-NBOMe",
+    "iupac_name": "2-({[2-(4-Chloro-2,5-dimethoxyphenyl)ethyl]amino}methyl)-3-methoxyphenol",
+    "category": "data not stored",
+    "index": 1796,
+    "formular": "C18H22ClNO4",
+    "molecular_weight": 351.825,
+    "inChl": "1S/C18H22ClNO4/c1-22-16-6-4-5-15(21)13(16)11-20-8-7-12-9-18(24-3)14(19)10-17(12)23-2/h4-6,9-10,20-21H,7-8,11H2,1-3H3",
+    "InChl_Key": "ZXOQSWRSDLOPDC-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2c(O)cccc2OC)c(OC)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1796",
+    "validation": "m_weight unsave, calculated(351.8300000000001)"
+}

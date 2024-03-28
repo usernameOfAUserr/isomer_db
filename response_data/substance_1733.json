@@ -1,0 +1,13 @@
+{
+    "names": "Spiradoline ; U-62066",
+    "iupac_name": "2-(3,4-Dichlorophenyl)-N-methyl-N-[(5R,7S,8S)-7-(pyrrolidin-1-yl)-1-oxaspiro[4.5]decan-8-yl]acetamide",
+    "category": "data not stored",
+    "index": 1733,
+    "formular": "C22H30Cl2N2O2",
+    "molecular_weight": 425.392,
+    "inChl": "1S/C22H30Cl2N2O2/c1-25(21(27)14-16-5-6-17(23)18(24)13-16)19-7-9-22(8-4-12-28-22)15-20(19)26-10-2-3-11-26/h5-6,13,19-20H,2-4,7-12,14-15H2,1H3/t19-,20-,22-/m0/s1",
+    "InChl_Key": "NYKCGQQJNVPOLU-ONTIZHBOSA-N",
+    "SMILES": "CN(C(=O)Cc1ccc(Cl)c(Cl)c1)[C@H]1CC[C@@]2(CCCO2)C[C@@H]1N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1733",
+    "validation": "m_weight unsave, calculated(425.4)"
+}

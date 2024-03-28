@@ -1,0 +1,13 @@
+{
+    "names": "p-TFM-fentanyl ; 4\u2032-TFM-fentanyl",
+    "iupac_name": "N-[1-(2-Phenylethyl)piperidin-4-yl]-N-[4-(trifluoromethyl)phenyl]propanamide",
+    "category": "Fentanyl",
+    "index": 1610,
+    "formular": "C23H27F3N2O",
+    "molecular_weight": 404.468,
+    "inChl": "1S/C23H27F3N2O/c1-2-22(29)28(20-10-8-19(9-11-20)23(24,25)26)21-13-16-27(17-14-21)15-12-18-6-4-3-5-7-18/h3-11,21H,2,12-17H2,1H3",
+    "InChl_Key": "SYGTUZMKKNMUCP-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccc(C(F)(F)F)cc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1610",
+    "validation": "m_weight unsave, calculated(404.47600000000017)"
+}

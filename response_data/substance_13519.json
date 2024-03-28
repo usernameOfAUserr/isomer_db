@@ -1,0 +1,13 @@
+{
+    "names": "6,7-Difluoro-MIPT ; 6,7-Difluoro-N-methyl-N-isopropyltryptamine",
+    "iupac_name": "N-[2-(6,7-Difluoro-1H-indol-3-yl)ethyl]-N-methylpropan-2-amine",
+    "category": "Tryptamine",
+    "index": 13519,
+    "formular": "C14H18F2N2",
+    "molecular_weight": 252.303,
+    "inChl": "1S/C14H18F2N2/c1-9(2)18(3)7-6-10-8-17-14-11(10)4-5-12(15)13(14)16/h4-5,8-9,17H,6-7H2,1-3H3",
+    "InChl_Key": "IVYJJOOVHZUSLD-UHFFFAOYSA-N",
+    "SMILES": "CC(C)N(C)CCc1c[nH]c2c(F)c(F)ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13519",
+    "validation": "m_weight unsave, calculated(252.30799999999996)"
+}

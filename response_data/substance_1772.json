@@ -1,0 +1,13 @@
+{
+    "names": "JWH-253",
+    "iupac_name": "2-(3-Methoxyphenyl)-1-(2-methyl-1-pentyl-1H-indol-3-yl)ethan-1-one",
+    "category": "cannabinodids",
+    "index": 1772,
+    "formular": "C23H27NO2",
+    "molecular_weight": 349.466,
+    "inChl": "1S/C23H27NO2/c1-4-5-8-14-24-17(2)23(20-12-6-7-13-21(20)24)22(25)16-18-10-9-11-19(15-18)26-3/h6-7,9-13,15H,4-5,8,14,16H2,1-3H3",
+    "InChl_Key": "QZLRCHSRCYFMFK-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1c(C)c(C(=O)Cc2cccc(OC)c2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1772",
+    "validation": "m_weight unsave, calculated(349.47400000000005)"
+}

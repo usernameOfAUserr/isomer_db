@@ -1,0 +1,13 @@
+{
+    "names": "(sec-Butyl) 5F-2-ADB-PINACA",
+    "iupac_name": "N-(1-Amino-3-methyl-1-oxopentan-2-yl)-2-(5-fluoropentyl)-2H-indazole-3-carboxamide",
+    "category": "data not stored",
+    "index": 9302,
+    "formular": "C19H27FN4O2",
+    "molecular_weight": 362.442,
+    "inChl": "1S/C19H27FN4O2/c1-3-13(2)16(18(21)25)22-19(26)17-14-9-5-6-10-15(14)23-24(17)12-8-4-7-11-20/h5-6,9-10,13,16H,3-4,7-8,11-12H2,1-2H3,(H2,21,25)(H,22,26)",
+    "InChl_Key": "CIXZTODJNNGQFI-UHFFFAOYSA-N",
+    "SMILES": "CCC(C)C(NC(=O)c1c2ccccc2nn1CCCCCF)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9302",
+    "validation": "m_weight unsave, calculated(362.4490000000001)"
+}

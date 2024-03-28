@@ -1,0 +1,13 @@
+{
+    "names": "6-MeS-T ; 6-Methylthiotryptamine",
+    "iupac_name": "2-[6-(Methylsulfanyl)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 7333,
+    "formular": "C11H14N2S",
+    "molecular_weight": 206.307,
+    "inChl": "1S/C11H14N2S/c1-14-9-2-3-10-8(4-5-12)7-13-11(10)6-9/h2-3,6-7,13H,4-5,12H2,1H3",
+    "InChl_Key": "GGJPSKFNUDZJNG-UHFFFAOYSA-N",
+    "SMILES": "CSc1ccc2c(CCN)c[nH]c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7333",
+    "validation": "m_weight unsave, calculated(206.314)"
+}

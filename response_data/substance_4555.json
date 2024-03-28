@@ -1,0 +1,13 @@
+{
+    "names": "US 7297796 #7",
+    "iupac_name": "4-Bromo-N-[(6,6-dimethylbicyclo[3.1.1]heptan-2-yl)methyl]-3-(piperidine-1-sulfonyl)benzamide",
+    "category": "cannabinodids",
+    "index": 4555,
+    "formular": "C22H31BrN2O3S",
+    "molecular_weight": 483.462,
+    "inChl": "1S/C22H31BrN2O3S/c1-22(2)17-8-6-16(18(22)13-17)14-24-21(26)15-7-9-19(23)20(12-15)29(27,28)25-10-4-3-5-11-25/h7,9,12,16-18H,3-6,8,10-11,13-14H2,1-2H3,(H,24,26)",
+    "InChl_Key": "HQKGQFNEFIWUIE-UHFFFAOYSA-N",
+    "SMILES": "CC1(C)C2CCC(CNC(=O)c3ccc(Br)c(S(=O)(=O)N4CCCCC4)c3)C1C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4555",
+    "validation": "m_weight unsave, calculated(483.47200000000015)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3,3-Diphenylpyrrolidine",
+    "iupac_name": "12093 ; C16H17N ; 223.313",
+    "category": "Phenetylamine",
+    "index": 12093,
+    "formular": "C16H17N",
+    "molecular_weight": 223.313,
+    "inChl": "1S/C16H17N/c1-3-7-14(8-4-1)16(11-12-17-13-16)15-9-5-2-6-10-15/h1-10,17H,11-13H2",
+    "InChl_Key": "LBUQNQBKDPMBFO-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(C2(c3ccccc3)CCNC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12093",
+    "validation": "m_weight unsave, calculated(223.319)"
+}

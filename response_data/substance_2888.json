@@ -1,0 +1,13 @@
+{
+    "names": "MPA-PFPA",
+    "iupac_name": "2,2,3,3,3-Pentafluoro-N-methyl-N-[1-(thiophen-2-yl)propan-2-yl]propanamide",
+    "category": "data not stored",
+    "index": 2888,
+    "formular": "C11H12F5NOS",
+    "molecular_weight": 301.276,
+    "inChl": "1S/C11H12F5NOS/c1-7(6-8-4-3-5-19-8)17(2)9(18)10(12,13)11(14,15)16/h3-5,7H,6H2,1-2H3",
+    "InChl_Key": "TVMRGNYPMDQWQP-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1cccs1)N(C)C(=O)C(F)(F)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2888",
+    "validation": "m_weight unsave, calculated(301.28)"
+}

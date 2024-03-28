@@ -1,0 +1,13 @@
+{
+    "names": "4-(4-F-BuS)-2,5-DMBAL ; 4-(4-Fluorobutylthio)-2,5-dimethoxybenzaldehyde",
+    "iupac_name": "4-[(4-Fluorobutyl)sulfanyl]-2,5-dimethoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 3553,
+    "formular": "C13H17FO3S",
+    "molecular_weight": 272.336,
+    "inChl": "1S/C13H17FO3S/c1-16-11-8-13(18-6-4-3-5-14)12(17-2)7-10(11)9-15/h7-9H,3-6H2,1-2H3",
+    "InChl_Key": "GKWBMAQZHDVAJF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SCCCCF)c(OC)cc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3553",
+    "validation": "m_weight unsave, calculated(272.34099999999995)"
+}

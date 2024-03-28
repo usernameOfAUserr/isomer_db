@@ -1,0 +1,13 @@
+{
+    "names": "5-Pentyloxy-T ; 5-Pentyloxytryptamine",
+    "iupac_name": "2-[5-(Pentyloxy)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5853,
+    "formular": "C15H22N2O",
+    "molecular_weight": 246.348,
+    "inChl": "1S/C15H22N2O/c1-2-3-4-9-18-13-5-6-15-14(10-13)12(7-8-16)11-17-15/h5-6,10-11,17H,2-4,7-9,16H2,1H3",
+    "InChl_Key": "NCBRBANXBGKQFO-UHFFFAOYSA-N",
+    "SMILES": "CCCCCOc1ccc2[nH]cc(CCN)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5853",
+    "validation": "m_weight unsave, calculated(246.35399999999996)"
+}

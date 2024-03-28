@@ -1,0 +1,13 @@
+{
+    "names": "BO3E ; \u03b2-Methoxy-3-ethoxyphenethylamine",
+    "iupac_name": "2-(3-Ethoxyphenyl)-2-methoxyethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 6201,
+    "formular": "C11H17NO2",
+    "molecular_weight": 195.258,
+    "inChl": "1S/C11H17NO2/c1-3-14-10-6-4-5-9(7-10)11(8-12)13-2/h4-7,11H,3,8,12H2,1-2H3",
+    "InChl_Key": "YTFUARKRGLLGBK-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cccc(C(CN)OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6201",
+    "validation": "m_weight unsave, calculated(195.26199999999994)"
+}

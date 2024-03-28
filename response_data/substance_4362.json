@@ -1,0 +1,13 @@
+{
+    "names": "AM-2233 ; 2I-PH-MPIMIMO",
+    "iupac_name": "(2-Iodophenyl){1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}methanone",
+    "category": "cannabinodids",
+    "index": 4362,
+    "formular": "C22H23IN2O",
+    "molecular_weight": 458.335,
+    "inChl": "1S/C22H23IN2O/c1-24-13-7-6-8-16(24)14-25-15-19(17-9-3-5-12-21(17)25)22(26)18-10-2-4-11-20(18)23/h2-5,9-12,15-16H,6-8,13-14H2,1H3",
+    "InChl_Key": "KSLCYQTUSSEGPT-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCCC1Cn1cc(C(=O)c2ccccc2I)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4362",
+    "validation": "m_weight unsave, calculated(458.3430000000001)"
+}

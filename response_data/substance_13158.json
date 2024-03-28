@@ -1,0 +1,13 @@
+{
+    "names": "6-Hydroxymelatonin ; 6-Hydroxy-5-methoxy-N-acetyltryptamine ; 6-HO-5-MeO-N-acetyl-T",
+    "iupac_name": "N-[2-(6-Hydroxy-5-methoxy-1H-indol-3-yl)ethyl]acetamide",
+    "category": "Tryptamine",
+    "index": 13158,
+    "formular": "C13H16N2O3",
+    "molecular_weight": 248.278,
+    "inChl": "1S/C13H16N2O3/c1-8(16)14-4-3-9-7-15-11-6-12(17)13(18-2)5-10(9)11/h5-7,15,17H,3-4H2,1-2H3,(H,14,16)",
+    "InChl_Key": "OMYMRCXOJJZYKE-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(CCNC(C)=O)c[nH]c2cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13158",
+    "validation": "m_weight unsave, calculated(248.282)"
+}

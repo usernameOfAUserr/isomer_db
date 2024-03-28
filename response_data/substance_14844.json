@@ -1,0 +1,13 @@
+{
+    "names": "3-(1,2,5,6-Tetrahydropyridin-3-yl)-1H-indazol-5-amine",
+    "iupac_name": "14844 ; C12H14N4 ; 214.266",
+    "category": "data not stored",
+    "index": 14844,
+    "formular": "C12H14N4",
+    "molecular_weight": 214.266,
+    "inChl": "1S/C12H14N4/c13-9-3-4-11-10(6-9)12(16-15-11)8-2-1-5-14-7-8/h2-4,6,14H,1,5,7,13H2,(H,15,16)",
+    "InChl_Key": "XHIORJNUVOCYKD-UHFFFAOYSA-N",
+    "SMILES": "Nc1ccc2[nH]nc(C3=CCCNC3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14844",
+    "validation": "m_weight unsave, calculated(214.272)"
+}

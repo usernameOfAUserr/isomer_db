@@ -1,0 +1,13 @@
+{
+    "names": "AM-1282",
+    "iupac_name": "4-[3-(Naphthalene-1-carbonyl)-1H-indol-1-yl]butyl acetate",
+    "category": "cannabinodids",
+    "index": 14619,
+    "formular": "C25H23NO3",
+    "molecular_weight": 385.455,
+    "inChl": "1S/C25H23NO3/c1-18(27)29-16-7-6-15-26-17-23(21-12-4-5-14-24(21)26)25(28)22-13-8-10-19-9-2-3-11-20(19)22/h2-5,8-14,17H,6-7,15-16H2,1H3",
+    "InChl_Key": "XIQDKIFZDLUEHR-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)OCCCCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14619",
+    "validation": "m_weight unsave, calculated(385.46300000000014)"
+}

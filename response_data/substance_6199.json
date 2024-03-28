@@ -1,0 +1,13 @@
+{
+    "names": "MOC-etomidate acid",
+    "iupac_name": "3-{[1-(1-Phenylethyl)-1H-imidazole-5-carbonyl]oxy}propanoic acid",
+    "category": "data not stored",
+    "index": 6199,
+    "formular": "C15H16N2O4",
+    "molecular_weight": 288.299,
+    "inChl": "1S/C15H16N2O4/c1-11(12-5-3-2-4-6-12)17-10-16-9-13(17)15(20)21-8-7-14(18)19/h2-6,9-11H,7-8H2,1H3,(H,18,19)/t11-/m1/s1",
+    "InChl_Key": "FOFQHSHQXJHIPW-LLVKDONJSA-N",
+    "SMILES": "C[C@H](c1ccccc1)n1cncc1C(=O)OCCC(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6199",
+    "validation": "m_weight unsave, calculated(288.30299999999994)"
+}

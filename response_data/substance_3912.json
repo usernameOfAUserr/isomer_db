@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Oxo-DPT ; \u03b1-Oxo-N,N-dipropyltryptamine",
+    "iupac_name": "2-(1H-Indol-3-yl)-N,N-dipropylacetamide",
+    "category": "Tryptamine",
+    "index": 3912,
+    "formular": "C16H22N2O",
+    "molecular_weight": 258.359,
+    "inChl": "1S/C16H22N2O/c1-3-9-18(10-4-2)16(19)11-13-12-17-15-8-6-5-7-14(13)15/h5-8,12,17H,3-4,9-11H2,1-2H3",
+    "InChl_Key": "AEPJTCZBIULDTE-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C(=O)Cc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3912",
+    "validation": "m_weight unsave, calculated(258.36499999999995)"
+}

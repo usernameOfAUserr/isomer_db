@@ -1,0 +1,13 @@
+{
+    "names": "7-Bromo-5-MeO-T ; 7-Bromo-5-methoxytryptamine",
+    "iupac_name": "2-(7-Bromo-5-methoxy-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 3301,
+    "formular": "C11H13BrN2O",
+    "molecular_weight": 269.138,
+    "inChl": "1S/C11H13BrN2O/c1-15-8-4-9-7(2-3-13)6-14-11(9)10(12)5-8/h4-6,14H,2-3,13H2,1H3",
+    "InChl_Key": "LOHYLGIFQSUJDS-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Br)c2[nH]cc(CCN)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3301",
+    "validation": "m_weight unsave, calculated(269.14199999999994)"
+}

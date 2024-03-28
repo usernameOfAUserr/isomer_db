@@ -1,0 +1,13 @@
+{
+    "names": "RTI-386",
+    "iupac_name": "(2S,3S)-2-[3-(4-Methoxyphenyl)-1,2-oxazol-5-yl]-8-methyl-3-(4-methylphenyl)-8-azabicyclo[3.2.1]octane",
+    "category": "data not stored",
+    "index": 8715,
+    "formular": "C25H28N2O2",
+    "molecular_weight": 388.502,
+    "inChl": "1S/C25H28N2O2/c1-16-4-6-17(7-5-16)21-14-19-10-13-23(27(19)2)25(21)24-15-22(26-29-24)18-8-11-20(28-3)12-9-18/h4-9,11-12,15,19,21,23,25H,10,13-14H2,1-3H3/t19?,21-,23?,25+/m1/s1",
+    "InChl_Key": "WDCUMSARTHPFTE-NRXABQNYSA-N",
+    "SMILES": "COc1ccc(-c2cc([C@@H]3C4CCC(C[C@@H]3c3ccc(C)cc3)N4C)on2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8715",
+    "validation": "m_weight unsave, calculated(388.51100000000014)"
+}

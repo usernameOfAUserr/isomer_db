@@ -1,0 +1,13 @@
+{
+    "names": "(6aS,12bR)-11-Fluoro-6a,7,8,12b-tetrahydro-6H-[1]benzopyrano[3,4-c]isoquinoline-2,3-diol ; (6aS,12bR)-11-Fluoro-6a,7,8,12b-tetrahydro-6H-chromeno[3,4-c]isoquinoline-2,3-diol",
+    "iupac_name": "1382 ; C16H14FNO3 ; 287.286",
+    "category": "data not stored",
+    "index": 1382,
+    "formular": "C16H14FNO3",
+    "molecular_weight": 287.286,
+    "inChl": "1S/C16H14FNO3/c17-9-2-1-8-6-18-12-7-21-15-5-14(20)13(19)4-11(15)16(12)10(8)3-9/h1-5,12,16,18-20H,6-7H2/t12-,16-/m1/s1",
+    "InChl_Key": "RQLPVDZVZYPESL-MLGOLLRUSA-N",
+    "SMILES": "Oc1cc2c(cc1O)[C@H]1c3cc(F)ccc3CN[C@@H]1CO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1382",
+    "validation": "m_weight unsave, calculated(287.28999999999996)"
+}

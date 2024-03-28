@@ -1,0 +1,13 @@
+{
+    "names": "JWH-080",
+    "iupac_name": "(1-Butyl-1H-indol-3-yl)(4-methoxynaphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4009,
+    "formular": "C24H23NO2",
+    "molecular_weight": 357.445,
+    "inChl": "1S/C24H23NO2/c1-3-4-15-25-16-21(18-10-7-8-12-22(18)25)24(26)20-13-14-23(27-2)19-11-6-5-9-17(19)20/h5-14,16H,3-4,15H2,1-2H3",
+    "InChl_Key": "PGOAKRPGOLHODL-UHFFFAOYSA-N",
+    "SMILES": "CCCCn1cc(C(=O)c2ccc(OC)c3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4009",
+    "validation": "m_weight unsave, calculated(357.4530000000001)"
+}

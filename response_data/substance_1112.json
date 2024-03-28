@@ -1,0 +1,13 @@
+{
+    "names": "cis-2-Methoxy-4,5-methylenedioxyphenylprop-1-ene",
+    "iupac_name": "5-Methoxy-6-[(1Z)-prop-1-en-1-yl]-2H-1,3-benzodioxole ; 5-Methoxy-6-[(1Z)-prop-1-en-1-yl]-1,3-benzodioxole",
+    "category": "Essential oil",
+    "index": 1112,
+    "formular": "C11H12O3",
+    "molecular_weight": 192.211,
+    "inChl": "1S/C11H12O3/c1-3-4-8-5-10-11(14-7-13-10)6-9(8)12-2/h3-6H,7H2,1-2H3/b4-3-",
+    "InChl_Key": "OTRFVHWXENKCEG-ARJAWSKDSA-N",
+    "SMILES": "C/C=C\\c1cc2c(cc1OC)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1112",
+    "validation": "m_weight unsave, calculated(192.21399999999997)"
+}

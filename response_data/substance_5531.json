@@ -1,0 +1,13 @@
+{
+    "names": "4-AcO-DALT ; 4-Acetoxy-N,N-diallyltryptamine",
+    "iupac_name": "3-{2-[Di(prop-2-en-1-yl)amino]ethyl}-1H-indol-4-yl acetate",
+    "category": "Tryptamine",
+    "index": 5531,
+    "formular": "C18H22N2O2",
+    "molecular_weight": 298.379,
+    "inChl": "1S/C18H22N2O2/c1-4-10-20(11-5-2)12-9-15-13-19-16-7-6-8-17(18(15)16)22-14(3)21/h4-8,13,19H,1-2,9-12H2,3H3",
+    "InChl_Key": "WRHFDIBXZYYCHO-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(CC=C)CCc1c[nH]c2cccc(OC(C)=O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5531",
+    "validation": "m_weight unsave, calculated(298.3860000000001)"
+}

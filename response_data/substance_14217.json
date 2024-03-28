@@ -1,0 +1,13 @@
+{
+    "names": "25N-NBPh ; N-(2-Phenylbenzyl)-4-nitro-2,5-dimethoxyphenethylamine",
+    "iupac_name": "N-[([1,1\u2032-Biphenyl]-2-yl)methyl]-2-(2,5-dimethoxy-4-nitrophenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14217,
+    "formular": "C23H24N2O4",
+    "molecular_weight": 392.448,
+    "inChl": "1S/C23H24N2O4/c1-28-22-15-21(25(26)27)23(29-2)14-18(22)12-13-24-16-19-10-6-7-11-20(19)17-8-4-3-5-9-17/h3-11,14-15,24H,12-13,16H2,1-2H3",
+    "InChl_Key": "LXUVMUYFLPADGJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc([N+](=O)[O-])c(OC)cc1CCNCc1ccccc1-c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14217",
+    "validation": "m_weight unsave, calculated(392.4550000000001)"
+}

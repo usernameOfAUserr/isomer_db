@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Bis[1-(2-methoxyphenyl)propan-2-yl]formamide",
+    "iupac_name": "1533 ; C21H27NO3 ; 341.444",
+    "category": "data not stored",
+    "index": 1533,
+    "formular": "C21H27NO3",
+    "molecular_weight": 341.444,
+    "inChl": "1S/C21H27NO3/c1-16(13-18-9-5-7-11-20(18)24-3)22(15-23)17(2)14-19-10-6-8-12-21(19)25-4/h5-12,15-17H,13-14H2,1-4H3",
+    "InChl_Key": "RBAPFAIQNDXASG-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CC(C)N(C=O)C(C)Cc1ccccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1533",
+    "validation": "m_weight unsave, calculated(341.4510000000001)"
+}

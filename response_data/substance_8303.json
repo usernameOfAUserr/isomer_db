@@ -1,0 +1,13 @@
+{
+    "names": "3-Me-5-MeS-2-MBAL ; 3-Methyl-5-methylthio-2-methoxybenzaldehyde",
+    "iupac_name": "2-Methoxy-3-methyl-5-(methylsulfanyl)benzaldehyde",
+    "category": "data not stored",
+    "index": 8303,
+    "formular": "C10H12O2S",
+    "molecular_weight": 196.266,
+    "inChl": "1S/C10H12O2S/c1-7-4-9(13-3)5-8(6-11)10(7)12-2/h4-6H,1-3H3",
+    "InChl_Key": "YEPDDIMDBXRDJN-UHFFFAOYSA-N",
+    "SMILES": "COc1c(C)cc(SC)cc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8303",
+    "validation": "m_weight unsave, calculated(196.271)"
+}

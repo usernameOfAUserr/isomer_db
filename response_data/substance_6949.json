@@ -1,0 +1,13 @@
+{
+    "names": "3-[4-(2-Hydroxyethyl)-2,5-dimethoxyphenyl]propan-1-ol",
+    "iupac_name": "6949 ; C13H20O4 ; 240.296",
+    "category": "data not stored",
+    "index": 6949,
+    "formular": "C13H20O4",
+    "molecular_weight": 240.296,
+    "inChl": "1S/C13H20O4/c1-16-12-9-11(5-7-15)13(17-2)8-10(12)4-3-6-14/h8-9,14-15H,3-7H2,1-2H3",
+    "InChl_Key": "PFCKEEHEKSUTRD-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCCO)c(OC)cc1CCO",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6949",
+    "validation": "m_weight unsave, calculated(240.29899999999995)"
+}

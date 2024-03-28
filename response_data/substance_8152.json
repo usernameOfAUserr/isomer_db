@@ -1,0 +1,13 @@
+{
+    "names": "(Isomer 2) ADB-PINACA",
+    "iupac_name": "N-[(2S,3S)-1-Amino-3-methyl-1-oxopentan-2-yl]-1-pentyl-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 8152,
+    "formular": "C19H28N4O2",
+    "molecular_weight": 344.451,
+    "inChl": "1S/C19H28N4O2/c1-4-6-9-12-23-15-11-8-7-10-14(15)17(22-23)19(25)21-16(18(20)24)13(3)5-2/h7-8,10-11,13,16H,4-6,9,12H2,1-3H3,(H2,20,24)(H,21,25)/t13-,16-/m0/s1",
+    "InChl_Key": "QFGOKLQWEVQXAP-BBRMVZONSA-N",
+    "SMILES": "CCCCCn1nc(C(=O)N[C@H](C(N)=O)[C@@H](C)CC)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8152",
+    "validation": "m_weight unsave, calculated(344.4590000000002)"
+}

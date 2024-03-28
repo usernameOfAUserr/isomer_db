@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Methylpsilocin ; 4-Hydroxy-\u03b1-methyl-N,N-dimethyltryptamine ; 4-HO-\u03b1-methyl-DMT",
+    "iupac_name": "3-[2-(Dimethylamino)propyl]-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 5237,
+    "formular": "C13H18N2O",
+    "molecular_weight": 218.295,
+    "inChl": "1S/C13H18N2O/c1-9(15(2)3)7-10-8-14-11-5-4-6-12(16)13(10)11/h4-6,8-9,14,16H,7H2,1-3H3",
+    "InChl_Key": "GRWDWEFPYLWISL-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1c[nH]c2cccc(O)c12)N(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5237",
+    "validation": "m_weight unsave, calculated(218.3)"
+}

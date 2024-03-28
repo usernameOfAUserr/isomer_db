@@ -1,0 +1,13 @@
+{
+    "names": "RTI-240",
+    "iupac_name": "(2S,3S)-3-(4-Chlorophenyl)-8-methyl-2-(propan-2-yl)-8-azabicyclo[3.2.1]octane",
+    "category": "data not stored",
+    "index": 8728,
+    "formular": "C17H24ClN",
+    "molecular_weight": 277.832,
+    "inChl": "1S/C17H24ClN/c1-11(2)17-15(12-4-6-13(18)7-5-12)10-14-8-9-16(17)19(14)3/h4-7,11,14-17H,8-10H2,1-3H3/t14?,15-,16?,17+/m1/s1",
+    "InChl_Key": "VQDKEBQQMKJKGR-MYBQVCMBSA-N",
+    "SMILES": "CC(C)[C@@H]1C2CCC(C[C@@H]1c1ccc(Cl)cc1)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8728",
+    "validation": "m_weight unsave, calculated(277.83899999999994)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-O-Ethyl-synephrine",
+    "iupac_name": "4-[1-Ethoxy-2-(methylamino)ethyl]phenol",
+    "category": "data not stored",
+    "index": 12659,
+    "formular": "C11H17NO2",
+    "molecular_weight": 195.258,
+    "inChl": "1S/C11H17NO2/c1-3-14-11(8-12-2)9-4-6-10(13)7-5-9/h4-7,11-13H,3,8H2,1-2H3",
+    "InChl_Key": "QWMALSSQEHUHQD-UHFFFAOYSA-N",
+    "SMILES": "CCOC(CNC)c1ccc(O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12659",
+    "validation": "m_weight unsave, calculated(195.26199999999997)"
+}

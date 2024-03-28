@@ -1,0 +1,13 @@
+{
+    "names": "N-Me-N-PR-4-FA ; N-Methyl-N-propargyl-4-fluoroamphetamine ; p-F-Deprenyl",
+    "iupac_name": "N-[1-(4-Fluorophenyl)propan-2-yl]-N-methylprop-2-yn-1-amine",
+    "category": "Phenetylamine",
+    "index": 10564,
+    "formular": "C13H16FN",
+    "molecular_weight": 205.271,
+    "inChl": "1S/C13H16FN/c1-4-9-15(3)11(2)10-12-5-7-13(14)8-6-12/h1,5-8,11H,9-10H2,2-3H3",
+    "InChl_Key": "MUDUXRHPVDVWHU-UHFFFAOYSA-N",
+    "SMILES": "C#CCN(C)C(C)Cc1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10564",
+    "validation": "m_weight unsave, calculated(205.276)"
+}

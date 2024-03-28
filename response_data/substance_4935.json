@@ -1,0 +1,13 @@
+{
+    "names": "WO 2009/106982 #183",
+    "iupac_name": "7-Chloro-1-[(4-fluorophenyl)methyl]-N-{(2S)-1-[(2-hydroxyethyl)amino]-3,3-dimethyl-1-oxobutan-2-yl}-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4935,
+    "formular": "C23H26ClFN4O3",
+    "molecular_weight": 460.929,
+    "inChl": "1S/C23H26ClFN4O3/c1-23(2,3)20(22(32)26-11-12-30)27-21(31)18-16-5-4-6-17(24)19(16)29(28-18)13-14-7-9-15(25)10-8-14/h4-10,20,30H,11-13H2,1-3H3,(H,26,32)(H,27,31)/t20-/m1/s1",
+    "InChl_Key": "NWSKQHTZGYGVJQ-HXUWFJFHSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(Cc2ccc(F)cc2)c2c(Cl)cccc12)C(=O)NCCO",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4935",
+    "validation": "m_weight unsave, calculated(460.9370000000002)"
+}

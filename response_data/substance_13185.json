@@ -1,0 +1,13 @@
+{
+    "names": "7-Chloro-DMT ; 7-Chloro-N,N-dimethyltryptamine",
+    "iupac_name": "2-(7-Chloro-1H-indol-3-yl)-N,N-dimethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 13185,
+    "formular": "C12H15ClN2",
+    "molecular_weight": 222.714,
+    "inChl": "1S/C12H15ClN2/c1-15(2)7-6-9-8-14-12-10(9)4-3-5-11(12)13/h3-5,8,14H,6-7H2,1-2H3",
+    "InChl_Key": "OCTRPLPLXAHEND-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2c(Cl)cccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13185",
+    "validation": "m_weight unsave, calculated(222.719)"
+}

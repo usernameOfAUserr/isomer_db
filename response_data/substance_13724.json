@@ -1,0 +1,13 @@
+{
+    "names": "Lophocerine",
+    "iupac_name": "6-Methoxy-2-methyl-1-(2-methylpropyl)-1,2,3,4-tetrahydroisoquinolin-7-ol",
+    "category": "data not stored",
+    "index": 13724,
+    "formular": "C15H23NO2",
+    "molecular_weight": 249.349,
+    "inChl": "1S/C15H23NO2/c1-10(2)7-13-12-9-14(17)15(18-4)8-11(12)5-6-16(13)3/h8-10,13,17H,5-7H2,1-4H3",
+    "InChl_Key": "GEHUGSUAESFIIV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(cc1O)C(CC(C)C)N(C)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13724",
+    "validation": "m_weight unsave, calculated(249.35399999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Benzoylbenzylfentanyl",
+    "iupac_name": "N-(1-Benzylpiperidin-4-yl)-N-phenylbenzamide",
+    "category": "data not stored",
+    "index": 1898,
+    "formular": "C25H26N2O",
+    "molecular_weight": 370.487,
+    "inChl": "1S/C25H26N2O/c28-25(22-12-6-2-7-13-22)27(23-14-8-3-9-15-23)24-16-18-26(19-17-24)20-21-10-4-1-5-11-21/h1-15,24H,16-20H2",
+    "InChl_Key": "TVPYSIMEYHFHLN-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccccc1)N(c1ccccc1)C1CCN(Cc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1898",
+    "validation": "m_weight unsave, calculated(370.496)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1\u2032,1\u2032-Dimethylheptyl-\u03943-THC",
+    "iupac_name": "6,6,9-Trimethyl-3-(2-methyloctan-2-yl)-7,8,9,10-tetrahydro-6H-dibenzo[b,d]pyran-1-ol",
+    "category": "cannabinodids",
+    "index": 9990,
+    "formular": "C25H38O2",
+    "molecular_weight": 370.568,
+    "inChl": "1S/C25H38O2/c1-7-8-9-10-13-24(3,4)18-15-21(26)23-19-14-17(2)11-12-20(19)25(5,6)27-22(23)16-18/h15-17,26H,7-14H2,1-6H3",
+    "InChl_Key": "BAPMYIDMCWECAK-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCC(C)(C)c1cc(O)c2c(c1)OC(C)(C)C1=C2CC(C)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9990",
+    "validation": "m_weight unsave, calculated(370.57700000000017)"
+}

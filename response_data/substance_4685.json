@@ -1,0 +1,13 @@
+{
+    "names": "5F-MN-18 ; 5-Fluoro-MN-18 ; NA-5F-PINACA",
+    "iupac_name": "1-(5-Fluoropentyl)-N-(naphthalen-1-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4685,
+    "formular": "C23H22FN3O",
+    "molecular_weight": 375.439,
+    "inChl": "1S/C23H22FN3O/c24-15-6-1-7-16-27-21-14-5-4-12-19(21)22(26-27)23(28)25-20-13-8-10-17-9-2-3-11-18(17)20/h2-5,8-14H,1,6-7,15-16H2,(H,25,28)",
+    "InChl_Key": "XBSWUIWDRFCAGZ-UHFFFAOYSA-N",
+    "SMILES": "O=C(Nc1cccc2ccccc12)c1nn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4685",
+    "validation": "m_weight unsave, calculated(375.4470000000001)"
+}

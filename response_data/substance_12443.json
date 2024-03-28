@@ -1,0 +1,13 @@
+{
+    "names": "2-Phenyl-3-methyl-thiomorpholine",
+    "iupac_name": "3-Methyl-2-phenylthiomorpholine",
+    "category": "data not stored",
+    "index": 12443,
+    "formular": "C11H15NS",
+    "molecular_weight": 193.309,
+    "inChl": "1S/C11H15NS/c1-9-11(13-8-7-12-9)10-5-3-2-4-6-10/h2-6,9,11-12H,7-8H2,1H3",
+    "InChl_Key": "BZURCWWPFRCDTF-UHFFFAOYSA-N",
+    "SMILES": "CC1NCCSC1c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12443",
+    "validation": "m_weight unsave, calculated(193.31500000000003)"
+}

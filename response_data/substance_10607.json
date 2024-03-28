@@ -1,0 +1,13 @@
+{
+    "names": "1-[(4-Chlorophenyl)methyl]-N-ethylcyclopropan-1-amine",
+    "iupac_name": "10607 ; C12H16ClN ; 209.715",
+    "category": "Phenetylamine",
+    "index": 10607,
+    "formular": "C12H16ClN",
+    "molecular_weight": 209.715,
+    "inChl": "1S/C12H16ClN/c1-2-14-12(7-8-12)9-10-3-5-11(13)6-4-10/h3-6,14H,2,7-9H2,1H3",
+    "InChl_Key": "VJWORCDURPRLQM-UHFFFAOYSA-N",
+    "SMILES": "CCNC1(Cc2ccc(Cl)cc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10607",
+    "validation": "m_weight unsave, calculated(209.72)"
+}

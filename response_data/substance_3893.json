@@ -1,0 +1,13 @@
+{
+    "names": "3-HO-4-MBAL ; 3-Hydroxy-p-anisaldehyde ; Isovanillin",
+    "iupac_name": "3-Hydroxy-4-methoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 3893,
+    "formular": "C8H8O3",
+    "molecular_weight": 152.147,
+    "inChl": "1S/C8H8O3/c1-11-8-3-2-6(5-9)4-7(8)10/h2-5,10H,1H3",
+    "InChl_Key": "JVTZFYYHCGSXJV-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C=O)cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3893",
+    "validation": "m_weight unsave, calculated(152.14899999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-NMT ; 5-Methoxy-N-methyltryptamine ; N,O-DMS ; N,O-Dimethylserotonin ; Indole, 5-methoxy-3-[2-(methylamino)ethyl] ; 5-Methoxy-3-[2-(methylamino)ethyl]indole ; Serotonin, N,O-dimethyl ; Tryptamine, 5-methoxy-N-methyl ; nor-5-MeO-DMT",
+    "iupac_name": "2-(5-Methoxy-1H-indol-3-yl)-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5042,
+    "formular": "C12H16N2O",
+    "molecular_weight": 204.268,
+    "inChl": "1S/C12H16N2O/c1-13-6-5-9-8-14-12-4-3-10(15-2)7-11(9)12/h3-4,7-8,13-14H,5-6H2,1-2H3",
+    "InChl_Key": "NFDDCRIHMZGWBP-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1c[nH]c2ccc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5042",
+    "validation": "m_weight unsave, calculated(204.273)"
+}

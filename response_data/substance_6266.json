@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 6-(4-methoxyphenyl)-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "iupac_name": "6266 ; C21H19N3O3 ; 361.394",
+    "category": "Aryldiazepine",
+    "index": 6266,
+    "formular": "C21H19N3O3",
+    "molecular_weight": 361.394,
+    "inChl": "1S/C21H19N3O3/c1-3-27-21(25)20-18-12-22-19(14-8-10-15(26-2)11-9-14)16-6-4-5-7-17(16)24(18)13-23-20/h4-11,13H,3,12H2,1-2H3",
+    "InChl_Key": "JQUMJPWOJLCRNJ-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ncn2c1CN=C(c1ccc(OC)cc1)c1ccccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6266",
+    "validation": "m_weight unsave, calculated(361.4010000000001)"
+}

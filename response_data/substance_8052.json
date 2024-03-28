@@ -1,0 +1,13 @@
+{
+    "names": "5F-CYP-PINACA",
+    "iupac_name": "N-(Cyclopropylmethyl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 8052,
+    "formular": "C17H22FN3O",
+    "molecular_weight": 303.374,
+    "inChl": "1S/C17H22FN3O/c18-10-4-1-5-11-21-15-7-3-2-6-14(15)16(20-21)17(22)19-12-13-8-9-13/h2-3,6-7,13H,1,4-5,8-12H2,(H,19,22)",
+    "InChl_Key": "MRPLOQAFBXSWTI-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCC1CC1)c1nn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8052",
+    "validation": "m_weight unsave, calculated(303.38100000000014)"
+}

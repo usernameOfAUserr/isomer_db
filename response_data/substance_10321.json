@@ -1,0 +1,13 @@
+{
+    "names": "2C-FIP ; 4-(2-Fluoroisopropyl)-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-[4-(2-Fluoropropan-2-yl)-2,5-dimethoxyphenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10321,
+    "formular": "C13H20FNO2",
+    "molecular_weight": 241.302,
+    "inChl": "1S/C13H20FNO2/c1-13(2,14)10-8-11(16-3)9(5-6-15)7-12(10)17-4/h7-8H,5-6,15H2,1-4H3",
+    "InChl_Key": "WSHZDCGAGGOMIK-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(C)(C)F)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10321",
+    "validation": "m_weight unsave, calculated(241.30599999999995)"
+}

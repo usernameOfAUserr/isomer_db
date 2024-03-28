@@ -1,0 +1,13 @@
+{
+    "names": "JY-i-59",
+    "iupac_name": "2,2,2-Trifluoroethyl 8-ethynyl-6-(2-fluorophenyl)-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 8244,
+    "formular": "C22H13F4N3O2",
+    "molecular_weight": 427.351,
+    "inChl": "1S/C22H13F4N3O2/c1-2-13-7-8-17-15(9-13)19(14-5-3-4-6-16(14)23)27-10-18-20(28-12-29(17)18)21(30)31-11-22(24,25)26/h1,3-9,12H,10-11H2",
+    "InChl_Key": "KCDQTQWGDLRJLQ-UHFFFAOYSA-N",
+    "SMILES": "C#Cc1ccc2c(c1)C(c1ccccc1F)=NCc1c(C(=O)OCC(F)(F)F)ncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8244",
+    "validation": "m_weight unsave, calculated(427.3570000000001)"
+}

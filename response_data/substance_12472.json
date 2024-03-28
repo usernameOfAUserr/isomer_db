@@ -1,0 +1,13 @@
+{
+    "names": "5-Ethylgramine",
+    "iupac_name": "1-(5-Ethyl-1H-indol-3-yl)-N,N-dimethylmethanamine",
+    "category": "data not stored",
+    "index": 12472,
+    "formular": "C13H18N2",
+    "molecular_weight": 202.295,
+    "inChl": "1S/C13H18N2/c1-4-10-5-6-13-12(7-10)11(8-14-13)9-15(2)3/h5-8,14H,4,9H2,1-3H3",
+    "InChl_Key": "WRMXJWREAVYBQN-UHFFFAOYSA-N",
+    "SMILES": "CCc1ccc2[nH]cc(CN(C)C)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12472",
+    "validation": "m_weight unsave, calculated(202.301)"
+}

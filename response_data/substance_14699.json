@@ -1,0 +1,13 @@
+{
+    "names": "N-(Naphthalen-2-yl)-1-pentyl-1H-indole-3-carboxamide",
+    "iupac_name": "14699 ; C24H24N2O ; 356.46",
+    "category": "cannabinodids",
+    "index": 14699,
+    "formular": "C24H24N2O",
+    "molecular_weight": 356.46,
+    "inChl": "1S/C24H24N2O/c1-2-3-8-15-26-17-22(21-11-6-7-12-23(21)26)24(27)25-20-14-13-18-9-4-5-10-19(18)16-20/h4-7,9-14,16-17H,2-3,8,15H2,1H3,(H,25,27)",
+    "InChl_Key": "LKGPFICOQRIBQC-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)Nc2ccc3ccccc3c2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14699",
+    "validation": "m_weight unsave, calculated(356.4690000000001)"
+}

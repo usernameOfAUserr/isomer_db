@@ -1,0 +1,13 @@
+{
+    "names": "2-{Methyl[(2-methyl-1,3-dioxolan-2-yl)methyl]amino}-1-phenylethan-1-one",
+    "iupac_name": "1862 ; C14H19NO3 ; 249.306",
+    "category": "data not stored",
+    "index": 1862,
+    "formular": "C14H19NO3",
+    "molecular_weight": 249.306,
+    "inChl": "1S/C14H19NO3/c1-14(17-8-9-18-14)11-15(2)10-13(16)12-6-4-3-5-7-12/h3-7H,8-11H2,1-2H3",
+    "InChl_Key": "BXABOHBNBOQTAD-UHFFFAOYSA-N",
+    "SMILES": "CN(CC(=O)c1ccccc1)CC1(C)OCCO1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1862",
+    "validation": "m_weight unsave, calculated(249.31)"
+}

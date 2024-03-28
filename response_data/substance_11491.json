@@ -1,0 +1,13 @@
+{
+    "names": "Ro-20-5397",
+    "iupac_name": "2-Oxo-5-phenyl-2,3-dihydro-1H-1,4-benzodiazepine-7-carbaldehyde",
+    "category": "Aryldiazepine",
+    "index": 11491,
+    "formular": "C16H12N2O2",
+    "molecular_weight": 264.279,
+    "inChl": "1S/C16H12N2O2/c19-10-11-6-7-14-13(8-11)16(17-9-15(20)18-14)12-4-2-1-3-5-12/h1-8,10H,9H2,(H,18,20)",
+    "InChl_Key": "PCMWVURKIXMPLA-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1ccc2c(c1)C(c1ccccc1)=NCC(=O)N2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11491",
+    "validation": "m_weight unsave, calculated(264.284)"
+}

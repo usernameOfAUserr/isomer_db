@@ -1,0 +1,13 @@
+{
+    "names": "25B-5-MeOEtO-NBOMe ; N-(2-Methoxybenzyl)-4-bromo-5-methoxyethoxy-2-methoxyphenethylamine",
+    "iupac_name": "2-[4-Bromo-2-methoxy-5-(2-methoxyethoxy)phenyl]-N-[(2-methoxyphenyl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 5959,
+    "formular": "C20H26BrNO4",
+    "molecular_weight": 424.329,
+    "inChl": "1S/C20H26BrNO4/c1-23-10-11-26-20-12-15(19(25-3)13-17(20)21)8-9-22-14-16-6-4-5-7-18(16)24-2/h4-7,12-13,22H,8-11,14H2,1-3H3",
+    "InChl_Key": "LBIDHUXENVZNHU-UHFFFAOYSA-N",
+    "SMILES": "COCCOc1cc(CCNCc2ccccc2OC)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5959",
+    "validation": "m_weight unsave, calculated(424.33500000000015)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "7-Chloro-2,3,4,5-tetrahydro-1H-3-benzazepine",
+    "iupac_name": "2753 ; C10H12ClN ; 181.662",
+    "category": "Phenetylamine",
+    "index": 2753,
+    "formular": "C10H12ClN",
+    "molecular_weight": 181.662,
+    "inChl": "1S/C10H12ClN/c11-10-2-1-8-3-5-12-6-4-9(8)7-10/h1-2,7,12H,3-6H2",
+    "InChl_Key": "ZJIUEDYXZUIMNV-UHFFFAOYSA-N",
+    "SMILES": "Clc1ccc2c(c1)CCNCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2753",
+    "validation": "m_weight unsave, calculated(181.66599999999997)"
+}

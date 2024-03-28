@@ -1,0 +1,13 @@
+{
+    "names": "Properidine",
+    "iupac_name": "Propan-2-yl 1-methyl-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 3268,
+    "formular": "C16H23NO2",
+    "molecular_weight": 261.359,
+    "inChl": "1S/C16H23NO2/c1-13(2)19-15(18)16(9-11-17(3)12-10-16)14-7-5-4-6-8-14/h4-8,13H,9-12H2,1-3H3",
+    "InChl_Key": "XJKQCILVUHXVIQ-UHFFFAOYSA-N",
+    "SMILES": "CC(C)OC(=O)C1(c2ccccc2)CCN(C)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3268",
+    "validation": "m_weight unsave, calculated(261.365)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "RY-23",
+    "iupac_name": "tert-Butyl 5-methyl-6-oxo-8-[(trimethylsilyl)ethynyl]-5,6-dihydro-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 6800,
+    "formular": "C22H27N3O3Si",
+    "molecular_weight": 409.554,
+    "inChl": "1S/C22H27N3O3Si/c1-22(2,3)28-21(27)19-18-13-24(4)20(26)16-12-15(10-11-29(5,6)7)8-9-17(16)25(18)14-23-19/h8-9,12,14H,13H2,1-7H3",
+    "InChl_Key": "NGWYCOVARFKQDW-UHFFFAOYSA-N",
+    "SMILES": "CN1Cc2c(C(=O)OC(C)(C)C)ncn2-c2ccc(C#C[Si](C)(C)C)cc2C1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6800",
+    "validation": "m_weight unsave, calculated(409.56200000000024)"
+}

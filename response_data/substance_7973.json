@@ -1,0 +1,13 @@
+{
+    "names": "1-(2H-1,3-Benzodithiol-5-yl)-N-methylpropan-2-amine",
+    "iupac_name": "7973 ; C11H15NS2 ; 225.374",
+    "category": "data not stored",
+    "index": 7973,
+    "formular": "C11H15NS2",
+    "molecular_weight": 225.374,
+    "inChl": "1S/C11H15NS2/c1-8(12-2)5-9-3-4-10-11(6-9)14-7-13-10/h3-4,6,8,12H,5,7H2,1-2H3",
+    "InChl_Key": "YJHDNIOLUBURCY-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1ccc2c(c1)SCS2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7973",
+    "validation": "m_weight unsave, calculated(225.38199999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-(4-{[tert-Butyl(diphenyl)silyl]oxy}-1H-indol-3-yl)-N,N-dimethylethan-1-amine",
+    "iupac_name": "14782 ; C28H34N2OSi ; 442.668",
+    "category": "Tryptamine",
+    "index": 14782,
+    "formular": "C28H34N2OSi",
+    "molecular_weight": 442.668,
+    "inChl": "1S/C28H34N2OSi/c1-28(2,3)32(23-13-8-6-9-14-23,24-15-10-7-11-16-24)31-26-18-12-17-25-27(26)22(21-29-25)19-20-30(4)5/h6-18,21,29H,19-20H2,1-5H3",
+    "InChl_Key": "FQHIPYHASVNZKA-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2cccc(O[Si](c3ccccc3)(c3ccccc3)C(C)(C)C)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14782",
+    "validation": "m_weight unsave, calculated(442.6790000000001)"
+}

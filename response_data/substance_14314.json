@@ -1,0 +1,13 @@
+{
+    "names": "NBF 003 ; 5-Bromo-4-dimethylamino-2-methylamphetamine",
+    "iupac_name": "4-(2-Aminopropyl)-2-bromo-N,N,5-trimethylaniline",
+    "category": "data not stored",
+    "index": 14314,
+    "formular": "C12H19BrN2",
+    "molecular_weight": 271.197,
+    "inChl": "1S/C12H19BrN2/c1-8-5-12(15(3)4)11(13)7-10(8)6-9(2)14/h5,7,9H,6,14H2,1-4H3",
+    "InChl_Key": "VLJPTZSFEYZILH-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(N(C)C)c(Br)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14314",
+    "validation": "m_weight unsave, calculated(271.202)"
+}

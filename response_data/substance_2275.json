@@ -1,0 +1,13 @@
+{
+    "names": "Hydrohydrastinine ; MDHM-4",
+    "iupac_name": "6-Methyl-5,6,7,8-tetrahydro-2H-[1,3]dioxolo[4,5-g]isoquinoline ; 6-Methyl-5,6,7,8-tetrahydro[1,3]dioxolo[4,5-g]isoquinoline",
+    "category": "data not stored",
+    "index": 2275,
+    "formular": "C11H13NO2",
+    "molecular_weight": 191.226,
+    "inChl": "1S/C11H13NO2/c1-12-3-2-8-4-10-11(14-7-13-10)5-9(8)6-12/h4-5H,2-3,6-7H2,1H3",
+    "InChl_Key": "XNZFFRJWTVYMBF-UHFFFAOYSA-N",
+    "SMILES": "CN1CCc2cc3c(cc2C1)OCO3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2275",
+    "validation": "m_weight unsave, calculated(191.22999999999996)"
+}

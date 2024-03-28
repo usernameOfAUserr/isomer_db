@@ -1,0 +1,13 @@
+{
+    "names": "DOMeSEt ; 4-(2-Methylthioethyl)-2,5-dimethoxyamphetamine",
+    "iupac_name": "1-{2,5-Dimethoxy-4-[2-(methylsulfanyl)ethyl]phenyl}propan-2-amine",
+    "category": "data not stored",
+    "index": 5984,
+    "formular": "C14H23NO2S",
+    "molecular_weight": 269.403,
+    "inChl": "1S/C14H23NO2S/c1-10(15)7-12-9-13(16-2)11(5-6-18-4)8-14(12)17-3/h8-10H,5-7,15H2,1-4H3",
+    "InChl_Key": "MDLPCKNFDCESEM-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c(OC)cc1CCSC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5984",
+    "validation": "m_weight unsave, calculated(269.40999999999997)"
+}

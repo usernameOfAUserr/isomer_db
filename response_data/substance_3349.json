@@ -1,0 +1,13 @@
+{
+    "names": "RTI-311",
+    "iupac_name": "Methyl (2S,3S)-3-(4-iodophenyl)-8-(prop-2-en-1-yl)-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "category": "data not stored",
+    "index": 3349,
+    "formular": "C18H22INO2",
+    "molecular_weight": 411.277,
+    "inChl": "1S/C18H22INO2/c1-3-10-20-14-8-9-16(20)17(18(21)22-2)15(11-14)12-4-6-13(19)7-5-12/h3-7,14-17H,1,8-11H2,2H3/t14?,15-,16?,17+/m1/s1",
+    "InChl_Key": "MKPRCXVEBYDCTM-MYBQVCMBSA-N",
+    "SMILES": "C=CCN1C2CCC1[C@@H](C(=O)OC)[C@@H](c1ccc(I)cc1)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3349",
+    "validation": "m_weight unsave, calculated(411.2830000000001)"
+}

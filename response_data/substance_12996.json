@@ -1,0 +1,13 @@
+{
+    "names": "2-Bromo-7-(oxetan-3-yl)-5,6,7,8,9,10-hexahydropyrido[3\u2032,2\u2032:4,5]pyrrolo[2,3-d]azepine",
+    "iupac_name": "12996 ; C14H16BrN3O ; 322.2",
+    "category": "data not stored",
+    "index": 12996,
+    "formular": "C14H16BrN3O",
+    "molecular_weight": 322.2,
+    "inChl": "1S/C14H16BrN3O/c15-13-2-1-11-10-3-5-18(9-7-19-8-9)6-4-12(10)16-14(11)17-13/h1-2,9H,3-8H2,(H,16,17)",
+    "InChl_Key": "IXBBMGNJJCQICW-UHFFFAOYSA-N",
+    "SMILES": "Brc1ccc2c3c([nH]c2n1)CCN(C1COC1)CC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12996",
+    "validation": "m_weight unsave, calculated(322.2060000000001)"
+}

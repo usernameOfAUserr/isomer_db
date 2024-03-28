@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl-N-(prop-2-yn-1-yl)-1,2,3,4-tetrahydronaphthalen-1-amine",
+    "iupac_name": "12034 ; C14H17N ; 199.291",
+    "category": "Phenetylamine",
+    "index": 12034,
+    "formular": "C14H17N",
+    "molecular_weight": 199.291,
+    "inChl": "1S/C14H17N/c1-3-11-15(2)14-10-6-8-12-7-4-5-9-13(12)14/h1,4-5,7,9,14H,6,8,10-11H2,2H3",
+    "InChl_Key": "CNDRGJMVUCPHLF-UHFFFAOYSA-N",
+    "SMILES": "C#CCN(C)C1CCCc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12034",
+    "validation": "m_weight unsave, calculated(199.297)"
+}

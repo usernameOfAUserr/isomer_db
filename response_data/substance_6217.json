@@ -1,0 +1,13 @@
+{
+    "names": "N-Et-PCA ; N-Ethyl-4-chloroamphetamine",
+    "iupac_name": "2-(4-Chlorophenyl)-N-ethylethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 6217,
+    "formular": "C10H14ClN",
+    "molecular_weight": 183.678,
+    "inChl": "1S/C10H14ClN/c1-2-12-8-7-9-3-5-10(11)6-4-9/h3-6,12H,2,7-8H2,1H3",
+    "InChl_Key": "QUVTTYBFMDDFBM-UHFFFAOYSA-N",
+    "SMILES": "CCNCCc1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6217",
+    "validation": "m_weight unsave, calculated(183.682)"
+}

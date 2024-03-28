@@ -1,0 +1,13 @@
+{
+    "names": "5-Bromo-3-(1-methyl-1,2,3,6-tetrahydropyridin-4-yl)-1H-indole",
+    "iupac_name": "5913 ; C14H15BrN2 ; 291.186",
+    "category": "data not stored",
+    "index": 5913,
+    "formular": "C14H15BrN2",
+    "molecular_weight": 291.186,
+    "inChl": "1S/C14H15BrN2/c1-17-6-4-10(5-7-17)13-9-16-14-3-2-11(15)8-12(13)14/h2-4,8-9,16H,5-7H2,1H3",
+    "InChl_Key": "IRJNNZSKGXPISD-UHFFFAOYSA-N",
+    "SMILES": "CN1CC=C(c2c[nH]c3ccc(Br)cc23)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5913",
+    "validation": "m_weight unsave, calculated(291.192)"
+}

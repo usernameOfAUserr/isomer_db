@@ -1,0 +1,13 @@
+{
+    "names": "4-[2-(Diethylamino)ethoxy]benzonitrile",
+    "iupac_name": "10611 ; C13H18N2O ; 218.295",
+    "category": "Phenetylamine",
+    "index": 10611,
+    "formular": "C13H18N2O",
+    "molecular_weight": 218.295,
+    "inChl": "1S/C13H18N2O/c1-3-15(4-2)9-10-16-13-7-5-12(11-14)6-8-13/h5-8H,3-4,9-10H2,1-2H3",
+    "InChl_Key": "JRRGTFWXJNELCC-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCOc1ccc(C#N)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10611",
+    "validation": "m_weight unsave, calculated(218.29999999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "NAMT ; N-Acetyl-3-methoxytyramine",
+    "iupac_name": "N-[2-(4-Hydroxy-3-methoxyphenyl)ethyl]acetamide",
+    "category": "data not stored",
+    "index": 12660,
+    "formular": "C11H15NO3",
+    "molecular_weight": 209.242,
+    "inChl": "1S/C11H15NO3/c1-8(13)12-6-5-9-3-4-10(14)11(7-9)15-2/h3-4,7,14H,5-6H2,1-2H3,(H,12,13)",
+    "InChl_Key": "LPMUFBLEYLSXFN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNC(C)=O)ccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12660",
+    "validation": "m_weight unsave, calculated(209.245)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-iBu-2-MBAL ; 4-Isobutyl-2-methoxybenzaldehyde",
+    "iupac_name": "2-Methoxy-4-(2-methylpropyl)benzaldehyde",
+    "category": "data not stored",
+    "index": 13121,
+    "formular": "C12H16O2",
+    "molecular_weight": 192.254,
+    "inChl": "1S/C12H16O2/c1-9(2)6-10-4-5-11(8-13)12(7-10)14-3/h4-5,7-9H,6H2,1-3H3",
+    "InChl_Key": "AYGDMPHVZXYOSH-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)C)ccc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13121",
+    "validation": "m_weight unsave, calculated(192.25799999999995)"
+}

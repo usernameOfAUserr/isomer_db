@@ -1,0 +1,13 @@
+{
+    "names": "AM-1286",
+    "iupac_name": "4-[3-(Naphthalene-1-carbonyl)-1H-indol-1-yl]butyl 4-methylbenzene-1-sulfonate",
+    "category": "cannabinodids",
+    "index": 14621,
+    "formular": "C30H27NO4S",
+    "molecular_weight": 497.605,
+    "inChl": "1S/C30H27NO4S/c1-22-15-17-24(18-16-22)36(33,34)35-20-7-6-19-31-21-28(26-12-4-5-14-29(26)31)30(32)27-13-8-10-23-9-2-3-11-25(23)27/h2-5,8-18,21H,6-7,19-20H2,1H3",
+    "InChl_Key": "FFKPHZMSUZUGRO-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(S(=O)(=O)OCCCCn2cc(C(=O)c3cccc4ccccc34)c3ccccc32)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14621",
+    "validation": "m_weight unsave, calculated(497.61600000000016)"
+}

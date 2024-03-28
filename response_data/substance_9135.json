@@ -1,0 +1,13 @@
+{
+    "names": "4-Ethoxy-4-(3-methylphenyl)-1-(2-phenylethyl)piperidine",
+    "iupac_name": "9135 ; C22H29NO ; 323.472",
+    "category": "data not stored",
+    "index": 9135,
+    "formular": "C22H29NO",
+    "molecular_weight": 323.472,
+    "inChl": "1S/C22H29NO/c1-3-24-22(21-11-7-8-19(2)18-21)13-16-23(17-14-22)15-12-20-9-5-4-6-10-20/h4-11,18H,3,12-17H2,1-2H3",
+    "InChl_Key": "AKZSQKVLNBWUQH-UHFFFAOYSA-N",
+    "SMILES": "CCOC1(c2cccc(C)c2)CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9135",
+    "validation": "m_weight unsave, calculated(323.4800000000001)"
+}

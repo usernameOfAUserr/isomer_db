@@ -1,0 +1,13 @@
+{
+    "names": "MDMAR ; 3\u2032,4\u2032-Methylenedioxy-4-methylaminorex",
+    "iupac_name": "5-(2H-1,3-Benzodioxol-5-yl)-4-methyl-4,5-dihydro-1,3-oxazol-2-amine",
+    "category": "data not stored",
+    "index": 1104,
+    "formular": "C11H12N2O3",
+    "molecular_weight": 220.225,
+    "inChl": "1S/C11H12N2O3/c1-6-10(16-11(12)13-6)7-2-3-8-9(4-7)15-5-14-8/h2-4,6,10H,5H2,1H3,(H2,12,13)",
+    "InChl_Key": "JFKNBDXNCLMRPL-UHFFFAOYSA-N",
+    "SMILES": "CC1N=C(N)OC1c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1104",
+    "validation": "m_weight unsave, calculated(220.22799999999995)"
+}

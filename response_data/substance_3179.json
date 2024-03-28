@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Hydroxy-thiofentanyl",
+    "iupac_name": "N-{1-[2-Hydroxy-2-(thiophen-2-yl)ethyl]piperidin-4-yl}-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 3179,
+    "formular": "C20H26N2O2S",
+    "molecular_weight": 358.498,
+    "inChl": "1S/C20H26N2O2S/c1-2-20(24)22(16-7-4-3-5-8-16)17-10-12-21(13-11-17)15-18(23)19-9-6-14-25-19/h3-9,14,17-18,23H,2,10-13,15H2,1H3",
+    "InChl_Key": "GLAAETOTOUGGSB-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1CCN(CC(O)c2cccs2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3179",
+    "validation": "m_weight unsave, calculated(358.50699999999995)"
+}

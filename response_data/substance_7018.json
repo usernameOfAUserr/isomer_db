@@ -1,0 +1,13 @@
+{
+    "names": "2C-3b ; 4-Methoxy-2,3-methylenedioxyphenethylamine",
+    "iupac_name": "2-(7-Methoxy-2H-1,3-benzodioxol-4-yl)ethan-1-amine ; 2-(7-Methoxy-1,3-benzodioxol-4-yl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7018,
+    "formular": "C10H13NO3",
+    "molecular_weight": 195.215,
+    "inChl": "1S/C10H13NO3/c1-12-8-3-2-7(4-5-11)9-10(8)14-6-13-9/h2-3H,4-6,11H2,1H3",
+    "InChl_Key": "ZBSUDOMFNMPHOX-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CCN)c2c1OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7018",
+    "validation": "m_weight unsave, calculated(195.21799999999993)"
+}

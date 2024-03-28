@@ -1,0 +1,13 @@
+{
+    "names": "MPP-FUBICA",
+    "iupac_name": "Methyl N-{1-[(4-fluorophenyl)methyl]-1H-indole-3-carbonyl}-L-phenylalaninate ; Methyl (2S)-2-({1-[(4-fluorophenyl)methyl]-1H-indole-3-carbonyl}amino)-3-phenylpropanoate",
+    "category": "cannabinodids",
+    "index": 4515,
+    "formular": "C26H23FN2O3",
+    "molecular_weight": 430.471,
+    "inChl": "1S/C26H23FN2O3/c1-32-26(31)23(15-18-7-3-2-4-8-18)28-25(30)22-17-29(24-10-6-5-9-21(22)24)16-19-11-13-20(27)14-12-19/h2-14,17,23H,15-16H2,1H3,(H,28,30)/t23-/m0/s1",
+    "InChl_Key": "OQCDLRLIUMICSW-QHCPKHFHSA-N",
+    "SMILES": "COC(=O)[C@H](Cc1ccccc1)NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4515",
+    "validation": "m_weight unsave, calculated(430.47900000000016)"
+}

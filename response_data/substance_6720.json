@@ -1,0 +1,13 @@
+{
+    "names": "iPrONE ; N-Isopropyl-3,4-methylenedioxycathinone",
+    "iupac_name": "1-(2H-1,3-Benzodioxol-5-yl)-2-[(propan-2-yl)amino]propan-1-one ; 1-(1,3-Benzodioxol-5-yl)-2-(propan-2-ylamino)propan-1-one",
+    "category": "Shulgin_Index",
+    "index": 6720,
+    "formular": "C13H17NO3",
+    "molecular_weight": 235.279,
+    "inChl": "1S/C13H17NO3/c1-8(2)14-9(3)13(15)10-4-5-11-12(6-10)17-7-16-11/h4-6,8-9,14H,7H2,1-3H3",
+    "InChl_Key": "ZGELXFOIEWJEFM-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NC(C)C(=O)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6720",
+    "validation": "m_weight unsave, calculated(235.28299999999996)"
+}

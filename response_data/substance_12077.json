@@ -1,0 +1,13 @@
+{
+    "names": "1-Methyl-4-(9H-xanthen-9-ylidene)piperidine",
+    "iupac_name": "12077 ; C19H19NO ; 277.36",
+    "category": "Phenetylamine",
+    "index": 12077,
+    "formular": "C19H19NO",
+    "molecular_weight": 277.36,
+    "inChl": "1S/C19H19NO/c1-20-12-10-14(11-13-20)19-15-6-2-4-8-17(15)21-18-9-5-3-7-16(18)19/h2-9H,10-13H2,1H3",
+    "InChl_Key": "CSKMXVOVYIXALX-UHFFFAOYSA-N",
+    "SMILES": "CN1CCC(=C2c3ccccc3Oc3ccccc32)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12077",
+    "validation": "m_weight unsave, calculated(277.3670000000001)"
+}

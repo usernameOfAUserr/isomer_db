@@ -1,0 +1,13 @@
+{
+    "names": "5,6,7-Trifluoro-MCBT ; 5,6,7-Trifluoro-N-methyl-N-cyclobutyltryptamine",
+    "iupac_name": "N-Methyl-N-[2-(5,6,7-trifluoro-1H-indol-3-yl)ethyl]cyclobutanamine",
+    "category": "Tryptamine",
+    "index": 13622,
+    "formular": "C15H17F3N2",
+    "molecular_weight": 282.304,
+    "inChl": "1S/C15H17F3N2/c1-20(10-3-2-4-10)6-5-9-8-19-15-11(9)7-12(16)13(17)14(15)18/h7-8,10,19H,2-6H2,1H3",
+    "InChl_Key": "NVZYNRQVAPNPSF-UHFFFAOYSA-N",
+    "SMILES": "CN(CCc1c[nH]c2c(F)c(F)c(F)cc12)C1CCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13622",
+    "validation": "m_weight unsave, calculated(282.309)"
+}

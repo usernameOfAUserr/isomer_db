@@ -1,0 +1,13 @@
+{
+    "names": "CGS-9896",
+    "iupac_name": "2-(4-Chlorophenyl)-1,2-dihydro-3H-pyrazolo[4,3-c]quinolin-3-one ; 2-(4-Chlorophenyl)-2,5-dihydro-3H-pyrazolo[4,3-c]quinolin-3-one",
+    "category": "data not stored",
+    "index": 3785,
+    "formular": "C16H10ClN3O",
+    "molecular_weight": 295.723,
+    "inChl": "1S/C16H10ClN3O/c17-10-5-7-11(8-6-10)20-16(21)13-9-18-14-4-2-1-3-12(14)15(13)19-20/h1-9,19H",
+    "InChl_Key": "QCBUAKLOWCOUCR-UHFFFAOYSA-N",
+    "SMILES": "O=c1c2cnc3ccccc3c2[nH]n1-c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3785",
+    "validation": "m_weight unsave, calculated(295.729)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Ipriflavone",
+    "iupac_name": "3-Phenyl-7-[(propan-2-yl)oxy]-4H-1-benzopyran-4-one",
+    "category": "data not stored",
+    "index": 6990,
+    "formular": "C18H16O3",
+    "molecular_weight": 280.318,
+    "inChl": "1S/C18H16O3/c1-12(2)21-14-8-9-15-17(10-14)20-11-16(18(15)19)13-6-4-3-5-7-13/h3-12H,1-2H3",
+    "InChl_Key": "SFBODOKJTYAUCM-UHFFFAOYSA-N",
+    "SMILES": "CC(C)Oc1ccc2c(=O)c(-c3ccccc3)coc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6990",
+    "validation": "m_weight unsave, calculated(280.323)"
+}

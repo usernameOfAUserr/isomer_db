@@ -1,0 +1,13 @@
+{
+    "names": "5F-CUMYL-PICA ; CUMYL-5F-PICA ; SGT-67",
+    "iupac_name": "1-(5-Fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4588,
+    "formular": "C23H27FN2O",
+    "molecular_weight": 366.472,
+    "inChl": "1S/C23H27FN2O/c1-23(2,18-11-5-3-6-12-18)25-22(27)20-17-26(16-10-4-9-15-24)21-14-8-7-13-19(20)21/h3,5-8,11-14,17H,4,9-10,15-16H2,1-2H3,(H,25,27)",
+    "InChl_Key": "ZJCYQNSYQBCKOD-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1cn(CCCCCF)c2ccccc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4588",
+    "validation": "m_weight unsave, calculated(366.48000000000013)"
+}

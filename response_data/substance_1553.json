@@ -1,0 +1,13 @@
+{
+    "names": "4-NO2-PEA ; 4-Nitrophenethylamine",
+    "iupac_name": "2-(4-Nitrophenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 1553,
+    "formular": "C8H10N2O2",
+    "molecular_weight": 166.177,
+    "inChl": "1S/C8H10N2O2/c9-6-5-7-1-3-8(4-2-7)10(11)12/h1-4H,5-6,9H2",
+    "InChl_Key": "IOXOZOPLBFXYLM-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ccc([N+](=O)[O-])cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1553",
+    "validation": "m_weight unsave, calculated(166.17999999999995)"
+}

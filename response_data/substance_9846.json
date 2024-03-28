@@ -1,0 +1,13 @@
+{
+    "names": "N-Chloroethyl-3-TFMA ; N-(2-Chloroethyl)-3-trifluoromethylamphetamine",
+    "iupac_name": "N-(2-Chloroethyl)-1-[3-(trifluoromethyl)phenyl]propan-2-amine",
+    "category": "data not stored",
+    "index": 9846,
+    "formular": "C12H15ClF3N",
+    "molecular_weight": 265.702,
+    "inChl": "1S/C12H15ClF3N/c1-9(17-6-5-13)7-10-3-2-4-11(8-10)12(14,15)16/h2-4,8-9,17H,5-7H2,1H3",
+    "InChl_Key": "DIRPJEWBHZNFKH-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1cccc(C(F)(F)F)c1)NCCCl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9846",
+    "validation": "m_weight unsave, calculated(265.70599999999996)"
+}

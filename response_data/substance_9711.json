@@ -1,0 +1,13 @@
+{
+    "names": "4-(1-Benzofuran-3-yl)-1-propylpiperidine",
+    "iupac_name": "9711 ; C16H21NO ; 243.344",
+    "category": "data not stored",
+    "index": 9711,
+    "formular": "C16H21NO",
+    "molecular_weight": 243.344,
+    "inChl": "1S/C16H21NO/c1-2-9-17-10-7-13(8-11-17)15-12-18-16-6-4-3-5-14(15)16/h3-6,12-13H,2,7-11H2,1H3",
+    "InChl_Key": "RPDHXGXUGMGVAU-UHFFFAOYSA-N",
+    "SMILES": "CCCN1CCC(c2coc3ccccc23)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9711",
+    "validation": "m_weight unsave, calculated(243.35)"
+}

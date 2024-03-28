@@ -1,0 +1,13 @@
+{
+    "names": "MSBT ; N-Methyl-N-sec-butyltryptamine",
+    "iupac_name": "N-[2-(1H-Indol-3-yl)ethyl]-N-methylbutan-2-amine",
+    "category": "Tryptamine",
+    "index": 5475,
+    "formular": "C15H22N2",
+    "molecular_weight": 230.349,
+    "inChl": "1S/C15H22N2/c1-4-12(2)17(3)10-9-13-11-16-15-8-6-5-7-14(13)15/h5-8,11-12,16H,4,9-10H2,1-3H3",
+    "InChl_Key": "JFDFFCIYMLHPFQ-UHFFFAOYSA-N",
+    "SMILES": "CCC(C)N(C)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5475",
+    "validation": "m_weight unsave, calculated(230.355)"
+}

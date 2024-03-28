@@ -1,0 +1,13 @@
+{
+    "names": "N-(3-{[2-(3,4-Dihydroxyphenyl)-2-hydroxyethyl]amino}butyl)-4-methylbenzene-1-sulfonamide",
+    "iupac_name": "14311 ; C19H26N2O5S ; 394.485",
+    "category": "data not stored",
+    "index": 14311,
+    "formular": "C19H26N2O5S",
+    "molecular_weight": 394.485,
+    "inChl": "1S/C19H26N2O5S/c1-13-3-6-16(7-4-13)27(25,26)21-10-9-14(2)20-12-19(24)15-5-8-17(22)18(23)11-15/h3-8,11,14,19-24H,9-10,12H2,1-2H3",
+    "InChl_Key": "SMDUUUZQDPCUOE-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(S(=O)(=O)NCCC(C)NCC(O)c2ccc(O)c(O)c2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14311",
+    "validation": "m_weight unsave, calculated(394.4930000000001)"
+}

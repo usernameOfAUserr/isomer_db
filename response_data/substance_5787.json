@@ -1,0 +1,13 @@
+{
+    "names": "Hypahorine ; \u03b1-Carboxy-N,N,N-trimethyltryptamine+ ; \u03b1-Carboxy-TMT+",
+    "iupac_name": "(2S)-3-(1H-Indol-3-yl)-2-(trimethylazaniumyl)propanoate ; (2S)-3-(1H-Indol-3-yl)-2-(trimethylammonio)propanoate",
+    "category": "Tryptamine",
+    "index": 5787,
+    "formular": "C14H18N2O2",
+    "molecular_weight": 246.305,
+    "inChl": "1S/C14H18N2O2/c1-16(2,3)13(14(17)18)8-10-9-15-12-7-5-4-6-11(10)12/h4-7,9,13,15H,8H2,1-3H3/t13-/m0/s1",
+    "InChl_Key": "AOHCBEAZXHZMOR-ZDUSSCGKSA-N",
+    "SMILES": "C[N+](C)(C)[C@@H](Cc1c[nH]c2ccccc12)C(=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5787",
+    "validation": "m_weight unsave, calculated(246.31)"
+}

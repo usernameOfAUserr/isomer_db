@@ -1,0 +1,13 @@
+{
+    "names": "2,6-HPEA ; 2,6-Dihydroxyphenethylamine",
+    "iupac_name": "2-(2-Aminoethyl)benzene-1,3-diol",
+    "category": "Shulgin_Index",
+    "index": 6965,
+    "formular": "C8H11NO2",
+    "molecular_weight": 153.178,
+    "inChl": "1S/C8H11NO2/c9-5-4-6-7(10)2-1-3-8(6)11/h1-3,10-11H,4-5,9H2",
+    "InChl_Key": "JWAHCKQUFUFATP-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c(O)cccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6965",
+    "validation": "m_weight unsave, calculated(153.18099999999995)"
+}

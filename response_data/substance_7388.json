@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Di(2,4,5-trimethoxybenzyl)-T ; N,N-Di(2,4,5-trimethoxybenzyl)tryptamine ; N,N-Bis(2,4,5-trimethoxybenzyl)tryptamine",
+    "iupac_name": "2-(1H-Indol-3-yl)-N,N-bis[(2,4,5-trimethoxyphenyl)methyl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 7388,
+    "formular": "C30H36N2O6",
+    "molecular_weight": 520.617,
+    "inChl": "1S/C30H36N2O6/c1-33-25-15-29(37-5)27(35-3)13-21(25)18-32(12-11-20-17-31-24-10-8-7-9-23(20)24)19-22-14-28(36-4)30(38-6)16-26(22)34-2/h7-10,13-17,31H,11-12,18-19H2,1-6H3",
+    "InChl_Key": "GIVBMSWNWFIWSV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(OC)cc1CN(CCc1c[nH]c2ccccc12)Cc1cc(OC)c(OC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7388",
+    "validation": "m_weight unsave, calculated(520.6260000000003)"
+}

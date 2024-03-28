@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-2-Me-TH\u03b2C",
+    "iupac_name": "5-Methoxy-2-methyl-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indole ; 5-Methoxy-2-methyl-2,3,4,9-tetrahydro-1H-\u03b2-carboline",
+    "category": "data not stored",
+    "index": 5258,
+    "formular": "C13H16N2O",
+    "molecular_weight": 216.279,
+    "inChl": "1S/C13H16N2O/c1-15-7-6-9-11(8-15)14-10-4-3-5-12(16-2)13(9)10/h3-5,14H,6-8H2,1-2H3",
+    "InChl_Key": "PBWHMJFAULUMQY-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2[nH]c3c(c12)CCN(C)C3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5258",
+    "validation": "m_weight unsave, calculated(216.28399999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2,4,6-Br-3-HPEA ; 2,4,6-Tribromo-3-hydroxyphenethylamine",
+    "iupac_name": "3-(2-Aminoethyl)-2,4,6-tribromophenol",
+    "category": "Phenetylamine",
+    "index": 10418,
+    "formular": "C8H8Br3NO",
+    "molecular_weight": 373.867,
+    "inChl": "1S/C8H8Br3NO/c9-5-3-6(10)8(13)7(11)4(5)1-2-12/h3,13H,1-2,12H2",
+    "InChl_Key": "HAYLPXZJOVQYFP-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c(Br)cc(Br)c(O)c1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10418",
+    "validation": "m_weight unsave, calculated(373.86999999999995)"
+}

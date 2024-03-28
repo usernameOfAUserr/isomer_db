@@ -1,0 +1,13 @@
+{
+    "names": "WO 2014/015298 #64",
+    "iupac_name": "(6-Fluoro-1-pentyl-1H-indol-3-yl)(naphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4105,
+    "formular": "C24H22FNO",
+    "molecular_weight": 359.436,
+    "inChl": "1S/C24H22FNO/c1-2-3-6-14-26-16-22(20-13-12-18(25)15-23(20)26)24(27)21-11-7-9-17-8-4-5-10-19(17)21/h4-5,7-13,15-16H,2-3,6,14H2,1H3",
+    "InChl_Key": "JBIOFRITBMPVGQ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2cccc3ccccc23)c2ccc(F)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4105",
+    "validation": "m_weight unsave, calculated(359.4440000000001)"
+}

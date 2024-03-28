@@ -133,8 +133,16 @@ async def main():
         print(f"{count} ids found")
 
 def getCategorys():
+    start = time.time()
     asyncio.run(main())
-    with open("categorys.json", "w") as file:
-        json.dump(assignedCategorys, file, indent=4)
+    print(f"Runtime:  {int(time.time() - start)}")
     return assignedCategorys
 
+def create_category_json():
+    data_dict = {}
+    categorys_d = getCategorys()
+    for dictionary, list in categorys_d.items():
+        data_dict[dictionary] = list
+
+    with open("categorys.json", "w") as file:
+        json.dump(data_dict, file, indent=4)

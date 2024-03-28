@@ -1,0 +1,13 @@
+{
+    "names": "JWH-121 ; 4Me-NA-BIMO",
+    "iupac_name": "(1-Butyl-1H-indol-3-yl)(4-methylnaphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4013,
+    "formular": "C24H23NO",
+    "molecular_weight": 341.446,
+    "inChl": "1S/C24H23NO/c1-3-4-15-25-16-22(20-11-7-8-12-23(20)25)24(26)21-14-13-17(2)18-9-5-6-10-19(18)21/h5-14,16H,3-4,15H2,1-2H3",
+    "InChl_Key": "DOKBVCMQPGKQGV-UHFFFAOYSA-N",
+    "SMILES": "CCCCn1cc(C(=O)c2ccc(C)c3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4013",
+    "validation": "m_weight unsave, calculated(341.45400000000006)"
+}

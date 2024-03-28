@@ -1,0 +1,13 @@
+{
+    "names": "ABT-239",
+    "iupac_name": "4-(2-{2-[(2R)-2-Methylpyrrolidin-1-yl]ethyl}-1-benzofuran-5-yl)benzonitrile",
+    "category": "data not stored",
+    "index": 3701,
+    "formular": "C22H22N2O",
+    "molecular_weight": 330.423,
+    "inChl": "1S/C22H22N2O/c1-16-3-2-11-24(16)12-10-21-14-20-13-19(8-9-22(20)25-21)18-6-4-17(15-23)5-7-18/h4-9,13-14,16H,2-3,10-12H2,1H3/t16-/m1/s1",
+    "InChl_Key": "KFHYZKCRXNRKRC-MRXNPFEDSA-N",
+    "SMILES": "C[C@@H]1CCCN1CCc1cc2cc(-c3ccc(C#N)cc3)ccc2o1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3701",
+    "validation": "m_weight unsave, calculated(330.4310000000001)"
+}

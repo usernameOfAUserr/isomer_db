@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-MCBT ; 4-Hydroxy-N-methyl-N-cyclobutyltryptamine",
+    "iupac_name": "3-{2-[Cyclobutyl(methyl)amino]ethyl}-1H-indol-4-ol",
+    "category": "Prophetic? \u00b7 Tryptamine",
+    "index": 7587,
+    "formular": "C15H20N2O",
+    "molecular_weight": 244.332,
+    "inChl": "1S/C15H20N2O/c1-17(12-4-2-5-12)9-8-11-10-16-13-6-3-7-14(18)15(11)13/h3,6-7,10,12,16,18H,2,4-5,8-9H2,1H3",
+    "InChl_Key": "NGLHUXXEQJYHDF-UHFFFAOYSA-N",
+    "SMILES": "CN(CCc1c[nH]c2cccc(O)c12)C1CCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7587",
+    "validation": "m_weight unsave, calculated(244.33800000000005)"
+}

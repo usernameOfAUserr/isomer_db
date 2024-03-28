@@ -1,0 +1,13 @@
+{
+    "names": "RTI-241",
+    "iupac_name": "Methyl [(2S,3S)-8-methyl-3-(4-methylphenyl)-8-azabicyclo[3.2.1]octan-2-yl]acetate",
+    "category": "data not stored",
+    "index": 3248,
+    "formular": "C18H25NO2",
+    "molecular_weight": 287.397,
+    "inChl": "1S/C18H25NO2/c1-12-4-6-13(7-5-12)15-10-14-8-9-17(19(14)2)16(15)11-18(20)21-3/h4-7,14-17H,8-11H2,1-3H3/t14?,15-,16+,17?/m1/s1",
+    "InChl_Key": "HLVMWEQVTBLEEE-GMRIPVOYSA-N",
+    "SMILES": "COC(=O)C[C@@H]1C2CCC(C[C@@H]1c1ccc(C)cc1)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3248",
+    "validation": "m_weight unsave, calculated(287.403)"
+}

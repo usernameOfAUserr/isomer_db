@@ -1,0 +1,13 @@
+{
+    "names": "1\u2032,2\u2032,2\u2032-Trifluoroescaline ; 1,2,2-TFE ; 3,5-Dimethoxy-4-(1,2,2-trifluoroethoxy)phenethylamine",
+    "iupac_name": "2-[3,5-Dimethoxy-4-(1,2,2-trifluoroethoxy)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10275,
+    "formular": "C12H16F3NO3",
+    "molecular_weight": 279.256,
+    "inChl": "1S/C12H16F3NO3/c1-17-8-5-7(3-4-16)6-9(18-2)10(8)19-12(15)11(13)14/h5-6,11-12H,3-4,16H2,1-2H3",
+    "InChl_Key": "OQDQVVZRDLNOPZ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(OC)c1OC(F)C(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10275",
+    "validation": "m_weight unsave, calculated(279.258)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-(2,5-Dimethoxy-4-methylphenyl)-N-[(2-methoxyphenyl)methyl]butan-2-amine",
+    "iupac_name": "13419 ; C21H29NO3 ; 343.46",
+    "category": "data not stored",
+    "index": 13419,
+    "formular": "C21H29NO3",
+    "molecular_weight": 343.46,
+    "inChl": "1S/C21H29NO3/c1-6-18(22-14-16-9-7-8-10-19(16)23-3)12-17-13-20(24-4)15(2)11-21(17)25-5/h7-11,13,18,22H,6,12,14H2,1-5H3",
+    "InChl_Key": "ACQMPFFKBTZLSN-UHFFFAOYSA-N",
+    "SMILES": "CCC(Cc1cc(OC)c(C)cc1OC)NCc1ccccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13419",
+    "validation": "m_weight unsave, calculated(343.46700000000004)"
+}

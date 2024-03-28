@@ -1,0 +1,13 @@
+{
+    "names": "1-{2-[5-(2-Fluoroethoxy)-2,3-dihydro-1-benzofuran-4-yl]cyclopropyl}methanamine",
+    "iupac_name": "9649 ; C14H18FNO2 ; 251.297",
+    "category": "data not stored",
+    "index": 9649,
+    "formular": "C14H18FNO2",
+    "molecular_weight": 251.297,
+    "inChl": "1S/C14H18FNO2/c15-4-6-18-13-2-1-12-10(3-5-17-12)14(13)11-7-9(11)8-16/h1-2,9,11H,3-8,16H2",
+    "InChl_Key": "ICLMFPQBAAMUKM-UHFFFAOYSA-N",
+    "SMILES": "NCC1CC1c1c(OCCF)ccc2c1CCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9649",
+    "validation": "m_weight unsave, calculated(251.30099999999993)"
+}

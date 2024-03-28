@@ -1,0 +1,13 @@
+{
+    "names": "2-Bromo-1-phenylpropan-1-one",
+    "iupac_name": "11069 ; C9H9BrO ; 213.071",
+    "category": "data not stored",
+    "index": 11069,
+    "formular": "C9H9BrO",
+    "molecular_weight": 213.071,
+    "inChl": "1S/C9H9BrO/c1-7(10)9(11)8-5-3-2-4-6-8/h2-7H,1H3",
+    "InChl_Key": "WPDWOCRJBPXJFM-UHFFFAOYSA-N",
+    "SMILES": "CC(Br)C(=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11069",
+    "validation": "m_weight unsave, calculated(213.07399999999998)"
+}

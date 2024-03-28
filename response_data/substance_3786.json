@@ -1,0 +1,13 @@
+{
+    "names": "8-(Benzyloxy)-2-phenyl-1,2-dihydro-3H-pyrazolo[4,3-c]quinolin-3-one ; 8-(Benzyloxy)-2-phenyl-2,5-dihydro-3H-pyrazolo[4,3-c]quinolin-3-one",
+    "iupac_name": "3786 ; C23H17N3O2 ; 367.4",
+    "category": "data not stored",
+    "index": 3786,
+    "formular": "C23H17N3O2",
+    "molecular_weight": 367.4,
+    "inChl": "1S/C23H17N3O2/c27-23-20-14-24-21-12-11-18(28-15-16-7-3-1-4-8-16)13-19(21)22(20)25-26(23)17-9-5-2-6-10-17/h1-14,25H,15H2",
+    "InChl_Key": "PBEGQHTWHYWCLN-UHFFFAOYSA-N",
+    "SMILES": "O=c1c2cnc3ccc(OCc4ccccc4)cc3c2[nH]n1-c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3786",
+    "validation": "m_weight unsave, calculated(367.408)"
+}

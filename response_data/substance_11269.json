@@ -1,0 +1,13 @@
+{
+    "names": "2,3-Dihydrobenzofuran ; Coumaran",
+    "iupac_name": "2,3-Dihydro-1-benzofuran",
+    "category": "data not stored",
+    "index": 11269,
+    "formular": "C8H8O",
+    "molecular_weight": 120.149,
+    "inChl": "1S/C8H8O/c1-2-4-8-7(3-1)5-6-9-8/h1-4H,5-6H2",
+    "InChl_Key": "HBEDSQVIWPRPAY-UHFFFAOYSA-N",
+    "SMILES": "c1ccc2c(c1)CCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11269",
+    "validation": "m_weight unsave, calculated(120.15099999999998)"
+}

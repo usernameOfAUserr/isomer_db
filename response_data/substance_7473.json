@@ -1,0 +1,13 @@
+{
+    "names": "5-iPrO-DOM ; 5-Isopropoxy-2-methoxy-4-methylamphetamine",
+    "iupac_name": "1-{2-Methoxy-4-methyl-5-[(propan-2-yl)oxy]phenyl}propan-2-amine",
+    "category": "data not stored",
+    "index": 7473,
+    "formular": "C14H23NO2",
+    "molecular_weight": 237.338,
+    "inChl": "1S/C14H23NO2/c1-9(2)17-13-8-12(7-11(4)15)14(16-5)6-10(13)3/h6,8-9,11H,7,15H2,1-5H3",
+    "InChl_Key": "KCGRZERRWPBQJU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C)c(OC(C)C)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7473",
+    "validation": "m_weight unsave, calculated(237.34299999999996)"
+}

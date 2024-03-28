@@ -1,0 +1,13 @@
+{
+    "names": "3\u2032-4\u2032-Dichloro-3\u2033-fluorofentanyl",
+    "iupac_name": "N-(3,4-Dichlorophenyl)-N-{1-[2-(3-fluorophenyl)ethyl]piperidin-4-yl}propanamide",
+    "category": "Fentanyl",
+    "index": 1616,
+    "formular": "C22H25Cl2FN2O",
+    "molecular_weight": 423.351,
+    "inChl": "1S/C22H25Cl2FN2O/c1-2-22(28)27(19-6-7-20(23)21(24)15-19)18-9-12-26(13-10-18)11-8-16-4-3-5-17(25)14-16/h3-7,14-15,18H,2,8-13H2,1H3",
+    "InChl_Key": "ZXOGKUBHZVORAQ-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccc(Cl)c(Cl)c1)C1CCN(CCc2cccc(F)c2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1616",
+    "validation": "m_weight unsave, calculated(423.35900000000026)"
+}

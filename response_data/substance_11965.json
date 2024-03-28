@@ -1,0 +1,13 @@
+{
+    "names": "5-Aminoisotonitazene",
+    "iupac_name": "1-[2-(Diethylamino)ethyl]-2-({4-[(propan-2-yl)oxy]phenyl}methyl)-1H-benzimidazol-5-amine",
+    "category": "data not stored",
+    "index": 11965,
+    "formular": "C23H32N4O",
+    "molecular_weight": 380.526,
+    "inChl": "1S/C23H32N4O/c1-5-26(6-2)13-14-27-22-12-9-19(24)16-21(22)25-23(27)15-18-7-10-20(11-8-18)28-17(3)4/h7-12,16-17H,5-6,13-15,24H2,1-4H3",
+    "InChl_Key": "DVCBBZBNZSSXMS-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCn1c(Cc2ccc(OC(C)C)cc2)nc2cc(N)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11965",
+    "validation": "m_weight unsave, calculated(380.5360000000002)"
+}

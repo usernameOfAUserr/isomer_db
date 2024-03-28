@@ -1,0 +1,13 @@
+{
+    "names": "6-Allylguaiacol ; 2-Hydroxy-6-methoxyphenylprop-2-ene",
+    "iupac_name": "3-Methoxy-2-(prop-2-en-1-yl)phenol",
+    "category": "data not stored",
+    "index": 1149,
+    "formular": "C10H12O2",
+    "molecular_weight": 164.201,
+    "inChl": "1S/C10H12O2/c1-3-5-8-9(11)6-4-7-10(8)12-2/h3-4,6-7,11H,1,5H2,2H3",
+    "InChl_Key": "ZQPSHYPSWNKGNF-UHFFFAOYSA-N",
+    "SMILES": "C=CCc1c(O)cccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1149",
+    "validation": "m_weight unsave, calculated(164.20399999999995)"
+}

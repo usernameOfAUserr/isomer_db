@@ -1,0 +1,13 @@
+{
+    "names": "4F-Buphedrone ; 4\u2032-Fluoro-2-(methylamino)butanophenone ; 4F-MABP ; 4-Fluorobuphedrone ; 4-Fluoro-(methylamino)butyrophenone",
+    "iupac_name": "1-(4-Fluorophenyl)-2-(methylamino)butan-1-one",
+    "category": "data not stored",
+    "index": 2366,
+    "formular": "C11H14FNO",
+    "molecular_weight": 195.233,
+    "inChl": "1S/C11H14FNO/c1-3-10(13-2)11(14)8-4-6-9(12)7-5-8/h4-7,10,13H,3H2,1-2H3",
+    "InChl_Key": "NEZHKHMZNSFKGS-UHFFFAOYSA-N",
+    "SMILES": "CCC(NC)C(=O)c1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2366",
+    "validation": "m_weight unsave, calculated(195.237)"
+}

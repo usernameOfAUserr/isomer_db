@@ -1,0 +1,13 @@
+{
+    "names": "CHM-PICA ; SDB-004",
+    "iupac_name": "N-(Cyclohexylmethyl)-1-pentyl-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4470,
+    "formular": "C21H30N2O",
+    "molecular_weight": 326.476,
+    "inChl": "1S/C21H30N2O/c1-2-3-9-14-23-16-19(18-12-7-8-13-20(18)23)21(24)22-15-17-10-5-4-6-11-17/h7-8,12-13,16-17H,2-6,9-11,14-15H2,1H3,(H,22,24)",
+    "InChl_Key": "MTTRRDPQVBUKDZ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NCC2CCCCC2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4470",
+    "validation": "m_weight unsave, calculated(326.4840000000002)"
+}

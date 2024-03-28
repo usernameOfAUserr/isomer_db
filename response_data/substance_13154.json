@@ -1,0 +1,13 @@
+{
+    "names": "6,8-Dichloro-5-methoxy-3,4-dihydro-2H-1-benzopyran-3-amine",
+    "iupac_name": "13154 ; C10H11Cl2NO2 ; 248.106",
+    "category": "data not stored",
+    "index": 13154,
+    "formular": "C10H11Cl2NO2",
+    "molecular_weight": 248.106,
+    "inChl": "1S/C10H11Cl2NO2/c1-14-9-6-2-5(13)4-15-10(6)8(12)3-7(9)11/h3,5H,2,4,13H2,1H3",
+    "InChl_Key": "GBGLQBXBXUZMLW-UHFFFAOYSA-N",
+    "SMILES": "COc1c(Cl)cc(Cl)c2c1CC(N)CO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13154",
+    "validation": "m_weight unsave, calculated(248.10899999999995)"
+}

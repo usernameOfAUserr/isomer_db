@@ -1,0 +1,13 @@
+{
+    "names": "N-Octadecyl-NMT ; N-Octadecyl-N-methyltryptamine",
+    "iupac_name": "N-[2-(1H-Indol-3-yl)ethyl]-N-methyloctadecan-1-amine",
+    "category": "Tryptamine",
+    "index": 5640,
+    "formular": "C29H50N2",
+    "molecular_weight": 426.721,
+    "inChl": "1S/C29H50N2/c1-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-20-24-31(2)25-23-27-26-30-29-22-19-18-21-28(27)29/h18-19,21-22,26,30H,3-17,20,23-25H2,1-2H3",
+    "InChl_Key": "NFZVROXSQYAETL-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCCCCCCCCCCCN(C)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5640",
+    "validation": "m_weight unsave, calculated(426.73300000000006)"
+}

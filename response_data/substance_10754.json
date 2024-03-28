@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Dimethyl-\u03b2-mercaptoamphetamine ; N,N-Me-\u03b2-SH-PEA",
+    "iupac_name": "2-(Dimethylamino)-1-phenylpropane-1-thiol",
+    "category": "Phenetylamine",
+    "index": 10754,
+    "formular": "C11H17NS",
+    "molecular_weight": 195.324,
+    "inChl": "1S/C11H17NS/c1-9(12(2)3)11(13)10-7-5-4-6-8-10/h4-9,11,13H,1-3H3",
+    "InChl_Key": "YSXALYQYWRGRCA-UHFFFAOYSA-N",
+    "SMILES": "CC(C(S)c1ccccc1)N(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10754",
+    "validation": "m_weight unsave, calculated(195.33100000000002)"
+}

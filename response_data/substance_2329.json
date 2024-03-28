@@ -1,0 +1,13 @@
+{
+    "names": "DO4ClPhPr ; 4-[3-(4-Chlorophenyl)propyl]-2,5-dimethoxyamphetamine",
+    "iupac_name": "1-{4-[3-(4-Chlorophenyl)propyl]-2,5-dimethoxyphenyl}propan-2-amine",
+    "category": "data not stored",
+    "index": 2329,
+    "formular": "C20H26ClNO2",
+    "molecular_weight": 347.879,
+    "inChl": "1S/C20H26ClNO2/c1-14(22)11-17-13-19(23-2)16(12-20(17)24-3)6-4-5-15-7-9-18(21)10-8-15/h7-10,12-14H,4-6,11,22H2,1-3H3",
+    "InChl_Key": "NBVUSYYQRXPQSV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c(OC)cc1CCCc1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2329",
+    "validation": "m_weight unsave, calculated(347.886)"
+}

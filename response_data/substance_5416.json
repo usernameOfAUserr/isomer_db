@@ -1,0 +1,13 @@
+{
+    "names": "TH\u03b2C ; 1,2,3,4-Tetrahydro-\u03b2-carboline ; Tryptoline",
+    "iupac_name": "2,3,4,9-Tetrahydro-1H-pyrido[3,4-b]indole ; 2,3,4,9-Tetrahydro-1H-\u03b2-carboline",
+    "category": "data not stored",
+    "index": 5416,
+    "formular": "C11H12N2",
+    "molecular_weight": 172.226,
+    "inChl": "1S/C11H12N2/c1-2-4-10-8(3-1)9-5-6-12-7-11(9)13-10/h1-4,12-13H,5-7H2",
+    "InChl_Key": "CFTOTSJVQRFXOF-UHFFFAOYSA-N",
+    "SMILES": "c1ccc2c3c([nH]c2c1)CNCC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5416",
+    "validation": "m_weight unsave, calculated(172.23100000000002)"
+}

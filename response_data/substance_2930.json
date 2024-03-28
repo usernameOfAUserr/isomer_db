@@ -1,0 +1,13 @@
+{
+    "names": "3-[(2,3,4,5-Tetrahydro-1H-3-benzazepin-7-yl)methyl]phenol",
+    "iupac_name": "2930 ; C17H19NO ; 253.339",
+    "category": "data not stored",
+    "index": 2930,
+    "formular": "C17H19NO",
+    "molecular_weight": 253.339,
+    "inChl": "1S/C17H19NO/c19-17-3-1-2-13(12-17)10-14-4-5-15-6-8-18-9-7-16(15)11-14/h1-5,11-12,18-19H,6-10H2",
+    "InChl_Key": "RIRRFWAWFQDRKH-UHFFFAOYSA-N",
+    "SMILES": "Oc1cccc(Cc2ccc3c(c2)CCNCC3)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2930",
+    "validation": "m_weight unsave, calculated(253.34499999999997)"
+}

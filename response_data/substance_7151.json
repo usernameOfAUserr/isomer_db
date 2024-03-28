@@ -1,0 +1,13 @@
+{
+    "names": "N-Pr-DOB ; N-Propyl-4-bromo-2,5-dimethoxyamphetamine ; N-Propyl-DOB",
+    "iupac_name": "N-[1-(4-Bromo-2,5-dimethoxyphenyl)propan-2-yl]propan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7151,
+    "formular": "C14H22BrNO2",
+    "molecular_weight": 316.234,
+    "inChl": "1S/C14H22BrNO2/c1-5-6-16-10(2)7-11-8-14(18-4)12(15)9-13(11)17-3/h8-10,16H,5-7H2,1-4H3",
+    "InChl_Key": "UGQKMZIPUUQGHA-UHFFFAOYSA-N",
+    "SMILES": "CCCNC(C)Cc1cc(OC)c(Br)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7151",
+    "validation": "m_weight unsave, calculated(316.239)"
+}

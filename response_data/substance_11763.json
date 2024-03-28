@@ -1,0 +1,13 @@
+{
+    "names": "3,4-Dichlorophenmetrazine",
+    "iupac_name": "2-(3,4-Dichlorophenyl)-3-methylmorpholine",
+    "category": "data not stored",
+    "index": 11763,
+    "formular": "C11H13Cl2NO",
+    "molecular_weight": 246.133,
+    "inChl": "1S/C11H13Cl2NO/c1-7-11(15-5-4-14-7)8-2-3-9(12)10(13)6-8/h2-3,6-7,11,14H,4-5H2,1H3",
+    "InChl_Key": "YBWMFZSUAILMQM-UHFFFAOYSA-N",
+    "SMILES": "CC1NCCOC1c1ccc(Cl)c(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11763",
+    "validation": "m_weight unsave, calculated(246.137)"
+}

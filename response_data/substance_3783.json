@@ -1,0 +1,13 @@
+{
+    "names": "CGS-8216",
+    "iupac_name": "2-Phenyl-1,2-dihydro-3H-pyrazolo[4,3-c]quinolin-3-one ; 2-Phenyl-2,5-dihydro-3H-pyrazolo[4,3-c]quinolin-3-one",
+    "category": "data not stored",
+    "index": 3783,
+    "formular": "C16H11N3O",
+    "molecular_weight": 261.278,
+    "inChl": "1S/C16H11N3O/c20-16-13-10-17-14-9-5-4-8-12(14)15(13)18-19(16)11-6-2-1-3-7-11/h1-10,18H",
+    "InChl_Key": "XTYGFVVANLMBHE-UHFFFAOYSA-N",
+    "SMILES": "O=c1c2cnc3ccccc3c2[nH]n1-c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3783",
+    "validation": "m_weight unsave, calculated(261.284)"
+}

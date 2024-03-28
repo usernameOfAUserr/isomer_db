@@ -1,0 +1,13 @@
+{
+    "names": "ZINC000006658090",
+    "iupac_name": "1-[4-(4-Fluorophenyl)-1,3-thiazol-2-yl]piperazine",
+    "category": "data not stored",
+    "index": 14873,
+    "formular": "C13H14FN3S",
+    "molecular_weight": 263.334,
+    "inChl": "1S/C13H14FN3S/c14-11-3-1-10(2-4-11)12-9-18-13(16-12)17-7-5-15-6-8-17/h1-4,9,15H,5-8H2",
+    "InChl_Key": "DZOSNUNUESTDRS-UHFFFAOYSA-N",
+    "SMILES": "Fc1ccc(-c2csc(N3CCNCC3)n2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14873",
+    "validation": "m_weight unsave, calculated(263.341)"
+}

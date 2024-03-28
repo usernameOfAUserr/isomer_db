@@ -1,0 +1,13 @@
+{
+    "names": "2-(2,3-Dihydro-1H-indol-3-yl)-N,N-dimethylethan-1-amine",
+    "iupac_name": "13948 ; C12H18N2 ; 190.285",
+    "category": "data not stored",
+    "index": 13948,
+    "formular": "C12H18N2",
+    "molecular_weight": 190.285,
+    "inChl": "1S/C12H18N2/c1-14(2)8-7-10-9-13-12-6-4-3-5-11(10)12/h3-6,10,13H,7-9H2,1-2H3",
+    "InChl_Key": "QJONJVMVPXLFKY-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCC1CNc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13948",
+    "validation": "m_weight unsave, calculated(190.29000000000002)"
+}

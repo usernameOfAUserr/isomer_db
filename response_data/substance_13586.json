@@ -1,0 +1,13 @@
+{
+    "names": "5,7-Difluoro-DPT ; 5,7-Difluoro-N,N-dipropyltryptamine",
+    "iupac_name": "N-[2-(5,7-Difluoro-1H-indol-3-yl)ethyl]-N-propylpropan-1-amine",
+    "category": "Tryptamine",
+    "index": 13586,
+    "formular": "C16H22F2N2",
+    "molecular_weight": 280.356,
+    "inChl": "1S/C16H22F2N2/c1-3-6-20(7-4-2)8-5-12-11-19-16-14(12)9-13(17)10-15(16)18/h9-11,19H,3-8H2,1-2H3",
+    "InChl_Key": "HXBHSFHXYWVEPV-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)CCc1c[nH]c2c(F)cc(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13586",
+    "validation": "m_weight unsave, calculated(280.362)"
+}

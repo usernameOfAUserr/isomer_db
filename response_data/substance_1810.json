@@ -1,0 +1,13 @@
+{
+    "names": "Styrene",
+    "iupac_name": "Ethenylbenzene",
+    "category": "data not stored",
+    "index": 1810,
+    "formular": "C8H8",
+    "molecular_weight": 104.149,
+    "inChl": "1S/C8H8/c1-2-8-6-4-3-5-7-8/h2-7H,1H2",
+    "InChl_Key": "PPBRXRYQALVLMV-UHFFFAOYSA-N",
+    "SMILES": "C=Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1810",
+    "validation": "m_weight unsave, calculated(104.15199999999997)"
+}

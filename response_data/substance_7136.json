@@ -1,0 +1,13 @@
+{
+    "names": "AB-PINACA-COOH",
+    "iupac_name": "N-(1-Pentyl-1H-indazole-3-carbonyl)-L-valine ; (2S)-3-Methyl-2-[(1-pentyl-1H-indazole-3-carbonyl)amino]butanoic acid",
+    "category": "cannabinodids",
+    "index": 7136,
+    "formular": "C18H25N3O3",
+    "molecular_weight": 331.409,
+    "inChl": "1S/C18H25N3O3/c1-4-5-8-11-21-14-10-7-6-9-13(14)16(20-21)17(22)19-15(12(2)3)18(23)24/h6-7,9-10,12,15H,4-5,8,11H2,1-3H3,(H,19,22)(H,23,24)/t15-/m0/s1",
+    "InChl_Key": "HCGKRLHOLBHGBK-HNNXBMFYSA-N",
+    "SMILES": "CCCCCn1nc(C(=O)N[C@H](C(=O)O)C(C)C)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7136",
+    "validation": "m_weight unsave, calculated(331.4160000000001)"
+}

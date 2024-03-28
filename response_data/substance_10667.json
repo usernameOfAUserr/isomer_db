@@ -1,0 +1,13 @@
+{
+    "names": "N-iBu-A ; N-Isobutylamphetamine",
+    "iupac_name": "2-Methyl-N-(1-phenylpropan-2-yl)propan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10667,
+    "formular": "C13H21N",
+    "molecular_weight": 191.313,
+    "inChl": "1S/C13H21N/c1-11(2)10-14-12(3)9-13-7-5-4-6-8-13/h4-8,11-12,14H,9-10H2,1-3H3",
+    "InChl_Key": "GOERKPWLLTTYBC-UHFFFAOYSA-N",
+    "SMILES": "CC(C)CNC(C)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10667",
+    "validation": "m_weight unsave, calculated(191.31799999999996)"
+}

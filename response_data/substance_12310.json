@@ -1,0 +1,13 @@
+{
+    "names": "2,3-MDBAL ; 2,3-Methylenedioxybenzaldehyde",
+    "iupac_name": "2H-1,3-Benzodioxole-4-carbaldehyde",
+    "category": "data not stored",
+    "index": 12310,
+    "formular": "C8H6O3",
+    "molecular_weight": 150.131,
+    "inChl": "1S/C8H6O3/c9-4-6-2-1-3-7-8(6)11-5-10-7/h1-4H,5H2",
+    "InChl_Key": "QZMQKPGVXNSITP-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1cccc2c1OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12310",
+    "validation": "m_weight unsave, calculated(150.13299999999995)"
+}

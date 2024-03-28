@@ -1,0 +1,13 @@
+{
+    "names": "5Cl-JWH-122 ; (Chloropentyl) MAM-2201 ; 4Me-NA-5Cl-PIMO",
+    "iupac_name": "[1-(5-Chloropentyl)-1H-indol-3-yl](4-methylnaphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4138,
+    "formular": "C25H24ClNO",
+    "molecular_weight": 389.917,
+    "inChl": "1S/C25H24ClNO/c1-18-13-14-22(20-10-4-3-9-19(18)20)25(28)23-17-27(16-8-2-7-15-26)24-12-6-5-11-21(23)24/h3-6,9-14,17H,2,7-8,15-16H2,1H3",
+    "InChl_Key": "MGKPPIQCXPTZFK-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)c2cn(CCCCCCl)c3ccccc23)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4138",
+    "validation": "m_weight unsave, calculated(389.92600000000016)"
+}

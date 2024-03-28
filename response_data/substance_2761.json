@@ -1,0 +1,13 @@
+{
+    "names": "8-Chloro-1-ethyl-2,3,4,5-tetrahydro-1H-3-benzazepine",
+    "iupac_name": "2761 ; C12H16ClN ; 209.715",
+    "category": "data not stored",
+    "index": 2761,
+    "formular": "C12H16ClN",
+    "molecular_weight": 209.715,
+    "inChl": "1S/C12H16ClN/c1-2-9-8-14-6-5-10-3-4-11(13)7-12(9)10/h3-4,7,9,14H,2,5-6,8H2,1H3",
+    "InChl_Key": "DNLSOPHLIKCIIV-UHFFFAOYSA-N",
+    "SMILES": "CCC1CNCCc2ccc(Cl)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2761",
+    "validation": "m_weight unsave, calculated(209.72)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "O-1663",
+    "iupac_name": "14-(2-Methyloctan-2-yl)-21,22,23,24,25,26-hexahydro[11,21:24,31-terphenyl]-12,16-diol",
+    "category": "cannabinodids",
+    "index": 4777,
+    "formular": "C27H38O2",
+    "molecular_weight": 394.589,
+    "inChl": "1S/C27H38O2/c1-4-5-6-10-17-27(2,3)23-18-24(28)26(25(29)19-23)22-15-13-21(14-16-22)20-11-8-7-9-12-20/h7-9,11-12,18-19,21-22,28-29H,4-6,10,13-17H2,1-3H3",
+    "InChl_Key": "PLKPPMBZUIBWIL-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCC(C)(C)c1cc(O)c(C2CCC(c3ccccc3)CC2)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4777",
+    "validation": "m_weight unsave, calculated(394.59900000000016)"
+}

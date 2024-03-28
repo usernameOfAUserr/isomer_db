@@ -1,0 +1,13 @@
+{
+    "names": "5-HO-THH",
+    "iupac_name": "1-Methyl-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indol-5-ol ; 1-Methyl-2,3,4,9-tetrahydro-1H-\u03b2-carbolin-5-ol",
+    "category": "data not stored",
+    "index": 5262,
+    "formular": "C12H14N2O",
+    "molecular_weight": 202.252,
+    "inChl": "1S/C12H14N2O/c1-7-12-8(5-6-13-7)11-9(14-12)3-2-4-10(11)15/h2-4,7,13-15H,5-6H2,1H3",
+    "InChl_Key": "CKAPKIRGAPRHBU-UHFFFAOYSA-N",
+    "SMILES": "CC1NCCc2c1[nH]c1cccc(O)c21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5262",
+    "validation": "m_weight unsave, calculated(202.257)"
+}

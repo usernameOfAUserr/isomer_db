@@ -1,0 +1,13 @@
+{
+    "names": "2-FPM ; 2\u2032-Fluorophenmetrazine",
+    "iupac_name": "2-(2-Fluorophenyl)-3-methylmorpholine",
+    "category": "data not stored",
+    "index": 2845,
+    "formular": "C11H14FNO",
+    "molecular_weight": 195.233,
+    "inChl": "1S/C11H14FNO/c1-8-11(14-7-6-13-8)9-4-2-3-5-10(9)12/h2-5,8,11,13H,6-7H2,1H3",
+    "InChl_Key": "QTYLEXQVLJYJHT-UHFFFAOYSA-N",
+    "SMILES": "CC1NCCOC1c1ccccc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2845",
+    "validation": "m_weight unsave, calculated(195.237)"
+}

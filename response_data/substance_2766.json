@@ -1,0 +1,13 @@
+{
+    "names": "N-[1-(4-Propoxyphenyl)propan-2-yl]acetamide",
+    "iupac_name": "2766 ; C14H21NO2 ; 235.322",
+    "category": "data not stored",
+    "index": 2766,
+    "formular": "C14H21NO2",
+    "molecular_weight": 235.322,
+    "inChl": "1S/C14H21NO2/c1-4-9-17-14-7-5-13(6-8-14)10-11(2)15-12(3)16/h5-8,11H,4,9-10H2,1-3H3,(H,15,16)",
+    "InChl_Key": "MYUXQSUDNFVRPL-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1ccc(CC(C)NC(C)=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2766",
+    "validation": "m_weight unsave, calculated(235.32699999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Penniclavine",
+    "iupac_name": "8-(Hydroxymethyl)-6-methyl-9,10-didehydroergolin-8\u03b1-ol ; (6aR,9S)-9-(Hydroxymethyl)-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-ol ; (8\u03b1)-8-(Hydroxymethyl)-6-methyl-9,10-didehydroergolin-8-ol",
+    "category": "data not stored",
+    "index": 5353,
+    "formular": "C16H18N2O2",
+    "molecular_weight": 270.326,
+    "inChl": "1S/C16H18N2O2/c1-18-8-16(20,9-19)6-12-11-3-2-4-13-15(11)10(7-17-13)5-14(12)18/h2-4,6-7,14,17,19-20H,5,8-9H2,1H3/t14-,16+/m1/s1",
+    "InChl_Key": "KCHBNRCSCHMJFD-ZBFHGGJFSA-N",
+    "SMILES": "CN1C[C@](O)(CO)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5353",
+    "validation": "m_weight unsave, calculated(270.332)"
+}

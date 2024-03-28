@@ -1,0 +1,13 @@
+{
+    "names": "2-(2,4-Dinitrophenoxy)-N,N-diethylethan-1-amine",
+    "iupac_name": "10067 ; C12H17N3O5 ; 283.28",
+    "category": "Phenetylamine",
+    "index": 10067,
+    "formular": "C12H17N3O5",
+    "molecular_weight": 283.28,
+    "inChl": "1S/C12H17N3O5/c1-3-13(4-2)7-8-20-12-6-5-10(14(16)17)9-11(12)15(18)19/h5-6,9H,3-4,7-8H2,1-2H3",
+    "InChl_Key": "ADHUAAOMDQPOLX-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCOc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10067",
+    "validation": ""
+}

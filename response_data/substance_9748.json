@@ -1,0 +1,13 @@
+{
+    "names": "BRL37344",
+    "iupac_name": "Sodium [4-(2-{[2-(3-chlorophenyl)-2-hydroxyethyl]amino}propyl)phenoxy]acetate",
+    "category": "data not stored",
+    "index": 9748,
+    "formular": "C19H22ClNO4\u2009\u00b7\u2009Na",
+    "molecular_weight": 386.825,
+    "inChl": "1S/C19H22ClNO4.Na/c1-13(21-11-18(22)15-3-2-4-16(20)10-15)9-14-5-7-17(8-6-14)25-12-19(23)24;/h2-8,10,13,18,21-22H,9,11-12H2,1H3,(H,23,24);/q;+1/p-1",
+    "InChl_Key": "SNJIJYKMYQRHRC-UHFFFAOYSA-M",
+    "SMILES": "CC(Cc1ccc(OCC(=O)[O-])cc1)NCC(O)c1cccc(Cl)c1.[Na+]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9748",
+    "validation": "m_weight unsave, calculated(385.82300000000004)formular unsave, calculated(C19H21ClNNaO4)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Methylatropine ; N-Methyl atropine",
+    "iupac_name": "3-[(3-Hydroxy-2-phenylpropanoyl)oxy]-8,8-dimethyl-8-azabicyclo[3.2.1]octan-8-ium",
+    "category": "data not stored",
+    "index": 11847,
+    "formular": "C18H26NO3",
+    "molecular_weight": 304.404,
+    "inChl": "1S/C18H26NO3/c1-19(2)14-8-9-15(19)11-16(10-14)22-18(21)17(12-20)13-6-4-3-5-7-13/h3-7,14-17,20H,8-12H2,1-2H3/q+1",
+    "InChl_Key": "PIPAJLPNWZMYQA-UHFFFAOYSA-N",
+    "SMILES": "C[N+]1(C)C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11847",
+    "validation": "m_weight unsave, calculated(304.41)formular unsave, calculated(C18H26NO3+)"
+}

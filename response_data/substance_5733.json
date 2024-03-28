@@ -1,0 +1,13 @@
+{
+    "names": "6-HO-AMT ; 6-Hydroxy-\u03b1-methyltryptamine",
+    "iupac_name": "3-(2-Aminopropyl)-1H-indol-6-ol",
+    "category": "Tryptamine",
+    "index": 5733,
+    "formular": "C11H14N2O",
+    "molecular_weight": 190.242,
+    "inChl": "1S/C11H14N2O/c1-7(12)4-8-6-13-11-5-9(14)2-3-10(8)11/h2-3,5-7,13-14H,4,12H2,1H3",
+    "InChl_Key": "ZMYHMMLZVYSRPA-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c[nH]c2cc(O)ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5733",
+    "validation": "m_weight unsave, calculated(190.24599999999998)"
+}

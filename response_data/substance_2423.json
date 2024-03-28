@@ -1,0 +1,13 @@
+{
+    "names": "N-Bu-ADTN",
+    "iupac_name": "6-(Butylamino)-5,6,7,8-tetrahydronaphthalene-2,3-diol",
+    "category": "data not stored",
+    "index": 2423,
+    "formular": "C14H21NO2",
+    "molecular_weight": 235.322,
+    "inChl": "1S/C14H21NO2/c1-2-3-6-15-12-5-4-10-8-13(16)14(17)9-11(10)7-12/h8-9,12,15-17H,2-7H2,1H3",
+    "InChl_Key": "FLQPTCDCGBQBMR-UHFFFAOYSA-N",
+    "SMILES": "CCCCNC1CCc2cc(O)c(O)cc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2423",
+    "validation": "m_weight unsave, calculated(235.32699999999997)"
+}

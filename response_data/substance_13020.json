@@ -1,0 +1,13 @@
+{
+    "names": "2C-C-3PIP",
+    "iupac_name": "3-(4-Chloro-2,5-dimethoxyphenyl)piperidine",
+    "category": "data not stored",
+    "index": 13020,
+    "formular": "C13H18ClNO2",
+    "molecular_weight": 255.741,
+    "inChl": "1S/C13H18ClNO2/c1-16-12-7-11(14)13(17-2)6-10(12)9-4-3-5-15-8-9/h6-7,9,15H,3-5,8H2,1-2H3",
+    "InChl_Key": "DMIFTRWDVOHLPQ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2CCCNC2)c(OC)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13020",
+    "validation": "m_weight unsave, calculated(255.74499999999995)"
+}

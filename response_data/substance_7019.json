@@ -1,0 +1,13 @@
+{
+    "names": "N-Ac-26O-NBOMe ; N-Acetyl-N-(2-methoxybenzyl)-2,4,6-trmethoxyphenethylamine",
+    "iupac_name": "N-[(2-Methoxyphenyl)methyl]-N-[2-(2,4,6-trimethoxyphenyl)ethyl]acetamide",
+    "category": "data not stored",
+    "index": 7019,
+    "formular": "C21H27NO5",
+    "molecular_weight": 373.443,
+    "inChl": "1S/C21H27NO5/c1-15(23)22(14-16-8-6-7-9-19(16)25-3)11-10-18-20(26-4)12-17(24-2)13-21(18)27-5/h6-9,12-13H,10-11,14H2,1-5H3",
+    "InChl_Key": "WYKFPGKMUGNXDA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(CCN(Cc2ccccc2OC)C(C)=O)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7019",
+    "validation": "m_weight unsave, calculated(373.4490000000001)"
+}

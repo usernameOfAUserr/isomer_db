@@ -1,0 +1,13 @@
+{
+    "names": "3-Methoxy-\u03b1-phenylphenethylamine",
+    "iupac_name": "2-(3-Methoxyphenyl)-1-phenylethan-1-amine",
+    "category": "data not stored",
+    "index": 14355,
+    "formular": "C15H17NO",
+    "molecular_weight": 227.302,
+    "inChl": "1S/C15H17NO/c1-17-14-9-5-6-12(10-14)11-15(16)13-7-3-2-4-8-13/h2-10,15H,11,16H2,1H3",
+    "InChl_Key": "XOYULUHRZSJAEF-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(CC(N)c2ccccc2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14355",
+    "validation": "m_weight unsave, calculated(227.30700000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-[2-(Morpholin-4-yl)ethyl]-1H-indole",
+    "iupac_name": "2789 ; C14H18N2O ; 230.306",
+    "category": "data not stored",
+    "index": 2789,
+    "formular": "C14H18N2O",
+    "molecular_weight": 230.306,
+    "inChl": "1S/C14H18N2O/c1-2-12(13-4-6-15-14(13)3-1)5-7-16-8-10-17-11-9-16/h1-4,6,15H,5,7-11H2",
+    "InChl_Key": "UOBCGOUTCNKWTQ-UHFFFAOYSA-N",
+    "SMILES": "c1cc(CCN2CCOCC2)c2cc[nH]c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2789",
+    "validation": "m_weight unsave, calculated(230.31100000000004)"
+}

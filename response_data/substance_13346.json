@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-DALT BOC",
+    "iupac_name": "tert-Butyl 3-{2-[di(prop-2-en-1-yl)amino]ethyl}-5-methoxy-1H-indole-1-carboxylate",
+    "category": "data not stored",
+    "index": 13346,
+    "formular": "C22H30N2O3",
+    "molecular_weight": 370.485,
+    "inChl": "1S/C22H30N2O3/c1-7-12-23(13-8-2)14-11-17-16-24(21(25)27-22(3,4)5)20-10-9-18(26-6)15-19(17)20/h7-10,15-16H,1-2,11-14H2,3-6H3",
+    "InChl_Key": "XPSXYYVNTCFKCO-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(CC=C)CCc1cn(C(=O)OC(C)(C)C)c2ccc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13346",
+    "validation": "m_weight unsave, calculated(370.4930000000002)"
+}

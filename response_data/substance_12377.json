@@ -1,0 +1,13 @@
+{
+    "names": "3-TIM NS ; 2,4-Dimethoxy-3-methylthio-\u03b2-nitrostyrene",
+    "iupac_name": "1,3-Dimethoxy-2-(methylsulfanyl)-4-[(E)-2-nitroethenyl]benzene",
+    "category": "data not stored",
+    "index": 12377,
+    "formular": "C11H13NO4S",
+    "molecular_weight": 255.29,
+    "inChl": "1S/C11H13NO4S/c1-15-9-5-4-8(6-7-12(13)14)10(16-2)11(9)17-3/h4-7H,1-3H3/b7-6+",
+    "InChl_Key": "XZUTWEKHFLEHBH-VOTSOKGWSA-N",
+    "SMILES": "COc1ccc(/C=C/[N+](=O)[O-])c(OC)c1SC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12377",
+    "validation": ""
+}

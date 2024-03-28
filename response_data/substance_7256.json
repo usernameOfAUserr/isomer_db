@@ -1,0 +1,13 @@
+{
+    "names": "4C-HE ; \u03b1-Ethyl-4-(1-hydroxyethyl)-2,5-dimethoxyphenethylamine",
+    "iupac_name": "1-[4-(2-Aminobutyl)-2,5-dimethoxyphenyl]ethan-1-ol",
+    "category": "Shulgin_Index",
+    "index": 7256,
+    "formular": "C14H23NO3",
+    "molecular_weight": 253.337,
+    "inChl": "1S/C14H23NO3/c1-5-11(15)6-10-7-14(18-4)12(9(2)16)8-13(10)17-3/h7-9,11,16H,5-6,15H2,1-4H3",
+    "InChl_Key": "QWIJDBTVPALIRO-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)Cc1cc(OC)c(C(C)O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7256",
+    "validation": "m_weight unsave, calculated(253.34199999999998)"
+}

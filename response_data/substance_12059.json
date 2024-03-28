@@ -1,0 +1,13 @@
+{
+    "names": "1-(Anthracen-9-yl)methanamine",
+    "iupac_name": "12059 ; C15H13N ; 207.27",
+    "category": "Phenetylamine",
+    "index": 12059,
+    "formular": "C15H13N",
+    "molecular_weight": 207.27,
+    "inChl": "1S/C15H13N/c16-10-15-13-7-3-1-5-11(13)9-12-6-2-4-8-14(12)15/h1-9H,10,16H2",
+    "InChl_Key": "MEQDVTFZLJSMPO-UHFFFAOYSA-N",
+    "SMILES": "NCc1c2ccccc2cc2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12059",
+    "validation": "m_weight unsave, calculated(207.27599999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "WO 2011/025541 #921",
+    "iupac_name": "(4aS,5aS)-N-[(1S,2R)-2-Hydroxy-2,3-dihydro-1H-inden-1-yl]-1-(4-oxo-4\u03bb5-pyrazin-2-yl)-4,4a,5,5a-tetrahydro-1H-cyclopropa[4,5]cyclopenta[1,2-c]pyrazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4921,
+    "formular": "C21H19N5O3",
+    "molecular_weight": 389.407,
+    "inChl": "1S/C21H19N5O3/c27-16-9-11-3-1-2-4-13(11)18(16)23-21(28)19-15-8-12-7-14(12)20(15)26(24-19)17-10-25(29)6-5-22-17/h1-6,10,12,14,16,18,27H,7-9H2,(H,23,28)/t12-,14-,16+,18-/m0/s1",
+    "InChl_Key": "LWTAJIXRDPLOQY-ZKNMIIFVSA-N",
+    "SMILES": "O=C(N[C@H]1c2ccccc2C[C@H]1O)c1nn(-c2c[n+]([O-])ccn2)c2c1C[C@@H]1C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4921",
+    "validation": "m_weight unsave, calculated(389.415)"
+}

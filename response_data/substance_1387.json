@@ -1,0 +1,13 @@
+{
+    "names": "4-BzSA ; 4-Benzylthioamphetamine",
+    "iupac_name": "1-[4-(Benzylsulfanyl)phenyl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 1387,
+    "formular": "C16H19NS",
+    "molecular_weight": 257.394,
+    "inChl": "1S/C16H19NS/c1-13(17)11-14-7-9-16(10-8-14)18-12-15-5-3-2-4-6-15/h2-10,13H,11-12,17H2,1H3",
+    "InChl_Key": "TXLRFCSLKMDOTM-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(SCc2ccccc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1387",
+    "validation": "m_weight unsave, calculated(257.402)"
+}

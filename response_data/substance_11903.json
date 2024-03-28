@@ -1,0 +1,13 @@
+{
+    "names": "p-NO2 ANPP ; p-Nitro-despropionyl-fentanyl",
+    "iupac_name": "N-(4-Nitrophenyl)-1-(2-phenylethyl)piperidin-4-amine",
+    "category": "data not stored",
+    "index": 11903,
+    "formular": "C19H23N3O2",
+    "molecular_weight": 325.405,
+    "inChl": "1S/C19H23N3O2/c23-22(24)19-8-6-17(7-9-19)20-18-11-14-21(15-12-18)13-10-16-4-2-1-3-5-16/h1-9,18,20H,10-15H2",
+    "InChl_Key": "OAGMBDGKWIITRA-UHFFFAOYSA-N",
+    "SMILES": "O=[N+]([O-])c1ccc(NC2CCN(CCc3ccccc3)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11903",
+    "validation": "m_weight unsave, calculated(325.4119999999999)"
+}

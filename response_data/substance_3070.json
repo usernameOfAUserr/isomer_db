@@ -1,0 +1,13 @@
+{
+    "names": "4-Cl-iBF ; p-Chloro-isobutyrylfentanyl ; 4\u2032-Chloro-isobutyrylfentanyl ; p-Cl-iBF",
+    "iupac_name": "N-(4-Chlorophenyl)-2-methyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide",
+    "category": "Fentanyl",
+    "index": 3070,
+    "formular": "C23H29ClN2O",
+    "molecular_weight": 384.942,
+    "inChl": "1S/C23H29ClN2O/c1-18(2)23(27)26(21-10-8-20(24)9-11-21)22-13-16-25(17-14-22)15-12-19-6-4-3-5-7-19/h3-11,18,22H,12-17H2,1-2H3",
+    "InChl_Key": "YWHLYGSHOQKCJG-UHFFFAOYSA-N",
+    "SMILES": "CC(C)C(=O)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3070",
+    "validation": "m_weight unsave, calculated(384.9510000000002)"
+}

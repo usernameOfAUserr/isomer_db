@@ -1,0 +1,13 @@
+{
+    "names": "3-Methoxy-7-methyl-5,6,7,8,9,10-hexahydropyrido[4\u2032,3\u2032:4,5]pyrrolo[2,3-d]azepine",
+    "iupac_name": "12986 ; C13H17N3O ; 231.294",
+    "category": "data not stored",
+    "index": 12986,
+    "formular": "C13H17N3O",
+    "molecular_weight": 231.294,
+    "inChl": "1S/C13H17N3O/c1-16-5-3-9-10-7-13(17-2)14-8-12(10)15-11(9)4-6-16/h7-8,15H,3-6H2,1-2H3",
+    "InChl_Key": "KLKILJORJDUSAN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c3c([nH]c2cn1)CCN(C)CC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12986",
+    "validation": "m_weight unsave, calculated(231.29899999999995)"
+}

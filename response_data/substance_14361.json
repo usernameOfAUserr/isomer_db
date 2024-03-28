@@ -1,0 +1,13 @@
+{
+    "names": "{4-[Butanoyl(phenyl)amino]-1-(2-phenylethyl)piperidin-4-yl}methyl butanoate",
+    "iupac_name": "14361 ; C28H38N2O3 ; 450.613",
+    "category": "Fentanyl",
+    "index": 14361,
+    "formular": "C28H38N2O3",
+    "molecular_weight": 450.613,
+    "inChl": "1S/C28H38N2O3/c1-3-11-26(31)30(25-15-9-6-10-16-25)28(23-33-27(32)12-4-2)18-21-29(22-19-28)20-17-24-13-7-5-8-14-24/h5-10,13-16H,3-4,11-12,17-23H2,1-2H3",
+    "InChl_Key": "XCHRGNXLNYSDCG-UHFFFAOYSA-N",
+    "SMILES": "CCCC(=O)OCC1(N(C(=O)CCC)c2ccccc2)CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14361",
+    "validation": "m_weight unsave, calculated(450.6230000000002)"
+}

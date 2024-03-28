@@ -1,0 +1,13 @@
+{
+    "names": "5-Diphenylmethoxy-AMT ; 5-Diphenylmethoxy-\u03b1-methyltryptamine",
+    "iupac_name": "1-[5-(Diphenylmethoxy)-1H-indol-3-yl]propan-2-amine",
+    "category": "Tryptamine",
+    "index": 5826,
+    "formular": "C24H24N2O",
+    "molecular_weight": 356.46,
+    "inChl": "1S/C24H24N2O/c1-17(25)14-20-16-26-23-13-12-21(15-22(20)23)27-24(18-8-4-2-5-9-18)19-10-6-3-7-11-19/h2-13,15-17,24,26H,14,25H2,1H3",
+    "InChl_Key": "GCBBOQLIBJTXID-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c[nH]c2ccc(OC(c3ccccc3)c3ccccc3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5826",
+    "validation": "m_weight unsave, calculated(356.46900000000005)"
+}

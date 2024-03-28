@@ -1,0 +1,13 @@
+{
+    "names": "1-(Naphthalen-1-yl)propan-1-amine",
+    "iupac_name": "10040 ; C13H15N ; 185.265",
+    "category": "Phenetylamine",
+    "index": 10040,
+    "formular": "C13H15N",
+    "molecular_weight": 185.265,
+    "inChl": "1S/C13H15N/c1-2-13(14)12-9-5-7-10-6-3-4-8-11(10)12/h3-9,13H,2,14H2,1H3",
+    "InChl_Key": "JJYPGFPZTOUPHN-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)c1cccc2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10040",
+    "validation": "m_weight unsave, calculated(185.26999999999998)"
+}

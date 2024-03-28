@@ -1,0 +1,13 @@
+{
+    "names": "ECPLA ; ECYPLA ; N-Ethyl-N-cyclopropyllysergamide",
+    "iupac_name": "N-Cyclopropyl-N-ethyl-6-methyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N-Cyclopropyl-N-ethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N-Cyclopropyl-N-ethyl-6-methyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 2843,
+    "formular": "C21H25N3O",
+    "molecular_weight": 335.443,
+    "inChl": "1S/C21H25N3O/c1-3-24(15-7-8-15)21(25)14-9-17-16-5-4-6-18-20(16)13(11-22-18)10-19(17)23(2)12-14/h4-6,9,11,14-15,19,22H,3,7-8,10,12H2,1-2H3/t14-,19-/m1/s1",
+    "InChl_Key": "UNUJKEQFYPYXBK-AUUYWEPGSA-N",
+    "SMILES": "CCN(C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1)C1CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2843",
+    "validation": "m_weight unsave, calculated(335.45100000000014)"
+}

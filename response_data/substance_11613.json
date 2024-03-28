@@ -1,0 +1,13 @@
+{
+    "names": "SGT-208",
+    "iupac_name": "1-[(Oxan-4-yl)methyl]-N-(1-phenylcyclopropyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11613,
+    "formular": "C23H25N3O2",
+    "molecular_weight": 375.464,
+    "inChl": "1S/C23H25N3O2/c27-22(24-23(12-13-23)18-6-2-1-3-7-18)21-19-8-4-5-9-20(19)26(25-21)16-17-10-14-28-15-11-17/h1-9,17H,10-16H2,(H,24,27)",
+    "InChl_Key": "BDPOITIBKYBDEQ-UHFFFAOYSA-N",
+    "SMILES": "O=C(NC1(c2ccccc2)CC1)c1nn(CC2CCOCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11613",
+    "validation": "m_weight unsave, calculated(375.47200000000004)"
+}

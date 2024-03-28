@@ -1,0 +1,13 @@
+{
+    "names": "N-(DOBU) fentanyl",
+    "iupac_name": "N-{1-[1-(4-Butyl-2,5-dimethoxyphenyl)propan-2-yl]piperidin-4-yl}-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 14015,
+    "formular": "C29H42N2O3",
+    "molecular_weight": 466.655,
+    "inChl": "1S/C29H42N2O3/c1-6-8-12-23-20-28(34-5)24(21-27(23)33-4)19-22(3)30-17-15-26(16-18-30)31(29(32)7-2)25-13-10-9-11-14-25/h9-11,13-14,20-22,26H,6-8,12,15-19H2,1-5H3",
+    "InChl_Key": "JGVJLLGNTVSNSP-UHFFFAOYSA-N",
+    "SMILES": "CCCCc1cc(OC)c(CC(C)N2CCC(N(C(=O)CC)c3ccccc3)CC2)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14015",
+    "validation": "m_weight unsave, calculated(466.6660000000003)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-Methyl-thiofentanyl",
+    "iupac_name": "N-{3-Methyl-1-[2-(thiophen-2-yl)ethyl]piperidin-4-yl}-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 2632,
+    "formular": "C21H28N2OS",
+    "molecular_weight": 356.525,
+    "inChl": "1S/C21H28N2OS/c1-3-21(24)23(18-8-5-4-6-9-18)20-12-14-22(16-17(20)2)13-11-19-10-7-15-25-19/h4-10,15,17,20H,3,11-14,16H2,1-2H3",
+    "InChl_Key": "SRARDYUHGVMEQI-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1CCN(CCc2cccs2)CC1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2632",
+    "validation": "m_weight unsave, calculated(356.535)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-Me-\u03b1-PVP ; 2\u2032-Methyl-\u03b1-(pyrrolidin-1-yl)valerophenone ; O-2479",
+    "iupac_name": "1-(2-Methylphenyl)-2-(pyrrolidin-1-yl)pentan-1-one",
+    "category": "data not stored",
+    "index": 1413,
+    "formular": "C16H23NO",
+    "molecular_weight": 245.36,
+    "inChl": "1S/C16H23NO/c1-3-8-15(17-11-6-7-12-17)16(18)14-10-5-4-9-13(14)2/h4-5,9-10,15H,3,6-8,11-12H2,1-2H3",
+    "InChl_Key": "VVIVTDYOMWHKAE-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccccc1C)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1413",
+    "validation": "m_weight unsave, calculated(245.36599999999993)"
+}

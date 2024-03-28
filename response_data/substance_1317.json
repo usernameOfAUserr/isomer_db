@@ -1,0 +1,13 @@
+{
+    "names": "N-Me-2-AT ; N-Methyl-2-aminotetralin",
+    "iupac_name": "N-Methyl-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "category": "Phenetylamine",
+    "index": 1317,
+    "formular": "C11H15N",
+    "molecular_weight": 161.244,
+    "inChl": "1S/C11H15N/c1-12-11-7-6-9-4-2-3-5-10(9)8-11/h2-5,11-12H,6-8H2,1H3",
+    "InChl_Key": "NZARMFRLPAOETR-UHFFFAOYSA-N",
+    "SMILES": "CNC1CCc2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1317",
+    "validation": "m_weight unsave, calculated(161.24800000000002)"
+}

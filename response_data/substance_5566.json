@@ -1,0 +1,13 @@
+{
+    "names": "T-NBOMe ; N-(2-Methoxybenzyl)tryptamine",
+    "iupac_name": "2-(1H-Indol-3-yl)-N-[(2-methoxyphenyl)methyl]ethan-1-amine ; 2-(1H-Indol-3-yl)-N-(2-methoxybenzyl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5566,
+    "formular": "C18H20N2O",
+    "molecular_weight": 280.364,
+    "inChl": "1S/C18H20N2O/c1-21-18-9-5-2-6-15(18)12-19-11-10-14-13-20-17-8-4-3-7-16(14)17/h2-9,13,19-20H,10-12H2,1H3",
+    "InChl_Key": "HJCSKFSDXDPIKM-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CNCCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5566",
+    "validation": "m_weight unsave, calculated(280.371)"
+}

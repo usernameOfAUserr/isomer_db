@@ -1,0 +1,13 @@
+{
+    "names": "Isodillapiole ; trans-2,3-Dimethoxy-4,5-methylenedioxyphenylprop-1-ene",
+    "iupac_name": "4,5-Dimethoxy-6-[(1E)-prop-1-en-1-yl]-2H-1,3-benzodioxole ; 4,5-Dimethoxy-6-[(1E)-prop-1-en-1-yl]-1,3-benzodioxole",
+    "category": "Essential oil",
+    "index": 1103,
+    "formular": "C12H14O4",
+    "molecular_weight": 222.237,
+    "inChl": "1S/C12H14O4/c1-4-5-8-6-9-11(16-7-15-9)12(14-3)10(8)13-2/h4-6H,7H2,1-3H3/b5-4+",
+    "InChl_Key": "OEDZKYGAFWDLGE-SNAWJCMRSA-N",
+    "SMILES": "C/C=C/c1cc2c(c(OC)c1OC)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1103",
+    "validation": "m_weight unsave, calculated(222.23999999999995)"
+}

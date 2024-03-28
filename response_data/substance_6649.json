@@ -1,0 +1,13 @@
+{
+    "names": "2-Amino-1,2-diphenylethan-1-ol",
+    "iupac_name": "6649 ; C14H15NO ; 213.275",
+    "category": "data not stored",
+    "index": 6649,
+    "formular": "C14H15NO",
+    "molecular_weight": 213.275,
+    "inChl": "1S/C14H15NO/c15-13(11-7-3-1-4-8-11)14(16)12-9-5-2-6-10-12/h1-10,13-14,16H,15H2",
+    "InChl_Key": "GEJJWYZZKKKSEV-UHFFFAOYSA-N",
+    "SMILES": "NC(c1ccccc1)C(O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6649",
+    "validation": "m_weight unsave, calculated(213.28)"
+}

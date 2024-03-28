@@ -1,0 +1,13 @@
+{
+    "names": "AMMT ; 1-Aminomethyl-6-methoxytetralin",
+    "iupac_name": "1-(6-Methoxy-1,2,3,4-tetrahydronaphthalen-1-yl)methanamine",
+    "category": "Phenetylamine",
+    "index": 10585,
+    "formular": "C12H17NO",
+    "molecular_weight": 191.269,
+    "inChl": "1S/C12H17NO/c1-14-11-5-6-12-9(7-11)3-2-4-10(12)8-13/h5-7,10H,2-4,8,13H2,1H3",
+    "InChl_Key": "PWCAWOYQXQCEEV-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c(c1)CCCC2CN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10585",
+    "validation": "m_weight unsave, calculated(191.274)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5C-P",
+    "iupac_name": "1-(2,5-Dimethoxy-4-propylphenyl)pentan-2-amine",
+    "category": "data not stored",
+    "index": 13899,
+    "formular": "C16H27NO2",
+    "molecular_weight": 265.391,
+    "inChl": "1S/C16H27NO2/c1-5-7-12-10-16(19-4)13(11-15(12)18-3)9-14(17)8-6-2/h10-11,14H,5-9,17H2,1-4H3",
+    "InChl_Key": "GUOHWKSNFWHAPL-UHFFFAOYSA-N",
+    "SMILES": "CCCc1cc(OC)c(CC(N)CCC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13899",
+    "validation": "m_weight unsave, calculated(265.39699999999993)"
+}

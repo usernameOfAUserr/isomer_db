@@ -1,0 +1,13 @@
+{
+    "names": "US 6017919 #7-91",
+    "iupac_name": "7-Methoxy-2,4-dioxo-8-(pentyloxy)-N-[2-(pyridin-4-yl)ethyl]-1,4-dihydroquinazoline-3(2H)-carboxamide",
+    "category": "cannabinodids",
+    "index": 4201,
+    "formular": "C22H26N4O5",
+    "molecular_weight": 426.466,
+    "inChl": "1S/C22H26N4O5/c1-3-4-5-14-31-19-17(30-2)7-6-16-18(19)25-22(29)26(20(16)27)21(28)24-13-10-15-8-11-23-12-9-15/h6-9,11-12H,3-5,10,13-14H2,1-2H3,(H,24,28)(H,25,29)",
+    "InChl_Key": "IAGCSOMLTPMFQY-UHFFFAOYSA-N",
+    "SMILES": "CCCCCOc1c(OC)ccc2c(=O)n(C(=O)NCCc3ccncc3)c(=O)[nH]c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4201",
+    "validation": "m_weight unsave, calculated(426.4730000000002)"
+}

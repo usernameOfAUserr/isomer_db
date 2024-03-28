@@ -1,0 +1,13 @@
+{
+    "names": "SGT-218",
+    "iupac_name": "(Oxan-4-yl)methyl 1-[(oxan-4-yl)methyl]-1H-indazole-3-carboxylate",
+    "category": "cannabinodids",
+    "index": 11621,
+    "formular": "C20H26N2O4",
+    "molecular_weight": 358.431,
+    "inChl": "1S/C20H26N2O4/c23-20(26-14-16-7-11-25-12-8-16)19-17-3-1-2-4-18(17)22(21-19)13-15-5-9-24-10-6-15/h1-4,15-16H,5-14H2",
+    "InChl_Key": "TXKSEZHCFSVYID-UHFFFAOYSA-N",
+    "SMILES": "O=C(OCC1CCOCC1)c1nn(CC2CCOCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11621",
+    "validation": "m_weight unsave, calculated(358.43800000000016)"
+}

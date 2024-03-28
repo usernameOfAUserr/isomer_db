@@ -1,0 +1,13 @@
+{
+    "names": "O-1821",
+    "iupac_name": "(1\u2032R,2\u2032R)-4,5\u2032-Dimethyl-2\u2032-(prop-1-en-2-yl)-1\u2032,2\u2032,3\u2032,4\u2032-tetrahydro[1,1\u2032-biphenyl]-2,6-diol",
+    "category": "cannabinodids",
+    "index": 4977,
+    "formular": "C17H22O2",
+    "molecular_weight": 258.355,
+    "inChl": "1S/C17H22O2/c1-10(2)13-6-5-11(3)7-14(13)17-15(18)8-12(4)9-16(17)19/h7-9,13-14,18-19H,1,5-6H2,2-4H3/t13-,14+/m0/s1",
+    "InChl_Key": "GKVOVXWEBSQJPA-UONOGXRCSA-N",
+    "SMILES": "C=C(C)[C@@H]1CCC(C)=C[C@H]1c1c(O)cc(C)cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4977",
+    "validation": "m_weight unsave, calculated(258.361)"
+}

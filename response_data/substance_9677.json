@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(5-Chloro-2-propoxyphenyl)cyclopropyl]methanamine",
+    "iupac_name": "9677 ; C13H18ClNO ; 239.741",
+    "category": "data not stored",
+    "index": 9677,
+    "formular": "C13H18ClNO",
+    "molecular_weight": 239.741,
+    "inChl": "1S/C13H18ClNO/c1-2-5-16-13-4-3-10(14)7-12(13)11-6-9(11)8-15/h3-4,7,9,11H,2,5-6,8,15H2,1H3",
+    "InChl_Key": "QLRUVNWJVHLRAZ-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1ccc(Cl)cc1C1CC1CN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9677",
+    "validation": "m_weight unsave, calculated(239.74599999999995)"
+}

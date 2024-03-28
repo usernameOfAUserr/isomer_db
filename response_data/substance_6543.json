@@ -1,0 +1,13 @@
+{
+    "names": "5-Hydroxyindole",
+    "iupac_name": "1H-Indol-5-ol",
+    "category": "data not stored",
+    "index": 6543,
+    "formular": "C8H7NO",
+    "molecular_weight": 133.147,
+    "inChl": "1S/C8H7NO/c10-7-1-2-8-6(5-7)3-4-9-8/h1-5,9-10H",
+    "InChl_Key": "LMIQERWZRIFWNZ-UHFFFAOYSA-N",
+    "SMILES": "Oc1ccc2[nH]ccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6543",
+    "validation": "m_weight unsave, calculated(133.14999999999998)"
+}

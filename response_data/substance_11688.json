@@ -1,0 +1,13 @@
+{
+    "names": "Ro-16-0529",
+    "iupac_name": "tert-Butyl 7-chloro-6-phenyl-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 11688,
+    "formular": "C22H20ClN3O2",
+    "molecular_weight": 393.866,
+    "inChl": "1S/C22H20ClN3O2/c1-22(2,3)28-21(27)20-17-12-24-19(14-8-5-4-6-9-14)18-15(23)10-7-11-16(18)26(17)13-25-20/h4-11,13H,12H2,1-3H3",
+    "InChl_Key": "QHELDQIEUIHQHP-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(C)OC(=O)c1ncn2c1CN=C(c1ccccc1)c1c(Cl)cccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11688",
+    "validation": "m_weight unsave, calculated(393.87400000000014)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "{4-[Phenyl(propanoyl)amino]-1-[2-(2H-tetrazol-2-yl)ethyl]piperidin-4-yl}methyl 2,2-dimethylpropanoate",
+    "iupac_name": "14383 ; C23H34N6O3 ; 442.554",
+    "category": "Fentanyl",
+    "index": 14383,
+    "formular": "C23H34N6O3",
+    "molecular_weight": 442.554,
+    "inChl": "1S/C23H34N6O3/c1-5-20(30)29(19-9-7-6-8-10-19)23(17-32-21(31)22(2,3)4)11-13-27(14-12-23)15-16-28-25-18-24-26-28/h6-10,18H,5,11-17H2,1-4H3",
+    "InChl_Key": "OSVCOZBTKGOSIN-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1(COC(=O)C(C)(C)C)CCN(CCn2ncnn2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14383",
+    "validation": "m_weight unsave, calculated(442.56400000000025)"
+}

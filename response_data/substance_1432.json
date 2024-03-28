@@ -1,0 +1,13 @@
+{
+    "names": "Methoxypiperamide ; MEXP ; MeOP",
+    "iupac_name": "(4-Methoxyphenyl)(4-methylpiperazin-1-yl)methanone",
+    "category": "data not stored",
+    "index": 1432,
+    "formular": "C13H18N2O2",
+    "molecular_weight": 234.294,
+    "inChl": "1S/C13H18N2O2/c1-14-7-9-15(10-8-14)13(16)11-3-5-12(17-2)6-4-11/h3-6H,7-10H2,1-2H3",
+    "InChl_Key": "DWPVVZZGGGCRRM-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C(=O)N2CCN(C)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1432",
+    "validation": "m_weight unsave, calculated(234.29899999999992)"
+}

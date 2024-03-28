@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-CMe-M ; \u03b1-Chloromethyl-3,4,5-trimethoxyphenethylamine",
+    "iupac_name": "1-Chloro-3-(3,4,5-trimethoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7605,
+    "formular": "C12H18ClNO3",
+    "molecular_weight": 259.729,
+    "inChl": "1S/C12H18ClNO3/c1-15-10-5-8(4-9(14)7-13)6-11(16-2)12(10)17-3/h5-6,9H,4,7,14H2,1-3H3",
+    "InChl_Key": "JQXARIHJXXXTKR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(N)CCl)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7605",
+    "validation": "m_weight unsave, calculated(259.733)"
+}

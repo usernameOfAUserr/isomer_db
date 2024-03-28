@@ -1,0 +1,13 @@
+{
+    "names": "4-PO-EPT ; 4-Phosphonooxy-N-ethyl-N-propyltryptamine",
+    "iupac_name": "3-{2-[Ethyl(propyl)amino]ethyl}-1H-indol-4-yl dihydrogen phosphate",
+    "category": "Tryptamine",
+    "index": 13168,
+    "formular": "C15H23N2O4P",
+    "molecular_weight": 326.328,
+    "inChl": "1S/C15H23N2O4P/c1-3-9-17(4-2)10-8-12-11-16-13-6-5-7-14(15(12)13)21-22(18,19)20/h5-7,11,16H,3-4,8-10H2,1-2H3,(H2,18,19,20)",
+    "InChl_Key": "ONPRVBRFMXPUMZ-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CC)CCc1c[nH]c2cccc(OP(=O)(O)O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13168",
+    "validation": "m_weight unsave, calculated(326.3330000000001)"
+}

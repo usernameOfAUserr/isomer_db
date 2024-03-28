@@ -1,0 +1,13 @@
+{
+    "names": "1-Naphthyl-U-47700 ; U10",
+    "iupac_name": "N-[(1R,2R)-2-(Dimethylamino)cyclohexyl]-N-methylnaphthalene-1-carboxamide",
+    "category": "data not stored",
+    "index": 7638,
+    "formular": "C20H26N2O",
+    "molecular_weight": 310.433,
+    "inChl": "1S/C20H26N2O/c1-21(2)18-13-6-7-14-19(18)22(3)20(23)17-12-8-10-15-9-4-5-11-16(15)17/h4-5,8-12,18-19H,6-7,13-14H2,1-3H3/t18-,19-/m1/s1",
+    "InChl_Key": "FCIUKEOXCOOCDX-RTBURBONSA-N",
+    "SMILES": "CN(C)[C@@H]1CCCC[C@H]1N(C)C(=O)c1cccc2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7638",
+    "validation": "m_weight unsave, calculated(310.4410000000001)"
+}

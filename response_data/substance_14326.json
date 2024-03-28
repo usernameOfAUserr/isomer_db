@@ -1,0 +1,13 @@
+{
+    "names": "7-Hydroxy-8-methoxy-2-methyl-THIQ",
+    "iupac_name": "8-Methoxy-2-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol",
+    "category": "data not stored",
+    "index": 14326,
+    "formular": "C11H15NO2",
+    "molecular_weight": 193.242,
+    "inChl": "1S/C11H15NO2/c1-12-6-5-8-3-4-10(13)11(14-2)9(8)7-12/h3-4,13H,5-7H2,1-2H3",
+    "InChl_Key": "NCTCOYMIKQJDOS-UHFFFAOYSA-N",
+    "SMILES": "COc1c(O)ccc2c1CN(C)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14326",
+    "validation": "m_weight unsave, calculated(193.24599999999992)"
+}

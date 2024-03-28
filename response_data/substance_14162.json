@@ -1,0 +1,13 @@
+{
+    "names": "3-Cl-4,5-DMPEA NS ; 3-Chloro-4,5-dimethoxy-\u03b2-nitrostyrene",
+    "iupac_name": "1-Chloro-2,3-dimethoxy-5-[(E)-2-nitroethenyl]benzene",
+    "category": "data not stored",
+    "index": 14162,
+    "formular": "C10H10ClNO4",
+    "molecular_weight": 243.644,
+    "inChl": "1S/C10H10ClNO4/c1-15-9-6-7(3-4-12(13)14)5-8(11)10(9)16-2/h3-6H,1-2H3/b4-3+",
+    "InChl_Key": "AYULBTLOYLJHSB-ONEGZZNKSA-N",
+    "SMILES": "COc1cc(/C=C/[N+](=O)[O-])cc(Cl)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14162",
+    "validation": "m_weight unsave, calculated(243.646)"
+}

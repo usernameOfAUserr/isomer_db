@@ -1,0 +1,13 @@
+{
+    "names": "5-Bromo-2H-1,3-benzodioxole",
+    "iupac_name": "12951 ; C7H5BrO2 ; 201.017",
+    "category": "data not stored",
+    "index": 12951,
+    "formular": "C7H5BrO2",
+    "molecular_weight": 201.017,
+    "inChl": "1S/C7H5BrO2/c8-5-1-2-6-7(3-5)10-4-9-6/h1-3H,4H2",
+    "InChl_Key": "FBOYMIDCHINJKC-UHFFFAOYSA-N",
+    "SMILES": "Brc1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12951",
+    "validation": "m_weight unsave, calculated(201.01899999999995)"
+}

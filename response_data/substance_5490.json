@@ -1,0 +1,13 @@
+{
+    "names": "6-Nitro-N-(2-carboxyethyl)tryptamine",
+    "iupac_name": "N-[2-(6-Nitro-1H-indol-3-yl)ethyl]-\u03b2-alanine ; 3-{[2-(6-Nitro-1H-indol-3-yl)ethyl]amino}propanoic acid",
+    "category": "Tryptamine",
+    "index": 5490,
+    "formular": "C13H15N3O4",
+    "molecular_weight": 277.276,
+    "inChl": "1S/C13H15N3O4/c17-13(18)4-6-14-5-3-9-8-15-12-7-10(16(19)20)1-2-11(9)12/h1-2,7-8,14-15H,3-6H2,(H,17,18)",
+    "InChl_Key": "FJNVUHWXUYOTCG-UHFFFAOYSA-N",
+    "SMILES": "O=C(O)CCNCCc1c[nH]c2cc([N+](=O)[O-])ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5490",
+    "validation": "m_weight unsave, calculated(277.2800000000001)"
+}

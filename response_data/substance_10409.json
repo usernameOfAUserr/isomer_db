@@ -1,0 +1,13 @@
+{
+    "names": "TeHPEA ; 2,3,4,5-Tetrahydroxyphenethylamine",
+    "iupac_name": "5-(2-Aminoethyl)benzene-1,2,3,4-tetrol",
+    "category": "Phenetylamine",
+    "index": 10409,
+    "formular": "C8H11NO4",
+    "molecular_weight": 185.177,
+    "inChl": "1S/C8H11NO4/c9-2-1-4-3-5(10)7(12)8(13)6(4)11/h3,10-13H,1-2,9H2",
+    "InChl_Key": "SXZFCJURIWPUCO-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cc(O)c(O)c(O)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10409",
+    "validation": "m_weight unsave, calculated(185.17899999999997)"
+}

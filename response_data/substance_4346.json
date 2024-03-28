@@ -1,0 +1,13 @@
+{
+    "names": "AM-281",
+    "iupac_name": "1-(2,4-Dichlorophenyl)-5-(4-iodophenyl)-4-methyl-N-(morpholin-4-yl)-1H-pyrazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4346,
+    "formular": "C21H19Cl2IN4O2",
+    "molecular_weight": 557.212,
+    "inChl": "1S/C21H19Cl2IN4O2/c1-13-19(21(29)26-27-8-10-30-11-9-27)25-28(18-7-4-15(22)12-17(18)23)20(13)14-2-5-16(24)6-3-14/h2-7,12H,8-11H2,1H3,(H,26,29)",
+    "InChl_Key": "AJFFBPZYXRNAIC-UHFFFAOYSA-N",
+    "SMILES": "Cc1c(C(=O)NN2CCOCC2)nn(-c2ccc(Cl)cc2Cl)c1-c1ccc(I)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4346",
+    "validation": "m_weight unsave, calculated(557.219)"
+}

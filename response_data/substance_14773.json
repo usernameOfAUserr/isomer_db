@@ -1,0 +1,13 @@
+{
+    "names": "3-[2-(Dimethylamino)ethyl]-1-[tri(propan-2-yl)silyl]-1H-indol-4-yl propanoate",
+    "iupac_name": "14773 ; C24H40N2O2Si ; 416.672",
+    "category": "Tryptamine",
+    "index": 14773,
+    "formular": "C24H40N2O2Si",
+    "molecular_weight": 416.672,
+    "inChl": "1S/C24H40N2O2Si/c1-10-23(27)28-22-13-11-12-21-24(22)20(14-15-25(8)9)16-26(21)29(17(2)3,18(4)5)19(6)7/h11-13,16-19H,10,14-15H2,1-9H3",
+    "InChl_Key": "DJRFXSIBUDUSGF-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)Oc1cccc2c1c(CCN(C)C)cn2[Si](C(C)C)(C(C)C)C(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14773",
+    "validation": "m_weight unsave, calculated(416.68200000000013)"
+}

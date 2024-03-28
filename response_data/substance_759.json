@@ -1,0 +1,13 @@
+{
+    "names": "2-(4-Hexylphenyl)-2-phenylethan-1-amine",
+    "iupac_name": "759 ; C20H27N ; 281.435",
+    "category": "data not stored",
+    "index": 759,
+    "formular": "C20H27N",
+    "molecular_weight": 281.435,
+    "inChl": "1S/C20H27N/c1-2-3-4-6-9-17-12-14-19(15-13-17)20(16-21)18-10-7-5-8-11-18/h5,7-8,10-15,20H,2-4,6,9,16,21H2,1H3",
+    "InChl_Key": "YLFILDZOXRWMEO-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCc1ccc(C(CN)c2ccccc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=759",
+    "validation": "m_weight unsave, calculated(281.4430000000001)"
+}

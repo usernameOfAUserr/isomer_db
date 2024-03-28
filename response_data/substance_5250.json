@@ -1,0 +1,13 @@
+{
+    "names": "1-(4-Methoxyphenylthio)-4-MeO-DMT ; 1-(4-Methoxyphenylthio)-4-methoxy-N,N-dimethyltryptamine",
+    "iupac_name": "2-{4-Methoxy-1-[(4-methoxyphenyl)sulfanyl]-1H-indol-3-yl}-N,N-dimethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5250,
+    "formular": "C20H24N2O2S",
+    "molecular_weight": 356.482,
+    "inChl": "1S/C20H24N2O2S/c1-21(2)13-12-15-14-22(18-6-5-7-19(24-4)20(15)18)25-17-10-8-16(23-3)9-11-17/h5-11,14H,12-13H2,1-4H3",
+    "InChl_Key": "JTMGJGHWCCBPIU-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(Sn2cc(CCN(C)C)c3c(OC)cccc32)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5250",
+    "validation": "m_weight unsave, calculated(356.4910000000001)"
+}

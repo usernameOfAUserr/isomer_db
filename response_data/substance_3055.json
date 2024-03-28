@@ -1,0 +1,13 @@
+{
+    "names": "PF-03550096",
+    "iupac_name": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-3-(3-hydroxy-3-methylbutyl)-2-oxo-2,3-dihydro-1H-benzimidazole-1-carboxamide",
+    "category": "cannabinodids",
+    "index": 3055,
+    "formular": "C19H28N4O4",
+    "molecular_weight": 376.45,
+    "inChl": "1S/C19H28N4O4/c1-18(2,3)14(15(20)24)21-16(25)23-13-9-7-6-8-12(13)22(17(23)26)11-10-19(4,5)27/h6-9,14,27H,10-11H2,1-5H3,(H2,20,24)(H,21,25)/t14-/m1/s1",
+    "InChl_Key": "GGNIFXBIJCNXCT-CQSZACIVSA-N",
+    "SMILES": "CC(C)(O)CCn1c(=O)n(C(=O)N[C@H](C(N)=O)C(C)(C)C)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3055",
+    "validation": "m_weight unsave, calculated(376.4570000000002)"
+}

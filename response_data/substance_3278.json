@@ -1,0 +1,13 @@
+{
+    "names": "PEPPP ; R-1148",
+    "iupac_name": "4-Phenyl-1-(2-phenylethyl)piperidin-4-yl propanoate",
+    "category": "data not stored",
+    "index": 3278,
+    "formular": "C22H27NO2",
+    "molecular_weight": 337.455,
+    "inChl": "1S/C22H27NO2/c1-2-21(24)25-22(20-11-7-4-8-12-20)14-17-23(18-15-22)16-13-19-9-5-3-6-10-19/h3-12H,2,13-18H2,1H3",
+    "InChl_Key": "HPFQTBYEZDGKSZ-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)OC1(c2ccccc2)CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3278",
+    "validation": "m_weight unsave, calculated(337.463)"
+}

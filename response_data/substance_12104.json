@@ -1,0 +1,13 @@
+{
+    "names": "2-(Oxolan-2-yl)ethan-1-amine",
+    "iupac_name": "12104 ; C6H13NO ; 115.174",
+    "category": "Phenetylamine",
+    "index": 12104,
+    "formular": "C6H13NO",
+    "molecular_weight": 115.174,
+    "inChl": "1S/C6H13NO/c7-4-3-6-2-1-5-8-6/h6H,1-5,7H2",
+    "InChl_Key": "ZCOIVJPCZLPQPT-UHFFFAOYSA-N",
+    "SMILES": "NCCC1CCCO1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12104",
+    "validation": "m_weight unsave, calculated(115.176)"
+}

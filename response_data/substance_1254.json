@@ -1,0 +1,13 @@
+{
+    "names": "25D-NBOH ; N-(2-Hydroxybenzyl)-4-methyl-2,5-dimethoxyphenethylamine ; 2C-D-NBOH",
+    "iupac_name": "2-({[2-(2,5-Dimethoxy-4-methylphenyl)ethyl]amino}methyl)phenol",
+    "category": "data not stored",
+    "index": 1254,
+    "formular": "C18H23NO3",
+    "molecular_weight": 301.38,
+    "inChl": "1S/C18H23NO3/c1-13-10-18(22-3)14(11-17(13)21-2)8-9-19-12-15-6-4-5-7-16(15)20/h4-7,10-11,19-20H,8-9,12H2,1-3H3",
+    "InChl_Key": "URKRMTCOGFIWFP-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2ccccc2O)c(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1254",
+    "validation": "m_weight unsave, calculated(301.386)"
+}

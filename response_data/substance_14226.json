@@ -1,0 +1,13 @@
+{
+    "names": "4-Hydroxycathinone",
+    "iupac_name": "2-Amino-1-(4-hydroxyphenyl)propan-1-one",
+    "category": "data not stored",
+    "index": 14226,
+    "formular": "C9H11NO2",
+    "molecular_weight": 165.189,
+    "inChl": "1S/C9H11NO2/c1-6(10)9(12)7-2-4-8(11)5-3-7/h2-6,11H,10H2,1H3",
+    "InChl_Key": "GWCBLDBOWRUFCD-UHFFFAOYSA-N",
+    "SMILES": "CC(N)C(=O)c1ccc(O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14226",
+    "validation": "m_weight unsave, calculated(165.19199999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-Me-2-HPEA ; N-Methyl-2-hydroxyphenethylamine",
+    "iupac_name": "2-[2-(Methylamino)ethyl]phenol",
+    "category": "Shulgin_Index",
+    "index": 6073,
+    "formular": "C9H13NO",
+    "molecular_weight": 151.206,
+    "inChl": "1S/C9H13NO/c1-10-7-6-8-4-2-3-5-9(8)11/h2-5,10-11H,6-7H2,1H3",
+    "InChl_Key": "RZPBKCYWYVZAOJ-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1ccccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6073",
+    "validation": "m_weight unsave, calculated(151.20899999999997)"
+}

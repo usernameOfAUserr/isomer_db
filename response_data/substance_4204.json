@@ -1,0 +1,13 @@
+{
+    "names": "US 2013/0178453 #11",
+    "iupac_name": "{5-Methyl-6-[2-(morpholin-4-yl)ethyl]-6H-thieno[2,3-b]pyrrol-4-yl}(1-propyl-1H-indol-2-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4204,
+    "formular": "C25H29N3O2S",
+    "molecular_weight": 435.582,
+    "inChl": "1S/C25H29N3O2S/c1-3-9-28-21-7-5-4-6-19(21)17-22(28)24(29)23-18(2)27(25-20(23)8-16-31-25)11-10-26-12-14-30-15-13-26/h4-8,16-17H,3,9-15H2,1-2H3",
+    "InChl_Key": "XRBVVZMSUYJRCC-UHFFFAOYSA-N",
+    "SMILES": "CCCn1c(C(=O)c2c(C)n(CCN3CCOCC3)c3sccc23)cc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4204",
+    "validation": "m_weight unsave, calculated(435.59300000000025)"
+}

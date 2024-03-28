@@ -1,0 +1,13 @@
+{
+    "names": "N-Acetyl-DOB ; DOB-Ac",
+    "iupac_name": "N-[1-(4-Bromo-2,5-dimethoxyphenyl)propan-2-yl]acetamide",
+    "category": "Shulgin_Index",
+    "index": 7129,
+    "formular": "C13H18BrNO3",
+    "molecular_weight": 316.191,
+    "inChl": "1S/C13H18BrNO3/c1-8(15-9(2)16)5-10-6-13(18-4)11(14)7-12(10)17-3/h6-8H,5H2,1-4H3,(H,15,16)",
+    "InChl_Key": "JANVRHMWBQIUAH-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)NC(C)=O)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7129",
+    "validation": "m_weight unsave, calculated(316.19500000000005)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Ibogainalog ; 9-Methoxyibogaminalog",
+    "iupac_name": "9-Methoxy-3-methyl-1,2,3,4,5,6-hexahydroazepino[4,5-b]indole",
+    "category": "data not stored",
+    "index": 11452,
+    "formular": "C14H18N2O",
+    "molecular_weight": 230.306,
+    "inChl": "1S/C14H18N2O/c1-16-7-5-11-12-9-10(17-2)3-4-13(12)15-14(11)6-8-16/h3-4,9,15H,5-8H2,1-2H3",
+    "InChl_Key": "RVVJOBLZASPMDJ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]c3c(c2c1)CCN(C)CC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11452",
+    "validation": "m_weight unsave, calculated(230.31099999999995)"
+}

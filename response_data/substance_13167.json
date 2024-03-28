@@ -1,0 +1,13 @@
+{
+    "names": "4-PO-MET ; 4-Phosphonooxy-N-methyl-N-ethyltryptamine",
+    "iupac_name": "3-{2-[Ethyl(methyl)amino]ethyl}-1H-indol-4-yl dihydrogen phosphate",
+    "category": "Tryptamine",
+    "index": 13167,
+    "formular": "C13H19N2O4P",
+    "molecular_weight": 298.275,
+    "inChl": "1S/C13H19N2O4P/c1-3-15(2)8-7-10-9-14-11-5-4-6-12(13(10)11)19-20(16,17)18/h4-6,9,14H,3,7-8H2,1-2H3,(H2,16,17,18)",
+    "InChl_Key": "UQZZYXCHJDTMER-UHFFFAOYSA-N",
+    "SMILES": "CCN(C)CCc1c[nH]c2cccc(OP(=O)(O)O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13167",
+    "validation": "m_weight unsave, calculated(298.279)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3,4-Cl-BzPip",
+    "iupac_name": "(3,4-Dichlorophenyl)(piperidin-3-yl)methanone",
+    "category": "data not stored",
+    "index": 10080,
+    "formular": "C12H13Cl2NO",
+    "molecular_weight": 258.144,
+    "inChl": "1S/C12H13Cl2NO/c13-10-4-3-8(6-11(10)14)12(16)9-2-1-5-15-7-9/h3-4,6,9,15H,1-2,5,7H2",
+    "InChl_Key": "MOTKXMBCDUEPRE-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccc(Cl)c(Cl)c1)C1CCCNC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10080",
+    "validation": "m_weight unsave, calculated(258.148)"
+}

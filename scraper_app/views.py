@@ -10,13 +10,10 @@ import time
 import shutil
 import re
 from bs4 import BeautifulSoup
-from .getNewSubstances import get_urls_of_new_substances, getNewSubstances
-
+from .getReachableUrls import getReachableUrls
 from django.template.defaultfilters import stringfilter
 
 # Create your views here.
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
 
 def scraper(request):
     if request.method == "POST":
@@ -92,10 +89,9 @@ def request_how_many_json_file(request):
         print("no dir there")
 
 def search_for_newcomers(request):
-    new_ones_by_smiles = getNewSubstances()
+    new_ones = getReachableUrls()
     print("looking for new substances completed, begining integration")
-    logger.debug("Search for new Substances finished")
-    json_source_folder = ".\\response_data"
+    json_source_folder = "new_ones"
     if os.path.exists(json_source_folder) and os.path.isdir(json_source_folder):
         for file_name in os.listdir(json_source_folder):
             new_file_name = os.path.join(json_source_folder, file_name)
@@ -103,10 +99,10 @@ def search_for_newcomers(request):
                 json_content = json.load(json_file)
                 file_name = Substance(names=json_content["names"], iupac_names=json_content["iupac_name"], id=json_content["index"], formular=json_content["formular"],
                                       molecular_weight=json_content["molecular_weight"], inchl=json_content["inChl"], inchl_key=json_content["InChl_Key"], smiles=json_content["SMILES"],
-                                      category_tag=json_content["category"])   
+                                      category_tag=json_content["category"], validation_message=json_content["validation"])   
                 file_name.save()
     print("stroed in db")
-    return JsonResponse({"newSubstances":new_ones_by_smiles})
+    return JsonResponse({"newSubstances": new_ones})
 
 def get_witz(request):
     parameters ={

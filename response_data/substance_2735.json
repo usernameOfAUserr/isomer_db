@@ -1,0 +1,13 @@
+{
+    "names": "8-Bromo-1-methyl-7-[(propan-2-yl)oxy]-2,3,4,5-tetrahydro-1H-3-benzazepine ; 8-Bromo-1-methyl-7-(propan-2-yloxy)-2,3,4,5-tetrahydro-1H-3-benzazepine",
+    "iupac_name": "2735 ; C14H20BrNO ; 298.219",
+    "category": "data not stored",
+    "index": 2735,
+    "formular": "C14H20BrNO",
+    "molecular_weight": 298.219,
+    "inChl": "1S/C14H20BrNO/c1-9(2)17-14-6-11-4-5-16-8-10(3)12(11)7-13(14)15/h6-7,9-10,16H,4-5,8H2,1-3H3",
+    "InChl_Key": "OKANWZMGTYYNOW-UHFFFAOYSA-N",
+    "SMILES": "CC(C)Oc1cc2c(cc1Br)C(C)CNCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2735",
+    "validation": "m_weight unsave, calculated(298.22400000000005)"
+}

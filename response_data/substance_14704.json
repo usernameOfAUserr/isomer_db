@@ -1,0 +1,13 @@
+{
+    "names": "Anastrozole",
+    "iupac_name": "2,2\u2032-{5-[(1H-1,2,4-Triazol-1-yl)methyl]-1,3-phenylene}bis(2-methylpropanenitrile)",
+    "category": "data not stored",
+    "index": 14704,
+    "formular": "C17H19N5",
+    "molecular_weight": 293.366,
+    "inChl": "1S/C17H19N5/c1-16(2,9-18)14-5-13(8-22-12-20-11-21-22)6-15(7-14)17(3,4)10-19/h5-7,11-12H,8H2,1-4H3",
+    "InChl_Key": "YBBLVLTVTVSKRW-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14704",
+    "validation": "m_weight unsave, calculated(293.374)"
+}

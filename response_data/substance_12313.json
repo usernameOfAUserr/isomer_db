@@ -1,0 +1,13 @@
+{
+    "names": "2,5-DMBAL",
+    "iupac_name": "2,5-Dimethoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 12313,
+    "formular": "C9H10O3",
+    "molecular_weight": 166.174,
+    "inChl": "1S/C9H10O3/c1-11-8-3-4-9(12-2)7(5-8)6-10/h3-6H,1-2H3",
+    "InChl_Key": "AFUKNJHPZAVHGQ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c(C=O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12313",
+    "validation": "m_weight unsave, calculated(166.17599999999996)"
+}

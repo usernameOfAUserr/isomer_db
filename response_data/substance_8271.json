@@ -1,0 +1,13 @@
+{
+    "names": "2-Me-4,5-DMBAL ; 2-Methyl-4,5-dimethoxybenzaldehyde ; 6-Methyl-veratraldehyde",
+    "iupac_name": "8271 ; C10H12O3 ; 180.2",
+    "category": "data not stored",
+    "index": 8271,
+    "formular": "C10H12O3",
+    "molecular_weight": 180.2,
+    "inChl": "1S/C10H12O3/c1-7-4-9(12-2)10(13-3)5-8(7)6-11/h4-6H,1-3H3",
+    "InChl_Key": "RMIZEUOAFVZZJG-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C)c(C=O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8271",
+    "validation": ""
+}

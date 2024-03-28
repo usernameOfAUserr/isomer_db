@@ -1,0 +1,13 @@
+{
+    "names": "1-Fluoro-2-(2-nitropropyl)benzene",
+    "iupac_name": "11191 ; C9H10FNO2 ; 183.18",
+    "category": "data not stored",
+    "index": 11191,
+    "formular": "C9H10FNO2",
+    "molecular_weight": 183.18,
+    "inChl": "1S/C9H10FNO2/c1-7(11(12)13)6-8-4-2-3-5-9(8)10/h2-5,7H,6H2,1H3",
+    "InChl_Key": "KHFNTYVFGPCXLG-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1F)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11191",
+    "validation": ""
+}

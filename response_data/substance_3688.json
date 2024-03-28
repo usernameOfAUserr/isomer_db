@@ -1,0 +1,13 @@
+{
+    "names": "Alvameline ; Lu 25-109",
+    "iupac_name": "5-(2-Ethyl-2H-tetrazol-5-yl)-1-methyl-1,2,3,6-tetrahydropyridine",
+    "category": "data not stored",
+    "index": 3688,
+    "formular": "C9H15N5",
+    "molecular_weight": 193.249,
+    "inChl": "1S/C9H15N5/c1-3-14-11-9(10-12-14)8-5-4-6-13(2)7-8/h5H,3-4,6-7H2,1-2H3",
+    "InChl_Key": "RNMOMKCRCIRYCZ-UHFFFAOYSA-N",
+    "SMILES": "CCn1nnc(C2=CCCN(C)C2)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3688",
+    "validation": "m_weight unsave, calculated(193.25399999999996)"
+}

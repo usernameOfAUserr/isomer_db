@@ -1,0 +1,13 @@
+{
+    "names": "DcPLA",
+    "iupac_name": "N,N-Dicyclopropyl-6-methyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N,N-Dicyclopropyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N,N-Dicyclopropyl-6-methyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 8351,
+    "formular": "C22H25N3O",
+    "molecular_weight": 347.453,
+    "inChl": "1S/C22H25N3O/c1-24-12-14(22(26)25(15-5-6-15)16-7-8-16)9-18-17-3-2-4-19-21(17)13(11-23-19)10-20(18)24/h2-4,9,11,14-16,20,23H,5-8,10,12H2,1H3/t14-,20-/m1/s1",
+    "InChl_Key": "BKFJBYSCCRJWMC-JLTOFOAXSA-N",
+    "SMILES": "CN1C[C@H](C(=O)N(C2CC2)C2CC2)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8351",
+    "validation": "m_weight unsave, calculated(347.46200000000016)"
+}

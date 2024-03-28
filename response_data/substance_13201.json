@@ -1,0 +1,13 @@
+{
+    "names": "Thirtylone ; TTE",
+    "iupac_name": "2-(Ethylamino)-1-(2,3,5,6,8,9-hexahydro-1,4,7,10-benzotetraoxacyclododecin-12-yl)propan-1-one",
+    "category": "data not stored",
+    "index": 13201,
+    "formular": "C17H25NO5",
+    "molecular_weight": 323.384,
+    "inChl": "1S/C17H25NO5/c1-3-18-13(2)17(19)14-4-5-15-16(12-14)23-11-9-21-7-6-20-8-10-22-15/h4-5,12-13,18H,3,6-11H2,1-2H3",
+    "InChl_Key": "FECOYQLKNVSPFT-UHFFFAOYSA-N",
+    "SMILES": "CCNC(C)C(=O)c1ccc2c(c1)OCCOCCOCCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13201",
+    "validation": "m_weight unsave, calculated(323.38900000000007)"
+}

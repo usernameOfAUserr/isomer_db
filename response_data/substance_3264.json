@@ -1,0 +1,13 @@
+{
+    "names": "Morpheridine",
+    "iupac_name": "Ethyl 1-[2-(morpholin-4-yl)ethyl]-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 3264,
+    "formular": "C20H30N2O3",
+    "molecular_weight": 346.464,
+    "inChl": "1S/C20H30N2O3/c1-2-25-19(23)20(18-6-4-3-5-7-18)8-10-21(11-9-20)12-13-22-14-16-24-17-15-22/h3-7H,2,8-17H2,1H3",
+    "InChl_Key": "JDEDMCKQPKGSAX-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CCN2CCOCC2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3264",
+    "validation": "m_weight unsave, calculated(346.471)"
+}

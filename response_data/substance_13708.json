@@ -1,0 +1,13 @@
+{
+    "names": "2-Fluoroallylescaline ; 2-FAL",
+    "iupac_name": "2-{4-[(2-Fluoroprop-2-en-1-yl)oxy]-3,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "data not stored",
+    "index": 13708,
+    "formular": "C13H18FNO3",
+    "molecular_weight": 255.285,
+    "inChl": "1S/C13H18FNO3/c1-9(14)8-18-13-11(16-2)6-10(4-5-15)7-12(13)17-3/h6-7H,1,4-5,8,15H2,2-3H3",
+    "InChl_Key": "BGUVGHMJZIYZOK-UHFFFAOYSA-N",
+    "SMILES": "C=C(F)COc1c(OC)cc(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13708",
+    "validation": "m_weight unsave, calculated(255.28899999999993)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-Methyl-5-MeO-MALT ; 2-Methyl-5-methoxy-N-methyl-N-allyltryptamine",
+    "iupac_name": "N-[2-(5-Methoxy-2-methyl-1H-indol-3-yl)ethyl]-N-methylprop-2-en-1-amine",
+    "category": "Tryptamine",
+    "index": 5584,
+    "formular": "C16H22N2O",
+    "molecular_weight": 258.359,
+    "inChl": "1S/C16H22N2O/c1-5-9-18(3)10-8-14-12(2)17-16-7-6-13(19-4)11-15(14)16/h5-7,11,17H,1,8-10H2,2-4H3",
+    "InChl_Key": "BHKTVIZVVRBTEK-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(C)CCc1c(C)[nH]c2ccc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5584",
+    "validation": "m_weight unsave, calculated(258.365)"
+}

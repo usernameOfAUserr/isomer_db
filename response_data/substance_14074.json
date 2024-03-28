@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Me-4C-B",
+    "iupac_name": "1-(4-Bromo-2,5-dimethoxyphenyl)-N,N-dimethylbutan-2-amine",
+    "category": "data not stored",
+    "index": 14074,
+    "formular": "C14H22BrNO2",
+    "molecular_weight": 316.234,
+    "inChl": "1S/C14H22BrNO2/c1-6-11(16(2)3)7-10-8-14(18-5)12(15)9-13(10)17-4/h8-9,11H,6-7H2,1-5H3",
+    "InChl_Key": "KYLKOQPAWJYVGJ-UHFFFAOYSA-N",
+    "SMILES": "CCC(Cc1cc(OC)c(Br)cc1OC)N(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14074",
+    "validation": "m_weight unsave, calculated(316.2389999999999)"
+}

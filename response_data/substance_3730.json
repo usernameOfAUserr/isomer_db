@@ -1,0 +1,13 @@
+{
+    "names": "Glycine ; Gly",
+    "iupac_name": "Glycine ; Aminoacetic acid",
+    "category": "data not stored",
+    "index": 3730,
+    "formular": "C2H5NO2",
+    "molecular_weight": 75.067,
+    "inChl": "1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)",
+    "InChl_Key": "DHMQDGOQFOQNFH-UHFFFAOYSA-N",
+    "SMILES": "NCC(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3730",
+    "validation": "m_weight unsave, calculated(75.067)"
+}

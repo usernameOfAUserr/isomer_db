@@ -1,0 +1,13 @@
+{
+    "names": "MR-2096",
+    "iupac_name": "3,14-Dihydroxy-17-{[(2R)-oxolan-2-yl]methyl}-4,5\u03b1-epoxymorphinan-6-one ; (4R,4aS,7aR,12bS)-4a,9-Dihydroxy-3-{[(2R)-oxolan-2-yl]methyl}-2,3,4,4a,5,6-hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinolin-7(7aH)-one ; (5\u03b1)-3,14-Dihydroxy-17-{[(2R)-oxolan-2-yl]methyl}-4,5-epoxymorphinan-6-one",
+    "category": "data not stored",
+    "index": 7480,
+    "formular": "C21H25NO5",
+    "molecular_weight": 371.427,
+    "inChl": "1S/C21H25NO5/c23-14-4-3-12-10-16-21(25)6-5-15(24)19-20(21,17(12)18(14)27-19)7-8-22(16)11-13-2-1-9-26-13/h3-4,13,16,19,23,25H,1-2,5-11H2/t13-,16-,19+,20+,21-/m1/s1",
+    "InChl_Key": "JZVPTJLHOJSOLQ-JAYNPZNESA-N",
+    "SMILES": "O=C1CC[C@@]2(O)[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3C[C@H]2CCCO2)[C@H]1O5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7480",
+    "validation": "m_weight unsave, calculated(371.43300000000005)"
+}

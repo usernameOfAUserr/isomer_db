@@ -1,0 +1,13 @@
+{
+    "names": "m-Fluoro-acetylfentanyl",
+    "iupac_name": "N-(3-Fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide",
+    "category": "Fentanyl",
+    "index": 6190,
+    "formular": "C21H25FN2O",
+    "molecular_weight": 340.434,
+    "inChl": "1S/C21H25FN2O/c1-17(25)24(21-9-5-8-19(22)16-21)20-11-14-23(15-12-20)13-10-18-6-3-2-4-7-18/h2-9,16,20H,10-15H2,1H3",
+    "InChl_Key": "ALHJAWKAFTYWPM-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)N(c1cccc(F)c1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6190",
+    "validation": "m_weight unsave, calculated(340.442)"
+}

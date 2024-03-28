@@ -1,0 +1,13 @@
+{
+    "names": "1-(2-Fluoroethyl)-7-fluoro-4-benzyloxy-DMT ; 1-(2-Fluoroethyl)-7-fluoro-4-benzyloxy-N,N-dimethyltryptamine",
+    "iupac_name": "2-[4-(Benzyloxy)-7-fluoro-1-(2-fluoroethyl)-1H-indol-3-yl]-N,N-dimethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 13655,
+    "formular": "C21H24F2N2O",
+    "molecular_weight": 358.425,
+    "inChl": "1S/C21H24F2N2O/c1-24(2)12-10-17-14-25(13-11-22)21-18(23)8-9-19(20(17)21)26-15-16-6-4-3-5-7-16/h3-9,14H,10-13,15H2,1-2H3",
+    "InChl_Key": "MJJYIKRAYRAZPI-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1cn(CCF)c2c(F)ccc(OCc3ccccc3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13655",
+    "validation": "m_weight unsave, calculated(358.43200000000013)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Benzothiophene-5-NP",
+    "iupac_name": "5-[(1E)-2-Nitroprop-1-en-1-yl]-1-benzothiophene",
+    "category": "data not stored",
+    "index": 11212,
+    "formular": "C11H9NO2S",
+    "molecular_weight": 219.26,
+    "inChl": "1S/C11H9NO2S/c1-8(12(13)14)6-9-2-3-11-10(7-9)4-5-15-11/h2-7H,1H3/b8-6+",
+    "InChl_Key": "HHSASNDSJMIPKY-SOFGYWHQSA-N",
+    "SMILES": "C/C(=C\\c1ccc2sccc2c1)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11212",
+    "validation": ""
+}

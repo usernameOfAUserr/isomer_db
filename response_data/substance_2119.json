@@ -1,0 +1,13 @@
+{
+    "names": "MPHP ; 4\u2032-Methyl-\u03b1-(pyrrolidin-1-yl)hexanophenone",
+    "iupac_name": "1-(4-Methylphenyl)-2-(pyrrolidin-1-yl)hexan-1-one",
+    "category": "Shulgin_Index",
+    "index": 2119,
+    "formular": "C17H25NO",
+    "molecular_weight": 259.387,
+    "inChl": "1S/C17H25NO/c1-3-4-7-16(18-12-5-6-13-18)17(19)15-10-8-14(2)9-11-15/h8-11,16H,3-7,12-13H2,1-2H3",
+    "InChl_Key": "YOSQVMGMENUCDX-UHFFFAOYSA-N",
+    "SMILES": "CCCCC(C(=O)c1ccc(C)cc1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2119",
+    "validation": "m_weight unsave, calculated(259.393)"
+}

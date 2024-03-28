@@ -1,0 +1,13 @@
+{
+    "names": "2,3,4,5-Tetrahydro-1H-1,5-methano-2-benzazepine",
+    "iupac_name": "12055 ; C11H13N ; 159.228",
+    "category": "Phenetylamine",
+    "index": 12055,
+    "formular": "C11H13N",
+    "molecular_weight": 159.228,
+    "inChl": "1S/C11H13N/c1-2-4-10-9(3-1)8-5-6-12-11(10)7-8/h1-4,8,11-12H,5-7H2",
+    "InChl_Key": "ODNBLSHUQMAKDZ-UHFFFAOYSA-N",
+    "SMILES": "c1ccc2c(c1)C1CCNC2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12055",
+    "validation": "m_weight unsave, calculated(159.23199999999997)"
+}

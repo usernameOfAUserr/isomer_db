@@ -1,0 +1,13 @@
+{
+    "names": "TeMePEA-2 ; 2,3,4,6-Tetramethylphenethylamine",
+    "iupac_name": "2-(2,3,4,6-Tetramethylphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7867,
+    "formular": "C12H19N",
+    "molecular_weight": 177.286,
+    "inChl": "1S/C12H19N/c1-8-7-9(2)12(5-6-13)11(4)10(8)3/h7H,5-6,13H2,1-4H3",
+    "InChl_Key": "JLHIDLKJYJONGG-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(C)c(CCN)c(C)c1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7867",
+    "validation": "m_weight unsave, calculated(177.29099999999997)"
+}

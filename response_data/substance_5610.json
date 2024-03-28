@@ -1,0 +1,13 @@
+{
+    "names": "N-(2,6-Dichlorophenylethyl)-NMT ; N-(2,6-Dichlorophenylethyl)-N-methyltryptamine",
+    "iupac_name": "2-(2,6-Dichlorophenyl)-N-[2-(1H-indol-3-yl)ethyl]-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5610,
+    "formular": "C19H20Cl2N2",
+    "molecular_weight": 347.282,
+    "inChl": "1S/C19H20Cl2N2/c1-23(12-10-16-17(20)6-4-7-18(16)21)11-9-14-13-22-19-8-3-2-5-15(14)19/h2-8,13,22H,9-12H2,1H3",
+    "InChl_Key": "AJLKBALCKXZUNH-UHFFFAOYSA-N",
+    "SMILES": "CN(CCc1c(Cl)cccc1Cl)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5610",
+    "validation": "m_weight unsave, calculated(347.289)"
+}

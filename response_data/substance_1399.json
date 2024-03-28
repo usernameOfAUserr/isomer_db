@@ -1,0 +1,13 @@
+{
+    "names": "4-MTMB ; \u03b1-Ethyl-4-methylthiophenethylamine",
+    "iupac_name": "N-Methyl-1-[4-(methylsulfanyl)phenyl]butan-2-amine",
+    "category": "Phenetylamine",
+    "index": 1399,
+    "formular": "C12H19NS",
+    "molecular_weight": 209.351,
+    "inChl": "1S/C12H19NS/c1-4-11(13-2)9-10-5-7-12(14-3)8-6-10/h5-8,11,13H,4,9H2,1-3H3",
+    "InChl_Key": "JMLCRWOWZIZAEU-UHFFFAOYSA-N",
+    "SMILES": "CCC(Cc1ccc(SC)cc1)NC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1399",
+    "validation": "m_weight unsave, calculated(209.358)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-MeO-4\u2032-Oxo-PCP",
+    "iupac_name": "4-(3-Methoxyphenyl)-4-(piperidin-1-yl)cyclohexan-1-one",
+    "category": "Arylcycloalkylamine",
+    "index": 7500,
+    "formular": "C18H25NO2",
+    "molecular_weight": 287.397,
+    "inChl": "1S/C18H25NO2/c1-21-17-7-5-6-15(14-17)18(10-8-16(20)9-11-18)19-12-3-2-4-13-19/h5-7,14H,2-4,8-13H2,1H3",
+    "InChl_Key": "KJLZLUAIYRPBKL-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(C2(N3CCCCC3)CCC(=O)CC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7500",
+    "validation": "m_weight unsave, calculated(287.403)"
+}

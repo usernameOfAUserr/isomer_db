@@ -1,0 +1,13 @@
+{
+    "names": "3,4-EDBAL ; 3,4-Ethylenedioxybenzaldehyde",
+    "iupac_name": "2,3-Dihydro-1,4-benzodioxine-6-carbaldehyde",
+    "category": "data not stored",
+    "index": 8313,
+    "formular": "C9H8O3",
+    "molecular_weight": 164.158,
+    "inChl": "1S/C9H8O3/c10-6-7-1-2-8-9(5-7)12-4-3-11-8/h1-2,5-6H,3-4H2",
+    "InChl_Key": "CWKXDPPQCVWXAG-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1ccc2c(c1)OCCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8313",
+    "validation": "m_weight unsave, calculated(164.15999999999994)"
+}

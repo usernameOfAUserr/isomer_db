@@ -1,0 +1,13 @@
+{
+    "names": "Catharanthine",
+    "iupac_name": "Methyl (2\u03b1,5\u03b2,18\u03b2)-3,4-Didehydroibogamine-18-carboxylate ; Methyl (6R,6aR,9R)-7-ethyl-9,10,12,13-tetrahydro-5H-6,9-methanopyrido[1\u2032,2\u2032:1,2]azepino[4,5-b]indole-6(6aH)-carboxylate",
+    "category": "data not stored",
+    "index": 7916,
+    "formular": "C21H24N2O2",
+    "molecular_weight": 336.427,
+    "inChl": "1S/C21H24N2O2/c1-3-14-10-13-11-21(20(24)25-2)18-16(8-9-23(12-13)19(14)21)15-6-4-5-7-17(15)22-18/h4-7,10,13,19,22H,3,8-9,11-12H2,1-2H3/t13-,19+,21-/m0/s1",
+    "InChl_Key": "CMKFQVZJOWHHDV-NQZBTDCJSA-N",
+    "SMILES": "CCC1=C[C@@H]2CN3CCc4c([nH]c5ccccc45)[C@@](C(=O)OC)(C2)[C@@H]13",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7916",
+    "validation": "m_weight unsave, calculated(336.43500000000006)"
+}

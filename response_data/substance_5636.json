@@ -1,0 +1,13 @@
+{
+    "names": "N-Heptyl-NMT ; N-Heptyl-N-methyltryptamine",
+    "iupac_name": "N-[2-(1H-Indol-3-yl)ethyl]-N-methylheptan-1-amine",
+    "category": "Tryptamine",
+    "index": 5636,
+    "formular": "C18H28N2",
+    "molecular_weight": 272.428,
+    "inChl": "1S/C18H28N2/c1-3-4-5-6-9-13-20(2)14-12-16-15-19-18-11-8-7-10-17(16)18/h7-8,10-11,15,19H,3-6,9,12-14H2,1-2H3",
+    "InChl_Key": "KZSKMMOYLNQRJX-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCN(C)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5636",
+    "validation": "m_weight unsave, calculated(272.43600000000004)"
+}

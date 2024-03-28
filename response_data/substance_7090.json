@@ -1,0 +1,13 @@
+{
+    "names": "4-MeA imine",
+    "iupac_name": "N-[1-(4-Methylphenyl)propan-2-yl]methanimine",
+    "category": "data not stored",
+    "index": 7090,
+    "formular": "C11H15N",
+    "molecular_weight": 161.244,
+    "inChl": "1S/C11H15N/c1-9-4-6-11(7-5-9)8-10(2)12-3/h4-7,10H,3,8H2,1-2H3",
+    "InChl_Key": "BHGHTKJCBDZISK-UHFFFAOYSA-N",
+    "SMILES": "C=NC(C)Cc1ccc(C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7090",
+    "validation": "m_weight unsave, calculated(161.24799999999996)"
+}

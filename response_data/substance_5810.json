@@ -1,0 +1,13 @@
+{
+    "names": "5-(2-Fluorobenzyloxy)-AMT ; 5-(2-Fluorobenzyloxy)-\u03b1-methyltryptamine",
+    "iupac_name": "1-{5-[(2-Fluorophenyl)methoxy]-1H-indol-3-yl}propan-2-amine ; 1-{5-[(2-Fluorobenzyl)oxy]-1H-indol-3-yl}propan-2-amine",
+    "category": "Tryptamine",
+    "index": 5810,
+    "formular": "C18H19FN2O",
+    "molecular_weight": 298.355,
+    "inChl": "1S/C18H19FN2O/c1-12(20)8-14-10-21-18-7-6-15(9-16(14)18)22-11-13-4-2-3-5-17(13)19/h2-7,9-10,12,21H,8,11,20H2,1H3",
+    "InChl_Key": "VMHRGSZWUVHKCJ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c[nH]c2ccc(OCc3ccccc3F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5810",
+    "validation": "m_weight unsave, calculated(298.361)"
+}

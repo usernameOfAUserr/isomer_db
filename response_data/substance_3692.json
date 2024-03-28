@@ -1,0 +1,13 @@
+{
+    "names": "Nicotine",
+    "iupac_name": "3-[(2S)-1-Methylpyrrolidin-2-yl]pyridine",
+    "category": "data not stored",
+    "index": 3692,
+    "formular": "C10H14N2",
+    "molecular_weight": 162.232,
+    "inChl": "1S/C10H14N2/c1-12-7-3-5-10(12)9-4-2-6-11-8-9/h2,4,6,8,10H,3,5,7H2,1H3/t10-/m0/s1",
+    "InChl_Key": "SNICXCGAKADSCV-JTQLQIEISA-N",
+    "SMILES": "CN1CCC[C@H]1c1cccnc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3692",
+    "validation": "m_weight unsave, calculated(162.236)"
+}

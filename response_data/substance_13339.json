@@ -1,0 +1,13 @@
+{
+    "names": "Metonitazepine",
+    "iupac_name": "2-[(4-Methoxyphenyl)methyl]-5-nitro-1-[2-(pyrrolidin-1-yl)ethyl]-1H-benzimidazole",
+    "category": "data not stored",
+    "index": 13339,
+    "formular": "C21H24N4O3",
+    "molecular_weight": 380.44,
+    "inChl": "1S/C21H24N4O3/c1-28-18-7-4-16(5-8-18)14-21-22-19-15-17(25(26)27)6-9-20(19)24(21)13-12-23-10-2-3-11-23/h4-9,15H,2-3,10-14H2,1H3",
+    "InChl_Key": "JTTDZHBAEQTIPA-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(Cc2nc3cc([N+](=O)[O-])ccc3n2CCN2CCCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13339",
+    "validation": "m_weight unsave, calculated(380.4480000000001)"
+}

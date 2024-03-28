@@ -1,0 +1,13 @@
+{
+    "names": "RTI-132",
+    "iupac_name": "N,N-Dimethyl-1-[(2R,3S)-8-methyl-3-(4-methylphenyl)-8-azabicyclo[3.2.1]octan-2-yl]methanamine",
+    "category": "data not stored",
+    "index": 3249,
+    "formular": "C18H28N2",
+    "molecular_weight": 272.428,
+    "inChl": "1S/C18H28N2/c1-13-5-7-14(8-6-13)16-11-15-9-10-18(20(15)4)17(16)12-19(2)3/h5-8,15-18H,9-12H2,1-4H3/t15?,16-,17+,18?/m1/s1",
+    "InChl_Key": "BXHOUBWCYWSBNE-UMQBVGHOSA-N",
+    "SMILES": "Cc1ccc([C@H]2CC3CCC([C@H]2CN(C)C)N3C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3249",
+    "validation": "m_weight unsave, calculated(272.43600000000004)"
+}

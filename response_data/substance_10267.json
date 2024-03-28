@@ -1,0 +1,13 @@
+{
+    "names": "tert-Buscaline ; TBU ; 4-tert-Butoxy-3,5-dimethoxyphenethylamine",
+    "iupac_name": "10267 ; C14H23NO3 ; 253.337",
+    "category": "Phenetylamine",
+    "index": 10267,
+    "formular": "C14H23NO3",
+    "molecular_weight": 253.337,
+    "inChl": "1S/C14H23NO3/c1-14(2,3)18-13-11(16-4)8-10(6-7-15)9-12(13)17-5/h8-9H,6-7,15H2,1-5H3",
+    "InChl_Key": "MYHYNLICFOABNA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(OC)c1OC(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10267",
+    "validation": "m_weight unsave, calculated(253.34199999999996)"
+}

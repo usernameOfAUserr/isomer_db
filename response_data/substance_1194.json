@@ -1,0 +1,13 @@
+{
+    "names": "4F-PBCHPy",
+    "iupac_name": "1-[2-(4-Fluorophenyl)bicyclo[2.2.1]heptan-2-yl]pyrrolidine",
+    "category": "Arylcycloalkylamine",
+    "index": 1194,
+    "formular": "C17H22FN",
+    "molecular_weight": 259.362,
+    "inChl": "1S/C17H22FN/c18-16-7-5-14(6-8-16)17(19-9-1-2-10-19)12-13-3-4-15(17)11-13/h5-8,13,15H,1-4,9-12H2",
+    "InChl_Key": "PSCPWPFMYHKGGA-UHFFFAOYSA-N",
+    "SMILES": "Fc1ccc(C2(N3CCCC3)CC3CCC2C3)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1194",
+    "validation": "m_weight unsave, calculated(259.36799999999994)"
+}

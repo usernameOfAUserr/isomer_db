@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Carboxy-DOM ; \u03b1-Carboxy-2,5-dimethoxy-4-methylamphetamine",
+    "iupac_name": "2,5-Dimethoxy-\u03b1,4-dimethylphenylalanine ; 2-Amino-3-(2,5-dimethoxy-4-methylphenyl)-2-methylpropanoic acid",
+    "category": "data not stored",
+    "index": 1010,
+    "formular": "C13H19NO4",
+    "molecular_weight": 253.294,
+    "inChl": "1S/C13H19NO4/c1-8-5-11(18-4)9(6-10(8)17-3)7-13(2,14)12(15)16/h5-6H,7,14H2,1-4H3,(H,15,16)",
+    "InChl_Key": "VMUVITVONPEBBX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)(N)C(=O)O)c(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1010",
+    "validation": "m_weight unsave, calculated(253.29799999999994)"
+}

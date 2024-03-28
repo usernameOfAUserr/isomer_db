@@ -1,0 +1,13 @@
+{
+    "names": "N-[1-(2-Hydroxyphenyl)propan-2-yl]acetamide",
+    "iupac_name": "1007 ; C11H15NO2 ; 193.242",
+    "category": "data not stored",
+    "index": 1007,
+    "formular": "C11H15NO2",
+    "molecular_weight": 193.242,
+    "inChl": "1S/C11H15NO2/c1-8(12-9(2)13)7-10-5-3-4-6-11(10)14/h3-6,8,14H,7H2,1-2H3,(H,12,13)",
+    "InChl_Key": "QAAMNMFLDFHAQJ-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NC(C)Cc1ccccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1007",
+    "validation": "m_weight unsave, calculated(193.24599999999998)"
+}

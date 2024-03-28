@@ -1,0 +1,13 @@
+{
+    "names": "SGT-112",
+    "iupac_name": "1-(Cyclohexylmethyl)-N-{(2S)-1-[(2-hydroxyethyl)amino]-3,3-dimethyl-1-oxobutan-2-yl}-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11539,
+    "formular": "C24H35N3O3",
+    "molecular_weight": 413.553,
+    "inChl": "1S/C24H35N3O3/c1-24(2,3)21(23(30)25-13-14-28)26-22(29)19-16-27(15-17-9-5-4-6-10-17)20-12-8-7-11-18(19)20/h7-8,11-12,16-17,21,28H,4-6,9-10,13-15H2,1-3H3,(H,25,30)(H,26,29)/t21-/m1/s1",
+    "InChl_Key": "SBSWAMIRZGWCCQ-OAQYLSRUSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1cn(CC2CCCCC2)c2ccccc12)C(=O)NCCO",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11539",
+    "validation": "m_weight unsave, calculated(413.5620000000003)"
+}

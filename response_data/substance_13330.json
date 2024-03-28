@@ -1,0 +1,13 @@
+{
+    "names": "AFUB7AICA",
+    "iupac_name": "N-(Adamantan-1-yl)-1-[(4-fluorophenyl)methyl]-1H-pyrrolo[2,3-b]pyridine-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 13330,
+    "formular": "C25H26FN3O",
+    "molecular_weight": 403.492,
+    "inChl": "1S/C25H26FN3O/c26-20-5-3-16(4-6-20)14-29-15-22(21-2-1-7-27-23(21)29)24(30)28-25-11-17-8-18(12-25)10-19(9-17)13-25/h1-7,15,17-19H,8-14H2,(H,28,30)",
+    "InChl_Key": "LSNKFKFKEUNOLD-UHFFFAOYSA-N",
+    "SMILES": "O=C(NC12CC3CC(CC(C3)C1)C2)c1cn(Cc2ccc(F)cc2)c2ncccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13330",
+    "validation": "m_weight unsave, calculated(403.50100000000026)"
+}

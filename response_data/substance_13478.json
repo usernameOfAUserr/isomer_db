@@ -1,0 +1,13 @@
+{
+    "names": "1-[2,5-Dimethoxy-4-(4,4,4-trifluorobutyl)phenyl]butan-2-amine",
+    "iupac_name": "13478 ; C16H24F3NO2 ; 319.362",
+    "category": "data not stored",
+    "index": 13478,
+    "formular": "C16H24F3NO2",
+    "molecular_weight": 319.362,
+    "inChl": "1S/C16H24F3NO2/c1-4-13(20)8-12-10-14(21-2)11(9-15(12)22-3)6-5-7-16(17,18)19/h9-10,13H,4-8,20H2,1-3H3",
+    "InChl_Key": "KNKXDQWIENAXNZ-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)Cc1cc(OC)c(CCCC(F)(F)F)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13478",
+    "validation": "m_weight unsave, calculated(319.36699999999996)"
+}

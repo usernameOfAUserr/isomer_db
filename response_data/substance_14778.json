@@ -1,0 +1,13 @@
+{
+    "names": "3-[2-(Dimethylamino)ethyl]-1H-indol-4-yl 2,2,2-trichloroethyl carbonate",
+    "iupac_name": "14778 ; C15H17Cl3N2O3 ; 379.666",
+    "category": "Tryptamine",
+    "index": 14778,
+    "formular": "C15H17Cl3N2O3",
+    "molecular_weight": 379.666,
+    "inChl": "1S/C15H17Cl3N2O3/c1-20(2)7-6-10-8-19-11-4-3-5-12(13(10)11)23-14(21)22-9-15(16,17)18/h3-5,8,19H,6-7,9H2,1-2H3",
+    "InChl_Key": "TXMLHXGPYHZFHE-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2cccc(OC(=O)OCC(Cl)(Cl)Cl)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14778",
+    "validation": "m_weight unsave, calculated(379.671)"
+}

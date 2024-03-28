@@ -1,0 +1,13 @@
+{
+    "names": "N-Allyl-PCM ; N-Allyl-N-methyl-PCA",
+    "iupac_name": "N-Methyl-1-phenyl-N-(prop-2-en-1-yl)cyclohexan-1-amine",
+    "category": "Arylcycloalkylamine",
+    "index": 2818,
+    "formular": "C16H23N",
+    "molecular_weight": 229.361,
+    "inChl": "1S/C16H23N/c1-3-14-17(2)16(12-8-5-9-13-16)15-10-6-4-7-11-15/h3-4,6-7,10-11H,1,5,8-9,12-14H2,2H3",
+    "InChl_Key": "OACOKDOAVXIOFK-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(C)C1(c2ccccc2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2818",
+    "validation": "m_weight unsave, calculated(229.36700000000002)"
+}

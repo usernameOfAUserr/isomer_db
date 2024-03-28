@@ -1,0 +1,13 @@
+{
+    "names": "5,8-Dimethoxy-6-methyl-3,4-dihydronaphthalen-1(2H)-one",
+    "iupac_name": "1849 ; C13H16O3 ; 220.264",
+    "category": "data not stored",
+    "index": 1849,
+    "formular": "C13H16O3",
+    "molecular_weight": 220.264,
+    "inChl": "1S/C13H16O3/c1-8-7-11(15-2)12-9(13(8)16-3)5-4-6-10(12)14/h7H,4-6H2,1-3H3",
+    "InChl_Key": "ITVWKIHUPYUEDM-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C)c(OC)c2c1C(=O)CCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1849",
+    "validation": "m_weight unsave, calculated(220.26799999999992)"
+}

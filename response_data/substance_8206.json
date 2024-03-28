@@ -1,0 +1,13 @@
+{
+    "names": "GL-ii-75",
+    "iupac_name": "(4R)-N-Cyclopropyl-8-ethynyl-6-(2-fluorophenyl)-4-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxamide",
+    "category": "Aryldiazepine",
+    "index": 8206,
+    "formular": "C24H19FN4O",
+    "molecular_weight": 398.432,
+    "inChl": "1S/C24H19FN4O/c1-3-15-8-11-20-18(12-15)21(17-6-4-5-7-19(17)25)27-14(2)23-22(26-13-29(20)23)24(30)28-16-9-10-16/h1,4-8,11-14,16H,9-10H2,2H3,(H,28,30)/t14-/m1/s1",
+    "InChl_Key": "YLZWVRAOJGXWTI-CQSZACIVSA-N",
+    "SMILES": "C#Cc1ccc2c(c1)C(c1ccccc1F)=N[C@H](C)c1c(C(=O)NC3CC3)ncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8206",
+    "validation": "m_weight unsave, calculated(398.4410000000002)"
+}

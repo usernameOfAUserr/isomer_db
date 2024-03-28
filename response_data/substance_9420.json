@@ -1,0 +1,13 @@
+{
+    "names": "Fluphenazine",
+    "iupac_name": "2-(4-{3-[2-(Trifluoromethyl)-10H-phenothiazin-10-yl]propyl}piperazin-1-yl)ethan-1-ol",
+    "category": "data not stored",
+    "index": 9420,
+    "formular": "C22H26F3N3OS",
+    "molecular_weight": 437.522,
+    "inChl": "1S/C22H26F3N3OS/c23-22(24,25)17-6-7-21-19(16-17)28(18-4-1-2-5-20(18)30-21)9-3-8-26-10-12-27(13-11-26)14-15-29/h1-2,4-7,16,29H,3,8-15H2",
+    "InChl_Key": "PLDUPXSUYLZYBN-UHFFFAOYSA-N",
+    "SMILES": "OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9420",
+    "validation": "m_weight unsave, calculated(437.53100000000006)"
+}

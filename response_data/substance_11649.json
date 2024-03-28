@@ -1,0 +1,13 @@
+{
+    "names": "SGT-252",
+    "iupac_name": "Methyl N-[1-(5-fluoropentyl)-1H-indazole-3-carbonyl]-2-methylalaninate ; Methyl 2-{[1-(5-fluoropentyl)-1H-indazole-3-carbonyl]amino}-2-methylpropanoate",
+    "category": "cannabinodids",
+    "index": 11649,
+    "formular": "C18H24FN3O3",
+    "molecular_weight": 349.4,
+    "inChl": "1S/C18H24FN3O3/c1-18(2,17(24)25-3)20-16(23)15-13-9-5-6-10-14(13)22(21-15)12-8-4-7-11-19/h5-6,9-10H,4,7-8,11-12H2,1-3H3,(H,20,23)",
+    "InChl_Key": "AKSZTDMXHCIMJT-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(C)(C)NC(=O)c1nn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11649",
+    "validation": "m_weight unsave, calculated(349.4060000000002)"
+}

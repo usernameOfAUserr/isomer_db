@@ -1,0 +1,13 @@
+{
+    "names": "PAL-287 ; Naphthylaminopropane ; NAP",
+    "iupac_name": "1-(Naphthalen-2-yl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 2353,
+    "formular": "C13H15N",
+    "molecular_weight": 185.265,
+    "inChl": "1S/C13H15N/c1-10(14)8-11-6-7-12-4-2-3-5-13(12)9-11/h2-7,9-10H,8,14H2,1H3",
+    "InChl_Key": "UPQSZFKXKRKCGZ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc2ccccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2353",
+    "validation": "m_weight unsave, calculated(185.26999999999998)"
+}

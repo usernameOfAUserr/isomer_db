@@ -1,0 +1,13 @@
+{
+    "names": "4-HOOC-A-NBOH ; N-(2-Hydroxybenzyl)-4-carboxyamphetamine",
+    "iupac_name": "4-(2-{[(2-Hydroxyphenyl)methyl]amino}propyl)benzoic acid",
+    "category": "data not stored",
+    "index": 9610,
+    "formular": "C17H19NO3",
+    "molecular_weight": 285.338,
+    "inChl": "1S/C17H19NO3/c1-12(18-11-15-4-2-3-5-16(15)19)10-13-6-8-14(9-7-13)17(20)21/h2-9,12,18-19H,10-11H2,1H3,(H,20,21)",
+    "InChl_Key": "UEAHVDOILIGEAF-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccc(C(=O)O)cc1)NCc1ccccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9610",
+    "validation": "m_weight unsave, calculated(285.343)"
+}

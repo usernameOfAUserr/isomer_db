@@ -1,0 +1,13 @@
+{
+    "names": "2,5-HO-4-CNPEA ; 4-Cyano-2,5-dihydroxyphenethylamine",
+    "iupac_name": "4-(2-Aminoethyl)-2,5-dihydroxybenzonitrile",
+    "category": "data not stored",
+    "index": 1459,
+    "formular": "C9H10N2O2",
+    "molecular_weight": 178.188,
+    "inChl": "1S/C9H10N2O2/c10-2-1-6-3-9(13)7(5-11)4-8(6)12/h3-4,12-13H,1-2,10H2",
+    "InChl_Key": "FDUICKXFJBJSNA-UHFFFAOYSA-N",
+    "SMILES": "N#Cc1cc(O)c(CCN)cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1459",
+    "validation": "m_weight unsave, calculated(178.19099999999997)"
+}

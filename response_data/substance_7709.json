@@ -1,0 +1,13 @@
+{
+    "names": "N-Me-Lophophine ; N-Methyl-3-methoxy-4,5-methylenedioxyphenethylamine",
+    "iupac_name": "2-(7-Methoxy-2H-1,3-benzodioxol-5-yl)-N-methylethan-1-amine ; 2-(7-Methoxy-1,3-benzodioxol-5-yl)-N-methylethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7709,
+    "formular": "C11H15NO3",
+    "molecular_weight": 209.242,
+    "inChl": "1S/C11H15NO3/c1-12-4-3-8-5-9(13-2)11-10(6-8)14-7-15-11/h5-6,12H,3-4,7H2,1-2H3",
+    "InChl_Key": "JVGQKQKTNOACAO-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1cc(OC)c2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7709",
+    "validation": "m_weight unsave, calculated(209.24499999999995)"
+}

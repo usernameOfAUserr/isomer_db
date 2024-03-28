@@ -1,0 +1,13 @@
+{
+    "names": "2-TFMMC ; 2-Trifluoromethylmethcathinone ; 2-CF3-MethCath ; 2-TFMAP",
+    "iupac_name": "2-(Methylamino)-1-[2-(trifluoromethyl)phenyl]propan-1-one",
+    "category": "data not stored",
+    "index": 2437,
+    "formular": "C11H12F3NO",
+    "molecular_weight": 231.214,
+    "inChl": "1S/C11H12F3NO/c1-7(15-2)10(16)8-5-3-4-6-9(8)11(12,13)14/h3-7,15H,1-2H3",
+    "InChl_Key": "RUIYKSXVTSYEDC-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(=O)c1ccccc1C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2437",
+    "validation": "m_weight unsave, calculated(231.21699999999993)"
+}

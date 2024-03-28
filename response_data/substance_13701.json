@@ -1,0 +1,13 @@
+{
+    "names": "4-Cl-2,5-DMBAL",
+    "iupac_name": "4-Chloro-2,5-dimethoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 13701,
+    "formular": "C9H9ClO3",
+    "molecular_weight": 200.619,
+    "inChl": "1S/C9H9ClO3/c1-12-8-4-7(10)9(13-2)3-6(8)5-11/h3-5H,1-2H3",
+    "InChl_Key": "VWSPFJJLIGAHLK-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C=O)c(OC)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13701",
+    "validation": "m_weight unsave, calculated(200.62099999999998)"
+}

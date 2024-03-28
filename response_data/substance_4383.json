@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-MPH ; 4-Hydroxymethylphenidate",
+    "iupac_name": "Methyl (4-hydroxyphenyl)(piperidin-2-yl)acetate",
+    "category": "data not stored",
+    "index": 4383,
+    "formular": "C14H19NO3",
+    "molecular_weight": 249.306,
+    "inChl": "1S/C14H19NO3/c1-18-14(17)13(12-4-2-3-9-15-12)10-5-7-11(16)8-6-10/h5-8,12-13,15-16H,2-4,9H2,1H3",
+    "InChl_Key": "XVXFNANJMMTNSO-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(c1ccc(O)cc1)C1CCCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4383",
+    "validation": "m_weight unsave, calculated(249.30999999999997)"
+}

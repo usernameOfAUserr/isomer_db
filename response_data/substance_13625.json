@@ -1,0 +1,13 @@
+{
+    "names": "7-Fluoro-5-MeO-N-(but-3-en-2-yl)-NMT ; 7-Fluoro-5-methoxy-N-(but-3-en-2-yl)-N-methyltryptamine",
+    "iupac_name": "N-[2-(7-Fluoro-5-methoxy-1H-indol-3-yl)ethyl]-N-methylbut-3-en-2-amine",
+    "category": "Tryptamine",
+    "index": 13625,
+    "formular": "C16H21FN2O",
+    "molecular_weight": 276.349,
+    "inChl": "1S/C16H21FN2O/c1-5-11(2)19(3)7-6-12-10-18-16-14(12)8-13(20-4)9-15(16)17/h5,8-11,18H,1,6-7H2,2-4H3",
+    "InChl_Key": "RRZQRSKFLSLSRG-UHFFFAOYSA-N",
+    "SMILES": "C=CC(C)N(C)CCc1c[nH]c2c(F)cc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13625",
+    "validation": "m_weight unsave, calculated(276.355)"
+}

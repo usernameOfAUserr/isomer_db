@@ -1,0 +1,13 @@
+{
+    "names": "4-OMePP-HFBA",
+    "iupac_name": "2,2,3,3,4,4,4-Heptafluoro-1-[4-(4-methoxyphenyl)piperazin-1-yl]butan-1-one",
+    "category": "data not stored",
+    "index": 8875,
+    "formular": "C15H15F7N2O2",
+    "molecular_weight": 388.281,
+    "inChl": "1S/C15H15F7N2O2/c1-26-11-4-2-10(3-5-11)23-6-8-24(9-7-23)12(25)13(16,17)14(18,19)15(20,21)22/h2-5H,6-9H2,1H3",
+    "InChl_Key": "AWXLYNQWVBXZEG-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(N2CCN(C(=O)C(F)(F)C(F)(F)C(F)(F)F)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8875",
+    "validation": "m_weight unsave, calculated(388.28299999999984)"
+}

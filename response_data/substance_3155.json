@@ -1,0 +1,13 @@
+{
+    "names": "N-Benzylfentanyl ; Benzylfentanyl ; R-4129",
+    "iupac_name": "N-(1-Benzylpiperidin-4-yl)-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 3155,
+    "formular": "C21H26N2O",
+    "molecular_weight": 322.444,
+    "inChl": "1S/C21H26N2O/c1-2-21(24)23(19-11-7-4-8-12-19)20-13-15-22(16-14-20)17-18-9-5-3-6-10-18/h3-12,20H,2,13-17H2,1H3",
+    "InChl_Key": "POQDXIFVWVZVML-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1CCN(Cc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3155",
+    "validation": "m_weight unsave, calculated(322.45199999999994)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-Methoxy-4,5-bis(trifluoromethoxy)phenethylamine",
+    "iupac_name": "2-[3-Methoxy-4,5-bis(trifluoromethoxy)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10284,
+    "formular": "C11H11F6NO3",
+    "molecular_weight": 319.2,
+    "inChl": "1S/C11H11F6NO3/c1-19-7-4-6(2-3-18)5-8(20-10(12,13)14)9(7)21-11(15,16)17/h4-5H,2-3,18H2,1H3",
+    "InChl_Key": "HMESCDIUCYDEIH-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(OC(F)(F)F)c1OC(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10284",
+    "validation": ""
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Methoxyacetylfentanyl ; Methoxyacetyl-F",
+    "iupac_name": "2-Methoxy-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide",
+    "category": "Fentanyl",
+    "index": 3069,
+    "formular": "C22H28N2O2",
+    "molecular_weight": 352.47,
+    "inChl": "1S/C22H28N2O2/c1-26-18-22(25)24(20-10-6-3-7-11-20)21-13-16-23(17-14-21)15-12-19-8-4-2-5-9-19/h2-11,21H,12-18H2,1H3",
+    "InChl_Key": "SADNVKRDSWWFTK-UHFFFAOYSA-N",
+    "SMILES": "COCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3069",
+    "validation": "m_weight unsave, calculated(352.47800000000007)"
+}

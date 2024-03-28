@@ -1,0 +1,13 @@
+{
+    "names": "Methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(2-ethynylfuran-3-yl)-6a,10b-dimethyl-4,10-dioxododecahydro-2H-naphtho[2,1-c]pyran-7-carboxylate",
+    "iupac_name": "3541 ; C25H28O8 ; 456.485",
+    "category": "data not stored",
+    "index": 3541,
+    "formular": "C25H28O8",
+    "molecular_weight": 456.485,
+    "inChl": "1S/C25H28O8/c1-6-17-14(8-10-31-17)19-12-25(4)15(23(29)33-19)7-9-24(3)16(22(28)30-5)11-18(32-13(2)26)20(27)21(24)25/h1,8,10,15-16,18-19,21H,7,9,11-12H2,2-5H3/t15-,16-,18-,19-,21-,24-,25-/m0/s1",
+    "InChl_Key": "UQCYTCPLHRBBEH-OKIGDJELSA-N",
+    "SMILES": "C#Cc1occc1[C@@H]1C[C@]2(C)[C@H]3C(=O)[C@@H](OC(C)=O)C[C@@H](C(=O)OC)[C@]3(C)CC[C@H]2C(=O)O1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3541",
+    "validation": "m_weight unsave, calculated(456.4910000000002)"
+}

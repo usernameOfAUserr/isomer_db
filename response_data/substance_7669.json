@@ -1,0 +1,13 @@
+{
+    "names": "Nicomorphine ; 3,6-Dinicotinoylmorphine",
+    "iupac_name": "17-Methyl-7,8-didehydro-4,5\u03b1-epoxymorphinan-3,6\u03b1-diyl dipyridine-3-carboxylate ; (4R,4aR,7S,7aR,12bS)-3-Methyl-2,3,4,4a,7,7a-hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinoline-7,9-diyl dipyridine-3-carboxylate ; (5\u03b1,6\u03b1)-17-Methyl-7,8-didehydro-4,5-epoxymorphinan-3,6-diyl dipyridine-3-carboxylate",
+    "category": "data not stored",
+    "index": 7669,
+    "formular": "C29H25N3O5",
+    "molecular_weight": 495.526,
+    "inChl": "1S/C29H25N3O5/c1-32-13-10-29-20-7-9-23(36-28(34)19-5-3-12-31-16-19)26(29)37-25-22(8-6-17(24(25)29)14-21(20)32)35-27(33)18-4-2-11-30-15-18/h2-9,11-12,15-16,20-21,23,26H,10,13-14H2,1H3/t20-,21+,23-,26-,29-/m0/s1",
+    "InChl_Key": "HNDXBGYRMHRUFN-CIVUWBIHSA-N",
+    "SMILES": "CN1CC[C@]23c4c5ccc(OC(=O)c6cccnc6)c4O[C@H]2[C@@H](OC(=O)c2cccnc2)C=C[C@H]3[C@H]1C5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7669",
+    "validation": "m_weight unsave, calculated(495.5350000000003)"
+}

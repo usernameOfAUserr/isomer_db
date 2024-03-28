@@ -1,0 +1,13 @@
+{
+    "names": "4-(1-Hexylcyclopentyl)-3\u2032,5\u2032-dimethyl[1,1\u2032-biphenyl]-2-ol",
+    "iupac_name": "4994 ; C25H34O ; 350.537",
+    "category": "cannabinodids",
+    "index": 4994,
+    "formular": "C25H34O",
+    "molecular_weight": 350.537,
+    "inChl": "1S/C25H34O/c1-4-5-6-7-12-25(13-8-9-14-25)22-10-11-23(24(26)18-22)21-16-19(2)15-20(3)17-21/h10-11,15-18,26H,4-9,12-14H2,1-3H3",
+    "InChl_Key": "BPDUKOOBZHBPTD-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCC1(c2ccc(-c3cc(C)cc(C)c3)c(O)c2)CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4994",
+    "validation": "m_weight unsave, calculated(350.5460000000001)"
+}

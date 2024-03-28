@@ -1,0 +1,13 @@
+{
+    "names": "(piperidine/thio) Etodesnitazene",
+    "iupac_name": "2-[(4-Ethoxyphenyl)sulfanyl]-1-[2-(piperidin-1-yl)ethyl]-1H-benzimidazole",
+    "category": "data not stored",
+    "index": 11369,
+    "formular": "C22H27N3OS",
+    "molecular_weight": 381.534,
+    "inChl": "1S/C22H27N3OS/c1-2-26-18-10-12-19(13-11-18)27-22-23-20-8-4-5-9-21(20)25(22)17-16-24-14-6-3-7-15-24/h4-5,8-13H,2-3,6-7,14-17H2,1H3",
+    "InChl_Key": "WRBJMWUKYHOUAH-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(Sc2nc3ccccc3n2CCN2CCCCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11369",
+    "validation": "m_weight unsave, calculated(381.5450000000002)"
+}

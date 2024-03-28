@@ -1,0 +1,13 @@
+{
+    "names": "Mefenorex ; N-(3-Chloropropyl)amphetamine ; N-ClPr-A",
+    "iupac_name": "3-Chloro-N-(1-phenylpropan-2-yl)propan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10696,
+    "formular": "C12H18ClN",
+    "molecular_weight": 211.731,
+    "inChl": "1S/C12H18ClN/c1-11(14-9-5-8-13)10-12-6-3-2-4-7-12/h2-4,6-7,11,14H,5,8-10H2,1H3",
+    "InChl_Key": "XXVROGAVTTXONC-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NCCCCl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10696",
+    "validation": "m_weight unsave, calculated(211.73600000000002)"
+}

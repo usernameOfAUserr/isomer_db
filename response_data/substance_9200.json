@@ -1,0 +1,13 @@
+{
+    "names": "R-1133",
+    "iupac_name": "Ethyl 1-(2-methyl-3-oxo-3-phenylpropyl)-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 9200,
+    "formular": "C24H29NO3",
+    "molecular_weight": 379.492,
+    "inChl": "1S/C24H29NO3/c1-3-28-23(27)24(21-12-8-5-9-13-21)14-16-25(17-15-24)18-19(2)22(26)20-10-6-4-7-11-20/h4-13,19H,3,14-18H2,1-2H3",
+    "InChl_Key": "DOPQPMOGMHRKBN-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CC(C)C(=O)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9200",
+    "validation": "m_weight unsave, calculated(379.50000000000006)"
+}

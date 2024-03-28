@@ -1,0 +1,13 @@
+{
+    "names": "SH-i-75",
+    "iupac_name": "Methyl (4R)-8-ethynyl-4-methyl-6-phenyl-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 8256,
+    "formular": "C22H17N3O2",
+    "molecular_weight": 355.389,
+    "inChl": "1S/C22H17N3O2/c1-4-15-10-11-18-17(12-15)19(16-8-6-5-7-9-16)24-14(2)21-20(22(26)27-3)23-13-25(18)21/h1,5-14H,2-3H3/t14-/m1/s1",
+    "InChl_Key": "RCHBPRJUWAGXLI-CQSZACIVSA-N",
+    "SMILES": "C#Cc1ccc2c(c1)C(c1ccccc1)=N[C@H](C)c1c(C(=O)OC)ncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8256",
+    "validation": "m_weight unsave, calculated(355.3970000000001)"
+}

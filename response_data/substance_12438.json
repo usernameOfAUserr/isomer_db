@@ -1,0 +1,13 @@
+{
+    "names": "Phenmetrazol",
+    "iupac_name": "3,4-Dimethyl-2-phenylmorpholin-2-ol",
+    "category": "data not stored",
+    "index": 12438,
+    "formular": "C12H17NO2",
+    "molecular_weight": 207.269,
+    "inChl": "1S/C12H17NO2/c1-10-12(14,15-9-8-13(10)2)11-6-4-3-5-7-11/h3-7,10,14H,8-9H2,1-2H3",
+    "InChl_Key": "RQSXOILZKDHRSN-UHFFFAOYSA-N",
+    "SMILES": "CC1N(C)CCOC1(O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12438",
+    "validation": "m_weight unsave, calculated(207.27300000000002)"
+}

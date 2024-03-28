@@ -1,0 +1,13 @@
+{
+    "names": "Lophocine",
+    "iupac_name": "5,11-Dimethoxy-1,7-dimethyl-6a,12a-bis(2-methylpropyl)-1,2,3,6a,7,8,9,12a-octahydro-6,12-dioxa-1,7-diazanaphtho[7,8,1,2,3-nopqr]tetraphene",
+    "category": "data not stored",
+    "index": 12676,
+    "formular": "C30H40N2O4",
+    "molecular_weight": 492.65,
+    "inChl": "1S/C30H40N2O4/c1-17(2)15-29-25-19(9-11-31(29)5)13-22(34-8)28-23(25)24-26-20(14-21(33-7)27(24)35-29)10-12-32(6)30(26,36-28)16-18(3)4/h13-14,17-18H,9-12,15-16H2,1-8H3",
+    "InChl_Key": "IGAMYKIUAQKBTA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c3c4c1OC1(CC(C)C)c5c(cc(OC)c(c5-4)OC3(CC(C)C)N(C)CC2)CCN1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12676",
+    "validation": "m_weight unsave, calculated(492.6600000000004)"
+}

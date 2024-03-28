@@ -1,0 +1,13 @@
+{
+    "names": "3-{4-[4-(4-Fluorophenyl)-3,6-dihydropyridin-1(2H)-yl]butan-2-yl}quinazoline-2,4(1H,3H)-dione",
+    "iupac_name": "6701 ; C23H24FN3O2 ; 393.454",
+    "category": "data not stored",
+    "index": 6701,
+    "formular": "C23H24FN3O2",
+    "molecular_weight": 393.454,
+    "inChl": "1S/C23H24FN3O2/c1-16(27-22(28)20-4-2-3-5-21(20)25-23(27)29)10-13-26-14-11-18(12-15-26)17-6-8-19(24)9-7-17/h2-9,11,16H,10,12-15H2,1H3,(H,25,29)",
+    "InChl_Key": "GIJQXNJGUZJXPM-UHFFFAOYSA-N",
+    "SMILES": "CC(CCN1CC=C(c2ccc(F)cc2)CC1)n1c(=O)[nH]c2ccccc2c1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6701",
+    "validation": "m_weight unsave, calculated(393.46200000000005)"
+}

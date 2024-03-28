@@ -1,0 +1,13 @@
+{
+    "names": "N-iPr-2-AT ; N-Isopropyl-2-aminotetralin",
+    "iupac_name": "N-(Propan-2-yl)-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "category": "data not stored",
+    "index": 1320,
+    "formular": "C13H19N",
+    "molecular_weight": 189.297,
+    "inChl": "1S/C13H19N/c1-10(2)14-13-8-7-11-5-3-4-6-12(11)9-13/h3-6,10,13-14H,7-9H2,1-2H3",
+    "InChl_Key": "NVVRCZVFMOXSDF-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NC1CCc2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1320",
+    "validation": "m_weight unsave, calculated(189.30200000000002)"
+}

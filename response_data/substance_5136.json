@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-MTBT ; 4-Hydroxy-N-methyl-N-tert-butyltryptamine",
+    "iupac_name": "3-{2-[tert-Butyl(methyl)amino]ethyl}-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 5136,
+    "formular": "C15H22N2O",
+    "molecular_weight": 246.348,
+    "inChl": "1S/C15H22N2O/c1-15(2,3)17(4)9-8-11-10-16-12-6-5-7-13(18)14(11)12/h5-7,10,16,18H,8-9H2,1-4H3",
+    "InChl_Key": "PQNAQCLDOHGEBS-UHFFFAOYSA-N",
+    "SMILES": "CN(CCc1c[nH]c2cccc(O)c12)C(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5136",
+    "validation": "m_weight unsave, calculated(246.354)"
+}

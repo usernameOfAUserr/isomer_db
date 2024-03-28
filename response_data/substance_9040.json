@@ -1,0 +1,13 @@
+{
+    "names": "MDEA-PFPA",
+    "iupac_name": "N-[1-(2H-1,3-Benzodioxol-5-yl)propan-2-yl]-N-ethyl-2,2,3,3,3-pentafluoropropanamide",
+    "category": "data not stored",
+    "index": 9040,
+    "formular": "C15H16F5NO3",
+    "molecular_weight": 353.284,
+    "inChl": "1S/C15H16F5NO3/c1-3-21(13(22)14(16,17)15(18,19)20)9(2)6-10-4-5-11-12(7-10)24-8-23-11/h4-5,7,9H,3,6,8H2,1-2H3",
+    "InChl_Key": "VXAYIICKWCMGCY-UHFFFAOYSA-N",
+    "SMILES": "CCN(C(=O)C(F)(F)C(F)(F)F)C(C)Cc1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9040",
+    "validation": "m_weight unsave, calculated(353.2870000000001)"
+}

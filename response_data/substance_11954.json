@@ -1,0 +1,13 @@
+{
+    "names": "11-Br-7OH ; 11-Bromo-7-hydroxymitragynine",
+    "iupac_name": "Methyl (7\u03b1,16E,20\u03b2)-11-bromo-7-hydroxy-9-methoxy-16-(methoxymethylidene)-1,2-didehydro-2,7-dihydrocorynan-17-oate ; Methyl (2E)-2-[(2S,3S,7aS,12bS)-10-bromo-3-ethyl-7a-hydroxy-8-methoxy-1,2,3,4,6,7,7a,12b-octahydroindolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-enoate",
+    "category": "data not stored",
+    "index": 11954,
+    "formular": "C23H29BrN2O5",
+    "molecular_weight": 493.391,
+    "inChl": "1S/C23H29BrN2O5/c1-5-13-11-26-7-6-23(28)20-17(8-14(24)9-19(20)30-3)25-21(23)18(26)10-15(13)16(12-29-2)22(27)31-4/h8-9,12-13,15,18,28H,5-7,10-11H2,1-4H3/b16-12+/t13-,15+,18+,23+/m1/s1",
+    "InChl_Key": "MVBDBOFMTGZTDV-JXAPQHGHSA-N",
+    "SMILES": "CC[C@@H]1CN2CC[C@@]3(O)C(=Nc4cc(Br)cc(OC)c43)[C@@H]2C[C@@H]1/C(=C\\OC)C(=O)OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11954",
+    "validation": "m_weight unsave, calculated(493.3980000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "(3,4-Dimethoxyphenyl)(hydroxy)acetonitrile",
+    "iupac_name": "14177 ; C10H11NO3 ; 193.199",
+    "category": "data not stored",
+    "index": 14177,
+    "formular": "C10H11NO3",
+    "molecular_weight": 193.199,
+    "inChl": "1S/C10H11NO3/c1-13-9-4-3-7(8(12)6-11)5-10(9)14-2/h3-5,8,12H,1-2H3",
+    "InChl_Key": "SFIAWXDEIAXFOS-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C(O)C#N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14177",
+    "validation": "m_weight unsave, calculated(193.20199999999997)"
+}

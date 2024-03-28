@@ -1,0 +1,13 @@
+{
+    "names": "1-(2H-1,3-Benzodioxol-5-yl)-2-(piperidin-1-yl)butan-1-one ; 1-(1,3-Benzodioxol-5-yl)-2-(piperidin-1-yl)butan-1-one",
+    "iupac_name": "2564 ; C16H21NO3 ; 275.343",
+    "category": "data not stored",
+    "index": 2564,
+    "formular": "C16H21NO3",
+    "molecular_weight": 275.343,
+    "inChl": "1S/C16H21NO3/c1-2-13(17-8-4-3-5-9-17)16(18)12-6-7-14-15(10-12)20-11-19-14/h6-7,10,13H,2-5,8-9,11H2,1H3",
+    "InChl_Key": "ABVTYXARUMITSW-UHFFFAOYSA-N",
+    "SMILES": "CCC(C(=O)c1ccc2c(c1)OCO2)N1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2564",
+    "validation": "m_weight unsave, calculated(275.348)"
+}

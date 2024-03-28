@@ -1,0 +1,13 @@
+{
+    "names": "Haloperidol propionate",
+    "iupac_name": "4-(4-Chlorophenyl)-1-[4-(4-fluorophenyl)-4-oxobutyl]piperidin-4-yl propanoate",
+    "category": "data not stored",
+    "index": 3217,
+    "formular": "C24H27ClFNO3",
+    "molecular_weight": 431.927,
+    "inChl": "1S/C24H27ClFNO3/c1-2-23(29)30-24(19-7-9-20(25)10-8-19)13-16-27(17-14-24)15-3-4-22(28)18-5-11-21(26)12-6-18/h5-12H,2-4,13-17H2,1H3",
+    "InChl_Key": "RXLUSIRPKRSPGO-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)OC1(c2ccc(Cl)cc2)CCN(CCCC(=O)c2ccc(F)cc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3217",
+    "validation": "m_weight unsave, calculated(431.93500000000006)"
+}

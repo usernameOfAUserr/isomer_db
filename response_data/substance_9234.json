@@ -1,0 +1,13 @@
+{
+    "names": "1-Ethyl-4-[(2-fluorophenyl)methyl]piperidin-4-ol",
+    "iupac_name": "9234 ; C14H20FNO ; 237.313",
+    "category": "data not stored",
+    "index": 9234,
+    "formular": "C14H20FNO",
+    "molecular_weight": 237.313,
+    "inChl": "1S/C14H20FNO/c1-2-16-9-7-14(17,8-10-16)11-12-5-3-4-6-13(12)15/h3-6,17H,2,7-11H2,1H3",
+    "InChl_Key": "ZFSGEZOGPZQRNW-UHFFFAOYSA-N",
+    "SMILES": "CCN1CCC(O)(Cc2ccccc2F)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9234",
+    "validation": "m_weight unsave, calculated(237.31799999999998)"
+}

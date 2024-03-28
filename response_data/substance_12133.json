@@ -1,0 +1,13 @@
+{
+    "names": "1-[4-(Trifluoromethyl)pyridin-2-yl]piperazine",
+    "iupac_name": "12133 ; C10H12F3N3 ; 231.218",
+    "category": "Phenetylamine",
+    "index": 12133,
+    "formular": "C10H12F3N3",
+    "molecular_weight": 231.218,
+    "inChl": "1S/C10H12F3N3/c11-10(12,13)8-1-2-15-9(7-8)16-5-3-14-4-6-16/h1-2,7,14H,3-6H2",
+    "InChl_Key": "GRKRSFCFKGOSNB-UHFFFAOYSA-N",
+    "SMILES": "FC(F)(F)c1ccnc(N2CCNCC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12133",
+    "validation": "m_weight unsave, calculated(231.22099999999995)"
+}

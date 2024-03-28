@@ -1,0 +1,13 @@
+{
+    "names": "3-Cl-4-HPEA ; 3-Chloro-4-hydroxyphenethylamine",
+    "iupac_name": "4-(2-Aminoethyl)-2-chlorophenol",
+    "category": "Shulgin_Index",
+    "index": 6506,
+    "formular": "C8H10ClNO",
+    "molecular_weight": 171.624,
+    "inChl": "1S/C8H10ClNO/c9-7-5-6(3-4-10)1-2-8(7)11/h1-2,5,11H,3-4,10H2",
+    "InChl_Key": "VATRCWZBGYJZOX-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ccc(O)c(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6506",
+    "validation": "m_weight unsave, calculated(171.62699999999995)"
+}

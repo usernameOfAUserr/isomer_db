@@ -1,0 +1,13 @@
+{
+    "names": "R-1830",
+    "iupac_name": "Methyl 1-[4-(4-fluorophenyl)-4-oxobutyl]-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 9177,
+    "formular": "C23H26FNO3",
+    "molecular_weight": 383.456,
+    "inChl": "1S/C23H26FNO3/c1-28-22(27)23(19-6-3-2-4-7-19)13-16-25(17-14-23)15-5-8-21(26)18-9-11-20(24)12-10-18/h2-4,6-7,9-12H,5,8,13-17H2,1H3",
+    "InChl_Key": "KWGBHCKWZCKFLB-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C1(c2ccccc2)CCN(CCCC(=O)c2ccc(F)cc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9177",
+    "validation": "m_weight unsave, calculated(383.463)"
+}

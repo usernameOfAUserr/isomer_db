@@ -1,0 +1,13 @@
+{
+    "names": "3-Chloro-10-methyl-5,6,7,8,9,10-hexahydropyrido[3\u2032,2\u2032:4,5]pyrrolo[2,3-d]azepine",
+    "iupac_name": "13000 ; C12H14ClN3 ; 235.713",
+    "category": "data not stored",
+    "index": 13000,
+    "formular": "C12H14ClN3",
+    "molecular_weight": 235.713,
+    "inChl": "1S/C12H14ClN3/c1-16-11-3-5-14-4-2-9(11)10-6-8(13)7-15-12(10)16/h6-7,14H,2-5H2,1H3",
+    "InChl_Key": "PJQPMUFHYFLAGW-UHFFFAOYSA-N",
+    "SMILES": "Cn1c2c(c3cc(Cl)cnc31)CCNCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13000",
+    "validation": "m_weight unsave, calculated(235.71799999999993)"
+}

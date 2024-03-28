@@ -1,0 +1,13 @@
+{
+    "names": "pentenyl-CP 47,497",
+    "iupac_name": "2-[(1S,3R)-3-Hydroxycyclohexyl]-5-(pent-4-en-1-yl)phenol",
+    "category": "cannabinodids",
+    "index": 4745,
+    "formular": "C17H24O2",
+    "molecular_weight": 260.371,
+    "inChl": "1S/C17H24O2/c1-2-3-4-6-13-9-10-16(17(19)11-13)14-7-5-8-15(18)12-14/h2,9-11,14-15,18-19H,1,3-8,12H2/t14-,15+/m0/s1",
+    "InChl_Key": "KNVODYUGDCAIKT-LSDHHAIUSA-N",
+    "SMILES": "C=CCCCc1ccc([C@H]2CCC[C@@H](O)C2)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4745",
+    "validation": "m_weight unsave, calculated(260.37699999999995)"
+}

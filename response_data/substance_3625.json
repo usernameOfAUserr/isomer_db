@@ -1,0 +1,13 @@
+{
+    "names": "2-Methyl-6,7-ADTN ; 6,7-Dihydroxy-2-methyl-2-aminotetralin",
+    "iupac_name": "6-Amino-6-methyl-5,6,7,8-tetrahydronaphthalene-2,3-diol",
+    "category": "data not stored",
+    "index": 3625,
+    "formular": "C11H15NO2",
+    "molecular_weight": 193.242,
+    "inChl": "1S/C11H15NO2/c1-11(12)3-2-7-4-9(13)10(14)5-8(7)6-11/h4-5,13-14H,2-3,6,12H2,1H3",
+    "InChl_Key": "SCGLDRJDTNNLIA-UHFFFAOYSA-N",
+    "SMILES": "CC1(N)CCc2cc(O)c(O)cc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3625",
+    "validation": "m_weight unsave, calculated(193.246)"
+}

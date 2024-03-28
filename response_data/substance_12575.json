@@ -1,0 +1,13 @@
+{
+    "names": "2-(4-Methoxyphenyl)-DET ; 2-(4-Methoxyphenyl)-N,N-diethyltryptamine",
+    "iupac_name": "N,N-Diethyl-2-[2-(4-methoxyphenyl)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 12575,
+    "formular": "C21H26N2O",
+    "molecular_weight": 322.444,
+    "inChl": "1S/C21H26N2O/c1-4-23(5-2)15-14-19-18-8-6-7-9-20(18)22-21(19)16-10-12-17(24-3)13-11-16/h6-13,22H,4-5,14-15H2,1-3H3",
+    "InChl_Key": "ZYVLCNMRBDXGCR-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCc1c(-c2ccc(OC)cc2)[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12575",
+    "validation": "m_weight unsave, calculated(322.4520000000001)"
+}

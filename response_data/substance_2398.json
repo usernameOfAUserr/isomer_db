@@ -1,0 +1,13 @@
+{
+    "names": "4-Propoxynorephedrine ; \u03b2-Hydroxy-4-propoxyamphetamine",
+    "iupac_name": "2-Amino-1-(4-propoxyphenyl)propan-1-ol",
+    "category": "data not stored",
+    "index": 2398,
+    "formular": "C12H19NO2",
+    "molecular_weight": 209.285,
+    "inChl": "1S/C12H19NO2/c1-3-8-15-11-6-4-10(5-7-11)12(14)9(2)13/h4-7,9,12,14H,3,8,13H2,1-2H3",
+    "InChl_Key": "LYPNBFCLXLXQAJ-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1ccc(C(O)C(C)N)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2398",
+    "validation": "m_weight unsave, calculated(209.289)"
+}

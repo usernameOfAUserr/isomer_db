@@ -1,0 +1,13 @@
+{
+    "names": "3-[4-(3-Ethyl-1,2,4-oxadiazol-5-yl)-1-methylpiperidin-4-yl]phenol",
+    "iupac_name": "7486 ; C16H21N3O2 ; 287.357",
+    "category": "Prophetic?",
+    "index": 7486,
+    "formular": "C16H21N3O2",
+    "molecular_weight": 287.357,
+    "inChl": "1S/C16H21N3O2/c1-3-14-17-15(21-18-14)16(7-9-19(2)10-8-16)12-5-4-6-13(20)11-12/h4-6,11,20H,3,7-10H2,1-2H3",
+    "InChl_Key": "OTCUCIDABFQZHO-UHFFFAOYSA-N",
+    "SMILES": "CCc1noc(C2(c3cccc(O)c3)CCN(C)CC2)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7486",
+    "validation": "m_weight unsave, calculated(287.363)"
+}

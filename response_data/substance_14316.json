@@ -1,0 +1,13 @@
+{
+    "names": "RAN 113 ; 4-Methylamino-2,5-dimethylamphetamine",
+    "iupac_name": "4-(2-Aminopropyl)-N,2,5-trimethylaniline",
+    "category": "data not stored",
+    "index": 14316,
+    "formular": "C12H20N2",
+    "molecular_weight": 192.301,
+    "inChl": "1S/C12H20N2/c1-8-6-12(14-4)9(2)5-11(8)7-10(3)13/h5-6,10,14H,7,13H2,1-4H3",
+    "InChl_Key": "QQBGEBUBJVHPAV-UHFFFAOYSA-N",
+    "SMILES": "CNc1cc(C)c(CC(C)N)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14316",
+    "validation": "m_weight unsave, calculated(192.30599999999998)"
+}

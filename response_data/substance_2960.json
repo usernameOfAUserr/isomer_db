@@ -1,0 +1,13 @@
+{
+    "names": "25B-NBOEt18F ; N-[2-(18F)Fluoroethoxybenzyl]-4-bromo-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(4-Bromo-2,5-dimethoxyphenyl)-N-({2-[2-(18F)fluoroethoxy]phenyl}methyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 2960,
+    "formular": "C19H23BrFNO3",
+    "molecular_weight": 412.293,
+    "inChl": "1S/C19H23BrFNO3/c1-23-18-12-16(20)19(24-2)11-14(18)7-9-22-13-15-5-3-4-6-17(15)25-10-8-21/h3-6,11-12,22H,7-10,13H2,1-2H3/i21-1",
+    "InChl_Key": "GGSQVEFCGQWMKV-GJQNQZCXSA-N",
+    "SMILES": "COc1cc(CCNCc2ccccc2OCC[18F])c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2960",
+    "validation": "m_weight unsave, calculated(411.30193800000006)"
+}

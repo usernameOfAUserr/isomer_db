@@ -1,0 +1,13 @@
+{
+    "names": "Org-29647",
+    "iupac_name": "N-(1-Benzylpyrrolidin-3-yl)-5-chloro-3-ethyl-1H-indole-2-carboxamide",
+    "category": "data not stored",
+    "index": 8703,
+    "formular": "C22H24ClN3O",
+    "molecular_weight": 381.898,
+    "inChl": "1S/C22H24ClN3O/c1-2-18-19-12-16(23)8-9-20(19)25-21(18)22(27)24-17-10-11-26(14-17)13-15-6-4-3-5-7-15/h3-9,12,17,25H,2,10-11,13-14H2,1H3,(H,24,27)",
+    "InChl_Key": "MYJJVFCPCDPOSM-UHFFFAOYSA-N",
+    "SMILES": "CCc1c(C(=O)NC2CCN(Cc3ccccc3)C2)[nH]c2ccc(Cl)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8703",
+    "validation": "m_weight unsave, calculated(381.90700000000015)"
+}

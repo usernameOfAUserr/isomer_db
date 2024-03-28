@@ -1,0 +1,13 @@
+{
+    "names": "25I-NMeFur ; N-(Furan-2-ylmethyl)-4-iodo-2,5-dimethoxyphenethylamine",
+    "iupac_name": "N-[(Furan-2-yl)methyl]-2-(4-iodo-2,5-dimethoxyphenyl)ethan-1-amine ; N-(Furan-2-ylmethyl)-2-(4-iodo-2,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 5506,
+    "formular": "C15H18INO3",
+    "molecular_weight": 387.213,
+    "inChl": "1S/C15H18INO3/c1-18-14-9-13(16)15(19-2)8-11(14)5-6-17-10-12-4-3-7-20-12/h3-4,7-9,17H,5-6,10H2,1-2H3",
+    "InChl_Key": "OCPXRKAITFONEF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2ccco2)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5506",
+    "validation": "m_weight unsave, calculated(387.21700000000016)"
+}

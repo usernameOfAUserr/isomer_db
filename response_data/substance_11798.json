@@ -1,0 +1,13 @@
+{
+    "names": "MMB-4en-P7AICA",
+    "iupac_name": "Methyl N-[1-(pent-4-en-1-yl)-1H-pyrrolo[2,3-b]pyridine-3-carbonyl]-L-valinate ; Methyl (2S)-3-methyl-2-{[1-(pent-4-en-1-yl)-1H-pyrrolo[2,3-b]pyridine-3-carbonyl]amino}butanoate",
+    "category": "cannabinodids",
+    "index": 11798,
+    "formular": "C19H25N3O3",
+    "molecular_weight": 343.42,
+    "inChl": "1S/C19H25N3O3/c1-5-6-7-11-22-12-15(14-9-8-10-20-17(14)22)18(23)21-16(13(2)3)19(24)25-4/h5,8-10,12-13,16H,1,6-7,11H2,2-4H3,(H,21,23)/t16-/m0/s1",
+    "InChl_Key": "KLMSKVHAYCDVFM-INIZCTEOSA-N",
+    "SMILES": "C=CCCCn1cc(C(=O)N[C@H](C(=O)OC)C(C)C)c2cccnc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11798",
+    "validation": "m_weight unsave, calculated(343.4270000000002)"
+}

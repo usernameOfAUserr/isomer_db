@@ -1,0 +1,13 @@
+{
+    "names": "5,6-Dibromo-T ; 5,6-Dibromotryptamine",
+    "iupac_name": "2-(5,6-Dibromo-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5115,
+    "formular": "C10H10Br2N2",
+    "molecular_weight": 318.008,
+    "inChl": "1S/C10H10Br2N2/c11-8-3-7-6(1-2-13)5-14-10(7)4-9(8)12/h3-5,14H,1-2,13H2",
+    "InChl_Key": "QCSXERFQDJZYFJ-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2cc(Br)c(Br)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5115",
+    "validation": "m_weight unsave, calculated(318.01199999999994)"
+}

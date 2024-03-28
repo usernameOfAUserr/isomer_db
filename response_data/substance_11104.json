@@ -1,0 +1,13 @@
+{
+    "names": "4-NO2-2,5-DMBAL ; 4-Nitro-2,5-dimethoxybenzaldehyde",
+    "iupac_name": "2,5-Dimethoxy-4-nitrobenzaldehyde",
+    "category": "data not stored",
+    "index": 11104,
+    "formular": "C9H9NO5",
+    "molecular_weight": 211.171,
+    "inChl": "1S/C9H9NO5/c1-14-8-4-7(10(12)13)9(15-2)3-6(8)5-11/h3-5H,1-2H3",
+    "InChl_Key": "MZUYNPXWLAMCAG-UHFFFAOYSA-N",
+    "SMILES": "COc1cc([N+](=O)[O-])c(OC)cc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11104",
+    "validation": "m_weight unsave, calculated(211.173)"
+}

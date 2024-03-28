@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(5-Chloro-2,2-dimethyl-2,3-dihydro-1-benzofuran-7-yl)cyclopropyl]methanamine",
+    "iupac_name": "9675 ; C14H18ClNO ; 251.752",
+    "category": "data not stored",
+    "index": 9675,
+    "formular": "C14H18ClNO",
+    "molecular_weight": 251.752,
+    "inChl": "1S/C14H18ClNO/c1-14(2)6-8-3-10(15)5-12(13(8)17-14)11-4-9(11)7-16/h3,5,9,11H,4,6-7,16H2,1-2H3",
+    "InChl_Key": "ALNNHFGNPITCHG-UHFFFAOYSA-N",
+    "SMILES": "CC1(C)Cc2cc(Cl)cc(C3CC3CN)c2O1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9675",
+    "validation": "m_weight unsave, calculated(251.75699999999995)"
+}

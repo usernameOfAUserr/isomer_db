@@ -1,0 +1,13 @@
+{
+    "names": "(3Z)-3-[2-(Dimethylamino)ethylidene]-5-methoxy-3H-indol-1-ium",
+    "iupac_name": "11331 ; C13H16N2O ; 216.279",
+    "category": "data not stored",
+    "index": 11331,
+    "formular": "C13H16N2O",
+    "molecular_weight": 216.279,
+    "inChl": "1S/C13H16N2O/c1-15(2)7-6-10-9-14-13-5-4-11(16-3)8-12(10)13/h4-6,8-9H,7H2,1-3H3/p+1/b10-6+",
+    "InChl_Key": "FGBNPCDXZUTPCC-UXBLZVDNSA-O",
+    "SMILES": "COc1ccc2c(c1)/C(=C/CN(C)C)C=[NH+]2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11331",
+    "validation": "m_weight unsave, calculated(217.292)formular unsave, calculated(C13H17N2O+)"
+}

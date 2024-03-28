@@ -1,0 +1,13 @@
+{
+    "names": "Methyl (naphthalen-1-yl)(piperidin-2-yl)acetate",
+    "iupac_name": "10860 ; C18H21NO2 ; 283.365",
+    "category": "Phenetylamine",
+    "index": 10860,
+    "formular": "C18H21NO2",
+    "molecular_weight": 283.365,
+    "inChl": "1S/C18H21NO2/c1-21-18(20)17(16-11-4-5-12-19-16)15-10-6-8-13-7-2-3-9-14(13)15/h2-3,6-10,16-17,19H,4-5,11-12H2,1H3",
+    "InChl_Key": "TUKBGZYDQHUBTB-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(c1cccc2ccccc12)C1CCCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10860",
+    "validation": "m_weight unsave, calculated(283.371)"
+}

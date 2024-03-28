@@ -1,0 +1,13 @@
+{
+    "names": "WO 2014/039042 #1.10",
+    "iupac_name": "3-(1H-Imidazol-1-yl)propyl 2-[(6aR,10aR)-1-hydroxy-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-3-yl]-2-methylpropanoate",
+    "category": "cannabinodids",
+    "index": 8016,
+    "formular": "C26H34N2O4",
+    "molecular_weight": 438.559,
+    "inChl": "1S/C26H34N2O4/c1-17-7-8-20-19(13-17)23-21(29)14-18(15-22(23)32-26(20,4)5)25(2,3)24(30)31-12-6-10-28-11-9-27-16-28/h7,9,11,14-16,19-20,29H,6,8,10,12-13H2,1-5H3/t19-,20-/m1/s1",
+    "InChl_Key": "WJRVVIKOSPKUCK-WOJBJXKFSA-N",
+    "SMILES": "CC1=CC[C@@H]2[C@@H](C1)c1c(O)cc(C(C)(C)C(=O)OCCCn3ccnc3)cc1OC2(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8016",
+    "validation": "m_weight unsave, calculated(438.56800000000027)"
+}

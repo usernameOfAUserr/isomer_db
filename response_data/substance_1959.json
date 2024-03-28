@@ -1,0 +1,13 @@
+{
+    "names": "N-Allylbutylone ; 3\u2032,4\u2032-Methylenedioxy-2-[allyl(methyl)amino]butanophenone",
+    "iupac_name": "1-(2H-1,3-Benzodioxol-5-yl)-2-[methyl(prop-2-en-1-yl)amino]butan-1-one",
+    "category": "data not stored",
+    "index": 1959,
+    "formular": "C15H19NO3",
+    "molecular_weight": 261.316,
+    "inChl": "1S/C15H19NO3/c1-4-8-16(3)12(5-2)15(17)11-6-7-13-14(9-11)19-10-18-13/h4,6-7,9,12H,1,5,8,10H2,2-3H3",
+    "InChl_Key": "PZZWBEAWQGCPSC-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(C)C(CC)C(=O)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1959",
+    "validation": "m_weight unsave, calculated(261.32099999999997)"
+}

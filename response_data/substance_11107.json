@@ -1,0 +1,13 @@
+{
+    "names": "5-BnO-2-MeS-4-MBAL ; 5-Benzyloxy-2-methylthio-4-methoxybenzaldehyde",
+    "iupac_name": "5-(Benzyloxy)-4-methoxy-2-(methylsulfanyl)benzaldehyde",
+    "category": "data not stored",
+    "index": 11107,
+    "formular": "C16H16O3S",
+    "molecular_weight": 288.361,
+    "inChl": "1S/C16H16O3S/c1-18-14-9-16(20-2)13(10-17)8-15(14)19-11-12-6-4-3-5-7-12/h3-10H,11H2,1-2H3",
+    "InChl_Key": "KWFWELRPRTZWGH-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SC)c(C=O)cc1OCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11107",
+    "validation": "m_weight unsave, calculated(288.368)"
+}

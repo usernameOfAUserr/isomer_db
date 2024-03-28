@@ -1,0 +1,13 @@
+{
+    "names": "3-Ethoxy-4-methoxy-\u03b2-nitrostyrene",
+    "iupac_name": "2-Ethoxy-1-methoxy-4-[(E)-2-nitroethenyl]benzene",
+    "category": "data not stored",
+    "index": 12397,
+    "formular": "C11H13NO4",
+    "molecular_weight": 223.225,
+    "inChl": "1S/C11H13NO4/c1-3-16-11-8-9(6-7-12(13)14)4-5-10(11)15-2/h4-8H,3H2,1-2H3/b7-6+",
+    "InChl_Key": "KPZCGJDLINXKFN-VOTSOKGWSA-N",
+    "SMILES": "CCOc1cc(/C=C/[N+](=O)[O-])ccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12397",
+    "validation": "m_weight unsave, calculated(223.22799999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "RTI-32 2-(3-hydroxypropyl)",
+    "iupac_name": "3-[(2S,3S)-8-Methyl-3-(4-methylphenyl)-8-azabicyclo[3.2.1]octan-2-yl]propan-1-ol",
+    "category": "data not stored",
+    "index": 3275,
+    "formular": "C18H27NO",
+    "molecular_weight": 273.413,
+    "inChl": "1S/C18H27NO/c1-13-5-7-14(8-6-13)17-12-15-9-10-18(19(15)2)16(17)4-3-11-20/h5-8,15-18,20H,3-4,9-12H2,1-2H3/t15?,16-,17+,18?/m0/s1",
+    "InChl_Key": "RJBUUKNHIIPGLM-JDEYZFBPSA-N",
+    "SMILES": "Cc1ccc([C@H]2CC3CCC([C@H]2CCCO)N3C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3275",
+    "validation": "m_weight unsave, calculated(273.42)"
+}

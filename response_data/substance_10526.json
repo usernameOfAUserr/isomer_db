@@ -1,0 +1,13 @@
+{
+    "names": "3-[4-(Dimethylamino)-2-methylbutan-2-yl]phenol",
+    "iupac_name": "10526 ; C13H21NO ; 207.312",
+    "category": "Phenetylamine",
+    "index": 10526,
+    "formular": "C13H21NO",
+    "molecular_weight": 207.312,
+    "inChl": "1S/C13H21NO/c1-13(2,8-9-14(3)4)11-6-5-7-12(15)10-11/h5-7,10,15H,8-9H2,1-4H3",
+    "InChl_Key": "WDGQBDUIIFJUOG-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCC(C)(C)c1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10526",
+    "validation": "m_weight unsave, calculated(207.31699999999998)"
+}

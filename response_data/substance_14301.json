@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl-L-tryptophan methyl ester",
+    "iupac_name": "Methyl N-methyl-L-tryptophanate ; Methyl (2S)-3-(1H-indol-3-yl)-2-(methylamino)propanoate",
+    "category": "data not stored",
+    "index": 14301,
+    "formular": "C13H16N2O2",
+    "molecular_weight": 232.278,
+    "inChl": "1S/C13H16N2O2/c1-14-12(13(16)17-2)7-9-8-15-11-6-4-3-5-10(9)11/h3-6,8,12,14-15H,7H2,1-2H3/t12-/m0/s1",
+    "InChl_Key": "RZRWZNRJBFLXSC-LBPRGKRZSA-N",
+    "SMILES": "CN[C@@H](Cc1c[nH]c2ccccc12)C(=O)OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14301",
+    "validation": "m_weight unsave, calculated(232.28300000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "SGT-4 ; CHM-081",
+    "iupac_name": "[1-(Cyclohexylmethyl)-1H-indol-3-yl](4-methoxynaphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 6247,
+    "formular": "C27H27NO2",
+    "molecular_weight": 397.509,
+    "inChl": "1S/C27H27NO2/c1-30-26-16-15-23(20-11-5-6-13-22(20)26)27(29)24-18-28(17-19-9-3-2-4-10-19)25-14-8-7-12-21(24)25/h5-8,11-16,18-19H,2-4,9-10,17H2,1H3",
+    "InChl_Key": "LMENRXZOUBANKQ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C(=O)c2cn(CC3CCCCC3)c3ccccc23)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6247",
+    "validation": "m_weight unsave, calculated(397.51800000000026)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Thioridazine",
+    "iupac_name": "10-[2-(1-Methylpiperidin-2-yl)ethyl]-2-(methylsulfanyl)-10H-phenothiazine",
+    "category": "data not stored",
+    "index": 9441,
+    "formular": "C21H26N2S2",
+    "molecular_weight": 370.575,
+    "inChl": "1S/C21H26N2S2/c1-22-13-6-5-7-16(22)12-14-23-18-8-3-4-9-20(18)25-21-11-10-17(24-2)15-19(21)23/h3-4,8-11,15-16H,5-7,12-14H2,1-2H3",
+    "InChl_Key": "KLBQZWRITKRQQV-UHFFFAOYSA-N",
+    "SMILES": "CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9441",
+    "validation": "m_weight unsave, calculated(370.587)"
+}

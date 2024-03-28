@@ -1,0 +1,13 @@
+{
+    "names": "BLKS-4",
+    "iupac_name": "N-[(2,4-Difluorophenyl)methyl]-1-[(oxan-4-yl)methyl]-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4447,
+    "formular": "C22H22F2N2O2",
+    "molecular_weight": 384.419,
+    "inChl": "1S/C22H22F2N2O2/c23-17-6-5-16(20(24)11-17)12-25-22(27)19-14-26(13-15-7-9-28-10-8-15)21-4-2-1-3-18(19)21/h1-6,11,14-15H,7-10,12-13H2,(H,25,27)",
+    "InChl_Key": "JMOIIZQFYYUOME-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCc1ccc(F)cc1F)c1cn(CC2CCOCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4447",
+    "validation": "m_weight unsave, calculated(384.4260000000003)"
+}

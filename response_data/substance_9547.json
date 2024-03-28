@@ -1,0 +1,13 @@
+{
+    "names": "PC1MP+",
+    "iupac_name": "1-Methyl-1-(1-phenylcyclohexyl)piperidin-1-ium",
+    "category": "Arylcycloalkylamine",
+    "index": 9547,
+    "formular": "C18H28N",
+    "molecular_weight": 258.422,
+    "inChl": "1S/C18H28N/c1-19(15-9-4-10-16-19)18(13-7-3-8-14-18)17-11-5-2-6-12-17/h2,5-6,11-12H,3-4,7-10,13-16H2,1H3/q+1",
+    "InChl_Key": "QGYQRMGRVDVCFM-UHFFFAOYSA-N",
+    "SMILES": "C[N+]1(C2(c3ccccc3)CCCCC2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9547",
+    "validation": "m_weight unsave, calculated(258.429)formular unsave, calculated(C18H28N+)"
+}

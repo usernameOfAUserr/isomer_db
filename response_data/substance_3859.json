@@ -1,0 +1,13 @@
+{
+    "names": "Ecgonine methyl ester ; EME",
+    "iupac_name": "Methyl (2R,3S)-3-hydroxy-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "category": "data not stored",
+    "index": 3859,
+    "formular": "C10H17NO3",
+    "molecular_weight": 199.247,
+    "inChl": "1S/C10H17NO3/c1-11-6-3-4-7(11)9(8(12)5-6)10(13)14-2/h6-9,12H,3-5H2,1-2H3/t6?,7?,8-,9+/m0/s1",
+    "InChl_Key": "QIQNNBXHAYSQRY-ABIFROTESA-N",
+    "SMILES": "COC(=O)[C@@H]1C2CCC(C[C@@H]1O)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3859",
+    "validation": "m_weight unsave, calculated(199.24999999999997)"
+}

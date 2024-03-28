@@ -1,0 +1,13 @@
+{
+    "names": "US 6342511 #2",
+    "iupac_name": "3-Methyl-1-[4-(thiophen-2-yl)thian-4-yl]piperidine",
+    "category": "Arylcycloalkylamine",
+    "index": 6084,
+    "formular": "C15H23NS2",
+    "molecular_weight": 281.48,
+    "inChl": "1S/C15H23NS2/c1-13-4-2-8-16(12-13)15(6-10-17-11-7-15)14-5-3-9-18-14/h3,5,9,13H,2,4,6-8,10-12H2,1H3",
+    "InChl_Key": "QYZJRCMVKFVDAK-UHFFFAOYSA-N",
+    "SMILES": "CC1CCCN(C2(c3cccs3)CCSCC2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6084",
+    "validation": "m_weight unsave, calculated(281.49)"
+}

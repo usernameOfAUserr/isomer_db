@@ -1,0 +1,13 @@
+{
+    "names": "3-[2-Phenyl-2-(4-propylpiperazin-1-yl)ethyl]phenol",
+    "iupac_name": "14342 ; C21H28N2O ; 324.46",
+    "category": "data not stored",
+    "index": 14342,
+    "formular": "C21H28N2O",
+    "molecular_weight": 324.46,
+    "inChl": "1S/C21H28N2O/c1-2-11-22-12-14-23(15-13-22)21(19-8-4-3-5-9-19)17-18-7-6-10-20(24)16-18/h3-10,16,21,24H,2,11-15,17H2,1H3",
+    "InChl_Key": "DIAFUUQPJMEROM-UHFFFAOYSA-N",
+    "SMILES": "CCCN1CCN(C(Cc2cccc(O)c2)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14342",
+    "validation": "m_weight unsave, calculated(324.4680000000001)"
+}

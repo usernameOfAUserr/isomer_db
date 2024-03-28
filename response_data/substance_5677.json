@@ -1,0 +1,13 @@
+{
+    "names": "N-Biphenylethyl-5-MeO-NMT ; N-Biphenylethyl-5-methoxy-N-methyltryptamine",
+    "iupac_name": "2-([1,1\u2032-Biphenyl]-4-yl)-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-methylethan-1-amine ; 2-(Biphenyl-4-yl)-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5677,
+    "formular": "C26H28N2O",
+    "molecular_weight": 384.513,
+    "inChl": "1S/C26H28N2O/c1-28(17-15-23-19-27-26-13-12-24(29-2)18-25(23)26)16-14-20-8-10-22(11-9-20)21-6-4-3-5-7-21/h3-13,18-19,27H,14-17H2,1-2H3",
+    "InChl_Key": "SGGRWOCYKAWONG-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN(C)CCc3ccc(-c4ccccc4)cc3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5677",
+    "validation": "m_weight unsave, calculated(384.523)"
+}

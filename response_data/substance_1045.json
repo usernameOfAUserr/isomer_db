@@ -1,0 +1,13 @@
+{
+    "names": "Homoamphetamine ; 1-Methyl-3-phenylpropylamine",
+    "iupac_name": "4-Phenylbutan-2-amine",
+    "category": "Phenetylamine",
+    "index": 1045,
+    "formular": "C10H15N",
+    "molecular_weight": 149.233,
+    "inChl": "1S/C10H15N/c1-9(11)7-8-10-5-3-2-4-6-10/h2-6,9H,7-8,11H2,1H3",
+    "InChl_Key": "WECUIGDEWBNQJJ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)CCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1045",
+    "validation": "m_weight unsave, calculated(149.23699999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-FDCK ; 3F-Ketamine ; 3F-Deschloroketamine ; 3-F-2\u2032-Oxo-PCM ; 3-Fluoro-deschloroketamine",
+    "iupac_name": "2-(3-Fluorophenyl)-2-(methylamino)cyclohexan-1-one",
+    "category": "data not stored",
+    "index": 13844,
+    "formular": "C13H16FNO",
+    "molecular_weight": 221.271,
+    "inChl": "1S/C13H16FNO/c1-15-13(8-3-2-7-12(13)16)10-5-4-6-11(14)9-10/h4-6,9,15H,2-3,7-8H2,1H3",
+    "InChl_Key": "SLRWGPTWJAJHDF-UHFFFAOYSA-N",
+    "SMILES": "CNC1(c2cccc(F)c2)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13844",
+    "validation": "m_weight unsave, calculated(221.275)"
+}

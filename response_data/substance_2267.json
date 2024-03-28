@@ -1,0 +1,13 @@
+{
+    "names": "Uberine",
+    "iupac_name": "5-Methoxy-2-methyl-1,2,3,4-tetrahydroisoquinolin-7-ol",
+    "category": "data not stored",
+    "index": 2267,
+    "formular": "C11H15NO2",
+    "molecular_weight": 193.242,
+    "inChl": "1S/C11H15NO2/c1-12-4-3-10-8(7-12)5-9(13)6-11(10)14-2/h5-6,13H,3-4,7H2,1-2H3",
+    "InChl_Key": "WWHAMQKZDMJLLC-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(O)cc2c1CCN(C)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2267",
+    "validation": "m_weight unsave, calculated(193.24599999999995)"
+}

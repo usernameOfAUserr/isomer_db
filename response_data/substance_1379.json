@@ -1,0 +1,13 @@
+{
+    "names": "(2S,4aR,10bR)-2-(4-Hydroxyphenyl)-4-propyl-1,2,3,4,4a,5,6,10b-octahydrobenzo[f]quinoline-8,9-diol",
+    "iupac_name": "1379 ; C22H27NO3 ; 353.455",
+    "category": "data not stored",
+    "index": 1379,
+    "formular": "C22H27NO3",
+    "molecular_weight": 353.455,
+    "inChl": "1S/C22H27NO3/c1-2-9-23-13-16(14-3-6-17(24)7-4-14)10-19-18-12-22(26)21(25)11-15(18)5-8-20(19)23/h3-4,6-7,11-12,16,19-20,24-26H,2,5,8-10,13H2,1H3/t16-,19-,20-/m1/s1",
+    "InChl_Key": "SPBJYMYEKPAPLH-NSISKUIASA-N",
+    "SMILES": "CCCN1C[C@H](c2ccc(O)cc2)C[C@@H]2c3cc(O)c(O)cc3CC[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1379",
+    "validation": "m_weight unsave, calculated(353.462)"
+}

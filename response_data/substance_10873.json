@@ -1,0 +1,13 @@
+{
+    "names": "MPR-2-AI ; N-Methyl-N-propargyl-2-aminoindane",
+    "iupac_name": "N-Methyl-N-(prop-2-yn-1-yl)-2,3-dihydro-1H-inden-2-amine",
+    "category": "Phenetylamine",
+    "index": 10873,
+    "formular": "C13H15N",
+    "molecular_weight": 185.265,
+    "inChl": "1S/C13H15N/c1-3-8-14(2)13-9-11-6-4-5-7-12(11)10-13/h1,4-7,13H,8-10H2,2H3",
+    "InChl_Key": "MMAXYGJNDKHJET-UHFFFAOYSA-N",
+    "SMILES": "C#CCN(C)C1Cc2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10873",
+    "validation": "m_weight unsave, calculated(185.26999999999998)"
+}

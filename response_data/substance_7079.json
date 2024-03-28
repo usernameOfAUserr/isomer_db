@@ -1,0 +1,13 @@
+{
+    "names": "5-Br-2,4-DMPEA ; 2,4,5-MMB",
+    "iupac_name": "2-(5-Bromo-2,4-dimethoxyphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7079,
+    "formular": "C10H14BrNO2",
+    "molecular_weight": 260.128,
+    "inChl": "1S/C10H14BrNO2/c1-13-9-6-10(14-2)8(11)5-7(9)3-4-12/h5-6H,3-4,12H2,1-2H3",
+    "InChl_Key": "FEAKOSWVJXEIIK-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(CCN)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7079",
+    "validation": "m_weight unsave, calculated(260.131)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1,2-Dimethyl-3-phenylaziridine",
+    "iupac_name": "6316 ; C10H13N ; 147.217",
+    "category": "data not stored",
+    "index": 6316,
+    "formular": "C10H13N",
+    "molecular_weight": 147.217,
+    "inChl": "1S/C10H13N/c1-8-10(11(8)2)9-6-4-3-5-7-9/h3-8,10H,1-2H3",
+    "InChl_Key": "MKCZABZZOZOQTK-UHFFFAOYSA-N",
+    "SMILES": "CC1C(c2ccccc2)N1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6316",
+    "validation": "m_weight unsave, calculated(147.221)"
+}

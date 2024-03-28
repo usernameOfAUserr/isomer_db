@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1,4-DiHO-Flualprazolam ; \u03b1,4-Dihydroxyflualprazolam ; Ro-22-0284",
+    "iupac_name": "8-Chloro-6-(2-fluorophenyl)-1-(hydroxymethyl)-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepin-4-ol",
+    "category": "Aryldiazepine",
+    "index": 11446,
+    "formular": "C17H12ClFN4O2",
+    "molecular_weight": 358.754,
+    "inChl": "1S/C17H12ClFN4O2/c18-9-5-6-13-11(7-9)15(10-3-1-2-4-12(10)19)20-17(25)16-22-21-14(8-24)23(13)16/h1-7,17,24-25H,8H2",
+    "InChl_Key": "VXOUEKYXDKVGHR-UHFFFAOYSA-N",
+    "SMILES": "OCc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11446",
+    "validation": "m_weight unsave, calculated(358.76)"
+}

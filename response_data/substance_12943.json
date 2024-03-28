@@ -1,0 +1,13 @@
+{
+    "names": "IHCH-7089",
+    "iupac_name": "(6bR,10aS)-8-[(2-Methoxyphenyl)methyl]-3-methyl-2,3,6b,7,8,9,10,10a-octahydro-1H-pyrido[3\u2032,4\u2032:4,5]pyrrolo[1,2,3-de]quinoxaline",
+    "category": "data not stored",
+    "index": 12943,
+    "formular": "C22H27N3O",
+    "molecular_weight": 349.469,
+    "inChl": "1S/C22H27N3O/c1-23-12-13-25-19-10-11-24(14-16-6-3-4-9-21(16)26-2)15-18(19)17-7-5-8-20(23)22(17)25/h3-9,18-19H,10-15H2,1-2H3/t18-,19-/m0/s1",
+    "InChl_Key": "OTCGVYWZEZMEGT-OALUTQOASA-N",
+    "SMILES": "COc1ccccc1CN1CC[C@H]2[C@@H](C1)c1cccc3c1N2CCN3C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12943",
+    "validation": "m_weight unsave, calculated(349.4780000000001)"
+}

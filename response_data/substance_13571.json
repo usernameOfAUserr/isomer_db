@@ -1,0 +1,13 @@
+{
+    "names": "5,7-Difluoro-MPMI",
+    "iupac_name": "5,7-Difluoro-3-[(1-methylpyrrolidin-2-yl)methyl]-1H-indole",
+    "category": "data not stored",
+    "index": 13571,
+    "formular": "C14H16F2N2",
+    "molecular_weight": 250.287,
+    "inChl": "1S/C14H16F2N2/c1-18-4-2-3-11(18)5-9-8-17-14-12(9)6-10(15)7-13(14)16/h6-8,11,17H,2-5H2,1H3",
+    "InChl_Key": "ICVLBLIZOQFWAZ-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCC1Cc1c[nH]c2c(F)cc(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13571",
+    "validation": "m_weight unsave, calculated(250.29199999999997)"
+}

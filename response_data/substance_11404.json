@@ -1,0 +1,13 @@
+{
+    "names": "25C-FLY-N4MT3M",
+    "iupac_name": "2-(8-Chloro-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl)-N-[(4-methoxythiophen-3-yl)methyl]ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 11404,
+    "formular": "C18H20ClNO3S",
+    "molecular_weight": 365.874,
+    "inChl": "1S/C18H20ClNO3S/c1-21-15-10-24-9-11(15)8-20-5-2-12-13-3-6-23-18(13)16(19)14-4-7-22-17(12)14/h9-10,20H,2-8H2,1H3",
+    "InChl_Key": "MAGXAALLZNNQAJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cscc1CNCCc1c2c(c(Cl)c3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11404",
+    "validation": "m_weight unsave, calculated(365.88200000000006)"
+}

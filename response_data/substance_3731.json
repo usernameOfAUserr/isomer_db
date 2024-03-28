@@ -1,0 +1,13 @@
+{
+    "names": "Serine ; Ser",
+    "iupac_name": "D-Serine ; (2R)-2-Amino-3-hydroxypropanoic acid",
+    "category": "data not stored",
+    "index": 3731,
+    "formular": "C3H7NO3",
+    "molecular_weight": 105.093,
+    "inChl": "1S/C3H7NO3/c4-2(1-5)3(6)7/h2,5H,1,4H2,(H,6,7)/t2-/m1/s1",
+    "InChl_Key": "MTCFGRXMJLQNBG-UWTATZPHSA-N",
+    "SMILES": "N[C@H](CO)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3731",
+    "validation": "m_weight unsave, calculated(105.093)"
+}

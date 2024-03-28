@@ -1,0 +1,13 @@
+{
+    "names": "2C-O-19 ; 2,5-Dimethoxy-4-butoxyphenethylamine",
+    "iupac_name": "2-(4-Butoxy-2,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 2070,
+    "formular": "C14H23NO3",
+    "molecular_weight": 253.337,
+    "inChl": "1S/C14H23NO3/c1-4-5-8-18-14-10-12(16-2)11(6-7-15)9-13(14)17-3/h9-10H,4-8,15H2,1-3H3",
+    "InChl_Key": "XPEDBJCAOYNBMP-UHFFFAOYSA-N",
+    "SMILES": "CCCCOc1cc(OC)c(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2070",
+    "validation": "m_weight unsave, calculated(253.34199999999993)"
+}

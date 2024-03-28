@@ -1,0 +1,13 @@
+{
+    "names": "TMA2-NBOMe ; TMA-2-NBOMe",
+    "iupac_name": "N-[(2-Methoxyphenyl)methyl]-1-(2,4,5-trimethoxyphenyl)propan-2-amine ; N-(2-Methoxybenzyl)-1-(2,4,5-trimethoxyphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 2424,
+    "formular": "C20H27NO4",
+    "molecular_weight": 345.433,
+    "inChl": "1S/C20H27NO4/c1-14(21-13-15-8-6-7-9-17(15)22-2)10-16-11-19(24-4)20(25-5)12-18(16)23-3/h6-9,11-12,14,21H,10,13H2,1-5H3",
+    "InChl_Key": "OEKILNIKTRIWQM-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CNC(C)Cc1cc(OC)c(OC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2424",
+    "validation": "m_weight unsave, calculated(345.43900000000014)"
+}

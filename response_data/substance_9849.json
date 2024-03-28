@@ -1,0 +1,13 @@
+{
+    "names": "N-But-2-enyl-3-TFMA ; N-But-2-enyl-3-trifluoromethylamphetamine",
+    "iupac_name": "N-{1-[3-(Trifluoromethyl)phenyl]propan-2-yl}but-2-en-1-amine",
+    "category": "data not stored",
+    "index": 9849,
+    "formular": "C14H18F3N",
+    "molecular_weight": 257.295,
+    "inChl": "1S/C14H18F3N/c1-3-4-8-18-11(2)9-12-6-5-7-13(10-12)14(15,16)17/h3-7,10-11,18H,8-9H2,1-2H3",
+    "InChl_Key": "MSWGGPYUPPKTIQ-UHFFFAOYSA-N",
+    "SMILES": "CC=CCNC(C)Cc1cccc(C(F)(F)F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9849",
+    "validation": "m_weight unsave, calculated(257.2989999999999)"
+}

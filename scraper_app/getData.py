@@ -123,17 +123,16 @@ async def fetch_url(session, url, index, folder,categorys):
 
 
 
-async def get_responses(categorys):
+async def get_responses(categorys, urls):
 
     folder = "response_data"  # Der Zielordner, in dem die JSON-Dateien gespeichert werden sollen
     os.makedirs(folder, exist_ok=True)  # Erstellen Sie den Ordner, falls er nicht existiert
-    urls = [f"https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id={i}" for i in
-            range(1, 15000)]  # the list with all urls is created
+     # the list with all urls is created
     try:
         timeout = aiohttp.ClientTimeout(total=None, connect=None, sock_connect=None, #total timelimit for the whole reques /
 
                                         sock_read=60)  # Timeout von 60 Sekunden für Socken lesen
-        async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(limit=20),timeout=timeout) as session: #to limit the requests in order to respekt the server """connector=aiohttp.TCPConnector(limit=10)"""
+        async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(limit=30),timeout=timeout) as session: #to limit the requests in order to respekt the server """connector=aiohttp.TCPConnector(limit=10)"""
                 # creates ClientSession-Object to manage the asynchron Communication; within the async with-block, get-requests are done; clears after himself when done
                 tasks = [fetch_url(session, url, index, folder,categorys) for index, url in
                          enumerate(urls, 1)]  # create a list of tasks, where every item is a call of the fetch_url function
@@ -145,8 +144,9 @@ async def get_responses(categorys):
         print("Timeouterror")
 
 def start():
+    urls = [f"https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id={i}" for i in range(1, 15000)]
     #categorys = getCategorys() # look for categorys and connected ids on your own  #    
     with open("categorys.json", 'r') as f: 
         categorys = json.load(f)
     # #load the categorys from external file in order to improve the speed, categorys are NOT!!! loaded in in this run
-    asyncio.run(get_responses(categorys))
+    asyncio.run(get_responses(categorys,urls))

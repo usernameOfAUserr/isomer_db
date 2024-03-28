@@ -1,0 +1,13 @@
+{
+    "names": "Cannabigerolic acid monomethyl ether",
+    "iupac_name": "3-[(2E)-3,7-Dimethylocta-2,6-dien-1-yl]-2-hydroxy-4-methoxy-6-pentylbenzoic acid",
+    "category": "cannabinodids",
+    "index": 13157,
+    "formular": "C23H34O4",
+    "molecular_weight": 374.514,
+    "inChl": "1S/C23H34O4/c1-6-7-8-12-18-15-20(27-5)19(22(24)21(18)23(25)26)14-13-17(4)11-9-10-16(2)3/h10,13,15,24H,6-9,11-12,14H2,1-5H3,(H,25,26)/b17-13+",
+    "InChl_Key": "VAFRUJRAAHLCFZ-GHRIWEEISA-N",
+    "SMILES": "CCCCCc1cc(OC)c(C/C=C(\\C)CCC=C(C)C)c(O)c1C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13157",
+    "validation": "m_weight unsave, calculated(374.5210000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "MAPA ; Methyl \u03b1-phenylacetoacetate",
+    "iupac_name": "Methyl 3-oxo-2-phenylbutanoate",
+    "category": "data not stored",
+    "index": 7846,
+    "formular": "C11H12O3",
+    "molecular_weight": 192.211,
+    "inChl": "1S/C11H12O3/c1-8(12)10(11(13)14-2)9-6-4-3-5-7-9/h3-7,10H,1-2H3",
+    "InChl_Key": "CYSACHQWYQYLIG-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(C(C)=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7846",
+    "validation": "m_weight unsave, calculated(192.21399999999997)"
+}

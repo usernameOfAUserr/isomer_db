@@ -1,0 +1,13 @@
+{
+    "names": "6-Chloro-1-(2-chlorophenyl)-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indole",
+    "iupac_name": "12741 ; C17H14Cl2N2 ; 317.212",
+    "category": "data not stored",
+    "index": 12741,
+    "formular": "C17H14Cl2N2",
+    "molecular_weight": 317.212,
+    "inChl": "1S/C17H14Cl2N2/c18-10-5-6-15-13(9-10)11-7-8-20-16(17(11)21-15)12-3-1-2-4-14(12)19/h1-6,9,16,20-21H,7-8H2",
+    "InChl_Key": "AEPMXQSSUQOYBN-UHFFFAOYSA-N",
+    "SMILES": "Clc1ccc2[nH]c3c(c2c1)CCNC3c1ccccc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12741",
+    "validation": "m_weight unsave, calculated(317.21900000000005)"
+}

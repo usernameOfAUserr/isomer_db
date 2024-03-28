@@ -1,0 +1,13 @@
+{
+    "names": "2-[6,7-Dimethoxy-5-(methylsulfanyl)-1,2,3-benzotrithiol-4-yl]ethan-1-amine",
+    "iupac_name": "10468 ; C11H15NO2S4 ; 321.502",
+    "category": "Phenetylamine",
+    "index": 10468,
+    "formular": "C11H15NO2S4",
+    "molecular_weight": 321.502,
+    "inChl": "1S/C11H15NO2S4/c1-13-7-8(14-2)11-10(16-18-17-11)6(4-5-12)9(7)15-3/h4-5,12H2,1-3H3",
+    "InChl_Key": "MOAGXAXJYQDAKP-UHFFFAOYSA-N",
+    "SMILES": "COc1c(OC)c2c(c(CCN)c1SC)SSS2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10468",
+    "validation": "m_weight unsave, calculated(321.514)"
+}

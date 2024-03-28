@@ -1,0 +1,13 @@
+{
+    "names": "3\u2032-Ph-PAT",
+    "iupac_name": "4-([1,1\u2032-Biphenyl]-3-yl)-N,N-dimethyl-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "category": "data not stored",
+    "index": 2868,
+    "formular": "C24H25N",
+    "molecular_weight": 327.462,
+    "inChl": "1S/C24H25N/c1-25(2)22-16-21-11-6-7-14-23(21)24(17-22)20-13-8-12-19(15-20)18-9-4-3-5-10-18/h3-15,22,24H,16-17H2,1-2H3",
+    "InChl_Key": "IMEKNFSOCZJKQI-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1Cc2ccccc2C(c2cccc(-c3ccccc3)c2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2868",
+    "validation": "m_weight unsave, calculated(327.471)"
+}

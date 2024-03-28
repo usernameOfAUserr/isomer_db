@@ -1,0 +1,13 @@
+{
+    "names": "UOSD017",
+    "iupac_name": "N-(2-{2-[2-(4-{4-[(Adamantan-1-yl)amino]-6-ethoxy-1,3,5-triazin-2-yl}piperazin-1-yl)ethoxy]ethoxy}ethyl)acetamide",
+    "category": "cannabinodids",
+    "index": 6537,
+    "formular": "C27H45N7O4",
+    "molecular_weight": 531.691,
+    "inChl": "1S/C27H45N7O4/c1-3-38-26-30-24(32-27-17-21-14-22(18-27)16-23(15-21)19-27)29-25(31-26)34-7-5-33(6-8-34)9-11-37-13-12-36-10-4-28-20(2)35/h21-23H,3-19H2,1-2H3,(H,28,35)(H,29,30,31,32)",
+    "InChl_Key": "SMQCIWHWBLTHRY-UHFFFAOYSA-N",
+    "SMILES": "CCOc1nc(NC23CC4CC(CC(C4)C2)C3)nc(N2CCN(CCOCCOCCNC(C)=O)CC2)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6537",
+    "validation": "m_weight unsave, calculated(531.7020000000002)"
+}

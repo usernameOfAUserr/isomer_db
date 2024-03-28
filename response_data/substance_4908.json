@@ -1,0 +1,13 @@
+{
+    "names": "5\u2032-DMA-\u03948THC",
+    "iupac_name": "(6aR,10aR)-3-[5-(Dimethylamino)pentyl]-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-ol",
+    "category": "cannabinodids",
+    "index": 4908,
+    "formular": "C23H35NO2",
+    "molecular_weight": 357.53,
+    "inChl": "1S/C23H35NO2/c1-16-10-11-19-18(13-16)22-20(25)14-17(9-7-6-8-12-24(4)5)15-21(22)26-23(19,2)3/h10,14-15,18-19,25H,6-9,11-13H2,1-5H3/t18-,19-/m1/s1",
+    "InChl_Key": "UGKIIPSFSONYKH-RTBURBONSA-N",
+    "SMILES": "CC1=CC[C@@H]2[C@@H](C1)c1c(O)cc(CCCCCN(C)C)cc1OC2(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4908",
+    "validation": "m_weight unsave, calculated(357.5380000000002)"
+}

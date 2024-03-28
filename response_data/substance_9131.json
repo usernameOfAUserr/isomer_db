@@ -1,0 +1,13 @@
+{
+    "names": "3-(4-Hydroxy-3-methyl-4-phenylpiperidin-1-yl)-1-phenylpropan-1-one",
+    "iupac_name": "9131 ; C21H25NO2 ; 323.429",
+    "category": "data not stored",
+    "index": 9131,
+    "formular": "C21H25NO2",
+    "molecular_weight": 323.429,
+    "inChl": "1S/C21H25NO2/c1-17-16-22(14-12-20(23)18-8-4-2-5-9-18)15-13-21(17,24)19-10-6-3-7-11-19/h2-11,17,24H,12-16H2,1H3",
+    "InChl_Key": "SBWZQJQVTXMGED-UHFFFAOYSA-N",
+    "SMILES": "CC1CN(CCC(=O)c2ccccc2)CCC1(O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9131",
+    "validation": "m_weight unsave, calculated(323.436)"
+}

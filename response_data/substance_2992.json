@@ -1,0 +1,13 @@
+{
+    "names": "Despropionyl 2-FF ; o-Fluoro-despropionoylfentanyl ; Despropionyl o-fluorofentanyl ; 2\u2032-Fluoro-despropionoylfentanyl",
+    "iupac_name": "N-(2-Fluorophenyl)-1-(2-phenylethyl)piperidin-4-amine",
+    "category": "Fentanyl",
+    "index": 2992,
+    "formular": "C19H23FN2",
+    "molecular_weight": 298.398,
+    "inChl": "1S/C19H23FN2/c20-18-8-4-5-9-19(18)21-17-11-14-22(15-12-17)13-10-16-6-2-1-3-7-16/h1-9,17,21H,10-15H2",
+    "InChl_Key": "WUNLGTOLOUTCPE-UHFFFAOYSA-N",
+    "SMILES": "Fc1ccccc1NC1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2992",
+    "validation": "m_weight unsave, calculated(298.4049999999999)"
+}

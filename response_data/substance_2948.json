@@ -1,0 +1,13 @@
+{
+    "names": "DBZP",
+    "iupac_name": "1,4-Dibenzylpiperazine",
+    "category": "data not stored",
+    "index": 2948,
+    "formular": "C18H22N2",
+    "molecular_weight": 266.381,
+    "inChl": "1S/C18H22N2/c1-3-7-17(8-4-1)15-19-11-13-20(14-12-19)16-18-9-5-2-6-10-18/h1-10H,11-16H2",
+    "InChl_Key": "YPUGLZQRXQQCSX-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(CN2CCN(Cc3ccccc3)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2948",
+    "validation": "m_weight unsave, calculated(266.388)"
+}

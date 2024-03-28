@@ -1,0 +1,13 @@
+{
+    "names": "4Br-\u03b1-PVP ; 4\u2032-Bromo-\u03b1-(pyrrolidin-1-yl)valerophenone ; O-2419",
+    "iupac_name": "1-(4-Bromophenyl)-2-(pyrrolidin-1-yl)pentan-1-one",
+    "category": "data not stored",
+    "index": 1402,
+    "formular": "C15H20BrNO",
+    "molecular_weight": 310.229,
+    "inChl": "1S/C15H20BrNO/c1-2-5-14(17-10-3-4-11-17)15(18)12-6-8-13(16)9-7-12/h6-9,14H,2-5,10-11H2,1H3",
+    "InChl_Key": "RAHKQMUBMIJUFG-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccc(Br)cc1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1402",
+    "validation": "m_weight unsave, calculated(310.2350000000001)"
+}

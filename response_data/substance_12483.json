@@ -1,0 +1,13 @@
+{
+    "names": "Enflurane ; 2-Chloro-1,1,2-trifluoroethyl difluoromethyl ether",
+    "iupac_name": "2-Chloro-1-(difluoromethoxy)-1,1,2-trifluoroethane",
+    "category": "data not stored",
+    "index": 12483,
+    "formular": "C3H2ClF5O",
+    "molecular_weight": 184.492,
+    "inChl": "1S/C3H2ClF5O/c4-1(5)3(8,9)10-2(6)7/h1-2H",
+    "InChl_Key": "JPGQOUSTVILISH-UHFFFAOYSA-N",
+    "SMILES": "FC(F)OC(F)(F)C(F)Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12483",
+    "validation": "m_weight unsave, calculated(184.49099999999999)"
+}

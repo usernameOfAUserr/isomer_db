@@ -1,0 +1,13 @@
+{
+    "names": "BRL54443",
+    "iupac_name": "3-(1-Methylpiperidin-4-yl)-1H-indol-5-ol",
+    "category": "data not stored",
+    "index": 14728,
+    "formular": "C14H18N2O",
+    "molecular_weight": 230.306,
+    "inChl": "1S/C14H18N2O/c1-16-6-4-10(5-7-16)13-9-15-14-3-2-11(17)8-12(13)14/h2-3,8-10,15,17H,4-7H2,1H3",
+    "InChl_Key": "WKNFADCGOAHBPG-UHFFFAOYSA-N",
+    "SMILES": "CN1CCC(c2c[nH]c3ccc(O)cc23)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14728",
+    "validation": "m_weight unsave, calculated(230.311)"
+}

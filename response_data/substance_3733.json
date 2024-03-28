@@ -1,0 +1,13 @@
+{
+    "names": "Sarcosine",
+    "iupac_name": "N-Methylglycine ; (Methylamino)acetic acid",
+    "category": "data not stored",
+    "index": 3733,
+    "formular": "C3H7NO2",
+    "molecular_weight": 89.093,
+    "inChl": "1S/C3H7NO2/c1-4-2-3(5)6/h4H,2H2,1H3,(H,5,6)",
+    "InChl_Key": "FSYKKLYZXJSNPZ-UHFFFAOYSA-N",
+    "SMILES": "CNCC(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3733",
+    "validation": "m_weight unsave, calculated(89.09399999999998)"
+}

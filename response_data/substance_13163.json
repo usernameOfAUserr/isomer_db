@@ -1,0 +1,13 @@
+{
+    "names": "EBT ; N-Ethyl-N-butyltryptamine",
+    "iupac_name": "N-Ethyl-N-[2-(1H-indol-3-yl)ethyl]butan-1-amine",
+    "category": "Tryptamine",
+    "index": 13163,
+    "formular": "C16H24N2",
+    "molecular_weight": 244.375,
+    "inChl": "1S/C16H24N2/c1-3-5-11-18(4-2)12-10-14-13-17-16-9-7-6-8-15(14)16/h6-9,13,17H,3-5,10-12H2,1-2H3",
+    "InChl_Key": "JYPLWTWEEPCAHW-UHFFFAOYSA-N",
+    "SMILES": "CCCCN(CC)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13163",
+    "validation": "m_weight unsave, calculated(244.38199999999998)"
+}

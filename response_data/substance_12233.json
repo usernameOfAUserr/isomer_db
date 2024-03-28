@@ -1,0 +1,13 @@
+{
+    "names": "2C-PYN-TFA",
+    "iupac_name": "N-{2-[2,5-Dimethoxy-4-(prop-1-yn-1-yl)phenyl]ethyl}-2,2,2-trifluoroacetamide",
+    "category": "Phenetylamine",
+    "index": 12233,
+    "formular": "C15H16F3NO3",
+    "molecular_weight": 315.288,
+    "inChl": "1S/C15H16F3NO3/c1-4-5-10-8-13(22-3)11(9-12(10)21-2)6-7-19-14(20)15(16,17)18/h8-9H,6-7H2,1-3H3,(H,19,20)",
+    "InChl_Key": "ALZSSEHIDLBWGD-UHFFFAOYSA-N",
+    "SMILES": "CC#Cc1cc(OC)c(CCNC(=O)C(F)(F)F)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12233",
+    "validation": "m_weight unsave, calculated(315.291)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "SGT-71",
+    "iupac_name": "N-(Heptan-2-yl)-1-pentyl-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11291,
+    "formular": "C20H31N3O",
+    "molecular_weight": 329.48,
+    "inChl": "1S/C20H31N3O/c1-4-6-8-12-16(3)21-20(24)19-17-13-9-10-14-18(17)23(22-19)15-11-7-5-2/h9-10,13-14,16H,4-8,11-12,15H2,1-3H3,(H,21,24)",
+    "InChl_Key": "BQXRYNAVUNOTBA-UHFFFAOYSA-N",
+    "SMILES": "CCCCCC(C)NC(=O)c1nn(CCCCC)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11291",
+    "validation": "m_weight unsave, calculated(329.48800000000017)"
+}

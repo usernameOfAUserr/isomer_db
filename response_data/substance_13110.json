@@ -1,0 +1,13 @@
+{
+    "names": "1H-Indazole-7-carbaldehyde",
+    "iupac_name": "13110 ; C8H6N2O ; 146.146",
+    "category": "data not stored",
+    "index": 13110,
+    "formular": "C8H6N2O",
+    "molecular_weight": 146.146,
+    "inChl": "1S/C8H6N2O/c11-5-7-3-1-2-6-4-9-10-8(6)7/h1-5H,(H,9,10)",
+    "InChl_Key": "WSCAEUWXSVHQJM-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1cccc2cn[nH]c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13110",
+    "validation": "m_weight unsave, calculated(146.14899999999997)"
+}

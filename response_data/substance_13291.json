@@ -1,0 +1,13 @@
+{
+    "names": "AFUBIATA ; ADAMANTYL-FUBIATA",
+    "iupac_name": "N-(Adamantan-2-yl)-2-{1-[(4-fluorophenyl)methyl]-1H-indol-3-yl}acetamide",
+    "category": "cannabinodids",
+    "index": 13291,
+    "formular": "C27H29FN2O",
+    "molecular_weight": 416.53,
+    "inChl": "1S/C27H29FN2O/c28-23-7-5-17(6-8-23)15-30-16-22(24-3-1-2-4-25(24)30)14-26(31)29-27-20-10-18-9-19(12-20)13-21(27)11-18/h1-8,16,18-21,27H,9-15H2,(H,29,31)",
+    "InChl_Key": "DXLOYPRVMXIYCC-UHFFFAOYSA-N",
+    "SMILES": "O=C(Cc1cn(Cc2ccc(F)cc2)c2ccccc12)NC1C2CC3CC(C2)CC1C3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13291",
+    "validation": "m_weight unsave, calculated(416.54000000000025)"
+}

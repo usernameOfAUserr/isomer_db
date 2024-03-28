@@ -1,0 +1,13 @@
+{
+    "names": "2,6-DMBzP-TFA",
+    "iupac_name": "1-[4-(2,6-Dimethoxybenzoyl)piperazin-1-yl]-2,2,2-trifluoroethan-1-one",
+    "category": "data not stored",
+    "index": 8849,
+    "formular": "C15H17F3N2O4",
+    "molecular_weight": 346.302,
+    "inChl": "1S/C15H17F3N2O4/c1-23-10-4-3-5-11(24-2)12(10)13(21)19-6-8-20(9-7-19)14(22)15(16,17)18/h3-5H,6-9H2,1-2H3",
+    "InChl_Key": "ROEHAWOGJSMEJZ-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(OC)c1C(=O)N1CCN(C(=O)C(F)(F)F)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8849",
+    "validation": "m_weight unsave, calculated(346.30499999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "(metabolite) 5F-MDMB-P7AICA",
+    "iupac_name": "N-[1-(5-Fluoropentyl)-1H-pyrrolo[2,3-b]pyridine-3-carbonyl]-3-methyl-L-valine ; (2S)-2-{[1-(5-Fluoropentyl)-1H-pyrrolo[2,3-b]pyridine-3-carbonyl]amino}-3,3-dimethylbutanoic acid",
+    "category": "cannabinodids",
+    "index": 11223,
+    "formular": "C19H26FN3O3",
+    "molecular_weight": 363.426,
+    "inChl": "1S/C19H26FN3O3/c1-19(2,3)15(18(25)26)22-17(24)14-12-23(11-6-4-5-9-20)16-13(14)8-7-10-21-16/h7-8,10,12,15H,4-6,9,11H2,1-3H3,(H,22,24)(H,25,26)/t15-/m1/s1",
+    "InChl_Key": "IONFTZRRFFXYIH-OAHLLOKOSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1cn(CCCCCF)c2ncccc12)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11223",
+    "validation": "m_weight unsave, calculated(363.43300000000016)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "T-NBOEt ; N-(2-Ethoxybenzyl)tryptamine",
+    "iupac_name": "N-[(2-Ethoxyphenyl)methyl]-2-(1H-indol-3-yl)ethan-1-amine ; N-(2-Ethoxybenzyl)-2-(1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5558,
+    "formular": "C19H22N2O",
+    "molecular_weight": 294.391,
+    "inChl": "1S/C19H22N2O/c1-2-22-19-10-6-3-7-16(19)13-20-12-11-15-14-21-18-9-5-4-8-17(15)18/h3-10,14,20-21H,2,11-13H2,1H3",
+    "InChl_Key": "HDVBXBQHKIFIPF-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccccc1CNCCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5558",
+    "validation": "m_weight unsave, calculated(294.39799999999997)"
+}

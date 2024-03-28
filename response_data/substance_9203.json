@@ -1,0 +1,13 @@
+{
+    "names": "R-1404",
+    "iupac_name": "Prop-2-en-1-yl 1-(3-oxo-3-phenylpropyl)-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 9203,
+    "formular": "C24H27NO3",
+    "molecular_weight": 377.476,
+    "inChl": "1S/C24H27NO3/c1-2-19-28-23(27)24(21-11-7-4-8-12-21)14-17-25(18-15-24)16-13-22(26)20-9-5-3-6-10-20/h2-12H,1,13-19H2",
+    "InChl_Key": "HETLLCGJSDVUTF-UHFFFAOYSA-N",
+    "SMILES": "C=CCOC(=O)C1(c2ccccc2)CCN(CCC(=O)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9203",
+    "validation": "m_weight unsave, calculated(377.484)"
+}

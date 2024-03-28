@@ -1,0 +1,13 @@
+{
+    "names": "2C-H-ANTH",
+    "iupac_name": "2-(Anthracen-9-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10072,
+    "formular": "C16H15N",
+    "molecular_weight": 221.297,
+    "inChl": "1S/C16H15N/c17-10-9-16-14-7-3-1-5-12(14)11-13-6-2-4-8-15(13)16/h1-8,11H,9-10,17H2",
+    "InChl_Key": "QQALHCFUHQWZJO-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c2ccccc2cc2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10072",
+    "validation": "m_weight unsave, calculated(221.30299999999997)"
+}

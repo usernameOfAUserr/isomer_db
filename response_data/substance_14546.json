@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(4-Fluorophenoxy)-2-phenylethyl]-4-[3-(trifluoromethyl)phenyl]piperazine",
+    "iupac_name": "14546 ; C25H24F4N2O ; 444.464",
+    "category": "data not stored",
+    "index": 14546,
+    "formular": "C25H24F4N2O",
+    "molecular_weight": 444.464,
+    "inChl": "1S/C25H24F4N2O/c26-21-9-11-23(12-10-21)32-24(19-5-2-1-3-6-19)18-30-13-15-31(16-14-30)22-8-4-7-20(17-22)25(27,28)29/h1-12,17,24H,13-16,18H2",
+    "InChl_Key": "ZISHPHYKZNVUON-UHFFFAOYSA-N",
+    "SMILES": "Fc1ccc(OC(CN2CCN(c3cccc(C(F)(F)F)c3)CC2)c2ccccc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14546",
+    "validation": "m_weight unsave, calculated(444.47200000000015)"
+}

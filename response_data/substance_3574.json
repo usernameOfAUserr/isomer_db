@@ -1,0 +1,13 @@
+{
+    "names": "(2,6-Dimethylquinolin-4-yl)(1-{[(2R)-1-methylpiperidin-2-yl]methyl}-1H-indol-3-yl)methanone",
+    "iupac_name": "3574 ; C27H29N3O ; 411.539",
+    "category": "cannabinodids",
+    "index": 3574,
+    "formular": "C27H29N3O",
+    "molecular_weight": 411.539,
+    "inChl": "1S/C27H29N3O/c1-18-11-12-25-22(14-18)23(15-19(2)28-25)27(31)24-17-30(26-10-5-4-9-21(24)26)16-20-8-6-7-13-29(20)3/h4-5,9-12,14-15,17,20H,6-8,13,16H2,1-3H3/t20-/m1/s1",
+    "InChl_Key": "ZTPPKUQSDZEYDX-HXUWFJFHSA-N",
+    "SMILES": "Cc1ccc2nc(C)cc(C(=O)c3cn(C[C@H]4CCCCN4C)c4ccccc34)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3574",
+    "validation": "m_weight unsave, calculated(411.5490000000002)"
+}

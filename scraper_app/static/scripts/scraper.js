@@ -16,7 +16,6 @@ if(value != "massebereich"){
 }
 
 
-
 function show_reset_progress(resetInterval){
     $.ajax({
         type: 'GET',
@@ -26,13 +25,18 @@ function show_reset_progress(resetInterval){
             console.log(response.progress)
             if (response.progress >= 100){
                 $(".progressbar").width("0%"); 
+                clearInterval(resetInterval);
                 document.querySelector('.progressbar').style['display'] = "none";
                 document.querySelector('.progress_message').style["display"]= "none"; 
                  var show_witz = document.querySelector('.show_witz')
+                 try{  
+                var answer = document.querySelector('.answer');
+                 answer.style["display"] = "flex";}
+                 catch{}
                 show_witz.style["display"] = "none";
                  var answer = document.querySelector('.answer');
                 answer.style["display"] = "flex";
-                clearInterval(resetInterval);
+                changeBackground();
                 var answer = document.querySelector('.answer');
                 if(answer != null){answer.style["display"] = "block";}
                 var message = document.querySelector('.show_massebereich');
@@ -56,6 +60,7 @@ function show_reset_progress(resetInterval){
 }
 
 function reset_db(){
+    changeBackground();
     var answer = document.querySelector('.answer');
     if(answer != null){answer.style["display"] = "none";}
     var message = document.querySelector('.show_massebereich');
@@ -77,6 +82,7 @@ function reset_db(){
 }
 
 function load_new_substances(){
+    changeBackground();
     alert("I start the search");
     $.ajax({
         type:'GET',
@@ -84,7 +90,7 @@ function load_new_substances(){
         timeout: 0,
         success:function(response){
             alert("New Substances loaded");
-            for (smile in response.newSubstances){
+            for (url in response.newSubstances){
                 alert(response.newSubstances[smile])
             }
         },
@@ -92,4 +98,5 @@ function load_new_substances(){
             alert("not possible, try to reload whole db");
         },
     });
+    changeBackground();
 }

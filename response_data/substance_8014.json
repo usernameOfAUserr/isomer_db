@@ -1,0 +1,13 @@
+{
+    "names": "WO 2014/039042 #1.3",
+    "iupac_name": "4-Cyanobutyl 2-[(6aR,10aR)-1-hydroxy-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-3-yl]-2-methylpropanoate",
+    "category": "cannabinodids",
+    "index": 8014,
+    "formular": "C25H33NO4",
+    "molecular_weight": 411.534,
+    "inChl": "1S/C25H33NO4/c1-16-9-10-19-18(13-16)22-20(27)14-17(15-21(22)30-25(19,4)5)24(2,3)23(28)29-12-8-6-7-11-26/h9,14-15,18-19,27H,6-8,10,12-13H2,1-5H3/t18-,19-/m1/s1",
+    "InChl_Key": "RTMUDYKVYDHMOF-RTBURBONSA-N",
+    "SMILES": "CC1=CC[C@@H]2[C@@H](C1)c1c(O)cc(C(C)(C)C(=O)OCCCCC#N)cc1OC2(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8014",
+    "validation": "m_weight unsave, calculated(411.54200000000026)"
+}

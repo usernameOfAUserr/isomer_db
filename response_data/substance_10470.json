@@ -1,0 +1,13 @@
+{
+    "names": "5-(Methylthio)varacin",
+    "iupac_name": "2-[8,9-Dimethoxy-7-(methylsulfanyl)-1,2,3,4,5-benzopentathiepin-6-yl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10470,
+    "formular": "C11H15NO2S6",
+    "molecular_weight": 385.632,
+    "inChl": "1S/C11H15NO2S6/c1-13-7-8(14-2)11-10(16-18-20-19-17-11)6(4-5-12)9(7)15-3/h4-5,12H2,1-3H3",
+    "InChl_Key": "RKTHEWLKRBBRHI-UHFFFAOYSA-N",
+    "SMILES": "COc1c(OC)c2c(c(CCN)c1SC)SSSSS2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10470",
+    "validation": "m_weight unsave, calculated(385.648)"
+}

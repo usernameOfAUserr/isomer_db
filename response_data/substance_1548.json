@@ -1,0 +1,13 @@
+{
+    "names": "3-{2-[Hexyl(2-phenylethyl)amino]ethyl}phenol",
+    "iupac_name": "1548 ; C22H31NO ; 325.488",
+    "category": "data not stored",
+    "index": 1548,
+    "formular": "C22H31NO",
+    "molecular_weight": 325.488,
+    "inChl": "1S/C22H31NO/c1-2-3-4-8-16-23(17-14-20-10-6-5-7-11-20)18-15-21-12-9-13-22(24)19-21/h5-7,9-13,19,24H,2-4,8,14-18H2,1H3",
+    "InChl_Key": "XNXKEYCDXWQUQU-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCN(CCc1ccccc1)CCc1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1548",
+    "validation": "m_weight unsave, calculated(325.49600000000004)"
+}

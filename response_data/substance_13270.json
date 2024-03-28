@@ -1,0 +1,13 @@
+{
+    "names": "Nitroethane",
+    "iupac_name": "13270 ; C2H5NO2 ; 75.067",
+    "category": "data not stored",
+    "index": 13270,
+    "formular": "C2H5NO2",
+    "molecular_weight": 75.067,
+    "inChl": "1S/C2H5NO2/c1-2-3(4)5/h2H2,1H3",
+    "InChl_Key": "MCSAJNNLRCFZED-UHFFFAOYSA-N",
+    "SMILES": "CC[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13270",
+    "validation": "m_weight unsave, calculated(75.067)"
+}

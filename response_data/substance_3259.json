@@ -1,0 +1,13 @@
+{
+    "names": "Etoxeridine",
+    "iupac_name": "Ethyl 1-[2-(2-hydroxyethoxy)ethyl]-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 3259,
+    "formular": "C18H27NO4",
+    "molecular_weight": 321.411,
+    "inChl": "1S/C18H27NO4/c1-2-23-17(21)18(16-6-4-3-5-7-16)8-10-19(11-9-18)12-14-22-15-13-20/h3-7,20H,2,8-15H2,1H3",
+    "InChl_Key": "KJTKYGFGPQSRRA-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CCOCCO)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3259",
+    "validation": "m_weight unsave, calculated(321.417)"
+}

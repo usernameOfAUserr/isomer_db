@@ -1,0 +1,13 @@
+{
+    "names": "SKF-97541",
+    "iupac_name": "(3-Aminopropyl)methylphosphinic acid",
+    "category": "data not stored",
+    "index": 8368,
+    "formular": "C4H12NO2P",
+    "molecular_weight": 137.117,
+    "inChl": "1S/C4H12NO2P/c1-8(6,7)4-2-3-5/h2-5H2,1H3,(H,6,7)",
+    "InChl_Key": "NHVRIDDXGZPJTJ-UHFFFAOYSA-N",
+    "SMILES": "CP(=O)(O)CCCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8368",
+    "validation": "m_weight unsave, calculated(137.11899999999997)"
+}

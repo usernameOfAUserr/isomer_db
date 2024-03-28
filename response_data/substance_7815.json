@@ -1,0 +1,13 @@
+{
+    "names": "2C-G-12 ; 4-Ethyl-2,5-dimethoxy-3-methylphenethylamine",
+    "iupac_name": "2-(4-Ethyl-2,5-dimethoxy-3-methylphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7815,
+    "formular": "C13H21NO2",
+    "molecular_weight": 223.311,
+    "inChl": "1S/C13H21NO2/c1-5-11-9(2)13(16-4)10(6-7-14)8-12(11)15-3/h8H,5-7,14H2,1-4H3",
+    "InChl_Key": "KBRHKDVSJLRHCY-UHFFFAOYSA-N",
+    "SMILES": "CCc1c(OC)cc(CCN)c(OC)c1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7815",
+    "validation": "m_weight unsave, calculated(223.31599999999995)"
+}

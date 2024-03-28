@@ -1,0 +1,13 @@
+{
+    "names": "WO 2014/015298 #13",
+    "iupac_name": "4-(2-{(1E)-1-[(Phenanthren-4-yl)methylidene]-1H-inden-3-yl}ethyl)morpholine",
+    "category": "cannabinodids",
+    "index": 4258,
+    "formular": "C30H27NO",
+    "molecular_weight": 417.541,
+    "inChl": "1S/C30H27NO/c1-2-11-29-22(6-1)12-13-23-7-5-8-25(30(23)29)21-26-20-24(27-9-3-4-10-28(26)27)14-15-31-16-18-32-19-17-31/h1-13,20-21H,14-19H2/b26-21+",
+    "InChl_Key": "HTZQBFBLIBQDOS-YYADALCUSA-N",
+    "SMILES": "C1=C(CCN2CCOCC2)c2ccccc2/C1=C/c1cccc2ccc3ccccc3c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4258",
+    "validation": "m_weight unsave, calculated(417.55200000000013)"
+}

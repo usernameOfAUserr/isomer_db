@@ -1,0 +1,13 @@
+{
+    "names": "25THF3-NBOMe ; N-(2-Methoxybenzyl)-4-(tetrahydrofuran-3-yl)-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-[2,5-Dimethoxy-4-(oxolan-3-yl)phenyl]-N-[(2-methoxyphenyl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 5971,
+    "formular": "C22H29NO4",
+    "molecular_weight": 371.47,
+    "inChl": "1S/C22H29NO4/c1-24-20-7-5-4-6-17(20)14-23-10-8-16-12-22(26-3)19(13-21(16)25-2)18-9-11-27-15-18/h4-7,12-13,18,23H,8-11,14-15H2,1-3H3",
+    "InChl_Key": "YJFQGOLDDUEXOB-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2CCOC2)c(OC)cc1CCNCc1ccccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5971",
+    "validation": "m_weight unsave, calculated(371.4770000000001)"
+}

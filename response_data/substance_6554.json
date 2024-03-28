@@ -1,0 +1,13 @@
+{
+    "names": "PAL-893",
+    "iupac_name": "(3Z)-4-Phenylbut-3-en-2-amine",
+    "category": "data not stored",
+    "index": 6554,
+    "formular": "C10H13N",
+    "molecular_weight": 147.217,
+    "inChl": "1S/C10H13N/c1-9(11)7-8-10-5-3-2-4-6-10/h2-9H,11H2,1H3/b8-7-",
+    "InChl_Key": "QPVUUOXSCVQZQG-FPLPWBNLSA-N",
+    "SMILES": "CC(N)/C=C\\c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6554",
+    "validation": "m_weight unsave, calculated(147.22099999999998)"
+}

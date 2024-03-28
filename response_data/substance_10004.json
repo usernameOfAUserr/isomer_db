@@ -1,0 +1,13 @@
+{
+    "names": "2,5-DCA ; 2,5-Dichloroamphetamine",
+    "iupac_name": "1-(2,5-Dichlorophenyl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10004,
+    "formular": "C9H11Cl2N",
+    "molecular_weight": 204.096,
+    "inChl": "1S/C9H11Cl2N/c1-6(12)4-7-5-8(10)2-3-9(7)11/h2-3,5-6H,4,12H2,1H3",
+    "InChl_Key": "HTEBKXXBGSCPMS-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1cc(Cl)ccc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10004",
+    "validation": "m_weight unsave, calculated(204.1)"
+}

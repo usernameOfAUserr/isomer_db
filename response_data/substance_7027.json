@@ -1,0 +1,13 @@
+{
+    "names": "norborno-T ; Norborno-tryptamine",
+    "iupac_name": "3-(1H-Indol-3-yl)bicyclo[2.2.1]heptan-2-amine",
+    "category": "Tryptamine",
+    "index": 7027,
+    "formular": "C15H18N2",
+    "molecular_weight": 226.317,
+    "inChl": "1S/C15H18N2/c16-15-10-6-5-9(7-10)14(15)12-8-17-13-4-2-1-3-11(12)13/h1-4,8-10,14-15,17H,5-7,16H2",
+    "InChl_Key": "ZOBJKXYGRKVTTE-UHFFFAOYSA-N",
+    "SMILES": "NC1C2CCC(C2)C1c1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7027",
+    "validation": "m_weight unsave, calculated(226.32299999999998)"
+}

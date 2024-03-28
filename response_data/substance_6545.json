@@ -1,0 +1,13 @@
+{
+    "names": "Methylnaphthidate TFA",
+    "iupac_name": "Methyl (naphthalen-2-yl)[1-(trifluoroacetyl)piperidin-2-yl]acetate",
+    "category": "data not stored",
+    "index": 6545,
+    "formular": "C20H20F3NO3",
+    "molecular_weight": 379.373,
+    "inChl": "1S/C20H20F3NO3/c1-27-18(25)17(15-10-9-13-6-2-3-7-14(13)12-15)16-8-4-5-11-24(16)19(26)20(21,22)23/h2-3,6-7,9-10,12,16-17H,4-5,8,11H2,1H3",
+    "InChl_Key": "AYORSOIJKRRTKI-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(c1ccc2ccccc2c1)C1CCCCN1C(=O)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6545",
+    "validation": "m_weight unsave, calculated(379.37800000000004)"
+}

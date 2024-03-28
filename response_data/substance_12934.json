@@ -1,0 +1,13 @@
+{
+    "names": "1-Pentyl-1H-indole-3-carboxylic acid",
+    "iupac_name": "12934 ; C14H17NO2 ; 231.29",
+    "category": "data not stored",
+    "index": 12934,
+    "formular": "C14H17NO2",
+    "molecular_weight": 231.29,
+    "inChl": "1S/C14H17NO2/c1-2-3-6-9-15-10-12(14(16)17)11-7-4-5-8-13(11)15/h4-5,7-8,10H,2-3,6,9H2,1H3,(H,16,17)",
+    "InChl_Key": "HAPJUNILBCTRIJ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)O)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12934",
+    "validation": "m_weight unsave, calculated(231.29500000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-Carboxamideindazole",
+    "iupac_name": "1H-Indazole-3-carboxamide",
+    "category": "data not stored",
+    "index": 13823,
+    "formular": "C8H7N3O",
+    "molecular_weight": 161.161,
+    "inChl": "1S/C8H7N3O/c9-8(12)7-5-3-1-2-4-6(5)10-11-7/h1-4H,(H2,9,12)(H,10,11)",
+    "InChl_Key": "DITBWPUMEUDVLU-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)c1n[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13823",
+    "validation": "m_weight unsave, calculated(161.16400000000002)"
+}

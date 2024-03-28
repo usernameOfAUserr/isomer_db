@@ -1,0 +1,13 @@
+{
+    "names": "US 6509352 #3-25",
+    "iupac_name": "N-[(4-Fluorophenyl)methyl]-7-methoxy-2-oxo-8-(pentyloxy)-1,2-dihydroquinoline-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4200,
+    "formular": "C23H25FN2O4",
+    "molecular_weight": 412.454,
+    "inChl": "1S/C23H25FN2O4/c1-3-4-5-12-30-21-19(29-2)11-8-16-13-18(23(28)26-20(16)21)22(27)25-14-15-6-9-17(24)10-7-15/h6-11,13H,3-5,12,14H2,1-2H3,(H,25,27)(H,26,28)",
+    "InChl_Key": "FJSPUGKXUJIVBS-UHFFFAOYSA-N",
+    "SMILES": "CCCCCOc1c(OC)ccc2cc(C(=O)NCc3ccc(F)cc3)c(=O)[nH]c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4200",
+    "validation": "m_weight unsave, calculated(412.4610000000001)"
+}

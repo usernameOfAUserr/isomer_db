@@ -1,0 +1,13 @@
+{
+    "names": "2,5-HO-4-CPEA ; 4-Carboxy-2,5-dihydroxyphenethylamine",
+    "iupac_name": "4-(2-Aminoethyl)-2,5-dihydroxybenzoic acid",
+    "category": "data not stored",
+    "index": 1460,
+    "formular": "C9H11NO4",
+    "molecular_weight": 197.188,
+    "inChl": "1S/C9H11NO4/c10-2-1-5-3-8(12)6(9(13)14)4-7(5)11/h3-4,11-12H,1-2,10H2,(H,13,14)",
+    "InChl_Key": "DSVICXMJJUUVAV-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cc(O)c(C(=O)O)cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1460",
+    "validation": "m_weight unsave, calculated(197.18999999999997)"
+}

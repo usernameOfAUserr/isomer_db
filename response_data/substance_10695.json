@@ -1,0 +1,13 @@
+{
+    "names": "PNU-91356A ; U-91356",
+    "iupac_name": "(5R)-5-(Propylamino)-5,6-dihydro-4H-imidazo[4,5,1-ij]quinolin-2(1H)-one",
+    "category": "data not stored",
+    "index": 10695,
+    "formular": "C13H17N3O",
+    "molecular_weight": 231.294,
+    "inChl": "1S/C13H17N3O/c1-2-6-14-10-7-9-4-3-5-11-12(9)16(8-10)13(17)15-11/h3-5,10,14H,2,6-8H2,1H3,(H,15,17)/t10-/m1/s1",
+    "InChl_Key": "XTWUNLMHXDDOMD-SNVBAGLBSA-N",
+    "SMILES": "CCCN[C@@H]1Cc2cccc3[nH]c(=O)n(c23)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10695",
+    "validation": "m_weight unsave, calculated(231.29899999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "10,11-Dihydrospiro[dibenzo[a,d][7]annulene-5,3\u2032-pyrrolidine]",
+    "iupac_name": "12092 ; C18H19N ; 249.35",
+    "category": "Phenetylamine",
+    "index": 12092,
+    "formular": "C18H19N",
+    "molecular_weight": 249.35,
+    "inChl": "1S/C18H19N/c1-3-7-16-14(5-1)9-10-15-6-2-4-8-17(15)18(16)11-12-19-13-18/h1-8,19H,9-13H2",
+    "InChl_Key": "VETLKXRHXYJTGH-UHFFFAOYSA-N",
+    "SMILES": "c1ccc2c(c1)CCc1ccccc1C21CCNC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12092",
+    "validation": "m_weight unsave, calculated(249.35699999999997)"
+}

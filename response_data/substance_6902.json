@@ -1,0 +1,13 @@
+{
+    "names": "MRZ 2/150",
+    "iupac_name": "3,5-Diethyladamantan-1-amine",
+    "category": "data not stored",
+    "index": 6902,
+    "formular": "C14H25N",
+    "molecular_weight": 207.355,
+    "inChl": "1S/C14H25N/c1-3-12-5-11-6-13(4-2,8-12)10-14(15,7-11)9-12/h11H,3-10,15H2,1-2H3",
+    "InChl_Key": "SUVNEFNZAWETBP-UHFFFAOYSA-N",
+    "SMILES": "CCC12CC3CC(N)(C1)CC(CC)(C3)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6902",
+    "validation": "m_weight unsave, calculated(207.36099999999993)"
+}

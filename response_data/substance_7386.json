@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Di(furan-2-ylmethyl)-T ; N,N-Di(furan-2-ylmethyl)tryptamine",
+    "iupac_name": "N,N-Bis[(furan-2-yl)methyl]-2-(1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 7386,
+    "formular": "C20H20N2O2",
+    "molecular_weight": 320.385,
+    "inChl": "1S/C20H20N2O2/c1-2-8-20-19(7-1)16(13-21-20)9-10-22(14-17-5-3-11-23-17)15-18-6-4-12-24-18/h1-8,11-13,21H,9-10,14-15H2",
+    "InChl_Key": "KWAIACHRWBDFKW-UHFFFAOYSA-N",
+    "SMILES": "c1coc(CN(CCc2c[nH]c3ccccc23)Cc2ccco2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7386",
+    "validation": "m_weight unsave, calculated(320.39200000000005)"
+}

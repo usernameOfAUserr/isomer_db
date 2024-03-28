@@ -1,0 +1,13 @@
+{
+    "names": "N-{1-[2-(2,4-Difluorophenyl)-2-hydroxyethyl]piperidin-4-yl}-N-phenylpropanamide",
+    "iupac_name": "8484 ; C22H26F2N2O2 ; 388.451",
+    "category": "Fentanyl",
+    "index": 8484,
+    "formular": "C22H26F2N2O2",
+    "molecular_weight": 388.451,
+    "inChl": "1S/C22H26F2N2O2/c1-2-22(28)26(17-6-4-3-5-7-17)18-10-12-25(13-11-18)15-21(27)19-9-8-16(23)14-20(19)24/h3-9,14,18,21,27H,2,10-13,15H2,1H3",
+    "InChl_Key": "WLJHFQUKZHFDPP-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1CCN(CC(O)c2ccc(F)cc2F)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8484",
+    "validation": "m_weight unsave, calculated(388.45799999999997)"
+}

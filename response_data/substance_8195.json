@@ -1,0 +1,13 @@
+{
+    "names": "Perlolyrine",
+    "iupac_name": "[5-(9H-Pyrido[3,4-b]indol-1-yl)furan-2-yl]methanol",
+    "category": "data not stored",
+    "index": 8195,
+    "formular": "C16H12N2O2",
+    "molecular_weight": 264.279,
+    "inChl": "1S/C16H12N2O2/c19-9-10-5-6-14(20-10)16-15-12(7-8-17-16)11-3-1-2-4-13(11)18-15/h1-8,18-19H,9H2",
+    "InChl_Key": "KFUCYPGCMLPUMT-UHFFFAOYSA-N",
+    "SMILES": "OCc1ccc(-c2nccc3c2[nH]c2ccccc23)o1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8195",
+    "validation": "m_weight unsave, calculated(264.284)"
+}

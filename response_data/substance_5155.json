@@ -1,0 +1,13 @@
+{
+    "names": "7-MeO-DMT ; 7-Methoxy-N,N-dimethyltryptamine",
+    "iupac_name": "2-(7-Methoxy-1H-indol-3-yl)-N,N-dimethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5155,
+    "formular": "C13H18N2O",
+    "molecular_weight": 218.295,
+    "inChl": "1S/C13H18N2O/c1-15(2)8-7-10-9-14-13-11(10)5-4-6-12(13)16-3/h4-6,9,14H,7-8H2,1-3H3",
+    "InChl_Key": "GCEZYLSUTMYNRN-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c(CCN(C)C)c[nH]c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5155",
+    "validation": "m_weight unsave, calculated(218.29999999999995)"
+}

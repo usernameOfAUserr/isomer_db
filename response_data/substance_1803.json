@@ -1,0 +1,13 @@
+{
+    "names": "3,4-DBnO-BAL",
+    "iupac_name": "3,4-Bis(benzyloxy)benzaldehyde ; 3,4-Dibenzyloxybenzaldehyde",
+    "category": "data not stored",
+    "index": 1803,
+    "formular": "C21H18O3",
+    "molecular_weight": 318.366,
+    "inChl": "1S/C21H18O3/c22-14-19-11-12-20(23-15-17-7-3-1-4-8-17)21(13-19)24-16-18-9-5-2-6-10-18/h1-14H,15-16H2",
+    "InChl_Key": "XDDLXZHBWVFPRG-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1ccc(OCc2ccccc2)c(OCc2ccccc2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1803",
+    "validation": "m_weight unsave, calculated(318.37199999999996)"
+}

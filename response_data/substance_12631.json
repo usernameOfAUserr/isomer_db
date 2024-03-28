@@ -1,0 +1,13 @@
+{
+    "names": "Desmethaqualone",
+    "iupac_name": "2-Methyl-3-phenylquinazolin-4(3H)-one",
+    "category": "data not stored",
+    "index": 12631,
+    "formular": "C15H12N2O",
+    "molecular_weight": 236.269,
+    "inChl": "1S/C15H12N2O/c1-11-16-14-10-6-5-9-13(14)15(18)17(11)12-7-3-2-4-8-12/h2-10H,1H3",
+    "InChl_Key": "LGNHCOKGKIUFDW-UHFFFAOYSA-N",
+    "SMILES": "Cc1nc2ccccc2c(=O)n1-c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12631",
+    "validation": "m_weight unsave, calculated(236.27399999999997)"
+}

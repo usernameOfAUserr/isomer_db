@@ -1,0 +1,13 @@
+{
+    "names": "Adrenochrome methyl ether",
+    "iupac_name": "3-Methoxy-1-methyl-2,3-dihydro-1H-indole-5,6-dione",
+    "category": "data not stored",
+    "index": 8392,
+    "formular": "C10H11NO3",
+    "molecular_weight": 193.199,
+    "inChl": "1S/C10H11NO3/c1-11-5-10(14-2)6-3-8(12)9(13)4-7(6)11/h3-4,10H,5H2,1-2H3",
+    "InChl_Key": "JLJWYAQRPGUDQO-UHFFFAOYSA-N",
+    "SMILES": "COC1CN(C)C2=CC(=O)C(=O)C=C21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8392",
+    "validation": "m_weight unsave, calculated(193.20199999999997)"
+}

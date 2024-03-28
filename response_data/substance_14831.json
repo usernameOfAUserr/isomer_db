@@ -1,0 +1,13 @@
+{
+    "names": "26H-NBCl ; N-(2-Chlorobenzyl)-2,6-dimethoxyphenethylamine",
+    "iupac_name": "N-[(2-Chlorophenyl)methyl]-2-(2,6-dimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14831,
+    "formular": "C17H20ClNO2",
+    "molecular_weight": 305.799,
+    "inChl": "1S/C17H20ClNO2/c1-20-16-8-5-9-17(21-2)14(16)10-11-19-12-13-6-3-4-7-15(13)18/h3-9,19H,10-12H2,1-2H3",
+    "InChl_Key": "IJVFTQGXLULASN-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(OC)c1CCNCc1ccccc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14831",
+    "validation": "m_weight unsave, calculated(305.805)"
+}

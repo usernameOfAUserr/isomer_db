@@ -1,0 +1,13 @@
+{
+    "names": "4-AcO-MIPT ; 4-Acetoxy-N-methyl-N-isopropyltryptamine ; Mipracetin",
+    "iupac_name": "3-{2-[Methyl(propan-2-yl)amino]ethyl}-1H-indol-4-yl acetate",
+    "category": "Tryptamine",
+    "index": 5546,
+    "formular": "C16H22N2O2",
+    "molecular_weight": 274.358,
+    "inChl": "1S/C16H22N2O2/c1-11(2)18(4)9-8-13-10-17-14-6-5-7-15(16(13)14)20-12(3)19/h5-7,10-11,17H,8-9H2,1-4H3",
+    "InChl_Key": "CIDMXLOVFPIHDS-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Oc1cccc2[nH]cc(CCN(C)C(C)C)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5546",
+    "validation": "m_weight unsave, calculated(274.3639999999999)"
+}

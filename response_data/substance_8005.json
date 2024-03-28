@@ -1,0 +1,13 @@
+{
+    "names": "(1\u2032S,2\u2032S)-5\u2032-(Hydroxymethyl)-4-[2-methyl-6-(morpholin-4-yl)hexan-2-yl]-2\u2032-(prop-1-en-2-yl)-1\u2032,2\u2032,3\u2032,4\u2032-tetrahydro[1,1\u2032-biphenyl]-2,6-diol",
+    "iupac_name": "8005 ; C27H41NO4 ; 443.619",
+    "category": "cannabinodids",
+    "index": 8005,
+    "formular": "C27H41NO4",
+    "molecular_weight": 443.619,
+    "inChl": "1S/C27H41NO4/c1-19(2)22-8-7-20(18-29)15-23(22)26-24(30)16-21(17-25(26)31)27(3,4)9-5-6-10-28-11-13-32-14-12-28/h15-17,22-23,29-31H,1,5-14,18H2,2-4H3/t22-,23+/m1/s1",
+    "InChl_Key": "XLHWXAJCOAQGTA-PKTZIBPZSA-N",
+    "SMILES": "C=C(C)[C@H]1CCC(CO)=C[C@@H]1c1c(O)cc(C(C)(C)CCCCN2CCOCC2)cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8005",
+    "validation": "m_weight unsave, calculated(443.62800000000044)"
+}

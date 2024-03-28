@@ -1,0 +1,13 @@
+{
+    "names": "Mescaline isocitrimide lactone ; N-(3,4,5-Trimethoxyphenethyl)isocitrimide lactone",
+    "iupac_name": "5-[2-(3,4,5-Trimethoxyphenyl)ethyl]dihydro-2H-furo[2,3-c]pyrrole-2,4,6(3H,5H)-trione",
+    "category": "Peyote alkaloid",
+    "index": 2249,
+    "formular": "C17H19NO7",
+    "molecular_weight": 349.335,
+    "inChl": "1S/C17H19NO7/c1-22-11-6-9(7-12(23-2)15(11)24-3)4-5-18-16(20)10-8-13(19)25-14(10)17(18)21/h6-7,10,14H,4-5,8H2,1-3H3",
+    "InChl_Key": "GZUQMXTYIBHNAM-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN2C(=O)C3CC(=O)OC3C2=O)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2249",
+    "validation": "m_weight unsave, calculated(349.3390000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Org-12962",
+    "iupac_name": "1-[6-Chloro-5-(trifluoromethyl)pyridin-2-yl]piperazine",
+    "category": "data not stored",
+    "index": 2851,
+    "formular": "C10H11ClF3N3",
+    "molecular_weight": 265.663,
+    "inChl": "1S/C10H11ClF3N3/c11-9-7(10(12,13)14)1-2-8(16-9)17-5-3-15-4-6-17/h1-2,15H,3-6H2",
+    "InChl_Key": "QZYYPQAYSFBKPW-UHFFFAOYSA-N",
+    "SMILES": "FC(F)(F)c1ccc(N2CCNCC2)nc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2851",
+    "validation": "m_weight unsave, calculated(265.66599999999994)"
+}

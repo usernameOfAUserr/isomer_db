@@ -1,0 +1,13 @@
+{
+    "names": "11-Methoxyyangonin",
+    "iupac_name": "6-[(E)-2-(3,4-Dimethoxyphenyl)ethenyl]-4-methoxy-2H-pyran-2-one",
+    "category": "data not stored",
+    "index": 9887,
+    "formular": "C16H16O5",
+    "molecular_weight": 288.295,
+    "inChl": "1S/C16H16O5/c1-18-13-9-12(21-16(17)10-13)6-4-11-5-7-14(19-2)15(8-11)20-3/h4-10H,1-3H3/b6-4+",
+    "InChl_Key": "GBJRDULCMRSYSL-GQCTYLIASA-N",
+    "SMILES": "COc1cc(/C=C/c2ccc(OC)c(OC)c2)oc(=O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9887",
+    "validation": "m_weight unsave, calculated(288.299)"
+}

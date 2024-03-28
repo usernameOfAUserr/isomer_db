@@ -1,0 +1,13 @@
+{
+    "names": "2,3,7,11b-Tetrahydro-1H-dibenzo[de,h]isoquinoline",
+    "iupac_name": "10885 ; C16H15N ; 221.297",
+    "category": "Phenetylamine",
+    "index": 10885,
+    "formular": "C16H15N",
+    "molecular_weight": 221.297,
+    "inChl": "1S/C16H15N/c1-2-7-14-11(4-1)8-12-5-3-6-13-9-17-10-15(14)16(12)13/h1-7,15,17H,8-10H2",
+    "InChl_Key": "HRGBJIPOLZMPKG-UHFFFAOYSA-N",
+    "SMILES": "c1ccc2c(c1)Cc1cccc3c1C2CNC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10885",
+    "validation": "m_weight unsave, calculated(221.30299999999997)"
+}

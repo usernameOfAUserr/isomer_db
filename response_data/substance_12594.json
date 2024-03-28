@@ -1,0 +1,13 @@
+{
+    "names": "SoRI-9409",
+    "iupac_name": "(4bS,8R,8aS,13bR)-11-(4-Chlorophenyl)-7-(cyclopropylmethyl)-5,6,7,8,9,13b-hexahydro-8aH-4,8-methano[1]benzofuro[3,2-h]pyrido[3,4-g]quinoline-1,8a-diol",
+    "category": "data not stored",
+    "index": 12594,
+    "formular": "C29H27ClN2O3",
+    "molecular_weight": 486.989,
+    "inChl": "1S/C29H27ClN2O3/c30-21-6-3-17(4-7-21)20-11-19-13-29(34)23-12-18-5-8-22(33)26-24(18)28(29,27(35-26)25(19)31-14-20)9-10-32(23)15-16-1-2-16/h3-8,11,14,16,23,27,33-34H,1-2,9-10,12-13,15H2/t23-,27+,28+,29-/m1/s1",
+    "InChl_Key": "WRVDUHKCIPYGNZ-FQYQUSJJSA-N",
+    "SMILES": "Oc1ccc2c3c1O[C@H]1c4ncc(-c5ccc(Cl)cc5)cc4C[C@@]4(O)[C@@H](C2)N(CC2CC2)CC[C@]314",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12594",
+    "validation": "m_weight unsave, calculated(486.99900000000036)"
+}

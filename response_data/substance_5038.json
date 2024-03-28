@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-DMT ; 5-Methoxy-N,N-dimethyltryptamine ; Bufotenine methyl ether ; Indole, 5-methoxy-3-[2-(dimethylamino)ethyl] ; 5-Methoxy-3-[2-(dimethylamino)ethyl]indole ; O-Methylbufotenine ; OMB ; N,N,O-TMS ; N,N,O-Trimethylserotonin ; Tryptamine, 5-methoxy-N,N-dimethyl",
+    "iupac_name": "2-(5-Methoxy-1H-indol-3-yl)-N,N-dimethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5038,
+    "formular": "C13H18N2O",
+    "molecular_weight": 218.295,
+    "inChl": "1S/C13H18N2O/c1-15(2)7-6-10-9-14-13-5-4-11(16-3)8-12(10)13/h4-5,8-9,14H,6-7H2,1-3H3",
+    "InChl_Key": "ZSTKHSQDNIGFLM-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN(C)C)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5038",
+    "validation": "m_weight unsave, calculated(218.29999999999998)"
+}

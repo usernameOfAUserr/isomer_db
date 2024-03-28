@@ -1,0 +1,13 @@
+{
+    "names": "2-Methoxy-6-methyl-5,6,7,8-tetrahydrodibenzo[c,e]azocin-1-ol",
+    "iupac_name": "12465 ; C17H19NO2 ; 269.338",
+    "category": "data not stored",
+    "index": 12465,
+    "formular": "C17H19NO2",
+    "molecular_weight": 269.338,
+    "inChl": "1S/C17H19NO2/c1-18-10-9-12-5-3-4-6-14(12)16-13(11-18)7-8-15(20-2)17(16)19/h3-8,19H,9-11H2,1-2H3",
+    "InChl_Key": "ZGZXDJPQXTUPSG-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c(c1O)-c1ccccc1CCN(C)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12465",
+    "validation": "m_weight unsave, calculated(269.344)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-Chloroethyl-DMT+ ; N-Chloroethyl-N,N-dimethyltryptamine+",
+    "iupac_name": "2-Chloro-N-[2-(1H-indol-3-yl)ethyl]-N,N-dimethylethan-1-aminium",
+    "category": "Tryptamine",
+    "index": 14658,
+    "formular": "C14H20ClN2",
+    "molecular_weight": 251.775,
+    "inChl": "1S/C14H20ClN2/c1-17(2,10-8-15)9-7-12-11-16-14-6-4-3-5-13(12)14/h3-6,11,16H,7-10H2,1-2H3/q+1",
+    "InChl_Key": "BECCJRFAQDVMLI-UHFFFAOYSA-N",
+    "SMILES": "C[N+](C)(CCCl)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14658",
+    "validation": "m_weight unsave, calculated(251.78100000000003)formular unsave, calculated(C14H20ClN2+)"
+}

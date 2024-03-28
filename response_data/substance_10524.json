@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Vi-3-HPEA ; \u03b2-Vinyl-3-hydroxyphenethylamine",
+    "iupac_name": "3-(1-Aminobut-3-en-2-yl)phenol",
+    "category": "Phenetylamine",
+    "index": 10524,
+    "formular": "C10H13NO",
+    "molecular_weight": 163.216,
+    "inChl": "1S/C10H13NO/c1-2-8(7-11)9-4-3-5-10(12)6-9/h2-6,8,12H,1,7,11H2",
+    "InChl_Key": "MQORLAFXLLIEMS-UHFFFAOYSA-N",
+    "SMILES": "C=CC(CN)c1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10524",
+    "validation": "m_weight unsave, calculated(163.21999999999997)"
+}

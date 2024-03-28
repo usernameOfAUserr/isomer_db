@@ -1,0 +1,13 @@
+{
+    "names": "R-1919",
+    "iupac_name": "Methyl 1-(5-oxo-5-phenylpentyl)-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 9193,
+    "formular": "C24H29NO3",
+    "molecular_weight": 379.492,
+    "inChl": "1S/C24H29NO3/c1-28-23(27)24(21-12-6-3-7-13-21)15-18-25(19-16-24)17-9-8-14-22(26)20-10-4-2-5-11-20/h2-7,10-13H,8-9,14-19H2,1H3",
+    "InChl_Key": "QHJNTWVQSNOAEP-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C1(c2ccccc2)CCN(CCCCC(=O)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9193",
+    "validation": "m_weight unsave, calculated(379.5)"
+}

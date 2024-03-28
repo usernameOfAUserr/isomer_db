@@ -1,0 +1,13 @@
+{
+    "names": "Fenbutrazate ; Phenbutrazate",
+    "iupac_name": "2-(3-Methyl-2-phenylmorpholin-4-yl)ethyl 2-phenylbutanoate",
+    "category": "data not stored",
+    "index": 12435,
+    "formular": "C23H29NO3",
+    "molecular_weight": 367.481,
+    "inChl": "1S/C23H29NO3/c1-3-21(19-10-6-4-7-11-19)23(25)27-17-15-24-14-16-26-22(18(24)2)20-12-8-5-9-13-20/h4-13,18,21-22H,3,14-17H2,1-2H3",
+    "InChl_Key": "BAQKJENAVQLANS-UHFFFAOYSA-N",
+    "SMILES": "CCC(C(=O)OCCN1CCOC(c2ccccc2)C1C)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12435",
+    "validation": "m_weight unsave, calculated(367.489)"
+}

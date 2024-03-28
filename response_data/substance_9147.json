@@ -1,0 +1,13 @@
+{
+    "names": "4-Butoxy-4-(furan-2-yl)-3-methyl-1-(2-phenylethyl)piperidine",
+    "iupac_name": "9147 ; C22H31NO2 ; 341.487",
+    "category": "data not stored",
+    "index": 9147,
+    "formular": "C22H31NO2",
+    "molecular_weight": 341.487,
+    "inChl": "1S/C22H31NO2/c1-3-4-17-25-22(21-11-8-16-24-21)13-15-23(18-19(22)2)14-12-20-9-6-5-7-10-20/h5-11,16,19H,3-4,12-15,17-18H2,1-2H3",
+    "InChl_Key": "UJXVJGHWULDSRQ-UHFFFAOYSA-N",
+    "SMILES": "CCCCOC1(c2ccco2)CCN(CCc2ccccc2)CC1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9147",
+    "validation": "m_weight unsave, calculated(341.49500000000006)"
+}

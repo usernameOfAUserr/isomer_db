@@ -1,0 +1,13 @@
+{
+    "names": "5,7-Difluoro-N-(but-3-en-2-yl)-NMT ; 5,7-Difluoro-N-(but-3-en-2-yl)-N-methyltryptamine",
+    "iupac_name": "N-[2-(5,7-Difluoro-1H-indol-3-yl)ethyl]-N-methylbut-3-en-2-amine",
+    "category": "Tryptamine",
+    "index": 13628,
+    "formular": "C15H18F2N2",
+    "molecular_weight": 264.314,
+    "inChl": "1S/C15H18F2N2/c1-4-10(2)19(3)6-5-11-9-18-15-13(11)7-12(16)8-14(15)17/h4,7-10,18H,1,5-6H2,2-3H3",
+    "InChl_Key": "VOLGAJMZJJLNAP-UHFFFAOYSA-N",
+    "SMILES": "C=CC(C)N(C)CCc1c[nH]c2c(F)cc(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13628",
+    "validation": "m_weight unsave, calculated(264.31899999999996)"
+}

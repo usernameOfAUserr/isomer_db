@@ -1,0 +1,13 @@
+{
+    "names": "AB-4F-BUT7AICA",
+    "iupac_name": "N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1-(4-fluorobutyl)-1H-pyrrolo[2,3-b]pyridine-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 14102,
+    "formular": "C17H23FN4O2",
+    "molecular_weight": 334.389,
+    "inChl": "1S/C17H23FN4O2/c1-11(2)14(15(19)23)21-17(24)13-10-22(9-4-3-7-18)16-12(13)6-5-8-20-16/h5-6,8,10-11,14H,3-4,7,9H2,1-2H3,(H2,19,23)(H,21,24)/t14-/m0/s1",
+    "InChl_Key": "WAXGMHZFZUKDOL-AWEZNQCLSA-N",
+    "SMILES": "CC(C)[C@H](NC(=O)c1cn(CCCCF)c2ncccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14102",
+    "validation": "m_weight unsave, calculated(334.39500000000015)"
+}

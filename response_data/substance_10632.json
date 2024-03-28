@@ -1,0 +1,13 @@
+{
+    "names": "Joubertamine",
+    "iupac_name": "4\u2032-Hydroxy-1-[2-(methylamino)ethyl]-2,3-dihydro[1,1\u2032-biphenyl]-4(1H)-one",
+    "category": "data not stored",
+    "index": 10632,
+    "formular": "C15H19NO2",
+    "molecular_weight": 245.317,
+    "inChl": "1S/C15H19NO2/c1-16-11-10-15(8-6-14(18)7-9-15)12-2-4-13(17)5-3-12/h2-6,8,16-17H,7,9-11H2,1H3",
+    "InChl_Key": "HOTGQNUQGQLQJZ-UHFFFAOYSA-N",
+    "SMILES": "CNCCC1(c2ccc(O)cc2)C=CC(=O)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10632",
+    "validation": "m_weight unsave, calculated(245.32200000000003)"
+}

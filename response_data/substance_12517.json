@@ -1,0 +1,13 @@
+{
+    "names": "1-Boc-4-AP ; 4-Anilino-1-boc-piperidine",
+    "iupac_name": "tert-Butyl 4-anilinopiperidine-1-carboxylate",
+    "category": "data not stored",
+    "index": 12517,
+    "formular": "C16H24N2O2",
+    "molecular_weight": 276.374,
+    "inChl": "1S/C16H24N2O2/c1-16(2,3)20-15(19)18-11-9-14(10-12-18)17-13-7-5-4-6-8-13/h4-8,14,17H,9-12H2,1-3H3",
+    "InChl_Key": "HTIWISWAPVQGMI-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(C)OC(=O)N1CCC(Nc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12517",
+    "validation": "m_weight unsave, calculated(276.38000000000005)"
+}

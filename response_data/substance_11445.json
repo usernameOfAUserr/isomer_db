@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-Flualprazolam ; 4-Hydroxyflualprazolam",
+    "iupac_name": "8-Chloro-6-(2-fluorophenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepin-4-ol",
+    "category": "Aryldiazepine",
+    "index": 11445,
+    "formular": "C17H12ClFN4O",
+    "molecular_weight": 342.755,
+    "inChl": "1S/C17H12ClFN4O/c1-9-21-22-16-17(24)20-15(11-4-2-3-5-13(11)19)12-8-10(18)6-7-14(12)23(9)16/h2-8,17,24H,1H3",
+    "InChl_Key": "JXPLCNMRDAWMER-UHFFFAOYSA-N",
+    "SMILES": "Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11445",
+    "validation": "m_weight unsave, calculated(342.761)"
+}

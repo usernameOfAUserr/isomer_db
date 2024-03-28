@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2,2-HO-5-EA ; \u03b2,2-Dihydroxy-5-ethoxyamphetamine",
+    "iupac_name": "2-(2-Amino-1-hydroxypropyl)-4-ethoxyphenol",
+    "category": "Shulgin_Index",
+    "index": 6909,
+    "formular": "C11H17NO3",
+    "molecular_weight": 211.258,
+    "inChl": "1S/C11H17NO3/c1-3-15-8-4-5-10(13)9(6-8)11(14)7(2)12/h4-7,11,13-14H,3,12H2,1-2H3",
+    "InChl_Key": "LQFDWMDHTDNEFB-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(O)c(C(O)C(C)N)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6909",
+    "validation": "m_weight unsave, calculated(211.261)"
+}

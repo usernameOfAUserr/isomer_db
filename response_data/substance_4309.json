@@ -1,0 +1,13 @@
+{
+    "names": "JWH-201",
+    "iupac_name": "2-(4-Methoxyphenyl)-1-(1-pentyl-1H-indol-3-yl)ethan-1-one",
+    "category": "cannabinodids",
+    "index": 4309,
+    "formular": "C22H25NO2",
+    "molecular_weight": 335.439,
+    "inChl": "1S/C22H25NO2/c1-3-4-7-14-23-16-20(19-8-5-6-9-21(19)23)22(24)15-17-10-12-18(25-2)13-11-17/h5-6,8-13,16H,3-4,7,14-15H2,1-2H3",
+    "InChl_Key": "KQRKUKYSZPHOKC-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)Cc2ccc(OC)cc2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4309",
+    "validation": "m_weight unsave, calculated(335.44700000000006)"
+}

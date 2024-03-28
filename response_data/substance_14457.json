@@ -1,0 +1,13 @@
+{
+    "names": "AB-PHETINACA",
+    "iupac_name": "N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1-(2-phenylethyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 14457,
+    "formular": "C21H24N4O2",
+    "molecular_weight": 364.441,
+    "inChl": "1S/C21H24N4O2/c1-14(2)18(20(22)26)23-21(27)19-16-10-6-7-11-17(16)25(24-19)13-12-15-8-4-3-5-9-15/h3-11,14,18H,12-13H2,1-2H3,(H2,22,26)(H,23,27)/t18-/m0/s1",
+    "InChl_Key": "PJFDYBHMJHWMIX-SFHVURJKSA-N",
+    "SMILES": "CC(C)[C@H](NC(=O)c1nn(CCc2ccccc2)c2ccccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14457",
+    "validation": "m_weight unsave, calculated(364.4490000000002)"
+}

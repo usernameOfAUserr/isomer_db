@@ -1,0 +1,13 @@
+{
+    "names": "7-Chloro-5-phenyl-1,3-dihydro-2H-pyrido[3,4-e][1,4]diazepin-2-one",
+    "iupac_name": "14813 ; C14H10ClN3O ; 271.702",
+    "category": "Aryldiazepine \u00b7 Prophetic?",
+    "index": 14813,
+    "formular": "C14H10ClN3O",
+    "molecular_weight": 271.702,
+    "inChl": "1S/C14H10ClN3O/c15-12-6-10-11(7-16-12)18-13(19)8-17-14(10)9-4-2-1-3-5-9/h1-7H,8H2,(H,18,19)",
+    "InChl_Key": "YVGKCNBERBHMHV-UHFFFAOYSA-N",
+    "SMILES": "O=C1CN=C(c2ccccc2)c2cc(Cl)ncc2N1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14813",
+    "validation": "m_weight unsave, calculated(271.707)"
+}

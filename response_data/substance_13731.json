@@ -1,0 +1,13 @@
+{
+    "names": "3-[(5,5\u2032-Dimethyl-5,6-dihydro[3,3\u2032-bipyridin]-1(2H)-yl)methyl]oxetan-3-ol",
+    "iupac_name": "13731 ; C16H22N2O2 ; 274.358",
+    "category": "data not stored",
+    "index": 13731,
+    "formular": "C16H22N2O2",
+    "molecular_weight": 274.358,
+    "inChl": "1S/C16H22N2O2/c1-12-3-14(6-17-5-12)15-4-13(2)7-18(8-15)9-16(19)10-20-11-16/h3-6,13,19H,7-11H2,1-2H3",
+    "InChl_Key": "CKEGOCXHAGZHKE-UHFFFAOYSA-N",
+    "SMILES": "Cc1cncc(C2=CC(C)CN(CC3(O)COC3)C2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13731",
+    "validation": "m_weight unsave, calculated(274.364)"
+}

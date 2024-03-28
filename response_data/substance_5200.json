@@ -1,0 +1,13 @@
+{
+    "names": "5,6-Dibromo-NMT ; 5,6-Dibromo-N-methyltryptamine",
+    "iupac_name": "2-(5,6-Dibromo-1H-indol-3-yl)-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5200,
+    "formular": "C11H12Br2N2",
+    "molecular_weight": 332.034,
+    "inChl": "1S/C11H12Br2N2/c1-14-3-2-7-6-15-11-5-10(13)9(12)4-8(7)11/h4-6,14-15H,2-3H2,1H3",
+    "InChl_Key": "XYEURTBVGQLDGD-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1c[nH]c2cc(Br)c(Br)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5200",
+    "validation": "m_weight unsave, calculated(332.039)"
+}

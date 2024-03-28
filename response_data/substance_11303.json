@@ -1,0 +1,13 @@
+{
+    "names": "4-Hydroxy(phosphonooxy)phosphoryloxy-DMT ; 4-Hydroxy(phosphonooxy)phosphoryloxy-N,N-dimethyltryptamine",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-1H-indol-4-yl trihydrogen diphosphate",
+    "category": "Tryptamine",
+    "index": 11303,
+    "formular": "C12H18N2O7P2",
+    "molecular_weight": 364.228,
+    "inChl": "1S/C12H18N2O7P2/c1-14(2)7-6-9-8-13-10-4-3-5-11(12(9)10)20-23(18,19)21-22(15,16)17/h3-5,8,13H,6-7H2,1-2H3,(H,18,19)(H2,15,16,17)",
+    "InChl_Key": "XBSATDYCEAHWQU-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2cccc(OP(=O)(O)OP(=O)(O)O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11303",
+    "validation": "m_weight unsave, calculated(364.23100000000005)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "[1-(Cyclohexylmethyl)-1H-indol-3-yl](pyrrolidin-1-yl)methanone",
+    "iupac_name": "6489 ; C20H26N2O ; 310.433",
+    "category": "data not stored",
+    "index": 6489,
+    "formular": "C20H26N2O",
+    "molecular_weight": 310.433,
+    "inChl": "1S/C20H26N2O/c23-20(21-12-6-7-13-21)18-15-22(14-16-8-2-1-3-9-16)19-11-5-4-10-17(18)19/h4-5,10-11,15-16H,1-3,6-9,12-14H2",
+    "InChl_Key": "RINIWLAWVWNKIC-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1cn(CC2CCCCC2)c2ccccc12)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6489",
+    "validation": "m_weight unsave, calculated(310.4410000000001)"
+}

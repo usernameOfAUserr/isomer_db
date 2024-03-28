@@ -1,0 +1,13 @@
+{
+    "names": "ANPP ; 4-ANPP ; 4-Anilino-N-phenethylpiperidine ; Despropionyl-fentanyl",
+    "iupac_name": "N-Phenyl-1-(2-phenylethyl)piperidin-4-amine",
+    "category": "Fentanyl",
+    "index": 1706,
+    "formular": "C19H24N2",
+    "molecular_weight": 280.407,
+    "inChl": "1S/C19H24N2/c1-3-7-17(8-4-1)11-14-21-15-12-19(13-16-21)20-18-9-5-2-6-10-18/h1-10,19-20H,11-16H2",
+    "InChl_Key": "ZCMDXDQUYIWEKB-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(CCN2CCC(Nc3ccccc3)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1706",
+    "validation": "m_weight unsave, calculated(280.41499999999996)"
+}

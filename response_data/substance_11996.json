@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl-5,6,7,8-tetrahydrodibenzo[c,e]azocine",
+    "iupac_name": "6-Methyl-5,6,7,8-tetrahydrodibenzo[c,e]azocine",
+    "category": "data not stored",
+    "index": 11996,
+    "formular": "C16H17N",
+    "molecular_weight": 223.313,
+    "inChl": "1S/C16H17N/c1-17-11-10-13-6-2-4-8-15(13)16-9-5-3-7-14(16)12-17/h2-9H,10-12H2,1H3",
+    "InChl_Key": "ABHRIIJLSLRCQJ-UHFFFAOYSA-N",
+    "SMILES": "CN1CCc2ccccc2-c2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11996",
+    "validation": "m_weight unsave, calculated(223.31899999999996)"
+}

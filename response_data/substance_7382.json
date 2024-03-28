@@ -1,0 +1,13 @@
+{
+    "names": "N-Me-4C-T-7 ; N-Methyl-\u03b1-ethyl-2,5-dimethoxy-4-propylthiophenethylamine",
+    "iupac_name": "1-[2,5-Dimethoxy-4-(propylsulfanyl)phenyl]-N-methylbutan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7382,
+    "formular": "C16H27NO2S",
+    "molecular_weight": 297.456,
+    "inChl": "1S/C16H27NO2S/c1-6-8-20-16-11-14(18-4)12(10-15(16)19-5)9-13(7-2)17-3/h10-11,13,17H,6-9H2,1-5H3",
+    "InChl_Key": "DQJVMVFZKQDMNM-UHFFFAOYSA-N",
+    "SMILES": "CCCSc1cc(OC)c(CC(CC)NC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7382",
+    "validation": "m_weight unsave, calculated(297.46400000000006)"
+}

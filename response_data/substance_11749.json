@@ -1,0 +1,13 @@
+{
+    "names": "Ro-19-4603",
+    "iupac_name": "tert-Butyl 5-methyl-6-oxo-5,6-dihydro-4H-imidazo[1,5-a]thieno[2,3-f][1,4]diazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 11749,
+    "formular": "C15H17N3O3S",
+    "molecular_weight": 319.379,
+    "inChl": "1S/C15H17N3O3S/c1-15(2,3)21-14(20)11-10-7-17(4)13(19)12-9(5-6-22-12)18(10)8-16-11/h5-6,8H,7H2,1-4H3",
+    "InChl_Key": "ZIGMMUKDYCABPW-UHFFFAOYSA-N",
+    "SMILES": "CN1Cc2c(C(=O)OC(C)(C)C)ncn2-c2ccsc2C1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11749",
+    "validation": "m_weight unsave, calculated(319.3860000000001)"
+}

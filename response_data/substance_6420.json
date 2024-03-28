@@ -1,0 +1,13 @@
+{
+    "names": "Amiflamine ; 4-Dimethylamino-2-methylamphetamine",
+    "iupac_name": "4-(2-Aminopropyl)-N,N,3-trimethylaniline",
+    "category": "Shulgin_Index",
+    "index": 6420,
+    "formular": "C12H20N2",
+    "molecular_weight": 192.301,
+    "inChl": "1S/C12H20N2/c1-9-7-12(14(3)4)6-5-11(9)8-10(2)13/h5-7,10H,8,13H2,1-4H3",
+    "InChl_Key": "HFQMYSHATTXRTC-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(N(C)C)ccc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6420",
+    "validation": "m_weight unsave, calculated(192.30599999999995)"
+}

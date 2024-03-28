@@ -1,0 +1,13 @@
+{
+    "names": "5F-EDMB-PINACA ; 5-Fluoro-EDMB-PINACA ; EDMB-5F-PINACA",
+    "iupac_name": "Ethyl N-[1-(5-fluoropentyl)-1H-indazole-3-carbonyl]-3-methyl-L-valinate ; Ethyl (2S)-2-{[1-(5-fluoropentyl)-1H-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate",
+    "category": "cannabinodids",
+    "index": 8131,
+    "formular": "C21H30FN3O3",
+    "molecular_weight": 391.48,
+    "inChl": "1S/C21H30FN3O3/c1-5-28-20(27)18(21(2,3)4)23-19(26)17-15-11-7-8-12-16(15)25(24-17)14-10-6-9-13-22/h7-8,11-12,18H,5-6,9-10,13-14H2,1-4H3,(H,23,26)/t18-/m1/s1",
+    "InChl_Key": "VDEACSPMBSUVRD-GOSISDBHSA-N",
+    "SMILES": "CCOC(=O)[C@@H](NC(=O)c1nn(CCCCCF)c2ccccc12)C(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8131",
+    "validation": "m_weight unsave, calculated(391.48700000000025)"
+}

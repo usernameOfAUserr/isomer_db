@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-cyclopropa-T ; 5-Methoxy-cyclopropa-tryptamine",
+    "iupac_name": "2-(5-Methoxy-1H-indol-3-yl)cyclopropan-1-amine ; 2-(5-Methoxy-1H-indol-3-yl)cyclopropanamine",
+    "category": "Tryptamine",
+    "index": 5469,
+    "formular": "C12H14N2O",
+    "molecular_weight": 202.252,
+    "inChl": "1S/C12H14N2O/c1-15-7-2-3-12-9(4-7)10(6-14-12)8-5-11(8)13/h2-4,6,8,11,14H,5,13H2,1H3",
+    "InChl_Key": "QAYBFLBZFYNCJH-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(C3CC3N)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5469",
+    "validation": "m_weight unsave, calculated(202.257)"
+}

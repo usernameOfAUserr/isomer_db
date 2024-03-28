@@ -1,0 +1,13 @@
+{
+    "names": "5-(Thiophen-3-ylmethoxy)-T ; 5-(Thiophen-3-ylmethoxy)tryptamine",
+    "iupac_name": "2-{5-[(Thiophen-3-yl)methoxy]-1H-indol-3-yl}ethan-1-amine ; 2-[5-(Thiophen-3-ylmethoxy)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5843,
+    "formular": "C15H16N2OS",
+    "molecular_weight": 272.365,
+    "inChl": "1S/C15H16N2OS/c16-5-3-12-8-17-15-2-1-13(7-14(12)15)18-9-11-4-6-19-10-11/h1-2,4,6-8,10,17H,3,5,9,16H2",
+    "InChl_Key": "CEXHNGBPPKCPAD-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2ccc(OCc3ccsc3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5843",
+    "validation": "m_weight unsave, calculated(272.373)"
+}

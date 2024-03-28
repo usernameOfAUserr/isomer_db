@@ -1,0 +1,13 @@
+{
+    "names": "13-Methyl-16-oxaibogaine ; Furanyl-13-methylibogaine",
+    "iupac_name": "12-Methoxy-13-methyl-16-oxaibogamine ; (6R,6aS,7S,9R)-7-Ethyl-2-methoxy-3-methyl-6,6a,7,8,9,10,12,13-octahydro-6,9-methano[1]benzofuro[2,3-d]pyrido[1,2-a]azepine",
+    "category": "data not stored",
+    "index": 8418,
+    "formular": "C21H27NO2",
+    "molecular_weight": 325.445,
+    "inChl": "1S/C21H27NO2/c1-4-14-8-13-9-17-20(14)22(11-13)6-5-15-16-10-18(23-3)12(2)7-19(16)24-21(15)17/h7,10,13-14,17,20H,4-6,8-9,11H2,1-3H3/t13-,14+,17-,20+/m1/s1",
+    "InChl_Key": "KTWBKJFGYREGRF-QRKDATQKSA-N",
+    "SMILES": "CC[C@H]1C[C@@H]2C[C@H]3c4oc5cc(C)c(OC)cc5c4CCN(C2)[C@@H]13",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8418",
+    "validation": "m_weight unsave, calculated(325.452)"
+}

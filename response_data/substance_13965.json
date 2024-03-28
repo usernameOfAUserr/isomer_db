@@ -1,0 +1,13 @@
+{
+    "names": "5CL-CUMYL-PEGACLONE",
+    "iupac_name": "5-(5-Chloropentyl)-2-(2-phenylpropan-2-yl)-2,5-dihydro-1H-pyrido[4,3-b]indol-1-one",
+    "category": "cannabinodids",
+    "index": 13965,
+    "formular": "C25H27ClN2O",
+    "molecular_weight": 406.948,
+    "inChl": "1S/C25H27ClN2O/c1-25(2,19-11-5-3-6-12-19)28-18-15-22-23(24(28)29)20-13-7-8-14-21(20)27(22)17-10-4-9-16-26/h3,5-8,11-15,18H,4,9-10,16-17H2,1-2H3",
+    "InChl_Key": "LLNSDNCNOWGGCS-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(c1ccccc1)n1ccc2c(c1=O)c1ccccc1n2CCCCCCl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13965",
+    "validation": "m_weight unsave, calculated(406.9570000000002)"
+}

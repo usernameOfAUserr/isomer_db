@@ -1,0 +1,13 @@
+{
+    "names": "Clenbuterol ; 4-Amino-N-tert-butyl-3,5-dichloro-\u03b2-hydroxyphenethylamine",
+    "iupac_name": "1-(4-Amino-3,5-dichlorophenyl)-2-(tert-butylamino)ethan-1-ol ; 1-(4-Amino-3,5-dichlorophenyl)-2-(tert-butylamino)ethanol",
+    "category": "Phenetylamine",
+    "index": 5550,
+    "formular": "C12H18Cl2N2O",
+    "molecular_weight": 277.19,
+    "inChl": "1S/C12H18Cl2N2O/c1-12(2,3)16-6-10(17)7-4-8(13)11(15)9(14)5-7/h4-5,10,16-17H,6,15H2,1-3H3",
+    "InChl_Key": "STJMRWALKKWQGH-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(C)NCC(O)c1cc(Cl)c(N)c(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5550",
+    "validation": "m_weight unsave, calculated(277.19500000000005)"
+}

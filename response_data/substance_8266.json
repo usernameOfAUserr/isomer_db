@@ -1,0 +1,13 @@
+{
+    "names": "TRV734",
+    "iupac_name": "N-[(5-Fluoropyridin-3-yl)methyl]-2-[(9R)-9-(pyridin-2-yl)-6-oxaspiro[4.5]decan-9-yl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 8266,
+    "formular": "C22H28FN3O",
+    "molecular_weight": 369.476,
+    "inChl": "1S/C22H28FN3O/c23-19-13-18(15-25-16-19)14-24-11-8-21(20-5-1-4-10-26-20)9-12-27-22(17-21)6-2-3-7-22/h1,4-5,10,13,15-16,24H,2-3,6-9,11-12,14,17H2/t21-/m1/s1",
+    "InChl_Key": "CRKVMJHROLSFMV-OAQYLSRUSA-N",
+    "SMILES": "Fc1cncc(CNCC[C@@]2(c3ccccn3)CCOC3(CCCC3)C2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8266",
+    "validation": "m_weight unsave, calculated(369.48400000000004)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Methylenedioxycinnamylidineacetone",
+    "iupac_name": "(3E,5E)-6-(2H-1,3-Benzodioxol-5-yl)hexa-3,5-dien-2-one",
+    "category": "data not stored",
+    "index": 9897,
+    "formular": "C13H12O3",
+    "molecular_weight": 216.233,
+    "inChl": "1S/C13H12O3/c1-10(14)4-2-3-5-11-6-7-12-13(8-11)16-9-15-12/h2-8H,9H2,1H3/b4-2+,5-3+",
+    "InChl_Key": "IDYPDRFMVHXYEC-ZUVMSYQZSA-N",
+    "SMILES": "CC(=O)/C=C/C=C/c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9897",
+    "validation": "m_weight unsave, calculated(216.23599999999996)"
+}

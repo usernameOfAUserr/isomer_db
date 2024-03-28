@@ -1,0 +1,13 @@
+{
+    "names": "N-[(3,4-Dichlorophenyl)methyl]-4-oxo-1-pentyl-7-phenyl-1,4-dihydroquinoline-3-carboxamide",
+    "iupac_name": "4184 ; C28H26Cl2N2O2 ; 493.424",
+    "category": "cannabinodids",
+    "index": 4184,
+    "formular": "C28H26Cl2N2O2",
+    "molecular_weight": 493.424,
+    "inChl": "1S/C28H26Cl2N2O2/c1-2-3-7-14-32-18-23(28(34)31-17-19-10-13-24(29)25(30)15-19)27(33)22-12-11-21(16-26(22)32)20-8-5-4-6-9-20/h4-6,8-13,15-16,18H,2-3,7,14,17H2,1H3,(H,31,34)",
+    "InChl_Key": "KOBWCKPPQPCMSU-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NCc2ccc(Cl)c(Cl)c2)c(=O)c2ccc(-c3ccccc3)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4184",
+    "validation": "m_weight unsave, calculated(493.43400000000014)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "SGT-147",
+    "iupac_name": "1-(5-Fluoropentyl)-4-oxo-N-(2-phenylpropan-2-yl)-1,4-dihydroquinoline-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4188,
+    "formular": "C24H27FN2O2",
+    "molecular_weight": 394.482,
+    "inChl": "1S/C24H27FN2O2/c1-24(2,18-11-5-3-6-12-18)26-23(29)20-17-27(16-10-4-9-15-25)21-14-8-7-13-19(21)22(20)28/h3,5-8,11-14,17H,4,9-10,15-16H2,1-2H3,(H,26,29)",
+    "InChl_Key": "OTBLAROIHMDWSD-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1cn(CCCCCF)c2ccccc2c1=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4188",
+    "validation": "m_weight unsave, calculated(394.4900000000002)"
+}

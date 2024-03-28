@@ -1,0 +1,13 @@
+{
+    "names": "5-(3-Isopropoxyphenyldiazenyl)-DMT ; 5-(3-Isopropoxyphenyldiazenyl)-N,N-dimethyltryptamine",
+    "iupac_name": "N,N-Dimethyl-2-[5-({3-[(propan-2-yl)oxy]phenyl}diazenyl)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 12921,
+    "formular": "C21H26N4O",
+    "molecular_weight": 350.457,
+    "inChl": "1S/C21H26N4O/c1-15(2)26-19-7-5-6-17(12-19)23-24-18-8-9-21-20(13-18)16(14-22-21)10-11-25(3)4/h5-9,12-15,22H,10-11H2,1-4H3",
+    "InChl_Key": "DOVCFGKALOEPOS-UHFFFAOYSA-N",
+    "SMILES": "CC(C)Oc1cccc(N=Nc2ccc3[nH]cc(CCN(C)C)c3c2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12921",
+    "validation": "m_weight unsave, calculated(350.4660000000001)"
+}

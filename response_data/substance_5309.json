@@ -1,0 +1,13 @@
+{
+    "names": "d-Lysergamide ; Ergine ; LA-111 ; LAA ; LSA",
+    "iupac_name": "6-Methyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-7-Methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-6-Methyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 5309,
+    "formular": "C16H17N3O",
+    "molecular_weight": 267.326,
+    "inChl": "1S/C16H17N3O/c1-19-8-10(16(17)20)5-12-11-3-2-4-13-15(11)9(7-18-13)6-14(12)19/h2-5,7,10,14,18H,6,8H2,1H3,(H2,17,20)/t10-,14-/m1/s1",
+    "InChl_Key": "GENAHGKEFJLNJB-QMTHXVAHSA-N",
+    "SMILES": "CN1C[C@H](C(N)=O)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5309",
+    "validation": "m_weight unsave, calculated(267.332)"
+}

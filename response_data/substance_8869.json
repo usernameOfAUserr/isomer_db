@@ -1,0 +1,13 @@
+{
+    "names": "4-MPP",
+    "iupac_name": "1-(4-Methylphenyl)piperazine",
+    "category": "data not stored",
+    "index": 8869,
+    "formular": "C11H16N2",
+    "molecular_weight": 176.258,
+    "inChl": "1S/C11H16N2/c1-10-2-4-11(5-3-10)13-8-6-12-7-9-13/h2-5,12H,6-9H2,1H3",
+    "InChl_Key": "ONEYFZXGNFNRJH-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(N2CCNCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8869",
+    "validation": "m_weight unsave, calculated(176.26299999999998)"
+}

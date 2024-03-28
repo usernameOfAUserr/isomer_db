@@ -1,0 +1,13 @@
+{
+    "names": "4-TFMCPA",
+    "iupac_name": "2-[4-(Trifluoromethyl)phenyl]cyclopropan-1-amine ; 2-[4-(Trifluoromethyl)phenyl]cyclopropanamine",
+    "category": "data not stored",
+    "index": 1476,
+    "formular": "C10H10F3N",
+    "molecular_weight": 201.188,
+    "inChl": "1S/C10H10F3N/c11-10(12,13)7-3-1-6(2-4-7)8-5-9(8)14/h1-4,8-9H,5,14H2",
+    "InChl_Key": "WDWZYVCJRRSQDE-UHFFFAOYSA-N",
+    "SMILES": "NC1CC1c1ccc(C(F)(F)F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1476",
+    "validation": "m_weight unsave, calculated(201.19099999999995)"
+}

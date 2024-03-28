@@ -1,0 +1,13 @@
+{
+    "names": "Aeruginascin ; 4-Phosphonooxy-N,N,N-trimethyltryptamine+ ; 4-PO-TMT+",
+    "iupac_name": "N,N,N-Trimethyl-2-[4-(phosphonooxy)-1H-indol-3-yl]ethan-1-aminium ; N,N,N-Trimethyl-2-[4-(phosphonooxy)-1H-indol-3-yl]ethanaminium",
+    "category": "Tryptamine",
+    "index": 5373,
+    "formular": "C13H19N2O4P",
+    "molecular_weight": 298.275,
+    "inChl": "1S/C13H19N2O4P/c1-15(2,3)8-7-10-9-14-11-5-4-6-12(13(10)11)19-20(16,17)18/h4-6,9,14H,7-8H2,1-3H3,(H-,16,17,18)/p+1",
+    "InChl_Key": "OIIPFLWAQQNCHA-UHFFFAOYSA-O",
+    "SMILES": "C[N+](C)(C)CCc1c[nH]c2cccc(OP(=O)(O)O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5373",
+    "validation": "m_weight unsave, calculated(299.28700000000003)formular unsave, calculated(C13H20N2O4P+)"
+}

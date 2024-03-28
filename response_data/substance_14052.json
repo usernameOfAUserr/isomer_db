@@ -1,0 +1,13 @@
+{
+    "names": "2-(2-Methoxydibenzo[b,d]furan-1-yl)ethan-1-amine",
+    "iupac_name": "14052 ; C15H15NO2 ; 241.285",
+    "category": "data not stored",
+    "index": 14052,
+    "formular": "C15H15NO2",
+    "molecular_weight": 241.285,
+    "inChl": "1S/C15H15NO2/c1-17-12-6-7-14-15(11(12)8-9-16)10-4-2-3-5-13(10)18-14/h2-7H,8-9,16H2,1H3",
+    "InChl_Key": "YOTCWZZHVTWBIO-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2oc3ccccc3c2c1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14052",
+    "validation": "m_weight unsave, calculated(241.28999999999996)"
+}

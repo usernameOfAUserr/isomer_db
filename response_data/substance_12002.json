@@ -1,0 +1,13 @@
+{
+    "names": "N-Benzyl-N-methyl-5-phenylpentan-1-amine",
+    "iupac_name": "12002 ; C19H25N ; 267.409",
+    "category": "Phenetylamine",
+    "index": 12002,
+    "formular": "C19H25N",
+    "molecular_weight": 267.409,
+    "inChl": "1S/C19H25N/c1-20(17-19-14-7-3-8-15-19)16-10-4-9-13-18-11-5-2-6-12-18/h2-3,5-8,11-12,14-15H,4,9-10,13,16-17H2,1H3",
+    "InChl_Key": "IADZHQIILDQUCH-UHFFFAOYSA-N",
+    "SMILES": "CN(CCCCCc1ccccc1)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12002",
+    "validation": "m_weight unsave, calculated(267.4159999999999)"
+}

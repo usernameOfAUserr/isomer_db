@@ -1,0 +1,13 @@
+{
+    "names": "2-EMC ; 2-Ethylmethcathinone",
+    "iupac_name": "1-(2-Ethylphenyl)-2-(methylamino)propan-1-one",
+    "category": "data not stored",
+    "index": 8505,
+    "formular": "C12H17NO",
+    "molecular_weight": 191.269,
+    "inChl": "1S/C12H17NO/c1-4-10-7-5-6-8-11(10)12(14)9(2)13-3/h5-9,13H,4H2,1-3H3",
+    "InChl_Key": "FHQMNXWCKXZQEW-UHFFFAOYSA-N",
+    "SMILES": "CCc1ccccc1C(=O)C(C)NC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8505",
+    "validation": "m_weight unsave, calculated(191.27399999999994)"
+}

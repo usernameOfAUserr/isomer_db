@@ -1,0 +1,13 @@
+{
+    "names": "2-Amino-2-methyl-3,4-dihydronaphthalen-1(2H)-one",
+    "iupac_name": "12042 ; C11H13NO ; 175.227",
+    "category": "Phenetylamine",
+    "index": 12042,
+    "formular": "C11H13NO",
+    "molecular_weight": 175.227,
+    "inChl": "1S/C11H13NO/c1-11(12)7-6-8-4-2-3-5-9(8)10(11)13/h2-5H,6-7,12H2,1H3",
+    "InChl_Key": "ODKHCPYRDFYCGY-UHFFFAOYSA-N",
+    "SMILES": "CC1(N)CCc2ccccc2C1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12042",
+    "validation": "m_weight unsave, calculated(175.23099999999997)"
+}

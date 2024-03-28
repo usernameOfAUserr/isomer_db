@@ -1,0 +1,13 @@
+{
+    "names": "JZL-184",
+    "iupac_name": "4-Nitrophenyl 4-[bis(2H-1,3-benzodioxol-5-yl)(hydroxy)methyl]piperidine-1-carboxylate",
+    "category": "cannabinodids",
+    "index": 4732,
+    "formular": "C27H24N2O9",
+    "molecular_weight": 520.487,
+    "inChl": "1S/C27H24N2O9/c30-26(38-21-5-3-20(4-6-21)29(32)33)28-11-9-17(10-12-28)27(31,18-1-7-22-24(13-18)36-15-34-22)19-2-8-23-25(14-19)37-16-35-23/h1-8,13-14,17,31H,9-12,15-16H2",
+    "InChl_Key": "SEGYOKHGGFKMCX-UHFFFAOYSA-N",
+    "SMILES": "O=C(Oc1ccc([N+](=O)[O-])cc1)N1CCC(C(O)(c2ccc3c(c2)OCO3)c2ccc3c(c2)OCO3)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4732",
+    "validation": "m_weight unsave, calculated(520.4940000000003)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2,3-EBDB ; N,\u03b1-Diethyl-2,3-methylenedioxyphenethylamine",
+    "iupac_name": "1-(2H-1,3-Benzodioxol-4-yl)-N-ethylbutan-2-amine ; 1-(1,3-Benzodioxol-4-yl)-N-ethylbutan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 6418,
+    "formular": "C13H19NO2",
+    "molecular_weight": 221.295,
+    "inChl": "1S/C13H19NO2/c1-3-11(14-4-2)8-10-6-5-7-12-13(10)16-9-15-12/h5-7,11,14H,3-4,8-9H2,1-2H3",
+    "InChl_Key": "LZTSAFATPNGGJA-UHFFFAOYSA-N",
+    "SMILES": "CCNC(CC)Cc1cccc2c1OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6418",
+    "validation": "m_weight unsave, calculated(221.29999999999998)"
+}

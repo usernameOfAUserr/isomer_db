@@ -1,0 +1,13 @@
+{
+    "names": "2-{2-[(4-Ethoxyphenoxy)methyl]-5-nitro-1H-benzimidazol-1-yl}-N,N-diethylethan-1-amine",
+    "iupac_name": "12560 ; C22H28N4O4 ; 412.482",
+    "category": "data not stored",
+    "index": 12560,
+    "formular": "C22H28N4O4",
+    "molecular_weight": 412.482,
+    "inChl": "1S/C22H28N4O4/c1-4-24(5-2)13-14-25-21-12-7-17(26(27)28)15-20(21)23-22(25)16-30-19-10-8-18(9-11-19)29-6-3/h7-12,15H,4-6,13-14,16H2,1-3H3",
+    "InChl_Key": "WPDOEQFAXHISSV-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(OCc2nc3cc([N+](=O)[O-])ccc3n2CCN(CC)CC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12560",
+    "validation": "m_weight unsave, calculated(412.4900000000001)"
+}

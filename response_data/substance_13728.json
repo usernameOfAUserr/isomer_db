@@ -1,0 +1,13 @@
+{
+    "names": "Isonortehuanine ; 5,6,7-Trimethoxyisoquinoline",
+    "iupac_name": "5,6,7-Trimethoxyisoquinoline",
+    "category": "data not stored",
+    "index": 13728,
+    "formular": "C12H13NO3",
+    "molecular_weight": 219.237,
+    "inChl": "1S/C12H13NO3/c1-14-10-6-8-7-13-5-4-9(8)11(15-2)12(10)16-3/h4-7H,1-3H3",
+    "InChl_Key": "OEJOVFSDPNFRGL-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2cnccc2c(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13728",
+    "validation": "m_weight unsave, calculated(219.23999999999995)"
+}

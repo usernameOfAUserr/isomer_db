@@ -1,0 +1,13 @@
+{
+    "names": "2-Phenyl-N,N-dipropylcyclopropan-1-amine",
+    "iupac_name": "10827 ; C15H23N ; 217.35",
+    "category": "Phenetylamine",
+    "index": 10827,
+    "formular": "C15H23N",
+    "molecular_weight": 217.35,
+    "inChl": "1S/C15H23N/c1-3-10-16(11-4-2)15-12-14(15)13-8-6-5-7-9-13/h5-9,14-15H,3-4,10-12H2,1-2H3",
+    "InChl_Key": "KXRUBJYBRZXATJ-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C1CC1c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10827",
+    "validation": "m_weight unsave, calculated(217.35599999999997)"
+}

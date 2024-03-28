@@ -1,0 +1,13 @@
+{
+    "names": "2C-E acetaldehyde",
+    "iupac_name": "(4-Ethyl-2,5-dimethoxyphenyl)acetaldehyde",
+    "category": "data not stored",
+    "index": 12336,
+    "formular": "C12H16O3",
+    "molecular_weight": 208.254,
+    "inChl": "1S/C12H16O3/c1-4-9-7-12(15-3)10(5-6-13)8-11(9)14-2/h6-8H,4-5H2,1-3H3",
+    "InChl_Key": "VTXROXXANXPQSY-UHFFFAOYSA-N",
+    "SMILES": "CCc1cc(OC)c(CC=O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12336",
+    "validation": "m_weight unsave, calculated(208.25699999999995)"
+}

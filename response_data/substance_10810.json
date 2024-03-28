@@ -1,0 +1,13 @@
+{
+    "names": "(E)-\u03b2-CHF-4-MPEA ; (E)-\u03b2-(Fluoromethylidene)-4-methoxyphenethylamine",
+    "iupac_name": "(2E)-3-Fluoro-2-(4-methoxyphenyl)prop-2-en-1-amine",
+    "category": "Phenetylamine",
+    "index": 10810,
+    "formular": "C10H12FNO",
+    "molecular_weight": 181.207,
+    "inChl": "1S/C10H12FNO/c1-13-10-4-2-8(3-5-10)9(6-11)7-12/h2-6H,7,12H2,1H3/b9-6-",
+    "InChl_Key": "NLGSCNSUESYRBF-TWGQIWQCSA-N",
+    "SMILES": "COc1ccc(/C(=C\\F)CN)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10810",
+    "validation": "m_weight unsave, calculated(181.20999999999998)"
+}

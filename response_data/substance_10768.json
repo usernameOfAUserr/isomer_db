@@ -1,0 +1,13 @@
+{
+    "names": "N-iPr-\u03b1-Pr-PEA ; N-Isopropyl-\u03b1-propylphenethylamine",
+    "iupac_name": "1-Phenyl-N-(propan-2-yl)pentan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10768,
+    "formular": "C14H23N",
+    "molecular_weight": 205.339,
+    "inChl": "1S/C14H23N/c1-4-8-14(15-12(2)3)11-13-9-6-5-7-10-13/h5-7,9-10,12,14-15H,4,8,11H2,1-3H3",
+    "InChl_Key": "TXKXBOCIAPTSJN-UHFFFAOYSA-N",
+    "SMILES": "CCCC(Cc1ccccc1)NC(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10768",
+    "validation": "m_weight unsave, calculated(205.345)"
+}

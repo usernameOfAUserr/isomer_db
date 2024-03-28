@@ -1,0 +1,13 @@
+{
+    "names": "SGT-107",
+    "iupac_name": "1-(5-Fluoropentyl)-N-(4-hydroxy-2-methylphenyl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11536,
+    "formular": "C21H23FN2O2",
+    "molecular_weight": 354.418,
+    "inChl": "1S/C21H23FN2O2/c1-15-13-16(25)9-10-19(15)23-21(26)18-14-24(12-6-2-5-11-22)20-8-4-3-7-17(18)20/h3-4,7-10,13-14,25H,2,5-6,11-12H2,1H3,(H,23,26)",
+    "InChl_Key": "FSVYGHFBZZNRPY-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(O)ccc1NC(=O)c1cn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11536",
+    "validation": "m_weight unsave, calculated(354.4250000000001)"
+}

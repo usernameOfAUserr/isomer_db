@@ -1,0 +1,13 @@
+{
+    "names": "25O-NMQuinoline8",
+    "iupac_name": "N-[(Quinolin-8-yl)methyl]-2-(2,4,5-trimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14254,
+    "formular": "C21H24N2O3",
+    "molecular_weight": 352.427,
+    "inChl": "1S/C21H24N2O3/c1-24-18-13-20(26-3)19(25-2)12-16(18)9-11-22-14-17-7-4-6-15-8-5-10-23-21(15)17/h4-8,10,12-13,22H,9,11,14H2,1-3H3",
+    "InChl_Key": "DMMUQEBHUIMOLX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(OC)cc1CCNCc1cccc2cccnc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14254",
+    "validation": "m_weight unsave, calculated(352.4340000000001)"
+}

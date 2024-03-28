@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl-N-(prop-2-yn-1-yl)-1,2-dihydroacenaphthylen-1-amine",
+    "iupac_name": "12036 ; C16H15N ; 221.297",
+    "category": "Phenetylamine",
+    "index": 12036,
+    "formular": "C16H15N",
+    "molecular_weight": 221.297,
+    "inChl": "1S/C16H15N/c1-3-10-17(2)15-11-13-8-4-6-12-7-5-9-14(15)16(12)13/h1,4-9,15H,10-11H2,2H3",
+    "InChl_Key": "ZGMFVCTUZGRLBV-UHFFFAOYSA-N",
+    "SMILES": "C#CCN(C)C1Cc2cccc3cccc1c23",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12036",
+    "validation": "m_weight unsave, calculated(221.303)"
+}

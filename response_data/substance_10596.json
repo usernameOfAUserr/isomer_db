@@ -1,0 +1,13 @@
+{
+    "names": "4-[2-(Cyclopropylamino)ethoxy]aniline",
+    "iupac_name": "10596 ; C11H16N2O ; 192.258",
+    "category": "Phenetylamine",
+    "index": 10596,
+    "formular": "C11H16N2O",
+    "molecular_weight": 192.258,
+    "inChl": "1S/C11H16N2O/c12-9-1-5-11(6-2-9)14-8-7-13-10-3-4-10/h1-2,5-6,10,13H,3-4,7-8,12H2",
+    "InChl_Key": "JAMQGRVALBLSGM-UHFFFAOYSA-N",
+    "SMILES": "Nc1ccc(OCCNC2CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10596",
+    "validation": "m_weight unsave, calculated(192.26199999999997)"
+}

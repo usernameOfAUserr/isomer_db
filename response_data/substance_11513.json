@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-NMT-NB ; 4-Hydroxy-N-benzyl-N-methyltryptamine ; 4-HO-N-benzyl-NMT",
+    "iupac_name": "3-{2-[Benzyl(methyl)amino]ethyl}-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 11513,
+    "formular": "C18H20N2O",
+    "molecular_weight": 280.364,
+    "inChl": "1S/C18H20N2O/c1-20(13-14-6-3-2-4-7-14)11-10-15-12-19-16-8-5-9-17(21)18(15)16/h2-9,12,19,21H,10-11,13H2,1H3",
+    "InChl_Key": "INZKGTFWUNFYGU-UHFFFAOYSA-N",
+    "SMILES": "CN(CCc1c[nH]c2cccc(O)c12)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11513",
+    "validation": "m_weight unsave, calculated(280.3709999999999)"
+}

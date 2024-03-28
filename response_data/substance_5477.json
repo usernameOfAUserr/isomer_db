@@ -1,0 +1,13 @@
+{
+    "names": "N-Formyl-T ; N-Formyltryptamine",
+    "iupac_name": "N-[2-(1H-Indol-3-yl)ethyl]formamide",
+    "category": "Tryptamine",
+    "index": 5477,
+    "formular": "C11H12N2O",
+    "molecular_weight": 188.226,
+    "inChl": "1S/C11H12N2O/c14-8-12-6-5-9-7-13-11-4-2-1-3-10(9)11/h1-4,7-8,13H,5-6H2,(H,12,14)",
+    "InChl_Key": "JQWVVJKFXINLNV-UHFFFAOYSA-N",
+    "SMILES": "O=CNCCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5477",
+    "validation": "m_weight unsave, calculated(188.23000000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "PB-22 ; QUPIC ; QU-PIC ; SGT-21",
+    "iupac_name": "Quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate",
+    "category": "cannabinodids",
+    "index": 4678,
+    "formular": "C23H22N2O2",
+    "molecular_weight": 358.433,
+    "inChl": "1S/C23H22N2O2/c1-2-3-6-15-25-16-19(18-11-4-5-12-20(18)25)23(26)27-21-13-7-9-17-10-8-14-24-22(17)21/h4-5,7-14,16H,2-3,6,15H2,1H3",
+    "InChl_Key": "ZAVGICCEAOUWFM-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)Oc2cccc3cccnc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4678",
+    "validation": "m_weight unsave, calculated(358.4410000000001)"
+}

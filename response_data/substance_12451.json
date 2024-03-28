@@ -1,0 +1,13 @@
+{
+    "names": "4-Iodo-6-methyl-5,6,7,8-tetrahydrodibenzo[c,e]azocine",
+    "iupac_name": "12451 ; C16H16IN ; 349.209",
+    "category": "data not stored",
+    "index": 12451,
+    "formular": "C16H16IN",
+    "molecular_weight": 349.209,
+    "inChl": "1S/C16H16IN/c1-18-10-9-12-5-2-3-6-13(12)14-7-4-8-16(17)15(14)11-18/h2-8H,9-11H2,1H3",
+    "InChl_Key": "GPXIDUZNFPYDGR-UHFFFAOYSA-N",
+    "SMILES": "CN1CCc2ccccc2-c2cccc(I)c2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12451",
+    "validation": "m_weight unsave, calculated(349.2149999999999)"
+}

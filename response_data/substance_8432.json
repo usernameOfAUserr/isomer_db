@@ -1,0 +1,13 @@
+{
+    "names": "18-Dimethylaminocoronaridine",
+    "iupac_name": "Methyl 21-(dimethylamino)ibogamine-18-carboxylate ; Methyl (6S,6aS,7R,9R)-7-[2-(dimethylamino)ethyl]-7,8,9,10,12,13-hexahydro-5H-6,9-methanopyrido[1\u2032,2\u2032:1,2]azepino[4,5-b]indole-6(6aH)-carboxylate",
+    "category": "data not stored",
+    "index": 8432,
+    "formular": "C23H31N3O2",
+    "molecular_weight": 381.511,
+    "inChl": "1S/C23H31N3O2/c1-25(2)10-8-16-12-15-13-23(22(27)28-3)20-18(9-11-26(14-15)21(16)23)17-6-4-5-7-19(17)24-20/h4-7,15-16,21,24H,8-14H2,1-3H3/t15-,16+,21+,23-/m1/s1",
+    "InChl_Key": "WUYGHHRQOSQDIC-RUHLTRSKSA-N",
+    "SMILES": "COC(=O)[C@@]12C[C@H]3C[C@H](CCN(C)C)[C@@H]1N(CCc1c2[nH]c2ccccc12)C3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8432",
+    "validation": "m_weight unsave, calculated(381.52000000000015)"
+}

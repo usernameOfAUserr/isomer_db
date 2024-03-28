@@ -1,0 +1,13 @@
+{
+    "names": "N-CN-N-Me-PEA ; N-Cyano-N-methylphenethylamine",
+    "iupac_name": "Methyl(2-phenylethyl)cyanamide",
+    "category": "Phenetylamine",
+    "index": 10738,
+    "formular": "C10H12N2",
+    "molecular_weight": 160.216,
+    "inChl": "1S/C10H12N2/c1-12(9-11)8-7-10-5-3-2-4-6-10/h2-6H,7-8H2,1H3",
+    "InChl_Key": "RXLVEAXQAPBGFG-UHFFFAOYSA-N",
+    "SMILES": "CN(C#N)CCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10738",
+    "validation": "m_weight unsave, calculated(160.22)"
+}

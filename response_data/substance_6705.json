@@ -1,0 +1,13 @@
+{
+    "names": "N-tert-Butyl-3-chloroisohexedrone ; 3\u2032-Chloro-2-(tert-butylamino)isohexanophenone",
+    "iupac_name": "2-(tert-Butylamino)-1-(3-chlorophenyl)-4-methylpentan-1-one",
+    "category": "data not stored",
+    "index": 6705,
+    "formular": "C16H24ClNO",
+    "molecular_weight": 281.821,
+    "inChl": "1S/C16H24ClNO/c1-11(2)9-14(18-16(3,4)5)15(19)12-7-6-8-13(17)10-12/h6-8,10-11,14,18H,9H2,1-5H3",
+    "InChl_Key": "WEKVVEUCXILQOT-UHFFFAOYSA-N",
+    "SMILES": "CC(C)CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6705",
+    "validation": "m_weight unsave, calculated(281.82700000000006)"
+}

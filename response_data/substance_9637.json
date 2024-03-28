@@ -1,0 +1,13 @@
+{
+    "names": "1-(1-Benzothiophen-7-yl)-N-{[2-(5-fluoro-2-methoxyphenyl)cyclopropyl]methyl}methanamine",
+    "iupac_name": "9637 ; C20H20FNOS ; 341.442",
+    "category": "data not stored",
+    "index": 9637,
+    "formular": "C20H20FNOS",
+    "molecular_weight": 341.442,
+    "inChl": "1S/C20H20FNOS/c1-23-19-6-5-16(21)10-18(19)17-9-15(17)12-22-11-14-4-2-3-13-7-8-24-20(13)14/h2-8,10,15,17,22H,9,11-12H2,1H3",
+    "InChl_Key": "HUYXHPIKFKAZHR-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(F)cc1C1CC1CNCc1cccc2ccsc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9637",
+    "validation": "m_weight unsave, calculated(341.45099999999996)"
+}

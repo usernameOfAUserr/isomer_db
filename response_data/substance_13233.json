@@ -1,0 +1,13 @@
+{
+    "names": "14-Cinnamoyloxycodeinone",
+    "iupac_name": "3-Methoxy-17-methyl-6-oxo-7,8-didehydro-4,5\u03b1-epoxymorphinan-14-yl (2E)-3-phenylprop-2-enoate ; (4R,4aS,7aR,12bS)-9-Methoxy-3-methyl-7-oxo-1,2,3,4,7,7a-hexahydro-4aH-4,12-methano[1]benzofuro[3,2-e]isoquinolin-4a-yl (2E)-3-phenylprop-2-enoate ; (5\u03b1)-3-Methoxy-17-methyl-6-oxo-7,8-didehydro-4,5-epoxymorphinan-14-yl (2E)-3-phenylprop-2-enoate",
+    "category": "data not stored",
+    "index": 13233,
+    "formular": "C27H25NO5",
+    "molecular_weight": 443.491,
+    "inChl": "1S/C27H25NO5/c1-28-15-14-26-23-18-9-10-20(31-2)24(23)32-25(26)19(29)12-13-27(26,21(28)16-18)33-22(30)11-8-17-6-4-3-5-7-17/h3-13,21,25H,14-16H2,1-2H3/b11-8+/t21-,25+,26+,27-/m1/s1",
+    "InChl_Key": "BWZTYCFJIMYOHI-JKGZCERPSA-N",
+    "SMILES": "COc1ccc2c3c1O[C@H]1C(=O)C=C[C@@]4(OC(=O)/C=C/c5ccccc5)[C@@H](C2)N(C)CC[C@]314",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13233",
+    "validation": "m_weight unsave, calculated(443.49900000000014)"
+}

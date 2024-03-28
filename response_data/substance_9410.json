@@ -1,0 +1,13 @@
+{
+    "names": "Nortriptyline",
+    "iupac_name": "3-(10,11-Dihydro-5H-dibenzo[a,d][7]annulen-5-ylidene)-N-methylpropan-1-amine",
+    "category": "data not stored",
+    "index": 9410,
+    "formular": "C19H21N",
+    "molecular_weight": 263.377,
+    "inChl": "1S/C19H21N/c1-20-14-6-11-19-17-9-4-2-7-15(17)12-13-16-8-3-5-10-18(16)19/h2-5,7-11,20H,6,12-14H2,1H3",
+    "InChl_Key": "PHVGLTMQBUFIQQ-UHFFFAOYSA-N",
+    "SMILES": "CNCCC=C1c2ccccc2CCc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9410",
+    "validation": "m_weight unsave, calculated(263.38399999999996)"
+}

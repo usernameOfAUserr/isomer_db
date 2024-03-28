@@ -1,0 +1,13 @@
+{
+    "names": "Methylphenylpiracetam",
+    "iupac_name": "2-[(2S,3R)-2-Methyl-5-oxo-3-phenylpyrrolidin-1-yl]acetamide",
+    "category": "data not stored",
+    "index": 9979,
+    "formular": "C13H16N2O2",
+    "molecular_weight": 232.278,
+    "inChl": "1S/C13H16N2O2/c1-9-11(10-5-3-2-4-6-10)7-13(17)15(9)8-12(14)16/h2-6,9,11H,7-8H2,1H3,(H2,14,16)/t9-,11-/m0/s1",
+    "InChl_Key": "ZTGRWYMPQCQTHD-ONGXEEELSA-N",
+    "SMILES": "C[C@H]1[C@@H](c2ccccc2)CC(=O)N1CC(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9979",
+    "validation": "m_weight unsave, calculated(232.28300000000002)"
+}

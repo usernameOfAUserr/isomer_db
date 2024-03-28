@@ -1,0 +1,13 @@
+{
+    "names": "2-Chloropyridine",
+    "iupac_name": "2-Chloropyridine",
+    "category": "data not stored",
+    "index": 4377,
+    "formular": "C5H4ClN",
+    "molecular_weight": 113.545,
+    "inChl": "1S/C5H4ClN/c6-5-3-1-2-4-7-5/h1-4H",
+    "InChl_Key": "OKDGRDCXVWSXDC-UHFFFAOYSA-N",
+    "SMILES": "Clc1ccccn1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4377",
+    "validation": "m_weight unsave, calculated(113.54699999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "MAL-LAD ; METALLAD",
+    "iupac_name": "N,N-Diethyl-6-(2-methylprop-2-en-1-yl)-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N,N-Diethyl-7-(2-methylprop-2-en-1-yl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N,N-Diethyl-6-(2-methylprop-2-en-1-yl)-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 2833,
+    "formular": "C23H29N3O",
+    "molecular_weight": 363.496,
+    "inChl": "1S/C23H29N3O/c1-5-25(6-2)23(27)17-10-19-18-8-7-9-20-22(18)16(12-24-20)11-21(19)26(14-17)13-15(3)4/h7-10,12,17,21,24H,3,5-6,11,13-14H2,1-2,4H3/t17-,21-/m1/s1",
+    "InChl_Key": "CMBLBLPHJKCTIR-DYESRHJHSA-N",
+    "SMILES": "C=C(C)CN1C[C@H](C(=O)N(CC)CC)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2833",
+    "validation": "m_weight unsave, calculated(363.50500000000017)"
+}

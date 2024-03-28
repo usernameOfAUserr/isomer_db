@@ -1,0 +1,13 @@
+{
+    "names": "8-Fluoro-5,6-dihydro-4H-pyrrolo[3,2,1-ij]quinolin-5-amine",
+    "iupac_name": "13059 ; C11H11FN2 ; 190.217",
+    "category": "data not stored",
+    "index": 13059,
+    "formular": "C11H11FN2",
+    "molecular_weight": 190.217,
+    "inChl": "1S/C11H11FN2/c12-9-3-7-1-2-14-6-10(13)5-8(4-9)11(7)14/h1-4,10H,5-6,13H2",
+    "InChl_Key": "RWAGIPNXQFQAHJ-UHFFFAOYSA-N",
+    "SMILES": "NC1Cc2cc(F)cc3ccn(c23)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13059",
+    "validation": "m_weight unsave, calculated(190.22099999999998)"
+}

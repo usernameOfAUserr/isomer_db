@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Dimethylhistamine",
+    "iupac_name": "2-(1H-Imidazol-4-yl)-N,N-dimethylethan-1-amine",
+    "category": "data not stored",
+    "index": 12678,
+    "formular": "C7H13N3",
+    "molecular_weight": 139.198,
+    "inChl": "1S/C7H13N3/c1-10(2)4-3-7-5-8-6-9-7/h5-6H,3-4H2,1-2H3,(H,8,9)",
+    "InChl_Key": "ZJDIMSMQXMWMCF-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]cn1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12678",
+    "validation": "m_weight unsave, calculated(139.202)"
+}

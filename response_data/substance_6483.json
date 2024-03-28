@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-HO-3,4-MePEA ; \u03b2-Hydroxy-3,4-dimethylphenethylamine",
+    "iupac_name": "2-Amino-1-(3,4-dimethylphenyl)ethan-1-ol ; 2-Amino-1-(3,4-dimethylphenyl)ethanol",
+    "category": "Shulgin_Index",
+    "index": 6483,
+    "formular": "C10H15NO",
+    "molecular_weight": 165.232,
+    "inChl": "1S/C10H15NO/c1-7-3-4-9(5-8(7)2)10(12)6-11/h3-5,10,12H,6,11H2,1-2H3",
+    "InChl_Key": "LFOAGCXZPJZHOY-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(O)CN)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6483",
+    "validation": "m_weight unsave, calculated(165.23599999999996)"
+}

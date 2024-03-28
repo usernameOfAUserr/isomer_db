@@ -1,0 +1,13 @@
+{
+    "names": "4-MeS-DMT ; 4-Methylthio-N,N-dimethyltryptamine",
+    "iupac_name": "N,N-Dimethyl-2-[4-(methylsulfanyl)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5171,
+    "formular": "C13H18N2S",
+    "molecular_weight": 234.36,
+    "inChl": "1S/C13H18N2S/c1-15(2)8-7-10-9-14-11-5-4-6-12(16-3)13(10)11/h4-6,9,14H,7-8H2,1-3H3",
+    "InChl_Key": "YWCOPJQNWPEWQP-UHFFFAOYSA-N",
+    "SMILES": "CSc1cccc2[nH]cc(CCN(C)C)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5171",
+    "validation": "m_weight unsave, calculated(234.36799999999997)"
+}

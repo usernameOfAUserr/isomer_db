@@ -1,0 +1,13 @@
+{
+    "names": "Peyonine ; N-(3,4,5-Trimethoxyphenethyl)-2-carboxypyrrole",
+    "iupac_name": "1-[2-(3,4,5-Trimethoxyphenyl)ethyl]-1H-pyrrole-2-carboxylic acid",
+    "category": "Peyote alkaloid",
+    "index": 2256,
+    "formular": "C16H19NO5",
+    "molecular_weight": 305.326,
+    "inChl": "1S/C16H19NO5/c1-20-13-9-11(10-14(21-2)15(13)22-3)6-8-17-7-4-5-12(17)16(18)19/h4-5,7,9-10H,6,8H2,1-3H3,(H,18,19)",
+    "InChl_Key": "DDYNENGLSGKEPO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCn2cccc2C(=O)O)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2256",
+    "validation": "m_weight unsave, calculated(305.3300000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-tert-Butyl-3-chlorooctedrone ; 3\u2032-Chloro-2-(tert-butylamino)octanophenone",
+    "iupac_name": "2-(tert-Butylamino)-1-(3-chlorophenyl)octan-1-one",
+    "category": "data not stored",
+    "index": 6704,
+    "formular": "C18H28ClNO",
+    "molecular_weight": 309.874,
+    "inChl": "1S/C18H28ClNO/c1-5-6-7-8-12-16(20-18(2,3)4)17(21)14-10-9-11-15(19)13-14/h9-11,13,16,20H,5-8,12H2,1-4H3",
+    "InChl_Key": "HHZNTCLXZVSLGW-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCC(NC(C)(C)C)C(=O)c1cccc(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6704",
+    "validation": "m_weight unsave, calculated(309.8810000000001)"
+}

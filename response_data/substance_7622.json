@@ -1,0 +1,13 @@
+{
+    "names": "As01",
+    "iupac_name": "3,4-Dichloro-N-{[8-(dimethylamino)-1,4-dioxaspiro[4.5]decan-8-yl]methyl}benzamide",
+    "category": "data not stored",
+    "index": 7622,
+    "formular": "C18H24Cl2N2O3",
+    "molecular_weight": 387.301,
+    "inChl": "1S/C18H24Cl2N2O3/c1-22(2)17(5-7-18(8-6-17)24-9-10-25-18)12-21-16(23)13-3-4-14(19)15(20)11-13/h3-4,11H,5-10,12H2,1-2H3,(H,21,23)",
+    "InChl_Key": "PZFUYXQUTWSZIG-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1(CNC(=O)c2ccc(Cl)c(Cl)c2)CCC2(CC1)OCCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7622",
+    "validation": "m_weight unsave, calculated(387.3070000000003)"
+}

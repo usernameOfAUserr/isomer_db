@@ -1,0 +1,13 @@
+{
+    "names": "3-MeO-PBCHPy",
+    "iupac_name": "1-[2-(3-Methoxyphenyl)bicyclo[2.2.1]heptan-2-yl]pyrrolidine",
+    "category": "Arylcycloalkylamine",
+    "index": 1719,
+    "formular": "C18H25NO",
+    "molecular_weight": 271.397,
+    "inChl": "1S/C18H25NO/c1-20-17-6-4-5-15(12-17)18(19-9-2-3-10-19)13-14-7-8-16(18)11-14/h4-6,12,14,16H,2-3,7-11,13H2,1H3",
+    "InChl_Key": "DSHKHQVECNLHCB-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(C2(N3CCCC3)CC3CCC2C3)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1719",
+    "validation": "m_weight unsave, calculated(271.40399999999994)"
+}

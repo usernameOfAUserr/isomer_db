@@ -1,0 +1,13 @@
+{
+    "names": "Phenampromide",
+    "iupac_name": "N-Phenyl-N-[1-(piperidin-1-yl)propan-2-yl]propanamide",
+    "category": "data not stored",
+    "index": 3207,
+    "formular": "C17H26N2O",
+    "molecular_weight": 274.401,
+    "inChl": "1S/C17H26N2O/c1-3-17(20)19(16-10-6-4-7-11-16)15(2)14-18-12-8-5-9-13-18/h4,6-7,10-11,15H,3,5,8-9,12-14H2,1-2H3",
+    "InChl_Key": "DHTRHEVNFFZCNU-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C(C)CN1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3207",
+    "validation": "m_weight unsave, calculated(274.40799999999996)"
+}

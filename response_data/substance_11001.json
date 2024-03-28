@@ -1,0 +1,13 @@
+{
+    "names": "1-(1,2-Thiazol-5-yl)propan-2-amine",
+    "iupac_name": "11001 ; C6H10N2S ; 142.222",
+    "category": "Phenetylamine",
+    "index": 11001,
+    "formular": "C6H10N2S",
+    "molecular_weight": 142.222,
+    "inChl": "1S/C6H10N2S/c1-5(7)4-6-2-3-8-9-6/h2-3,5H,4,7H2,1H3",
+    "InChl_Key": "FICZDWVNXDDACH-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccns1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11001",
+    "validation": "m_weight unsave, calculated(142.22699999999998)"
+}

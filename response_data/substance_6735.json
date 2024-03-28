@@ -1,0 +1,13 @@
+{
+    "names": "N-tert-Butyl-3-nitrocathinone",
+    "iupac_name": "2-(tert-Butylamino)-1-(3-nitrophenyl)propan-1-one",
+    "category": "data not stored",
+    "index": 6735,
+    "formular": "C13H18N2O3",
+    "molecular_weight": 250.294,
+    "inChl": "1S/C13H18N2O3/c1-9(14-13(2,3)4)12(16)10-6-5-7-11(8-10)15(17)18/h5-9,14H,1-4H3",
+    "InChl_Key": "DDDMGCMKOCLAAT-UHFFFAOYSA-N",
+    "SMILES": "CC(NC(C)(C)C)C(=O)c1cccc([N+](=O)[O-])c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6735",
+    "validation": "m_weight unsave, calculated(250.29799999999997)"
+}

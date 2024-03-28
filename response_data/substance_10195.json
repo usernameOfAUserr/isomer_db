@@ -1,0 +1,13 @@
+{
+    "names": "1-(1H-Inden-6-yl)propan-2-amine",
+    "iupac_name": "10195 ; C12H15N ; 173.254",
+    "category": "Phenetylamine",
+    "index": 10195,
+    "formular": "C12H15N",
+    "molecular_weight": 173.254,
+    "inChl": "1S/C12H15N/c1-9(13)7-10-5-6-11-3-2-4-12(11)8-10/h2-3,5-6,8-9H,4,7,13H2,1H3",
+    "InChl_Key": "DSABOEDHKDWADA-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc2c(c1)CC=C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10195",
+    "validation": "m_weight unsave, calculated(173.25899999999996)"
+}

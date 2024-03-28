@@ -1,0 +1,13 @@
+{
+    "names": "TRK-850",
+    "iupac_name": "(4bS,8R,8aS,16bR)-7-(Cyclopropylmethyl)-1-methoxy-5,6,7,8,9,14,15,16b-octahydro-8aH,13H-4,8-methano[1]benzofuro[2,3-a]dipyrido[4,3-b:3\u2032,2\u2032,1\u2032-jk]carbazol-8a-ol",
+    "category": "data not stored",
+    "index": 9925,
+    "formular": "C30H32N2O3",
+    "molecular_weight": 468.587,
+    "inChl": "1S/C30H32N2O3/c1-34-22-10-9-19-14-23-30(33)15-21-20-6-2-4-18-5-3-12-32(25(18)20)26(21)28-29(30,24(19)27(22)35-28)11-13-31(23)16-17-7-8-17/h2,4,6,9-10,17,23,28,33H,3,5,7-8,11-16H2,1H3/t23-,28+,29+,30-/m1/s1",
+    "InChl_Key": "JUQKSLOQCIZKLV-UJLGHMMASA-N",
+    "SMILES": "COc1ccc2c3c1O[C@H]1c4c(c5cccc6c5n4CCC6)C[C@@]4(O)[C@@H](C2)N(CC2CC2)CC[C@]314",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9925",
+    "validation": "m_weight unsave, calculated(468.5970000000004)"
+}

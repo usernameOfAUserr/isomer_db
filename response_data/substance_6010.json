@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-HO-PEA ; Phenylethanolamine ; \u03b2-Hydroxyphenethylamine",
+    "iupac_name": "2-Amino-1-phenylethan-1-ol ; 2-Amino-1-phenylethanol",
+    "category": "Shulgin_Index",
+    "index": 6010,
+    "formular": "C8H11NO",
+    "molecular_weight": 137.179,
+    "inChl": "1S/C8H11NO/c9-6-8(10)7-4-2-1-3-5-7/h1-5,8,10H,6,9H2",
+    "InChl_Key": "ULSIYEODSMZIPX-UHFFFAOYSA-N",
+    "SMILES": "NCC(O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6010",
+    "validation": "m_weight unsave, calculated(137.18199999999996)"
+}

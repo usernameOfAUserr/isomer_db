@@ -1,0 +1,13 @@
+{
+    "names": "4-Ethylphenyl etaqualone ; Etaqualone 4-ethylphenyl analog",
+    "iupac_name": "3-(4-Ethylphenyl)-2-methylquinazolin-4(3H)-one",
+    "category": "data not stored",
+    "index": 3984,
+    "formular": "C17H16N2O",
+    "molecular_weight": 264.322,
+    "inChl": "1S/C17H16N2O/c1-3-13-8-10-14(11-9-13)19-12(2)18-16-7-5-4-6-15(16)17(19)20/h4-11H,3H2,1-2H3",
+    "InChl_Key": "VZGDBHQLZVBGDG-UHFFFAOYSA-N",
+    "SMILES": "CCc1ccc(-n2c(C)nc3ccccc3c2=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3984",
+    "validation": "m_weight unsave, calculated(264.328)"
+}

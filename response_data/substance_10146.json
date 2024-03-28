@@ -1,0 +1,13 @@
+{
+    "names": "o-Safrole",
+    "iupac_name": "4-(Prop-2-en-1-yl)-2H-1,3-benzodioxole",
+    "category": "data not stored",
+    "index": 10146,
+    "formular": "C10H10O2",
+    "molecular_weight": 162.185,
+    "inChl": "1S/C10H10O2/c1-2-4-8-5-3-6-9-10(8)12-7-11-9/h2-3,5-6H,1,4,7H2",
+    "InChl_Key": "BIDZKWHXHPZWOX-UHFFFAOYSA-N",
+    "SMILES": "C=CCc1cccc2c1OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10146",
+    "validation": "m_weight unsave, calculated(162.18799999999993)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "DEONE ; N,N-Diethyl MDCATH ; N,N-Diethyl-\u03b2-keto-3,4-methylenedioxyamphetamine ; N,N-Diethyl-3,4-methylenedioxycathinone",
+    "iupac_name": "1-(2H-1,3-Benzodioxol-5-yl)-2-(diethylamino)propan-1-one ; 1-(1,3-Benzodioxol-5-yl)-2-(diethylamino)propan-1-one",
+    "category": "Shulgin_Index",
+    "index": 2123,
+    "formular": "C14H19NO3",
+    "molecular_weight": 249.306,
+    "inChl": "1S/C14H19NO3/c1-4-15(5-2)10(3)14(16)11-6-7-12-13(8-11)18-9-17-12/h6-8,10H,4-5,9H2,1-3H3",
+    "InChl_Key": "DWARVNWIBRHVMQ-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)C(C)C(=O)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2123",
+    "validation": "m_weight unsave, calculated(249.30999999999995)"
+}

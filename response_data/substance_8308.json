@@ -1,0 +1,13 @@
+{
+    "names": "5-MeS-3,4-DEBAL ; 5-Methylthio-3,4-diethoxybenzaldehyde",
+    "iupac_name": "3,4-Diethoxy-5-(methylsulfanyl)benzaldehyde",
+    "category": "data not stored",
+    "index": 8308,
+    "formular": "C12H16O3S",
+    "molecular_weight": 240.319,
+    "inChl": "1S/C12H16O3S/c1-4-14-10-6-9(8-13)7-11(16-3)12(10)15-5-2/h6-8H,4-5H2,1-3H3",
+    "InChl_Key": "PVTUCDSAHFRKJP-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(C=O)cc(SC)c1OCC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8308",
+    "validation": "m_weight unsave, calculated(240.32399999999996)"
+}

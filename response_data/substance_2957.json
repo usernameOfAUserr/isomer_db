@@ -1,0 +1,13 @@
+{
+    "names": "25B-NBOMe-2\u2032-glucuronide",
+    "iupac_name": "2-({[2-(4-Bromo-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenyl \u03b2-D-glucopyranosiduronic acid ; (2S,3S,4S,5R,6S)-6-[2-({[2-(4-Bromo-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenoxy]-3,4,5-trihydroxyoxane-2-carboxylic acid",
+    "category": "data not stored",
+    "index": 2957,
+    "formular": "C23H28BrNO9",
+    "molecular_weight": 542.374,
+    "inChl": "1S/C23H28BrNO9/c1-31-16-10-14(24)17(32-2)9-12(16)7-8-25-11-13-5-3-4-6-15(13)33-23-20(28)18(26)19(27)21(34-23)22(29)30/h3-6,9-10,18-21,23,25-28H,7-8,11H2,1-2H3,(H,29,30)/t18-,19-,20+,21-,23+/m0/s1",
+    "InChl_Key": "UGCCIQJCKAIYPW-KHYDEXNFSA-N",
+    "SMILES": "COc1cc(CCNCc2ccccc2O[C@@H]2O[C@H](C(=O)O)[C@@H](O)[C@H](O)[C@H]2O)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2957",
+    "validation": "m_weight unsave, calculated(542.3790000000001)"
+}

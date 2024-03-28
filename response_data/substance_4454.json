@@ -1,0 +1,13 @@
+{
+    "names": "NESS-040C5",
+    "iupac_name": "1-[(4-Methylphenyl)methyl]-N-[5-methyl-2-(propan-2-yl)cyclohexyl]-1,4-dihydrothieno[3\u2032,2\u2032:4,5]cyclopenta[1,2-c]pyrazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4454,
+    "formular": "C27H33N3OS",
+    "molecular_weight": 447.635,
+    "inChl": "1S/C27H33N3OS/c1-16(2)21-10-7-18(4)13-23(21)28-27(31)24-22-14-20-11-12-32-26(20)25(22)30(29-24)15-19-8-5-17(3)6-9-19/h5-6,8-9,11-12,16,18,21,23H,7,10,13-15H2,1-4H3,(H,28,31)",
+    "InChl_Key": "WUNMBICZGWWVBY-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(Cn2nc(C(=O)NC3CC(C)CCC3C(C)C)c3c2-c2sccc2C3)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4454",
+    "validation": "m_weight unsave, calculated(447.64800000000014)"
+}

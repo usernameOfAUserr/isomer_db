@@ -1,0 +1,13 @@
+{
+    "names": "2-HO-BAL ; o-Hydroxybenzaldehyde ; Salicylaldehyde",
+    "iupac_name": "2-Hydroxybenzaldehyde",
+    "category": "data not stored",
+    "index": 11132,
+    "formular": "C7H6O2",
+    "molecular_weight": 122.121,
+    "inChl": "1S/C7H6O2/c8-5-6-3-1-2-4-7(6)9/h1-5,9H",
+    "InChl_Key": "SMQUZDBALVYZAC-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1ccccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11132",
+    "validation": "m_weight unsave, calculated(122.12299999999996)"
+}

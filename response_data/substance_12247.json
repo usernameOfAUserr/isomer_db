@@ -1,0 +1,13 @@
+{
+    "names": "4-DFMeO-2,6-DMBAL ; 4-Difluoromethoxy-2,6-dimethoxybenzaldehyde",
+    "iupac_name": "4-(Difluoromethoxy)-2,6-dimethoxybenzaldehyde",
+    "category": "Phenetylamine",
+    "index": 12247,
+    "formular": "C10H10F2O4",
+    "molecular_weight": 232.181,
+    "inChl": "1S/C10H10F2O4/c1-14-8-3-6(16-10(11)12)4-9(15-2)7(8)5-13/h3-5,10H,1-2H3",
+    "InChl_Key": "SUJOFZKEXYVOCU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC(F)F)cc(OC)c1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12247",
+    "validation": "m_weight unsave, calculated(232.182)"
+}

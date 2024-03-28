@@ -1,0 +1,13 @@
+{
+    "names": "Picenadol ; LY-97435",
+    "iupac_name": "3-(1,3-Dimethyl-4-propylpiperidin-4-yl)phenol",
+    "category": "data not stored",
+    "index": 3295,
+    "formular": "C16H25NO",
+    "molecular_weight": 247.376,
+    "inChl": "1S/C16H25NO/c1-4-8-16(9-10-17(3)12-13(16)2)14-6-5-7-15(18)11-14/h5-7,11,13,18H,4,8-10,12H2,1-3H3",
+    "InChl_Key": "RTOHPIRUUAKHOZ-UHFFFAOYSA-N",
+    "SMILES": "CCCC1(c2cccc(O)c2)CCN(C)CC1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3295",
+    "validation": "m_weight unsave, calculated(247.382)"
+}

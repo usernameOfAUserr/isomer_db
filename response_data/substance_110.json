@@ -1,0 +1,13 @@
+{
+    "names": "MDMC ; N-Methyl-3,4-ethylenedioxyamphetamine ; EDMA ; 3,4-Ethylenedioxy-N-methylamphetamine",
+    "iupac_name": "1-(2,3-Dihydro-1,4-benzodioxin-6-yl)-N-methylpropan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 110,
+    "formular": "C12H17NO2",
+    "molecular_weight": 207.269,
+    "inChl": "1S/C12H17NO2/c1-9(13-2)7-10-3-4-11-12(8-10)15-6-5-14-11/h3-4,8-9,13H,5-7H2,1-2H3",
+    "InChl_Key": "UJKWLAZYSLJTKA-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1ccc2c(c1)OCCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=110",
+    "validation": "m_weight unsave, calculated(207.27299999999994)"
+}

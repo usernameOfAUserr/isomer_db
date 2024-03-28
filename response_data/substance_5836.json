@@ -1,0 +1,13 @@
+{
+    "names": "5-Benzyloxy-\u03b1-methyl-DET ; 5-Benzyloxy-\u03b1-methyl-N,N-diethyltryptamine",
+    "iupac_name": "1-[5-(Benzyloxy)-1H-indol-3-yl]-N,N-diethylpropan-2-amine",
+    "category": "Tryptamine",
+    "index": 5836,
+    "formular": "C22H28N2O",
+    "molecular_weight": 336.471,
+    "inChl": "1S/C22H28N2O/c1-4-24(5-2)17(3)13-19-15-23-22-12-11-20(14-21(19)22)25-16-18-9-7-6-8-10-18/h6-12,14-15,17,23H,4-5,13,16H2,1-3H3",
+    "InChl_Key": "MNEMFARDERMDTD-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)C(C)Cc1c[nH]c2ccc(OCc3ccccc3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5836",
+    "validation": "m_weight unsave, calculated(336.4790000000001)"
+}

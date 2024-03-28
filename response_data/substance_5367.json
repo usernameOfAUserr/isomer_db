@@ -1,0 +1,13 @@
+{
+    "names": "N-Acetylserotonin ; N-Acetyl-5-hydroxytryptamine ; N-Acetyl-5-HO-T ; Normelatonin",
+    "iupac_name": "N-[2-(5-Hydroxy-1H-indol-3-yl)ethyl]acetamide",
+    "category": "Tryptamine",
+    "index": 5367,
+    "formular": "C12H14N2O2",
+    "molecular_weight": 218.252,
+    "inChl": "1S/C12H14N2O2/c1-8(15)13-5-4-9-7-14-12-3-2-10(16)6-11(9)12/h2-3,6-7,14,16H,4-5H2,1H3,(H,13,15)",
+    "InChl_Key": "MVAWJSIDNICKHF-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NCCc1c[nH]c2ccc(O)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5367",
+    "validation": "m_weight unsave, calculated(218.256)"
+}

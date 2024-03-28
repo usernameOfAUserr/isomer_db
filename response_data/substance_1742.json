@@ -1,0 +1,13 @@
+{
+    "names": "ALEPH NS ; 2,5-Dimethoxy-4-methylthio-\u03b2-methyl-\u03b2-nitrostyrene ; 1-(2,5-Dimethoxy-4-methylthiophenyl)-2-nitropropene",
+    "iupac_name": "1,4-Dimethoxy-2-(methylsulfanyl)-5-[(1E)-2-nitroprop-1-en-1-yl]benzene",
+    "category": "data not stored",
+    "index": 1742,
+    "formular": "C12H15NO4S",
+    "molecular_weight": 269.317,
+    "inChl": "1S/C12H15NO4S/c1-8(13(14)15)5-9-6-11(17-3)12(18-4)7-10(9)16-2/h5-7H,1-4H3/b8-5+",
+    "InChl_Key": "ZEZKFCRNWMIAEN-VMPITWQZSA-N",
+    "SMILES": "COc1cc(SC)c(OC)cc1/C=C(\\C)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1742",
+    "validation": "m_weight unsave, calculated(269.322)"
+}

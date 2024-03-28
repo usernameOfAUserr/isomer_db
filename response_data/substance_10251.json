@@ -1,0 +1,13 @@
+{
+    "names": "2,6-Cl-4-NMe2-A ; 2,6-Dichloro-4-(dimethylamino)amphetamine ; FLA 365",
+    "iupac_name": "4-(2-Aminopropyl)-3,5-dichloro-N,N-dimethylaniline",
+    "category": "Phenetylamine",
+    "index": 10251,
+    "formular": "C11H16Cl2N2",
+    "molecular_weight": 247.164,
+    "inChl": "1S/C11H16Cl2N2/c1-7(14)4-9-10(12)5-8(15(2)3)6-11(9)13/h5-7H,4,14H2,1-3H3",
+    "InChl_Key": "DWBMENXBKOCHLV-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c(Cl)cc(N(C)C)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10251",
+    "validation": "m_weight unsave, calculated(247.16899999999998)"
+}

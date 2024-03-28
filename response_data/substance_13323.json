@@ -1,0 +1,13 @@
+{
+    "names": "ADB-5Br-INACA ; ADMB-5Br-INACA ; 5Br-ADB-INACA",
+    "iupac_name": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-5-bromo-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 13323,
+    "formular": "C14H17BrN4O2",
+    "molecular_weight": 353.214,
+    "inChl": "1S/C14H17BrN4O2/c1-14(2,3)11(12(16)20)17-13(21)10-8-6-7(15)4-5-9(8)18-19-10/h4-6,11H,1-3H3,(H2,16,20)(H,17,21)(H,18,19)/t11-/m1/s1",
+    "InChl_Key": "AJGASUCDTSLMNP-LLVKDONJSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1n[nH]c2ccc(Br)cc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13323",
+    "validation": "m_weight unsave, calculated(353.22000000000014)"
+}

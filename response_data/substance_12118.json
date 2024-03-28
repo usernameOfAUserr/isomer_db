@@ -1,0 +1,13 @@
+{
+    "names": "1-(1,3-Thiazol-2-yl)methanamine",
+    "iupac_name": "12118 ; C4H6N2S ; 114.169",
+    "category": "Phenetylamine",
+    "index": 12118,
+    "formular": "C4H6N2S",
+    "molecular_weight": 114.169,
+    "inChl": "1S/C4H6N2S/c5-3-4-6-1-2-7-4/h1-2H,3,5H2",
+    "InChl_Key": "JOZSYOPADROCMP-UHFFFAOYSA-N",
+    "SMILES": "NCc1nccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12118",
+    "validation": "m_weight unsave, calculated(114.17299999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Hydromorphone ; Dihydromorphinone",
+    "iupac_name": "3-Hydroxy-17-methyl-4,5\u03b1-epoxymorphinan-6-one ; (4R,4aR,7aR,12bS)-9-Hydroxy-3-methyl-2,3,4,4a,5,6-hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinolin-7(7aH)-one ; (5\u03b1)-3-Hydroxy-17-methyl-4,5-epoxymorphinan-6-one",
+    "category": "data not stored",
+    "index": 9724,
+    "formular": "C17H19NO3",
+    "molecular_weight": 285.338,
+    "inChl": "1S/C17H19NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2,4,10-11,16,19H,3,5-8H2,1H3/t10-,11+,16-,17-/m0/s1",
+    "InChl_Key": "WVLOADHCBXTIJK-YNHQPCIGSA-N",
+    "SMILES": "CN1CC[C@]23c4c5ccc(O)c4O[C@H]2C(=O)CC[C@H]3[C@H]1C5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9724",
+    "validation": "m_weight unsave, calculated(285.34299999999996)"
+}

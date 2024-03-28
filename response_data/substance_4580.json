@@ -1,0 +1,13 @@
+{
+    "names": "CUMYL-NBMINACA ; Cumyl-BC[2.2.1]HpMINACA ; SGT-152",
+    "iupac_name": "1-[(Bicyclo[2.2.1]heptan-2-yl)methyl]-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4580,
+    "formular": "C25H29N3O",
+    "molecular_weight": 387.517,
+    "inChl": "1S/C25H29N3O/c1-25(2,20-8-4-3-5-9-20)26-24(29)23-21-10-6-7-11-22(21)28(27-23)16-19-15-17-12-13-18(19)14-17/h3-11,17-19H,12-16H2,1-2H3,(H,26,29)",
+    "InChl_Key": "MLRLLZWQYJJPEX-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1nn(CC2CC3CCC2C3)c2ccccc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4580",
+    "validation": "m_weight unsave, calculated(387.52700000000004)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Isopropyl nitrite",
+    "iupac_name": "Propan-2-yl nitrite",
+    "category": "data not stored",
+    "index": 12474,
+    "formular": "C3H7NO2",
+    "molecular_weight": 89.093,
+    "inChl": "1S/C3H7NO2/c1-3(2)6-4-5/h3H,1-2H3",
+    "InChl_Key": "SKRDXYBATCVEMS-UHFFFAOYSA-N",
+    "SMILES": "CC(C)ON=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12474",
+    "validation": "m_weight unsave, calculated(89.094)"
+}

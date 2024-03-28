@@ -1,0 +1,13 @@
+{
+    "names": "2C-T-35 ; 4-Difluoromethylthio-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-{4-[(Difluoromethyl)sulfanyl]-2,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10340,
+    "formular": "C11H15F2NO2S",
+    "molecular_weight": 263.304,
+    "inChl": "1S/C11H15F2NO2S/c1-15-8-6-10(17-11(12)13)9(16-2)5-7(8)3-4-14/h5-6,11H,3-4,14H2,1-2H3",
+    "InChl_Key": "IMXLEUNJGUBEMC-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SC(F)F)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10340",
+    "validation": "m_weight unsave, calculated(263.30899999999997)"
+}

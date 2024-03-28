@@ -1,0 +1,13 @@
+{
+    "names": "2-Oxo-1-pentyl-N-(2-phenylpropan-2-yl)-1,2-dihydropyridine-3-carboxamide",
+    "iupac_name": "7785 ; C20H26N2O2 ; 326.433",
+    "category": "cannabinodids",
+    "index": 7785,
+    "formular": "C20H26N2O2",
+    "molecular_weight": 326.433,
+    "inChl": "1S/C20H26N2O2/c1-4-5-9-14-22-15-10-13-17(19(22)24)18(23)21-20(2,3)16-11-7-6-8-12-16/h6-8,10-13,15H,4-5,9,14H2,1-3H3,(H,21,23)",
+    "InChl_Key": "LDZIJYBDLGSXPP-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cccc(C(=O)NC(C)(C)c2ccccc2)c1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7785",
+    "validation": "m_weight unsave, calculated(326.44000000000005)"
+}

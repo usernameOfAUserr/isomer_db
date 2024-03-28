@@ -1,0 +1,13 @@
+{
+    "names": "6-(2-Aminopropyl)-N,N-dimethylpyridin-2-amine",
+    "iupac_name": "10544 ; C10H17N3 ; 179.262",
+    "category": "Phenetylamine",
+    "index": 10544,
+    "formular": "C10H17N3",
+    "molecular_weight": 179.262,
+    "inChl": "1S/C10H17N3/c1-8(11)7-9-5-4-6-10(12-9)13(2)3/h4-6,8H,7,11H2,1-3H3",
+    "InChl_Key": "WWYZEVJODJDAJE-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1cccc(N(C)C)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10544",
+    "validation": "m_weight unsave, calculated(179.26699999999997)"
+}

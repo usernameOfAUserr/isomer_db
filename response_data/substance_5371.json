@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-DALT ; 5-Methoxy-N,N-diallyltryptamine ; 3-[2-(Diallylamino)ethyl]-5-methoxyindole ; N,N-Diallyl-5-methoxytryptamine ; Indole, 3-[2-(diallylamino)ethyl]-5-methoxy ; 5-Methoxy-DALT ; Tryptamine, N,N-diallyl-5-methoxy",
+    "iupac_name": "N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]-N-(prop-2-en-1-yl)prop-2-en-1-amine",
+    "category": "Tryptamine",
+    "index": 5371,
+    "formular": "C17H22N2O",
+    "molecular_weight": 270.369,
+    "inChl": "1S/C17H22N2O/c1-4-9-19(10-5-2)11-8-14-13-18-17-7-6-15(20-3)12-16(14)17/h4-7,12-13,18H,1-2,8-11H2,3H3",
+    "InChl_Key": "HGRHWEAUHXYNNP-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(CC=C)CCc1c[nH]c2ccc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5371",
+    "validation": "m_weight unsave, calculated(270.3759999999999)"
+}

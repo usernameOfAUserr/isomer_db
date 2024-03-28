@@ -1,0 +1,13 @@
+{
+    "names": "3F-Cyclopropylbenzylfentanyl ; N-Benzyl-m-fluorocyclopropyl norfentanyl ; m-Fluorocyclopropylbenzylfentanyl",
+    "iupac_name": "N-(1-Benzylpiperidin-4-yl)-N-(3-fluorophenyl)cyclopropanecarboxamide",
+    "category": "Fentanyl",
+    "index": 6983,
+    "formular": "C22H25FN2O",
+    "molecular_weight": 352.445,
+    "inChl": "1S/C22H25FN2O/c23-19-7-4-8-21(15-19)25(22(26)18-9-10-18)20-11-13-24(14-12-20)16-17-5-2-1-3-6-17/h1-8,15,18,20H,9-14,16H2",
+    "InChl_Key": "AOLNSOXELLOWKK-UHFFFAOYSA-N",
+    "SMILES": "O=C(C1CC1)N(c1cccc(F)c1)C1CCN(Cc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6983",
+    "validation": "m_weight unsave, calculated(352.4530000000001)"
+}

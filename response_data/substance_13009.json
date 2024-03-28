@@ -1,0 +1,13 @@
+{
+    "names": "2-(Azetidin-1-yl)-2-phenylcyclohexan-1-one",
+    "iupac_name": "13009 ; C15H19NO ; 229.317",
+    "category": "Arylcycloalkylamine",
+    "index": 13009,
+    "formular": "C15H19NO",
+    "molecular_weight": 229.317,
+    "inChl": "1S/C15H19NO/c17-14-9-4-5-10-15(14,16-11-6-12-16)13-7-2-1-3-8-13/h1-3,7-8H,4-6,9-12H2",
+    "InChl_Key": "JHURLFDVBGRSII-UHFFFAOYSA-N",
+    "SMILES": "O=C1CCCCC1(c1ccccc1)N1CCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13009",
+    "validation": "m_weight unsave, calculated(229.323)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-Indoleglyoxlyl chloride",
+    "iupac_name": "(1H-Indol-3-yl)(oxo)acetyl chloride",
+    "category": "data not stored",
+    "index": 3879,
+    "formular": "C10H6ClNO2",
+    "molecular_weight": 207.613,
+    "inChl": "1S/C10H6ClNO2/c11-10(14)9(13)7-5-12-8-4-2-1-3-6(7)8/h1-5,12H",
+    "InChl_Key": "FPEGGKCNMYDNMW-UHFFFAOYSA-N",
+    "SMILES": "O=C(Cl)C(=O)c1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3879",
+    "validation": "m_weight unsave, calculated(207.616)"
+}

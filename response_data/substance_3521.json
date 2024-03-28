@@ -1,0 +1,13 @@
+{
+    "names": "Bicifadine ; DOV 220,075",
+    "iupac_name": "(1R,5S)-1-(4-Methylphenyl)-3-azabicyclo[3.1.0]hexane",
+    "category": "data not stored",
+    "index": 3521,
+    "formular": "C12H15N",
+    "molecular_weight": 173.254,
+    "inChl": "1S/C12H15N/c1-9-2-4-10(5-3-9)12-6-11(12)7-13-8-12/h2-5,11,13H,6-8H2,1H3/t11-,12+/m1/s1",
+    "InChl_Key": "OFYVIGTWSQPCLF-NEPJUHHUSA-N",
+    "SMILES": "Cc1ccc([C@]23CNC[C@H]2C3)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3521",
+    "validation": "m_weight unsave, calculated(173.259)"
+}

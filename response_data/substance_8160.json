@@ -1,0 +1,13 @@
+{
+    "names": "ADB-THPICA ; SGT-70",
+    "iupac_name": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-1-[(oxan-4-yl)methyl]-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 8160,
+    "formular": "C21H29N3O3",
+    "molecular_weight": 371.473,
+    "inChl": "1S/C21H29N3O3/c1-21(2,3)18(19(22)25)23-20(26)16-13-24(12-14-8-10-27-11-9-14)17-7-5-4-6-15(16)17/h4-7,13-14,18H,8-12H2,1-3H3,(H2,22,25)(H,23,26)/t18-/m1/s1",
+    "InChl_Key": "LWJCYKRABDNCSY-GOSISDBHSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1cn(CC2CCOCC2)c2ccccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8160",
+    "validation": "m_weight unsave, calculated(371.48100000000005)"
+}

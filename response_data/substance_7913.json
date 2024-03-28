@@ -1,0 +1,13 @@
+{
+    "names": "Rapastinel ; GLYX-13 ; BV-102",
+    "iupac_name": "L-Threonyl-L-prolyl-L-prolyl-L-threoninamide ; (2S)-1-{(2S)-1-[(2S,3R)-2-Amino-3-hydroxybutanoyl]pyrrolidine-2-carbonyl}-N-[(2S,3R)-1-amino-3-hydroxy-1-oxobutan-2-yl]pyrrolidine-2-carboxamide",
+    "category": "data not stored",
+    "index": 7913,
+    "formular": "C18H31N5O6",
+    "molecular_weight": 413.469,
+    "inChl": "1S/C18H31N5O6/c1-9(24)13(19)18(29)23-8-4-6-12(23)17(28)22-7-3-5-11(22)16(27)21-14(10(2)25)15(20)26/h9-14,24-25H,3-8,19H2,1-2H3,(H2,20,26)(H,21,27)/t9-,10-,11+,12+,13+,14+/m1/s1",
+    "InChl_Key": "GIBQQARAXHVEGD-BSOLPCOYSA-N",
+    "SMILES": "C[C@@H](O)[C@H](N)C(=O)N1CCC[C@H]1C(=O)N1CCC[C@H]1C(=O)N[C@H](C(N)=O)[C@@H](C)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7913",
+    "validation": "m_weight unsave, calculated(413.47500000000014)"
+}

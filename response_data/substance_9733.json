@@ -1,0 +1,13 @@
+{
+    "names": "4-HOMe-A-NBOMe ; N-(2-Methoxybenzyl)-4-hydroxymethylamphetamine",
+    "iupac_name": "[4-(2-{[(2-Methoxyphenyl)methyl]amino}propyl)phenyl]methanol",
+    "category": "data not stored",
+    "index": 9733,
+    "formular": "C18H23NO2",
+    "molecular_weight": 285.381,
+    "inChl": "1S/C18H23NO2/c1-14(11-15-7-9-16(13-20)10-8-15)19-12-17-5-3-4-6-18(17)21-2/h3-10,14,19-20H,11-13H2,1-2H3",
+    "InChl_Key": "LDTRCRMBAXHHBN-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CNC(C)Cc1ccc(CO)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9733",
+    "validation": "m_weight unsave, calculated(285.387)"
+}

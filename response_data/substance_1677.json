@@ -1,0 +1,13 @@
+{
+    "names": "2,3-Secofentanyl",
+    "iupac_name": "N-{4-[Methyl(2-phenylethyl)amino]butan-2-yl}-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 1677,
+    "formular": "C22H30N2O",
+    "molecular_weight": 338.486,
+    "inChl": "1S/C22H30N2O/c1-4-22(25)24(21-13-9-6-10-14-21)19(2)15-17-23(3)18-16-20-11-7-5-8-12-20/h5-14,19H,4,15-18H2,1-3H3",
+    "InChl_Key": "TVSLDWMMAUJGPV-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C(C)CCN(C)CCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1677",
+    "validation": "m_weight unsave, calculated(338.495)"
+}

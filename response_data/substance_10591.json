@@ -1,0 +1,13 @@
+{
+    "names": "4-DMA-CPA ; 2-(4-Dimethylaminophenyl)cyclopropylamine",
+    "iupac_name": "4-(2-Aminocyclopropyl)-N,N-dimethylaniline",
+    "category": "data not stored",
+    "index": 10591,
+    "formular": "C11H16N2",
+    "molecular_weight": 176.258,
+    "inChl": "1S/C11H16N2/c1-13(2)9-5-3-8(4-6-9)10-7-11(10)12/h3-6,10-11H,7,12H2,1-2H3",
+    "InChl_Key": "RFXSQJLTKLMDQG-UHFFFAOYSA-N",
+    "SMILES": "CN(C)c1ccc(C2CC2N)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10591",
+    "validation": "m_weight unsave, calculated(176.26299999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "T-NBOMe35Br ; N-(3,5-Dibromo-2-methoxybenzyl)tryptamine",
+    "iupac_name": "N-[(3,5-Dibromo-2-methoxyphenyl)methyl]-2-(1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 1166,
+    "formular": "C18H18Br2N2O",
+    "molecular_weight": 438.156,
+    "inChl": "1S/C18H18Br2N2O/c1-23-18-13(8-14(19)9-16(18)20)10-21-7-6-12-11-22-17-5-3-2-4-15(12)17/h2-5,8-9,11,21-22H,6-7,10H2,1H3",
+    "InChl_Key": "ZIQPBFWWAFIANP-UHFFFAOYSA-N",
+    "SMILES": "COc1c(Br)cc(Br)cc1CNCCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1166",
+    "validation": "m_weight unsave, calculated(438.16300000000007)"
+}

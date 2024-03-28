@@ -1,0 +1,13 @@
+{
+    "names": "3-DESMETHYL ; 3-Hydroxy-4,5-dimethoxyphenethylamine ; 3-Demethylmescaline",
+    "iupac_name": "5-(2-Aminoethyl)-2,3-dimethoxyphenol",
+    "category": "Peyote alkaloid",
+    "index": 2212,
+    "formular": "C10H15NO3",
+    "molecular_weight": 197.231,
+    "inChl": "1S/C10H15NO3/c1-13-9-6-7(3-4-11)5-8(12)10(9)14-2/h5-6,12H,3-4,11H2,1-2H3",
+    "InChl_Key": "PDKPJPTZKPCMKR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(O)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2212",
+    "validation": "m_weight unsave, calculated(197.23399999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-DM-2C-H-TFA ; N-Trifluoroacetyl-5-hydroxy-2-methoxyphenethylamine",
+    "iupac_name": "2,2,2-Trifluoro-N-[2-(5-hydroxy-2-methoxyphenyl)ethyl]acetamide",
+    "category": "data not stored",
+    "index": 1781,
+    "formular": "C11H12F3NO3",
+    "molecular_weight": 263.213,
+    "inChl": "1S/C11H12F3NO3/c1-18-9-3-2-8(16)6-7(9)4-5-15-10(17)11(12,13)14/h2-3,6,16H,4-5H2,1H3,(H,15,17)",
+    "InChl_Key": "QPEWYBWEINOQDJ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(O)cc1CCNC(=O)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1781",
+    "validation": "m_weight unsave, calculated(263.2149999999999)"
+}

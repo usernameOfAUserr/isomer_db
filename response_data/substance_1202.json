@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Me-5,8-ADT ; 5,8-Dimethoxy-2-(dimethylamino)tetralin",
+    "iupac_name": "5,8-Dimethoxy-N,N-dimethyl-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "category": "data not stored",
+    "index": 1202,
+    "formular": "C14H21NO2",
+    "molecular_weight": 235.322,
+    "inChl": "1S/C14H21NO2/c1-15(2)10-5-6-11-12(9-10)14(17-4)8-7-13(11)16-3/h7-8,10H,5-6,9H2,1-4H3",
+    "InChl_Key": "GNSMSAGJMPLOQA-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c2c1CCC(N(C)C)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1202",
+    "validation": "m_weight unsave, calculated(235.32699999999997)"
+}

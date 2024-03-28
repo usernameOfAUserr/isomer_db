@@ -1,0 +1,13 @@
+{
+    "names": "O-1601",
+    "iupac_name": "5\u2032-(Hydroxymethyl)-4-(2-methyloctan-2-yl)-2\u2032-(propan-2-yl)[1,1\u2032-biphenyl]-2-ol",
+    "category": "cannabinodids",
+    "index": 4771,
+    "formular": "C25H36O2",
+    "molecular_weight": 368.552,
+    "inChl": "1S/C25H36O2/c1-6-7-8-9-14-25(4,5)20-11-13-22(24(27)16-20)23-15-19(17-26)10-12-21(23)18(2)3/h10-13,15-16,18,26-27H,6-9,14,17H2,1-5H3",
+    "InChl_Key": "VWBSYEPRGIEMPS-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCC(C)(C)c1ccc(-c2cc(CO)ccc2C(C)C)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4771",
+    "validation": "m_weight unsave, calculated(368.5610000000001)"
+}

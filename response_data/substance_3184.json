@@ -1,0 +1,13 @@
+{
+    "names": "Cyclopentenylfentanyl",
+    "iupac_name": "N-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]cyclopent-1-ene-1-carboxamide",
+    "category": "Fentanyl",
+    "index": 3184,
+    "formular": "C25H30N2O",
+    "molecular_weight": 374.519,
+    "inChl": "1S/C25H30N2O/c28-25(22-11-7-8-12-22)27(23-13-5-2-6-14-23)24-16-19-26(20-17-24)18-15-21-9-3-1-4-10-21/h1-6,9-11,13-14,24H,7-8,12,15-20H2",
+    "InChl_Key": "SYSQDIUBJXIHAM-UHFFFAOYSA-N",
+    "SMILES": "O=C(C1=CCCC1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3184",
+    "validation": "m_weight unsave, calculated(374.5280000000001)"
+}

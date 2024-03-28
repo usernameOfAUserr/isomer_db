@@ -1,0 +1,13 @@
+{
+    "names": "Phendimetrazine",
+    "iupac_name": "3,4-Dimethyl-2-phenylmorpholine",
+    "category": "Phenetylamine",
+    "index": 1235,
+    "formular": "C12H17NO",
+    "molecular_weight": 191.269,
+    "inChl": "1S/C12H17NO/c1-10-12(14-9-8-13(10)2)11-6-4-3-5-7-11/h3-7,10,12H,8-9H2,1-2H3",
+    "InChl_Key": "MFOCDFTXLCYLKU-UHFFFAOYSA-N",
+    "SMILES": "CC1C(c2ccccc2)OCCN1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1235",
+    "validation": "m_weight unsave, calculated(191.27400000000003)"
+}

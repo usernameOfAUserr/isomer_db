@@ -1,0 +1,13 @@
+{
+    "names": "homo-iso-DMT ; Homo-isotryptamine",
+    "iupac_name": "3-(1H-Indol-1-yl)-N,N-dimethylpropan-1-amine",
+    "category": "data not stored",
+    "index": 7842,
+    "formular": "C13H18N2",
+    "molecular_weight": 202.295,
+    "inChl": "1S/C13H18N2/c1-14(2)9-5-10-15-11-8-12-6-3-4-7-13(12)15/h3-4,6-8,11H,5,9-10H2,1-2H3",
+    "InChl_Key": "VZQZKEYQPBNATK-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCCn1ccc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7842",
+    "validation": "m_weight unsave, calculated(202.30100000000002)"
+}

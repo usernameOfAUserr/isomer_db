@@ -1,0 +1,13 @@
+{
+    "names": "SGT-170",
+    "iupac_name": "N-[(3,4-Dichlorophenyl)methyl]-5-fluoro-1-pentyl-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11584,
+    "formular": "C21H21Cl2FN2O",
+    "molecular_weight": 407.309,
+    "inChl": "1S/C21H21Cl2FN2O/c1-2-3-4-9-26-13-17(16-11-15(24)6-8-20(16)26)21(27)25-12-14-5-7-18(22)19(23)10-14/h5-8,10-11,13H,2-4,9,12H2,1H3,(H,25,27)",
+    "InChl_Key": "HKTWTSSSFSLIOV-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NCc2ccc(Cl)c(Cl)c2)c2cc(F)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11584",
+    "validation": "m_weight unsave, calculated(407.31600000000014)"
+}

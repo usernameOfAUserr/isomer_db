@@ -1,0 +1,13 @@
+{
+    "names": "25O-NM(2Thiazole5(2Thiazole))",
+    "iupac_name": "N-[([2,2\u2032-Bithiophen]-5-yl)methyl]-2-(2,4,5-trimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14277,
+    "formular": "C20H23NO3S2",
+    "molecular_weight": 389.532,
+    "inChl": "1S/C20H23NO3S2/c1-22-16-12-18(24-3)17(23-2)11-14(16)8-9-21-13-15-6-7-20(26-15)19-5-4-10-25-19/h4-7,10-12,21H,8-9,13H2,1-3H3",
+    "InChl_Key": "UKOXKPLRIAQBBX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(OC)cc1CCNCc1ccc(-c2cccs2)s1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14277",
+    "validation": "m_weight unsave, calculated(389.54200000000003)"
+}

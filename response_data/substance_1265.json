@@ -1,0 +1,13 @@
+{
+    "names": "25D-NBF ; N-(2-Fluorobenzyl)-4-methyl-2,5-dimethoxyphenethylamine ; 2C-D-NBF",
+    "iupac_name": "2-(2,5-Dimethoxy-4-methylphenyl)-N-[(2-fluorophenyl)methyl]ethan-1-amine ; 2-(2,5-Dimethoxy-4-methylphenyl)-N-(2-fluorobenzyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 1265,
+    "formular": "C18H22FNO2",
+    "molecular_weight": 303.371,
+    "inChl": "1S/C18H22FNO2/c1-13-10-18(22-3)14(11-17(13)21-2)8-9-20-12-15-6-4-5-7-16(15)19/h4-7,10-11,20H,8-9,12H2,1-3H3",
+    "InChl_Key": "XSSZIIHQIGDAFW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2ccccc2F)c(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1265",
+    "validation": "m_weight unsave, calculated(303.377)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "DH-\u03b1-Et-PEA ; \u03b1-Ethyl-3,4-dihydroxyphenethylamine",
+    "iupac_name": "4-(2-Aminobutyl)benzene-1,2-diol",
+    "category": "Shulgin_Index",
+    "index": 6551,
+    "formular": "C10H15NO2",
+    "molecular_weight": 181.232,
+    "inChl": "1S/C10H15NO2/c1-2-8(11)5-7-3-4-9(12)10(13)6-7/h3-4,6,8,12-13H,2,5,11H2,1H3",
+    "InChl_Key": "ZVTVIPHSXNUZQH-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)Cc1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6551",
+    "validation": "m_weight unsave, calculated(181.23499999999999)"
+}

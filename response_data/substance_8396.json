@@ -1,0 +1,13 @@
+{
+    "names": "5-Cyanogramine",
+    "iupac_name": "3-[(Dimethylamino)methyl]-1H-indole-5-carbonitrile",
+    "category": "data not stored",
+    "index": 8396,
+    "formular": "C12H13N3",
+    "molecular_weight": 199.252,
+    "inChl": "1S/C12H13N3/c1-15(2)8-10-7-14-12-4-3-9(6-13)5-11(10)12/h3-5,7,14H,8H2,1-2H3",
+    "InChl_Key": "JOPBIDDQPQFQHZ-UHFFFAOYSA-N",
+    "SMILES": "CN(C)Cc1c[nH]c2ccc(C#N)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8396",
+    "validation": "m_weight unsave, calculated(199.25699999999995)"
+}

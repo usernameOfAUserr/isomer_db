@@ -1,0 +1,13 @@
+{
+    "names": "3-(1-Naphthoyl)pyrrole",
+    "iupac_name": "(Naphthalen-1-yl)(1H-pyrrol-3-yl)methanone",
+    "category": "data not stored",
+    "index": 13956,
+    "formular": "C15H11NO",
+    "molecular_weight": 221.254,
+    "inChl": "1S/C15H11NO/c17-15(12-8-9-16-10-12)14-7-3-5-11-4-1-2-6-13(11)14/h1-10,16H",
+    "InChl_Key": "SRFPXOWDJKQVJQ-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1cc[nH]c1)c1cccc2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13956",
+    "validation": "m_weight unsave, calculated(221.25900000000001)"
+}

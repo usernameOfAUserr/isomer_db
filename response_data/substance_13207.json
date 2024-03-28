@@ -1,0 +1,13 @@
+{
+    "names": "Mirogabalin",
+    "iupac_name": "[6-(Aminomethyl)-3-ethylbicyclo[3.2.0]hept-3-en-6-yl]acetic acid",
+    "category": "data not stored",
+    "index": 13207,
+    "formular": "C12H19NO2",
+    "molecular_weight": 209.285,
+    "inChl": "1S/C12H19NO2/c1-2-8-3-9-5-12(7-13,6-11(14)15)10(9)4-8/h4,9-10H,2-3,5-7,13H2,1H3,(H,14,15)",
+    "InChl_Key": "FTBQORVNHOIASH-UHFFFAOYSA-N",
+    "SMILES": "CCC1=CC2C(C1)CC2(CN)CC(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13207",
+    "validation": "m_weight unsave, calculated(209.28899999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "A-NB4Cl ; N-(4-Chlorobenzyl)amphetamine",
+    "iupac_name": "N-[(4-Chlorophenyl)methyl]-1-phenylpropan-2-amine",
+    "category": "data not stored",
+    "index": 9817,
+    "formular": "C16H18ClN",
+    "molecular_weight": 259.774,
+    "inChl": "1S/C16H18ClN/c1-13(11-14-5-3-2-4-6-14)18-12-15-7-9-16(17)10-8-15/h2-10,13,18H,11-12H2,1H3",
+    "InChl_Key": "BYTMNXXBFZBLCP-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NCc1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9817",
+    "validation": "m_weight unsave, calculated(259.78)"
+}

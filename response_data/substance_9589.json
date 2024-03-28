@@ -1,0 +1,13 @@
+{
+    "names": "Mitraphylline",
+    "iupac_name": "Methyl 19\u03b1-methyl-2-oxoformosanan-16-carboxylate ; Methyl (1\u2032S,3R,4\u2032aS,5\u2032aS,10\u2032aR)-1\u2032-methyl-2-oxo-1,2,5\u2032,5\u2032a,7\u2032,8\u2032,10\u2032,10\u2032a-octahydro-1\u2032H,4\u2032aH-spiro[indole-3,6\u2032-pyrano[3,4-f]indolizine]-4\u2032-carboxylate ; Methyl (19\u03b1)-19-methyl-2-oxoformosanan-16-carboxylate",
+    "category": "data not stored",
+    "index": 9589,
+    "formular": "C21H24N2O4",
+    "molecular_weight": 368.426,
+    "inChl": "1S/C21H24N2O4/c1-12-14-10-23-8-7-21(16-5-3-4-6-17(16)22-20(21)25)18(23)9-13(14)15(11-27-12)19(24)26-2/h3-6,11-14,18H,7-10H2,1-2H3,(H,22,25)/t12-,13-,14+,18-,21+/m0/s1",
+    "InChl_Key": "JMIAZDVHNCCPDM-DAFCLMLCSA-N",
+    "SMILES": "COC(=O)C1=CO[C@@H](C)[C@H]2CN3CC[C@]4(C(=O)Nc5ccccc54)[C@@H]3C[C@H]12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9589",
+    "validation": "m_weight unsave, calculated(368.43300000000005)"
+}

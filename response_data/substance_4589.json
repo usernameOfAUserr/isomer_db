@@ -1,0 +1,13 @@
+{
+    "names": "CUMYL-FUBINACA ; SGT-149",
+    "iupac_name": "1-[(4-Fluorophenyl)methyl]-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4589,
+    "formular": "C24H22FN3O",
+    "molecular_weight": 387.449,
+    "inChl": "1S/C24H22FN3O/c1-24(2,18-8-4-3-5-9-18)26-23(29)22-20-10-6-7-11-21(20)28(27-22)16-17-12-14-19(25)15-13-17/h3-15H,16H2,1-2H3,(H,26,29)",
+    "InChl_Key": "ABBDMPBQHOHMJZ-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4589",
+    "validation": "m_weight unsave, calculated(387.4580000000001)"
+}

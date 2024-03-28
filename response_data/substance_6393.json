@@ -1,0 +1,13 @@
+{
+    "names": "4\u2033-AcO-4\u2033-Ph-TCP",
+    "iupac_name": "4-Phenyl-1-[1-(thiophen-2-yl)cyclohexyl]piperidin-4-yl acetate",
+    "category": "Arylcycloalkylamine",
+    "index": 6393,
+    "formular": "C23H29NO2S",
+    "molecular_weight": 383.547,
+    "inChl": "1S/C23H29NO2S/c1-19(25)26-23(20-9-4-2-5-10-20)14-16-24(17-15-23)22(12-6-3-7-13-22)21-11-8-18-27-21/h2,4-5,8-11,18H,3,6-7,12-17H2,1H3",
+    "InChl_Key": "CXMKBFNWRVFOLW-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)OC1(c2ccccc2)CCN(C2(c3cccs3)CCCCC2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6393",
+    "validation": "m_weight unsave, calculated(383.557)"
+}

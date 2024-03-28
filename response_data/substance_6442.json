@@ -1,0 +1,13 @@
+{
+    "names": "SCH-5472",
+    "iupac_name": "2-(Diphenylmethyl)-1-methylpiperidin-3-ol",
+    "category": "data not stored",
+    "index": 6442,
+    "formular": "C19H23NO",
+    "molecular_weight": 281.392,
+    "inChl": "1S/C19H23NO/c1-20-14-8-13-17(21)19(20)18(15-9-4-2-5-10-15)16-11-6-3-7-12-16/h2-7,9-12,17-19,21H,8,13-14H2,1H3",
+    "InChl_Key": "DQNBDZSLMWHFTB-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCC(O)C1C(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6442",
+    "validation": "m_weight unsave, calculated(281.399)"
+}

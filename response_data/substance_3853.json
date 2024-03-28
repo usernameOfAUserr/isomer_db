@@ -1,0 +1,13 @@
+{
+    "names": "TPA-023B",
+    "iupac_name": "2\u2032,6-Difluoro-5\u2032-[3-(2-hydroxypropan-2-yl)imidazo[1,2-b][1,2,4]triazin-7-yl][1,1\u2032-biphenyl]-2-carbonitrile",
+    "category": "data not stored",
+    "index": 3853,
+    "formular": "C21H15F2N5O",
+    "molecular_weight": 391.374,
+    "inChl": "1S/C21H15F2N5O/c1-21(2,29)18-11-26-28-17(10-25-20(28)27-18)12-6-7-15(22)14(8-12)19-13(9-24)4-3-5-16(19)23/h3-8,10-11,29H,1-2H3",
+    "InChl_Key": "PCZLQMGFNUNVOM-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(O)c1cnn2c(-c3ccc(F)c(-c4c(F)cccc4C#N)c3)cnc2n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3853",
+    "validation": "m_weight unsave, calculated(391.3810000000001)"
+}

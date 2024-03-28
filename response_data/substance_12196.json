@@ -1,0 +1,13 @@
+{
+    "names": "3-(2-Aminoethyl)-6-hydroxycyclohexa-2,4-dien-1-one",
+    "iupac_name": "12196 ; C8H11NO2 ; 153.178",
+    "category": "Phenetylamine",
+    "index": 12196,
+    "formular": "C8H11NO2",
+    "molecular_weight": 153.178,
+    "inChl": "1S/C8H11NO2/c9-4-3-6-1-2-7(10)8(11)5-6/h1-2,5,7,10H,3-4,9H2",
+    "InChl_Key": "QFKJOGWEMNTREW-UHFFFAOYSA-N",
+    "SMILES": "NCCC1=CC(=O)C(O)C=C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12196",
+    "validation": "m_weight unsave, calculated(153.18099999999998)"
+}

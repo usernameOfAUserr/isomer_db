@@ -1,0 +1,13 @@
+{
+    "names": "N-[7-(Dipropylamino)-5,6,7,8-tetrahydronaphthalen-2-yl]-2,2,2-trifluoroacetamide",
+    "iupac_name": "2797 ; C18H25F3N2O ; 342.399",
+    "category": "data not stored",
+    "index": 2797,
+    "formular": "C18H25F3N2O",
+    "molecular_weight": 342.399,
+    "inChl": "1S/C18H25F3N2O/c1-3-9-23(10-4-2)16-8-6-13-5-7-15(11-14(13)12-16)22-17(24)18(19,20)21/h5,7,11,16H,3-4,6,8-10,12H2,1-2H3,(H,22,24)",
+    "InChl_Key": "CIVUYXULXNJPFP-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C1CCc2ccc(NC(=O)C(F)(F)F)cc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2797",
+    "validation": "m_weight unsave, calculated(342.4050000000001)"
+}

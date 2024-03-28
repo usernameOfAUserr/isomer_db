@@ -1,0 +1,13 @@
+{
+    "names": "N-Bn-6-MeO-NAP",
+    "iupac_name": "N-Benzyl-1-(6-methoxynaphthalen-2-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 2472,
+    "formular": "C21H23NO",
+    "molecular_weight": 305.413,
+    "inChl": "1S/C21H23NO/c1-16(22-15-17-6-4-3-5-7-17)12-18-8-9-20-14-21(23-2)11-10-19(20)13-18/h3-11,13-14,16,22H,12,15H2,1-2H3",
+    "InChl_Key": "KYXRSMFSOLANEF-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2cc(CC(C)NCc3ccccc3)ccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2472",
+    "validation": "m_weight unsave, calculated(305.421)"
+}

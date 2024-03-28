@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-mor-T ; 4-Hydroxy-mor-tryptamine",
+    "iupac_name": "3-[2-(Morpholin-4-yl)ethyl]-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 5138,
+    "formular": "C14H18N2O2",
+    "molecular_weight": 246.305,
+    "inChl": "1S/C14H18N2O2/c17-13-3-1-2-12-14(13)11(10-15-12)4-5-16-6-8-18-9-7-16/h1-3,10,15,17H,4-9H2",
+    "InChl_Key": "DRXLHDOQZJEXLG-UHFFFAOYSA-N",
+    "SMILES": "Oc1cccc2[nH]cc(CCN3CCOCC3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5138",
+    "validation": "m_weight unsave, calculated(246.30999999999995)"
+}

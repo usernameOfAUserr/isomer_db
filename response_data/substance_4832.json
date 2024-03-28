@@ -1,0 +1,13 @@
+{
+    "names": "5F-PY-PICA ; PY-5F-PIMO",
+    "iupac_name": "[1-(5-Fluoropentyl)-1H-indol-3-yl](pyrrolidin-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4832,
+    "formular": "C18H23FN2O",
+    "molecular_weight": 302.386,
+    "inChl": "1S/C18H23FN2O/c19-10-4-1-5-13-21-14-16(15-8-2-3-9-17(15)21)18(22)20-11-6-7-12-20/h2-3,8-9,14H,1,4-7,10-13H2",
+    "InChl_Key": "AJOAHRJLOXOZKX-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1cn(CCCCCF)c2ccccc12)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4832",
+    "validation": "m_weight unsave, calculated(302.3930000000002)"
+}

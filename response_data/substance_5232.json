@@ -1,0 +1,13 @@
+{
+    "names": "DMT N-oxide ; N,N-Dimethyltryptamine N-oxide",
+    "iupac_name": "2-(1H-Indol-3-yl)-N,N-dimethylethan-1-amine N-oxide ; [2-(1H-Indol-3-yl)ethyl]dimethylamine oxide",
+    "category": "Tryptamine",
+    "index": 5232,
+    "formular": "C12H16N2O",
+    "molecular_weight": 204.268,
+    "inChl": "1S/C12H16N2O/c1-14(2,15)8-7-10-9-13-12-6-4-3-5-11(10)12/h3-6,9,13H,7-8H2,1-2H3",
+    "InChl_Key": "FSRSWKRQDYWUFG-UHFFFAOYSA-N",
+    "SMILES": "C[N+](C)([O-])CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5232",
+    "validation": "m_weight unsave, calculated(204.27300000000002)"
+}

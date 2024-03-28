@@ -1,0 +1,13 @@
+{
+    "names": "3-(3,4-Methylenedioxyphenyl)but-3-ene-2-one",
+    "iupac_name": "3-(2H-1,3-Benzodioxol-5-yl)but-3-en-2-one",
+    "category": "data not stored",
+    "index": 11981,
+    "formular": "C11H10O3",
+    "molecular_weight": 190.195,
+    "inChl": "1S/C11H10O3/c1-7(8(2)12)9-3-4-10-11(5-9)14-6-13-10/h3-5H,1,6H2,2H3",
+    "InChl_Key": "QFFMFPGEDLBDRQ-UHFFFAOYSA-N",
+    "SMILES": "C=C(C(C)=O)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11981",
+    "validation": "m_weight unsave, calculated(190.19799999999995)"
+}

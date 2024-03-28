@@ -1,0 +1,13 @@
+{
+    "names": "3,4-DESMETHYL NS ; 3,4-Dihydroxy-5-methoxy-\u03b2-nitrostyrene",
+    "iupac_name": "3-Methoxy-5-[(E)-2-nitroethenyl]benzene-1,2-diol",
+    "category": "data not stored",
+    "index": 14131,
+    "formular": "C9H9NO5",
+    "molecular_weight": 211.171,
+    "inChl": "1S/C9H9NO5/c1-15-8-5-6(2-3-10(13)14)4-7(11)9(8)12/h2-5,11-12H,1H3/b3-2+",
+    "InChl_Key": "LODCJYDEQPYFKX-NSCUHMNNSA-N",
+    "SMILES": "COc1cc(/C=C/[N+](=O)[O-])cc(O)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14131",
+    "validation": "m_weight unsave, calculated(211.173)"
+}

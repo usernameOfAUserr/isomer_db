@@ -1,0 +1,13 @@
+{
+    "names": "2-APEA-\u03b2k ; \u03b2-Keto-2-aminophenethylamine",
+    "iupac_name": "2-Amino-1-(2-aminophenyl)ethan-1-one ; 2-Amino-1-(2-aminophenyl)ethanone",
+    "category": "Shulgin_Index",
+    "index": 6068,
+    "formular": "C8H10N2O",
+    "molecular_weight": 150.178,
+    "inChl": "1S/C8H10N2O/c9-5-8(11)6-3-1-2-4-7(6)10/h1-4H,5,9-10H2",
+    "InChl_Key": "ACTLYQCWIWMUSY-UHFFFAOYSA-N",
+    "SMILES": "NCC(=O)c1ccccc1N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6068",
+    "validation": "m_weight unsave, calculated(150.18099999999995)"
+}

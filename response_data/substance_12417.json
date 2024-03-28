@@ -1,0 +1,13 @@
+{
+    "names": "1-[4-(Trifluoromethyl)phenoxy]propan-2-amine",
+    "iupac_name": "12417 ; C10H12F3NO ; 219.204",
+    "category": "data not stored",
+    "index": 12417,
+    "formular": "C10H12F3NO",
+    "molecular_weight": 219.204,
+    "inChl": "1S/C10H12F3NO/c1-7(14)6-15-9-4-2-8(3-5-9)10(11,12)13/h2-5,7H,6,14H2,1H3",
+    "InChl_Key": "LEDXTXLXZZVLGQ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)COc1ccc(C(F)(F)F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12417",
+    "validation": "m_weight unsave, calculated(219.20599999999993)"
+}

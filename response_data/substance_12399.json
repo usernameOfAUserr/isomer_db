@@ -1,0 +1,13 @@
+{
+    "names": "4-Cyclohexylthioamphetamine",
+    "iupac_name": "1-[4-(Cyclohexylsulfanyl)phenyl]propan-2-amine",
+    "category": "data not stored",
+    "index": 12399,
+    "formular": "C15H23NS",
+    "molecular_weight": 249.415,
+    "inChl": "1S/C15H23NS/c1-12(16)11-13-7-9-15(10-8-13)17-14-5-3-2-4-6-14/h7-10,12,14H,2-6,11,16H2,1H3",
+    "InChl_Key": "OJKRIBJBTMAQMV-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(SC2CCCCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12399",
+    "validation": "m_weight unsave, calculated(249.4229999999999)"
+}

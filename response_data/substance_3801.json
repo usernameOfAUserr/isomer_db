@@ -1,0 +1,13 @@
+{
+    "names": "2-(4-{4-[3-(Trifluoromethyl)phenyl]piperazin-1-yl}butyl)tetrahydro-1H-pyrrolo[1,2-c]imidazole-1,3(2H)-dione",
+    "iupac_name": "3801 ; C21H27F3N4O2 ; 424.46",
+    "category": "data not stored",
+    "index": 3801,
+    "formular": "C21H27F3N4O2",
+    "molecular_weight": 424.46,
+    "inChl": "1S/C21H27F3N4O2/c22-21(23,24)16-5-3-6-17(15-16)26-13-11-25(12-14-26)8-1-2-9-28-19(29)18-7-4-10-27(18)20(28)30/h3,5-6,15,18H,1-2,4,7-14H2",
+    "InChl_Key": "VOKYQDLXICROPY-UHFFFAOYSA-N",
+    "SMILES": "O=C1C2CCCN2C(=O)N1CCCCN1CCN(c2cccc(C(F)(F)F)c2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3801",
+    "validation": "m_weight unsave, calculated(424.46700000000004)"
+}

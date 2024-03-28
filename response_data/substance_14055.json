@@ -1,0 +1,13 @@
+{
+    "names": "2-(4-Bromo-2,5-dimethoxyphenyl)-N-[(2-methoxydibenzo[b,d]furan-3-yl)methyl]ethan-1-amine",
+    "iupac_name": "14055 ; C24H24BrNO4 ; 470.356",
+    "category": "data not stored",
+    "index": 14055,
+    "formular": "C24H24BrNO4",
+    "molecular_weight": 470.356,
+    "inChl": "1S/C24H24BrNO4/c1-27-21-12-18-17-6-4-5-7-20(17)30-23(18)11-16(21)14-26-9-8-15-10-24(29-3)19(25)13-22(15)28-2/h4-7,10-13,26H,8-9,14H2,1-3H3",
+    "InChl_Key": "GAWGPWXXNUHVLR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2cc3oc4ccccc4c3cc2OC)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14055",
+    "validation": "m_weight unsave, calculated(470.3630000000001)"
+}

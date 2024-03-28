@@ -1,0 +1,13 @@
+{
+    "names": "Tropinone",
+    "iupac_name": "8-Methyl-8-azabicyclo[3.2.1]octan-3-one",
+    "category": "data not stored",
+    "index": 3857,
+    "formular": "C8H13NO",
+    "molecular_weight": 139.195,
+    "inChl": "1S/C8H13NO/c1-9-6-2-3-7(9)5-8(10)4-6/h6-7H,2-5H2,1H3",
+    "InChl_Key": "QQXLDOJGLXJCSE-UHFFFAOYSA-N",
+    "SMILES": "CN1C2CCC1CC(=O)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3857",
+    "validation": "m_weight unsave, calculated(139.19799999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "SGT-235",
+    "iupac_name": "1-[2-(4,4-Difluoropiperidin-1-yl)ethyl]-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4593,
+    "formular": "C24H28F2N4O",
+    "molecular_weight": 426.502,
+    "inChl": "1S/C24H28F2N4O/c1-23(2,18-8-4-3-5-9-18)27-22(31)21-19-10-6-7-11-20(19)30(28-21)17-16-29-14-12-24(25,26)13-15-29/h3-11H,12-17H2,1-2H3,(H,27,31)",
+    "InChl_Key": "UGIXAWXZCCAHAG-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1nn(CCN2CCC(F)(F)CC2)c2ccccc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4593",
+    "validation": "m_weight unsave, calculated(426.511)"
+}

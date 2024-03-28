@@ -1,0 +1,13 @@
+{
+    "names": "4-Fluoro-N-acetyserotonin ; 4-Fluoro-5-hydroxy-N-acetyltryptamine",
+    "iupac_name": "N-[2-(4-Fluoro-5-hydroxy-1H-indol-3-yl)ethyl]acetamide",
+    "category": "Tryptamine",
+    "index": 14473,
+    "formular": "C12H13FN2O2",
+    "molecular_weight": 236.242,
+    "inChl": "1S/C12H13FN2O2/c1-7(16)14-5-4-8-6-15-9-2-3-10(17)12(13)11(8)9/h2-3,6,15,17H,4-5H2,1H3,(H,14,16)",
+    "InChl_Key": "HQDOZEXZIHYIJS-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NCCc1c[nH]c2ccc(O)c(F)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14473",
+    "validation": "m_weight unsave, calculated(236.24599999999998)"
+}

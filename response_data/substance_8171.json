@@ -1,0 +1,13 @@
+{
+    "names": "(4-Methylpiperidin-1-yl)[2-(oxan-4-yl)-5-propyl-2,3,4,5-tetrahydro-1H-pyrido[4,3-b]indol-8-yl]methanone",
+    "iupac_name": "8171 ; C26H37N3O2 ; 423.591",
+    "category": "cannabinodids",
+    "index": 8171,
+    "formular": "C26H37N3O2",
+    "molecular_weight": 423.591,
+    "inChl": "1S/C26H37N3O2/c1-3-11-29-24-5-4-20(26(30)27-12-6-19(2)7-13-27)17-22(24)23-18-28(14-8-25(23)29)21-9-15-31-16-10-21/h4-5,17,19,21H,3,6-16,18H2,1-2H3",
+    "InChl_Key": "LEYYJOBTMJQHCX-UHFFFAOYSA-N",
+    "SMILES": "CCCn1c2c(c3cc(C(=O)N4CCC(C)CC4)ccc31)CN(C1CCOCC1)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8171",
+    "validation": "m_weight unsave, calculated(423.6010000000004)"
+}

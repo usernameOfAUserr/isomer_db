@@ -1,0 +1,13 @@
+{
+    "names": "o-Methyl-benzoylfentanyl ; 2\u2032-Methyl-benzoylfentanyl",
+    "iupac_name": "N-(2-Methylphenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]benzamide",
+    "category": "Fentanyl",
+    "index": 1654,
+    "formular": "C27H30N2O",
+    "molecular_weight": 398.54,
+    "inChl": "1S/C27H30N2O/c1-22-10-8-9-15-26(22)29(27(30)24-13-6-3-7-14-24)25-17-20-28(21-18-25)19-16-23-11-4-2-5-12-23/h2-15,25H,16-21H2,1H3",
+    "InChl_Key": "RQTVMBDUXYALMZ-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccccc1N(C(=O)c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1654",
+    "validation": "m_weight unsave, calculated(398.54999999999995)"
+}

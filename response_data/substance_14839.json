@@ -1,0 +1,13 @@
+{
+    "names": "35H-NBBr ; N-(2-Bromobenzyl)-3,5-dimethoxyphenethylamine",
+    "iupac_name": "N-[(2-Bromophenyl)methyl]-2-(3,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14839,
+    "formular": "C17H20BrNO2",
+    "molecular_weight": 350.25,
+    "inChl": "1S/C17H20BrNO2/c1-20-15-9-13(10-16(11-15)21-2)7-8-19-12-14-5-3-4-6-17(14)18/h3-6,9-11,19H,7-8,12H2,1-2H3",
+    "InChl_Key": "SSLVGPGRPRGQML-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2ccccc2Br)cc(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14839",
+    "validation": "m_weight unsave, calculated(350.2560000000001)"
+}

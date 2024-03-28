@@ -1,0 +1,13 @@
+{
+    "names": "4B-MAR ; 4\u2032-Bromo-4-methylaminorex",
+    "iupac_name": "5-(4-Bromophenyl)-4-methyl-4,5-dihydro-1,3-oxazol-2-amine",
+    "category": "data not stored",
+    "index": 11439,
+    "formular": "C10H11BrN2O",
+    "molecular_weight": 255.111,
+    "inChl": "1S/C10H11BrN2O/c1-6-9(14-10(12)13-6)7-2-4-8(11)5-3-7/h2-6,9H,1H3,(H2,12,13)",
+    "InChl_Key": "TUHDNALAVIDYHT-UHFFFAOYSA-N",
+    "SMILES": "CC1N=C(N)OC1c1ccc(Br)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11439",
+    "validation": "m_weight unsave, calculated(255.11499999999998)"
+}

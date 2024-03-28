@@ -1,0 +1,13 @@
+{
+    "names": "AMDH",
+    "iupac_name": "1-(10,11-Dihydro-5H-dibenzo[a,d][7]annulen-5-yl)methanamine",
+    "category": "Phenetylamine",
+    "index": 12057,
+    "formular": "C16H17N",
+    "molecular_weight": 223.313,
+    "inChl": "1S/C16H17N/c17-11-16-14-7-3-1-5-12(14)9-10-13-6-2-4-8-15(13)16/h1-8,16H,9-11,17H2",
+    "InChl_Key": "YJCNPACNIAQKNY-UHFFFAOYSA-N",
+    "SMILES": "NCC1c2ccccc2CCc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12057",
+    "validation": "m_weight unsave, calculated(223.31899999999996)"
+}

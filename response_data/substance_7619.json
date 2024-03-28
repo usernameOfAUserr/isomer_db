@@ -1,0 +1,13 @@
+{
+    "names": "AH-8532 ; A15",
+    "iupac_name": "3-Chloro-N-{[1-(dimethylamino)cyclohexyl]methyl}benzamide",
+    "category": "data not stored",
+    "index": 7619,
+    "formular": "C16H23ClN2O",
+    "molecular_weight": 294.82,
+    "inChl": "1S/C16H23ClN2O/c1-19(2)16(9-4-3-5-10-16)12-18-15(20)13-7-6-8-14(17)11-13/h6-8,11H,3-5,9-10,12H2,1-2H3,(H,18,20)",
+    "InChl_Key": "JFSYYIJPVLTYHL-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1(CNC(=O)c2cccc(Cl)c2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7619",
+    "validation": "m_weight unsave, calculated(294.82599999999996)"
+}

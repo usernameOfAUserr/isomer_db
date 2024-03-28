@@ -1,0 +1,13 @@
+{
+    "names": "Isoxsuprine ; N-(Phenoxypropan-2-yl)-\u03b2,4-dihydroxyamphetamine ; N-PhOiPr-\u03b2,4-DHA",
+    "iupac_name": "4-{1-Hydroxy-2-[(1-phenoxypropan-2-yl)amino]propyl}phenol",
+    "category": "Phenetylamine",
+    "index": 10616,
+    "formular": "C18H23NO3",
+    "molecular_weight": 301.38,
+    "inChl": "1S/C18H23NO3/c1-13(12-22-17-6-4-3-5-7-17)19-14(2)18(21)15-8-10-16(20)11-9-15/h3-11,13-14,18-21H,12H2,1-2H3",
+    "InChl_Key": "BMUKKTUHUDJSNZ-UHFFFAOYSA-N",
+    "SMILES": "CC(COc1ccccc1)NC(C)C(O)c1ccc(O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10616",
+    "validation": "m_weight unsave, calculated(301.38599999999997)"
+}

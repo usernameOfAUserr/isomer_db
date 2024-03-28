@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl-p-methyl phenylfentanyl ; N-Me-4-Me Phenyl fentanyl",
+    "iupac_name": "N-(4-Methylphenyl)-N-(1-methylpiperidin-4-yl)benzamide",
+    "category": "Fentanyl",
+    "index": 12523,
+    "formular": "C20H24N2O",
+    "molecular_weight": 308.417,
+    "inChl": "1S/C20H24N2O/c1-16-8-10-18(11-9-16)22(19-12-14-21(2)15-13-19)20(23)17-6-4-3-5-7-17/h3-11,19H,12-15H2,1-2H3",
+    "InChl_Key": "LBCNYSDAKXSWOU-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(N(C(=O)c2ccccc2)C2CCN(C)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12523",
+    "validation": "m_weight unsave, calculated(308.42500000000007)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "6-Benzyl-2,4-dimethyl-3-phenylpyridine",
+    "iupac_name": "12650 ; C20H19N ; 273.372",
+    "category": "data not stored",
+    "index": 12650,
+    "formular": "C20H19N",
+    "molecular_weight": 273.372,
+    "inChl": "1S/C20H19N/c1-15-13-19(14-17-9-5-3-6-10-17)21-16(2)20(15)18-11-7-4-8-12-18/h3-13H,14H2,1-2H3",
+    "InChl_Key": "XUANHCMLDHHHBV-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(Cc2ccccc2)nc(C)c1-c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12650",
+    "validation": "m_weight unsave, calculated(273.379)"
+}

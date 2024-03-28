@@ -1,0 +1,13 @@
+{
+    "names": "Iometopane ; RTI-55 ; RTI-4229-55",
+    "iupac_name": "Methyl (2S,3S)-3-(4-iodophenyl)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "category": "data not stored",
+    "index": 3347,
+    "formular": "C16H20INO2",
+    "molecular_weight": 385.24,
+    "inChl": "1S/C16H20INO2/c1-18-12-7-8-14(18)15(16(19)20-2)13(9-12)10-3-5-11(17)6-4-10/h3-6,12-15H,7-9H2,1-2H3/t12?,13-,14?,15+/m1/s1",
+    "InChl_Key": "SIIICDNNMDMWCI-JYVUQVBGSA-N",
+    "SMILES": "COC(=O)[C@@H]1C2CCC(C[C@@H]1c1ccc(I)cc1)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3347",
+    "validation": ""
+}

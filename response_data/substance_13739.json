@@ -1,0 +1,13 @@
+{
+    "names": "1-Butyl-5\u2032-chloro-5-methyl-1,2,5,6-tetrahydro-3,3\u2032-bipyridine",
+    "iupac_name": "13739 ; C15H21ClN2 ; 264.794",
+    "category": "data not stored",
+    "index": 13739,
+    "formular": "C15H21ClN2",
+    "molecular_weight": 264.794,
+    "inChl": "1S/C15H21ClN2/c1-3-4-5-18-10-12(2)6-14(11-18)13-7-15(16)9-17-8-13/h6-9,12H,3-5,10-11H2,1-2H3",
+    "InChl_Key": "IBTZGMNSBWVWIR-UHFFFAOYSA-N",
+    "SMILES": "CCCCN1CC(c2cncc(Cl)c2)=CC(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13739",
+    "validation": "m_weight unsave, calculated(264.79999999999995)"
+}

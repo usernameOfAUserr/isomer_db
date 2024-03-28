@@ -1,0 +1,13 @@
+{
+    "names": "R-1153",
+    "iupac_name": "Ethyl 1-[2-(2,5-dimethylphenyl)-2-oxoethyl]-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 9165,
+    "formular": "C24H29NO3",
+    "molecular_weight": 379.492,
+    "inChl": "1S/C24H29NO3/c1-4-28-23(27)24(20-8-6-5-7-9-20)12-14-25(15-13-24)17-22(26)21-16-18(2)10-11-19(21)3/h5-11,16H,4,12-15,17H2,1-3H3",
+    "InChl_Key": "OPJAKBAZMKTFGO-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CC(=O)c2cc(C)ccc2C)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9165",
+    "validation": "m_weight unsave, calculated(379.50000000000006)"
+}

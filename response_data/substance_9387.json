@@ -1,0 +1,13 @@
+{
+    "names": "TMPEA-4 NS ; 2,3,5-Trimethoxy-\u03b2-nitrostyrene",
+    "iupac_name": "1,2,5-Trimethoxy-3-[(E)-2-nitroethenyl]benzene",
+    "category": "data not stored",
+    "index": 9387,
+    "formular": "C11H13NO5",
+    "molecular_weight": 239.225,
+    "inChl": "1S/C11H13NO5/c1-15-9-6-8(4-5-12(13)14)11(17-3)10(7-9)16-2/h4-7H,1-3H3/b5-4+",
+    "InChl_Key": "RQBOCEHJGNEMRS-SNAWJCMRSA-N",
+    "SMILES": "COc1cc(/C=C/[N+](=O)[O-])c(OC)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9387",
+    "validation": "m_weight unsave, calculated(239.22699999999998)"
+}

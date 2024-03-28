@@ -1,0 +1,13 @@
+{
+    "names": "N-Me-GEA ; 3-Methoxy-N-methyltyramine ; 4-Hydroxy-3-methoxy-N-methylphenethylamine",
+    "iupac_name": "2-Methoxy-4-[2-(methylamino)ethyl]phenol",
+    "category": "Peyote alkaloid",
+    "index": 2208,
+    "formular": "C10H15NO2",
+    "molecular_weight": 181.232,
+    "inChl": "1S/C10H15NO2/c1-11-6-5-8-3-4-9(12)10(7-8)13-2/h3-4,7,11-12H,5-6H2,1-2H3",
+    "InChl_Key": "VGPSEFMDUHBQNN-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1ccc(O)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2208",
+    "validation": "m_weight unsave, calculated(181.23499999999999)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1,4-Dimethoxy-2-(2-methylprop-1-en-1-yl)benzene",
+    "iupac_name": "6759 ; C12H16O2 ; 192.254",
+    "category": "data not stored",
+    "index": 6759,
+    "formular": "C12H16O2",
+    "molecular_weight": 192.254,
+    "inChl": "1S/C12H16O2/c1-9(2)7-10-8-11(13-3)5-6-12(10)14-4/h5-8H,1-4H3",
+    "InChl_Key": "RBCAKMBIDPHFIU-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c(C=C(C)C)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6759",
+    "validation": "m_weight unsave, calculated(192.25799999999995)"
+}

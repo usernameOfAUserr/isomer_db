@@ -1,0 +1,13 @@
+{
+    "names": "6-Hydroxydopa ; \u03b1-Carboxy-2,3,5-trihydroxyphenethylamine ; TOPA",
+    "iupac_name": "2,5-Dihydroxytyrosine ; 2-Amino-3-(2,4,5-trihydroxyphenyl)propanoic acid",
+    "category": "data not stored",
+    "index": 10630,
+    "formular": "C9H11NO5",
+    "molecular_weight": 213.187,
+    "inChl": "1S/C9H11NO5/c10-5(9(14)15)1-4-2-7(12)8(13)3-6(4)11/h2-3,5,11-13H,1,10H2,(H,14,15)",
+    "InChl_Key": "YLKRUSPZOTYMAT-UHFFFAOYSA-N",
+    "SMILES": "NC(Cc1cc(O)c(O)cc1O)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10630",
+    "validation": "m_weight unsave, calculated(213.189)"
+}

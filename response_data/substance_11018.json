@@ -1,0 +1,13 @@
+{
+    "names": "Eticyclidine ; PCE ; CI-400 ; Cyclohexamine",
+    "iupac_name": "N-Ethyl-1-phenylcyclohexan-1-amine",
+    "category": "Arylcycloalkylamine",
+    "index": 11018,
+    "formular": "C14H21N",
+    "molecular_weight": 203.323,
+    "inChl": "1S/C14H21N/c1-2-15-14(11-7-4-8-12-14)13-9-5-3-6-10-13/h3,5-6,9-10,15H,2,4,7-8,11-12H2,1H3",
+    "InChl_Key": "IFYLVUHLOOCYBG-UHFFFAOYSA-N",
+    "SMILES": "CCNC1(c2ccccc2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11018",
+    "validation": "m_weight unsave, calculated(203.32900000000004)"
+}

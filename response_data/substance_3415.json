@@ -1,0 +1,13 @@
+{
+    "names": "GYKI-52895",
+    "iupac_name": "4-(8-Methyl-8,9-dihydro-2H,7H-[1,3]dioxolo[4,5-h][2,3]benzodiazepin-5-yl)aniline",
+    "category": "Aryldiazepine",
+    "index": 3415,
+    "formular": "C17H17N3O2",
+    "molecular_weight": 295.336,
+    "inChl": "1S/C17H17N3O2/c1-10-6-12-7-15-16(22-9-21-15)8-14(12)17(20-19-10)11-2-4-13(18)5-3-11/h2-5,7-8,10,19H,6,9,18H2,1H3",
+    "InChl_Key": "AQTITSBNGSVQNZ-UHFFFAOYSA-N",
+    "SMILES": "CC1Cc2cc3c(cc2C(c2ccc(N)cc2)=NN1)OCO3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3415",
+    "validation": "m_weight unsave, calculated(295.342)"
+}

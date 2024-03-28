@@ -1,0 +1,13 @@
+{
+    "names": "25O-NM(2Oxazole5Ph)",
+    "iupac_name": "N-[(5-Phenylfuran-2-yl)methyl]-2-(2,4,5-trimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14275,
+    "formular": "C22H25NO4",
+    "molecular_weight": 367.438,
+    "inChl": "1S/C22H25NO4/c1-24-20-14-22(26-3)21(25-2)13-17(20)11-12-23-15-18-9-10-19(27-18)16-7-5-4-6-8-16/h4-10,13-14,23H,11-12,15H2,1-3H3",
+    "InChl_Key": "DYNXCQQAIAWVBY-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(OC)cc1CCNCc1ccc(-c2ccccc2)o1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14275",
+    "validation": "m_weight unsave, calculated(367.44500000000005)"
+}

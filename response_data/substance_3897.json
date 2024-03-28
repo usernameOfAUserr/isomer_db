@@ -1,0 +1,13 @@
+{
+    "names": "MFUBINAC",
+    "iupac_name": "Methyl 1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxylate",
+    "category": "cannabinodids",
+    "index": 3897,
+    "formular": "C16H13FN2O2",
+    "molecular_weight": 284.285,
+    "inChl": "1S/C16H13FN2O2/c1-21-16(20)15-13-4-2-3-5-14(13)19(18-15)10-11-6-8-12(17)9-7-11/h2-9H,10H2,1H3",
+    "InChl_Key": "UUCUVSWGJOQWCA-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)c1nn(Cc2ccc(F)cc2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3897",
+    "validation": "m_weight unsave, calculated(284.29)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]-N,2,2-trimethylpropan-1-amine",
+    "iupac_name": "14569 ; C17H26N2O ; 274.401",
+    "category": "Tryptamine",
+    "index": 14569,
+    "formular": "C17H26N2O",
+    "molecular_weight": 274.401,
+    "inChl": "1S/C17H26N2O/c1-17(2,3)12-19(4)9-8-13-11-18-16-7-6-14(20-5)10-15(13)16/h6-7,10-11,18H,8-9,12H2,1-5H3",
+    "InChl_Key": "DJHYTWSJJTYSKP-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN(C)CC(C)(C)C)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14569",
+    "validation": "m_weight unsave, calculated(274.4079999999999)"
+}

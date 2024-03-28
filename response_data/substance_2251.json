@@ -1,0 +1,13 @@
+{
+    "names": "Mescalotam",
+    "iupac_name": "8,9,10-Trimethoxy-1,5,6,10b-tetrahydropyrrolo[2,1-a]isoquinolin-3(2H)-one",
+    "category": "Peyote alkaloid",
+    "index": 2251,
+    "formular": "C15H19NO4",
+    "molecular_weight": 277.316,
+    "inChl": "1S/C15H19NO4/c1-18-11-8-9-6-7-16-10(4-5-12(16)17)13(9)15(20-3)14(11)19-2/h8,10H,4-7H2,1-3H3",
+    "InChl_Key": "FCJREDIYPPIMFC-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(c(OC)c1OC)C1CCC(=O)N1CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2251",
+    "validation": "m_weight unsave, calculated(277.32)"
+}

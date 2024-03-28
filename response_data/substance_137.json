@@ -1,0 +1,13 @@
+{
+    "names": "MP ; Metaproscaline ; 3,4-Dimethoxy-5-propoxyphenethylamine ; 3,4-Dimethoxy-5-n-propoxyphenethylamine",
+    "iupac_name": "2-(3,4-Dimethoxy-5-propoxyphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 137,
+    "formular": "C13H21NO3",
+    "molecular_weight": 239.311,
+    "inChl": "1S/C13H21NO3/c1-4-7-17-12-9-10(5-6-14)8-11(15-2)13(12)16-3/h8-9H,4-7,14H2,1-3H3",
+    "InChl_Key": "LRMHEQAATQTVRI-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1cc(CCN)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=137",
+    "validation": "m_weight unsave, calculated(239.31499999999994)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4F-AB-PINACA",
+    "iupac_name": "N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1-(4-fluoropentyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 13963,
+    "formular": "C18H25FN4O2",
+    "molecular_weight": 348.415,
+    "inChl": "1S/C18H25FN4O2/c1-11(2)15(17(20)24)21-18(25)16-13-8-4-5-9-14(13)23(22-16)10-6-7-12(3)19/h4-5,8-9,11-12,15H,6-7,10H2,1-3H3,(H2,20,24)(H,21,25)/t12?,15-/m0/s1",
+    "InChl_Key": "KSBISSAWUAIQIT-CVRLYYSRSA-N",
+    "SMILES": "CC(F)CCCn1nc(C(=O)N[C@H](C(N)=O)C(C)C)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13963",
+    "validation": "m_weight unsave, calculated(348.42200000000014)"
+}

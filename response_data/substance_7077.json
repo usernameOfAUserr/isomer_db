@@ -1,0 +1,13 @@
+{
+    "names": "5-F-2,4-DMA ; 5-Fluoro-2,4-dimethoxyamphetamine ; META-DOF",
+    "iupac_name": "1-(5-Fluoro-2,4-dimethoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7077,
+    "formular": "C11H16FNO2",
+    "molecular_weight": 213.249,
+    "inChl": "1S/C11H16FNO2/c1-7(13)4-8-5-9(12)11(15-3)6-10(8)14-2/h5-7H,4,13H2,1-3H3",
+    "InChl_Key": "FZQXMGGHBQNXFE-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(CC(C)N)cc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7077",
+    "validation": "m_weight unsave, calculated(213.25199999999995)"
+}

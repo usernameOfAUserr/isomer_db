@@ -1,0 +1,13 @@
+{
+    "names": "WO 2014/167530 #MJ8 ",
+    "iupac_name": "1-(Cycloheptylmethyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4579,
+    "formular": "C25H31N3O",
+    "molecular_weight": 389.533,
+    "inChl": "1S/C25H31N3O/c1-25(2,20-14-8-5-9-15-20)26-24(29)23-21-16-10-11-17-22(21)28(27-23)18-19-12-6-3-4-7-13-19/h5,8-11,14-17,19H,3-4,6-7,12-13,18H2,1-2H3,(H,26,29)",
+    "InChl_Key": "ZFKGEQXUSSCHIV-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1nn(CC2CCCCCC2)c2ccccc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4579",
+    "validation": "m_weight unsave, calculated(389.543)"
+}

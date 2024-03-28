@@ -1,0 +1,13 @@
+{
+    "names": "EMDT-A",
+    "iupac_name": "2-Ethyl-5-methoxy-3-[(1-methylpyrrolidin-2-yl)methyl]-1H-indole",
+    "category": "data not stored",
+    "index": 5571,
+    "formular": "C17H24N2O",
+    "molecular_weight": 272.385,
+    "inChl": "1S/C17H24N2O/c1-4-16-14(10-12-6-5-9-19(12)2)15-11-13(20-3)7-8-17(15)18-16/h7-8,11-12,18H,4-6,9-10H2,1-3H3",
+    "InChl_Key": "QTHPJXRRABGKDJ-UHFFFAOYSA-N",
+    "SMILES": "CCc1[nH]c2ccc(OC)cc2c1CC1CCCN1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5571",
+    "validation": "m_weight unsave, calculated(272.392)"
+}

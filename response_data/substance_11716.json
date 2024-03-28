@@ -1,0 +1,13 @@
+{
+    "names": "Ro-22-8515",
+    "iupac_name": "8-Chloro-6-(2-chlorophenyl)-1,4-dihydropyrrolo[3,4-d][2]benzazepin-3(2H)-one",
+    "category": "Aryldiazepine",
+    "index": 11716,
+    "formular": "C18H12Cl2N2O",
+    "molecular_weight": 343.207,
+    "inChl": "1S/C18H12Cl2N2O/c19-10-5-6-11-13(7-10)17(12-3-1-2-4-16(12)20)21-9-15-14(11)8-22-18(15)23/h1-7H,8-9H2,(H,22,23)",
+    "InChl_Key": "HGIIXNGRZKUQIS-UHFFFAOYSA-N",
+    "SMILES": "O=C1NCC2=C1CN=C(c1ccccc1Cl)c1cc(Cl)ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11716",
+    "validation": "m_weight unsave, calculated(343.21299999999997)"
+}

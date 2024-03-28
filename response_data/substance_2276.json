@@ -1,0 +1,13 @@
+{
+    "names": "DMHM-2",
+    "iupac_name": "6,7-Dimethoxy-2-methyl-3,4-dihydroisoquinolin-2-ium ; 6,7-Dimethoxy-2-methyl-3,4-dihydroisoquinolinium",
+    "category": "data not stored",
+    "index": 2276,
+    "formular": "C12H16NO2",
+    "molecular_weight": 206.261,
+    "inChl": "1S/C12H16NO2/c1-13-5-4-9-6-11(14-2)12(15-3)7-10(9)8-13/h6-8H,4-5H2,1-3H3/q+1",
+    "InChl_Key": "AWOUIWVQSFMVNU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(cc1OC)CC[N+](C)=C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2276",
+    "validation": "m_weight unsave, calculated(206.265)formular unsave, calculated(C12H16NO2+)"
+}

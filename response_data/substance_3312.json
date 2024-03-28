@@ -1,0 +1,13 @@
+{
+    "names": "4,7-MeO-T ; 4,7-Dimethoxytryptamine",
+    "iupac_name": "2-(4,7-Dimethoxy-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 3312,
+    "formular": "C12H16N2O2",
+    "molecular_weight": 220.268,
+    "inChl": "1S/C12H16N2O2/c1-15-9-3-4-10(16-2)12-11(9)8(5-6-13)7-14-12/h3-4,7,14H,5-6,13H2,1-2H3",
+    "InChl_Key": "PZKYHKZYACYPAZ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c2c(CCN)c[nH]c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3312",
+    "validation": "m_weight unsave, calculated(220.27199999999996)"
+}

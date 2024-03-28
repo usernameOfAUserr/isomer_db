@@ -1,0 +1,13 @@
+{
+    "names": "Ibogamin-19-ol [sic]",
+    "iupac_name": "(20R)-Ibogamin-20-ol ; (1R)-1-[(6R,6aR,7S,9S)-6,6a,7,8,9,10,12,13-Octahydro-5H-6,9-methanopyrido[1\u2032,2\u2032:1,2]azepino[4,5-b]indol-7-yl]ethan-1-ol",
+    "category": "data not stored",
+    "index": 7918,
+    "formular": "C19H24N2O",
+    "molecular_weight": 296.407,
+    "inChl": "1S/C19H24N2O/c1-11(22)15-8-12-9-16-18-14(6-7-21(10-12)19(15)16)13-4-2-3-5-17(13)20-18/h2-5,11-12,15-16,19-20,22H,6-10H2,1H3/t11-,12-,15-,16+,19+/m1/s1",
+    "InChl_Key": "TVPHSOXWTLOHCG-KDDSVKQOSA-N",
+    "SMILES": "C[C@@H](O)[C@H]1C[C@@H]2C[C@H]3c4[nH]c5ccccc5c4CCN(C2)[C@@H]13",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7918",
+    "validation": "m_weight unsave, calculated(296.414)"
+}

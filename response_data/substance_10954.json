@@ -1,0 +1,13 @@
+{
+    "names": "1-Amino-2-(thiophen-2-yl)pentan-2-ol",
+    "iupac_name": "10954 ; C9H15NOS ; 185.287",
+    "category": "Phenetylamine",
+    "index": 10954,
+    "formular": "C9H15NOS",
+    "molecular_weight": 185.287,
+    "inChl": "1S/C9H15NOS/c1-2-5-9(11,7-10)8-4-3-6-12-8/h3-4,6,11H,2,5,7,10H2,1H3",
+    "InChl_Key": "NOGPJVGWZFAHPF-UHFFFAOYSA-N",
+    "SMILES": "CCCC(O)(CN)c1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10954",
+    "validation": "m_weight unsave, calculated(185.29199999999994)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "F NS",
+    "iupac_name": "5-Methoxy-6-[(1E)-2-nitroprop-1-en-1-yl]-2,3-dihydro-1-benzofuran",
+    "category": "data not stored",
+    "index": 12860,
+    "formular": "C12H13NO4",
+    "molecular_weight": 235.236,
+    "inChl": "1S/C12H13NO4/c1-8(13(14)15)5-10-7-12-9(3-4-17-12)6-11(10)16-2/h5-7H,3-4H2,1-2H3/b8-5+",
+    "InChl_Key": "AGXTVDGQCBSPJZ-VMPITWQZSA-N",
+    "SMILES": "COc1cc2c(cc1/C=C(\\C)[N+](=O)[O-])OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12860",
+    "validation": "m_weight unsave, calculated(235.239)"
+}

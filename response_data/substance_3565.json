@@ -1,0 +1,13 @@
+{
+    "names": "2C-T-31 NS ; 2,5-Dimethoxy-4-(4-trifluoromethylbenzylthio)-\u03b2-nitrostyrene",
+    "iupac_name": "1,4-Dimethoxy-2-[(E)-2-nitroethenyl]-5-({[4-(trifluoromethyl)phenyl]methyl}sulfanyl)benzene",
+    "category": "data not stored",
+    "index": 3565,
+    "formular": "C18H16F3NO4S",
+    "molecular_weight": 399.384,
+    "inChl": "1S/C18H16F3NO4S/c1-25-15-10-17(16(26-2)9-13(15)7-8-22(23)24)27-11-12-3-5-14(6-4-12)18(19,20)21/h3-10H,11H2,1-2H3/b8-7+",
+    "InChl_Key": "NXFIRALJMJBXBA-BQYQJAHWSA-N",
+    "SMILES": "COc1cc(SCc2ccc(C(F)(F)F)cc2)c(OC)cc1/C=C/[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3565",
+    "validation": "m_weight unsave, calculated(399.39000000000004)"
+}

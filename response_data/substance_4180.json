@@ -1,0 +1,13 @@
+{
+    "names": "N-(Adamantan-1-yl)-4-oxo-1-pentyl-7-(phenylsulfanyl)-1,4-dihydroquinoline-3-carboxamide",
+    "iupac_name": "4180 ; C31H36N2O2S ; 500.695",
+    "category": "cannabinodids",
+    "index": 4180,
+    "formular": "C31H36N2O2S",
+    "molecular_weight": 500.695,
+    "inChl": "1S/C31H36N2O2S/c1-2-3-7-12-33-20-27(30(35)32-31-17-21-13-22(18-31)15-23(14-21)19-31)29(34)26-11-10-25(16-28(26)33)36-24-8-5-4-6-9-24/h4-6,8-11,16,20-23H,2-3,7,12-15,17-19H2,1H3,(H,32,35)",
+    "InChl_Key": "KBZBUCIUHYIWHZ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NC23CC4CC(CC(C4)C2)C3)c(=O)c2ccc(Sc3ccccc3)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4180",
+    "validation": "m_weight unsave, calculated(500.70800000000025)"
+}

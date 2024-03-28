@@ -1,0 +1,13 @@
+{
+    "names": "Ro-14-5568",
+    "iupac_name": "8-Chloro-6-(2-fluorophenyl)-4H-imidazo[1,5-a][1]benzazepine",
+    "category": "Aryldiazepine",
+    "index": 11707,
+    "formular": "C18H12ClFN2",
+    "molecular_weight": 310.753,
+    "inChl": "1S/C18H12ClFN2/c19-12-5-8-18-16(9-12)14(15-3-1-2-4-17(15)20)7-6-13-10-21-11-22(13)18/h1-5,7-11H,6H2",
+    "InChl_Key": "AGUDCAMACXVCFT-UHFFFAOYSA-N",
+    "SMILES": "Fc1ccccc1C1=CCc2cncn2-c2ccc(Cl)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11707",
+    "validation": "m_weight unsave, calculated(310.759)"
+}

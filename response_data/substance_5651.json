@@ -1,0 +1,13 @@
+{
+    "names": "N-tert-Butoxyoxoethyl-NMT ; N-tert-Butoxyoxoethyl-N-methyltryptamine",
+    "iupac_name": "tert-Butyl N-[2-(1H-indol-3-yl)ethyl]-N-methylglycinate ; tert-Butyl {[2-(1H-indol-3-yl)ethyl](methyl)amino}acetate",
+    "category": "Tryptamine",
+    "index": 5651,
+    "formular": "C17H24N2O2",
+    "molecular_weight": 288.385,
+    "inChl": "1S/C17H24N2O2/c1-17(2,3)21-16(20)12-19(4)10-9-13-11-18-15-8-6-5-7-14(13)15/h5-8,11,18H,9-10,12H2,1-4H3",
+    "InChl_Key": "VTRBOWNJMZSCTO-UHFFFAOYSA-N",
+    "SMILES": "CN(CCc1c[nH]c2ccccc12)CC(=O)OC(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5651",
+    "validation": "m_weight unsave, calculated(288.39099999999996)"
+}

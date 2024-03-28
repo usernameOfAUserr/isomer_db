@@ -1,0 +1,13 @@
+{
+    "names": "4-(Prop-2-en-1-yl)benzene-1,2-diol",
+    "iupac_name": "10235 ; C9H10O2 ; 150.175",
+    "category": "data not stored",
+    "index": 10235,
+    "formular": "C9H10O2",
+    "molecular_weight": 150.175,
+    "inChl": "1S/C9H10O2/c1-2-3-7-4-5-8(10)9(11)6-7/h2,4-6,10-11H,1,3H2",
+    "InChl_Key": "FHEHIXJLCWUPCZ-UHFFFAOYSA-N",
+    "SMILES": "C=CCc1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10235",
+    "validation": "m_weight unsave, calculated(150.17699999999996)"
+}

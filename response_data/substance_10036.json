@@ -1,0 +1,13 @@
+{
+    "names": "2-iPe-3-EPEA ; 2-Isopentyl-3-ethoxyphenethylamine",
+    "iupac_name": "2-[3-Ethoxy-2-(3-methylbutyl)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10036,
+    "formular": "C15H25NO",
+    "molecular_weight": 235.365,
+    "inChl": "1S/C15H25NO/c1-4-17-15-7-5-6-13(10-11-16)14(15)9-8-12(2)3/h5-7,12H,4,8-11,16H2,1-3H3",
+    "InChl_Key": "IYSWDVLFHOOXFG-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cccc(CCN)c1CCC(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10036",
+    "validation": "m_weight unsave, calculated(235.37099999999992)"
+}

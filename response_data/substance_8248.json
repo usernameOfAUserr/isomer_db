@@ -1,0 +1,13 @@
+{
+    "names": "4F-ADB",
+    "iupac_name": "Methyl N-[1-(4-Fluoropentyl)-1H-indazole-3-carbonyl]-3-methyl-L-valinate ; Methyl (2S)-2-{[1-(4-Fluoropentyl)-1H-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate",
+    "category": "cannabinodids",
+    "index": 8248,
+    "formular": "C20H28FN3O3",
+    "molecular_weight": 377.453,
+    "inChl": "1S/C20H28FN3O3/c1-13(21)9-8-12-24-15-11-7-6-10-14(15)16(23-24)18(25)22-17(19(26)27-5)20(2,3)4/h6-7,10-11,13,17H,8-9,12H2,1-5H3,(H,22,25)/t13?,17-/m1/s1",
+    "InChl_Key": "UVZIIUNEZHXUMY-LRHAYUFXSA-N",
+    "SMILES": "COC(=O)[C@@H](NC(=O)c1nn(CCCC(C)F)c2ccccc12)C(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8248",
+    "validation": "m_weight unsave, calculated(377.46000000000015)"
+}

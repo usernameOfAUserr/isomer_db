@@ -1,0 +1,13 @@
+{
+    "names": "2,3-F-5,6-DMA ; 2,3-Difluoro-5,6-dimethoxyamphetamine",
+    "iupac_name": "1-(2,3-Difluoro-5,6-dimethoxyphenyl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10438,
+    "formular": "C11H15F2NO2",
+    "molecular_weight": 231.239,
+    "inChl": "1S/C11H15F2NO2/c1-6(14)4-7-10(13)8(12)5-9(15-2)11(7)16-3/h5-6H,4,14H2,1-3H3",
+    "InChl_Key": "MMNNITBHHOPZKJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(F)c(F)c(CC(C)N)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10438",
+    "validation": "m_weight unsave, calculated(231.24199999999996)"
+}

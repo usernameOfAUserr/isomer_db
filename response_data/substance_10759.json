@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Cl-MA ; \u03b2-Chloromethamphetamine",
+    "iupac_name": "1-Chloro-N-methyl-1-phenylpropan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10759,
+    "formular": "C10H14ClN",
+    "molecular_weight": 183.678,
+    "inChl": "1S/C10H14ClN/c1-8(12-2)10(11)9-6-4-3-5-7-9/h3-8,10,12H,1-2H3",
+    "InChl_Key": "HZCQDJZPLJOGQS-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(Cl)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10759",
+    "validation": "m_weight unsave, calculated(183.682)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Levomethorphan ; LVM",
+    "iupac_name": "3-Methoxy-17-methylmorphinan",
+    "category": "data not stored",
+    "index": 13989,
+    "formular": "C18H25NO",
+    "molecular_weight": 271.397,
+    "inChl": "1S/C18H25NO/c1-19-10-9-18-8-4-3-5-15(18)17(19)11-13-6-7-14(20-2)12-16(13)18/h6-7,12,15,17H,3-5,8-11H2,1-2H3/t15-,17+,18+/m0/s1",
+    "InChl_Key": "MKXZASYAUGDDCJ-CGTJXYLNSA-N",
+    "SMILES": "COc1ccc2c(c1)[C@@]13CCCC[C@H]1[C@@H](C2)N(C)CC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13989",
+    "validation": "m_weight unsave, calculated(271.40399999999994)"
+}

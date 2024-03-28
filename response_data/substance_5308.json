@@ -1,0 +1,13 @@
+{
+    "names": "2-Iodo-1-methyl-LSD ; 2-Iodo-1-methyl-N,N-diethyllysergamide ; MIL",
+    "iupac_name": "N,N-Diethyl-2-iodo-1,6-dimethyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N,N-Diethyl-5-iodo-4,7-dimethyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N,N-Diethyl-2-iodo-1,6-dimethyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 5308,
+    "formular": "C21H26IN3O",
+    "molecular_weight": 463.355,
+    "inChl": "1S/C21H26IN3O/c1-5-25(6-2)21(26)13-10-15-14-8-7-9-17-19(14)16(20(22)24(17)4)11-18(15)23(3)12-13/h7-10,13,18H,5-6,11-12H2,1-4H3/t13-,18-/m1/s1",
+    "InChl_Key": "TWQOQCUIXUGDKO-FZKQIMNGSA-N",
+    "SMILES": "CCN(CC)C(=O)[C@@H]1C=C2c3cccc4c3c(c(I)n4C)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5308",
+    "validation": "m_weight unsave, calculated(463.36300000000017)"
+}

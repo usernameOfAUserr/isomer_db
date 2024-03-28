@@ -1,0 +1,13 @@
+{
+    "names": "2,5-HO-4-MePEA ; 2,5-Dihydroxy-4-methylphenethylamine",
+    "iupac_name": "2-(2-Aminoethyl)-5-methylbenzene-1,4-diol",
+    "category": "data not stored",
+    "index": 1456,
+    "formular": "C9H13NO2",
+    "molecular_weight": 167.205,
+    "inChl": "1S/C9H13NO2/c1-6-4-9(12)7(2-3-10)5-8(6)11/h4-5,11-12H,2-3,10H2,1H3",
+    "InChl_Key": "JXAPACXEBBSTBW-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(O)c(CCN)cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1456",
+    "validation": "m_weight unsave, calculated(167.20799999999997)"
+}

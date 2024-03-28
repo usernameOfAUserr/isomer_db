@@ -1,0 +1,13 @@
+{
+    "names": "DIPT-4-fumarate",
+    "iupac_name": "(2E)-4-[(3-{2-[Di(propan-2-yl)amino]ethyl}-1H-indol-4-yl)oxy]-4-oxobut-2-enoic acid",
+    "category": "Tryptamine",
+    "index": 14816,
+    "formular": "C20H26N2O4",
+    "molecular_weight": 358.431,
+    "inChl": "1S/C20H26N2O4/c1-13(2)22(14(3)4)11-10-15-12-21-16-6-5-7-17(20(15)16)26-19(25)9-8-18(23)24/h5-9,12-14,21H,10-11H2,1-4H3,(H,23,24)/b9-8+",
+    "InChl_Key": "FJOSYRRRSVDQBL-CMDGGOBGSA-N",
+    "SMILES": "CC(C)N(CCc1c[nH]c2cccc(OC(=O)/C=C/C(=O)O)c12)C(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14816",
+    "validation": "m_weight unsave, calculated(358.438)"
+}

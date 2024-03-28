@@ -1,0 +1,13 @@
+{
+    "names": "Amphibine-I",
+    "iupac_name": "Valyl-N-[1-(6,7-dimethoxy-2-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl)ethyl]glycinamide ; 2-Amino-N-(2-{[1-(6,7-dimethoxy-2-methyl-1,2,3,4-tetrahydroisoquinolin-1-yl)ethyl]amino}-2-oxoethyl)-3-methylbutanamide",
+    "category": "data not stored",
+    "index": 14334,
+    "formular": "C21H34N4O4",
+    "molecular_weight": 406.519,
+    "inChl": "1S/C21H34N4O4/c1-12(2)19(22)21(27)23-11-18(26)24-13(3)20-15-10-17(29-6)16(28-5)9-14(15)7-8-25(20)4/h9-10,12-13,19-20H,7-8,11,22H2,1-6H3,(H,23,27)(H,24,26)",
+    "InChl_Key": "WZFBAZHBMOAWPY-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(cc1OC)C(C(C)NC(=O)CNC(=O)C(N)C(C)C)N(C)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14334",
+    "validation": "m_weight unsave, calculated(406.52700000000016)"
+}

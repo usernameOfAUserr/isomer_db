@@ -1,0 +1,13 @@
+{
+    "names": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(cyclohexylmethyl)-1H-pyrazolo[3,4-b]pyridine-3-carboxamide",
+    "iupac_name": "12533 ; C20H29N5O2 ; 371.477",
+    "category": "cannabinodids",
+    "index": 12533,
+    "formular": "C20H29N5O2",
+    "molecular_weight": 371.477,
+    "inChl": "1S/C20H29N5O2/c1-20(2,3)16(17(21)26)23-19(27)15-14-10-7-11-22-18(14)25(24-15)12-13-8-5-4-6-9-13/h7,10-11,13,16H,4-6,8-9,12H2,1-3H3,(H2,21,26)(H,23,27)/t16-/m1/s1",
+    "InChl_Key": "INQQOWVNQOUFJQ-MRXNPFEDSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(CC2CCCCC2)c2ncccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12533",
+    "validation": "m_weight unsave, calculated(371.48500000000024)"
+}

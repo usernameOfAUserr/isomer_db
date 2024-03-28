@@ -1,0 +1,13 @@
+{
+    "names": "Mephedrone PFPA ; N-Pentafluoropropanoyl-N,4-dimethylcathinone",
+    "iupac_name": "2,2,3,3,3-Pentafluoro-N-methyl-N-[1-(4-methylphenyl)-1-oxopropan-2-yl]propanamide",
+    "category": "data not stored",
+    "index": 1954,
+    "formular": "C14H14F5NO2",
+    "molecular_weight": 323.258,
+    "inChl": "1S/C14H14F5NO2/c1-8-4-6-10(7-5-8)11(21)9(2)20(3)12(22)13(15,16)14(17,18)19/h4-7,9H,1-3H3",
+    "InChl_Key": "TTYUDHJGFBRSED-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)C(C)N(C)C(=O)C(F)(F)C(F)(F)F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1954",
+    "validation": "m_weight unsave, calculated(323.26099999999997)"
+}

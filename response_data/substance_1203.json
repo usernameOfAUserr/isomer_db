@@ -1,0 +1,13 @@
+{
+    "names": "2-Ethoxy-\u03b1-ethyl-N-methylphenethylamine",
+    "iupac_name": "1-(2-Ethoxyphenyl)-N-methylbutan-2-amine",
+    "category": "data not stored",
+    "index": 1203,
+    "formular": "C13H21NO",
+    "molecular_weight": 207.312,
+    "inChl": "1S/C13H21NO/c1-4-12(14-3)10-11-8-6-7-9-13(11)15-5-2/h6-9,12,14H,4-5,10H2,1-3H3",
+    "InChl_Key": "HXELIVOLKBYPEM-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccccc1CC(CC)NC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1203",
+    "validation": "m_weight unsave, calculated(207.31699999999995)"
+}

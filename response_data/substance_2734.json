@@ -1,0 +1,13 @@
+{
+    "names": "8-Bromo-7-ethoxy-1-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine",
+    "iupac_name": "2734 ; C13H18BrNO ; 284.192",
+    "category": "data not stored",
+    "index": 2734,
+    "formular": "C13H18BrNO",
+    "molecular_weight": 284.192,
+    "inChl": "1S/C13H18BrNO/c1-3-16-13-6-10-4-5-15-8-9(2)11(10)7-12(13)14/h6-7,9,15H,3-5,8H2,1-2H3",
+    "InChl_Key": "LQGCCOADXMPGTL-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc2c(cc1Br)C(C)CNCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2734",
+    "validation": "m_weight unsave, calculated(284.197)"
+}

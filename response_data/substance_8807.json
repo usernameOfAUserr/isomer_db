@@ -1,0 +1,13 @@
+{
+    "names": "4-BrBP",
+    "iupac_name": "1-[(4-Bromophenyl)methyl]piperazine",
+    "category": "data not stored",
+    "index": 8807,
+    "formular": "C11H15BrN2",
+    "molecular_weight": 255.154,
+    "inChl": "1S/C11H15BrN2/c12-11-3-1-10(2-4-11)9-14-7-5-13-6-8-14/h1-4,13H,5-9H2",
+    "InChl_Key": "MAHWBNAOEVAPJF-UHFFFAOYSA-N",
+    "SMILES": "Brc1ccc(CN2CCNCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8807",
+    "validation": "m_weight unsave, calculated(255.15899999999993)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Butyl 2-[(6aR,10aR)-1-hydroxy-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-3-yl]-2-methylpropanoate",
+    "iupac_name": "8012 ; C24H34O4 ; 386.524",
+    "category": "cannabinodids",
+    "index": 8012,
+    "formular": "C24H34O4",
+    "molecular_weight": 386.524,
+    "inChl": "1S/C24H34O4/c1-7-8-11-27-22(26)23(3,4)16-13-19(25)21-17-12-15(2)9-10-18(17)24(5,6)28-20(21)14-16/h9,13-14,17-18,25H,7-8,10-12H2,1-6H3/t17-,18-/m1/s1",
+    "InChl_Key": "BCRQALSSNMYCDD-QZTJIDSGSA-N",
+    "SMILES": "CCCCOC(=O)C(C)(C)c1cc(O)c2c(c1)OC(C)(C)[C@@H]1CC=C(C)C[C@@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8012",
+    "validation": "m_weight unsave, calculated(386.5320000000002)"
+}

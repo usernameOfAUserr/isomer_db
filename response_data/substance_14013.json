@@ -1,0 +1,13 @@
+{
+    "names": "N-(2C-E) fentanyl",
+    "iupac_name": "N-{1-[2-(4-Ethyl-2,5-dimethoxyphenyl)ethyl]piperidin-4-yl}-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 14013,
+    "formular": "C26H36N2O3",
+    "molecular_weight": 424.576,
+    "inChl": "1S/C26H36N2O3/c1-5-20-18-25(31-4)21(19-24(20)30-3)12-15-27-16-13-23(14-17-27)28(26(29)6-2)22-10-8-7-9-11-22/h7-11,18-19,23H,5-6,12-17H2,1-4H3",
+    "InChl_Key": "LDTWBDPHKDXMOK-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1CCN(CCc2cc(OC)c(CC)cc2OC)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14013",
+    "validation": "m_weight unsave, calculated(424.5850000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3,4-DHO-BAL ; 3,4-DHBA ; Protocatechualdehyde ; Protocatechuic aldehyde",
+    "iupac_name": "3,4-Dihydroxybenzaldehyde",
+    "category": "data not stored",
+    "index": 1809,
+    "formular": "C7H6O3",
+    "molecular_weight": 138.121,
+    "inChl": "1S/C7H6O3/c8-4-5-1-2-6(9)7(10)3-5/h1-4,9-10H",
+    "InChl_Key": "IBGBGRVKPALMCQ-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1809",
+    "validation": "m_weight unsave, calculated(138.12199999999999)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-Formyl-MTA ; N-Formyl-4-methylthioamphetamine",
+    "iupac_name": "N-{1-[4-(Methylsulfanyl)phenyl]propan-2-yl}formamide",
+    "category": "data not stored",
+    "index": 2570,
+    "formular": "C11H15NOS",
+    "molecular_weight": 209.308,
+    "inChl": "1S/C11H15NOS/c1-9(12-8-13)7-10-3-5-11(14-2)6-4-10/h3-6,8-9H,7H2,1-2H3,(H,12,13)",
+    "InChl_Key": "PSGLTJGRSQLNST-UHFFFAOYSA-N",
+    "SMILES": "CSc1ccc(CC(C)NC=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2570",
+    "validation": "m_weight unsave, calculated(209.31399999999996)"
+}

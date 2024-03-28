@@ -1,0 +1,13 @@
+{
+    "names": "4-Bromo-5-(propylamino)-2-(3,3,5,5-tetramethylcyclohexyl)pyridazin-3(2H)-one",
+    "iupac_name": "7532 ; C17H28BrN3O ; 370.328",
+    "category": "cannabinodids",
+    "index": 7532,
+    "formular": "C17H28BrN3O",
+    "molecular_weight": 370.328,
+    "inChl": "1S/C17H28BrN3O/c1-6-7-19-13-10-20-21(15(22)14(13)18)12-8-16(2,3)11-17(4,5)9-12/h10,12,19H,6-9,11H2,1-5H3",
+    "InChl_Key": "VJPAJSIYCZSRFM-UHFFFAOYSA-N",
+    "SMILES": "CCCNc1cnn(C2CC(C)(C)CC(C)(C)C2)c(=O)c1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7532",
+    "validation": "m_weight unsave, calculated(370.33500000000026)"
+}

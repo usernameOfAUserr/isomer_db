@@ -1,0 +1,13 @@
+{
+    "names": "3-Br-PHA ; 3-Bromo-4-hydroxyamphetamine",
+    "iupac_name": "4-(2-Aminopropyl)-2-bromophenol",
+    "category": "Shulgin_Index",
+    "index": 6505,
+    "formular": "C9H12BrNO",
+    "molecular_weight": 230.102,
+    "inChl": "1S/C9H12BrNO/c1-6(11)4-7-2-3-9(12)8(10)5-7/h2-3,5-6,12H,4,11H2,1H3",
+    "InChl_Key": "DIBBHKXBNUUUOA-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(O)c(Br)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6505",
+    "validation": "m_weight unsave, calculated(230.10499999999996)"
+}

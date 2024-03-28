@@ -1,0 +1,13 @@
+{
+    "names": "R-1217",
+    "iupac_name": "Propan-2-yl 1-[3-(4-methylphenyl)-3-oxopropyl]-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 9219,
+    "formular": "C25H31NO3",
+    "molecular_weight": 393.519,
+    "inChl": "1S/C25H31NO3/c1-19(2)29-24(28)25(22-7-5-4-6-8-22)14-17-26(18-15-25)16-13-23(27)21-11-9-20(3)10-12-21/h4-12,19H,13-18H2,1-3H3",
+    "InChl_Key": "PMAFVFHSCTZKMX-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)CCN2CCC(C(=O)OC(C)C)(c3ccccc3)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9219",
+    "validation": "m_weight unsave, calculated(393.52700000000004)"
+}

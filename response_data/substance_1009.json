@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-HO-3-HA ; Metaraminol",
+    "iupac_name": "3-(2-Amino-1-hydroxypropyl)phenol",
+    "category": "Shulgin_Index",
+    "index": 1009,
+    "formular": "C9H13NO2",
+    "molecular_weight": 167.205,
+    "inChl": "1S/C9H13NO2/c1-6(10)9(12)7-3-2-4-8(11)5-7/h2-6,9,11-12H,10H2,1H3",
+    "InChl_Key": "WXFIGDLSSYIKKV-UHFFFAOYSA-N",
+    "SMILES": "CC(N)C(O)c1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1009",
+    "validation": "m_weight unsave, calculated(167.20799999999997)"
+}

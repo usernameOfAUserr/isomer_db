@@ -1,0 +1,13 @@
+{
+    "names": "2-(5-Methoxy-1H-indol-7-yl)ethan-1-amine",
+    "iupac_name": "10075 ; C11H14N2O ; 190.242",
+    "category": "Phenetylamine",
+    "index": 10075,
+    "formular": "C11H14N2O",
+    "molecular_weight": 190.242,
+    "inChl": "1S/C11H14N2O/c1-14-10-6-8(2-4-12)11-9(7-10)3-5-13-11/h3,5-7,13H,2,4,12H2,1H3",
+    "InChl_Key": "CGHFDDRWGGODGP-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)c2[nH]ccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10075",
+    "validation": "m_weight unsave, calculated(190.24599999999998)"
+}

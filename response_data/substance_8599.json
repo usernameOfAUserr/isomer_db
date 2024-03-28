@@ -1,0 +1,13 @@
+{
+    "names": "MMMP ; 4-(\u03b2-Keto-\u03b1,\u03b1-dimethyl-4-methylthiophenethyl)morpholine ; Caccure 907 ; MTMP",
+    "iupac_name": "2-Methyl-1-[4-(methylsulfanyl)phenyl]-2-(morpholin-4-yl)propan-1-one",
+    "category": "data not stored",
+    "index": 8599,
+    "formular": "C15H21NO2S",
+    "molecular_weight": 279.398,
+    "inChl": "1S/C15H21NO2S/c1-15(2,16-8-10-18-11-9-16)14(17)12-4-6-13(19-3)7-5-12/h4-7H,8-11H2,1-3H3",
+    "InChl_Key": "LWRBVKNFOYUCNP-UHFFFAOYSA-N",
+    "SMILES": "CSc1ccc(C(=O)C(C)(C)N2CCOCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8599",
+    "validation": "m_weight unsave, calculated(279.4049999999999)"
+}

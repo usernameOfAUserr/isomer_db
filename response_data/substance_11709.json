@@ -1,0 +1,13 @@
+{
+    "names": "Ro-22-1251",
+    "iupac_name": "9-Chloro-2-methyl-7-phenyl-5H-pyrimido[5,4-d][2]benzazepine",
+    "category": "Aryldiazepine",
+    "index": 11709,
+    "formular": "C19H14ClN3",
+    "molecular_weight": 319.788,
+    "inChl": "1S/C19H14ClN3/c1-12-21-10-14-11-22-18(13-5-3-2-4-6-13)17-9-15(20)7-8-16(17)19(14)23-12/h2-10H,11H2,1H3",
+    "InChl_Key": "BNWDIKVSHIZKDH-UHFFFAOYSA-N",
+    "SMILES": "Cc1ncc2c(n1)-c1ccc(Cl)cc1C(c1ccccc1)=NC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11709",
+    "validation": "m_weight unsave, calculated(319.79499999999996)"
+}

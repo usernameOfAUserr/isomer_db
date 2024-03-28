@@ -1,0 +1,13 @@
+{
+    "names": "(C4)-AKB-48 ; C4-APINACA ; SGT-22",
+    "iupac_name": "N-(Adamantan-1-yl)-1-butyl-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4416,
+    "formular": "C22H29N3O",
+    "molecular_weight": 351.485,
+    "inChl": "1S/C22H29N3O/c1-2-3-8-25-19-7-5-4-6-18(19)20(24-25)21(26)23-22-12-15-9-16(13-22)11-17(10-15)14-22/h4-7,15-17H,2-3,8-14H2,1H3,(H,23,26)",
+    "InChl_Key": "NXVRGWJPMBWAAG-UHFFFAOYSA-N",
+    "SMILES": "CCCCn1nc(C(=O)NC23CC4CC(CC(C4)C2)C3)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4416",
+    "validation": "m_weight unsave, calculated(351.4940000000002)"
+}

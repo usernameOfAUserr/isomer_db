@@ -1,0 +1,13 @@
+{
+    "names": "4-(2F-EtS)-2,5-DMBAL ; 4-(2-Fluoroethylthio)-2,5-dimethoxybenzaldehyde",
+    "iupac_name": "4-[(2-Fluoroethyl)sulfanyl]-2,5-dimethoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 8282,
+    "formular": "C11H13FO3S",
+    "molecular_weight": 244.283,
+    "inChl": "1S/C11H13FO3S/c1-14-9-6-11(16-4-3-12)10(15-2)5-8(9)7-13/h5-7H,3-4H2,1-2H3",
+    "InChl_Key": "KWZBUWWPAQDPBS-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SCCF)c(OC)cc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8282",
+    "validation": "m_weight unsave, calculated(244.28699999999998)"
+}

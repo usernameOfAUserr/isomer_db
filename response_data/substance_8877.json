@@ -1,0 +1,13 @@
+{
+    "names": "2,4-DMPP ; 2,4-Dimethylphenylpiperazine",
+    "iupac_name": "1-(2,4-Dimethylphenyl)piperazine",
+    "category": "data not stored",
+    "index": 8877,
+    "formular": "C12H18N2",
+    "molecular_weight": 190.285,
+    "inChl": "1S/C12H18N2/c1-10-3-4-12(11(2)9-10)14-7-5-13-6-8-14/h3-4,9,13H,5-8H2,1-2H3",
+    "InChl_Key": "RUIMBVCRNZHCRQ-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(N2CCNCC2)c(C)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8877",
+    "validation": "m_weight unsave, calculated(190.28999999999996)"
+}

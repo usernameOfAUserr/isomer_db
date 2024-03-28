@@ -1,0 +1,13 @@
+{
+    "names": "AM-7499 ; WO 2014/039042 #3.9",
+    "iupac_name": "Butyl 2-[(6aR,9R,10aR)-1-hydroxy-9-(hydroxymethyl)-6,6-dimethyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-3-yl]-2-methylpropanoate",
+    "category": "cannabinodids",
+    "index": 8026,
+    "formular": "C24H36O5",
+    "molecular_weight": 404.54,
+    "inChl": "1S/C24H36O5/c1-6-7-10-28-22(27)23(2,3)16-12-19(26)21-17-11-15(14-25)8-9-18(17)24(4,5)29-20(21)13-16/h12-13,15,17-18,25-26H,6-11,14H2,1-5H3/t15-,17-,18-/m1/s1",
+    "InChl_Key": "OSVHLUXLWQLPIY-KBAYOESNSA-N",
+    "SMILES": "CCCCOC(=O)C(C)(C)c1cc(O)c2c(c1)OC(C)(C)[C@@H]1CC[C@@H](CO)C[C@@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8026",
+    "validation": "m_weight unsave, calculated(404.54700000000025)"
+}

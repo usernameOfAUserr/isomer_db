@@ -1,0 +1,13 @@
+{
+    "names": "7-MeO-NCPT ; 7-Methoxy-N-cyclopropyltryptamine",
+    "iupac_name": "N-[2-(7-Methoxy-1H-indol-3-yl)ethyl]cyclopropanamine",
+    "category": "Tryptamine",
+    "index": 5110,
+    "formular": "C14H18N2O",
+    "molecular_weight": 230.306,
+    "inChl": "1S/C14H18N2O/c1-17-13-4-2-3-12-10(9-16-14(12)13)7-8-15-11-5-6-11/h2-4,9,11,15-16H,5-8H2,1H3",
+    "InChl_Key": "NWCYUIAFBCJOPB-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c(CCNC3CC3)c[nH]c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5110",
+    "validation": "m_weight unsave, calculated(230.31099999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "MP-iii-019B",
+    "iupac_name": "(4R)-8-Ethynyl-6-(2-fluorophenyl)-4-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxamide",
+    "category": "Aryldiazepine",
+    "index": 8211,
+    "formular": "C21H15FN4O",
+    "molecular_weight": 358.368,
+    "inChl": "1S/C21H15FN4O/c1-3-13-8-9-17-15(10-13)18(14-6-4-5-7-16(14)22)25-12(2)20-19(21(23)27)24-11-26(17)20/h1,4-12H,2H3,(H2,23,27)/t12-/m1/s1",
+    "InChl_Key": "HCZOMACJLFVADW-GFCCVEGCSA-N",
+    "SMILES": "C#Cc1ccc2c(c1)C(c1ccccc1F)=N[C@H](C)c1c(C(N)=O)ncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8211",
+    "validation": "m_weight unsave, calculated(358.3760000000001)"
+}

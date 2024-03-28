@@ -1,0 +1,13 @@
+{
+    "names": "N-Cyclohexylpropyl-NMT ; N-Cyclohexylpropyl-N-methyltryptamine",
+    "iupac_name": "3-Cyclohexyl-N-[2-(1H-indol-3-yl)ethyl]-N-methylpropan-1-amine",
+    "category": "Tryptamine",
+    "index": 5648,
+    "formular": "C20H30N2",
+    "molecular_weight": 298.466,
+    "inChl": "1S/C20H30N2/c1-22(14-7-10-17-8-3-2-4-9-17)15-13-18-16-21-20-12-6-5-11-19(18)20/h5-6,11-12,16-17,21H,2-4,7-10,13-15H2,1H3",
+    "InChl_Key": "STLADHLRUOOGMD-UHFFFAOYSA-N",
+    "SMILES": "CN(CCCC1CCCCC1)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5648",
+    "validation": "m_weight unsave, calculated(298.4740000000001)"
+}

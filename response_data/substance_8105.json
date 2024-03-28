@@ -1,0 +1,13 @@
+{
+    "names": "CBR ; Cannabiripsol",
+    "iupac_name": "(6aR,9S,10S,10aR)-6,6,9-Trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1,9,10-triol",
+    "category": "cannabinodids",
+    "index": 8105,
+    "formular": "C21H32O4",
+    "molecular_weight": 348.476,
+    "inChl": "1S/C21H32O4/c1-5-6-7-8-13-11-15(22)18-16(12-13)25-20(2,3)14-9-10-21(4,24)19(23)17(14)18/h11-12,14,17,19,22-24H,5-10H2,1-4H3/t14-,17-,19+,21+/m1/s1",
+    "InChl_Key": "TZGCTXUTNDNTTE-DYZHCLJRSA-N",
+    "SMILES": "CCCCCc1cc(O)c2c(c1)OC(C)(C)[C@@H]1CC[C@](C)(O)[C@@H](O)[C@@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8105",
+    "validation": "m_weight unsave, calculated(348.4830000000002)"
+}

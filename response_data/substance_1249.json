@@ -1,0 +1,13 @@
+{
+    "names": "25T-NBOMe ; N-(2-Methoxybenzyl)-4-methylthio-2,5-dimethoxyphenethylamine ; 2C-T-NBOMe",
+    "iupac_name": "2-[2,5-Dimethoxy-4-(methylsulfanyl)phenyl]-N-[(2-methoxyphenyl)methyl]ethan-1-amine ; 2-[2,5-Dimethoxy-4-(methylsulfanyl)phenyl]-N-(2-methoxybenzyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 1249,
+    "formular": "C19H25NO3S",
+    "molecular_weight": 347.472,
+    "inChl": "1S/C19H25NO3S/c1-21-16-8-6-5-7-15(16)13-20-10-9-14-11-18(23-3)19(24-4)12-17(14)22-2/h5-8,11-12,20H,9-10,13H2,1-4H3",
+    "InChl_Key": "ZWPIZVVOKGWMFW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SC)c(OC)cc1CCNCc1ccccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1249",
+    "validation": "m_weight unsave, calculated(347.4800000000001)"
+}

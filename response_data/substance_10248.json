@@ -1,0 +1,13 @@
+{
+    "names": "4-Br-2,6-DCA ; 4-Bromo-2,6-dichloroamphetamine",
+    "iupac_name": "1-(4-Bromo-2,6-dichlorophenyl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10248,
+    "formular": "C9H10BrCl2N",
+    "molecular_weight": 282.992,
+    "inChl": "1S/C9H10BrCl2N/c1-5(13)2-7-8(11)3-6(10)4-9(7)12/h3-5H,2,13H2,1H3",
+    "InChl_Key": "KQASGGYJPQRUSB-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c(Cl)cc(Br)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10248",
+    "validation": "m_weight unsave, calculated(282.996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-(2-Fluorophenyl)-3-oxo-1,2,3,5-tetrahydropyrido[1,2-a]benzimidazole-4-carboxamide",
+    "iupac_name": "3792 ; C18H14FN3O2 ; 323.321",
+    "category": "data not stored",
+    "index": 3792,
+    "formular": "C18H14FN3O2",
+    "molecular_weight": 323.321,
+    "inChl": "1S/C18H14FN3O2/c19-11-5-1-2-6-12(11)21-18(24)16-15(23)9-10-22-14-8-4-3-7-13(14)20-17(16)22/h1-8,20H,9-10H2,(H,21,24)",
+    "InChl_Key": "CMUCIFQZBBKACA-UHFFFAOYSA-N",
+    "SMILES": "O=C1CCN2C(=C1C(=O)Nc1ccccc1F)Nc1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3792",
+    "validation": "m_weight unsave, calculated(323.327)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-(4-Chlorophenyl)-N-ethylpropan-2-amine",
+    "iupac_name": "12135 ; C11H16ClN ; 197.704",
+    "category": "Phenetylamine",
+    "index": 12135,
+    "formular": "C11H16ClN",
+    "molecular_weight": 197.704,
+    "inChl": "1S/C11H16ClN/c1-3-13-9(2)8-10-4-6-11(12)7-5-10/h4-7,9,13H,3,8H2,1-2H3",
+    "InChl_Key": "PRKDJWMNZDSUPT-UHFFFAOYSA-N",
+    "SMILES": "CCNC(C)Cc1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12135",
+    "validation": "m_weight unsave, calculated(197.709)"
+}

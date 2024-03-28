@@ -1,0 +1,13 @@
+{
+    "names": "M-3PIP ; Mescaline-3PIP",
+    "iupac_name": "3-(3,4,5-Trimethoxyphenyl)piperidine",
+    "category": "data not stored",
+    "index": 1311,
+    "formular": "C14H21NO3",
+    "molecular_weight": 251.321,
+    "inChl": "1S/C14H21NO3/c1-16-12-7-11(10-5-4-6-15-9-10)8-13(17-2)14(12)18-3/h7-8,10,15H,4-6,9H2,1-3H3",
+    "InChl_Key": "FRXBSJMDBFVZJP-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2CCCNC2)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1311",
+    "validation": "m_weight unsave, calculated(251.32599999999994)"
+}

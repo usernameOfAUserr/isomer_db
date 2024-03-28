@@ -1,0 +1,13 @@
+{
+    "names": "3-[(Dimethylamino)methyl]-1H-indol-4-ol",
+    "iupac_name": "5245 ; C11H14N2O ; 190.242",
+    "category": "data not stored",
+    "index": 5245,
+    "formular": "C11H14N2O",
+    "molecular_weight": 190.242,
+    "inChl": "1S/C11H14N2O/c1-13(2)7-8-6-12-9-4-3-5-10(14)11(8)9/h3-6,12,14H,7H2,1-2H3",
+    "InChl_Key": "YJJMKVPZBCHYHD-UHFFFAOYSA-N",
+    "SMILES": "CN(C)Cc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5245",
+    "validation": "m_weight unsave, calculated(190.246)"
+}

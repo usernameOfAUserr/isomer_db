@@ -1,0 +1,13 @@
+{
+    "names": "Isonorweberine",
+    "iupac_name": "5,6,7,8-Tetramethoxyisoquinoline",
+    "category": "data not stored",
+    "index": 12670,
+    "formular": "C13H15NO4",
+    "molecular_weight": 249.263,
+    "inChl": "1S/C13H15NO4/c1-15-10-8-5-6-14-7-9(8)11(16-2)13(18-4)12(10)17-3/h5-7H,1-4H3",
+    "InChl_Key": "XNGIPVCATKSQEC-UHFFFAOYSA-N",
+    "SMILES": "COc1c(OC)c(OC)c2cnccc2c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12670",
+    "validation": "m_weight unsave, calculated(249.26599999999996)"
+}

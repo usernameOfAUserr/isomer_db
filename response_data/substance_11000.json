@@ -1,0 +1,13 @@
+{
+    "names": "2-(1,2-Thiazol-5-yl)ethan-1-amine",
+    "iupac_name": "11000 ; C5H8N2S ; 128.195",
+    "category": "Phenetylamine",
+    "index": 11000,
+    "formular": "C5H8N2S",
+    "molecular_weight": 128.195,
+    "inChl": "1S/C5H8N2S/c6-3-1-5-2-4-7-8-5/h2,4H,1,3,6H2",
+    "InChl_Key": "TWCRHWLIAMJXMN-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ccns1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11000",
+    "validation": "m_weight unsave, calculated(128.2)"
+}

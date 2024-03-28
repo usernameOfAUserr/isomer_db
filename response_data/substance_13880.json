@@ -1,0 +1,13 @@
+{
+    "names": "5-EtO-4-TFM-2-MBAL",
+    "iupac_name": "5-Ethoxy-2-methoxy-4-(trifluoromethyl)benzaldehyde",
+    "category": "data not stored",
+    "index": 13880,
+    "formular": "C11H11F3O3",
+    "molecular_weight": 248.198,
+    "inChl": "1S/C11H11F3O3/c1-3-17-10-4-7(6-15)9(16-2)5-8(10)11(12,13)14/h4-6H,3H2,1-2H3",
+    "InChl_Key": "AMBYIHCJRYDUAM-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(C=O)c(OC)cc1C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13880",
+    "validation": "m_weight unsave, calculated(248.19999999999993)"
+}

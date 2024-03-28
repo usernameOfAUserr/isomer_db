@@ -1,0 +1,13 @@
+{
+    "names": "1-(4-Aminophenylsulfonyl)-4-MeO-DMT ; 1-(4-Aminophenylsulfonyl)-4-methoxy-N,N,dimethyltryptamine",
+    "iupac_name": "4-{3-[2-(Dimethylamino)ethyl]-4-methoxy-1H-indole-1-sulfonyl}aniline ; 4-({3-[2-(Dimethylamino)ethyl]-4-methoxy-1H-indol-1-yl}sulfonyl)aniline",
+    "category": "Tryptamine",
+    "index": 5234,
+    "formular": "C19H23N3O3S",
+    "molecular_weight": 373.469,
+    "inChl": "1S/C19H23N3O3S/c1-21(2)12-11-14-13-22(17-5-4-6-18(25-3)19(14)17)26(23,24)16-9-7-15(20)8-10-16/h4-10,13H,11-12,20H2,1-3H3",
+    "InChl_Key": "ZVKYCQZJZJWLGG-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c1c(CCN(C)C)cn2S(=O)(=O)c1ccc(N)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5234",
+    "validation": "m_weight unsave, calculated(373.4780000000001)"
+}

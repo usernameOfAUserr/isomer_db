@@ -1,0 +1,13 @@
+{
+    "names": "6-Prenyl-4-AcO-DET ; 6-Prenyl-4-acetoxy-N,N-diethyltryptamine",
+    "iupac_name": "3-[2-(Diethylamino)ethyl]-6-(3-methylbut-2-en-1-yl)-1H-indol-4-yl acetate",
+    "category": "Tryptamine",
+    "index": 14501,
+    "formular": "C21H30N2O2",
+    "molecular_weight": 342.475,
+    "inChl": "1S/C21H30N2O2/c1-6-23(7-2)11-10-18-14-22-19-12-17(9-8-15(3)4)13-20(21(18)19)25-16(5)24/h8,12-14,22H,6-7,9-11H2,1-5H3",
+    "InChl_Key": "AFTOOXDSERXCGB-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCc1c[nH]c2cc(CC=C(C)C)cc(OC(C)=O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14501",
+    "validation": "m_weight unsave, calculated(342.4830000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-(Thiophen-2-yl)hexan-3-amine",
+    "iupac_name": "10950 ; C10H17NS ; 183.314",
+    "category": "Phenetylamine",
+    "index": 10950,
+    "formular": "C10H17NS",
+    "molecular_weight": 183.314,
+    "inChl": "1S/C10H17NS/c1-3-5-9(11)8(2)10-6-4-7-12-10/h4,6-9H,3,5,11H2,1-2H3",
+    "InChl_Key": "ATRUSIQSJRKCKH-UHFFFAOYSA-N",
+    "SMILES": "CCCC(N)C(C)c1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10950",
+    "validation": "m_weight unsave, calculated(183.31999999999996)"
+}

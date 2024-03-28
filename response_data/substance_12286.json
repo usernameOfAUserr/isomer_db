@@ -1,0 +1,13 @@
+{
+    "names": "IQMF-4",
+    "iupac_name": "N-[1-(2-Phenylethyl)piperidin-4-yl]-N-(1-phenyl-1H-pyrazol-3-yl)prop-2-enamide",
+    "category": "data not stored",
+    "index": 12286,
+    "formular": "C25H28N4O",
+    "molecular_weight": 400.516,
+    "inChl": "1S/C25H28N4O/c1-2-25(30)29(24-16-20-28(26-24)22-11-7-4-8-12-22)23-14-18-27(19-15-23)17-13-21-9-5-3-6-10-21/h2-12,16,20,23H,1,13-15,17-19H2",
+    "InChl_Key": "SRGLLOFTMPEAAZ-UHFFFAOYSA-N",
+    "SMILES": "C=CC(=O)N(c1ccn(-c2ccccc2)n1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12286",
+    "validation": "m_weight unsave, calculated(400.5260000000002)"
+}

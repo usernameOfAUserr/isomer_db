@@ -1,0 +1,13 @@
+{
+    "names": "2,4-DMBMP",
+    "iupac_name": "1-[(2,4-Dimethoxyphenyl)methyl]-4-methylpiperazine",
+    "category": "data not stored",
+    "index": 8776,
+    "formular": "C14H22N2O2",
+    "molecular_weight": 250.337,
+    "inChl": "1S/C14H22N2O2/c1-15-6-8-16(9-7-15)11-12-4-5-13(17-2)10-14(12)18-3/h4-5,10H,6-9,11H2,1-3H3",
+    "InChl_Key": "FDWUACWVIJVFOF-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CN2CCN(C)CC2)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8776",
+    "validation": "m_weight unsave, calculated(250.34199999999993)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Me-GEA ; \u03b2-Methyl-4-hydroxy-3-methoxyphenethylamine",
+    "iupac_name": "4-(1-Aminopropan-2-yl)-2-methoxyphenol",
+    "category": "Shulgin_Index",
+    "index": 6556,
+    "formular": "C10H15NO2",
+    "molecular_weight": 181.232,
+    "inChl": "1S/C10H15NO2/c1-7(6-11)8-3-4-9(12)10(5-8)13-2/h3-5,7,12H,6,11H2,1-2H3",
+    "InChl_Key": "VJDIJSPVAGJPCO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(C)CN)ccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6556",
+    "validation": "m_weight unsave, calculated(181.23499999999996)"
+}

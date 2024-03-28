@@ -1,0 +1,13 @@
+{
+    "names": "DMAA ; 2-(Dimethylamino)acetophenone",
+    "iupac_name": "2-(Dimethylamino)-1-phenylethan-1-one ; 2-(Dimethylamino)-1-phenylethanone",
+    "category": "Shulgin_Index",
+    "index": 6014,
+    "formular": "C10H13NO",
+    "molecular_weight": 163.216,
+    "inChl": "1S/C10H13NO/c1-11(2)8-10(12)9-6-4-3-5-7-9/h3-7H,8H2,1-2H3",
+    "InChl_Key": "UMLWXYJZDNNBTD-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CC(=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6014",
+    "validation": "m_weight unsave, calculated(163.21999999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "tert-Butyl 5-(dipropylcarbamoyl)-4-methylimidazo[1,5-a]quinoline-3-carboxylate",
+    "iupac_name": "4397 ; C24H31N3O3 ; 409.521",
+    "category": "data not stored",
+    "index": 4397,
+    "formular": "C24H31N3O3",
+    "molecular_weight": 409.521,
+    "inChl": "1S/C24H31N3O3/c1-7-13-26(14-8-2)22(28)19-16(3)21-20(23(29)30-24(4,5)6)25-15-27(21)18-12-10-9-11-17(18)19/h9-12,15H,7-8,13-14H2,1-6H3",
+    "InChl_Key": "CMFSAURPWWXOEJ-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C(=O)c1c(C)c2c(C(=O)OC(C)(C)C)ncn2c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4397",
+    "validation": "m_weight unsave, calculated(409.53000000000026)"
+}

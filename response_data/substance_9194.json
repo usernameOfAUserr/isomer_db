@@ -1,0 +1,13 @@
+{
+    "names": "R-1336",
+    "iupac_name": "Ethyl 1-(5-oxo-5-phenylpentyl)-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 9194,
+    "formular": "C25H31NO3",
+    "molecular_weight": 393.519,
+    "inChl": "1S/C25H31NO3/c1-2-29-24(28)25(22-13-7-4-8-14-22)16-19-26(20-17-25)18-10-9-15-23(27)21-11-5-3-6-12-21/h3-8,11-14H,2,9-10,15-20H2,1H3",
+    "InChl_Key": "DSKQLRRUIMCHRQ-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CCCCC(=O)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9194",
+    "validation": "m_weight unsave, calculated(393.527)"
+}

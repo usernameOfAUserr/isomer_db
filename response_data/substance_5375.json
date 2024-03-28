@@ -1,0 +1,13 @@
+{
+    "names": "5-Methoxypsilocin ; 4-Hydroxy-5-methoxy-N,N-dimethyltryptamine ; 4-HO-5-MeO-DMT ; Psilomethoxin",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-5-methoxy-1H-indol-4-ol",
+    "category": "Prophetic? \u00b7 Tryptamine",
+    "index": 5375,
+    "formular": "C13H18N2O2",
+    "molecular_weight": 234.294,
+    "inChl": "1S/C13H18N2O2/c1-15(2)7-6-9-8-14-10-4-5-11(17-3)13(16)12(9)10/h4-5,8,14,16H,6-7H2,1-3H3",
+    "InChl_Key": "YTBHRCRBKLRGBT-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN(C)C)c2c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5375",
+    "validation": "m_weight unsave, calculated(234.29899999999998)"
+}

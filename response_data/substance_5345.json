@@ -1,0 +1,13 @@
+{
+    "names": "PHENETH-LAD ; N,N-Diethyl-6-phenethyl-6-norlysergamide ; N-Phenethyl-nor-LSD",
+    "iupac_name": "N,N-Diethyl-6-(2-phenylethyl)-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N,N-Diethyl-7-(2-phenylethyl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N,N-Diethyl-6-(2-phenylethyl)-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 5345,
+    "formular": "C27H31N3O",
+    "molecular_weight": 413.555,
+    "inChl": "1S/C27H31N3O/c1-3-29(4-2)27(31)21-15-23-22-11-8-12-24-26(22)20(17-28-24)16-25(23)30(18-21)14-13-19-9-6-5-7-10-19/h5-12,15,17,21,25,28H,3-4,13-14,16,18H2,1-2H3/t21-,25-/m1/s1",
+    "InChl_Key": "YCWXYUACPTXUEC-PXDATVDWSA-N",
+    "SMILES": "CCN(CC)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(CCc2ccccc2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5345",
+    "validation": "m_weight unsave, calculated(413.5650000000002)"
+}

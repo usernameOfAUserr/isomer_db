@@ -1,0 +1,13 @@
+{
+    "names": "5-Fluoro-MPT ; 5-Fluoro-N-methyl-N-propyltryptamine",
+    "iupac_name": "N-[2-(5-Fluoro-1H-indol-3-yl)ethyl]-N-methylpropan-1-amine",
+    "category": "Tryptamine",
+    "index": 12722,
+    "formular": "C14H19FN2",
+    "molecular_weight": 234.312,
+    "inChl": "1S/C14H19FN2/c1-3-7-17(2)8-6-11-10-16-14-5-4-12(15)9-13(11)14/h4-5,9-10,16H,3,6-8H2,1-2H3",
+    "InChl_Key": "KDURZERAOCTPMF-UHFFFAOYSA-N",
+    "SMILES": "CCCN(C)CCc1c[nH]c2ccc(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12722",
+    "validation": "m_weight unsave, calculated(234.31799999999998)"
+}

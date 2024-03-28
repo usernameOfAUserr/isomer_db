@@ -1,0 +1,13 @@
+{
+    "names": "Tinabinol ; SP-119",
+    "iupac_name": "5,5-Dimethyl-8-(3-methyloctan-2-yl)-1,2,3,5-tetrahydrothiopyrano[2,3-c][1]benzopyran-10-ol",
+    "category": "cannabinodids",
+    "index": 4665,
+    "formular": "C23H34O2S",
+    "molecular_weight": 374.58,
+    "inChl": "1S/C23H34O2S/c1-6-7-8-10-15(2)16(3)17-13-19(24)21-18-11-9-12-26-22(18)23(4,5)25-20(21)14-17/h13-16,24H,6-12H2,1-5H3",
+    "InChl_Key": "YCNTYPIGYVTFBO-UHFFFAOYSA-N",
+    "SMILES": "CCCCCC(C)C(C)c1cc(O)c2c(c1)OC(C)(C)C1=C2CCCS1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4665",
+    "validation": "m_weight unsave, calculated(374.59000000000015)"
+}

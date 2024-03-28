@@ -1,0 +1,13 @@
+{
+    "names": "5-Hexyloxy-NMT ; 5-Hexyloxy-N-methyltryptamine",
+    "iupac_name": "2-[5-(Hexyloxy)-1H-indol-3-yl]-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5863,
+    "formular": "C17H26N2O",
+    "molecular_weight": 274.401,
+    "inChl": "1S/C17H26N2O/c1-3-4-5-6-11-20-15-7-8-17-16(12-15)14(13-19-17)9-10-18-2/h7-8,12-13,18-19H,3-6,9-11H2,1-2H3",
+    "InChl_Key": "YAUPVUHPFUVZMN-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCOc1ccc2[nH]cc(CCNC)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5863",
+    "validation": "m_weight unsave, calculated(274.40799999999996)"
+}

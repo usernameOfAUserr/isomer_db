@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-2,4-DEBAL",
+    "iupac_name": "2,4-Diethoxy-5-methoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 8276,
+    "formular": "C12H16O4",
+    "molecular_weight": 224.253,
+    "inChl": "1S/C12H16O4/c1-4-15-10-7-12(16-5-2)11(14-3)6-9(10)8-13/h6-8H,4-5H2,1-3H3",
+    "InChl_Key": "RKILPBRSIGFYEM-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(OCC)c(OC)cc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8276",
+    "validation": "m_weight unsave, calculated(224.25599999999997)"
+}

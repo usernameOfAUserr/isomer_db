@@ -1,0 +1,13 @@
+{
+    "names": "2-(1,3-Benzoxazol-5-yl)-N-methylethan-1-amine",
+    "iupac_name": "7987 ; C10H12N2O ; 176.215",
+    "category": "data not stored",
+    "index": 7987,
+    "formular": "C10H12N2O",
+    "molecular_weight": 176.215,
+    "inChl": "1S/C10H12N2O/c1-11-5-4-8-2-3-10-9(6-8)12-7-13-10/h2-3,6-7,11H,4-5H2,1H3",
+    "InChl_Key": "SNDGFESQCCPDOE-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1ccc2ocnc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7987",
+    "validation": "m_weight unsave, calculated(176.219)"
+}

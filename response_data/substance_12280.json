@@ -1,0 +1,13 @@
+{
+    "names": "SGT-99",
+    "iupac_name": "N-Cycloheptyl-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 12280,
+    "formular": "C21H29FN2O",
+    "molecular_weight": 344.466,
+    "inChl": "1S/C21H29FN2O/c22-14-8-3-9-15-24-16-19(18-12-6-7-13-20(18)24)21(25)23-17-10-4-1-2-5-11-17/h6-7,12-13,16-17H,1-5,8-11,14-15H2,(H,23,25)",
+    "InChl_Key": "WYZXZJQDPQKKNW-UHFFFAOYSA-N",
+    "SMILES": "O=C(NC1CCCCCC1)c1cn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12280",
+    "validation": "m_weight unsave, calculated(344.4740000000003)"
+}

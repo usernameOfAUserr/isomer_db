@@ -1,0 +1,13 @@
+{
+    "names": "N-Acetyl-3-demethymescaline ; N-Acetyl-3-hydroxy-4,5-dimethoxyphenethylamine",
+    "iupac_name": "N-[2-(3-Hydroxy-4,5-dimethoxyphenyl)ethyl]acetamide",
+    "category": "Peyote alkaloid",
+    "index": 2216,
+    "formular": "C12H17NO4",
+    "molecular_weight": 239.268,
+    "inChl": "1S/C12H17NO4/c1-8(14)13-5-4-9-6-10(15)12(17-3)11(7-9)16-2/h6-7,15H,4-5H2,1-3H3,(H,13,14)",
+    "InChl_Key": "ZNFGGXOHSVDBJW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNC(C)=O)cc(O)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2216",
+    "validation": "m_weight unsave, calculated(239.27099999999993)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-PrS-2,5-DMBAL ; 4-Propylthio-2,5-dimethoxybenzaldehyde",
+    "iupac_name": "2,5-Dimethoxy-4-(propylsulfanyl)benzaldehyde",
+    "category": "data not stored",
+    "index": 1737,
+    "formular": "C12H16O3S",
+    "molecular_weight": 240.319,
+    "inChl": "1S/C12H16O3S/c1-4-5-16-12-7-10(14-2)9(8-13)6-11(12)15-3/h6-8H,4-5H2,1-3H3",
+    "InChl_Key": "VZQMAHCKOWMLMU-UHFFFAOYSA-N",
+    "SMILES": "CCCSc1cc(OC)c(C=O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1737",
+    "validation": "m_weight unsave, calculated(240.32399999999996)"
+}

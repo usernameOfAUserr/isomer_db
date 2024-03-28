@@ -1,0 +1,13 @@
+{
+    "names": "(4-Ethyl-2,5-dimethoxyphenyl)(hydroxy)acetonitrile",
+    "iupac_name": "1758 ; C12H15NO3 ; 221.252",
+    "category": "data not stored",
+    "index": 1758,
+    "formular": "C12H15NO3",
+    "molecular_weight": 221.252,
+    "inChl": "1S/C12H15NO3/c1-4-8-5-12(16-3)9(10(14)7-13)6-11(8)15-2/h5-6,10,14H,4H2,1-3H3",
+    "InChl_Key": "ZPUVWAMKRBCGPD-UHFFFAOYSA-N",
+    "SMILES": "CCc1cc(OC)c(C(O)C#N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1758",
+    "validation": "m_weight unsave, calculated(221.25599999999997)"
+}

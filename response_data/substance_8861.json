@@ -1,0 +1,13 @@
+{
+    "names": "2-MBOP-PFPA",
+    "iupac_name": "2,2,3,3,3-Pentafluoro-1-[4-(2-methylbenzoyl)piperazin-1-yl]propan-1-one",
+    "category": "data not stored",
+    "index": 8861,
+    "formular": "C15H15F5N2O2",
+    "molecular_weight": 350.284,
+    "inChl": "1S/C15H15F5N2O2/c1-10-4-2-3-5-11(10)12(23)21-6-8-22(9-7-21)13(24)14(16,17)15(18,19)20/h2-5H,6-9H2,1H3",
+    "InChl_Key": "JSGVLVFDCBCZPD-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccccc1C(=O)N1CCN(C(=O)C(F)(F)C(F)(F)F)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8861",
+    "validation": "m_weight unsave, calculated(350.28700000000003)"
+}

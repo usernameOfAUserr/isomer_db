@@ -1,0 +1,13 @@
+{
+    "names": "2C-E-FLY",
+    "iupac_name": "2-(8-Ethyl-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 2685,
+    "formular": "C14H19NO2",
+    "molecular_weight": 233.306,
+    "inChl": "1S/C14H19NO2/c1-2-9-11-4-7-17-14(11)10(3-6-15)12-5-8-16-13(9)12/h2-8,15H2,1H3",
+    "InChl_Key": "JLKXEQOGLSSESL-UHFFFAOYSA-N",
+    "SMILES": "CCc1c2c(c(CCN)c3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2685",
+    "validation": "m_weight unsave, calculated(233.31099999999992)"
+}

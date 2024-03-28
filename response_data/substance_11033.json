@@ -1,0 +1,13 @@
+{
+    "names": "(4-Methoxyphenyl)acetaldehyde",
+    "iupac_name": "11033 ; C9H10O2 ; 150.175",
+    "category": "data not stored",
+    "index": 11033,
+    "formular": "C9H10O2",
+    "molecular_weight": 150.175,
+    "inChl": "1S/C9H10O2/c1-11-9-4-2-8(3-5-9)6-7-10/h2-5,7H,6H2,1H3",
+    "InChl_Key": "NRIVMXXOUOBRAG-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CC=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11033",
+    "validation": "m_weight unsave, calculated(150.177)"
+}

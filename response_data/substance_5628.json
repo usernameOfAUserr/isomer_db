@@ -1,0 +1,13 @@
+{
+    "names": "N-Naphth-1-ylethyl-NMT ; N-Naphth-1-ylethyl-N-methyltryptamine",
+    "iupac_name": "2-(1H-Indol-3-yl)-N-methyl-N-[2-(naphthalen-1-yl)ethyl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5628,
+    "formular": "C23H24N2",
+    "molecular_weight": 328.45,
+    "inChl": "1S/C23H24N2/c1-25(16-14-20-17-24-23-12-5-4-11-22(20)23)15-13-19-9-6-8-18-7-2-3-10-21(18)19/h2-12,17,24H,13-16H2,1H3",
+    "InChl_Key": "GXFCBPXCJQIHKD-UHFFFAOYSA-N",
+    "SMILES": "CN(CCc1cccc2ccccc12)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5628",
+    "validation": "m_weight unsave, calculated(328.45900000000006)"
+}

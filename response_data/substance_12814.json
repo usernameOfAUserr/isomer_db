@@ -1,0 +1,13 @@
+{
+    "names": "2C-BIS-TOM NS ; 2,5-Dimethylthio-4-methyl-\u03b2-nitrostyrene",
+    "iupac_name": "1-Methyl-2,5-bis(methylsulfanyl)-4-[(E)-2-nitroethenyl]benzene",
+    "category": "data not stored",
+    "index": 12814,
+    "formular": "C11H13NO2S2",
+    "molecular_weight": 255.356,
+    "inChl": "1S/C11H13NO2S2/c1-8-6-11(16-3)9(4-5-12(13)14)7-10(8)15-2/h4-7H,1-3H3/b5-4+",
+    "InChl_Key": "GWYNDDGKLISKTB-SNAWJCMRSA-N",
+    "SMILES": "CSc1cc(/C=C/[N+](=O)[O-])c(SC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12814",
+    "validation": "m_weight unsave, calculated(255.36399999999998)"
+}

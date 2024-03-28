@@ -1,0 +1,13 @@
+{
+    "names": "2,6-Diethylisoquinuclidine",
+    "iupac_name": "2,6-Diethyl-2-azabicyclo[2.2.2]octane",
+    "category": "data not stored",
+    "index": 11447,
+    "formular": "C11H21N",
+    "molecular_weight": 167.291,
+    "inChl": "1S/C11H21N/c1-3-10-7-9-5-6-11(10)12(4-2)8-9/h9-11H,3-8H2,1-2H3",
+    "InChl_Key": "TUIODDFUADKPTQ-UHFFFAOYSA-N",
+    "SMILES": "CCC1CC2CCC1N(CC)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11447",
+    "validation": "m_weight unsave, calculated(167.29599999999996)"
+}

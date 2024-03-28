@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(3-Methylphenyl)cyclopropyl]methanamine",
+    "iupac_name": "9668 ; C11H15N ; 161.244",
+    "category": "data not stored",
+    "index": 9668,
+    "formular": "C11H15N",
+    "molecular_weight": 161.244,
+    "inChl": "1S/C11H15N/c1-8-3-2-4-9(5-8)11-6-10(11)7-12/h2-5,10-11H,6-7,12H2,1H3",
+    "InChl_Key": "PDGGJTWTUULHJG-UHFFFAOYSA-N",
+    "SMILES": "Cc1cccc(C2CC2CN)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9668",
+    "validation": "m_weight unsave, calculated(161.24799999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Ro-15-4513",
+    "iupac_name": "Ethyl 8-azido-5-methyl-6-oxo-5,6-dihydro-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 3470,
+    "formular": "C15H14N6O3",
+    "molecular_weight": 326.31,
+    "inChl": "1S/C15H14N6O3/c1-3-24-15(23)13-12-7-20(2)14(22)10-6-9(18-19-16)4-5-11(10)21(12)8-17-13/h4-6,8H,3,7H2,1-2H3",
+    "InChl_Key": "CFSOJZTUTOQNIA-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ncn2c1CN(C)C(=O)c1cc(N=[N+]=[N-])ccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3470",
+    "validation": "m_weight unsave, calculated(326.31600000000003)"
+}

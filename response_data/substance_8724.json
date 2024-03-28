@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-indole-3-acetaldehyde",
+    "iupac_name": "(5-Methoxy-1H-indol-3-yl)acetaldehyde",
+    "category": "data not stored",
+    "index": 8724,
+    "formular": "C11H11NO2",
+    "molecular_weight": 189.211,
+    "inChl": "1S/C11H11NO2/c1-14-9-2-3-11-10(6-9)8(4-5-13)7-12-11/h2-3,5-7,12H,4H2,1H3",
+    "InChl_Key": "XVHHCGDXCDKKLH-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CC=O)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8724",
+    "validation": "m_weight unsave, calculated(189.21399999999997)"
+}

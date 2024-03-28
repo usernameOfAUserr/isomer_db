@@ -1,0 +1,13 @@
+{
+    "names": "5-IPrO-pip-T ; 5-Isopropoxy-pip-tryptamine",
+    "iupac_name": "3-[2-(Piperidin-1-yl)ethyl]-5-[(propan-2-yl)oxy]-1H-indole ; 3-[2-(Piperidin-1-yl)ethyl]-5-(propan-2-yloxy)-1H-indole",
+    "category": "Tryptamine",
+    "index": 5878,
+    "formular": "C18H26N2O",
+    "molecular_weight": 286.412,
+    "inChl": "1S/C18H26N2O/c1-14(2)21-16-6-7-18-17(12-16)15(13-19-18)8-11-20-9-4-3-5-10-20/h6-7,12-14,19H,3-5,8-11H2,1-2H3",
+    "InChl_Key": "ZSAAZWTWAAAGGZ-UHFFFAOYSA-N",
+    "SMILES": "CC(C)Oc1ccc2[nH]cc(CCN3CCCCC3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5878",
+    "validation": "m_weight unsave, calculated(286.41899999999987)"
+}

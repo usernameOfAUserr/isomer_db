@@ -1,0 +1,13 @@
+{
+    "names": "Methyl N-{(2E)-3-[4-methoxy-3-(pentyloxy)phenyl]prop-2-enoyl}-L-tyrosinate ; Methyl (2S)-3-(4-hydroxyphenyl)-2-({(2E)-3-[4-methoxy-3-(pentyloxy)phenyl]prop-2-enoyl}amino)propanoate",
+    "iupac_name": "4538 ; C25H31NO6 ; 441.517",
+    "category": "cannabinodids",
+    "index": 4538,
+    "formular": "C25H31NO6",
+    "molecular_weight": 441.517,
+    "inChl": "1S/C25H31NO6/c1-4-5-6-15-32-23-17-19(9-13-22(23)30-2)10-14-24(28)26-21(25(29)31-3)16-18-7-11-20(27)12-8-18/h7-14,17,21,27H,4-6,15-16H2,1-3H3,(H,26,28)/b14-10+/t21-/m0/s1",
+    "InChl_Key": "LGBBTSHNLLSNTC-OQHXPNFOSA-N",
+    "SMILES": "CCCCCOc1cc(/C=C/C(=O)N[C@@H](Cc2ccc(O)cc2)C(=O)OC)ccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4538",
+    "validation": "m_weight unsave, calculated(441.5240000000002)"
+}

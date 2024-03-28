@@ -1,0 +1,13 @@
+{
+    "names": "Naphyrone ; \u03b2-Naphyrone ; Naphthylpyrovalerone ; 2-Naphyrone ; O-2482",
+    "iupac_name": "1-(Naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one",
+    "category": "data not stored",
+    "index": 2347,
+    "formular": "C19H23NO",
+    "molecular_weight": 281.392,
+    "inChl": "1S/C19H23NO/c1-2-7-18(20-12-5-6-13-20)19(21)17-11-10-15-8-3-4-9-16(15)14-17/h3-4,8-11,14,18H,2,5-7,12-13H2,1H3",
+    "InChl_Key": "DTNUPBSOODGRKW-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccc2ccccc2c1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2347",
+    "validation": "m_weight unsave, calculated(281.39900000000006)"
+}

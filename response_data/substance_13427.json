@@ -1,0 +1,13 @@
+{
+    "names": "1-[4-(5-Fluoropentyl)-2,5-dimethoxyphenyl]propan-2-amine",
+    "iupac_name": "13427 ; C16H26FNO2 ; 283.382",
+    "category": "data not stored",
+    "index": 13427,
+    "formular": "C16H26FNO2",
+    "molecular_weight": 283.382,
+    "inChl": "1S/C16H26FNO2/c1-12(18)9-14-11-15(19-2)13(10-16(14)20-3)7-5-4-6-8-17/h10-12H,4-9,18H2,1-3H3",
+    "InChl_Key": "HYYLHVPFNKANJI-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c(OC)cc1CCCCCF",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13427",
+    "validation": "m_weight unsave, calculated(283.387)"
+}

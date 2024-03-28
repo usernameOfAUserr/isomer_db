@@ -1,0 +1,13 @@
+{
+    "names": "4-(3-Methoxyphenyl)-1-(2-phenylethyl)piperidin-4-yl acetate",
+    "iupac_name": "9140 ; C22H27NO3 ; 353.455",
+    "category": "data not stored",
+    "index": 9140,
+    "formular": "C22H27NO3",
+    "molecular_weight": 353.455,
+    "inChl": "1S/C22H27NO3/c1-18(24)26-22(20-9-6-10-21(17-20)25-2)12-15-23(16-13-22)14-11-19-7-4-3-5-8-19/h3-10,17H,11-16H2,1-2H3",
+    "InChl_Key": "RHVNSSZYDBOARU-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(C2(OC(C)=O)CCN(CCc3ccccc3)CC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9140",
+    "validation": "m_weight unsave, calculated(353.462)"
+}

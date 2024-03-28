@@ -1,0 +1,13 @@
+{
+    "names": "Ecgonine",
+    "iupac_name": "(2R,3S)-3-Hydroxy-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylic acid",
+    "category": "data not stored",
+    "index": 3860,
+    "formular": "C9H15NO3",
+    "molecular_weight": 185.22,
+    "inChl": "1S/C9H15NO3/c1-10-5-2-3-6(10)8(9(12)13)7(11)4-5/h5-8,11H,2-4H2,1H3,(H,12,13)/t5?,6?,7-,8+/m0/s1",
+    "InChl_Key": "PHMBVCPLDPDESM-RLXKETGRSA-N",
+    "SMILES": "CN1C2CCC1[C@@H](C(=O)O)[C@@H](O)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3860",
+    "validation": ""
+}

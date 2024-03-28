@@ -1,0 +1,13 @@
+{
+    "names": "CUMYL-PICA ; SGT-56",
+    "iupac_name": "1-Pentyl-N-(2-phenylpropan-2-yl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4586,
+    "formular": "C23H28N2O",
+    "molecular_weight": 348.481,
+    "inChl": "1S/C23H28N2O/c1-4-5-11-16-25-17-20(19-14-9-10-15-21(19)25)22(26)24-23(2,3)18-12-7-6-8-13-18/h6-10,12-15,17H,4-5,11,16H2,1-3H3,(H,24,26)",
+    "InChl_Key": "RCXFMWJQOYCIQU-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NC(C)(C)c2ccccc2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4586",
+    "validation": "m_weight unsave, calculated(348.49000000000007)"
+}

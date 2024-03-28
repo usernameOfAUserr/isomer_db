@@ -1,0 +1,13 @@
+{
+    "names": "Imipramine",
+    "iupac_name": "3-(10,11-Dihydro-5H-dibenzo[b,f]azepin-5-yl)-N,N-dimethylpropan-1-amine",
+    "category": "Phenetylamine",
+    "index": 11014,
+    "formular": "C19H24N2",
+    "molecular_weight": 280.407,
+    "inChl": "1S/C19H24N2/c1-20(2)14-7-15-21-18-10-5-3-8-16(18)12-13-17-9-4-6-11-19(17)21/h3-6,8-11H,7,12-15H2,1-2H3",
+    "InChl_Key": "BCGWQEUPMDMJNV-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCCN1c2ccccc2CCc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11014",
+    "validation": "m_weight unsave, calculated(280.415)"
+}

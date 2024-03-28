@@ -1,0 +1,13 @@
+{
+    "names": "N-[(6-Methylergolin-8\u03b2-yl)methyl]benzamide ; N-{[(6aR,9S,10aR)-7-Methyl-4,6,6a,7,8,9,10,10a-octahydroindolo[4,3-fg]quinolin-9-yl]methyl}benzamide ; N-{[(8\u03b2)-6-Methylergolin-8-yl]methyl}benzamide",
+    "iupac_name": "5296 ; C23H25N3O ; 359.464",
+    "category": "data not stored",
+    "index": 5296,
+    "formular": "C23H25N3O",
+    "molecular_weight": 359.464,
+    "inChl": "1S/C23H25N3O/c1-26-14-15(12-25-23(27)16-6-3-2-4-7-16)10-19-18-8-5-9-20-22(18)17(13-24-20)11-21(19)26/h2-9,13,15,19,21,24H,10-12,14H2,1H3,(H,25,27)/t15-,19+,21+/m0/s1",
+    "InChl_Key": "MJSUQPQBXGYQHP-NYSBEXSLSA-N",
+    "SMILES": "CN1C[C@H](CNC(=O)c2ccccc2)C[C@@H]2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5296",
+    "validation": "m_weight unsave, calculated(359.4730000000001)"
+}

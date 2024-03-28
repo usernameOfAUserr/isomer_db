@@ -1,0 +1,13 @@
+{
+    "names": "2-[4-(4-Phenylpiperazin-1-yl)butyl]-1H-isoindole-1,3(2H)-dione",
+    "iupac_name": "3809 ; C22H25N3O2 ; 363.453",
+    "category": "data not stored",
+    "index": 3809,
+    "formular": "C22H25N3O2",
+    "molecular_weight": 363.453,
+    "inChl": "1S/C22H25N3O2/c26-21-19-10-4-5-11-20(19)22(27)25(21)13-7-6-12-23-14-16-24(17-15-23)18-8-2-1-3-9-18/h1-5,8-11H,6-7,12-17H2",
+    "InChl_Key": "NTZGJPKDNJJWLR-UHFFFAOYSA-N",
+    "SMILES": "O=C1c2ccccc2C(=O)N1CCCCN1CCN(c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3809",
+    "validation": "m_weight unsave, calculated(363.4610000000001)"
+}

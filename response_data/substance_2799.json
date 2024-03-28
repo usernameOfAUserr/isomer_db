@@ -1,0 +1,13 @@
+{
+    "names": "Fenproporex ; N-(2-Cyanoethyl)amphetamine",
+    "iupac_name": "3-[(1-Phenylpropan-2-yl)amino]propanenitrile",
+    "category": "Phenetylamine",
+    "index": 2799,
+    "formular": "C12H16N2",
+    "molecular_weight": 188.269,
+    "inChl": "1S/C12H16N2/c1-11(14-9-5-8-13)10-12-6-3-2-4-7-12/h2-4,6-7,11,14H,5,9-10H2,1H3",
+    "InChl_Key": "IQUFSXIQAFPIMR-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NCCC#N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2799",
+    "validation": "m_weight unsave, calculated(188.27399999999994)"
+}

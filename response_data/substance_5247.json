@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-DMHT",
+    "iupac_name": "3-[3-(Dimethylamino)propyl]-1H-indol-4-ol",
+    "category": "data not stored",
+    "index": 5247,
+    "formular": "C13H18N2O",
+    "molecular_weight": 218.295,
+    "inChl": "1S/C13H18N2O/c1-15(2)8-4-5-10-9-14-11-6-3-7-12(16)13(10)11/h3,6-7,9,14,16H,4-5,8H2,1-2H3",
+    "InChl_Key": "IBSZSSDQXMYZOZ-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCCc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5247",
+    "validation": "m_weight unsave, calculated(218.3)"
+}

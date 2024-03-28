@@ -1,0 +1,13 @@
+{
+    "names": "1,2,4-Trimethoxy-3-(prop-2-en-1-yl)benzene",
+    "iupac_name": "11144 ; C12H16O3 ; 208.254",
+    "category": "data not stored",
+    "index": 11144,
+    "formular": "C12H16O3",
+    "molecular_weight": 208.254,
+    "inChl": "1S/C12H16O3/c1-5-6-9-10(13-2)7-8-11(14-3)12(9)15-4/h5,7-8H,1,6H2,2-4H3",
+    "InChl_Key": "VHSOIUOCCUTMHM-UHFFFAOYSA-N",
+    "SMILES": "C=CCc1c(OC)ccc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11144",
+    "validation": "m_weight unsave, calculated(208.25699999999995)"
+}

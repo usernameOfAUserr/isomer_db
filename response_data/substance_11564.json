@@ -1,0 +1,13 @@
+{
+    "names": "SGT-137",
+    "iupac_name": "N-Cycloheptyl-1-pentyl-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11564,
+    "formular": "C21H30N2O",
+    "molecular_weight": 326.476,
+    "inChl": "1S/C21H30N2O/c1-2-3-10-15-23-16-19(18-13-8-9-14-20(18)23)21(24)22-17-11-6-4-5-7-12-17/h8-9,13-14,16-17H,2-7,10-12,15H2,1H3,(H,22,24)",
+    "InChl_Key": "IKEOJPMBMJCBHX-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NC2CCCCCC2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11564",
+    "validation": "m_weight unsave, calculated(326.48400000000026)"
+}

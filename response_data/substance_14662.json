@@ -1,0 +1,13 @@
+{
+    "names": "N-HO-TMA",
+    "iupac_name": "N-Hydroxy-1-(3,4,5-trimethoxyphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 14662,
+    "formular": "C12H19NO4",
+    "molecular_weight": 241.284,
+    "inChl": "1S/C12H19NO4/c1-8(13-14)5-9-6-10(15-2)12(17-4)11(7-9)16-3/h6-8,13-14H,5H2,1-4H3",
+    "InChl_Key": "MYZIHEGPXFBUII-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)NO)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14662",
+    "validation": "m_weight unsave, calculated(241.28699999999998)"
+}

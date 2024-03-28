@@ -1,0 +1,13 @@
+{
+    "names": "BOAD ; \u03b2-Acetoxy-2,5-dimethoxy-4-methylphenethylamine",
+    "iupac_name": "2-Amino-1-(2,5-dimethoxy-4-methylphenyl)ethyl acetate",
+    "category": "data not stored",
+    "index": 2065,
+    "formular": "C13H19NO4",
+    "molecular_weight": 253.294,
+    "inChl": "1S/C13H19NO4/c1-8-5-12(17-4)10(6-11(8)16-3)13(7-14)18-9(2)15/h5-6,13H,7,14H2,1-4H3",
+    "InChl_Key": "FTJLCPGTLLANAU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(CN)OC(C)=O)c(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2065",
+    "validation": "m_weight unsave, calculated(253.29799999999994)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "SGT-76",
+    "iupac_name": "N-Benzyl-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11295,
+    "formular": "C20H22FN3O",
+    "molecular_weight": 339.407,
+    "inChl": "1S/C20H22FN3O/c21-13-7-2-8-14-24-18-12-6-5-11-17(18)19(23-24)20(25)22-15-16-9-3-1-4-10-16/h1,3-6,9-12H,2,7-8,13-15H2,(H,22,25)",
+    "InChl_Key": "OPNURBALKWDLQM-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCc1ccccc1)c1nn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11295",
+    "validation": "m_weight unsave, calculated(339.4140000000001)"
+}

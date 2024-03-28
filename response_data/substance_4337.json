@@ -1,0 +1,13 @@
+{
+    "names": "JWH-366",
+    "iupac_name": "(Naphthalen-1-yl)[1-pentyl-5-(pyridin-3-yl)-1H-pyrrol-3-yl]methanone",
+    "category": "cannabinodids",
+    "index": 4337,
+    "formular": "C25H24N2O",
+    "molecular_weight": 368.471,
+    "inChl": "1S/C25H24N2O/c1-2-3-6-15-27-18-21(16-24(27)20-11-8-14-26-17-20)25(28)23-13-7-10-19-9-4-5-12-22(19)23/h4-5,7-14,16-18H,2-3,6,15H2,1H3",
+    "InChl_Key": "MPQYTRCOFXNOTB-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2cccc3ccccc23)cc1-c1cccnc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4337",
+    "validation": "m_weight unsave, calculated(368.4800000000001)"
+}

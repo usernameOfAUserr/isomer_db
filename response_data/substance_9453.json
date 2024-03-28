@@ -1,0 +1,13 @@
+{
+    "names": "6-MAM ; 6-Acetylmorphine ; 6-Monoacetylmorphine",
+    "iupac_name": "3-Hydroxy-17-methyl-7,8-didehydro-4,5\u03b1-epoxymorphinan-6\u03b1-yl acetate ; (4R,4aR,7S,7aR,12bS)-9-Hydroxy-3-methyl-2,3,4,4a,7,7a-hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinolin-7-yl acetate ; (5\u03b1,6\u03b1)-3-Hydroxy-17-methyl-7,8-didehydro-4,5-epoxymorphinan-6-yl acetate",
+    "category": "data not stored",
+    "index": 9453,
+    "formular": "C19H21NO4",
+    "molecular_weight": 327.374,
+    "inChl": "1S/C19H21NO4/c1-10(21)23-15-6-4-12-13-9-11-3-5-14(22)17-16(11)19(12,18(15)24-17)7-8-20(13)2/h3-6,12-13,15,18,22H,7-9H2,1-2H3/t12-,13+,15-,18-,19-/m0/s1",
+    "InChl_Key": "JJGYGPZNTOPXGV-SSTWWWIQSA-N",
+    "SMILES": "CC(=O)O[C@H]1C=C[C@H]2[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3C)[C@H]1O5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9453",
+    "validation": "m_weight unsave, calculated(327.38)"
+}

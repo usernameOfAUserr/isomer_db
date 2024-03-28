@@ -1,0 +1,13 @@
+{
+    "names": "IDRA-21",
+    "iupac_name": "7-Chloro-3-methyl-3,4-dihydro-1\u03bb6,2,4-benzothiadiazine-1,1(2H)-dione",
+    "category": "data not stored",
+    "index": 3936,
+    "formular": "C8H9ClN2O2S",
+    "molecular_weight": 232.687,
+    "inChl": "1S/C8H9ClN2O2S/c1-5-10-7-3-2-6(9)4-8(7)14(12,13)11-5/h2-5,10-11H,1H3",
+    "InChl_Key": "VZRNTCHTJRLTMU-UHFFFAOYSA-N",
+    "SMILES": "CC1Nc2ccc(Cl)cc2S(=O)(=O)N1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3936",
+    "validation": "m_weight unsave, calculated(232.69199999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "PPAP ; N,\u03b1-Dipropylphenethylamine ; 1-Phenyl-2-propylaminopentane ; Phenylpropylaminopentane",
+    "iupac_name": "1-Phenyl-N-propylpentan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10771,
+    "formular": "C14H23N",
+    "molecular_weight": 205.339,
+    "inChl": "1S/C14H23N/c1-3-8-14(15-11-4-2)12-13-9-6-5-7-10-13/h5-7,9-10,14-15H,3-4,8,11-12H2,1-2H3",
+    "InChl_Key": "PBENSVGEGPJNFJ-UHFFFAOYSA-N",
+    "SMILES": "CCCNC(CCC)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10771",
+    "validation": "m_weight unsave, calculated(205.34499999999997)"
+}

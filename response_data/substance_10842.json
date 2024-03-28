@@ -1,0 +1,13 @@
+{
+    "names": "1-(2-Phenylethyl)aziridine",
+    "iupac_name": "10842 ; C10H13N ; 147.217",
+    "category": "Phenetylamine",
+    "index": 10842,
+    "formular": "C10H13N",
+    "molecular_weight": 147.217,
+    "inChl": "1S/C10H13N/c1-2-4-10(5-3-1)6-7-11-8-9-11/h1-5H,6-9H2",
+    "InChl_Key": "QSHMWSLFNQLCNI-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(CCN2CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10842",
+    "validation": "m_weight unsave, calculated(147.22099999999998)"
+}

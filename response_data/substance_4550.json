@@ -1,0 +1,13 @@
+{
+    "names": "(Octahydroisoquinolin-2(1H)-yl)[4-(propan-2-yl)-3-(pyrrolidine-1-sulfonyl)phenyl]methanone",
+    "iupac_name": "4550 ; C23H34N2O3S ; 418.593",
+    "category": "cannabinodids",
+    "index": 4550,
+    "formular": "C23H34N2O3S",
+    "molecular_weight": 418.593,
+    "inChl": "1S/C23H34N2O3S/c1-17(2)21-10-9-19(15-22(21)29(27,28)25-12-5-6-13-25)23(26)24-14-11-18-7-3-4-8-20(18)16-24/h9-10,15,17-18,20H,3-8,11-14,16H2,1-2H3",
+    "InChl_Key": "IXSAAPAZRZURIH-UHFFFAOYSA-N",
+    "SMILES": "CC(C)c1ccc(C(=O)N2CCC3CCCCC3C2)cc1S(=O)(=O)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4550",
+    "validation": "m_weight unsave, calculated(418.6030000000003)"
+}

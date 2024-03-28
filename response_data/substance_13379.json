@@ -1,0 +1,13 @@
+{
+    "names": "6-Chloro-5-fluoro-EPT ; 6-Chloro-5-fluoro-N-ethyl-N-propyltryptamine",
+    "iupac_name": "N-[2-(6-Chloro-5-fluoro-1H-indol-3-yl)ethyl]-N-ethylpropan-1-amine",
+    "category": "Tryptamine",
+    "index": 13379,
+    "formular": "C15H20ClFN2",
+    "molecular_weight": 282.784,
+    "inChl": "1S/C15H20ClFN2/c1-3-6-19(4-2)7-5-11-10-18-15-9-13(16)14(17)8-12(11)15/h8-10,18H,3-7H2,1-2H3",
+    "InChl_Key": "JVEXKIAZZPFMTA-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CC)CCc1c[nH]c2cc(Cl)c(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13379",
+    "validation": "m_weight unsave, calculated(282.79)"
+}

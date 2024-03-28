@@ -1,0 +1,13 @@
+{
+    "names": "5F-Granisetron ; SGT-63",
+    "iupac_name": "1-(5-Fluoropentyl)-N-[(1R,3r,5S)-9-methyl-9-azabicyclo[3.3.1]nonan-3-yl]-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 8158,
+    "formular": "C22H31FN4O",
+    "molecular_weight": 386.506,
+    "inChl": "1S/C22H31FN4O/c1-26-17-8-7-9-18(26)15-16(14-17)24-22(28)21-19-10-3-4-11-20(19)27(25-21)13-6-2-5-12-23/h3-4,10-11,16-18H,2,5-9,12-15H2,1H3,(H,24,28)/t16-,17+,18-",
+    "InChl_Key": "MRXSJQYUFKTZAY-BCDXTJNWSA-N",
+    "SMILES": "CN1[C@@H]2CCC[C@H]1C[C@@H](NC(=O)c1nn(CCCCCF)c3ccccc13)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8158",
+    "validation": "m_weight unsave, calculated(386.51500000000027)"
+}

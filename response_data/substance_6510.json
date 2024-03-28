@@ -1,0 +1,13 @@
+{
+    "names": "N-(Adamantan-1-yl)-4-ethoxy-6-(piperazin-1-yl)-1,3,5-triazin-2-amine",
+    "iupac_name": "6510 ; C19H30N6O ; 358.481",
+    "category": "cannabinodids",
+    "index": 6510,
+    "formular": "C19H30N6O",
+    "molecular_weight": 358.481,
+    "inChl": "1S/C19H30N6O/c1-2-26-18-22-16(21-17(23-18)25-5-3-20-4-6-25)24-19-10-13-7-14(11-19)9-15(8-13)12-19/h13-15,20H,2-12H2,1H3,(H,21,22,23,24)",
+    "InChl_Key": "REFZOSNARXNBDE-UHFFFAOYSA-N",
+    "SMILES": "CCOc1nc(NC23CC4CC(CC(C4)C2)C3)nc(N2CCNCC2)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6510",
+    "validation": "m_weight unsave, calculated(358.4900000000002)"
+}

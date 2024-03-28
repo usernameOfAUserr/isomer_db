@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1,\u03b2-Oxo-DMT ; \u03b1,\u03b2-Oxo-N,N-dimethyltryptamine ; N,N-Dimethylindole-3-glyoxylamide ; 3-Indolylglyoxyldimethylamide",
+    "iupac_name": "2-(1H-Indol-3-yl)-N,N-dimethyl-2-oxoacetamide",
+    "category": "Tryptamine",
+    "index": 3880,
+    "formular": "C12H12N2O2",
+    "molecular_weight": 216.236,
+    "inChl": "1S/C12H12N2O2/c1-14(2)12(16)11(15)9-7-13-10-6-4-3-5-8(9)10/h3-7,13H,1-2H3",
+    "InChl_Key": "FIUGYEVWNQNDDO-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C(=O)C(=O)c1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3880",
+    "validation": "m_weight unsave, calculated(216.24)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "p-Hydroxybutyrylfentanyl ; 4-HO-BF ; 4\u2032-Hydroxybutyrylfentanyl",
+    "iupac_name": "N-(4-Hydroxyphenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]butanamide",
+    "category": "Fentanyl",
+    "index": 2693,
+    "formular": "C23H30N2O2",
+    "molecular_weight": 366.497,
+    "inChl": "1S/C23H30N2O2/c1-2-6-23(27)25(20-9-11-22(26)12-10-20)21-14-17-24(18-15-21)16-13-19-7-4-3-5-8-19/h3-5,7-12,21,26H,2,6,13-18H2,1H3",
+    "InChl_Key": "HMPNQEXOJZKKKE-UHFFFAOYSA-N",
+    "SMILES": "CCCC(=O)N(c1ccc(O)cc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2693",
+    "validation": "m_weight unsave, calculated(366.5050000000001)"
+}

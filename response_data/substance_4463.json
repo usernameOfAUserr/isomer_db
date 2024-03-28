@@ -1,0 +1,13 @@
+{
+    "names": "Drinabant ; AVE-1625",
+    "iupac_name": "N-{1-[Bis(4-chlorophenyl)methyl]azetidin-3-yl}-N-(3,5-difluorophenyl)methanesulfonamide",
+    "category": "cannabinodids",
+    "index": 4463,
+    "formular": "C23H20Cl2F2N2O2S",
+    "molecular_weight": 497.385,
+    "inChl": "1S/C23H20Cl2F2N2O2S/c1-32(30,31)29(21-11-19(26)10-20(27)12-21)22-13-28(14-22)23(15-2-6-17(24)7-3-15)16-4-8-18(25)9-5-16/h2-12,22-23H,13-14H2,1H3",
+    "InChl_Key": "IQQBRKLVEALROM-UHFFFAOYSA-N",
+    "SMILES": "CS(=O)(=O)N(c1cc(F)cc(F)c1)C1CN(C(c2ccc(Cl)cc2)c2ccc(Cl)cc2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4463",
+    "validation": "m_weight unsave, calculated(497.39400000000023)"
+}

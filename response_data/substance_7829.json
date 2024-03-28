@@ -1,0 +1,13 @@
+{
+    "names": "7-Benzyloxy-iso-DMT ; 7-Benzyloxy-N,N-dimethyl-isotryptamine",
+    "iupac_name": "2-[7-(Benzyloxy)-1H-indol-1-yl]-N,N-dimethylethan-1-amine",
+    "category": "data not stored",
+    "index": 7829,
+    "formular": "C19H22N2O",
+    "molecular_weight": 294.391,
+    "inChl": "1S/C19H22N2O/c1-20(2)13-14-21-12-11-17-9-6-10-18(19(17)21)22-15-16-7-4-3-5-8-16/h3-12H,13-15H2,1-2H3",
+    "InChl_Key": "KTFUEIYNEDJRTI-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCn1ccc2cccc(OCc3ccccc3)c21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7829",
+    "validation": "m_weight unsave, calculated(294.398)"
+}

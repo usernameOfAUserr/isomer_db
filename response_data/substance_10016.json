@@ -1,0 +1,13 @@
+{
+    "names": "3,5-Bis(1,1,2,2-tetrafluoroethoxy)phenethylamine",
+    "iupac_name": "2-[3,5-Bis(1,1,2,2-tetrafluoroethoxy)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10016,
+    "formular": "C12H11F8NO2",
+    "molecular_weight": 353.208,
+    "inChl": "1S/C12H11F8NO2/c13-9(14)11(17,18)22-7-3-6(1-2-21)4-8(5-7)23-12(19,20)10(15)16/h3-5,9-10H,1-2,21H2",
+    "InChl_Key": "OLKYMJUWNYAIQI-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cc(OC(F)(F)C(F)F)cc(OC(F)(F)C(F)F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10016",
+    "validation": "m_weight unsave, calculated(353.2089999999999)"
+}

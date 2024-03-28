@@ -1,0 +1,13 @@
+{
+    "names": "Amfecloral",
+    "iupac_name": "(1E)-2,2,2-Trichloro-N-(1-phenylpropan-2-yl)ethan-1-imine",
+    "category": "Phenetylamine",
+    "index": 10691,
+    "formular": "C11H12Cl3N",
+    "molecular_weight": 264.579,
+    "inChl": "1S/C11H12Cl3N/c1-9(15-8-11(12,13)14)7-10-5-3-2-4-6-10/h2-6,8-9H,7H2,1H3/b15-8+",
+    "InChl_Key": "VBZDETYCYXPOAK-OVCLIPMQSA-N",
+    "SMILES": "CC(Cc1ccccc1)/N=C/C(Cl)(Cl)Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10691",
+    "validation": "m_weight unsave, calculated(264.58299999999997)"
+}

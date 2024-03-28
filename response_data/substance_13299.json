@@ -1,0 +1,13 @@
+{
+    "names": "5CP",
+    "iupac_name": "N-{5-Bromo-1-[(4-fluorophenyl)methyl]-4-hydroxy-6-methyl-2-oxo-1,2-dihydropyridin-3-yl}cycloheptanecarboxamide",
+    "category": "data not stored",
+    "index": 13299,
+    "formular": "C21H24BrFN2O3",
+    "molecular_weight": 451.329,
+    "inChl": "1S/C21H24BrFN2O3/c1-13-17(22)19(26)18(24-20(27)15-6-4-2-3-5-7-15)21(28)25(13)12-14-8-10-16(23)11-9-14/h8-11,15,26H,2-7,12H2,1H3,(H,24,27)",
+    "InChl_Key": "MVMPUMZUXRLLAZ-UHFFFAOYSA-N",
+    "SMILES": "Cc1c(Br)c(O)c(NC(=O)C2CCCCCC2)c(=O)n1Cc1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13299",
+    "validation": "m_weight unsave, calculated(451.3360000000002)"
+}

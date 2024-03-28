@@ -1,0 +1,13 @@
+{
+    "names": "N-5984",
+    "iupac_name": "6-(2-{[2-(3-Chlorophenyl)-2-hydroxyethyl]amino}propyl)-2,3-dihydro-1,4-benzodioxine-2-carboxylic acid",
+    "category": "data not stored",
+    "index": 9750,
+    "formular": "C20H22ClNO5",
+    "molecular_weight": 391.845,
+    "inChl": "1S/C20H22ClNO5/c1-12(22-10-16(23)14-3-2-4-15(21)9-14)7-13-5-6-17-18(8-13)26-11-19(27-17)20(24)25/h2-6,8-9,12,16,19,22-23H,7,10-11H2,1H3,(H,24,25)",
+    "InChl_Key": "XSOXUIXLUNBLJA-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccc2c(c1)OCC(C(=O)O)O2)NCC(O)c1cccc(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9750",
+    "validation": "m_weight unsave, calculated(391.85100000000006)"
+}

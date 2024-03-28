@@ -1,0 +1,13 @@
+{
+    "names": "LY-404187",
+    "iupac_name": "N-[2-(4\u2032-Cyano[1,1\u2032-biphenyl]-4-yl)propyl]propane-2-sulfonamide",
+    "category": "data not stored",
+    "index": 3728,
+    "formular": "C19H22N2O2S",
+    "molecular_weight": 342.455,
+    "inChl": "1S/C19H22N2O2S/c1-14(2)24(22,23)21-13-15(3)17-8-10-19(11-9-17)18-6-4-16(12-20)5-7-18/h4-11,14-15,21H,13H2,1-3H3",
+    "InChl_Key": "HOQAVGZLYRYHSO-UHFFFAOYSA-N",
+    "SMILES": "CC(CNS(=O)(=O)C(C)C)c1ccc(-c2ccc(C#N)cc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3728",
+    "validation": "m_weight unsave, calculated(342.4640000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-T-NB ; N-Benzyl-5-methoxytryptamine",
+    "iupac_name": "N-Benzyl-2-(5-methoxy-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5560,
+    "formular": "C18H20N2O",
+    "molecular_weight": 280.364,
+    "inChl": "1S/C18H20N2O/c1-21-16-7-8-18-17(11-16)15(13-20-18)9-10-19-12-14-5-3-2-4-6-14/h2-8,11,13,19-20H,9-10,12H2,1H3",
+    "InChl_Key": "FQRAHCLOFRBKKA-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCNCc3ccccc3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5560",
+    "validation": "m_weight unsave, calculated(280.371)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-MeO-PBCHPr",
+    "iupac_name": "2-(3-Methoxyphenyl)-N-propylbicyclo[2.2.1]heptan-2-amine",
+    "category": "Arylcycloalkylamine",
+    "index": 1726,
+    "formular": "C17H25NO",
+    "molecular_weight": 259.387,
+    "inChl": "1S/C17H25NO/c1-3-9-18-17(12-13-7-8-15(17)10-13)14-5-4-6-16(11-14)19-2/h4-6,11,13,15,18H,3,7-10,12H2,1-2H3",
+    "InChl_Key": "PUEITRQWYWXDNI-UHFFFAOYSA-N",
+    "SMILES": "CCCNC1(c2cccc(OC)c2)CC2CCC1C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1726",
+    "validation": "m_weight unsave, calculated(259.393)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-BuO-BAL",
+    "iupac_name": "2-Butoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 11128,
+    "formular": "C11H14O2",
+    "molecular_weight": 178.228,
+    "inChl": "1S/C11H14O2/c1-2-3-8-13-11-7-5-4-6-10(11)9-12/h4-7,9H,2-3,8H2,1H3",
+    "InChl_Key": "FSMCOBJDZVRWIZ-UHFFFAOYSA-N",
+    "SMILES": "CCCCOc1ccccc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11128",
+    "validation": "m_weight unsave, calculated(178.23099999999997)"
+}

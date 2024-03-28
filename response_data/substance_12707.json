@@ -1,0 +1,13 @@
+{
+    "names": "(iso) Muscimol",
+    "iupac_name": "3-(Aminomethyl)-1,2-oxazol-5-ol",
+    "category": "data not stored",
+    "index": 12707,
+    "formular": "C4H6N2O2",
+    "molecular_weight": 114.103,
+    "inChl": "1S/C4H6N2O2/c5-2-3-1-4(7)8-6-3/h1,7H,2,5H2",
+    "InChl_Key": "CDJUWFWWVBYRRC-UHFFFAOYSA-N",
+    "SMILES": "NCc1cc(O)on1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12707",
+    "validation": "m_weight unsave, calculated(114.10399999999998)"
+}

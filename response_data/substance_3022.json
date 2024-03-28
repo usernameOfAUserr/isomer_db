@@ -1,0 +1,13 @@
+{
+    "names": "Medazepam",
+    "iupac_name": "7-Chloro-1-methyl-5-phenyl-2,3-dihydro-1H-1,4-benzodiazepine",
+    "category": "Aryldiazepine",
+    "index": 3022,
+    "formular": "C16H15ClN2",
+    "molecular_weight": 270.757,
+    "inChl": "1S/C16H15ClN2/c1-19-10-9-18-16(12-5-3-2-4-6-12)14-11-13(17)7-8-15(14)19/h2-8,11H,9-10H2,1H3",
+    "InChl_Key": "YLCXGBZIZBEVPZ-UHFFFAOYSA-N",
+    "SMILES": "CN1CCN=C(c2ccccc2)c2cc(Cl)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3022",
+    "validation": "m_weight unsave, calculated(270.763)"
+}

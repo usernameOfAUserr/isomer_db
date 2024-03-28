@@ -1,0 +1,13 @@
+{
+    "names": "5F-THJ",
+    "iupac_name": "1-(5-Fluoropentyl)-N-(quinolin-8-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4692,
+    "formular": "C22H21FN4O",
+    "molecular_weight": 376.427,
+    "inChl": "1S/C22H21FN4O/c23-13-4-1-5-15-27-19-12-3-2-10-17(19)21(26-27)22(28)25-18-11-6-8-16-9-7-14-24-20(16)18/h2-3,6-12,14H,1,4-5,13,15H2,(H,25,28)",
+    "InChl_Key": "GMRIDDSOZRLMAN-UHFFFAOYSA-N",
+    "SMILES": "O=C(Nc1cccc2cccnc12)c1nn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4692",
+    "validation": "m_weight unsave, calculated(376.4350000000001)"
+}

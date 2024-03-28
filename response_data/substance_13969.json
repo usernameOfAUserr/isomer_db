@@ -1,0 +1,13 @@
+{
+    "names": "Betamethadol",
+    "iupac_name": "(3S,6R)-6-(Dimethylamino)-4,4-diphenylheptan-3-ol",
+    "category": "data not stored",
+    "index": 13969,
+    "formular": "C21H29NO",
+    "molecular_weight": 311.461,
+    "inChl": "1S/C21H29NO/c1-5-20(23)21(16-17(2)22(3)4,18-12-8-6-9-13-18)19-14-10-7-11-15-19/h6-15,17,20,23H,5,16H2,1-4H3/t17-,20+/m1/s1",
+    "InChl_Key": "QIRAYNIFEOXSPW-XLIONFOSSA-N",
+    "SMILES": "CC[C@H](O)C(C[C@@H](C)N(C)C)(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13969",
+    "validation": "m_weight unsave, calculated(311.46900000000005)"
+}

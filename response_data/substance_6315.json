@@ -1,0 +1,13 @@
+{
+    "names": "N-iPr-PMA ; N-Isopropyl-4-methoxyamphetamine",
+    "iupac_name": "1-(4-Methoxyphenyl)-N-(propan-2-yl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 6315,
+    "formular": "C13H21NO",
+    "molecular_weight": 207.312,
+    "inChl": "1S/C13H21NO/c1-10(2)14-11(3)9-12-5-7-13(15-4)8-6-12/h5-8,10-11,14H,9H2,1-4H3",
+    "InChl_Key": "ZVXCCHCSWMVPDW-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CC(C)NC(C)C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6315",
+    "validation": "m_weight unsave, calculated(207.317)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-Amino-1-(1H-pyrrol-3-yl)propan-1-ol",
+    "iupac_name": "10933 ; C7H12N2O ; 140.183",
+    "category": "Phenetylamine",
+    "index": 10933,
+    "formular": "C7H12N2O",
+    "molecular_weight": 140.183,
+    "inChl": "1S/C7H12N2O/c1-5(8)7(10)6-2-3-9-4-6/h2-5,7,9-10H,8H2,1H3",
+    "InChl_Key": "DLFXYNSVLPWKNR-UHFFFAOYSA-N",
+    "SMILES": "CC(N)C(O)c1cc[nH]c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10933",
+    "validation": "m_weight unsave, calculated(140.18599999999995)"
+}

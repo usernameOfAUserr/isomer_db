@@ -1,0 +1,13 @@
+{
+    "names": "Prosidol",
+    "iupac_name": "1-(2-Ethoxyethyl)-4-phenylpiperidin-4-yl propanoate",
+    "category": "data not stored",
+    "index": 3293,
+    "formular": "C18H27NO3",
+    "molecular_weight": 305.412,
+    "inChl": "1S/C18H27NO3/c1-3-17(20)22-18(16-8-6-5-7-9-16)10-12-19(13-11-18)14-15-21-4-2/h5-9H,3-4,10-15H2,1-2H3",
+    "InChl_Key": "IOLPYQBYMPDUNK-UHFFFAOYSA-N",
+    "SMILES": "CCOCCN1CCC(OC(=O)CC)(c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3293",
+    "validation": "m_weight unsave, calculated(305.41799999999995)"
+}

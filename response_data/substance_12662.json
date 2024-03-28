@@ -1,0 +1,13 @@
+{
+    "names": "6,7-Dimethoxy-3,4-dihydroisoquinolin-8-ol",
+    "iupac_name": "12662 ; C11H13NO3 ; 207.226",
+    "category": "data not stored",
+    "index": 12662,
+    "formular": "C11H13NO3",
+    "molecular_weight": 207.226,
+    "inChl": "1S/C11H13NO3/c1-14-9-5-7-3-4-12-6-8(7)10(13)11(9)15-2/h5-6,13H,3-4H2,1-2H3",
+    "InChl_Key": "DENICYLUHIGMFN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(c(O)c1OC)C=NCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12662",
+    "validation": "m_weight unsave, calculated(207.22899999999998)"
+}

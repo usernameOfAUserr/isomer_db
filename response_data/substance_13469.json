@@ -1,0 +1,13 @@
+{
+    "names": "1-(2-Methoxy-4-propylphenyl)propan-2-amine",
+    "iupac_name": "13469 ; C13H21NO ; 207.312",
+    "category": "data not stored",
+    "index": 13469,
+    "formular": "C13H21NO",
+    "molecular_weight": 207.312,
+    "inChl": "1S/C13H21NO/c1-4-5-11-6-7-12(8-10(2)14)13(9-11)15-3/h6-7,9-10H,4-5,8,14H2,1-3H3",
+    "InChl_Key": "GFPXSGQMBBEBKA-UHFFFAOYSA-N",
+    "SMILES": "CCCc1ccc(CC(C)N)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13469",
+    "validation": "m_weight unsave, calculated(207.31699999999995)"
+}

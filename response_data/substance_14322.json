@@ -1,0 +1,13 @@
+{
+    "names": "N-Methylcorypalline",
+    "iupac_name": "7-Hydroxy-6-methoxy-2,2-dimethyl-1,2,3,4-tetrahydroisoquinolin-2-ium",
+    "category": "data not stored",
+    "index": 14322,
+    "formular": "C12H17NO2",
+    "molecular_weight": 207.269,
+    "inChl": "1S/C12H17NO2/c1-13(2)5-4-9-7-12(15-3)11(14)6-10(9)8-13/h6-7H,4-5,8H2,1-3H3/p+1",
+    "InChl_Key": "FJYMEJHMGFINTD-UHFFFAOYSA-O",
+    "SMILES": "COc1cc2c(cc1O)C[N+](C)(C)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14322",
+    "validation": "m_weight unsave, calculated(208.281)formular unsave, calculated(C12H18NO2+)"
+}

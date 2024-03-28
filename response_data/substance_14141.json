@@ -1,0 +1,13 @@
+{
+    "names": "1-Phenylbicyclo[1.1.0]butan-2-amine",
+    "iupac_name": "14141 ; C10H11N ; 145.201",
+    "category": "data not stored",
+    "index": 14141,
+    "formular": "C10H11N",
+    "molecular_weight": 145.201,
+    "inChl": "1S/C10H11N/c11-9-8-6-10(8,9)7-4-2-1-3-5-7/h1-5,8-9H,6,11H2",
+    "InChl_Key": "XMHLLNPOYHTKQX-UHFFFAOYSA-N",
+    "SMILES": "NC1C2CC12c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14141",
+    "validation": "m_weight unsave, calculated(145.20499999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "WAY-163909",
+    "iupac_name": "(7bR,10aR)-1,2,3,4,8,9,10,10a-Octahydro-7bH-cyclopenta[b][1,4]diazepino[6,7,1-hi]indole",
+    "category": "data not stored",
+    "index": 9667,
+    "formular": "C14H18N2",
+    "molecular_weight": 214.306,
+    "inChl": "1S/C14H18N2/c1-3-10-9-15-7-8-16-13-6-2-4-11(13)12(5-1)14(10)16/h1,3,5,11,13,15H,2,4,6-9H2/t11-,13-/m1/s1",
+    "InChl_Key": "XOSKJKGKWRIMGV-DGCLKSJQSA-N",
+    "SMILES": "c1cc2c3c(c1)[C@H]1CCC[C@H]1N3CCNC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9667",
+    "validation": "m_weight unsave, calculated(214.312)"
+}

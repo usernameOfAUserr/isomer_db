@@ -1,0 +1,13 @@
+{
+    "names": "MIDD-0301",
+    "iupac_name": "(4R)-8-Bromo-6-(2-fluorophenyl)-4-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylic acid",
+    "category": "Aryldiazepine",
+    "index": 8236,
+    "formular": "C19H13BrFN3O2",
+    "molecular_weight": 414.228,
+    "inChl": "1S/C19H13BrFN3O2/c1-10-18-17(19(25)26)22-9-24(18)15-7-6-11(20)8-13(15)16(23-10)12-4-2-3-5-14(12)21/h2-10H,1H3,(H,25,26)/t10-/m1/s1",
+    "InChl_Key": "OSBXEAZWQGBYFU-SNVBAGLBSA-N",
+    "SMILES": "C[C@H]1N=C(c2ccccc2F)c2cc(Br)ccc2-n2cnc(C(=O)O)c21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8236",
+    "validation": "m_weight unsave, calculated(414.23400000000015)"
+}

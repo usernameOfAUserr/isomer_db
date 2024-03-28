@@ -1,0 +1,13 @@
+{
+    "names": "4-Chloro-N-({1-[2-(morpholin-4-yl)ethyl]-1H-indol-3-yl}methyl)aniline",
+    "iupac_name": "14689 ; C21H24ClN3O ; 369.888",
+    "category": "cannabinodids",
+    "index": 14689,
+    "formular": "C21H24ClN3O",
+    "molecular_weight": 369.888,
+    "inChl": "1S/C21H24ClN3O/c22-18-5-7-19(8-6-18)23-15-17-16-25(21-4-2-1-3-20(17)21)10-9-24-11-13-26-14-12-24/h1-8,16,23H,9-15H2",
+    "InChl_Key": "TVUIXGOGLUNYIU-UHFFFAOYSA-N",
+    "SMILES": "Clc1ccc(NCc2cn(CCN3CCOCC3)c3ccccc23)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14689",
+    "validation": "m_weight unsave, calculated(369.89600000000024)"
+}

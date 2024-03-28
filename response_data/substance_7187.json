@@ -1,0 +1,13 @@
+{
+    "names": "BiPICANA",
+    "iupac_name": "N-(Naphthalen-1-yl)-1-pentyl-N-(1-pentyl-1H-indole-3-carbonyl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 7187,
+    "formular": "C38H39N3O2",
+    "molecular_weight": 569.735,
+    "inChl": "1S/C38H39N3O2/c1-3-5-13-24-39-26-32(30-19-9-11-21-34(30)39)37(42)41(36-23-15-17-28-16-7-8-18-29(28)36)38(43)33-27-40(25-14-6-4-2)35-22-12-10-20-31(33)35/h7-12,15-23,26-27H,3-6,13-14,24-25H2,1-2H3",
+    "InChl_Key": "RLHVMBIFOGDFEB-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)N(C(=O)c2cn(CCCCC)c3ccccc23)c2cccc3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7187",
+    "validation": "m_weight unsave, calculated(569.7490000000004)"
+}

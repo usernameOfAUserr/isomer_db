@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2,\u03b2-Difluorophenethylamine",
+    "iupac_name": "2,2-Difluoro-2-phenylethan-1-amine",
+    "category": "data not stored",
+    "index": 13072,
+    "formular": "C8H9F2N",
+    "molecular_weight": 157.161,
+    "inChl": "1S/C8H9F2N/c9-8(10,6-11)7-4-2-1-3-5-7/h1-5H,6,11H2",
+    "InChl_Key": "FZUZAXBAUSXGAV-UHFFFAOYSA-N",
+    "SMILES": "NCC(F)(F)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13072",
+    "validation": "m_weight unsave, calculated(157.16299999999993)"
+}

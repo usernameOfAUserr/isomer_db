@@ -1,0 +1,13 @@
+{
+    "names": "2-(4-Methoxy-1-benzothiophen-3-yl)ethan-1-amine",
+    "iupac_name": "5482 ; C11H13NOS ; 207.292",
+    "category": "data not stored",
+    "index": 5482,
+    "formular": "C11H13NOS",
+    "molecular_weight": 207.292,
+    "inChl": "1S/C11H13NOS/c1-13-9-3-2-4-10-11(9)8(5-6-12)7-14-10/h2-4,7H,5-6,12H2,1H3",
+    "InChl_Key": "AAHOGLYCQZTPAG-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2scc(CCN)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5482",
+    "validation": "m_weight unsave, calculated(207.29799999999997)"
+}

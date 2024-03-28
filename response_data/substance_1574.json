@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Me-4-Cl-PEA ; N,N-Dimethyl-4-chlorophenethylamine",
+    "iupac_name": "2-(4-Chlorophenyl)-N,N-dimethylethan-1-amine",
+    "category": "data not stored",
+    "index": 1574,
+    "formular": "C10H14ClN",
+    "molecular_weight": 183.678,
+    "inChl": "1S/C10H14ClN/c1-12(2)8-7-9-3-5-10(11)6-4-9/h3-6H,7-8H2,1-2H3",
+    "InChl_Key": "RKLSNRMANRTWPZ-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1574",
+    "validation": "m_weight unsave, calculated(183.682)"
+}

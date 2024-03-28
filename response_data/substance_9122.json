@@ -1,0 +1,13 @@
+{
+    "names": "4-MeO-PCE ; 4-Methoxy-PCE ; 4-Methoxyeticyclidine",
+    "iupac_name": "N-Ethyl-1-(4-methoxyphenyl)cyclohexan-1-amine",
+    "category": "Arylcycloalkylamine",
+    "index": 9122,
+    "formular": "C15H23NO",
+    "molecular_weight": 233.349,
+    "inChl": "1S/C15H23NO/c1-3-16-15(11-5-4-6-12-15)13-7-9-14(17-2)10-8-13/h7-10,16H,3-6,11-12H2,1-2H3",
+    "InChl_Key": "AVQXYMGYZVAVCH-UHFFFAOYSA-N",
+    "SMILES": "CCNC1(c2ccc(OC)cc2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9122",
+    "validation": "m_weight unsave, calculated(233.35500000000002)"
+}

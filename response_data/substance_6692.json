@@ -1,0 +1,13 @@
+{
+    "names": "6\u2032-Deoxo-\u03b1-ergocryptine",
+    "iupac_name": "12\u2032-Hydroxy-2\u2032-methyl-5\u2032\u03b1-(2-methylpropyl)-3\u2032,18-dioxo-2\u2032-(propan-2-yl)ergotaman ; (6aR,9R)-N-[(2R,5S,10aS,10bS)-10b-Hydroxy-5-(2-methylpropyl)-3-oxo-2-(propan-2-yl)octahydro-8H-[1,3]oxazolo[3,2-a]pyrrolo[2,1-c]pyrazin-2-yl]-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (5\u2032\u03b1)-12\u2032-Hydroxy-2\u2032-methyl-5\u2032-(2-methylpropyl)-3\u2032,18-dioxo-2\u2032-(propan-2-yl)ergotaman",
+    "category": "data not stored",
+    "index": 6692,
+    "formular": "C32H43N5O4",
+    "molecular_weight": 561.715,
+    "inChl": "1S/C32H43N5O4/c1-18(2)12-22-17-36-11-7-10-27(36)32(40)37(22)30(39)31(41-32,19(3)4)34-29(38)21-13-24-23-8-6-9-25-28(23)20(15-33-25)14-26(24)35(5)16-21/h6,8-9,13,15,18-19,21-22,26-27,33,40H,7,10-12,14,16-17H2,1-5H3,(H,34,38)/t21-,22+,26-,27+,31-,32+/m1/s1",
+    "InChl_Key": "AZAZUQCEWXLNNE-UCWOSKCVSA-N",
+    "SMILES": "CC(C)C[C@H]1CN2CCC[C@H]2[C@]2(O)O[C@](NC(=O)[C@@H]3C=C4c5cccc6[nH]cc(c56)C[C@H]4N(C)C3)(C(C)C)C(=O)N12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6692",
+    "validation": "m_weight unsave, calculated(561.7270000000003)"
+}

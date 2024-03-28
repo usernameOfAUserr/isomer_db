@@ -1,0 +1,13 @@
+{
+    "names": "1-(2,5-Dimethoxy-4-pentylphenyl)butan-2-amine",
+    "iupac_name": "13407 ; C17H29NO2 ; 279.418",
+    "category": "data not stored",
+    "index": 13407,
+    "formular": "C17H29NO2",
+    "molecular_weight": 279.418,
+    "inChl": "1S/C17H29NO2/c1-5-7-8-9-13-11-17(20-4)14(10-15(18)6-2)12-16(13)19-3/h11-12,15H,5-10,18H2,1-4H3",
+    "InChl_Key": "KYEOZMFQYYULIB-UHFFFAOYSA-N",
+    "SMILES": "CCCCCc1cc(OC)c(CC(N)CC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13407",
+    "validation": "m_weight unsave, calculated(279.424)"
+}

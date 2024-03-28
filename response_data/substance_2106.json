@@ -1,0 +1,13 @@
+{
+    "names": "Acoramone ; 2,4,5-Trimethoxyphenylpropan-2-one",
+    "iupac_name": "1-(2,4,5-Trimethoxyphenyl)propan-2-one",
+    "category": "data not stored",
+    "index": 2106,
+    "formular": "C12H16O4",
+    "molecular_weight": 224.253,
+    "inChl": "1S/C12H16O4/c1-8(13)5-9-6-11(15-3)12(16-4)7-10(9)14-2/h6-7H,5H2,1-4H3",
+    "InChl_Key": "AQZHZTTUVYQMIN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(OC)cc1CC(C)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2106",
+    "validation": "m_weight unsave, calculated(224.25599999999994)"
+}

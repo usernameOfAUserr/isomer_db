@@ -1,0 +1,13 @@
+{
+    "names": "G-12 ; 4-Ethyl-2,5-dimethoxy-3-methylamphetamine",
+    "iupac_name": "1-(4-Ethyl-2,5-dimethoxy-3-methylphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7816,
+    "formular": "C14H23NO2",
+    "molecular_weight": 237.338,
+    "inChl": "1S/C14H23NO2/c1-6-12-10(3)14(17-5)11(7-9(2)15)8-13(12)16-4/h8-9H,6-7,15H2,1-5H3",
+    "InChl_Key": "CWWCBKKGJGJGRU-UHFFFAOYSA-N",
+    "SMILES": "CCc1c(OC)cc(CC(C)N)c(OC)c1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7816",
+    "validation": "m_weight unsave, calculated(237.34299999999996)"
+}

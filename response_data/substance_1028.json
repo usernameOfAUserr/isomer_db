@@ -1,0 +1,13 @@
+{
+    "names": "bk-2C-B ; \u03b2-Keto-4-bromo-2,5-dimethoxyphenethylamine ; \u03b2k-2C-B",
+    "iupac_name": "2-Amino-1-(4-bromo-2,5-dimethoxyphenyl)ethan-1-one ; 2-Amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone",
+    "category": "data not stored",
+    "index": 1028,
+    "formular": "C10H12BrNO3",
+    "molecular_weight": 274.111,
+    "inChl": "1S/C10H12BrNO3/c1-14-9-4-7(11)10(15-2)3-6(9)8(13)5-12/h3-4H,5,12H2,1-2H3",
+    "InChl_Key": "HFYJGAIOBIDRPX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(=O)CN)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1028",
+    "validation": "m_weight unsave, calculated(274.11400000000003)"
+}

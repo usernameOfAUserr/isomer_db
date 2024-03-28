@@ -1,0 +1,13 @@
+{
+    "names": "C-8813 ; Thiobromadol",
+    "iupac_name": "(1r,4r)-4-(4-Bromophenyl)-4-(dimethylamino)-1-[2-(thiophen-2-yl)ethyl]cyclohexan-1-ol",
+    "category": "Arylcycloalkylamine",
+    "index": 1885,
+    "formular": "C20H26BrNOS",
+    "molecular_weight": 408.396,
+    "inChl": "1S/C20H26BrNOS/c1-22(2)20(16-5-7-17(21)8-6-16)13-11-19(23,12-14-20)10-9-18-4-3-15-24-18/h3-8,15,23H,9-14H2,1-2H3/t19-,20-",
+    "InChl_Key": "XRDNIYBVNZLPJE-MXVIHJGJSA-N",
+    "SMILES": "CN(C)[C@]1(c2ccc(Br)cc2)CC[C@](O)(CCc2cccs2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1885",
+    "validation": "m_weight unsave, calculated(408.4050000000001)"
+}

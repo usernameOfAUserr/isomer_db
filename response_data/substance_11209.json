@@ -1,0 +1,13 @@
+{
+    "names": "25CN-NBOH3Et ; N-(3-Ethyl-2-hydroxybenzyl)-4-cyano-2,5-dimethoxyphenethylamine",
+    "iupac_name": "4-(2-{[(3-Ethyl-2-hydroxyphenyl)methyl]amino}ethyl)-2,5-dimethoxybenzonitrile",
+    "category": "data not stored",
+    "index": 11209,
+    "formular": "C20H24N2O3",
+    "molecular_weight": 340.416,
+    "inChl": "1S/C20H24N2O3/c1-4-14-6-5-7-16(20(14)23)13-22-9-8-15-10-19(25-3)17(12-21)11-18(15)24-2/h5-7,10-11,22-23H,4,8-9,13H2,1-3H3",
+    "InChl_Key": "STBOBTDVPWCWDF-UHFFFAOYSA-N",
+    "SMILES": "CCc1cccc(CNCCc2cc(OC)c(C#N)cc2OC)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11209",
+    "validation": "m_weight unsave, calculated(340.4230000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "NiPH ; N-Isopropylhexedrone ; 2-(Isopropylamino)hexanophenone",
+    "iupac_name": "1-Phenyl-2-[(propan-2-yl)amino]hexan-1-one",
+    "category": "data not stored",
+    "index": 1886,
+    "formular": "C15H23NO",
+    "molecular_weight": 233.349,
+    "inChl": "1S/C15H23NO/c1-4-5-11-14(16-12(2)3)15(17)13-9-7-6-8-10-13/h6-10,12,14,16H,4-5,11H2,1-3H3",
+    "InChl_Key": "AZXKALLRCOCGBV-UHFFFAOYSA-N",
+    "SMILES": "CCCCC(NC(C)C)C(=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1886",
+    "validation": "m_weight unsave, calculated(233.35500000000002)"
+}

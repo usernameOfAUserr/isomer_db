@@ -1,0 +1,13 @@
+{
+    "names": "N-{2-[(Oxan-2-yl)oxy]ethyl}-1-phenylcyclohexan-1-amine",
+    "iupac_name": "9106 ; C19H29NO2 ; 303.439",
+    "category": "Arylcycloalkylamine",
+    "index": 9106,
+    "formular": "C19H29NO2",
+    "molecular_weight": 303.439,
+    "inChl": "1S/C19H29NO2/c1-3-9-17(10-4-1)19(12-6-2-7-13-19)20-14-16-22-18-11-5-8-15-21-18/h1,3-4,9-10,18,20H,2,5-8,11-16H2",
+    "InChl_Key": "SBFCMNXPRZVIBD-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(C2(NCCOC3CCCCO3)CCCCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9106",
+    "validation": "m_weight unsave, calculated(303.44599999999997)"
+}

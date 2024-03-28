@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl (2-phenylcyclopropyl)carbamate",
+    "iupac_name": "1491 ; C12H15NO2 ; 205.253",
+    "category": "data not stored",
+    "index": 1491,
+    "formular": "C12H15NO2",
+    "molecular_weight": 205.253,
+    "inChl": "1S/C12H15NO2/c1-2-15-12(14)13-11-8-10(11)9-6-4-3-5-7-9/h3-7,10-11H,2,8H2,1H3,(H,13,14)",
+    "InChl_Key": "XVOLBJCYNFCTEZ-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)NC1CC1c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1491",
+    "validation": "m_weight unsave, calculated(205.257)"
+}

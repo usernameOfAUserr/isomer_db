@@ -1,0 +1,13 @@
+{
+    "names": "2C-DMMDA ; 2,5-Dimethoxy-3,4-methylenedioxyamphetamine",
+    "iupac_name": "2-(4,7-Dimethoxy-2H-1,3-benzodioxol-5-yl)ethan-1-amine ; 2-(4,7-Dimethoxy-1,3-benzodioxol-5-yl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7860,
+    "formular": "C11H15NO4",
+    "molecular_weight": 225.241,
+    "inChl": "1S/C11H15NO4/c1-13-8-5-7(3-4-12)9(14-2)11-10(8)15-6-16-11/h5H,3-4,6,12H2,1-2H3",
+    "InChl_Key": "LQTZYVFBTXQHFE-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)c(OC)c2c1OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7860",
+    "validation": "m_weight unsave, calculated(225.24399999999994)"
+}

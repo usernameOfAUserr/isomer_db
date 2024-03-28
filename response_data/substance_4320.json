@@ -1,0 +1,13 @@
+{
+    "names": "JWH-302 ; 3MeO-BZ-PIMO",
+    "iupac_name": "2-(3-Methoxyphenyl)-1-(1-pentyl-1H-indol-3-yl)ethan-1-one",
+    "category": "cannabinodids",
+    "index": 4320,
+    "formular": "C22H25NO2",
+    "molecular_weight": 335.439,
+    "inChl": "1S/C22H25NO2/c1-3-4-7-13-23-16-20(19-11-5-6-12-21(19)23)22(24)15-17-9-8-10-18(14-17)25-2/h5-6,8-12,14,16H,3-4,7,13,15H2,1-2H3",
+    "InChl_Key": "XZVYWLVYUAQEIM-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)Cc2cccc(OC)c2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4320",
+    "validation": "m_weight unsave, calculated(335.44700000000006)"
+}

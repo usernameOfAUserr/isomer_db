@@ -1,0 +1,13 @@
+{
+    "names": "Pterocereine",
+    "iupac_name": "(2R,3S,4S,5R,6S)-2-(Hydroxymethyl)-6-{[1-(hydroxymethyl)-6,7-dimethoxy-2-methyl-1,2,3,4-tetrahydroisoquinolin-5-yl]oxy}oxane-3,4,5-triol",
+    "category": "data not stored",
+    "index": 12666,
+    "formular": "C19H29NO9",
+    "molecular_weight": 415.435,
+    "inChl": "1S/C19H29NO9/c1-20-5-4-9-10(11(20)7-21)6-12(26-2)18(27-3)17(9)29-19-16(25)15(24)14(23)13(8-22)28-19/h6,11,13-16,19,21-25H,4-5,7-8H2,1-3H3/t11?,13-,14-,15+,16-,19+/m1/s1",
+    "InChl_Key": "ANLAXYVKKILUOM-XZHANKDNSA-N",
+    "SMILES": "COc1cc2c(c(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c1OC)CCN(C)C2CO",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12666",
+    "validation": "m_weight unsave, calculated(415.439)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Didehydropyrroguride",
+    "iupac_name": "N-(6-Methyl-9,10-didehydroergolin-8\u03b1-yl)pyrrolidine-1-carboxamide ; N-[(6aR,9S)-7-Methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-yl]pyrrolidine-1-carboxamide ; N-[(8\u03b1)-6-Methyl-9,10-didehydroergolin-8-yl]pyrrolidine-1-carboxamide",
+    "category": "data not stored",
+    "index": 6672,
+    "formular": "C20H24N4O",
+    "molecular_weight": 336.431,
+    "inChl": "1S/C20H24N4O/c1-23-12-14(22-20(25)24-7-2-3-8-24)10-16-15-5-4-6-17-19(15)13(11-21-17)9-18(16)23/h4-6,10-11,14,18,21H,2-3,7-9,12H2,1H3,(H,22,25)/t14-,18+/m0/s1",
+    "InChl_Key": "RQVUCESUUFYGNW-KBXCAEBGSA-N",
+    "SMILES": "CN1C[C@@H](NC(=O)N2CCCC2)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6672",
+    "validation": "m_weight unsave, calculated(336.439)"
+}

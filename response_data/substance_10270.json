@@ -1,0 +1,13 @@
+{
+    "names": "sec-Methallylescaline ; 4-(1-Methylallyloxy)-3,5-dimethoxyphenethylamine ; MAL-2 ; sec-MAL",
+    "iupac_name": "2-{4-[(But-3-en-2-yl)oxy]-3,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10270,
+    "formular": "C14H21NO3",
+    "molecular_weight": 251.321,
+    "inChl": "1S/C14H21NO3/c1-5-10(2)18-14-12(16-3)8-11(6-7-15)9-13(14)17-4/h5,8-10H,1,6-7,15H2,2-4H3",
+    "InChl_Key": "VMUSJSNRIRZXDE-UHFFFAOYSA-N",
+    "SMILES": "C=CC(C)Oc1c(OC)cc(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10270",
+    "validation": "m_weight unsave, calculated(251.32599999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "cis-4-Methoxyphenylprop-1-ene",
+    "iupac_name": "1-Methoxy-4-[(1Z)-prop-1-en-1-yl]benzene",
+    "category": "Essential oil",
+    "index": 1002,
+    "formular": "C10H12O",
+    "molecular_weight": 148.202,
+    "inChl": "1S/C10H12O/c1-3-4-9-5-7-10(11-2)8-6-9/h3-8H,1-2H3/b4-3-",
+    "InChl_Key": "RUVINXPYWBROJD-ARJAWSKDSA-N",
+    "SMILES": "C/C=C\\c1ccc(OC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1002",
+    "validation": "m_weight unsave, calculated(148.20499999999996)"
+}

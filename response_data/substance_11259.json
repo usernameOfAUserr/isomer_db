@@ -1,0 +1,13 @@
+{
+    "names": "4-Acetoxyindole glyoxal chloride",
+    "iupac_name": "3-[Chloro(oxo)acetyl]-1H-indol-4-yl acetate",
+    "category": "data not stored",
+    "index": 11259,
+    "formular": "C12H8ClNO4",
+    "molecular_weight": 265.649,
+    "inChl": "1S/C12H8ClNO4/c1-6(15)18-9-4-2-3-8-10(9)7(5-14-8)11(16)12(13)17/h2-5,14H,1H3",
+    "InChl_Key": "FVWNCKFUVIPJAV-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Oc1cccc2[nH]cc(C(=O)C(=O)Cl)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11259",
+    "validation": "m_weight unsave, calculated(265.652)"
+}

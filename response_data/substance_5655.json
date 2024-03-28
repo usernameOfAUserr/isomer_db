@@ -1,0 +1,13 @@
+{
+    "names": "N1,N2-Bis[2-(5-methoxy-1H-indol-3-yl)ethyl]-N1,N2-dimethylethane-1,2-diamine ; N,N\u2032-Bis[2-(5-methoxy-1H-indol-3-yl)ethyl]-N,N\u2032-dimethylethane-1,2-diamine",
+    "iupac_name": "5655 ; C26H34N4O2 ; 434.574",
+    "category": "Tryptamine",
+    "index": 5655,
+    "formular": "C26H34N4O2",
+    "molecular_weight": 434.574,
+    "inChl": "1S/C26H34N4O2/c1-29(11-9-19-17-27-25-7-5-21(31-3)15-23(19)25)13-14-30(2)12-10-20-18-28-26-8-6-22(32-4)16-24(20)26/h5-8,15-18,27-28H,9-14H2,1-4H3",
+    "InChl_Key": "ABCLANHOOVJJDY-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN(C)CCN(C)CCc3c[nH]c4ccc(OC)cc34)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5655",
+    "validation": "m_weight unsave, calculated(434.58400000000006)"
+}

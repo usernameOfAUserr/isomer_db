@@ -1,0 +1,13 @@
+{
+    "names": "WO 2009/037244 #101",
+    "iupac_name": "5-(2-Fluorophenyl)-1-pentyl-N-[(1R,2S,4R)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-yl]-4,5-dihydro-1H-pyrazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4222,
+    "formular": "C25H36FN3O",
+    "molecular_weight": 413.571,
+    "inChl": "1S/C25H36FN3O/c1-5-6-9-14-29-21(18-10-7-8-11-19(18)26)16-20(28-29)23(30)27-22-15-17-12-13-25(22,4)24(17,2)3/h7-8,10-11,17,21-22H,5-6,9,12-16H2,1-4H3,(H,27,30)/t17-,21?,22+,25+/m1/s1",
+    "InChl_Key": "JCQRAJVSZJBITB-CHOSKBQSSA-N",
+    "SMILES": "CCCCCN1N=C(C(=O)N[C@H]2C[C@H]3CC[C@]2(C)C3(C)C)CC1c1ccccc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4222",
+    "validation": "m_weight unsave, calculated(413.5810000000003)"
+}

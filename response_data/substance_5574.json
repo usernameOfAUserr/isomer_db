@@ -1,0 +1,13 @@
+{
+    "names": "2-Methyl-5-MeO-DPT ; 2-Methyl-5-methoxy-N,N-dipropyltryptamine",
+    "iupac_name": "N-[2-(5-Methoxy-2-methyl-1H-indol-3-yl)ethyl]-N-propylpropan-1-amine",
+    "category": "Tryptamine",
+    "index": 5574,
+    "formular": "C18H28N2O",
+    "molecular_weight": 288.428,
+    "inChl": "1S/C18H28N2O/c1-5-10-20(11-6-2)12-9-16-14(3)19-18-8-7-15(21-4)13-17(16)18/h7-8,13,19H,5-6,9-12H2,1-4H3",
+    "InChl_Key": "KUJSUSZXSLQFQL-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)CCc1c(C)[nH]c2ccc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5574",
+    "validation": "m_weight unsave, calculated(288.43500000000006)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "\u03c8-BBB ; 2,6-Dibutoxy-4-butylphenethylamine",
+    "iupac_name": "2-(2,6-Dibutoxy-4-butylphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7808,
+    "formular": "C20H35NO2",
+    "molecular_weight": 321.497,
+    "inChl": "1S/C20H35NO2/c1-4-7-10-17-15-19(22-13-8-5-2)18(11-12-21)20(16-17)23-14-9-6-3/h15-16H,4-14,21H2,1-3H3",
+    "InChl_Key": "WFVLBHJOWVWGHH-UHFFFAOYSA-N",
+    "SMILES": "CCCCOc1cc(CCCC)cc(OCCCC)c1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7808",
+    "validation": "m_weight unsave, calculated(321.5050000000001)"
+}

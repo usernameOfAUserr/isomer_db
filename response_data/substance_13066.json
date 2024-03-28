@@ -1,0 +1,13 @@
+{
+    "names": "7-Chloro-N,N-dimethyl-5,6-dihydro-4H-pyrrolo[3,2,1-ij]quinolin-5-amine",
+    "iupac_name": "13066 ; C13H15ClN2 ; 234.725",
+    "category": "data not stored",
+    "index": 13066,
+    "formular": "C13H15ClN2",
+    "molecular_weight": 234.725,
+    "inChl": "1S/C13H15ClN2/c1-15(2)10-7-11-12(14)4-3-9-5-6-16(8-10)13(9)11/h3-6,10H,7-8H2,1-2H3",
+    "InChl_Key": "DCKCWRGFLKTDGR-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1Cc2c(Cl)ccc3ccn(c23)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13066",
+    "validation": "m_weight unsave, calculated(234.72999999999996)"
+}

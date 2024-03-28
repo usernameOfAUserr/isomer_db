@@ -1,0 +1,13 @@
+{
+    "names": "AM-2210",
+    "iupac_name": "[1-(4-Iodobutyl)-1H-indol-3-yl](4-nitronaphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4072,
+    "formular": "C23H19IN2O3",
+    "molecular_weight": 498.313,
+    "inChl": "1S/C23H19IN2O3/c24-13-5-6-14-25-15-20(18-9-3-4-10-21(18)25)23(27)19-11-12-22(26(28)29)17-8-2-1-7-16(17)19/h1-4,7-12,15H,5-6,13-14H2",
+    "InChl_Key": "RQKIJJGGQBIJFV-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccc([N+](=O)[O-])c2ccccc12)c1cn(CCCCI)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4072",
+    "validation": "m_weight unsave, calculated(498.32000000000016)"
+}

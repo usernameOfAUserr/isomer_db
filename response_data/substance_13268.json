@@ -1,0 +1,13 @@
+{
+    "names": "4F-Phenethyl-4-ANPP",
+    "iupac_name": "N-(4-Fluorophenyl)-N,1-bis(2-phenylethyl)piperidin-4-amine",
+    "category": "Fentanyl",
+    "index": 13268,
+    "formular": "C27H31FN2",
+    "molecular_weight": 402.547,
+    "inChl": "1S/C27H31FN2/c28-25-11-13-26(14-12-25)30(22-16-24-9-5-2-6-10-24)27-17-20-29(21-18-27)19-15-23-7-3-1-4-8-23/h1-14,27H,15-22H2",
+    "InChl_Key": "CZUZIKHDUIGZCQ-UHFFFAOYSA-N",
+    "SMILES": "Fc1ccc(N(CCc2ccccc2)C2CCN(CCc3ccccc3)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13268",
+    "validation": "m_weight unsave, calculated(402.5570000000001)"
+}

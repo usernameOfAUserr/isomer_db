@@ -1,0 +1,13 @@
+{
+    "names": "Cyputylone ; N-Cyclohexyl-methylone",
+    "iupac_name": "1-(2H-1,3-Benzodioxol-5-yl)-2-(cyclohexylamino)propan-1-one",
+    "category": "data not stored",
+    "index": 13199,
+    "formular": "C16H21NO3",
+    "molecular_weight": 275.343,
+    "inChl": "1S/C16H21NO3/c1-11(17-13-5-3-2-4-6-13)16(18)12-7-8-14-15(9-12)20-10-19-14/h7-9,11,13,17H,2-6,10H2,1H3",
+    "InChl_Key": "WZDQUORQDHVTKD-UHFFFAOYSA-N",
+    "SMILES": "CC(NC1CCCCC1)C(=O)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13199",
+    "validation": "m_weight unsave, calculated(275.348)"
+}

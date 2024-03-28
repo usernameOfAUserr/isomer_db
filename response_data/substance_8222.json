@@ -1,0 +1,13 @@
+{
+    "names": "GL-ii-54",
+    "iupac_name": "(4R)-8-Bromo-4-methyl-3-(3-methyl-1,2,4-oxadiazol-5-yl)-6-(pyridin-2-yl)-4H-imidazo[1,5-a][1,4]benzodiazepine",
+    "category": "Aryldiazepine",
+    "index": 8222,
+    "formular": "C20H15BrN6O",
+    "molecular_weight": 435.277,
+    "inChl": "1S/C20H15BrN6O/c1-11-19-18(20-25-12(2)26-28-20)23-10-27(19)16-7-6-13(21)9-14(16)17(24-11)15-5-3-4-8-22-15/h3-11H,1-2H3/t11-/m1/s1",
+    "InChl_Key": "FFVVHHGTBSWVRT-LLVKDONJSA-N",
+    "SMILES": "Cc1noc(-c2ncn3c2[C@@H](C)N=C(c2ccccn2)c2cc(Br)ccc2-3)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8222",
+    "validation": "m_weight unsave, calculated(435.2850000000002)"
+}

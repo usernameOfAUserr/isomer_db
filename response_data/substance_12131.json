@@ -1,0 +1,13 @@
+{
+    "names": "N-[3-(Trifluoromethyl)phenyl]azetidin-3-amine",
+    "iupac_name": "12131 ; C10H11F3N2 ; 216.203",
+    "category": "Phenetylamine",
+    "index": 12131,
+    "formular": "C10H11F3N2",
+    "molecular_weight": 216.203,
+    "inChl": "1S/C10H11F3N2/c11-10(12,13)7-2-1-3-8(4-7)15-9-5-14-6-9/h1-4,9,14-15H,5-6H2",
+    "InChl_Key": "ZIZPEHXDVPBJQA-UHFFFAOYSA-N",
+    "SMILES": "FC(F)(F)c1cccc(NC2CNC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12131",
+    "validation": "m_weight unsave, calculated(216.20599999999996)"
+}

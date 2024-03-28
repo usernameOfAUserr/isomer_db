@@ -1,0 +1,13 @@
+{
+    "names": "25O-NBOH3Br ; N-(3-Bromo-2-hydroxybenzyl)-2,4,5-trimethoxyphenethylamine",
+    "iupac_name": "2-Bromo-6-({[2-(2,4,5-trimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "category": "data not stored",
+    "index": 14248,
+    "formular": "C18H22BrNO4",
+    "molecular_weight": 396.276,
+    "inChl": "1S/C18H22BrNO4/c1-22-15-10-17(24-3)16(23-2)9-12(15)7-8-20-11-13-5-4-6-14(19)18(13)21/h4-6,9-10,20-21H,7-8,11H2,1-3H3",
+    "InChl_Key": "JXLUTUWZKQCZBT-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(OC)cc1CCNCc1cccc(Br)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14248",
+    "validation": "m_weight unsave, calculated(396.28100000000006)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-MeO-DMT ; 1-Methoxy-N,N-dimethyltryptamine ; Lespedamine",
+    "iupac_name": "2-(1-Methoxy-1H-indol-3-yl)-N,N-dimethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5112,
+    "formular": "C13H18N2O",
+    "molecular_weight": 218.295,
+    "inChl": "1S/C13H18N2O/c1-14(2)9-8-11-10-15(16-3)13-7-5-4-6-12(11)13/h4-7,10H,8-9H2,1-3H3",
+    "InChl_Key": "DXTZTYQDNUHCAB-UHFFFAOYSA-N",
+    "SMILES": "COn1cc(CCN(C)C)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5112",
+    "validation": "m_weight unsave, calculated(218.29999999999995)"
+}

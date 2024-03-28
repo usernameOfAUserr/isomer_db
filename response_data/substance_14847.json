@@ -1,0 +1,13 @@
+{
+    "names": "5-Phenyl-3-(1,2,5,6-tetrahydropyridin-3-yl)-1H-indazole",
+    "iupac_name": "14847 ; C18H17N3 ; 275.348",
+    "category": "data not stored",
+    "index": 14847,
+    "formular": "C18H17N3",
+    "molecular_weight": 275.348,
+    "inChl": "1S/C18H17N3/c1-2-5-13(6-3-1)14-8-9-17-16(11-14)18(21-20-17)15-7-4-10-19-12-15/h1-3,5-9,11,19H,4,10,12H2,(H,20,21)",
+    "InChl_Key": "SIZZPQGUJJXTFS-UHFFFAOYSA-N",
+    "SMILES": "C1=C(c2n[nH]c3ccc(-c4ccccc4)cc23)CNCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14847",
+    "validation": "m_weight unsave, calculated(275.355)"
+}

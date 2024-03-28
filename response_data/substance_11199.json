@@ -1,0 +1,13 @@
+{
+    "names": "5-Cl-2,4-DHO-BAL",
+    "iupac_name": "5-Chloro-2,4-dihydroxybenzaldehyde",
+    "category": "data not stored",
+    "index": 11199,
+    "formular": "C7H5ClO3",
+    "molecular_weight": 172.566,
+    "inChl": "1S/C7H5ClO3/c8-5-1-4(3-9)6(10)2-7(5)11/h1-3,10-11H",
+    "InChl_Key": "IPOSHVWRFQTHGK-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1cc(Cl)c(O)cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11199",
+    "validation": "m_weight unsave, calculated(172.567)"
+}

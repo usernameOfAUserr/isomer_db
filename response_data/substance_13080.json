@@ -1,0 +1,13 @@
+{
+    "names": "4-Cl,\u03b2-F-CPA",
+    "iupac_name": "2-(4-Chlorophenyl)-2-fluorocyclopropan-1-amine",
+    "category": "data not stored",
+    "index": 13080,
+    "formular": "C9H9ClFN",
+    "molecular_weight": 185.626,
+    "inChl": "1S/C9H9ClFN/c10-7-3-1-6(2-4-7)9(11)5-8(9)12/h1-4,8H,5,12H2",
+    "InChl_Key": "UTADHPUNQUNGFZ-UHFFFAOYSA-N",
+    "SMILES": "NC1CC1(F)c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13080",
+    "validation": "m_weight unsave, calculated(185.629)"
+}

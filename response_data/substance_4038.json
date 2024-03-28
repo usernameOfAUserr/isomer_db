@@ -1,0 +1,13 @@
+{
+    "names": "SGT-28 ; (Indazole) MAM-2201",
+    "iupac_name": "[1-(5-Fluoropentyl)-1H-indazol-3-yl](4-methylnaphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4038,
+    "formular": "C24H23FN2O",
+    "molecular_weight": 374.451,
+    "inChl": "1S/C24H23FN2O/c1-17-13-14-20(19-10-4-3-9-18(17)19)24(28)23-21-11-5-6-12-22(21)27(26-23)16-8-2-7-15-25/h3-6,9-14H,2,7-8,15-16H2,1H3",
+    "InChl_Key": "KKQNQOVTRQMNFX-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)c2nn(CCCCCF)c3ccccc23)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4038",
+    "validation": "m_weight unsave, calculated(374.4590000000001)"
+}

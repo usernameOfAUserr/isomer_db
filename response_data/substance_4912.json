@@ -1,0 +1,13 @@
+{
+    "names": "O-823",
+    "iupac_name": "7-[(6aR,10aR)-1-Hydroxy-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-3-yl]hept-5-ynenitrile",
+    "category": "cannabinodids",
+    "index": 4912,
+    "formular": "C23H27NO2",
+    "molecular_weight": 349.466,
+    "inChl": "1S/C23H27NO2/c1-16-10-11-19-18(13-16)22-20(25)14-17(9-7-5-4-6-8-12-24)15-21(22)26-23(19,2)3/h10,14-15,18-19,25H,4,6,8-9,11,13H2,1-3H3/t18-,19-/m1/s1",
+    "InChl_Key": "MZMMIGOIGWVGEH-RTBURBONSA-N",
+    "SMILES": "CC1=CC[C@@H]2[C@@H](C1)c1c(O)cc(CC#CCCCC#N)cc1OC2(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4912",
+    "validation": "m_weight unsave, calculated(349.47400000000016)"
+}

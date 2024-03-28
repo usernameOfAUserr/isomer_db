@@ -1,0 +1,13 @@
+{
+    "names": "N-PhOEt-3-TFMA ; N-Phenoxyethyl-3-trifluoromethylamphetamine",
+    "iupac_name": "N-(2-Phenoxyethyl)-1-[3-(trifluoromethyl)phenyl]propan-2-amine",
+    "category": "data not stored",
+    "index": 9865,
+    "formular": "C18H20F3NO",
+    "molecular_weight": 323.353,
+    "inChl": "1S/C18H20F3NO/c1-14(22-10-11-23-17-8-3-2-4-9-17)12-15-6-5-7-16(13-15)18(19,20)21/h2-9,13-14,22H,10-12H2,1H3",
+    "InChl_Key": "NBRMYRICPCKPGF-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1cccc(C(F)(F)F)c1)NCCOc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9865",
+    "validation": "m_weight unsave, calculated(323.35799999999995)"
+}

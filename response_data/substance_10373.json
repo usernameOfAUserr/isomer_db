@@ -1,0 +1,13 @@
+{
+    "names": "bis-DOM",
+    "iupac_name": "1,1\u2032-[Methylenebis(2,5-dimethoxy-4,1-phenylene)]di(propan-2-amine)",
+    "category": "Phenetylamine",
+    "index": 10373,
+    "formular": "C23H34N2O4",
+    "molecular_weight": 402.527,
+    "inChl": "1S/C23H34N2O4/c1-14(24)7-16-10-22(28-5)18(12-20(16)26-3)9-19-13-21(27-4)17(8-15(2)25)11-23(19)29-6/h10-15H,7-9,24-25H2,1-6H3",
+    "InChl_Key": "WFFROJISNRHVSX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c(OC)cc1Cc1cc(OC)c(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10373",
+    "validation": "m_weight unsave, calculated(402.5350000000002)"
+}

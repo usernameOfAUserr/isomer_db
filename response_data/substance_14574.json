@@ -1,0 +1,13 @@
+{
+    "names": "3-Chloro-N-[2-(1H-indol-3-yl)ethyl]-N-methylpropan-1-amine",
+    "iupac_name": "14574 ; C14H19ClN2 ; 250.767",
+    "category": "Tryptamine",
+    "index": 14574,
+    "formular": "C14H19ClN2",
+    "molecular_weight": 250.767,
+    "inChl": "1S/C14H19ClN2/c1-17(9-4-8-15)10-7-12-11-16-14-6-3-2-5-13(12)14/h2-3,5-6,11,16H,4,7-10H2,1H3",
+    "InChl_Key": "SIZXIILOAAZECE-UHFFFAOYSA-N",
+    "SMILES": "CN(CCCCl)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14574",
+    "validation": "m_weight unsave, calculated(250.77300000000005)"
+}

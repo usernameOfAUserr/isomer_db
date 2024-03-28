@@ -1,0 +1,13 @@
+{
+    "names": "Guvacoline ; Guavacoline",
+    "iupac_name": "Methyl 1,2,5,6-tetrahydropyridine-3-carboxylate",
+    "category": "data not stored",
+    "index": 12590,
+    "formular": "C7H11NO2",
+    "molecular_weight": 141.168,
+    "inChl": "1S/C7H11NO2/c1-10-7(9)6-3-2-4-8-5-6/h3,8H,2,4-5H2,1H3",
+    "InChl_Key": "DYPLDWLIOGXSSE-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C1=CCCNC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12590",
+    "validation": "m_weight unsave, calculated(141.17)"
+}

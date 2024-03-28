@@ -1,0 +1,13 @@
+{
+    "names": "JWH-145 ; NA-PPHPYOMO",
+    "iupac_name": "(Naphthalen-1-yl)(1-pentyl-5-phenyl-1H-pyrrol-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4016,
+    "formular": "C26H25NO",
+    "molecular_weight": 367.483,
+    "inChl": "1S/C26H25NO/c1-2-3-9-17-27-19-22(18-25(27)21-12-5-4-6-13-21)26(28)24-16-10-14-20-11-7-8-15-23(20)24/h4-8,10-16,18-19H,2-3,9,17H2,1H3",
+    "InChl_Key": "JLXYYSHMURZHKI-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2cccc3ccccc23)cc1-c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4016",
+    "validation": "m_weight unsave, calculated(367.4920000000001)"
+}

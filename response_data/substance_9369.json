@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(5-Fluoro-1H-indol-3-yl)cyclopropyl]-N,N-dimethylmethanamine",
+    "iupac_name": "9369 ; C14H17FN2 ; 232.297",
+    "category": "data not stored",
+    "index": 9369,
+    "formular": "C14H17FN2",
+    "molecular_weight": 232.297,
+    "inChl": "1S/C14H17FN2/c1-17(2)8-9-5-11(9)13-7-16-14-4-3-10(15)6-12(13)14/h3-4,6-7,9,11,16H,5,8H2,1-2H3",
+    "InChl_Key": "QZFLFWOTDWFGFO-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CC1CC1c1c[nH]c2ccc(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9369",
+    "validation": "m_weight unsave, calculated(232.302)"
+}

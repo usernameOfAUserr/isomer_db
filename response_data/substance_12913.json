@@ -1,0 +1,13 @@
+{
+    "names": "5-(4-Methylphenyldiazenyl)-DMT ; 5-(4-Methylphenyldiazenyl)-N,N-dimethyltryptamine",
+    "iupac_name": "N,N-Dimethyl-2-{5-[(4-methylphenyl)diazenyl]-1H-indol-3-yl}ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 12913,
+    "formular": "C19H22N4",
+    "molecular_weight": 306.405,
+    "inChl": "1S/C19H22N4/c1-14-4-6-16(7-5-14)21-22-17-8-9-19-18(12-17)15(13-20-19)10-11-23(2)3/h4-9,12-13,20H,10-11H2,1-3H3",
+    "InChl_Key": "XWSXGSSRCWBKRT-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(N=Nc2ccc3[nH]cc(CCN(C)C)c3c2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12913",
+    "validation": "m_weight unsave, calculated(306.41300000000007)"
+}

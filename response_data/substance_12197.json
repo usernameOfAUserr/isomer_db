@@ -1,0 +1,13 @@
+{
+    "names": "Dopaminoquinone ; Dopamine o-quinone",
+    "iupac_name": "4-(2-Aminoethyl)cyclohexa-3,5-diene-1,2-dione",
+    "category": "Phenetylamine",
+    "index": 12197,
+    "formular": "C8H9NO2",
+    "molecular_weight": 151.163,
+    "inChl": "1S/C8H9NO2/c9-4-3-6-1-2-7(10)8(11)5-6/h1-2,5H,3-4,9H2",
+    "InChl_Key": "PQPXZWUZIOASKS-UHFFFAOYSA-N",
+    "SMILES": "NCCC1=CC(=O)C(=O)C=C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12197",
+    "validation": "m_weight unsave, calculated(151.165)"
+}

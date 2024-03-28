@@ -1,0 +1,13 @@
+{
+    "names": "1-Cyclohexyl-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indol-6-ol",
+    "iupac_name": "12740 ; C17H22N2O ; 270.369",
+    "category": "data not stored",
+    "index": 12740,
+    "formular": "C17H22N2O",
+    "molecular_weight": 270.369,
+    "inChl": "1S/C17H22N2O/c20-12-6-7-15-14(10-12)13-8-9-18-16(17(13)19-15)11-4-2-1-3-5-11/h6-7,10-11,16,18-20H,1-5,8-9H2",
+    "InChl_Key": "KXENLAUWLCFBBV-UHFFFAOYSA-N",
+    "SMILES": "Oc1ccc2[nH]c3c(c2c1)CCNC3C1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12740",
+    "validation": "m_weight unsave, calculated(270.37600000000003)"
+}

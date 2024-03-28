@@ -1,0 +1,13 @@
+{
+    "names": "O-2529 ; 1-(4-Methyl-\u03b2-hydroxy-\u03b1-propylphenethyl)piperidine",
+    "iupac_name": "1-(4-Methylphenyl)-2-(piperidin-1-yl)pentan-1-ol",
+    "category": "data not stored",
+    "index": 1470,
+    "formular": "C17H27NO",
+    "molecular_weight": 261.402,
+    "inChl": "1S/C17H27NO/c1-3-7-16(18-12-5-4-6-13-18)17(19)15-10-8-14(2)9-11-15/h8-11,16-17,19H,3-7,12-13H2,1-2H3",
+    "InChl_Key": "KYGIZEWTENJHFA-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(O)c1ccc(C)cc1)N1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1470",
+    "validation": "m_weight unsave, calculated(261.409)"
+}

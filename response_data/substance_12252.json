@@ -1,0 +1,13 @@
+{
+    "names": "Isolissoclinotoxin A",
+    "iupac_name": "9-(2-Aminoethyl)-7-methoxy-1,2,3,4,5-benzopentathiepin-6-ol",
+    "category": "Phenetylamine",
+    "index": 12252,
+    "formular": "C9H11NO2S5",
+    "molecular_weight": 325.514,
+    "inChl": "1S/C9H11NO2S5/c1-12-6-4-5(2-3-10)8-9(7(6)11)14-16-17-15-13-8/h4,11H,2-3,10H2,1H3",
+    "InChl_Key": "LHWKFCLGXFKQPG-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)c2c(c1O)SSSSS2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12252",
+    "validation": "m_weight unsave, calculated(325.527)"
+}

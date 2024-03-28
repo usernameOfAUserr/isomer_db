@@ -1,0 +1,13 @@
+{
+    "names": "25T4-NB3OMe ; N-(3-Methoxybenzyl)-4-isopropylthio-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-{2,5-Dimethoxy-4-[(propan-2-yl)sulfanyl]phenyl}-N-[(3-methoxyphenyl)methyl]ethan-1-amine ; 2-[2,5-Dimethoxy-4-(propan-2-ylsulfanyl)phenyl]-N-(3-methoxybenzyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 2595,
+    "formular": "C21H29NO3S",
+    "molecular_weight": 375.525,
+    "inChl": "1S/C21H29NO3S/c1-15(2)26-21-13-19(24-4)17(12-20(21)25-5)9-10-22-14-16-7-6-8-18(11-16)23-3/h6-8,11-13,15,22H,9-10,14H2,1-5H3",
+    "InChl_Key": "NFRAXKGXMRMRAC-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(CNCCc2cc(OC)c(SC(C)C)cc2OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2595",
+    "validation": "m_weight unsave, calculated(375.53400000000005)"
+}

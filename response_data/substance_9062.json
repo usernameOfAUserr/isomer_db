@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 1-(4-hydroxybutyl)-4-phenylpiperidine-4-carboxylate",
+    "iupac_name": "9062 ; C18H27NO3 ; 305.412",
+    "category": "data not stored",
+    "index": 9062,
+    "formular": "C18H27NO3",
+    "molecular_weight": 305.412,
+    "inChl": "1S/C18H27NO3/c1-2-22-17(21)18(16-8-4-3-5-9-16)10-13-19(14-11-18)12-6-7-15-20/h3-5,8-9,20H,2,6-7,10-15H2,1H3",
+    "InChl_Key": "XLCGIGLIYPAXME-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CCCCO)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9062",
+    "validation": "m_weight unsave, calculated(305.41799999999995)"
+}

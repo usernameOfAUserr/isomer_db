@@ -1,0 +1,13 @@
+{
+    "names": "N-Ethyl-6,7,8,9-tetrahydrodibenzo[b,d]thiophen-9a(5aH)-amine",
+    "iupac_name": "6640 ; C14H19NS ; 233.372",
+    "category": "Arylcycloalkylamine",
+    "index": 6640,
+    "formular": "C14H19NS",
+    "molecular_weight": 233.372,
+    "inChl": "1S/C14H19NS/c1-2-15-14-10-6-5-9-13(14)16-12-8-4-3-7-11(12)14/h3-4,7-8,13,15H,2,5-6,9-10H2,1H3",
+    "InChl_Key": "GSENAIUTYIEUSL-UHFFFAOYSA-N",
+    "SMILES": "CCNC12CCCCC1Sc1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6640",
+    "validation": "m_weight unsave, calculated(233.38)"
+}

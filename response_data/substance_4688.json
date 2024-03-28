@@ -1,0 +1,13 @@
+{
+    "names": "5Cl-NNE1 ; 5Cl-NNEI ; 5C-MN-24",
+    "iupac_name": "1-(5-Chloropentyl)-N-(naphthalen-1-yl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4688,
+    "formular": "C24H23ClN2O",
+    "molecular_weight": 390.905,
+    "inChl": "1S/C24H23ClN2O/c25-15-6-1-7-16-27-17-21(20-12-4-5-14-23(20)27)24(28)26-22-13-8-10-18-9-2-3-11-19(18)22/h2-5,8-14,17H,1,6-7,15-16H2,(H,26,28)",
+    "InChl_Key": "SAZREAASVMJYTK-UHFFFAOYSA-N",
+    "SMILES": "O=C(Nc1cccc2ccccc12)c1cn(CCCCCCl)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4688",
+    "validation": "m_weight unsave, calculated(390.9140000000001)"
+}

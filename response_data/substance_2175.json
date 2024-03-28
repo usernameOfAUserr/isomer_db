@@ -1,0 +1,13 @@
+{
+    "names": "2,5-MH-MMA ; 5-Hydroxy-2-methoxymethamphetamine ; 5HMP",
+    "iupac_name": "4-Methoxy-3-[2-(methylamino)propyl]phenol",
+    "category": "Shulgin_Index",
+    "index": 2175,
+    "formular": "C11H17NO2",
+    "molecular_weight": 195.258,
+    "inChl": "1S/C11H17NO2/c1-8(12-2)6-9-7-10(13)4-5-11(9)14-3/h4-5,7-8,12-13H,6H2,1-3H3",
+    "InChl_Key": "MJHSFKIGFVIAFL-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1cc(O)ccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2175",
+    "validation": "m_weight unsave, calculated(195.26199999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "MPA-TFA",
+    "iupac_name": "2,2,2-Trifluoro-N-methyl-N-[1-(thiophen-2-yl)propan-2-yl]acetamide",
+    "category": "data not stored",
+    "index": 2882,
+    "formular": "C10H12F3NOS",
+    "molecular_weight": 251.269,
+    "inChl": "1S/C10H12F3NOS/c1-7(6-8-4-3-5-16-8)14(2)9(15)10(11,12)13/h3-5,7H,6H2,1-2H3",
+    "InChl_Key": "PMKXXQQKVYWHOX-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1cccs1)N(C)C(=O)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2882",
+    "validation": "m_weight unsave, calculated(251.273)"
+}

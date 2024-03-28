@@ -1,0 +1,13 @@
+{
+    "names": "3-(Pentyloxy)-N-(2-phenylpropan-2-yl)benzamide",
+    "iupac_name": "7781 ; C21H27NO2 ; 325.445",
+    "category": "cannabinodids",
+    "index": 7781,
+    "formular": "C21H27NO2",
+    "molecular_weight": 325.445,
+    "inChl": "1S/C21H27NO2/c1-4-5-9-15-24-19-14-10-11-17(16-19)20(23)22-21(2,3)18-12-7-6-8-13-18/h6-8,10-14,16H,4-5,9,15H2,1-3H3,(H,22,23)",
+    "InChl_Key": "GEKBJQHOVUKZAW-UHFFFAOYSA-N",
+    "SMILES": "CCCCCOc1cccc(C(=O)NC(C)(C)c2ccccc2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7781",
+    "validation": "m_weight unsave, calculated(325.45200000000006)"
+}

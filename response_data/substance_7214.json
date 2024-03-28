@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2,\u03b2-Me-DOM ; \u03b2,\u03b2,4-Trimethyl-2,5-dimethoxyamphetamine",
+    "iupac_name": "3-(2,5-Dimethoxy-4-methylphenyl)-3-methylbutan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7214,
+    "formular": "C14H23NO2",
+    "molecular_weight": 237.338,
+    "inChl": "1S/C14H23NO2/c1-9-7-13(17-6)11(8-12(9)16-5)14(3,4)10(2)15/h7-8,10H,15H2,1-6H3",
+    "InChl_Key": "CKUGFDMXIPCUTB-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(C)(C)C(C)N)c(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7214",
+    "validation": "m_weight unsave, calculated(237.34299999999996)"
+}

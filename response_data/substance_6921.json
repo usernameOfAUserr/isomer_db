@@ -1,0 +1,13 @@
+{
+    "names": "3,5-HMPEA ; 3-Hydroxy-5-methoxyphenethylamine",
+    "iupac_name": "3-(2-Aminoethyl)-5-methoxyphenol",
+    "category": "Shulgin_Index",
+    "index": 6921,
+    "formular": "C9H13NO2",
+    "molecular_weight": 167.205,
+    "inChl": "1S/C9H13NO2/c1-12-9-5-7(2-3-10)4-8(11)6-9/h4-6,11H,2-3,10H2,1H3",
+    "InChl_Key": "RXNRGKVNJZPZNO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(O)cc(CCN)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6921",
+    "validation": "m_weight unsave, calculated(167.20799999999997)"
+}

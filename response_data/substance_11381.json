@@ -1,0 +1,13 @@
+{
+    "names": "8-Methoxyquinolin-2-amine",
+    "iupac_name": "11381 ; C10H10N2O ; 174.199",
+    "category": "data not stored",
+    "index": 11381,
+    "formular": "C10H10N2O",
+    "molecular_weight": 174.199,
+    "inChl": "1S/C10H10N2O/c1-13-8-4-2-3-7-5-6-9(11)12-10(7)8/h2-6H,1H3,(H2,11,12)",
+    "InChl_Key": "PMXFKGCLUAFLMH-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2ccc(N)nc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11381",
+    "validation": "m_weight unsave, calculated(174.203)"
+}

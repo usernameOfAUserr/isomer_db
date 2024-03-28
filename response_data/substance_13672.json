@@ -1,0 +1,13 @@
+{
+    "names": "1-Propyl-7-fluoropsilocybin ; 1-Propyl-7-fluoro-4-phosphonooxy-N,N-dimethyltryptamine ; O-4309 ; 1-Propyl-7-fluoro-4-PO-DMT",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-7-fluoro-1-propyl-1H-indol-4-yl dihydrogen phosphate",
+    "category": "Tryptamine",
+    "index": 13672,
+    "formular": "C15H22FN2O4P",
+    "molecular_weight": 344.318,
+    "inChl": "1S/C15H22FN2O4P/c1-4-8-18-10-11(7-9-17(2)3)14-13(22-23(19,20)21)6-5-12(16)15(14)18/h5-6,10H,4,7-9H2,1-3H3,(H2,19,20,21)",
+    "InChl_Key": "GXHFULIOCXBDAZ-UHFFFAOYSA-N",
+    "SMILES": "CCCn1cc(CCN(C)C)c2c(OP(=O)(O)O)ccc(F)c21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13672",
+    "validation": "m_weight unsave, calculated(344.3230000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "DOB-EtOH ; 4-Bromo-N-(2-hydroxyethyl)-2,5-dimethoxyamphetamine",
+    "iupac_name": "2-{[1-(4-Bromo-2,5-dimethoxyphenyl)propan-2-yl]amino}ethan-1-ol",
+    "category": "Phenetylamine",
+    "index": 10358,
+    "formular": "C13H20BrNO3",
+    "molecular_weight": 318.207,
+    "inChl": "1S/C13H20BrNO3/c1-9(15-4-5-16)6-10-7-13(18-3)11(14)8-12(10)17-2/h7-9,15-16H,4-6H2,1-3H3",
+    "InChl_Key": "HPEDWMSYJWVLPO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)NCCO)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10358",
+    "validation": "m_weight unsave, calculated(318.21099999999996)"
+}

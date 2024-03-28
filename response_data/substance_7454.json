@@ -1,0 +1,13 @@
+{
+    "names": "7-HO-T ; 7-Hydroxytryptamine",
+    "iupac_name": "3-(2-Aminoethyl)-1H-indol-7-ol",
+    "category": "Tryptamine",
+    "index": 7454,
+    "formular": "C10H12N2O",
+    "molecular_weight": 176.215,
+    "inChl": "1S/C10H12N2O/c11-5-4-7-6-12-10-8(7)2-1-3-9(10)13/h1-3,6,12-13H,4-5,11H2",
+    "InChl_Key": "RETCYVKOCFWWTL-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2c(O)cccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7454",
+    "validation": "m_weight unsave, calculated(176.219)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-Cyclopentylmethoxy-NMT ; 5-Cyclopentylmethoxy-N-methyltryptamine",
+    "iupac_name": "2-[5-(Cyclopentylmethoxy)-1H-indol-3-yl]-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5865,
+    "formular": "C17H24N2O",
+    "molecular_weight": 272.385,
+    "inChl": "1S/C17H24N2O/c1-18-9-8-14-11-19-17-7-6-15(10-16(14)17)20-12-13-4-2-3-5-13/h6-7,10-11,13,18-19H,2-5,8-9,12H2,1H3",
+    "InChl_Key": "DTZKERSVGSRHQC-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1c[nH]c2ccc(OCC3CCCC3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5865",
+    "validation": "m_weight unsave, calculated(272.39199999999994)"
+}

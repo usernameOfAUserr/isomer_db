@@ -1,0 +1,13 @@
+{
+    "names": "2-(2H-1,3-Benzoxathiol-5-yl)ethan-1-amine",
+    "iupac_name": "7966 ; C9H11NOS ; 181.255",
+    "category": "data not stored",
+    "index": 7966,
+    "formular": "C9H11NOS",
+    "molecular_weight": 181.255,
+    "inChl": "1S/C9H11NOS/c10-4-3-7-1-2-8-9(5-7)12-6-11-8/h1-2,5H,3-4,6,10H2",
+    "InChl_Key": "QPPROMUVWFIZJV-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ccc2c(c1)SCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7966",
+    "validation": "m_weight unsave, calculated(181.25999999999993)"
+}

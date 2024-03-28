@@ -1,0 +1,13 @@
+{
+    "names": "2,5-Bis(4-bromo-2,5-dimethoxyphenyl)pyrazine",
+    "iupac_name": "2640 ; C20H18Br2N2O4 ; 510.176",
+    "category": "data not stored",
+    "index": 2640,
+    "formular": "C20H18Br2N2O4",
+    "molecular_weight": 510.176,
+    "inChl": "1S/C20H18Br2N2O4/c1-25-17-7-13(21)19(27-3)5-11(17)15-9-24-16(10-23-15)12-6-20(28-4)14(22)8-18(12)26-2/h5-10H,1-4H3",
+    "InChl_Key": "XXPXEDKCRBYNOX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(-c2cnc(-c3cc(OC)c(Br)cc3OC)cn2)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2640",
+    "validation": "m_weight unsave, calculated(510.18200000000024)"
+}

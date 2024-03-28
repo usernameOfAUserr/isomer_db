@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(2,3-Difluoro-6-methoxyphenyl)cyclopropyl]methanamine",
+    "iupac_name": "12955 ; C11H13F2NO ; 213.224",
+    "category": "data not stored",
+    "index": 12955,
+    "formular": "C11H13F2NO",
+    "molecular_weight": 213.224,
+    "inChl": "1S/C11H13F2NO/c1-15-9-3-2-8(12)11(13)10(9)7-4-6(7)5-14/h2-3,6-7H,4-5,14H2,1H3",
+    "InChl_Key": "FENDHYYWMBLNEX-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(F)c(F)c1C1CC1CN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12955",
+    "validation": "m_weight unsave, calculated(213.22699999999998)"
+}

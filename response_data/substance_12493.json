@@ -1,0 +1,13 @@
+{
+    "names": "QDOEA-NBMe",
+    "iupac_name": "3-(2-{[(2-Methylphenyl)methyl]amino}ethyl)quinazoline-2,4(1H,3H)-dione",
+    "category": "data not stored",
+    "index": 12493,
+    "formular": "C18H19N3O2",
+    "molecular_weight": 309.362,
+    "inChl": "1S/C18H19N3O2/c1-13-6-2-3-7-14(13)12-19-10-11-21-17(22)15-8-4-5-9-16(15)20-18(21)23/h2-9,19H,10-12H2,1H3,(H,20,23)",
+    "InChl_Key": "VBPOJVKVZQQNHP-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccccc1CNCCn1c(=O)[nH]c2ccccc2c1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12493",
+    "validation": "m_weight unsave, calculated(309.369)"
+}

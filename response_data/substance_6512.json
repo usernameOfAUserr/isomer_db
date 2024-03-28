@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Me-DHPEA ; N,N-Dimethyl-3,4-dihydroxyphenethylamine ; N,N-Dimethyldopamine",
+    "iupac_name": "4-[2-(Dimethylamino)ethyl]benzene-1,2-diol",
+    "category": "Shulgin_Index",
+    "index": 6512,
+    "formular": "C10H15NO2",
+    "molecular_weight": 181.232,
+    "inChl": "1S/C10H15NO2/c1-11(2)6-5-8-3-4-9(12)10(13)7-8/h3-4,7,12-13H,5-6H2,1-2H3",
+    "InChl_Key": "XJTVXBWTYZCUJX-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6512",
+    "validation": "m_weight unsave, calculated(181.23499999999999)"
+}

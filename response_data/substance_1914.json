@@ -1,0 +1,13 @@
+{
+    "names": "4\u2032-Amino-CPT ; RTI-29",
+    "iupac_name": "Methyl (2S,3S)-3-(4-aminophenyl)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "category": "data not stored",
+    "index": 1914,
+    "formular": "C16H22N2O2",
+    "molecular_weight": 274.358,
+    "inChl": "1S/C16H22N2O2/c1-18-12-7-8-14(18)15(16(19)20-2)13(9-12)10-3-5-11(17)6-4-10/h3-6,12-15H,7-9,17H2,1-2H3/t12?,13-,14?,15+/m1/s1",
+    "InChl_Key": "NFYQZRCMOMKICY-JYVUQVBGSA-N",
+    "SMILES": "COC(=O)[C@@H]1C2CCC(C[C@@H]1c1ccc(N)cc1)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1914",
+    "validation": "m_weight unsave, calculated(274.364)"
+}

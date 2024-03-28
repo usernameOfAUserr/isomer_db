@@ -1,0 +1,13 @@
+{
+    "names": "7-Fluoro-MPMI",
+    "iupac_name": "7-Fluoro-3-[(1-methylpyrrolidin-2-yl)methyl]-1H-indole",
+    "category": "data not stored",
+    "index": 13567,
+    "formular": "C14H17FN2",
+    "molecular_weight": 232.297,
+    "inChl": "1S/C14H17FN2/c1-17-7-3-4-11(17)8-10-9-16-14-12(10)5-2-6-13(14)15/h2,5-6,9,11,16H,3-4,7-8H2,1H3",
+    "InChl_Key": "GAWFLRPZRYBUCV-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCC1Cc1c[nH]c2c(F)cccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13567",
+    "validation": "m_weight unsave, calculated(232.302)"
+}

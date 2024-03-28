@@ -1,0 +1,13 @@
+{
+    "names": "8-Chloro-7-methoxy-1-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine",
+    "iupac_name": "2730 ; C12H16ClNO ; 225.715",
+    "category": "data not stored",
+    "index": 2730,
+    "formular": "C12H16ClNO",
+    "molecular_weight": 225.715,
+    "inChl": "1S/C12H16ClNO/c1-8-7-14-4-3-9-5-12(15-2)11(13)6-10(8)9/h5-6,8,14H,3-4,7H2,1-2H3",
+    "InChl_Key": "SJJIKXOJEDKQRJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(cc1Cl)C(C)CNCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2730",
+    "validation": "m_weight unsave, calculated(225.71900000000002)"
+}

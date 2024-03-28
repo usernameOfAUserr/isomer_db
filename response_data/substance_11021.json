@@ -1,0 +1,13 @@
+{
+    "names": "2-Phenylpiperidine",
+    "iupac_name": "11021 ; C11H15N ; 161.244",
+    "category": "Phenetylamine",
+    "index": 11021,
+    "formular": "C11H15N",
+    "molecular_weight": 161.244,
+    "inChl": "1S/C11H15N/c1-2-6-10(7-3-1)11-8-4-5-9-12-11/h1-3,6-7,11-12H,4-5,8-9H2",
+    "InChl_Key": "WGIAUTGOUJDVEI-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(C2CCCCN2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11021",
+    "validation": "m_weight unsave, calculated(161.248)"
+}

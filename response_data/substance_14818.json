@@ -1,0 +1,13 @@
+{
+    "names": "iso-DMT-6-succinate",
+    "iupac_name": "4-({1-[2-(Dimethylamino)ethyl]-1H-indol-6-yl}oxy)-4-oxobutanoic acid",
+    "category": "Tryptamine",
+    "index": 14818,
+    "formular": "C16H20N2O4",
+    "molecular_weight": 304.341,
+    "inChl": "1S/C16H20N2O4/c1-17(2)9-10-18-8-7-12-3-4-13(11-14(12)18)22-16(21)6-5-15(19)20/h3-4,7-8,11H,5-6,9-10H2,1-2H3,(H,19,20)",
+    "InChl_Key": "YXECBLQWIDRBLL-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCn1ccc2ccc(OC(=O)CCC(=O)O)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14818",
+    "validation": "m_weight unsave, calculated(304.346)"
+}

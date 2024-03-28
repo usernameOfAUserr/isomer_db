@@ -1,0 +1,13 @@
+{
+    "names": "25I-NB3Br ; N-(3-Bromobenzyl)-4-iodo-2,5-dimethoxyphenethylamine",
+    "iupac_name": "N-[(3-Bromophenyl)methyl]-2-(4-iodo-2,5-dimethoxyphenyl)ethan-1-amine ; N-(3-Bromobenzyl)-2-(4-iodo-2,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 1136,
+    "formular": "C17H19BrINO2",
+    "molecular_weight": 476.147,
+    "inChl": "1S/C17H19BrINO2/c1-21-16-10-15(19)17(22-2)9-13(16)6-7-20-11-12-4-3-5-14(18)8-12/h3-5,8-10,20H,6-7,11H2,1-2H3",
+    "InChl_Key": "FMTKWUXSKXZKGP-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2cccc(Br)c2)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1136",
+    "validation": "m_weight unsave, calculated(476.15200000000016)"
+}

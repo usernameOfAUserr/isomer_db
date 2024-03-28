@@ -1,0 +1,13 @@
+{
+    "names": "AP4AIC",
+    "iupac_name": "Adamantan-1-yl 1-pentyl-1H-pyrrolo[3,2-b]pyridine-3-carboxylate",
+    "category": "cannabinodids",
+    "index": 11244,
+    "formular": "C23H30N2O2",
+    "molecular_weight": 366.497,
+    "inChl": "1S/C23H30N2O2/c1-2-3-4-8-25-15-19(21-20(25)6-5-7-24-21)22(26)27-23-12-16-9-17(13-23)11-18(10-16)14-23/h5-7,15-18H,2-4,8-14H2,1H3",
+    "InChl_Key": "CXRYDJVVGKINRF-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)OC23CC4CC(CC(C4)C2)C3)c2ncccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11244",
+    "validation": "m_weight unsave, calculated(366.5050000000002)"
+}

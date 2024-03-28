@@ -1,0 +1,13 @@
+{
+    "names": "4-MEC ; 4-Methylethcathinone",
+    "iupac_name": "2-(Ethylamino)-1-(4-methylphenyl)propan-1-one",
+    "category": "Phenetylamine",
+    "index": 2372,
+    "formular": "C12H17NO",
+    "molecular_weight": 191.269,
+    "inChl": "1S/C12H17NO/c1-4-13-10(3)12(14)11-7-5-9(2)6-8-11/h5-8,10,13H,4H2,1-3H3",
+    "InChl_Key": "ZOXZWYWOECCBSH-UHFFFAOYSA-N",
+    "SMILES": "CCNC(C)C(=O)c1ccc(C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2372",
+    "validation": "m_weight unsave, calculated(191.27399999999997)"
+}

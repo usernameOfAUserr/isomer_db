@@ -1,0 +1,13 @@
+{
+    "names": "Quinolin-8-yl 3-(morpholine-4-sulfonyl)benzoate",
+    "iupac_name": "11306 ; C20H18N2O5S ; 398.432",
+    "category": "cannabinodids",
+    "index": 11306,
+    "formular": "C20H18N2O5S",
+    "molecular_weight": 398.432,
+    "inChl": "1S/C20H18N2O5S/c23-20(27-18-8-2-4-15-6-3-9-21-19(15)18)16-5-1-7-17(14-16)28(24,25)22-10-12-26-13-11-22/h1-9,14H,10-13H2",
+    "InChl_Key": "IOVZMNILGCRPQC-UHFFFAOYSA-N",
+    "SMILES": "O=C(Oc1cccc2cccnc12)c1cccc(S(=O)(=O)N2CCOCC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11306",
+    "validation": "m_weight unsave, calculated(398.44000000000005)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5,6,7-Trifluoro-SBPMI ; 5,6,7-Trifluoro-3-(N-sec-butylpyrrolidinylmethyl)indole",
+    "iupac_name": "3-{[1-(Butan-2-yl)pyrrolidin-2-yl]methyl}-5,6,7-trifluoro-1H-indole",
+    "category": "data not stored",
+    "index": 13637,
+    "formular": "C17H21F3N2",
+    "molecular_weight": 310.357,
+    "inChl": "1S/C17H21F3N2/c1-3-10(2)22-6-4-5-12(22)7-11-9-21-17-13(11)8-14(18)15(19)16(17)20/h8-10,12,21H,3-7H2,1-2H3",
+    "InChl_Key": "LNHKRSYXSRYOOY-UHFFFAOYSA-N",
+    "SMILES": "CCC(C)N1CCCC1Cc1c[nH]c2c(F)c(F)c(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13637",
+    "validation": "m_weight unsave, calculated(310.363)"
+}

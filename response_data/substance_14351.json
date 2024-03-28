@@ -1,0 +1,13 @@
+{
+    "names": "3-{2-[4-(Cyclopropylmethyl)piperazin-1-yl]-2-phenylethyl}phenol",
+    "iupac_name": "14351 ; C22H28N2O ; 336.471",
+    "category": "data not stored",
+    "index": 14351,
+    "formular": "C22H28N2O",
+    "molecular_weight": 336.471,
+    "inChl": "1S/C22H28N2O/c25-21-8-4-5-19(15-21)16-22(20-6-2-1-3-7-20)24-13-11-23(12-14-24)17-18-9-10-18/h1-8,15,18,22,25H,9-14,16-17H2",
+    "InChl_Key": "HVNYMSXCSLUUOV-UHFFFAOYSA-N",
+    "SMILES": "Oc1cccc(CC(c2ccccc2)N2CCN(CC3CC3)CC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14351",
+    "validation": "m_weight unsave, calculated(336.4790000000002)"
+}

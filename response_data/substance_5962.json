@@ -1,0 +1,13 @@
+{
+    "names": "5-DM-2C-B ; 4-Bromo-5-hydroxy-2-methoxyphenethylamine",
+    "iupac_name": "5-(2-Aminoethyl)-2-bromo-4-methoxyphenol",
+    "category": "data not stored",
+    "index": 5962,
+    "formular": "C9H12BrNO2",
+    "molecular_weight": 246.101,
+    "inChl": "1S/C9H12BrNO2/c1-13-9-5-7(10)8(12)4-6(9)2-3-11/h4-5,12H,2-3,11H2,1H3",
+    "InChl_Key": "OYMGZEIXHQCXLO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Br)c(O)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5962",
+    "validation": "m_weight unsave, calculated(246.10399999999996)"
+}

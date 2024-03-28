@@ -1,0 +1,13 @@
+{
+    "names": "IHCH7010",
+    "iupac_name": "7-[4-(4,6,6a,7,9,10-Hexahydro-8H-pyrazino[1,2-a]pyrrolo[4,3,2-de]quinolin-8-yl)butoxy]quinolin-2(1H)-one",
+    "category": "data not stored",
+    "index": 14885,
+    "formular": "C26H28N4O2",
+    "molecular_weight": 428.526,
+    "inChl": "1S/C26H28N4O2/c31-25-9-7-18-6-8-21(15-23(18)28-25)32-13-2-1-10-29-11-12-30-20(17-29)14-19-16-27-22-4-3-5-24(30)26(19)22/h3-9,15-16,20,27H,1-2,10-14,17H2,(H,28,31)",
+    "InChl_Key": "ZFCGYCOWNJCRTH-UHFFFAOYSA-N",
+    "SMILES": "O=c1ccc2ccc(OCCCCN3CCN4c5cccc6[nH]cc(c56)CC4C3)cc2[nH]1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14885",
+    "validation": "m_weight unsave, calculated(428.5360000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Dimethyltellurophene-2-carboxamide",
+    "iupac_name": "12116 ; C7H9NOTe ; 250.752",
+    "category": "Phenetylamine",
+    "index": 12116,
+    "formular": "C7H9NOTe",
+    "molecular_weight": 250.752,
+    "inChl": "1S/C7H9NOTe/c1-8(2)7(9)6-4-3-5-10-6/h3-5H,1-2H3",
+    "InChl_Key": "ISZKTROHRWBZSG-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C(=O)c1ccc[te]1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12116",
+    "validation": "m_weight unsave, calculated(250.75499999999997)"
+}

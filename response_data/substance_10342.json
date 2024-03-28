@@ -1,0 +1,13 @@
+{
+    "names": "2,5-Dimethoxy-4-pentylthiophenethylamine",
+    "iupac_name": "2-[2,5-Dimethoxy-4-(pentylsulfanyl)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10342,
+    "formular": "C15H25NO2S",
+    "molecular_weight": 283.43,
+    "inChl": "1S/C15H25NO2S/c1-4-5-6-9-19-15-11-13(17-2)12(7-8-16)10-14(15)18-3/h10-11H,4-9,16H2,1-3H3",
+    "InChl_Key": "SPHRAOZAEYDNOD-UHFFFAOYSA-N",
+    "SMILES": "CCCCCSc1cc(OC)c(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10342",
+    "validation": "m_weight unsave, calculated(283.437)"
+}

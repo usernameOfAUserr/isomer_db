@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(Diethylamino)ethyl]-2-[(4-ethoxyphenyl)methyl]-N,N-diethyl-1H-benzimidazole-5-carboxamide",
+    "iupac_name": "12580 ; C27H38N4O2 ; 450.616",
+    "category": "data not stored",
+    "index": 12580,
+    "formular": "C27H38N4O2",
+    "molecular_weight": 450.616,
+    "inChl": "1S/C27H38N4O2/c1-6-29(7-2)17-18-31-25-16-13-22(27(32)30(8-3)9-4)20-24(25)28-26(31)19-21-11-14-23(15-12-21)33-10-5/h11-16,20H,6-10,17-19H2,1-5H3",
+    "InChl_Key": "QOBSCTKJKLJXMS-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(Cc2nc3cc(C(=O)N(CC)CC)ccc3n2CCN(CC)CC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12580",
+    "validation": "m_weight unsave, calculated(450.62700000000024)"
+}

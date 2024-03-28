@@ -1,0 +1,13 @@
+{
+    "names": "4-Propylthiocathinone",
+    "iupac_name": "2-Amino-1-[4-(propylsulfanyl)phenyl]propan-1-one",
+    "category": "data not stored",
+    "index": 2389,
+    "formular": "C12H17NOS",
+    "molecular_weight": 223.334,
+    "inChl": "1S/C12H17NOS/c1-3-8-15-11-6-4-10(5-7-11)12(14)9(2)13/h4-7,9H,3,8,13H2,1-2H3",
+    "InChl_Key": "QWRDWKVVHQWKND-UHFFFAOYSA-N",
+    "SMILES": "CCCSc1ccc(C(=O)C(C)N)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2389",
+    "validation": "m_weight unsave, calculated(223.34099999999998)"
+}

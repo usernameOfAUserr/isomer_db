@@ -1,0 +1,13 @@
+{
+    "names": "2C-MeTriox",
+    "iupac_name": "2-(4-Methyl-6,7-dihydro-2H-furo[2,3-f][1,3]benzodioxol-8-yl)ethan-1-amine ; 2-(4-Methyl-6,7-dihydrofuro[2,3-f][1,3]benzodioxol-8-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 2028,
+    "formular": "C12H15NO3",
+    "molecular_weight": 221.252,
+    "inChl": "1S/C12H15NO3/c1-7-10-9(3-5-14-10)8(2-4-13)12-11(7)15-6-16-12/h2-6,13H2,1H3",
+    "InChl_Key": "DCQWKYOEVSSANI-UHFFFAOYSA-N",
+    "SMILES": "Cc1c2c(c(CCN)c3c1OCO3)CCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2028",
+    "validation": "m_weight unsave, calculated(221.25599999999994)"
+}

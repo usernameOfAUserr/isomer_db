@@ -1,0 +1,13 @@
+{
+    "names": "PeMA ; Pentamethoxyamphetamine",
+    "iupac_name": "1-(Pentamethoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7914,
+    "formular": "C14H23NO5",
+    "molecular_weight": 285.336,
+    "inChl": "1S/C14H23NO5/c1-8(15)7-9-10(16-2)12(18-4)14(20-6)13(19-5)11(9)17-3/h8H,7,15H2,1-6H3",
+    "InChl_Key": "CDUJLDXLXICILS-UHFFFAOYSA-N",
+    "SMILES": "COc1c(CC(C)N)c(OC)c(OC)c(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7914",
+    "validation": "m_weight unsave, calculated(285.34)"
+}

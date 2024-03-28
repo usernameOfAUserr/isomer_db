@@ -1,0 +1,13 @@
+{
+    "names": "Epibatidine",
+    "iupac_name": "(1S,2S,4R)-2-(6-Chloropyridin-3-yl)-7-azabicyclo[2.2.1]heptane",
+    "category": "data not stored",
+    "index": 7919,
+    "formular": "C11H13ClN2",
+    "molecular_weight": 208.687,
+    "inChl": "1S/C11H13ClN2/c12-11-4-1-7(6-13-11)9-5-8-2-3-10(9)14-8/h1,4,6,8-10,14H,2-3,5H2/t8-,9+,10+/m1/s1",
+    "InChl_Key": "NLPRAJRHRHZCQQ-UTLUCORTSA-N",
+    "SMILES": "Clc1ccc([C@@H]2C[C@H]3CC[C@@H]2N3)cn1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7919",
+    "validation": "m_weight unsave, calculated(208.69199999999998)"
+}

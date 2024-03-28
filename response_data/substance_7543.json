@@ -1,0 +1,13 @@
+{
+    "names": "ZCZ-011",
+    "iupac_name": "6-Methyl-3-[2-nitro-1-(thiophen-2-yl)ethyl]-2-phenyl-1H-indole",
+    "category": "cannabinodids",
+    "index": 7543,
+    "formular": "C21H18N2O2S",
+    "molecular_weight": 362.445,
+    "inChl": "1S/C21H18N2O2S/c1-14-9-10-16-18(12-14)22-21(15-6-3-2-4-7-15)20(16)17(13-23(24)25)19-8-5-11-26-19/h2-12,17,22H,13H2,1H3",
+    "InChl_Key": "RJSPNRDBWHHFMH-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc2c(C(C[N+](=O)[O-])c3cccs3)c(-c3ccccc3)[nH]c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7543",
+    "validation": "m_weight unsave, calculated(362.45400000000006)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3\u2032-Trifluoromethylaminorex ; 3\u2032-TFMAR",
+    "iupac_name": "5-[3-(Trifluoromethyl)phenyl]-4,5-dihydro-1,3-oxazol-2-amine",
+    "category": "data not stored",
+    "index": 3606,
+    "formular": "C10H9F3N2O",
+    "molecular_weight": 230.186,
+    "inChl": "1S/C10H9F3N2O/c11-10(12,13)7-3-1-2-6(4-7)8-5-15-9(14)16-8/h1-4,8H,5H2,(H2,14,15)",
+    "InChl_Key": "XZILGPPNXVPPIB-UHFFFAOYSA-N",
+    "SMILES": "NC1=NCC(c2cccc(C(F)(F)F)c2)O1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3606",
+    "validation": "m_weight unsave, calculated(230.18899999999994)"
+}

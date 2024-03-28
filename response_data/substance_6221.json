@@ -1,0 +1,13 @@
+{
+    "names": "iPr-NKE-Pent",
+    "iupac_name": "Propan-2-yl 5-{[1-(2-chlorophenyl)-2-oxocyclohexyl]amino}pentanoate",
+    "category": "Arylcycloalkylamine",
+    "index": 6221,
+    "formular": "C20H28ClNO3",
+    "molecular_weight": 365.894,
+    "inChl": "1S/C20H28ClNO3/c1-15(2)25-19(24)12-6-8-14-22-20(13-7-5-11-18(20)23)16-9-3-4-10-17(16)21/h3-4,9-10,15,22H,5-8,11-14H2,1-2H3",
+    "InChl_Key": "VELFQRXGQQEDQS-UHFFFAOYSA-N",
+    "SMILES": "CC(C)OC(=O)CCCCNC1(c2ccccc2Cl)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6221",
+    "validation": "m_weight unsave, calculated(365.901)"
+}

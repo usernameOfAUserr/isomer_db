@@ -1,0 +1,13 @@
+{
+    "names": "S-40503",
+    "iupac_name": "2-[4-(Dimethylamino)-6-nitro-1,2,3,4-tetrahydroquinolin-2-yl]-2-methylpropan-1-ol",
+    "category": "data not stored",
+    "index": 13244,
+    "formular": "C15H23N3O3",
+    "molecular_weight": 293.361,
+    "inChl": "1S/C15H23N3O3/c1-15(2,9-19)14-8-13(17(3)4)11-7-10(18(20)21)5-6-12(11)16-14/h5-7,13-14,16,19H,8-9H2,1-4H3",
+    "InChl_Key": "YNYAUBNZRZVNLX-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1CC(C(C)(C)CO)Nc2ccc([N+](=O)[O-])cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13244",
+    "validation": "m_weight unsave, calculated(293.367)"
+}

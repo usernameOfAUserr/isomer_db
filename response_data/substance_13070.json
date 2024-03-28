@@ -1,0 +1,13 @@
+{
+    "names": "4,6-Difluoroserotonin ; 4,6-Difluoro-5-hydroxytryptamine ; 4,6-Difluoro-5-HO-T",
+    "iupac_name": "3-(2-Aminoethyl)-4,6-difluoro-1H-indol-5-ol",
+    "category": "Tryptamine",
+    "index": 13070,
+    "formular": "C10H10F2N2O",
+    "molecular_weight": 212.196,
+    "inChl": "1S/C10H10F2N2O/c11-6-3-7-8(9(12)10(6)15)5(1-2-13)4-14-7/h3-4,14-15H,1-2,13H2",
+    "InChl_Key": "YODGOKJFDASQKQ-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2cc(F)c(O)c(F)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13070",
+    "validation": "m_weight unsave, calculated(212.19899999999996)"
+}

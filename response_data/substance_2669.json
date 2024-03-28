@@ -1,0 +1,13 @@
+{
+    "names": "4-EA ; 4-Ethylamphetamine",
+    "iupac_name": "1-(4-Ethylphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 2669,
+    "formular": "C11H17N",
+    "molecular_weight": 163.259,
+    "inChl": "1S/C11H17N/c1-3-10-4-6-11(7-5-10)8-9(2)12/h4-7,9H,3,8,12H2,1-2H3",
+    "InChl_Key": "VHFLVGIMDGXALR-UHFFFAOYSA-N",
+    "SMILES": "CCc1ccc(CC(C)N)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2669",
+    "validation": "m_weight unsave, calculated(163.26399999999998)"
+}

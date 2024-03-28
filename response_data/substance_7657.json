@@ -1,0 +1,13 @@
+{
+    "names": "Benzylmorphine ; 3-Benzylmorphine",
+    "iupac_name": "3-(Benzyloxy)-17-methyl-7,8-didehydro-4,5\u03b1-epoxymorphinan-6\u03b1-ol ; (4R,4aR,7S,7aR,12bS)-9-(Benzyloxy)-3-methyl-2,3,4,4a,7,7a-hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinolin-7-ol ; (5\u03b1,6\u03b1)-3-(Benzyloxy)-17-methyl-7,8-didehydro-4,5-epoxymorphinan-6-ol",
+    "category": "data not stored",
+    "index": 7657,
+    "formular": "C24H25NO3",
+    "molecular_weight": 375.46,
+    "inChl": "1S/C24H25NO3/c1-25-12-11-24-17-8-9-19(26)23(24)28-22-20(27-14-15-5-3-2-4-6-15)10-7-16(21(22)24)13-18(17)25/h2-10,17-19,23,26H,11-14H2,1H3/t17-,18+,19-,23-,24-/m0/s1",
+    "InChl_Key": "RDJGWRFTDZZXSM-RNWLQCGYSA-N",
+    "SMILES": "CN1CC[C@]23c4c5ccc(OCc6ccccc6)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7657",
+    "validation": "m_weight unsave, calculated(375.46800000000013)"
+}

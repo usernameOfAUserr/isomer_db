@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1,\u03b2-Oxo-pyr-T ; \u03b1,\u03b2-Oxo-pyr-tryptamine",
+    "iupac_name": "1-(1H-Indol-3-yl)-2-(pyrrolidin-1-yl)ethane-1,2-dione",
+    "category": "Tryptamine",
+    "index": 6747,
+    "formular": "C14H14N2O2",
+    "molecular_weight": 242.273,
+    "inChl": "1S/C14H14N2O2/c17-13(14(18)16-7-3-4-8-16)11-9-15-12-6-2-1-5-10(11)12/h1-2,5-6,9,15H,3-4,7-8H2",
+    "InChl_Key": "YGWYYPSWJRQAGM-UHFFFAOYSA-N",
+    "SMILES": "O=C(C(=O)N1CCCC1)c1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6747",
+    "validation": "m_weight unsave, calculated(242.27799999999996)"
+}

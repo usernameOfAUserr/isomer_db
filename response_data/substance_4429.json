@@ -1,0 +1,13 @@
+{
+    "names": "CHP-PINACA ; SGT-59",
+    "iupac_name": "N-Cycloheptyl-1-pentyl-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4429,
+    "formular": "C20H29N3O",
+    "molecular_weight": 327.464,
+    "inChl": "1S/C20H29N3O/c1-2-3-10-15-23-18-14-9-8-13-17(18)19(22-23)20(24)21-16-11-6-4-5-7-12-16/h8-9,13-14,16H,2-7,10-12,15H2,1H3,(H,21,24)",
+    "InChl_Key": "VWSUWAJCUNBZOG-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1nc(C(=O)NC2CCCCCC2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4429",
+    "validation": "m_weight unsave, calculated(327.47200000000026)"
+}

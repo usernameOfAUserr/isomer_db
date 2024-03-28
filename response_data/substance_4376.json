@@ -1,0 +1,13 @@
+{
+    "names": "Pentazocine",
+    "iupac_name": "(2R,6R,11R)-6,11-Dimethyl-3-(3-methylbut-2-en-1-yl)-1,2,3,4,5,6-hexahydro-2,6-methano-3-benzazocin-8-ol",
+    "category": "data not stored",
+    "index": 4376,
+    "formular": "C19H27NO",
+    "molecular_weight": 285.424,
+    "inChl": "1S/C19H27NO/c1-13(2)7-9-20-10-8-19(4)14(3)18(20)11-15-5-6-16(21)12-17(15)19/h5-7,12,14,18,21H,8-11H2,1-4H3/t14-,18+,19+/m0/s1",
+    "InChl_Key": "VOKSWYLNZZRQPF-GDIGMMSISA-N",
+    "SMILES": "CC(C)=CCN1CC[C@@]2(C)c3cc(O)ccc3C[C@@H]1[C@@H]2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4376",
+    "validation": "m_weight unsave, calculated(285.43100000000004)"
+}

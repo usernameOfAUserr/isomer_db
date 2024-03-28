@@ -1,0 +1,13 @@
+{
+    "names": "4-Cl-\u03b1-EAPP ; 4\u2032-Chloro-2-(ethylamino)pentanophenone",
+    "iupac_name": "1-(4-Chlorophenyl)-2-(ethylamino)pentan-1-one",
+    "category": "data not stored",
+    "index": 2688,
+    "formular": "C13H18ClNO",
+    "molecular_weight": 239.741,
+    "inChl": "1S/C13H18ClNO/c1-3-5-12(15-4-2)13(16)10-6-8-11(14)9-7-10/h6-9,12,15H,3-5H2,1-2H3",
+    "InChl_Key": "LLMFEBDJULISOC-UHFFFAOYSA-N",
+    "SMILES": "CCCC(NCC)C(=O)c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2688",
+    "validation": "m_weight unsave, calculated(239.74599999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "S-Benzyl O-{3-[2-(dimethylamino)ethyl]-1H-indol-4-yl} carbonothioate",
+    "iupac_name": "14783 ; C20H22N2O2S ; 354.466",
+    "category": "Tryptamine",
+    "index": 14783,
+    "formular": "C20H22N2O2S",
+    "molecular_weight": 354.466,
+    "inChl": "1S/C20H22N2O2S/c1-22(2)12-11-16-13-21-17-9-6-10-18(19(16)17)24-20(23)25-14-15-7-4-3-5-8-15/h3-10,13,21H,11-12,14H2,1-2H3",
+    "InChl_Key": "BZUPKFGIKSPOQP-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2cccc(OC(=O)SCc3ccccc3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14783",
+    "validation": "m_weight unsave, calculated(354.4750000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-Acetyl-3-MMC",
+    "iupac_name": "N-[1-(3-Methylphenyl)-1-oxopropan-2-yl]acetamide",
+    "category": "data not stored",
+    "index": 13934,
+    "formular": "C12H15NO2",
+    "molecular_weight": 205.253,
+    "inChl": "1S/C12H15NO2/c1-8-5-4-6-11(7-8)12(15)9(2)13-10(3)14/h4-7,9H,1-3H3,(H,13,14)",
+    "InChl_Key": "WFQSHYJYKDPIOE-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NC(C)C(=O)c1cccc(C)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13934",
+    "validation": "m_weight unsave, calculated(205.25699999999998)"
+}

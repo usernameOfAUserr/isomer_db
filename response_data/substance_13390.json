@@ -1,0 +1,13 @@
+{
+    "names": "4-Fluoro-IPIBT ; 4-Fluoro-N-isopropyl-N-isobutyltryptamine",
+    "iupac_name": "N-[2-(4-Fluoro-1H-indol-3-yl)ethyl]-2-methyl-N-(propan-2-yl)propan-1-amine",
+    "category": "Tryptamine",
+    "index": 13390,
+    "formular": "C17H25FN2",
+    "molecular_weight": 276.392,
+    "inChl": "1S/C17H25FN2/c1-12(2)11-20(13(3)4)9-8-14-10-19-16-7-5-6-15(18)17(14)16/h5-7,10,12-13,19H,8-9,11H2,1-4H3",
+    "InChl_Key": "ALMABCHJTHQHPC-UHFFFAOYSA-N",
+    "SMILES": "CC(C)CN(CCc1c[nH]c2cccc(F)c12)C(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13390",
+    "validation": "m_weight unsave, calculated(276.399)"
+}

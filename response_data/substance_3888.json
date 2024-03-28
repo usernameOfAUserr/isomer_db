@@ -1,0 +1,13 @@
+{
+    "names": "Thebaine ; Codeine methyl enol ether ; Paramorphine",
+    "iupac_name": "3,6-Dimethoxy-17-methyl-6,7,8,14-tetradehydro-4,5\u03b1-epoxymorphinan ; (4R,7aR,12bS)-7,9-Dimethoxy-3-methyl-2,3,4,7a-tetrahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinoline ; (5\u03b1)-3,6-Dimethoxy-17-methyl-6,7,8,14-tetradehydro-4,5-epoxymorphinan",
+    "category": "data not stored",
+    "index": 3888,
+    "formular": "C19H21NO3",
+    "molecular_weight": 311.375,
+    "inChl": "1S/C19H21NO3/c1-20-9-8-19-12-5-7-15(22-3)18(19)23-17-14(21-2)6-4-11(16(17)19)10-13(12)20/h4-7,13,18H,8-10H2,1-3H3/t13-,18+,19+/m1/s1",
+    "InChl_Key": "FQXXSQDCDRQNQE-VMDGZTHMSA-N",
+    "SMILES": "COC1=CC=C2[C@H]3Cc4ccc(OC)c5c4[C@@]2(CCN3C)[C@H]1O5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3888",
+    "validation": "m_weight unsave, calculated(311.38100000000003)"
+}

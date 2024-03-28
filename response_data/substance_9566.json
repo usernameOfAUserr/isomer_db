@@ -1,0 +1,13 @@
+{
+    "names": "4-Carboxy-mephedrone",
+    "iupac_name": "4-(N-Methylalanyl)benzoic acid ; 4-[2-(Methylamino)propanoyl]benzoic acid",
+    "category": "data not stored",
+    "index": 9566,
+    "formular": "C11H13NO3",
+    "molecular_weight": 207.226,
+    "inChl": "1S/C11H13NO3/c1-7(12-2)10(13)8-3-5-9(6-4-8)11(14)15/h3-7,12H,1-2H3,(H,14,15)",
+    "InChl_Key": "ZJGFLTNMEIWKFJ-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(=O)c1ccc(C(=O)O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9566",
+    "validation": "m_weight unsave, calculated(207.22899999999998)"
+}

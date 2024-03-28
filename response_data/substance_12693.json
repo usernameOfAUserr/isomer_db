@@ -1,0 +1,13 @@
+{
+    "names": "(6aR,10aR)-3-(Hexan-2-yl)-6,6,9-trimethyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-ol",
+    "iupac_name": "12693 ; C22H32O2 ; 328.488",
+    "category": "cannabinodids",
+    "index": 12693,
+    "formular": "C22H32O2",
+    "molecular_weight": 328.488,
+    "inChl": "1S/C22H32O2/c1-6-7-8-15(3)16-12-19(23)21-17-11-14(2)9-10-18(17)22(4,5)24-20(21)13-16/h11-13,15,17-18,23H,6-10H2,1-5H3/t15?,17-,18-/m1/s1",
+    "InChl_Key": "CREXFHHKCDNSEB-HSFDIDPMSA-N",
+    "SMILES": "CCCCC(C)c1cc(O)c2c(c1)OC(C)(C)[C@@H]1CCC(C)=C[C@@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12693",
+    "validation": "m_weight unsave, calculated(328.4960000000001)"
+}

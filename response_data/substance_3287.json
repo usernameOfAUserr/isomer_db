@@ -1,0 +1,13 @@
+{
+    "names": "(Pyridin-4-yl)ethylnorpethidine",
+    "iupac_name": "Ethyl 4-phenyl-1-[2-(pyridin-4-yl)ethyl]piperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 3287,
+    "formular": "C21H26N2O2",
+    "molecular_weight": 338.443,
+    "inChl": "1S/C21H26N2O2/c1-2-25-20(24)21(19-6-4-3-5-7-19)11-16-23(17-12-21)15-10-18-8-13-22-14-9-18/h3-9,13-14H,2,10-12,15-17H2,1H3",
+    "InChl_Key": "XNLRFXYGQHAXJQ-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CCc2ccncc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3287",
+    "validation": "m_weight unsave, calculated(338.451)"
+}

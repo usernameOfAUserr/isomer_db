@@ -1,0 +1,13 @@
+{
+    "names": "Methylecgonidine ; AEME ; Anhydroecgonine methyl ester ; Anhydromethylecgonine ; Ecgonidine methyl ester",
+    "iupac_name": "Methyl 8-methyl-8-azabicyclo[3.2.1]oct-2-ene-2-carboxylate",
+    "category": "data not stored",
+    "index": 3867,
+    "formular": "C10H15NO2",
+    "molecular_weight": 181.232,
+    "inChl": "1S/C10H15NO2/c1-11-7-3-5-8(10(12)13-2)9(11)6-4-7/h5,7,9H,3-4,6H2,1-2H3",
+    "InChl_Key": "MPSNEAHFGOEKBI-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C1=CCC2CCC1N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3867",
+    "validation": "m_weight unsave, calculated(181.23499999999999)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-[1-(2-Hydroxy-2-phenylethyl)-3-methylpiperidin-4-yl]-N-phenylthiophene-3-carboxamide",
+    "iupac_name": "3117 ; C25H28N2O2S ; 420.567",
+    "category": "Fentanyl",
+    "index": 3117,
+    "formular": "C25H28N2O2S",
+    "molecular_weight": 420.567,
+    "inChl": "1S/C25H28N2O2S/c1-19-16-26(17-24(28)20-8-4-2-5-9-20)14-12-23(19)27(22-10-6-3-7-11-22)25(29)21-13-15-30-18-21/h2-11,13,15,18-19,23-24,28H,12,14,16-17H2,1H3",
+    "InChl_Key": "XQPIQMVZCZFZIZ-UHFFFAOYSA-N",
+    "SMILES": "CC1CN(CC(O)c2ccccc2)CCC1N(C(=O)c1ccsc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3117",
+    "validation": "m_weight unsave, calculated(420.57800000000003)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-(4-Fluorophenyl)butan-2-one",
+    "iupac_name": "11059 ; C10H11FO ; 166.192",
+    "category": "data not stored",
+    "index": 11059,
+    "formular": "C10H11FO",
+    "molecular_weight": 166.192,
+    "inChl": "1S/C10H11FO/c1-7(8(2)12)9-3-5-10(11)6-4-9/h3-7H,1-2H3",
+    "InChl_Key": "YAVUGYPYWDGIBK-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)C(C)c1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11059",
+    "validation": "m_weight unsave, calculated(166.19499999999996)"
+}

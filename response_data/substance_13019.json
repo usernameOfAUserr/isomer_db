@@ -1,0 +1,13 @@
+{
+    "names": "2C-TFM-3PIP",
+    "iupac_name": "3-[2,5-Dimethoxy-4-(trifluoromethyl)phenyl]piperidine",
+    "category": "data not stored",
+    "index": 13019,
+    "formular": "C14H18F3NO2",
+    "molecular_weight": 289.293,
+    "inChl": "1S/C14H18F3NO2/c1-19-12-7-11(14(15,16)17)13(20-2)6-10(12)9-4-3-5-18-8-9/h6-7,9,18H,3-5,8H2,1-2H3",
+    "InChl_Key": "NZKYTYHIERLZBG-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(F)(F)F)c(OC)cc1C1CCCNC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13019",
+    "validation": "m_weight unsave, calculated(289.2969999999999)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "25H-NBOH5Br ; N-(5-Bromo-2-hydroxybenzyl)-2,5-dimethoxyphenethylamine ; 25H-NB5Br2OH",
+    "iupac_name": "4-Bromo-2-({[2-(2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "category": "data not stored",
+    "index": 1161,
+    "formular": "C17H20BrNO3",
+    "molecular_weight": 366.25,
+    "inChl": "1S/C17H20BrNO3/c1-21-15-4-6-17(22-2)12(10-15)7-8-19-11-13-9-14(18)3-5-16(13)20/h3-6,9-10,19-20H,7-8,11H2,1-2H3",
+    "InChl_Key": "JZCHVESTZHFYQR-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c(CCNCc2cc(Br)ccc2O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1161",
+    "validation": "m_weight unsave, calculated(366.25500000000005)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "34H-NBOMe ; N-(2-Methoxybenzyl-3,4-dimethoxyphenethylamine",
+    "iupac_name": "2-(3,4-Dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 7254,
+    "formular": "C18H23NO3",
+    "molecular_weight": 301.38,
+    "inChl": "1S/C18H23NO3/c1-20-16-7-5-4-6-15(16)13-19-11-10-14-8-9-17(21-2)18(12-14)22-3/h4-9,12,19H,10-11,13H2,1-3H3",
+    "InChl_Key": "MKSNFKKOJNEKLN-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CNCCc1ccc(OC)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7254",
+    "validation": "m_weight unsave, calculated(301.3860000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "6-(3,4-Dimethoxyphenyl)-2-azabicyclo[2.2.2]octane",
+    "iupac_name": "11324 ; C15H21NO2 ; 247.333",
+    "category": "data not stored",
+    "index": 11324,
+    "formular": "C15H21NO2",
+    "molecular_weight": 247.333,
+    "inChl": "1S/C15H21NO2/c1-17-14-6-4-11(8-15(14)18-2)12-7-10-3-5-13(12)16-9-10/h4,6,8,10,12-13,16H,3,5,7,9H2,1-2H3",
+    "InChl_Key": "ZOWXRTXDZSYSDO-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C2CC3CCC2NC3)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11324",
+    "validation": "m_weight unsave, calculated(247.33799999999997)"
+}

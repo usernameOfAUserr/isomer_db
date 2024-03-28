@@ -1,0 +1,13 @@
+{
+    "names": "3,5-Me-PHA ; 4-Hydroxy-3,5-dimethylamphetamine",
+    "iupac_name": "4-(2-Aminopropyl)-2,6-dimethylphenol",
+    "category": "Shulgin_Index",
+    "index": 7523,
+    "formular": "C11H17NO",
+    "molecular_weight": 179.259,
+    "inChl": "1S/C11H17NO/c1-7-4-10(6-9(3)12)5-8(2)11(7)13/h4-5,9,13H,6,12H2,1-3H3",
+    "InChl_Key": "ZXGDIDJCGJRCPE-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(CC(C)N)cc(C)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7523",
+    "validation": "m_weight unsave, calculated(179.26299999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "US 7700634 #23B",
+    "iupac_name": "2-{[(2-{7-Chloro-1-[(oxan-4-yl)methyl]-1H-indol-3-yl}-1,3-thiazol-4-yl)methyl](methyl)amino}ethan-1-ol",
+    "category": "cannabinodids",
+    "index": 7170,
+    "formular": "C21H26ClN3O2S",
+    "molecular_weight": 419.968,
+    "inChl": "1S/C21H26ClN3O2S/c1-24(7-8-26)12-16-14-28-21(23-16)18-13-25(11-15-5-9-27-10-6-15)20-17(18)3-2-4-19(20)22/h2-4,13-15,26H,5-12H2,1H3",
+    "InChl_Key": "PTDAFTZPNCBOIA-UHFFFAOYSA-N",
+    "SMILES": "CN(CCO)Cc1csc(-c2cn(CC3CCOCC3)c3c(Cl)cccc23)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7170",
+    "validation": "m_weight unsave, calculated(419.97800000000024)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "RY-I-31",
+    "iupac_name": "Ethyl 8-cyano-5-methyl-6-oxo-5,6-dihydro-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 6790,
+    "formular": "C16H14N4O3",
+    "molecular_weight": 310.307,
+    "inChl": "1S/C16H14N4O3/c1-3-23-16(22)14-13-8-19(2)15(21)11-6-10(7-17)4-5-12(11)20(13)9-18-14/h4-6,9H,3,8H2,1-2H3",
+    "InChl_Key": "UGHWRPXZRCYTTI-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ncn2c1CN(C)C(=O)c1cc(C#N)ccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6790",
+    "validation": "m_weight unsave, calculated(310.31300000000005)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-Fluoro-MALT ; 4-Fluoro-N-methyl-N-allyltryptamine",
+    "iupac_name": "N-[2-(4-Fluoro-1H-indol-3-yl)ethyl]-N-methylprop-2-en-1-amine",
+    "category": "Tryptamine",
+    "index": 13389,
+    "formular": "C14H17FN2",
+    "molecular_weight": 232.297,
+    "inChl": "1S/C14H17FN2/c1-3-8-17(2)9-7-11-10-16-13-6-4-5-12(15)14(11)13/h3-6,10,16H,1,7-9H2,2H3",
+    "InChl_Key": "JLZDCONOLBUSSR-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(C)CCc1c[nH]c2cccc(F)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13389",
+    "validation": "m_weight unsave, calculated(232.302)"
+}

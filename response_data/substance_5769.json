@@ -1,0 +1,13 @@
+{
+    "names": "6-MeO-THCDMA",
+    "iupac_name": "1-(6-Methoxy-2,3,4,9-tetrahydro-1H-carbazol-4-yl)-N,N-dimethylmethanamine",
+    "category": "data not stored",
+    "index": 5769,
+    "formular": "C16H22N2O",
+    "molecular_weight": 258.359,
+    "inChl": "1S/C16H22N2O/c1-18(2)10-11-5-4-6-15-16(11)13-9-12(19-3)7-8-14(13)17-15/h7-9,11,17H,4-6,10H2,1-3H3",
+    "InChl_Key": "MEUKAKNAKNCMKB-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]c3c(c2c1)C(CN(C)C)CCC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5769",
+    "validation": "m_weight unsave, calculated(258.36499999999995)"
+}

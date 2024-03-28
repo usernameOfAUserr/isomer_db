@@ -1,0 +1,13 @@
+{
+    "names": "5-Cyano-4-fluorotryptamine",
+    "iupac_name": "3-(2-Aminoethyl)-4-fluoro-1H-indole-5-carbonitrile",
+    "category": "Tryptamine",
+    "index": 14476,
+    "formular": "C11H10FN3",
+    "molecular_weight": 203.216,
+    "inChl": "1S/C11H10FN3/c12-11-7(5-14)1-2-9-10(11)8(3-4-13)6-15-9/h1-2,6,15H,3-4,13H2",
+    "InChl_Key": "LFKKCEIOKYRXTL-UHFFFAOYSA-N",
+    "SMILES": "N#Cc1ccc2[nH]cc(CCN)c2c1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14476",
+    "validation": "m_weight unsave, calculated(203.21999999999997)"
+}

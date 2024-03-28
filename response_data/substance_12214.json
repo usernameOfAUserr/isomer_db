@@ -1,0 +1,13 @@
+{
+    "names": "3-HO-4,5-DMBAL",
+    "iupac_name": "3-Hydroxy-4,5-dimethoxybenzaldehyde",
+    "category": "Phenetylamine",
+    "index": 12214,
+    "formular": "C9H10O4",
+    "molecular_weight": 182.173,
+    "inChl": "1S/C9H10O4/c1-12-8-4-6(5-10)3-7(11)9(8)13-2/h3-5,11H,1-2H3",
+    "InChl_Key": "NVLTWXMZECWWPC-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C=O)cc(O)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12214",
+    "validation": "m_weight unsave, calculated(182.17499999999998)"
+}

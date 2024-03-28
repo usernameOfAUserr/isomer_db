@@ -1,0 +1,13 @@
+{
+    "names": "7-[(3-Methoxyphenoxy)methyl]-8-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine",
+    "iupac_name": "2936 ; C19H23NO2 ; 297.391",
+    "category": "data not stored",
+    "index": 2936,
+    "formular": "C19H23NO2",
+    "molecular_weight": 297.391,
+    "inChl": "1S/C19H23NO2/c1-14-10-15-6-8-20-9-7-16(15)11-17(14)13-22-19-5-3-4-18(12-19)21-2/h3-5,10-12,20H,6-9,13H2,1-2H3",
+    "InChl_Key": "QQBGPBYQOJFLTK-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(OCc2cc3c(cc2C)CCNCC3)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2936",
+    "validation": "m_weight unsave, calculated(297.39799999999997)"
+}

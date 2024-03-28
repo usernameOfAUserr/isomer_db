@@ -1,0 +1,13 @@
+{
+    "names": "SpAMDA",
+    "iupac_name": "10H-Spiro[anthracene-9,3\u2032-pyrrolidine]",
+    "category": "Phenetylamine",
+    "index": 12090,
+    "formular": "C17H17N",
+    "molecular_weight": 235.324,
+    "inChl": "1S/C17H17N/c1-3-7-15-13(5-1)11-14-6-2-4-8-16(14)17(15)9-10-18-12-17/h1-8,18H,9-12H2",
+    "InChl_Key": "LKSUTFUZSGZMOS-UHFFFAOYSA-N",
+    "SMILES": "c1ccc2c(c1)Cc1ccccc1C21CCNC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12090",
+    "validation": "m_weight unsave, calculated(235.32999999999998)"
+}

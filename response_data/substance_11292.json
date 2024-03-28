@@ -1,0 +1,13 @@
+{
+    "names": "SGT-72",
+    "iupac_name": "1-(5-Fluoropentyl)-N-(heptan-2-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11292,
+    "formular": "C20H30FN3O",
+    "molecular_weight": 347.47,
+    "inChl": "1S/C20H30FN3O/c1-3-4-6-11-16(2)22-20(25)19-17-12-7-8-13-18(17)24(23-19)15-10-5-9-14-21/h7-8,12-13,16H,3-6,9-11,14-15H2,1-2H3,(H,22,25)",
+    "InChl_Key": "NFCNYROBVXUCDC-UHFFFAOYSA-N",
+    "SMILES": "CCCCCC(C)NC(=O)c1nn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11292",
+    "validation": "m_weight unsave, calculated(347.4780000000002)"
+}

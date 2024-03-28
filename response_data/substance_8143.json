@@ -1,0 +1,13 @@
+{
+    "names": "(Carboxy) JWH-072",
+    "iupac_name": "3-[3-(Naphthalene-1-carbonyl)-1H-indol-1-yl]propanoic acid",
+    "category": "cannabinodids",
+    "index": 8143,
+    "formular": "C22H17NO3",
+    "molecular_weight": 343.375,
+    "inChl": "1S/C22H17NO3/c24-21(25)12-13-23-14-19(17-9-3-4-11-20(17)23)22(26)18-10-5-7-15-6-1-2-8-16(15)18/h1-11,14H,12-13H2,(H,24,25)",
+    "InChl_Key": "VCRZMEAJRGIGCT-UHFFFAOYSA-N",
+    "SMILES": "O=C(O)CCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8143",
+    "validation": "m_weight unsave, calculated(343.38200000000006)"
+}

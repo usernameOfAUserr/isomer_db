@@ -1,0 +1,13 @@
+{
+    "names": "4-BzONH-A ; 4-Benzamidoamphetamine",
+    "iupac_name": "N-[4-(2-Aminopropyl)phenyl]benzamide",
+    "category": "Phenetylamine",
+    "index": 10601,
+    "formular": "C16H18N2O",
+    "molecular_weight": 254.327,
+    "inChl": "1S/C16H18N2O/c1-12(17)11-13-7-9-15(10-8-13)18-16(19)14-5-3-2-4-6-14/h2-10,12H,11,17H2,1H3,(H,18,19)",
+    "InChl_Key": "MZVOWCPIOGNVDL-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(NC(=O)c2ccccc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10601",
+    "validation": "m_weight unsave, calculated(254.33299999999997)"
+}

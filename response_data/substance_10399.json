@@ -1,0 +1,13 @@
+{
+    "names": "2,5-F-3,4-DMPEA ; 2,5-Difluoro-3,4-dimethoxyphenethylamine",
+    "iupac_name": "2-(2,5-Difluoro-3,4-dimethoxyphenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10399,
+    "formular": "C10H13F2NO2",
+    "molecular_weight": 217.213,
+    "inChl": "1S/C10H13F2NO2/c1-14-9-7(11)5-6(3-4-13)8(12)10(9)15-2/h5H,3-4,13H2,1-2H3",
+    "InChl_Key": "YDAFXWGQTGLFOY-UHFFFAOYSA-N",
+    "SMILES": "COc1c(F)cc(CCN)c(F)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10399",
+    "validation": "m_weight unsave, calculated(217.21499999999995)"
+}

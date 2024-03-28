@@ -1,0 +1,13 @@
+{
+    "names": "DOPAL ; 3,4-Dihydroxyphenylacetaldehyde",
+    "iupac_name": "(3,4-Dihydroxyphenyl)acetaldehyde",
+    "category": "data not stored",
+    "index": 1878,
+    "formular": "C8H8O3",
+    "molecular_weight": 152.147,
+    "inChl": "1S/C8H8O3/c9-4-3-6-1-2-7(10)8(11)5-6/h1-2,4-5,10-11H,3H2",
+    "InChl_Key": "IADQVXRMSNIUEL-UHFFFAOYSA-N",
+    "SMILES": "O=CCc1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1878",
+    "validation": "m_weight unsave, calculated(152.14899999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-MeS-DMT ; 5-Methylthio-N,N-dimethyltryptamine ; 3-[2-(Dimethylamino)ethyl]-5-methylthioindole ; N,N-Dimethyl-5-methylthiotryptamine ; Indole, 3-[2-(dimethylamino)ethyl]-5-methylthio ; 5-Methylthio-DMT ; Tryptamine, N,N-dimethyl-5-methylthio",
+    "iupac_name": "N,N-Dimethyl-2-[5-(methylsulfanyl)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5046,
+    "formular": "C13H18N2S",
+    "molecular_weight": 234.36,
+    "inChl": "1S/C13H18N2S/c1-15(2)7-6-10-9-14-13-5-4-11(16-3)8-12(10)13/h4-5,8-9,14H,6-7H2,1-3H3",
+    "InChl_Key": "YOGJZQGRTVMCPY-UHFFFAOYSA-N",
+    "SMILES": "CSc1ccc2[nH]cc(CCN(C)C)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5046",
+    "validation": "m_weight unsave, calculated(234.36799999999997)"
+}

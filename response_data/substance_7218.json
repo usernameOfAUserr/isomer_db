@@ -1,0 +1,13 @@
+{
+    "names": "2C-FP ; 4-(3-Fluoropropyl)-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-[4-(3-Fluoropropyl)-2,5-dimethoxyphenyl]ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 7218,
+    "formular": "C13H20FNO2",
+    "molecular_weight": 241.302,
+    "inChl": "1S/C13H20FNO2/c1-16-12-9-11(5-7-15)13(17-2)8-10(12)4-3-6-14/h8-9H,3-7,15H2,1-2H3",
+    "InChl_Key": "VMCXWURSAVARMD-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCCF)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7218",
+    "validation": "m_weight unsave, calculated(241.30599999999993)"
+}

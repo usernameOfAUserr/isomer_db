@@ -1,0 +1,13 @@
+{
+    "names": "2,6-Diiodomescaline ; 2,6-Diiodo-3,4,5-trimethoxyphenethylamine",
+    "iupac_name": "2-(2,6-Diiodo-3,4,5-trimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 7035,
+    "formular": "C11H15I2NO3",
+    "molecular_weight": 463.051,
+    "inChl": "1S/C11H15I2NO3/c1-15-9-7(12)6(4-5-14)8(13)10(16-2)11(9)17-3/h4-5,14H2,1-3H3",
+    "InChl_Key": "HBHDZMOTBIMMQM-UHFFFAOYSA-N",
+    "SMILES": "COc1c(I)c(CCN)c(I)c(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7035",
+    "validation": "m_weight unsave, calculated(463.0530000000001)"
+}

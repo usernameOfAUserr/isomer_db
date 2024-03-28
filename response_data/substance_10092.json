@@ -1,0 +1,13 @@
+{
+    "names": "5-(2-ClPh)-2-MPEA ; 5-(2-Chlorophenyl)-2-methoxyphenethylamine",
+    "iupac_name": "2-(2\u2032-Chloro-4-methoxy[1,1\u2032-biphenyl]-3-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10092,
+    "formular": "C15H16ClNO",
+    "molecular_weight": 261.747,
+    "inChl": "1S/C15H16ClNO/c1-18-15-7-6-11(10-12(15)8-9-17)13-4-2-3-5-14(13)16/h2-7,10H,8-9,17H2,1H3",
+    "InChl_Key": "UHMNAZFEABDHRJ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(-c2ccccc2Cl)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10092",
+    "validation": "m_weight unsave, calculated(261.75199999999995)"
+}

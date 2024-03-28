@@ -1,0 +1,13 @@
+{
+    "names": "AM-2212",
+    "iupac_name": "{6-Azido-1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}(4-iodonaphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 14598,
+    "formular": "C26H24IN5O",
+    "molecular_weight": 549.406,
+    "inChl": "1S/C26H24IN5O/c1-31-13-5-4-6-18(31)15-32-16-23(21-10-9-17(29-30-28)14-25(21)32)26(33)22-11-12-24(27)20-8-3-2-7-19(20)22/h2-3,7-12,14,16,18H,4-6,13,15H2,1H3",
+    "InChl_Key": "PDHUEZJAXHPFGH-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCCC1Cn1cc(C(=O)c2ccc(I)c3ccccc23)c2ccc(N=[N+]=[N-])cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14598",
+    "validation": "m_weight unsave, calculated(549.4160000000002)"
+}

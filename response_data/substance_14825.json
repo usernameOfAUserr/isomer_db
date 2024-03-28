@@ -1,0 +1,13 @@
+{
+    "names": "3-IPM ; 3-Iodophenmetrazine",
+    "iupac_name": "2-(3-Iodophenyl)-3-methylmorpholine",
+    "category": "data not stored",
+    "index": 14825,
+    "formular": "C11H14INO",
+    "molecular_weight": 303.139,
+    "inChl": "1S/C11H14INO/c1-8-11(14-6-5-13-8)9-3-2-4-10(12)7-9/h2-4,7-8,11,13H,5-6H2,1H3",
+    "InChl_Key": "KVKQAUIYFLCXPS-UHFFFAOYSA-N",
+    "SMILES": "CC1NCCOC1c1cccc(I)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14825",
+    "validation": "m_weight unsave, calculated(303.14300000000003)"
+}

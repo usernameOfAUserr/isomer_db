@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-CCE ; \u03b2-Carboline-3-carboxylic acid ethyl ester ; \u03b2C-3-COOH ethyl ester",
+    "iupac_name": "Ethyl 9H-pyrido[3,4-b]indole-3-carboxylate ; Ethyl 9H-\u03b2-carboline-3-carboxylate",
+    "category": "data not stored",
+    "index": 5430,
+    "formular": "C14H12N2O2",
+    "molecular_weight": 240.257,
+    "inChl": "1S/C14H12N2O2/c1-2-18-14(17)12-7-10-9-5-3-4-6-11(9)16-13(10)8-15-12/h3-8,16H,2H2,1H3",
+    "InChl_Key": "KOVRZNUMIKACTB-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1cc2c(cn1)[nH]c1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5430",
+    "validation": "m_weight unsave, calculated(240.26200000000003)"
+}

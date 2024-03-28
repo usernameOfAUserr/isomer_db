@@ -1,0 +1,13 @@
+{
+    "names": "(3-Chlorophenyl)(piperazin-1-yl)methanone",
+    "iupac_name": "11387 ; C11H13ClN2O ; 224.687",
+    "category": "data not stored",
+    "index": 11387,
+    "formular": "C11H13ClN2O",
+    "molecular_weight": 224.687,
+    "inChl": "1S/C11H13ClN2O/c12-10-3-1-2-9(8-10)11(15)14-6-4-13-5-7-14/h1-3,8,13H,4-7H2",
+    "InChl_Key": "FBTDRVSCKFZIQH-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1cccc(Cl)c1)N1CCNCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11387",
+    "validation": "m_weight unsave, calculated(224.69099999999995)"
+}

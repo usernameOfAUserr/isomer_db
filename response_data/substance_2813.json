@@ -1,0 +1,13 @@
+{
+    "names": "2\u2032-Oxo-PCP ; 2-Keto-PCP",
+    "iupac_name": "2-Phenyl-2-(piperidin-1-yl)cyclohexan-1-one",
+    "category": "Arylcycloalkylamine",
+    "index": 2813,
+    "formular": "C17H23NO",
+    "molecular_weight": 257.371,
+    "inChl": "1S/C17H23NO/c19-16-11-5-6-12-17(16,15-9-3-1-4-10-15)18-13-7-2-8-14-18/h1,3-4,9-10H,2,5-8,11-14H2",
+    "InChl_Key": "NVKXODIIEPKREY-UHFFFAOYSA-N",
+    "SMILES": "O=C1CCCCC1(c1ccccc1)N1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2813",
+    "validation": "m_weight unsave, calculated(257.37699999999995)"
+}

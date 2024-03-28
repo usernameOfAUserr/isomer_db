@@ -1,0 +1,13 @@
+{
+    "names": "2,3-HMeMPEA ; 2-Hydroxy-3-methyl-N-methylphenethylamine",
+    "iupac_name": "2-Methyl-6-[2-(methylamino)ethyl]phenol",
+    "category": "data not stored",
+    "index": 6364,
+    "formular": "C10H15NO",
+    "molecular_weight": 165.232,
+    "inChl": "1S/C10H15NO/c1-8-4-3-5-9(10(8)12)6-7-11-2/h3-5,11-12H,6-7H2,1-2H3",
+    "InChl_Key": "HTSMXNONBVHBQA-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1cccc(C)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6364",
+    "validation": "m_weight unsave, calculated(165.23599999999996)"
+}

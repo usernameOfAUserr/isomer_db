@@ -1,0 +1,13 @@
+{
+    "names": "N-Et-3-TFMPEA ; N-Ethyl-3-trifluoromethylphenethylamine",
+    "iupac_name": "N-Ethyl-2-[3-(trifluoromethyl)phenyl]ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 6134,
+    "formular": "C11H14F3N",
+    "molecular_weight": 217.231,
+    "inChl": "1S/C11H14F3N/c1-2-15-7-6-9-4-3-5-10(8-9)11(12,13)14/h3-5,8,15H,2,6-7H2,1H3",
+    "InChl_Key": "BPORXUJNFWYFAP-UHFFFAOYSA-N",
+    "SMILES": "CCNCCc1cccc(C(F)(F)F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6134",
+    "validation": "m_weight unsave, calculated(217.23399999999995)"
+}

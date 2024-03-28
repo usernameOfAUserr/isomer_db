@@ -1,0 +1,13 @@
+{
+    "names": "4-HPEA ; 4-Hexyloxyphenethylamine",
+    "iupac_name": "2-[4-(Hexyloxy)phenyl]ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 6329,
+    "formular": "C14H23NO",
+    "molecular_weight": 221.339,
+    "inChl": "1S/C14H23NO/c1-2-3-4-5-12-16-14-8-6-13(7-9-14)10-11-15/h6-9H,2-5,10-12,15H2,1H3",
+    "InChl_Key": "DMAAELNOXQOFCP-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCOc1ccc(CCN)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6329",
+    "validation": "m_weight unsave, calculated(221.34399999999997)"
+}

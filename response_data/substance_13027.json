@@ -1,0 +1,13 @@
+{
+    "names": "2C-T-4-3PIP",
+    "iupac_name": "3-{2,5-Dimethoxy-4-[(propan-2-yl)sulfanyl]phenyl}piperidine",
+    "category": "data not stored",
+    "index": 13027,
+    "formular": "C16H25NO2S",
+    "molecular_weight": 295.44,
+    "inChl": "1S/C16H25NO2S/c1-11(2)20-16-9-14(18-3)13(8-15(16)19-4)12-6-5-7-17-10-12/h8-9,11-12,17H,5-7,10H2,1-4H3",
+    "InChl_Key": "GWAKJYASECCTBF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2CCCNC2)c(OC)cc1SC(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13027",
+    "validation": "m_weight unsave, calculated(295.44800000000004)"
+}

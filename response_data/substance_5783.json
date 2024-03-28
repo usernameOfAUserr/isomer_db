@@ -1,0 +1,13 @@
+{
+    "names": "1-Phenylthio-4-MeO-DMT ; 1-Phenylthio-4-methoxy-N,N-dimethyltryptamine",
+    "iupac_name": "2-[4-Methoxy-1-(phenylsulfanyl)-1H-indol-3-yl]-N,N-dimethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5783,
+    "formular": "C19H22N2OS",
+    "molecular_weight": 326.456,
+    "inChl": "1S/C19H22N2OS/c1-20(2)13-12-15-14-21(23-16-8-5-4-6-9-16)17-10-7-11-18(22-3)19(15)17/h4-11,14H,12-13H2,1-3H3",
+    "InChl_Key": "CHIIBHOOYYBXNW-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c1c(CCN(C)C)cn2Sc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5783",
+    "validation": "m_weight unsave, calculated(326.46500000000003)"
+}

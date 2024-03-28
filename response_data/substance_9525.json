@@ -1,0 +1,13 @@
+{
+    "names": "Sildenafil",
+    "iupac_name": "5-[2-Ethoxy-5-(4-methylpiperazine-1-sulfonyl)phenyl]-1-methyl-3-propyl-1,4-dihydro-7H-pyrazolo[4,3-d]pyrimidin-7-one",
+    "category": "data not stored",
+    "index": 9525,
+    "formular": "C22H30N6O4S",
+    "molecular_weight": 474.576,
+    "inChl": "1S/C22H30N6O4S/c1-5-7-17-19-20(27(4)25-17)22(29)24-21(23-19)16-14-15(8-9-18(16)32-6-2)33(30,31)28-12-10-26(3)11-13-28/h8-9,14H,5-7,10-13H2,1-4H3,(H,23,24,29)",
+    "InChl_Key": "BNRNXUUZRGQAQC-UHFFFAOYSA-N",
+    "SMILES": "CCCc1nn(C)c2c(=O)nc(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)[nH]c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9525",
+    "validation": "m_weight unsave, calculated(474.5870000000004)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "GL-ii-73",
+    "iupac_name": "(4R)-8-Ethynyl-6-(2-fluorophenyl)-N,N,4-trimethyl-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxamide",
+    "category": "Aryldiazepine",
+    "index": 8204,
+    "formular": "C23H19FN4O",
+    "molecular_weight": 386.422,
+    "inChl": "1S/C23H19FN4O/c1-5-15-10-11-19-17(12-15)20(16-8-6-7-9-18(16)24)26-14(2)22-21(23(29)27(3)4)25-13-28(19)22/h1,6-14H,2-4H3/t14-/m1/s1",
+    "InChl_Key": "LNPOWXXHIUMIKI-CQSZACIVSA-N",
+    "SMILES": "C#Cc1ccc2c(c1)C(c1ccccc1F)=N[C@H](C)c1c(C(=O)N(C)C)ncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8204",
+    "validation": "m_weight unsave, calculated(386.4300000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-EPT ; 5-Methoxy-N-ethyl-N-propyltryptamine",
+    "iupac_name": "N-Ethyl-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]propan-1-amine",
+    "category": "Tryptamine",
+    "index": 5094,
+    "formular": "C16H24N2O",
+    "molecular_weight": 260.375,
+    "inChl": "1S/C16H24N2O/c1-4-9-18(5-2)10-8-13-12-17-16-7-6-14(19-3)11-15(13)16/h6-7,11-12,17H,4-5,8-10H2,1-3H3",
+    "InChl_Key": "OQHFIOKNGNJPPF-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CC)CCc1c[nH]c2ccc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5094",
+    "validation": "m_weight unsave, calculated(260.381)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "CBT ; Cannabicitran",
+    "iupac_name": "(6aR,9R,10aS)-6,6,9-Trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydro-6H-1,9-epoxydibenzo[b,d]pyran",
+    "category": "cannabinodids",
+    "index": 8107,
+    "formular": "C21H30O2",
+    "molecular_weight": 314.462,
+    "inChl": "1S/C21H30O2/c1-5-6-7-8-14-11-17-19-15-13-21(4,23-18(19)12-14)10-9-16(15)20(2,3)22-17/h11-12,15-16H,5-10,13H2,1-4H3/t15-,16+,21+/m0/s1",
+    "InChl_Key": "IXJXRDCCQRZSDV-GCKMJXCFSA-N",
+    "SMILES": "CCCCCc1cc2c3c(c1)O[C@]1(C)CC[C@H]([C@@H]3C1)C(C)(C)O2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8107",
+    "validation": "m_weight unsave, calculated(314.4690000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-NMT-NB4Br ; N-(4-Bromobenzyl)-5-methoxy-N-methyltryptamine",
+    "iupac_name": "N-[(4-Bromophenyl)methyl]-2-(5-methoxy-1H-indol-3-yl)-N-methylethan-1-amine ; N-(4-Bromobenzyl)-2-(5-methoxy-1H-indol-3-yl)-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5658,
+    "formular": "C19H21BrN2O",
+    "molecular_weight": 373.287,
+    "inChl": "1S/C19H21BrN2O/c1-22(13-14-3-5-16(20)6-4-14)10-9-15-12-21-19-8-7-17(23-2)11-18(15)19/h3-8,11-12,21H,9-10,13H2,1-2H3",
+    "InChl_Key": "UBDKAWSVGYJQAW-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN(C)Cc3ccc(Br)cc3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5658",
+    "validation": "m_weight unsave, calculated(373.294)"
+}

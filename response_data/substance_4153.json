@@ -1,0 +1,13 @@
+{
+    "names": "US 4939138 #2E",
+    "iupac_name": "(4-Bromonaphthalen-1-yl){(3R)-5-methyl-3-[(morpholin-4-yl)methyl]-2,3-dihydro[1,4]oxazino[2,3,4-hi]indol-6-yl}methanone",
+    "category": "cannabinodids",
+    "index": 4153,
+    "formular": "C27H25BrN2O3",
+    "molecular_weight": 505.403,
+    "inChl": "1S/C27H25BrN2O3/c1-17-25(27(31)21-9-10-23(28)20-6-3-2-5-19(20)21)22-7-4-8-24-26(22)30(17)18(16-33-24)15-29-11-13-32-14-12-29/h2-10,18H,11-16H2,1H3/t18-/m1/s1",
+    "InChl_Key": "UAXKWURORIRMBX-GOSISDBHSA-N",
+    "SMILES": "Cc1c(C(=O)c2ccc(Br)c3ccccc23)c2cccc3c2n1[C@H](CN1CCOCC1)CO3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4153",
+    "validation": "m_weight unsave, calculated(505.41200000000015)"
+}

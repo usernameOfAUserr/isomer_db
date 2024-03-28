@@ -1,0 +1,13 @@
+{
+    "names": "Difemetorex",
+    "iupac_name": "2-[2-(Diphenylmethyl)piperidin-1-yl]ethan-1-ol",
+    "category": "data not stored",
+    "index": 6443,
+    "formular": "C20H25NO",
+    "molecular_weight": 295.419,
+    "inChl": "1S/C20H25NO/c22-16-15-21-14-8-7-13-19(21)20(17-9-3-1-4-10-17)18-11-5-2-6-12-18/h1-6,9-12,19-20,22H,7-8,13-16H2",
+    "InChl_Key": "UHZJPVXMMCFPNR-UHFFFAOYSA-N",
+    "SMILES": "OCCN1CCCCC1C(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6443",
+    "validation": "m_weight unsave, calculated(295.42600000000004)"
+}

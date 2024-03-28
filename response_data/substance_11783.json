@@ -1,0 +1,13 @@
+{
+    "names": "MPP-4en-PICA",
+    "iupac_name": "Methyl N-[1-(pent-4-en-1-yl)-1H-indole-3-carbonyl]-L-phenylalaninate ; Methyl (2S)-2-{[1-(pent-4-en-1-yl)-1H-indole-3-carbonyl]amino}-3-phenylpropanoate",
+    "category": "cannabinodids",
+    "index": 11783,
+    "formular": "C24H26N2O3",
+    "molecular_weight": 390.475,
+    "inChl": "1S/C24H26N2O3/c1-3-4-10-15-26-17-20(19-13-8-9-14-22(19)26)23(27)25-21(24(28)29-2)16-18-11-6-5-7-12-18/h3,5-9,11-14,17,21H,1,4,10,15-16H2,2H3,(H,25,27)/t21-/m0/s1",
+    "InChl_Key": "YDNGSEMVANDMQB-NRFANRHFSA-N",
+    "SMILES": "C=CCCCn1cc(C(=O)N[C@@H](Cc2ccccc2)C(=O)OC)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11783",
+    "validation": "m_weight unsave, calculated(390.4830000000002)"
+}

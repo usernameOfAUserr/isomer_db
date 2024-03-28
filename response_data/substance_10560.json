@@ -1,0 +1,13 @@
+{
+    "names": "4-TMS-PEA ; 4-Trimethylsilylphenethylamine",
+    "iupac_name": "2-[4-(Trimethylsilyl)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10560,
+    "formular": "C11H19NSi",
+    "molecular_weight": 193.361,
+    "inChl": "1S/C11H19NSi/c1-13(2,3)11-6-4-10(5-7-11)8-9-12/h4-7H,8-9,12H2,1-3H3",
+    "InChl_Key": "ULHCYDOLGZSBPZ-UHFFFAOYSA-N",
+    "SMILES": "C[Si](C)(C)c1ccc(CCN)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10560",
+    "validation": "m_weight unsave, calculated(193.36599999999996)"
+}

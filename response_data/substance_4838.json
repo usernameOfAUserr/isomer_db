@@ -1,0 +1,13 @@
+{
+    "names": "BzODZ-EPyr",
+    "iupac_name": "3-(3-Benzyl-1,2,4-oxadiazol-5-yl)-1-[2-(pyrrolidin-1-yl)ethyl]-1H-indole",
+    "category": "cannabinodids",
+    "index": 4838,
+    "formular": "C23H24N4O",
+    "molecular_weight": 372.463,
+    "inChl": "1S/C23H24N4O/c1-2-8-18(9-3-1)16-22-24-23(28-25-22)20-17-27(15-14-26-12-6-7-13-26)21-11-5-4-10-19(20)21/h1-5,8-11,17H,6-7,12-16H2",
+    "InChl_Key": "RUVOQWMACBDQDK-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(Cc2noc(-c3cn(CCN4CCCC4)c4ccccc34)n2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4838",
+    "validation": "m_weight unsave, calculated(372.47200000000026)"
+}

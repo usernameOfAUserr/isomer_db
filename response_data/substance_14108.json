@@ -1,0 +1,13 @@
+{
+    "names": "MPP-4F-BUTINACA",
+    "iupac_name": "Methyl N-[1-(4-fluorobutyl)-1H-indazole-3-carbonyl]-L-phenylalaninate ; Methyl (2S)-2-{[1-(4-fluorobutyl)-1H-indazole-3-carbonyl]amino}-3-phenylpropanoate",
+    "category": "cannabinodids",
+    "index": 14108,
+    "formular": "C22H24FN3O3",
+    "molecular_weight": 397.443,
+    "inChl": "1S/C22H24FN3O3/c1-29-22(28)18(15-16-9-3-2-4-10-16)24-21(27)20-17-11-5-6-12-19(17)26(25-20)14-8-7-13-23/h2-6,9-12,18H,7-8,13-15H2,1H3,(H,24,27)/t18-/m0/s1",
+    "InChl_Key": "NZMZFEYFKAXBSV-SFHVURJKSA-N",
+    "SMILES": "COC(=O)[C@H](Cc1ccccc1)NC(=O)c1nn(CCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14108",
+    "validation": "m_weight unsave, calculated(397.4500000000002)"
+}

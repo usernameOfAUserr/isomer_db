@@ -1,0 +1,13 @@
+{
+    "names": "BCPA",
+    "iupac_name": "2-(4-Bromophenyl)cyclopropan-1-amine ; 2-(4-Bromophenyl)cyclopropanamine",
+    "category": "Shulgin_Index",
+    "index": 6225,
+    "formular": "C9H10BrN",
+    "molecular_weight": 212.086,
+    "inChl": "1S/C9H10BrN/c10-7-3-1-6(2-4-7)8-5-9(8)11/h1-4,8-9H,5,11H2",
+    "InChl_Key": "XRLLHILOPOQXRW-UHFFFAOYSA-N",
+    "SMILES": "NC1CC1c1ccc(Br)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6225",
+    "validation": "m_weight unsave, calculated(212.08999999999997)"
+}

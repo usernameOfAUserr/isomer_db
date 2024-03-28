@@ -1,0 +1,13 @@
+{
+    "names": "Etaqualone",
+    "iupac_name": "3-(2-Ethylphenyl)-2-methylquinazolin-4(3H)-one",
+    "category": "data not stored",
+    "index": 2939,
+    "formular": "C17H16N2O",
+    "molecular_weight": 264.322,
+    "inChl": "1S/C17H16N2O/c1-3-13-8-4-7-11-16(13)19-12(2)18-15-10-6-5-9-14(15)17(19)20/h4-11H,3H2,1-2H3",
+    "InChl_Key": "UVTJKLLUVOTSOB-UHFFFAOYSA-N",
+    "SMILES": "CCc1ccccc1-n1c(C)nc2ccccc2c1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2939",
+    "validation": "m_weight unsave, calculated(264.328)"
+}

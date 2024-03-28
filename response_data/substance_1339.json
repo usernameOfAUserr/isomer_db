@@ -1,0 +1,13 @@
+{
+    "names": "1-Phenyl-2-propanol",
+    "iupac_name": "1-Phenylpropan-2-ol",
+    "category": "Phenetylamine",
+    "index": 1339,
+    "formular": "C9H12O",
+    "molecular_weight": 136.191,
+    "inChl": "1S/C9H12O/c1-8(10)7-9-5-3-2-4-6-9/h2-6,8,10H,7H2,1H3",
+    "InChl_Key": "WYTRYIUQUDTGSX-UHFFFAOYSA-N",
+    "SMILES": "CC(O)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1339",
+    "validation": "m_weight unsave, calculated(136.19399999999996)"
+}

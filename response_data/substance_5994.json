@@ -1,0 +1,13 @@
+{
+    "names": "SER-601 ; COR-167",
+    "iupac_name": "N-(Adamantan-1-yl)-4-oxo-1-pentyl-6-(propan-2-yl)-1,4-dihydroquinoline-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 5994,
+    "formular": "C28H38N2O2",
+    "molecular_weight": 434.614,
+    "inChl": "1S/C28H38N2O2/c1-4-5-6-9-30-17-24(26(31)23-13-22(18(2)3)7-8-25(23)30)27(32)29-28-14-19-10-20(15-28)12-21(11-19)16-28/h7-8,13,17-21H,4-6,9-12,14-16H2,1-3H3,(H,29,32)",
+    "InChl_Key": "KUMKLUDNETVLDS-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NC23CC4CC(CC(C4)C2)C3)c(=O)c2cc(C(C)C)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5994",
+    "validation": "m_weight unsave, calculated(434.62400000000025)"
+}

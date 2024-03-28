@@ -1,0 +1,13 @@
+{
+    "names": "5-Neopentanoyloxy-T ; 5-Neopentanoyloxytryptamine",
+    "iupac_name": "3-(2-Aminoethyl)-1H-indol-5-yl 2,2-dimethylpropanoate",
+    "category": "Tryptamine",
+    "index": 5752,
+    "formular": "C15H20N2O2",
+    "molecular_weight": 260.332,
+    "inChl": "1S/C15H20N2O2/c1-15(2,3)14(18)19-11-4-5-13-12(8-11)10(6-7-16)9-17-13/h4-5,8-9,17H,6-7,16H2,1-3H3",
+    "InChl_Key": "RHIRMZVSQNPLSM-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(C)C(=O)Oc1ccc2[nH]cc(CCN)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5752",
+    "validation": "m_weight unsave, calculated(260.337)"
+}

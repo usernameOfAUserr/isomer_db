@@ -1,0 +1,13 @@
+{
+    "names": "4-MeO-N,\u03b1,3-Me-PEA-PFPA",
+    "iupac_name": "2,2,3,3,3-Pentafluoro-N-[1-(4-methoxy-3-methylphenyl)propan-2-yl]-N-methylpropanamide",
+    "category": "data not stored",
+    "index": 8979,
+    "formular": "C15H18F5NO2",
+    "molecular_weight": 339.301,
+    "inChl": "1S/C15H18F5NO2/c1-9-7-11(5-6-12(9)23-4)8-10(2)21(3)13(22)14(16,17)15(18,19)20/h5-7,10H,8H2,1-4H3",
+    "InChl_Key": "ALEMEAIEBXZUPX-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CC(C)N(C)C(=O)C(F)(F)C(F)(F)F)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8979",
+    "validation": "m_weight unsave, calculated(339.304)"
+}

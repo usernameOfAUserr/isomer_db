@@ -1,0 +1,13 @@
+{
+    "names": "N-He-2-MA ; N-Hexyl-2-methoxyamphetamine",
+    "iupac_name": "N-[1-(2-Methoxyphenyl)propan-2-yl]hexan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 6111,
+    "formular": "C16H27NO",
+    "molecular_weight": 249.392,
+    "inChl": "1S/C16H27NO/c1-4-5-6-9-12-17-14(2)13-15-10-7-8-11-16(15)18-3/h7-8,10-11,14,17H,4-6,9,12-13H2,1-3H3",
+    "InChl_Key": "RYYURZSIWOPZFB-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCNC(C)Cc1ccccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6111",
+    "validation": "m_weight unsave, calculated(249.398)"
+}

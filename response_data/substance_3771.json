@@ -1,0 +1,13 @@
+{
+    "names": "7-Chloro-5-(2-chlorophenyl)-1-methyl-2-oxo-2,3-dihydro-1H-1,4-benzodiazepin-3-yl (4-methylpiperazin-1-yl)acetate",
+    "iupac_name": "3771 ; C23H24Cl2N4O3 ; 475.368",
+    "category": "Aryldiazepine",
+    "index": 3771,
+    "formular": "C23H24Cl2N4O3",
+    "molecular_weight": 475.368,
+    "inChl": "1S/C23H24Cl2N4O3/c1-27-9-11-29(12-10-27)14-20(30)32-22-23(31)28(2)19-8-7-15(24)13-17(19)21(26-22)16-5-3-4-6-18(16)25/h3-8,13,22H,9-12,14H2,1-2H3",
+    "InChl_Key": "OGBGKWQCFWXGGJ-UHFFFAOYSA-N",
+    "SMILES": "CN1CCN(CC(=O)OC2N=C(c3ccccc3Cl)c3cc(Cl)ccc3N(C)C2=O)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3771",
+    "validation": "m_weight unsave, calculated(475.3760000000001)"
+}

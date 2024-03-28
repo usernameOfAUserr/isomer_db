@@ -1,0 +1,13 @@
+{
+    "names": "2-Ac-2C-C-TFA ; N-Trifluoroacetyl-2-acetoxy 4-chloro-5-methoxyphenethylamine",
+    "iupac_name": "5-Chloro-4-methoxy-2-[2-(2,2,2-trifluoroacetamido)ethyl]phenyl acetate",
+    "category": "data not stored",
+    "index": 1786,
+    "formular": "C13H13ClF3NO4",
+    "molecular_weight": 339.695,
+    "inChl": "1S/C13H13ClF3NO4/c1-7(19)22-10-6-9(14)11(21-2)5-8(10)3-4-18-12(20)13(15,16)17/h5-6H,3-4H2,1-2H3,(H,18,20)",
+    "InChl_Key": "FTOQDFJCLCVPEU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNC(=O)C(F)(F)F)c(OC(C)=O)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1786",
+    "validation": "m_weight unsave, calculated(339.69700000000006)"
+}

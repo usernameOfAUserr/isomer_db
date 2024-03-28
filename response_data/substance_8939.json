@@ -1,0 +1,13 @@
+{
+    "names": "2-CF3PPPO-PFPA",
+    "iupac_name": "2,2,3,3,3-Pentafluoro-1-(4-{1-oxo-1-[2-(trifluoromethyl)phenyl]propan-2-yl}piperazin-1-yl)propan-1-one",
+    "category": "data not stored",
+    "index": 8939,
+    "formular": "C17H16F8N2O2",
+    "molecular_weight": 432.308,
+    "inChl": "1S/C17H16F8N2O2/c1-10(13(28)11-4-2-3-5-12(11)16(20,21)22)26-6-8-27(9-7-26)14(29)15(18,19)17(23,24)25/h2-5,10H,6-9H2,1H3",
+    "InChl_Key": "XFBSSSBMWNAACP-UHFFFAOYSA-N",
+    "SMILES": "CC(C(=O)c1ccccc1C(F)(F)F)N1CCN(C(=O)C(F)(F)C(F)(F)F)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8939",
+    "validation": "m_weight unsave, calculated(432.31100000000004)"
+}

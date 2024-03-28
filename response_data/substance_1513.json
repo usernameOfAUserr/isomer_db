@@ -1,0 +1,13 @@
+{
+    "names": "DOCNM ; 4-Cyanomethyl-2,5-dimethoxyamphetamine",
+    "iupac_name": "[4-(2-Aminopropyl)-2,5-dimethoxyphenyl]acetonitrile",
+    "category": "data not stored",
+    "index": 1513,
+    "formular": "C13H18N2O2",
+    "molecular_weight": 234.294,
+    "inChl": "1S/C13H18N2O2/c1-9(15)6-11-8-12(16-2)10(4-5-14)7-13(11)17-3/h7-9H,4,6,15H2,1-3H3",
+    "InChl_Key": "YRDVSOCPGNXBIX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c(OC)cc1CC#N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1513",
+    "validation": "m_weight unsave, calculated(234.29899999999995)"
+}

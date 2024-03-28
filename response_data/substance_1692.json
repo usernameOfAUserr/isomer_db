@@ -1,0 +1,13 @@
+{
+    "names": "N-Quinolinyl-fentanyl",
+    "iupac_name": "N-[1-(2-Phenylethyl)piperidin-4-yl]-N-(quinolin-8-yl)propanamide",
+    "category": "Fentanyl",
+    "index": 1692,
+    "formular": "C25H29N3O",
+    "molecular_weight": 387.517,
+    "inChl": "1S/C25H29N3O/c1-2-24(29)28(23-12-6-10-21-11-7-16-26-25(21)23)22-14-18-27(19-15-22)17-13-20-8-4-3-5-9-20/h3-12,16,22H,2,13-15,17-19H2,1H3",
+    "InChl_Key": "XCBTULMBKCLHAF-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1cccc2cccnc12)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1692",
+    "validation": "m_weight unsave, calculated(387.52700000000016)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-Benzoyl-DOM ; N-Benzoyl-4-methoxy-2,5-dimethoxyamphetamine",
+    "iupac_name": "N-[1-(2,5-Dimethoxy-4-methylphenyl)propan-2-yl]benzamide",
+    "category": "data not stored",
+    "index": 2481,
+    "formular": "C19H23NO3",
+    "molecular_weight": 313.391,
+    "inChl": "1S/C19H23NO3/c1-13-10-18(23-4)16(12-17(13)22-3)11-14(2)20-19(21)15-8-6-5-7-9-15/h5-10,12,14H,11H2,1-4H3,(H,20,21)",
+    "InChl_Key": "REAHSENHAIDBEP-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)NC(=O)c2ccccc2)c(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2481",
+    "validation": "m_weight unsave, calculated(313.39700000000005)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Anisopirol",
+    "iupac_name": "1-(4-Fluorophenyl)-4-[4-(2-methoxyphenyl)piperazin-1-yl]butan-1-ol",
+    "category": "data not stored",
+    "index": 3813,
+    "formular": "C21H27FN2O2",
+    "molecular_weight": 358.45,
+    "inChl": "1S/C21H27FN2O2/c1-26-21-7-3-2-5-19(21)24-15-13-23(14-16-24)12-4-6-20(25)17-8-10-18(22)11-9-17/h2-3,5,7-11,20,25H,4,6,12-16H2,1H3",
+    "InChl_Key": "LCZRXFYSMJIDQQ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1N1CCN(CCCC(O)c2ccc(F)cc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3813",
+    "validation": "m_weight unsave, calculated(358.45699999999994)"
+}

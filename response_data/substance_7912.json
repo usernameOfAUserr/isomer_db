@@ -1,0 +1,13 @@
+{
+    "names": "3,4,6-Me-2,5-DMPEA ; 2,5-Dimethoxy-3,4,6-trimethylphenethylamine",
+    "iupac_name": "2-(2,5-Dimethoxy-3,4,6-trimethylphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7912,
+    "formular": "C13H21NO2",
+    "molecular_weight": 223.311,
+    "inChl": "1S/C13H21NO2/c1-8-9(2)13(16-5)11(6-7-14)10(3)12(8)15-4/h6-7,14H2,1-5H3",
+    "InChl_Key": "QJAYTSFMHSZSQD-UHFFFAOYSA-N",
+    "SMILES": "COc1c(C)c(C)c(OC)c(CCN)c1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7912",
+    "validation": "m_weight unsave, calculated(223.31599999999995)"
+}

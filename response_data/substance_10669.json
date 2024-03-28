@@ -1,0 +1,13 @@
+{
+    "names": "N-HOPr-A ; N-(3-Hydroxypropyl)amphetamine",
+    "iupac_name": "3-[(1-Phenylpropan-2-yl)amino]propan-1-ol",
+    "category": "Phenetylamine",
+    "index": 10669,
+    "formular": "C12H19NO",
+    "molecular_weight": 193.285,
+    "inChl": "1S/C12H19NO/c1-11(13-8-5-9-14)10-12-6-3-2-4-7-12/h2-4,6-7,11,13-14H,5,8-10H2,1H3",
+    "InChl_Key": "FKBKVVBSBXHGHP-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NCCCO",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10669",
+    "validation": "m_weight unsave, calculated(193.29)"
+}

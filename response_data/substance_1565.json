@@ -1,0 +1,13 @@
+{
+    "names": "N-Me-3-F-PEA ; N-Methyl-3-fluorophenethylamine",
+    "iupac_name": "2-(3-Fluorophenyl)-N-methylethan-1-amine",
+    "category": "data not stored",
+    "index": 1565,
+    "formular": "C9H12FN",
+    "molecular_weight": 153.197,
+    "inChl": "1S/C9H12FN/c1-11-6-5-8-3-2-4-9(10)7-8/h2-4,7,11H,5-6H2,1H3",
+    "InChl_Key": "RDKFMYLRDJVSJU-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1cccc(F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1565",
+    "validation": "m_weight unsave, calculated(153.19999999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-(6-Chloro-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indol-1-yl)phenol",
+    "iupac_name": "12743 ; C17H15ClN2O ; 298.767",
+    "category": "data not stored",
+    "index": 12743,
+    "formular": "C17H15ClN2O",
+    "molecular_weight": 298.767,
+    "inChl": "1S/C17H15ClN2O/c18-11-3-6-15-14(9-11)13-7-8-19-16(17(13)20-15)10-1-4-12(21)5-2-10/h1-6,9,16,19-21H,7-8H2",
+    "InChl_Key": "VKYMSLWUUZTGTE-UHFFFAOYSA-N",
+    "SMILES": "Oc1ccc(C2NCCc3c2[nH]c2ccc(Cl)cc32)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12743",
+    "validation": "m_weight unsave, calculated(298.7729999999999)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-Benzoylnormethylecgonine ; N-Benzoylnorecgonine methyl ester",
+    "iupac_name": "Methyl (2R,3S)-8-benzoyl-3-hydroxy-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "category": "data not stored",
+    "index": 12613,
+    "formular": "C16H19NO4",
+    "molecular_weight": 289.326,
+    "inChl": "1S/C16H19NO4/c1-21-16(20)14-12-8-7-11(9-13(14)18)17(12)15(19)10-5-3-2-4-6-10/h2-6,11-14,18H,7-9H2,1H3/t11?,12?,13-,14+/m0/s1",
+    "InChl_Key": "URXYIRIDLDBRPB-CLRIEMFWSA-N",
+    "SMILES": "COC(=O)[C@@H]1C2CCC(C[C@@H]1O)N2C(=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12613",
+    "validation": "m_weight unsave, calculated(289.33099999999996)"
+}

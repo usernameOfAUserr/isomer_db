@@ -1,0 +1,13 @@
+{
+    "names": "3-[(E)-2-Nitroethenyl]-1H-indole",
+    "iupac_name": "11119 ; C10H8N2O2 ; 188.183",
+    "category": "data not stored",
+    "index": 11119,
+    "formular": "C10H8N2O2",
+    "molecular_weight": 188.183,
+    "inChl": "1S/C10H8N2O2/c13-12(14)6-5-8-7-11-10-4-2-1-3-9(8)10/h1-7,11H/b6-5+",
+    "InChl_Key": "IPASVEYYTNTJTM-AATRIKPKSA-N",
+    "SMILES": "O=[N+]([O-])/C=C/c1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11119",
+    "validation": "m_weight unsave, calculated(188.186)"
+}

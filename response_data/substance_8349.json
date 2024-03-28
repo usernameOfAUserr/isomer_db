@@ -1,0 +1,13 @@
+{
+    "names": "LA-Oxazola",
+    "iupac_name": "(6-Methyl-9,10-didehydroergolin-8\u03b2-yl)(1,3-oxazolidin-3-yl)methanone ; [(6aR,9R)-7-Methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-yl](1,3-oxazolidin-3-yl)methanone ; [(8\u03b2)-6-Methyl-9,10-didehydroergolin-8-yl](1,3-oxazolidin-3-yl)methanone",
+    "category": "data not stored",
+    "index": 8349,
+    "formular": "C19H21N3O2",
+    "molecular_weight": 323.389,
+    "inChl": "1S/C19H21N3O2/c1-21-10-13(19(23)22-5-6-24-11-22)7-15-14-3-2-4-16-18(14)12(9-20-16)8-17(15)21/h2-4,7,9,13,17,20H,5-6,8,10-11H2,1H3/t13-,17-/m1/s1",
+    "InChl_Key": "ZLOSQJHUXITBGX-CXAGYDPISA-N",
+    "SMILES": "CN1C[C@H](C(=O)N2CCOC2)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8349",
+    "validation": "m_weight unsave, calculated(323.39600000000013)"
+}

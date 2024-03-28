@@ -1,0 +1,13 @@
+{
+    "names": "2C-FM ; 4-Fluoromethyl-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-[4-(Fluoromethyl)-2,5-dimethoxyphenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10316,
+    "formular": "C11H16FNO2",
+    "molecular_weight": 213.249,
+    "inChl": "1S/C11H16FNO2/c1-14-10-6-9(7-12)11(15-2)5-8(10)3-4-13/h5-6H,3-4,7,13H2,1-2H3",
+    "InChl_Key": "FWTBPJYBLVPFEX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)c(OC)cc1CF",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10316",
+    "validation": "m_weight unsave, calculated(213.25199999999995)"
+}

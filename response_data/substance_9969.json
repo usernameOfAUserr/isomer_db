@@ -1,0 +1,13 @@
+{
+    "names": "Brivaracetam",
+    "iupac_name": "(2S)-2-[(4R)-2-Oxo-4-propylpyrrolidin-1-yl]butanamide",
+    "category": "data not stored",
+    "index": 9969,
+    "formular": "C11H20N2O2",
+    "molecular_weight": 212.289,
+    "inChl": "1S/C11H20N2O2/c1-3-5-8-6-10(14)13(7-8)9(4-2)11(12)15/h8-9H,3-7H2,1-2H3,(H2,12,15)/t8-,9+/m1/s1",
+    "InChl_Key": "MSYKRHVOOPPJKU-BDAKNGLRSA-N",
+    "SMILES": "CCC[C@@H]1CC(=O)N([C@@H](CC)C(N)=O)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9969",
+    "validation": "m_weight unsave, calculated(212.29299999999998)"
+}

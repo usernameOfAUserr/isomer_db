@@ -1,0 +1,13 @@
+{
+    "names": "5-Methoxy-2,2-dimethyl-2,3-dihydro-1-benzofuran-6-carbaldehyde",
+    "iupac_name": "12861 ; C12H14O3 ; 206.238",
+    "category": "data not stored",
+    "index": 12861,
+    "formular": "C12H14O3",
+    "molecular_weight": 206.238,
+    "inChl": "1S/C12H14O3/c1-12(2)6-8-4-10(14-3)9(7-13)5-11(8)15-12/h4-5,7H,6H2,1-3H3",
+    "InChl_Key": "UADXGRXWCPWVPZ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(cc1C=O)OC(C)(C)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12861",
+    "validation": "m_weight unsave, calculated(206.24099999999999)"
+}

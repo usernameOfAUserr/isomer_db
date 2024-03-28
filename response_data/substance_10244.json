@@ -1,0 +1,13 @@
+{
+    "names": "\u03c8-2C-C ; 4-Chloro-2,6-dimethoxyphenethylamine",
+    "iupac_name": "2-(4-Chloro-2,6-dimethoxyphenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10244,
+    "formular": "C10H14ClNO2",
+    "molecular_weight": 215.677,
+    "inChl": "1S/C10H14ClNO2/c1-13-9-5-7(11)6-10(14-2)8(9)3-4-12/h5-6H,3-4,12H2,1-2H3",
+    "InChl_Key": "UTPHSBFMXMVRRW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Cl)cc(OC)c1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10244",
+    "validation": "m_weight unsave, calculated(215.67999999999998)"
+}

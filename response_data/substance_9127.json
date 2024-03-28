@@ -1,0 +1,13 @@
+{
+    "names": "4-Ethoxy-4-(furan-2-yl)-1-(2-phenylethyl)piperidine",
+    "iupac_name": "9127 ; C19H25NO2 ; 299.407",
+    "category": "data not stored",
+    "index": 9127,
+    "formular": "C19H25NO2",
+    "molecular_weight": 299.407,
+    "inChl": "1S/C19H25NO2/c1-2-22-19(18-9-6-16-21-18)11-14-20(15-12-19)13-10-17-7-4-3-5-8-17/h3-9,16H,2,10-15H2,1H3",
+    "InChl_Key": "QINUMFQWRCCBTG-UHFFFAOYSA-N",
+    "SMILES": "CCOC1(c2ccco2)CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9127",
+    "validation": "m_weight unsave, calculated(299.41400000000004)"
+}

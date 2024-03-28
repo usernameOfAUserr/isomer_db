@@ -1,0 +1,13 @@
+{
+    "names": "4-NMe3EtO-3-MPEA+ ; 4-Trimethylaminoethoxy-3-methoxyphenethylamine+",
+    "iupac_name": "2-[4-(2-Aminoethyl)-2-methoxyphenoxy]-N,N,N-trimethylethan-1-aminium",
+    "category": "Phenetylamine",
+    "index": 10135,
+    "formular": "C14H25N2O2",
+    "molecular_weight": 253.361,
+    "inChl": "1S/C14H25N2O2/c1-16(2,3)9-10-18-13-6-5-12(7-8-15)11-14(13)17-4/h5-6,11H,7-10,15H2,1-4H3/q+1",
+    "InChl_Key": "AZOHHCQLMNGIJW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)ccc1OCC[N+](C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10135",
+    "validation": "m_weight unsave, calculated(253.36599999999993)formular unsave, calculated(C14H25N2O2+)"
+}

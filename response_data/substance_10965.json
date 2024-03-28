@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Dipropyl-2-(thiophen-2-yl)cyclopropan-1-amine",
+    "iupac_name": "10965 ; C13H21NS ; 223.378",
+    "category": "Phenetylamine",
+    "index": 10965,
+    "formular": "C13H21NS",
+    "molecular_weight": 223.378,
+    "inChl": "1S/C13H21NS/c1-3-7-14(8-4-2)12-10-11(12)13-6-5-9-15-13/h5-6,9,11-12H,3-4,7-8,10H2,1-2H3",
+    "InChl_Key": "HKWCDGQNESCBNT-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C1CC1c1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10965",
+    "validation": "m_weight unsave, calculated(223.38499999999996)"
+}

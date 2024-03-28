@@ -1,0 +1,13 @@
+{
+    "names": "(Aza) \u03943-THC",
+    "iupac_name": "2,5,5-Trimethyl-8-pentyl-1,3,4,5-tetrahydro-2H-[1]benzopyrano[4,3-c]pyridin-10-ol",
+    "category": "cannabinodids",
+    "index": 9954,
+    "formular": "C20H29NO2",
+    "molecular_weight": 315.45,
+    "inChl": "1S/C20H29NO2/c1-5-6-7-8-14-11-17(22)19-15-13-21(4)10-9-16(15)20(2,3)23-18(19)12-14/h11-12,22H,5-10,13H2,1-4H3",
+    "InChl_Key": "ZFFYKLKUCRURNW-UHFFFAOYSA-N",
+    "SMILES": "CCCCCc1cc(O)c2c(c1)OC(C)(C)C1=C2CN(C)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9954",
+    "validation": "m_weight unsave, calculated(315.45700000000005)"
+}

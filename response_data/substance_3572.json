@@ -1,0 +1,13 @@
+{
+    "names": "4-{[(2R)-1-Methylpiperidin-2-yl]methyl}-2-(naphthalene-1-carbonyl)benzene-1-sulfonic acid",
+    "iupac_name": "3572 ; C24H25NO4S ; 423.525",
+    "category": "cannabinodids",
+    "index": 3572,
+    "formular": "C24H25NO4S",
+    "molecular_weight": 423.525,
+    "inChl": "1S/C24H25NO4S/c1-25-14-5-4-9-19(25)15-17-12-13-23(30(27,28)29)22(16-17)24(26)21-11-6-8-18-7-2-3-10-20(18)21/h2-3,6-8,10-13,16,19H,4-5,9,14-15H2,1H3,(H,27,28,29)/t19-/m1/s1",
+    "InChl_Key": "SBGONLDZZOSKPR-LJQANCHMSA-N",
+    "SMILES": "CN1CCCC[C@@H]1Cc1ccc(S(=O)(=O)O)c(C(=O)c2cccc3ccccc23)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3572",
+    "validation": "m_weight unsave, calculated(423.5340000000001)"
+}

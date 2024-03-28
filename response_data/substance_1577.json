@@ -1,0 +1,13 @@
+{
+    "names": "N-Me-3-Br-PEA ; N-Methyl-3-bromophenethylamine",
+    "iupac_name": "2-(3-Bromophenyl)-N-methylethan-1-amine",
+    "category": "data not stored",
+    "index": 1577,
+    "formular": "C9H12BrN",
+    "molecular_weight": 214.102,
+    "inChl": "1S/C9H12BrN/c1-11-6-5-8-3-2-4-9(10)7-8/h2-4,7,11H,5-6H2,1H3",
+    "InChl_Key": "IJCWRWHKCBWPDJ-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1cccc(Br)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1577",
+    "validation": "m_weight unsave, calculated(214.10599999999997)"
+}

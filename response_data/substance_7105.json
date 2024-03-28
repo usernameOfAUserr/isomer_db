@@ -1,0 +1,13 @@
+{
+    "names": "Robinlin",
+    "iupac_name": "(6R)-6-Hydroxy-3-(2-hydroxyethyl)-2,4,4-trimethylcyclohex-2-en-1-one",
+    "category": "data not stored",
+    "index": 7105,
+    "formular": "C11H18O3",
+    "molecular_weight": 198.259,
+    "inChl": "1S/C11H18O3/c1-7-8(4-5-12)11(2,3)6-9(13)10(7)14/h9,12-13H,4-6H2,1-3H3/t9-/m1/s1",
+    "InChl_Key": "QIOYKXMTBUDZHZ-SECBINFHSA-N",
+    "SMILES": "CC1=C(CCO)C(C)(C)C[C@@H](O)C1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7105",
+    "validation": "m_weight unsave, calculated(198.26199999999997)"
+}

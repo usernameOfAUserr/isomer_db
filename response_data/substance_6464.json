@@ -1,0 +1,13 @@
+{
+    "names": "5-Methoxytryptophol",
+    "iupac_name": "2-(5-Methoxy-1H-indol-3-yl)ethan-1-ol",
+    "category": "data not stored",
+    "index": 6464,
+    "formular": "C11H13NO2",
+    "molecular_weight": 191.226,
+    "inChl": "1S/C11H13NO2/c1-14-9-2-3-11-10(6-9)8(4-5-13)7-12-11/h2-3,6-7,12-13H,4-5H2,1H3",
+    "InChl_Key": "QLWKTGDEPLRFAT-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCO)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6464",
+    "validation": "m_weight unsave, calculated(191.23)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-[5-(Methylsulfanyl)thiophen-2-yl]propan-2-amine",
+    "iupac_name": "12145 ; C8H13NS2 ; 187.326",
+    "category": "Phenetylamine",
+    "index": 12145,
+    "formular": "C8H13NS2",
+    "molecular_weight": 187.326,
+    "inChl": "1S/C8H13NS2/c1-6(9)5-7-3-4-8(10-2)11-7/h3-4,6H,5,9H2,1-2H3",
+    "InChl_Key": "PPMGMLQQTLZXKP-UHFFFAOYSA-N",
+    "SMILES": "CSc1ccc(CC(C)N)s1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12145",
+    "validation": "m_weight unsave, calculated(187.33299999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2C-DFPIP ; 4-(4,4-Difluoropiperidin-1-yl)-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-[4-(4,4-Difluoropiperidin-1-yl)-2,5-dimethoxyphenyl]ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 7246,
+    "formular": "C15H22F2N2O2",
+    "molecular_weight": 300.344,
+    "inChl": "1S/C15H22F2N2O2/c1-20-13-10-12(14(21-2)9-11(13)3-6-18)19-7-4-15(16,17)5-8-19/h9-10H,3-8,18H2,1-2H3",
+    "InChl_Key": "DVSIZAWIVMKGTR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(N2CCC(F)(F)CC2)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7246",
+    "validation": "m_weight unsave, calculated(300.34899999999993)"
+}

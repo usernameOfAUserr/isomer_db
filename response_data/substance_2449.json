@@ -1,0 +1,13 @@
+{
+    "names": "4-MTA-NB ; N-Benzyl-4-methylthioamphetamine",
+    "iupac_name": "N-Benzyl-1-[4-(methylsulfanyl)phenyl]propan-2-amine",
+    "category": "data not stored",
+    "index": 2449,
+    "formular": "C17H21NS",
+    "molecular_weight": 271.42,
+    "inChl": "1S/C17H21NS/c1-14(18-13-16-6-4-3-5-7-16)12-15-8-10-17(19-2)11-9-15/h3-11,14,18H,12-13H2,1-2H3",
+    "InChl_Key": "QEQAMHYLSSHHKL-UHFFFAOYSA-N",
+    "SMILES": "CSc1ccc(CC(C)NCc2ccccc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2449",
+    "validation": "m_weight unsave, calculated(271.429)"
+}

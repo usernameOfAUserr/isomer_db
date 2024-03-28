@@ -1,0 +1,13 @@
+{
+    "names": "2-(1-Methyl-1H-imidazol-5-yl)ethan-1-amine",
+    "iupac_name": "10971 ; C6H11N3 ; 125.172",
+    "category": "Phenetylamine",
+    "index": 10971,
+    "formular": "C6H11N3",
+    "molecular_weight": 125.172,
+    "inChl": "1S/C6H11N3/c1-9-5-8-4-6(9)2-3-7/h4-5H,2-3,7H2,1H3",
+    "InChl_Key": "CPAGZVLINCPJEH-UHFFFAOYSA-N",
+    "SMILES": "Cn1cncc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10971",
+    "validation": "m_weight unsave, calculated(125.175)"
+}

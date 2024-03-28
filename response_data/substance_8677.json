@@ -1,0 +1,13 @@
+{
+    "names": "Loperamide",
+    "iupac_name": "4-[4-(4-Chlorophenyl)-4-hydroxypiperidin-1-yl]-N,N-dimethyl-2,2-diphenylbutanamide",
+    "category": "data not stored",
+    "index": 8677,
+    "formular": "C29H33ClN2O2",
+    "molecular_weight": 477.038,
+    "inChl": "1S/C29H33ClN2O2/c1-31(2)27(33)29(24-9-5-3-6-10-24,25-11-7-4-8-12-25)19-22-32-20-17-28(34,18-21-32)23-13-15-26(30)16-14-23/h3-16,34H,17-22H2,1-2H3",
+    "InChl_Key": "RDOIQAHITMMDAJ-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8677",
+    "validation": "m_weight unsave, calculated(477.0480000000001)"
+}

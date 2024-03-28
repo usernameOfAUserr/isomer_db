@@ -1,0 +1,13 @@
+{
+    "names": "1-(2-Naphthylmethylene)indene",
+    "iupac_name": "2-[(E)-(1H-Inden-1-ylidene)methyl]naphthalene",
+    "category": "cannabinodids",
+    "index": 13800,
+    "formular": "C20H14",
+    "molecular_weight": 254.325,
+    "inChl": "1S/C20H14/c1-2-7-18-13-15(9-10-16(18)5-1)14-19-12-11-17-6-3-4-8-20(17)19/h1-14H/b19-14+",
+    "InChl_Key": "HDABLJDJNDBSIC-XMHGGMMESA-N",
+    "SMILES": "C1=Cc2ccccc2/C1=C/c1ccc2ccccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13800",
+    "validation": "m_weight unsave, calculated(254.332)"
+}

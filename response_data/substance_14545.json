@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(4-Fluorophenoxy)-2-phenylethyl]-4-(2-methoxyphenyl)piperazine",
+    "iupac_name": "14545 ; C25H27FN2O2 ; 406.492",
+    "category": "data not stored",
+    "index": 14545,
+    "formular": "C25H27FN2O2",
+    "molecular_weight": 406.492,
+    "inChl": "1S/C25H27FN2O2/c1-29-24-10-6-5-9-23(24)28-17-15-27(16-18-28)19-25(20-7-3-2-4-8-20)30-22-13-11-21(26)12-14-22/h2-14,25H,15-19H2,1H3",
+    "InChl_Key": "ODCCRQVYYGMJEL-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1N1CCN(CC(Oc2ccc(F)cc2)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14545",
+    "validation": "m_weight unsave, calculated(406.50100000000003)"
+}

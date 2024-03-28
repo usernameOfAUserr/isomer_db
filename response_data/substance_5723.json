@@ -1,0 +1,13 @@
+{
+    "names": "8-Br-TH\u03b2C",
+    "iupac_name": "8-Bromo-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indole ; 8-Bromo-2,3,4,9-tetrahydro-1H-\u03b2-carboline",
+    "category": "data not stored",
+    "index": 5723,
+    "formular": "C11H11BrN2",
+    "molecular_weight": 251.122,
+    "inChl": "1S/C11H11BrN2/c12-9-3-1-2-8-7-4-5-13-6-10(7)14-11(8)9/h1-3,13-14H,4-6H2",
+    "InChl_Key": "QDAJATJOFYZEDN-UHFFFAOYSA-N",
+    "SMILES": "Brc1cccc2c3c([nH]c12)CNCC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5723",
+    "validation": "m_weight unsave, calculated(251.12699999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Metazocine",
+    "iupac_name": "(2R,6R,11R)-3,6,11-Trimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-3-benzazocin-8-ol",
+    "category": "data not stored",
+    "index": 13921,
+    "formular": "C15H21NO",
+    "molecular_weight": 231.333,
+    "inChl": "1S/C15H21NO/c1-10-14-8-11-4-5-12(17)9-13(11)15(10,2)6-7-16(14)3/h4-5,9-10,14,17H,6-8H2,1-3H3/t10-,14+,15+/m0/s1",
+    "InChl_Key": "YGSVZRIZCHZUHB-COLVAYQJSA-N",
+    "SMILES": "C[C@H]1[C@H]2Cc3ccc(O)cc3[C@]1(C)CCN2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13921",
+    "validation": "m_weight unsave, calculated(231.339)"
+}

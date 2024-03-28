@@ -1,0 +1,13 @@
+{
+    "names": "N-Phenyl-N-{4-phenyl-1-[2-(1H-pyrazol-1-yl)ethyl]piperidin-4-yl}propanamide",
+    "iupac_name": "3130 ; C25H30N4O ; 402.532",
+    "category": "Fentanyl",
+    "index": 3130,
+    "formular": "C25H30N4O",
+    "molecular_weight": 402.532,
+    "inChl": "1S/C25H30N4O/c1-2-24(30)29(23-12-7-4-8-13-23)25(22-10-5-3-6-11-22)14-18-27(19-15-25)20-21-28-17-9-16-26-28/h3-13,16-17H,2,14-15,18-21H2,1H3",
+    "InChl_Key": "IAZXYDWJTAMXDZ-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1(c2ccccc2)CCN(CCn2cccn2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3130",
+    "validation": "m_weight unsave, calculated(402.5420000000001)"
+}

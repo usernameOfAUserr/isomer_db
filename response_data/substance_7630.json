@@ -1,0 +1,13 @@
+{
+    "names": "N-Pr-M ; N-Propyl-3,4,5-trimethoxyphenethylamine",
+    "iupac_name": "N-[2-(3,4,5-Trimethoxyphenyl)ethyl]propan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7630,
+    "formular": "C14H23NO3",
+    "molecular_weight": 253.337,
+    "inChl": "1S/C14H23NO3/c1-5-7-15-8-6-11-9-12(16-2)14(18-4)13(10-11)17-3/h9-10,15H,5-8H2,1-4H3",
+    "InChl_Key": "KNGUSWJQDIVIQN-UHFFFAOYSA-N",
+    "SMILES": "CCCNCCc1cc(OC)c(OC)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7630",
+    "validation": "m_weight unsave, calculated(253.34199999999996)"
+}

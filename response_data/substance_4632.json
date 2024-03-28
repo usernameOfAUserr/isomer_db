@@ -1,0 +1,13 @@
+{
+    "names": "n-Hexyl-\u03943-THC ; Parahexyl ; Synhexyl",
+    "iupac_name": "3-Hexyl-6,6,9-trimethyl-7,8,9,10-tetrahydro-6H-dibenzo[b,d]pyran-1-ol",
+    "category": "cannabinodids",
+    "index": 4632,
+    "formular": "C22H32O2",
+    "molecular_weight": 328.488,
+    "inChl": "1S/C22H32O2/c1-5-6-7-8-9-16-13-19(23)21-17-12-15(2)10-11-18(17)22(3,4)24-20(21)14-16/h13-15,23H,5-12H2,1-4H3",
+    "InChl_Key": "OORFXDSWECAQLI-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCc1cc(O)c2c(c1)OC(C)(C)C1=C2CC(C)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4632",
+    "validation": "m_weight unsave, calculated(328.4960000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5,5-Dimethyl-(C8) CP 47,497",
+    "iupac_name": "2-[(5S)-5-Hydroxy-3,3-dimethylcyclohexyl]-5-(2-methylnonan-2-yl)phenol",
+    "category": "cannabinodids",
+    "index": 8003,
+    "formular": "C24H40O2",
+    "molecular_weight": 360.573,
+    "inChl": "1S/C24H40O2/c1-6-7-8-9-10-13-24(4,5)19-11-12-21(22(26)15-19)18-14-20(25)17-23(2,3)16-18/h11-12,15,18,20,25-26H,6-10,13-14,16-17H2,1-5H3/t18?,20-/m0/s1",
+    "InChl_Key": "JINRKLRHYSMTTI-IJHRGXPZSA-N",
+    "SMILES": "CCCCCCCC(C)(C)c1ccc(C2C[C@H](O)CC(C)(C)C2)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8003",
+    "validation": "m_weight unsave, calculated(360.5820000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "R-1304",
+    "iupac_name": "Ethyl 1-{3-oxo-3-[4-(piperidin-1-yl)phenyl]propyl}-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 9291,
+    "formular": "C28H36N2O3",
+    "molecular_weight": 448.597,
+    "inChl": "1S/C28H36N2O3/c1-2-33-27(32)28(24-9-5-3-6-10-24)16-21-29(22-17-28)20-15-26(31)23-11-13-25(14-12-23)30-18-7-4-8-19-30/h3,5-6,9-14H,2,4,7-8,15-22H2,1H3",
+    "InChl_Key": "HOQITPWEALDQTL-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CCC(=O)c2ccc(N3CCCCC3)cc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9291",
+    "validation": "m_weight unsave, calculated(448.60700000000026)"
+}

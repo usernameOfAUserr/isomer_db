@@ -1,0 +1,13 @@
+{
+    "names": "2,3-HMePEA ; 2-Hydroxy-3-methylphenethylamine",
+    "iupac_name": "2-(2-Aminoethyl)-6-methylphenol",
+    "category": "Phenetylamine",
+    "index": 6363,
+    "formular": "C9H13NO",
+    "molecular_weight": 151.206,
+    "inChl": "1S/C9H13NO/c1-7-3-2-4-8(5-6-10)9(7)11/h2-4,11H,5-6,10H2,1H3",
+    "InChl_Key": "JVPHBVRBYDPJRX-UHFFFAOYSA-N",
+    "SMILES": "Cc1cccc(CCN)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6363",
+    "validation": "m_weight unsave, calculated(151.20899999999997)"
+}

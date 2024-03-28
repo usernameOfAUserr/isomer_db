@@ -1,0 +1,13 @@
+{
+    "names": "2-Iodosafrole",
+    "iupac_name": "5-(2-Iodopropyl)-2H-1,3-benzodioxole",
+    "category": "data not stored",
+    "index": 8635,
+    "formular": "C10H11IO2",
+    "molecular_weight": 290.098,
+    "inChl": "1S/C10H11IO2/c1-7(11)4-8-2-3-9-10(5-8)13-6-12-9/h2-3,5,7H,4,6H2,1H3",
+    "InChl_Key": "VWDHWPFHNCTXBW-UHFFFAOYSA-N",
+    "SMILES": "CC(I)Cc1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8635",
+    "validation": "m_weight unsave, calculated(290.0999999999999)"
+}

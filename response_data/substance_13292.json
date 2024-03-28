@@ -1,0 +1,13 @@
+{
+    "names": "2-Fluoro-2-Oxo-PCE ; 2-F-2-oxo-Cy-PCE",
+    "iupac_name": "2-(Ethylamino)-2-(2-fluorophenyl)cyclohexan-1-one",
+    "category": "Arylcycloalkylamine",
+    "index": 13292,
+    "formular": "C14H18FNO",
+    "molecular_weight": 235.297,
+    "inChl": "1S/C14H18FNO/c1-2-16-14(10-6-5-9-13(14)17)11-7-3-4-8-12(11)15/h3-4,7-8,16H,2,5-6,9-10H2,1H3",
+    "InChl_Key": "RTXKYSLDFKUESF-UHFFFAOYSA-N",
+    "SMILES": "CCNC1(c2ccccc2F)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13292",
+    "validation": "m_weight unsave, calculated(235.302)"
+}

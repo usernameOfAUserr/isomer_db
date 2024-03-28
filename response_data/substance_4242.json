@@ -1,0 +1,13 @@
+{
+    "names": "N-(Isoquinolin-1-yl)-4-methyl-3-(piperidine-1-sulfonyl)benzamide",
+    "iupac_name": "4242 ; C22H23N3O3S ; 409.501",
+    "category": "cannabinodids",
+    "index": 4242,
+    "formular": "C22H23N3O3S",
+    "molecular_weight": 409.501,
+    "inChl": "1S/C22H23N3O3S/c1-16-9-10-18(15-20(16)29(27,28)25-13-5-2-6-14-25)22(26)24-21-19-8-4-3-7-17(19)11-12-23-21/h3-4,7-12,15H,2,5-6,13-14H2,1H3,(H,23,24,26)",
+    "InChl_Key": "ONBUUUTZCOSQAP-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)Nc2nccc3ccccc23)cc1S(=O)(=O)N1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4242",
+    "validation": "m_weight unsave, calculated(409.511)"
+}

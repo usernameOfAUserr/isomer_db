@@ -1,0 +1,13 @@
+{
+    "names": "Lipoxin A4 ; LXA4",
+    "iupac_name": "(5S,6R,7E,9E,11Z,13E,15S)-5,6,15-Trihydroxyicosa-7,9,11,13-tetraenoic acid",
+    "category": "data not stored",
+    "index": 8180,
+    "formular": "C20H32O5",
+    "molecular_weight": 352.465,
+    "inChl": "1S/C20H32O5/c1-2-3-8-12-17(21)13-9-6-4-5-7-10-14-18(22)19(23)15-11-16-20(24)25/h4-7,9-10,13-14,17-19,21-23H,2-3,8,11-12,15-16H2,1H3,(H,24,25)/b6-4-,7-5+,13-9+,14-10+/t17-,18+,19-/m0/s1",
+    "InChl_Key": "IXAQOQZEOGMIQS-SSQFXEBMSA-N",
+    "SMILES": "CCCCC[C@H](O)/C=C/C=C\\C=C\\C=C\\[C@@H](O)[C@@H](O)CCCC(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8180",
+    "validation": "m_weight unsave, calculated(352.47100000000006)"
+}

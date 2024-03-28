@@ -1,0 +1,13 @@
+{
+    "names": "Flesinoxan ; DU-29,373",
+    "iupac_name": "4-Fluoro-N-(2-{4-[2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-5-yl]piperazin-1-yl}ethyl)benzamide",
+    "category": "data not stored",
+    "index": 3803,
+    "formular": "C22H26FN3O4",
+    "molecular_weight": 415.458,
+    "inChl": "1S/C22H26FN3O4/c23-17-6-4-16(5-7-17)22(28)24-8-9-25-10-12-26(13-11-25)19-2-1-3-20-21(19)29-15-18(14-27)30-20/h1-7,18,27H,8-15H2,(H,24,28)",
+    "InChl_Key": "NYSDRDDQELAVKP-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCCN1CCN(c2cccc3c2OCC(CO)O3)CC1)c1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3803",
+    "validation": "m_weight unsave, calculated(415.46500000000015)"
+}

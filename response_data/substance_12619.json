@@ -1,0 +1,13 @@
+{
+    "names": "N-Cyanomethyl-N-ethylbenzylamine",
+    "iupac_name": "[Benzyl(ethyl)amino]acetonitrile",
+    "category": "data not stored",
+    "index": 12619,
+    "formular": "C11H14N2",
+    "molecular_weight": 174.242,
+    "inChl": "1S/C11H14N2/c1-2-13(9-8-12)10-11-6-4-3-5-7-11/h3-7H,2,9-10H2,1H3",
+    "InChl_Key": "QFXYUVPTRNJNHV-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC#N)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12619",
+    "validation": "m_weight unsave, calculated(174.24699999999996)"
+}

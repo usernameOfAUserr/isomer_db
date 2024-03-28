@@ -1,0 +1,13 @@
+{
+    "names": "1,1,1-Trifluoro-N-methyl-3-(4-nitrophenyl)propan-2-amine",
+    "iupac_name": "14733 ; C10H11F3N2O2 ; 248.202",
+    "category": "data not stored",
+    "index": 14733,
+    "formular": "C10H11F3N2O2",
+    "molecular_weight": 248.202,
+    "inChl": "1S/C10H11F3N2O2/c1-14-9(10(11,12)13)6-7-2-4-8(5-3-7)15(16)17/h2-5,9,14H,6H2,1H3",
+    "InChl_Key": "YLORYRVOPMXDRL-UHFFFAOYSA-N",
+    "SMILES": "CNC(Cc1ccc([N+](=O)[O-])cc1)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14733",
+    "validation": "m_weight unsave, calculated(248.20400000000004)"
+}

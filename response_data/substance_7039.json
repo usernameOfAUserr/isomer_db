@@ -1,0 +1,13 @@
+{
+    "names": "9-[(1E)-2-Nitroprop-1-en-1-yl]anthracene",
+    "iupac_name": "7039 ; C17H13NO2 ; 263.291",
+    "category": "data not stored",
+    "index": 7039,
+    "formular": "C17H13NO2",
+    "molecular_weight": 263.291,
+    "inChl": "1S/C17H13NO2/c1-12(18(19)20)10-17-15-8-4-2-6-13(15)11-14-7-3-5-9-16(14)17/h2-11H,1H3/b12-10+",
+    "InChl_Key": "UYBCRERGMQETMT-ZRDIBKRKSA-N",
+    "SMILES": "C/C(=C\\c1c2ccccc2cc2ccccc12)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7039",
+    "validation": "m_weight unsave, calculated(263.296)"
+}

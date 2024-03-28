@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Carboxy-\u03b1-methyl-4-hydroxyphenethylamine ; AMPT ; Alpha-methyl-p-tyrosine ; \u03b1-HOOC-\u03b1-Me-4-HPEA",
+    "iupac_name": "\u03b1-Methyltyrosine ; 2-Amino-3-(4-hydroxyphenyl)-2-methylpropanoic acid",
+    "category": "Phenetylamine",
+    "index": 10546,
+    "formular": "C10H13NO3",
+    "molecular_weight": 195.215,
+    "inChl": "1S/C10H13NO3/c1-10(11,9(13)14)6-7-2-4-8(12)5-3-7/h2-5,12H,6,11H2,1H3,(H,13,14)",
+    "InChl_Key": "NHTGHBARYWONDQ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)(Cc1ccc(O)cc1)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10546",
+    "validation": "m_weight unsave, calculated(195.218)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 4-phenyl-1-(2-propoxyethyl)piperidine-4-carboxylate",
+    "iupac_name": "9071 ; C19H29NO3 ; 319.438",
+    "category": "data not stored",
+    "index": 9071,
+    "formular": "C19H29NO3",
+    "molecular_weight": 319.438,
+    "inChl": "1S/C19H29NO3/c1-3-15-22-16-14-20-12-10-19(11-13-20,18(21)23-4-2)17-8-6-5-7-9-17/h5-9H,3-4,10-16H2,1-2H3",
+    "InChl_Key": "RFFDQRLRWWAOFJ-UHFFFAOYSA-N",
+    "SMILES": "CCCOCCN1CCC(C(=O)OCC)(c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9071",
+    "validation": "m_weight unsave, calculated(319.44499999999994)"
+}

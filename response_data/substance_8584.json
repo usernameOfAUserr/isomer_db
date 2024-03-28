@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Phenylmephedrone ; \u03b2-Keto-N,4-dimethyl-\u03b1-phenylphenethylamine",
+    "iupac_name": "2-(Methylamino)-1-(4-methylphenyl)-2-phenylethan-1-one",
+    "category": "data not stored",
+    "index": 8584,
+    "formular": "C16H17NO",
+    "molecular_weight": 239.312,
+    "inChl": "1S/C16H17NO/c1-12-8-10-14(11-9-12)16(18)15(17-2)13-6-4-3-5-7-13/h3-11,15,17H,1-2H3",
+    "InChl_Key": "OACGNVBCYVPGFZ-UHFFFAOYSA-N",
+    "SMILES": "CNC(C(=O)c1ccc(C)cc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8584",
+    "validation": "m_weight unsave, calculated(239.318)"
+}

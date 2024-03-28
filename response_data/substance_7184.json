@@ -1,0 +1,13 @@
+{
+    "names": "RCS-4-N-Me ; 4MeO-PH-MIMO",
+    "iupac_name": "(4-Methoxyphenyl)(1-methyl-1H-indol-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 7184,
+    "formular": "C17H15NO2",
+    "molecular_weight": 265.307,
+    "inChl": "1S/C17H15NO2/c1-18-11-15(14-5-3-4-6-16(14)18)17(19)12-7-9-13(20-2)10-8-12/h3-11H,1-2H3",
+    "InChl_Key": "KTTKHPWYMHHUNK-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C(=O)c2cn(C)c3ccccc23)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7184",
+    "validation": "m_weight unsave, calculated(265.312)"
+}

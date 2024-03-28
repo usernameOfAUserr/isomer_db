@@ -1,0 +1,13 @@
+{
+    "names": "Isobackebergine",
+    "iupac_name": "7,8-Dimethoxyisoquinoline",
+    "category": "data not stored",
+    "index": 13715,
+    "formular": "C11H11NO2",
+    "molecular_weight": 189.211,
+    "inChl": "1S/C11H11NO2/c1-13-10-4-3-8-5-6-12-7-9(8)11(10)14-2/h3-7H,1-2H3",
+    "InChl_Key": "XGJLSAKJANGFSV-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2ccncc2c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13715",
+    "validation": "m_weight unsave, calculated(189.214)"
+}

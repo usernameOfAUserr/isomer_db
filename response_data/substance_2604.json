@@ -1,0 +1,13 @@
+{
+    "names": "2-Phenyl-DIPT ; 2-Phenyl-N,N-diisopropyltryptamine",
+    "iupac_name": "N-[2-(2-Phenyl-1H-indol-3-yl)ethyl]-N-(propan-2-yl)propan-2-amine",
+    "category": "Tryptamine",
+    "index": 2604,
+    "formular": "C22H28N2",
+    "molecular_weight": 320.471,
+    "inChl": "1S/C22H28N2/c1-16(2)24(17(3)4)15-14-20-19-12-8-9-13-21(19)23-22(20)18-10-6-5-7-11-18/h5-13,16-17,23H,14-15H2,1-4H3",
+    "InChl_Key": "FRBULOGDHSJCSJ-UHFFFAOYSA-N",
+    "SMILES": "CC(C)N(CCc1c(-c2ccccc2)[nH]c2ccccc12)C(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2604",
+    "validation": "m_weight unsave, calculated(320.4800000000001)"
+}

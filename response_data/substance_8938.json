@@ -1,0 +1,13 @@
+{
+    "names": "4-CF3PPPO ; 4\u2032-(Trifluoromethyl)-\u03b1-(piperazin-1-y)propanophenone",
+    "iupac_name": "2-(Piperazin-1-yl)-1-[4-(trifluoromethyl)phenyl]propan-1-one",
+    "category": "data not stored",
+    "index": 8938,
+    "formular": "C14H17F3N2O",
+    "molecular_weight": 286.293,
+    "inChl": "1S/C14H17F3N2O/c1-10(19-8-6-18-7-9-19)13(20)11-2-4-12(5-3-11)14(15,16)17/h2-5,10,18H,6-9H2,1H3",
+    "InChl_Key": "AHIOBEBDNIWSEC-UHFFFAOYSA-N",
+    "SMILES": "CC(C(=O)c1ccc(C(F)(F)F)cc1)N1CCNCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8938",
+    "validation": "m_weight unsave, calculated(286.29699999999997)"
+}

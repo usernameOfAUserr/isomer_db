@@ -1,0 +1,13 @@
+{
+    "names": "4-(Furan-2-yl)-1-(2-phenylethyl)piperidin-4-yl propanoate",
+    "iupac_name": "9153 ; C20H25NO3 ; 327.417",
+    "category": "data not stored",
+    "index": 9153,
+    "formular": "C20H25NO3",
+    "molecular_weight": 327.417,
+    "inChl": "1S/C20H25NO3/c1-2-19(22)24-20(18-9-6-16-23-18)11-14-21(15-12-20)13-10-17-7-4-3-5-8-17/h3-9,16H,2,10-15H2,1H3",
+    "InChl_Key": "DNAQFKJRNPVIDM-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)OC1(c2ccco2)CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9153",
+    "validation": "m_weight unsave, calculated(327.42400000000004)"
+}

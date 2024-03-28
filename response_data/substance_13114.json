@@ -1,0 +1,13 @@
+{
+    "names": "2-Methoxypyridine-3-carbaldehyde",
+    "iupac_name": "13114 ; C7H7NO2 ; 137.136",
+    "category": "data not stored",
+    "index": 13114,
+    "formular": "C7H7NO2",
+    "molecular_weight": 137.136,
+    "inChl": "1S/C7H7NO2/c1-10-7-6(5-9)3-2-4-8-7/h2-5H,1H3",
+    "InChl_Key": "PIFFMIDNNWOQLK-UHFFFAOYSA-N",
+    "SMILES": "COc1ncccc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13114",
+    "validation": "m_weight unsave, calculated(137.13799999999998)"
+}

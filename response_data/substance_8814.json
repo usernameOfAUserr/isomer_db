@@ -1,0 +1,13 @@
+{
+    "names": "BNZP ; N-Benzoylpiperazine",
+    "iupac_name": "Phenyl(piperazin-1-yl)methanone",
+    "category": "data not stored",
+    "index": 8814,
+    "formular": "C11H14N2O",
+    "molecular_weight": 190.242,
+    "inChl": "1S/C11H14N2O/c14-11(10-4-2-1-3-5-10)13-8-6-12-7-9-13/h1-5,12H,6-9H2",
+    "InChl_Key": "VUNXBQRNMNVUMV-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccccc1)N1CCNCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8814",
+    "validation": "m_weight unsave, calculated(190.24599999999995)"
+}

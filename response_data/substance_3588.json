@@ -1,0 +1,13 @@
+{
+    "names": "(5R)-5-{2-[3-(2,2,3,3-Tetramethylcyclopropane-1-carbonyl)-1H-indol-1-yl]ethyl}pyrrolidin-2-one",
+    "iupac_name": "3588 ; C22H28N2O2 ; 352.47",
+    "category": "cannabinodids",
+    "index": 3588,
+    "formular": "C22H28N2O2",
+    "molecular_weight": 352.47,
+    "inChl": "1S/C22H28N2O2/c1-21(2)20(22(21,3)4)19(26)16-13-24(17-8-6-5-7-15(16)17)12-11-14-9-10-18(25)23-14/h5-8,13-14,20H,9-12H2,1-4H3,(H,23,25)/t14-/m1/s1",
+    "InChl_Key": "RHSKBVHSZBHZNV-CQSZACIVSA-N",
+    "SMILES": "CC1(C)C(C(=O)c2cn(CC[C@H]3CCC(=O)N3)c3ccccc23)C1(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3588",
+    "validation": "m_weight unsave, calculated(352.4780000000002)"
+}

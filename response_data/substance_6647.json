@@ -1,0 +1,13 @@
+{
+    "names": "1,2-Diphenylpropan-2-amine",
+    "iupac_name": "6647 ; C15H17N ; 211.302",
+    "category": "data not stored",
+    "index": 6647,
+    "formular": "C15H17N",
+    "molecular_weight": 211.302,
+    "inChl": "1S/C15H17N/c1-15(16,14-10-6-3-7-11-14)12-13-8-4-2-5-9-13/h2-11H,12,16H2,1H3",
+    "InChl_Key": "JINQHBRSXWQJAZ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)(Cc1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6647",
+    "validation": "m_weight unsave, calculated(211.308)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-Propynyloxy-2-EBAL ; 4-Propynyloxy-2-ethoxybenzaldehyde",
+    "iupac_name": "2-Ethoxy-4-[(prop-2-yn-1-yl)oxy]benzaldehyde",
+    "category": "data not stored",
+    "index": 11102,
+    "formular": "C12H12O3",
+    "molecular_weight": 204.222,
+    "inChl": "1S/C12H12O3/c1-3-7-15-11-6-5-10(9-13)12(8-11)14-4-2/h1,5-6,8-9H,4,7H2,2H3",
+    "InChl_Key": "KMVMORBTDARVQB-UHFFFAOYSA-N",
+    "SMILES": "C#CCOc1ccc(C=O)c(OCC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11102",
+    "validation": "m_weight unsave, calculated(204.225)"
+}

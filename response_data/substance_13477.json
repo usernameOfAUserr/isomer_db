@@ -1,0 +1,13 @@
+{
+    "names": "1-[4-(6-Fluorohexyl)-2,5-dimethoxyphenyl]butan-2-amine",
+    "iupac_name": "13477 ; C18H30FNO2 ; 311.435",
+    "category": "data not stored",
+    "index": 13477,
+    "formular": "C18H30FNO2",
+    "molecular_weight": 311.435,
+    "inChl": "1S/C18H30FNO2/c1-4-16(20)11-15-13-17(21-2)14(12-18(15)22-3)9-7-5-6-8-10-19/h12-13,16H,4-11,20H2,1-3H3",
+    "InChl_Key": "GTXAAIXCJGJYIF-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)Cc1cc(OC)c(CCCCCCF)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13477",
+    "validation": "m_weight unsave, calculated(311.44100000000003)"
+}

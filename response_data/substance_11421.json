@@ -1,0 +1,13 @@
+{
+    "names": "MPEP",
+    "iupac_name": "2-Methyl-6-(phenylethynyl)pyridine",
+    "category": "data not stored",
+    "index": 11421,
+    "formular": "C14H11N",
+    "molecular_weight": 193.244,
+    "inChl": "1S/C14H11N/c1-12-6-5-9-14(15-12)11-10-13-7-3-2-4-8-13/h2-9H,1H3",
+    "InChl_Key": "NEWKHUASLBMWRE-UHFFFAOYSA-N",
+    "SMILES": "Cc1cccc(C#Cc2ccccc2)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11421",
+    "validation": "m_weight unsave, calculated(193.24900000000002)"
+}

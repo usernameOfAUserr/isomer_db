@@ -1,0 +1,13 @@
+{
+    "names": "bk-IPP ; 3,4-Pr-PipVP",
+    "iupac_name": "1-(2,3-Dihydro-1H-inden-5-yl)-2-(piperidin-1-yl)pentan-1-one",
+    "category": "data not stored",
+    "index": 13354,
+    "formular": "C19H27NO",
+    "molecular_weight": 285.424,
+    "inChl": "1S/C19H27NO/c1-2-7-18(20-12-4-3-5-13-20)19(21)17-11-10-15-8-6-9-16(15)14-17/h10-11,14,18H,2-9,12-13H2,1H3",
+    "InChl_Key": "XCBQKBNQNYAXPN-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccc2c(c1)CCC2)N1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13354",
+    "validation": "m_weight unsave, calculated(285.431)"
+}

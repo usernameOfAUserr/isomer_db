@@ -1,0 +1,13 @@
+{
+    "names": "Thiopropamine ; 2-THAP",
+    "iupac_name": "1-(Thiophen-2-yl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10906,
+    "formular": "C7H11NS",
+    "molecular_weight": 141.234,
+    "inChl": "1S/C7H11NS/c1-6(8)5-7-3-2-4-9-7/h2-4,6H,5,8H2,1H3",
+    "InChl_Key": "NYVQQTOGYLBBDQ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10906",
+    "validation": "m_weight unsave, calculated(141.23899999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1P-LSD ; 1-Propanoyl-N,N-diethyllysergamide ; 1-Propionyl-N,N-diethyllysergamide",
+    "iupac_name": "N,N-Diethyl-6-methyl-1-propanoyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N,N-Diethyl-7-methyl-4-propanoyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N,N-Diethyl-6-methyl-1-propanoyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "Tryptamine",
+    "index": 5916,
+    "formular": "C23H29N3O2",
+    "molecular_weight": 379.495,
+    "inChl": "1S/C23H29N3O2/c1-5-21(27)26-14-15-12-20-18(17-9-8-10-19(26)22(15)17)11-16(13-24(20)4)23(28)25(6-2)7-3/h8-11,14,16,20H,5-7,12-13H2,1-4H3/t16-,20-/m1/s1",
+    "InChl_Key": "JSMQOVGXBIDBIE-OXQOHEQNSA-N",
+    "SMILES": "CCC(=O)n1cc2c3c(cccc31)C1=C[C@@H](C(=O)N(CC)CC)CN(C)[C@@H]1C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5916",
+    "validation": "m_weight unsave, calculated(379.50400000000025)"
+}

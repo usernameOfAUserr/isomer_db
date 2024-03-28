@@ -1,0 +1,13 @@
+{
+    "names": "1-Phenylaziridine",
+    "iupac_name": "12014 ; C8H9N ; 119.164",
+    "category": "Phenetylamine",
+    "index": 12014,
+    "formular": "C8H9N",
+    "molecular_weight": 119.164,
+    "inChl": "1S/C8H9N/c1-2-4-8(5-3-1)9-6-7-9/h1-5H,6-7H2",
+    "InChl_Key": "YKNKBBMRKMLLJS-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(N2CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12014",
+    "validation": "m_weight unsave, calculated(119.16699999999999)"
+}

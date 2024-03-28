@@ -1,0 +1,13 @@
+{
+    "names": "N,N,3-Trimethyl-1-(1-phenylcyclobutyl)butan-1-amine",
+    "iupac_name": "10800 ; C17H27N ; 245.403",
+    "category": "Phenetylamine",
+    "index": 10800,
+    "formular": "C17H27N",
+    "molecular_weight": 245.403,
+    "inChl": "1S/C17H27N/c1-14(2)13-16(18(3)4)17(11-8-12-17)15-9-6-5-7-10-15/h5-7,9-10,14,16H,8,11-13H2,1-4H3",
+    "InChl_Key": "BZGCSSIIQDTVKA-UHFFFAOYSA-N",
+    "SMILES": "CC(C)CC(N(C)C)C1(c2ccccc2)CCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10800",
+    "validation": "m_weight unsave, calculated(245.41000000000003)"
+}

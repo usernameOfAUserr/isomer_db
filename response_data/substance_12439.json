@@ -1,0 +1,13 @@
+{
+    "names": "Manifaxine",
+    "iupac_name": "(2S,3S,5R)-2-(3,5-Difluorophenyl)-3,5-dimethylmorpholin-2-ol",
+    "category": "data not stored",
+    "index": 12439,
+    "formular": "C12H15F2NO2",
+    "molecular_weight": 243.25,
+    "inChl": "1S/C12H15F2NO2/c1-7-6-17-12(16,8(2)15-7)9-3-10(13)5-11(14)4-9/h3-5,7-8,15-16H,6H2,1-2H3/t7-,8+,12-/m1/s1",
+    "InChl_Key": "OZGPVYJHWWPEFT-RGNHYFCHSA-N",
+    "SMILES": "C[C@@H]1CO[C@@](O)(c2cc(F)cc(F)c2)[C@H](C)N1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12439",
+    "validation": ""
+}

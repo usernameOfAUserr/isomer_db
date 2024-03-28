@@ -1,0 +1,13 @@
+{
+    "names": "CDPPB",
+    "iupac_name": "3-Cyano-N-(1,3-diphenyl-1H-pyrazol-5-yl)benzamide",
+    "category": "data not stored",
+    "index": 3723,
+    "formular": "C23H16N4O",
+    "molecular_weight": 364.399,
+    "inChl": "1S/C23H16N4O/c24-16-17-8-7-11-19(14-17)23(28)25-22-15-21(18-9-3-1-4-10-18)26-27(22)20-12-5-2-6-13-20/h1-15H,(H,25,28)",
+    "InChl_Key": "BKUIZWILNWHFHD-UHFFFAOYSA-N",
+    "SMILES": "N#Cc1cccc(C(=O)Nc2cc(-c3ccccc3)nn2-c2ccccc2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3723",
+    "validation": "m_weight unsave, calculated(364.4080000000001)"
+}

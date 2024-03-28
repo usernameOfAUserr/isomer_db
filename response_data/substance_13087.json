@@ -1,0 +1,13 @@
+{
+    "names": "7-Iodo-5-methoxy-3-[(E)-2-nitroethenyl]-1H-indole",
+    "iupac_name": "13087 ; C11H9IN2O3 ; 344.105",
+    "category": "data not stored",
+    "index": 13087,
+    "formular": "C11H9IN2O3",
+    "molecular_weight": 344.105,
+    "inChl": "1S/C11H9IN2O3/c1-17-8-4-9-7(2-3-14(15)16)6-13-11(9)10(12)5-8/h2-6,13H,1H3/b3-2+",
+    "InChl_Key": "WAZQOKKEGLMBKD-NSCUHMNNSA-N",
+    "SMILES": "COc1cc(I)c2[nH]cc(/C=C/[N+](=O)[O-])c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13087",
+    "validation": "m_weight unsave, calculated(344.108)"
+}

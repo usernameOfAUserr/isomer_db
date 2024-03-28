@@ -1,0 +1,13 @@
+{
+    "names": "ALEPH-S-amyl NS ; 2,5-Dimethoxy-4-pentylthio-\u03b2-methyl-\u03b2-nitrostyrene ; 1-(2,5-Dimethoxy-4-pentylthiophenyll)-2-nitropropene",
+    "iupac_name": "1,4-Dimethoxy-2-[(1E)-2-nitroprop-1-en-1-yl]-5-(pentylsulfanyl)benzene",
+    "category": "data not stored",
+    "index": 1746,
+    "formular": "C16H23NO4S",
+    "molecular_weight": 325.423,
+    "inChl": "1S/C16H23NO4S/c1-5-6-7-8-22-16-11-14(20-3)13(10-15(16)21-4)9-12(2)17(18)19/h9-11H,5-8H2,1-4H3/b12-9+",
+    "InChl_Key": "RGRYNGRIOYWBHP-FMIVXFBMSA-N",
+    "SMILES": "CCCCCSc1cc(OC)c(/C=C(\\C)[N+](=O)[O-])cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1746",
+    "validation": "m_weight unsave, calculated(325.43000000000006)"
+}

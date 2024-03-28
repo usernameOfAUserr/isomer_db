@@ -1,0 +1,13 @@
+{
+    "names": "4-Phenylmorpholine",
+    "iupac_name": "4-Phenylmorpholine",
+    "category": "data not stored",
+    "index": 14528,
+    "formular": "C10H13NO",
+    "molecular_weight": 163.216,
+    "inChl": "1S/C10H13NO/c1-2-4-10(5-3-1)11-6-8-12-9-7-11/h1-5H,6-9H2",
+    "InChl_Key": "FHQRDEDZJIFJAL-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(N2CCOCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14528",
+    "validation": "m_weight unsave, calculated(163.22)"
+}

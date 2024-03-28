@@ -1,0 +1,13 @@
+{
+    "names": "1-(1-Benzothiophen-7-yl)propan-2-one",
+    "iupac_name": "11215 ; C11H10OS ; 190.262",
+    "category": "data not stored",
+    "index": 11215,
+    "formular": "C11H10OS",
+    "molecular_weight": 190.262,
+    "inChl": "1S/C11H10OS/c1-8(12)7-10-4-2-3-9-5-6-13-11(9)10/h2-6H,7H2,1H3",
+    "InChl_Key": "NHTSWWSRMWPWGV-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Cc1cccc2ccsc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11215",
+    "validation": "m_weight unsave, calculated(190.267)"
+}

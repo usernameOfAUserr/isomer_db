@@ -1,0 +1,13 @@
+{
+    "names": "(1-Pentyl-1H-indol-3-yl)(pyridin-3-yl)methanone",
+    "iupac_name": "13943 ; C19H20N2O ; 292.375",
+    "category": "cannabinodids",
+    "index": 13943,
+    "formular": "C19H20N2O",
+    "molecular_weight": 292.375,
+    "inChl": "1S/C19H20N2O/c1-2-3-6-12-21-14-17(16-9-4-5-10-18(16)21)19(22)15-8-7-11-20-13-15/h4-5,7-11,13-14H,2-3,6,12H2,1H3",
+    "InChl_Key": "ODXWRAJAQFRHFM-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2cccnc2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13943",
+    "validation": "m_weight unsave, calculated(292.382)"
+}

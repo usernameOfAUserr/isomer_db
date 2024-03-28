@@ -1,0 +1,13 @@
+{
+    "names": "2-Fluoroescaline ; 2-FE ; FEM ; 4-(2-Fluoroethoxy)-3,5-dimethoxyphenethylamine",
+    "iupac_name": "2-[4-(2-Fluoroethoxy)-3,5-dimethoxyphenyl]ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 2185,
+    "formular": "C12H18FNO3",
+    "molecular_weight": 243.275,
+    "inChl": "1S/C12H18FNO3/c1-15-10-7-9(3-5-14)8-11(16-2)12(10)17-6-4-13/h7-8H,3-6,14H2,1-2H3",
+    "InChl_Key": "RODJFRFKJSPAGG-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(OC)c1OCCF",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2185",
+    "validation": "m_weight unsave, calculated(243.27799999999993)"
+}

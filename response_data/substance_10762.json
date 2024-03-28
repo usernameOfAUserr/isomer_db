@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Me-\u03b2-Br-PEA ; N,N-Dimethyl-\u03b2-bromophenethylamine",
+    "iupac_name": "2-Bromo-N,N-dimethyl-2-phenylethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10762,
+    "formular": "C10H14BrN",
+    "molecular_weight": 228.129,
+    "inChl": "1S/C10H14BrN/c1-12(2)8-10(11)9-6-4-3-5-7-9/h3-7,10H,8H2,1-2H3",
+    "InChl_Key": "FAYDKYWSKJYIRG-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CC(Br)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10762",
+    "validation": "m_weight unsave, calculated(228.13299999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "8-Methoxy-2-(piperidin-1-yl)quinoline",
+    "iupac_name": "11377 ; C15H18N2O ; 242.316",
+    "category": "data not stored",
+    "index": 11377,
+    "formular": "C15H18N2O",
+    "molecular_weight": 242.316,
+    "inChl": "1S/C15H18N2O/c1-18-13-7-5-6-12-8-9-14(16-15(12)13)17-10-3-2-4-11-17/h5-9H,2-4,10-11H2,1H3",
+    "InChl_Key": "HDSCWCUBGWHDBI-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2ccc(N3CCCCC3)nc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11377",
+    "validation": "m_weight unsave, calculated(242.32199999999995)"
+}

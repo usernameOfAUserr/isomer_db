@@ -1,0 +1,13 @@
+{
+    "names": "AM-692",
+    "iupac_name": "5-[3-(2-Iodobenzoyl)-1H-indol-1-yl]pentyl acetate",
+    "category": "cannabinodids",
+    "index": 14606,
+    "formular": "C22H22INO3",
+    "molecular_weight": 475.319,
+    "inChl": "1S/C22H22INO3/c1-16(25)27-14-8-2-7-13-24-15-19(17-9-4-6-12-21(17)24)22(26)18-10-3-5-11-20(18)23/h3-6,9-12,15H,2,7-8,13-14H2,1H3",
+    "InChl_Key": "KXOBNBRSVKMVMC-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)OCCCCCn1cc(C(=O)c2ccccc2I)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14606",
+    "validation": "m_weight unsave, calculated(475.32600000000014)"
+}

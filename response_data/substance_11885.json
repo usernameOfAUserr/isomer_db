@@ -1,0 +1,13 @@
+{
+    "names": "1-Azabicyclo[2.2.2]octan-3-yl [4-(3-fluoropropyl)phenyl](hydroxy)phenylacetate",
+    "iupac_name": "11885 ; C24H28FNO3 ; 397.482",
+    "category": "data not stored",
+    "index": 11885,
+    "formular": "C24H28FNO3",
+    "molecular_weight": 397.482,
+    "inChl": "1S/C24H28FNO3/c25-14-4-5-18-8-10-21(11-9-18)24(28,20-6-2-1-3-7-20)23(27)29-22-17-26-15-12-19(22)13-16-26/h1-3,6-11,19,22,28H,4-5,12-17H2",
+    "InChl_Key": "HDCVIADZSOEXDV-UHFFFAOYSA-N",
+    "SMILES": "O=C(OC1CN2CCC1CC2)C(O)(c1ccccc1)c1ccc(CCCF)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11885",
+    "validation": "m_weight unsave, calculated(397.49000000000024)"
+}

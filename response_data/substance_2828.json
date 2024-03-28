@@ -1,0 +1,13 @@
+{
+    "names": "Desmethyl fenproporex ; N-(2-Cyanoethyl)phenethylamine ; PEA-P",
+    "iupac_name": "3-[(2-Phenylethyl)amino]propanenitrile",
+    "category": "data not stored",
+    "index": 2828,
+    "formular": "C11H14N2",
+    "molecular_weight": 174.242,
+    "inChl": "1S/C11H14N2/c12-8-4-9-13-10-7-11-5-2-1-3-6-11/h1-3,5-6,13H,4,7,9-10H2",
+    "InChl_Key": "LVHAIJJWSYXSLW-UHFFFAOYSA-N",
+    "SMILES": "N#CCCNCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2828",
+    "validation": "m_weight unsave, calculated(174.247)"
+}

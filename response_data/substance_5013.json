@@ -1,0 +1,13 @@
+{
+    "names": "Harmaline ; \u03b2-Carboline, 3,4-dihydro-7-methoxy-1-methyl ; 3,4-Dihydroharmine ; 3,4-Dihydro-7-methoxy-1-methyl-\u03b2-carboline ; Harmadine ; 7-Methoxyharmalan",
+    "iupac_name": "7-Methoxy-1-methyl-4,9-dihydro-3H-pyrido[3,4-b]indole ; 7-Methoxy-1-methyl-4,9-dihydro-3H-\u03b2-carboline",
+    "category": "data not stored",
+    "index": 5013,
+    "formular": "C13H14N2O",
+    "molecular_weight": 214.263,
+    "inChl": "1S/C13H14N2O/c1-8-13-11(5-6-14-8)10-4-3-9(16-2)7-12(10)15-13/h3-4,7,15H,5-6H2,1-2H3",
+    "InChl_Key": "RERZNCLIYCABFS-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c3c([nH]c2c1)C(C)=NCC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5013",
+    "validation": "m_weight unsave, calculated(214.26799999999994)"
+}

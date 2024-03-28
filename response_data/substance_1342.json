@@ -1,0 +1,13 @@
+{
+    "names": "4-Methoxy-1-phenyl-2-propanol",
+    "iupac_name": "1-(4-Methoxyphenyl)propan-2-ol",
+    "category": "data not stored",
+    "index": 1342,
+    "formular": "C10H14O2",
+    "molecular_weight": 166.217,
+    "inChl": "1S/C10H14O2/c1-8(11)7-9-3-5-10(12-2)6-4-9/h3-6,8,11H,7H2,1-2H3",
+    "InChl_Key": "TXIWFQCAXKAOBZ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CC(C)O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1342",
+    "validation": "m_weight unsave, calculated(166.22)"
+}

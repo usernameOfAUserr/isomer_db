@@ -1,0 +1,13 @@
+{
+    "names": "F-2201 ; 4\u2032-F-AM-2201 ; 4F-NA-5F-PIMO ; 5-Fluoro JWH 412 ; SGT-19",
+    "iupac_name": "(4-Fluoronaphthalen-1-yl)[1-(5-fluoropentyl)-1H-indol-3-yl]methanone",
+    "category": "cannabinodids",
+    "index": 4035,
+    "formular": "C24H21F2NO",
+    "molecular_weight": 377.426,
+    "inChl": "1S/C24H21F2NO/c25-14-6-1-7-15-27-16-21(19-10-4-5-11-23(19)27)24(28)20-12-13-22(26)18-9-3-2-8-17(18)20/h2-5,8-13,16H,1,6-7,14-15H2",
+    "InChl_Key": "DYMIQRSPYZCJDG-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccc(F)c2ccccc12)c1cn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4035",
+    "validation": "m_weight unsave, calculated(377.4340000000001)"
+}

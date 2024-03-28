@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-He-PEA ; \u03b1-Hexylphenethylamine",
+    "iupac_name": "1-Phenylhexan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10764,
+    "formular": "C12H19N",
+    "molecular_weight": 177.286,
+    "inChl": "1S/C12H19N/c1-2-3-9-12(13)10-11-7-5-4-6-8-11/h4-8,12H,2-3,9-10,13H2,1H3",
+    "InChl_Key": "UNVLUPRQPLQYGW-UHFFFAOYSA-N",
+    "SMILES": "CCCCC(N)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10764",
+    "validation": "m_weight unsave, calculated(177.291)"
+}

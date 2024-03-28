@@ -1,0 +1,13 @@
+{
+    "names": "Menthol",
+    "iupac_name": "(1S,2R,5S)-5-Methyl-2-(propan-2-yl)cyclohexan-1-ol",
+    "category": "data not stored",
+    "index": 13246,
+    "formular": "C10H20O",
+    "molecular_weight": 156.265,
+    "inChl": "1S/C10H20O/c1-7(2)9-5-4-8(3)6-10(9)11/h7-11H,4-6H2,1-3H3",
+    "InChl_Key": "NOOLISFMXDJSKH-UHFFFAOYSA-N",
+    "SMILES": "CC1CCC(C(C)C)C(O)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13246",
+    "validation": "m_weight unsave, calculated(156.26899999999998)"
+}

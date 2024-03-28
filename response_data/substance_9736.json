@@ -1,0 +1,13 @@
+{
+    "names": "4-HOOC-A ; 4-Carboxyamphetamine",
+    "iupac_name": "4-(2-Aminopropyl)benzoic acid",
+    "category": "data not stored",
+    "index": 9736,
+    "formular": "C10H13NO2",
+    "molecular_weight": 179.216,
+    "inChl": "1S/C10H13NO2/c1-7(11)6-8-2-4-9(5-3-8)10(12)13/h2-5,7H,6,11H2,1H3,(H,12,13)",
+    "InChl_Key": "GUBGXBDJXWOIFT-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(C(=O)O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9736",
+    "validation": "m_weight unsave, calculated(179.21899999999997)"
+}

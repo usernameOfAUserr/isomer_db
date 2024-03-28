@@ -1,0 +1,13 @@
+{
+    "names": "WO 2011/025541 #927",
+    "iupac_name": "(4aS,5aS)-1-(Pyrazin-2-yl)-N-(1,1,1-trifluoro-2-methylpropan-2-yl)-4,4a,5,5a-tetrahydro-1H-cyclopropa[4,5]cyclopenta[1,2-c]pyrazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4922,
+    "formular": "C16H16F3N5O",
+    "molecular_weight": 351.326,
+    "inChl": "1S/C16H16F3N5O/c1-15(2,16(17,18)19)22-14(25)12-10-6-8-5-9(8)13(10)24(23-12)11-7-20-3-4-21-11/h3-4,7-9H,5-6H2,1-2H3,(H,22,25)/t8-,9-/m0/s1",
+    "InChl_Key": "BLILOWUXFRXWQN-IUCAKERBSA-N",
+    "SMILES": "CC(C)(NC(=O)c1nn(-c2cnccn2)c2c1C[C@@H]1C[C@H]21)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4922",
+    "validation": "m_weight unsave, calculated(351.33200000000005)"
+}

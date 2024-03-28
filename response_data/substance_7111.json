@@ -1,0 +1,13 @@
+{
+    "names": "4,5-HO-2-APEA ; 2-Amino-4,5-dihydroxyphenethylamine",
+    "iupac_name": "4-Amino-5-(2-aminoethyl)benzene-1,2-diol",
+    "category": "Shulgin_Index",
+    "index": 7111,
+    "formular": "C8H12N2O2",
+    "molecular_weight": 168.193,
+    "inChl": "1S/C8H12N2O2/c9-2-1-5-3-7(11)8(12)4-6(5)10/h3-4,11-12H,1-2,9-10H2",
+    "InChl_Key": "JOMLIKNXFZFNRZ-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cc(O)c(O)cc1N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7111",
+    "validation": "m_weight unsave, calculated(168.19599999999997)"
+}

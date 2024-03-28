@@ -1,0 +1,13 @@
+{
+    "names": "PEA-NBOMe ; N-(2-Methoxybenzyl)phenethylamine",
+    "iupac_name": "N-[(2-Methoxyphenyl)methyl]-2-phenylethan-1-amine",
+    "category": "data not stored",
+    "index": 2648,
+    "formular": "C16H19NO",
+    "molecular_weight": 241.328,
+    "inChl": "1S/C16H19NO/c1-18-16-10-6-5-9-15(16)13-17-12-11-14-7-3-2-4-8-14/h2-10,17H,11-13H2,1H3",
+    "InChl_Key": "UTYSBUBGYZSUPZ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CNCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2648",
+    "validation": "m_weight unsave, calculated(241.33399999999997)"
+}

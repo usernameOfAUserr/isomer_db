@@ -1,0 +1,13 @@
+{
+    "names": "5-(4-Cyclohexylbutoxy)-T ; 5-(4-Cyclohexylbutoxy)tryptamine",
+    "iupac_name": "2-[5-(4-Cyclohexylbutoxy)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 14429,
+    "formular": "C20H30N2O",
+    "molecular_weight": 314.465,
+    "inChl": "1S/C20H30N2O/c21-12-11-17-15-22-20-10-9-18(14-19(17)20)23-13-5-4-8-16-6-2-1-3-7-16/h9-10,14-16,22H,1-8,11-13,21H2",
+    "InChl_Key": "OLAXNDRKNPEFSN-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2ccc(OCCCCC3CCCCC3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14429",
+    "validation": "m_weight unsave, calculated(314.473)"
+}

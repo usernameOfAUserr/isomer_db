@@ -1,0 +1,13 @@
+{
+    "names": "GL-ii-19-2\u2032N-R-CH3 ; SH-053-2\u2032N-R-CH3",
+    "iupac_name": "Ethyl (4R)-8-ethynyl-4-methyl-6-(pyridin-2-yl)-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 8216,
+    "formular": "C22H18N4O2",
+    "molecular_weight": 370.404,
+    "inChl": "1S/C22H18N4O2/c1-4-15-9-10-18-16(12-15)19(17-8-6-7-11-23-17)25-14(3)21-20(22(27)28-5-2)24-13-26(18)21/h1,6-14H,5H2,2-3H3/t14-/m1/s1",
+    "InChl_Key": "HLYKFXWUSDXGFJ-CQSZACIVSA-N",
+    "SMILES": "C#Cc1ccc2c(c1)C(c1ccccn1)=N[C@H](C)c1c(C(=O)OCC)ncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8216",
+    "validation": "m_weight unsave, calculated(370.4120000000001)"
+}

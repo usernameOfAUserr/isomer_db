@@ -1,0 +1,13 @@
+{
+    "names": "N-Hydrazinecarbonylmethyl-3-trifluoromethylamphetamine",
+    "iupac_name": "2-({1-[3-(Trifluoromethyl)phenyl]propan-2-yl}amino)acetohydrazide",
+    "category": "data not stored",
+    "index": 9879,
+    "formular": "C12H16F3N3O",
+    "molecular_weight": 275.27,
+    "inChl": "1S/C12H16F3N3O/c1-8(17-7-11(19)18-16)5-9-3-2-4-10(6-9)12(13,14)15/h2-4,6,8,17H,5,7,16H2,1H3,(H,18,19)",
+    "InChl_Key": "PKLCKOXENANWFU-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1cccc(C(F)(F)F)c1)NCC(=O)NN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9879",
+    "validation": ""
+}

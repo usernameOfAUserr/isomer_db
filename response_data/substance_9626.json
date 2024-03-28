@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(5-Fluoro-2-methoxyphenyl)cyclopropyl]-N-[(2-fluorophenyl)methyl]methanamine",
+    "iupac_name": "9626 ; C18H19F2NO ; 303.346",
+    "category": "data not stored",
+    "index": 9626,
+    "formular": "C18H19F2NO",
+    "molecular_weight": 303.346,
+    "inChl": "1S/C18H19F2NO/c1-22-18-7-6-14(19)9-16(18)15-8-13(15)11-21-10-12-4-2-3-5-17(12)20/h2-7,9,13,15,21H,8,10-11H2,1H3",
+    "InChl_Key": "QYAKRQGGDIIJRJ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(F)cc1C1CC1CNCc1ccccc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9626",
+    "validation": "m_weight unsave, calculated(303.352)"
+}

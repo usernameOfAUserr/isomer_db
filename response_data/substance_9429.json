@@ -1,0 +1,13 @@
+{
+    "names": "Mianserin",
+    "iupac_name": "2-Methyl-1,2,3,4,10,14b-hexahydrodibenzo[c,f]pyrazino[1,2-a]azepine",
+    "category": "data not stored",
+    "index": 9429,
+    "formular": "C18H20N2",
+    "molecular_weight": 264.365,
+    "inChl": "1S/C18H20N2/c1-19-10-11-20-17-9-5-3-7-15(17)12-14-6-2-4-8-16(14)18(20)13-19/h2-9,18H,10-13H2,1H3",
+    "InChl_Key": "UEQUQVLFIPOEMF-UHFFFAOYSA-N",
+    "SMILES": "CN1CCN2c3ccccc3Cc3ccccc3C2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9429",
+    "validation": "m_weight unsave, calculated(264.37199999999996)"
+}

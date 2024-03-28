@@ -1,0 +1,13 @@
+{
+    "names": "4-Methyl-2,3,4,4a,5,6-hexahydrobenzo[f]quinoline-2-carboxylic acid",
+    "iupac_name": "1828 ; C15H17NO2 ; 243.301",
+    "category": "data not stored",
+    "index": 1828,
+    "formular": "C15H17NO2",
+    "molecular_weight": 243.301,
+    "inChl": "1S/C15H17NO2/c1-16-9-11(15(17)18)8-13-12-5-3-2-4-10(12)6-7-14(13)16/h2-5,8,11,14H,6-7,9H2,1H3,(H,17,18)",
+    "InChl_Key": "ODHPDYFGSSBDCD-UHFFFAOYSA-N",
+    "SMILES": "CN1CC(C(=O)O)C=C2c3ccccc3CCC21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1828",
+    "validation": "m_weight unsave, calculated(243.306)"
+}

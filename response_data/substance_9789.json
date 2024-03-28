@@ -1,0 +1,13 @@
+{
+    "names": "JB-18 ; N-Allyl-3-piperidyl benzilate ; JF-18",
+    "iupac_name": "1-(Prop-2-en-1-yl)piperidin-3-yl hydroxy(diphenyl)acetate",
+    "category": "data not stored",
+    "index": 9789,
+    "formular": "C22H25NO3",
+    "molecular_weight": 351.439,
+    "inChl": "1S/C22H25NO3/c1-2-15-23-16-9-14-20(17-23)26-21(24)22(25,18-10-5-3-6-11-18)19-12-7-4-8-13-19/h2-8,10-13,20,25H,1,9,14-17H2",
+    "InChl_Key": "GYMMDMRPANGCCC-UHFFFAOYSA-N",
+    "SMILES": "C=CCN1CCCC(OC(=O)C(O)(c2ccccc2)c2ccccc2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9789",
+    "validation": "m_weight unsave, calculated(351.446)"
+}

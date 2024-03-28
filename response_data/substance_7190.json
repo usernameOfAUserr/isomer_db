@@ -1,0 +1,13 @@
+{
+    "names": "3,3,4-Trimethyl-1-{1-[(oxan-4-yl)methyl]-1H-indol-3-yl}pent-4-en-1-one",
+    "iupac_name": "7190 ; C22H29NO2 ; 339.471",
+    "category": "cannabinodids",
+    "index": 7190,
+    "formular": "C22H29NO2",
+    "molecular_weight": 339.471,
+    "inChl": "1S/C22H29NO2/c1-16(2)22(3,4)13-21(24)19-15-23(14-17-9-11-25-12-10-17)20-8-6-5-7-18(19)20/h5-8,15,17H,1,9-14H2,2-4H3",
+    "InChl_Key": "SHMFIOCKSMJXSG-UHFFFAOYSA-N",
+    "SMILES": "C=C(C)C(C)(C)CC(=O)c1cn(CC2CCOCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7190",
+    "validation": "m_weight unsave, calculated(339.4790000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "17,18-Secoibogamin-12-ol ; 3-[2-(6-Ethyl-2-azabicyclo[2.2.2]octan-2-yl)ethyl]-1H-indol-5-ol ; 12-Hydroxy-17,18-secoibogamine",
+    "iupac_name": "11450 ; C19H26N2O ; 298.423",
+    "category": "data not stored",
+    "index": 11450,
+    "formular": "C19H26N2O",
+    "molecular_weight": 298.423,
+    "inChl": "1S/C19H26N2O/c1-2-14-9-13-3-6-19(14)21(12-13)8-7-15-11-20-18-5-4-16(22)10-17(15)18/h4-5,10-11,13-14,19-20,22H,2-3,6-9,12H2,1H3",
+    "InChl_Key": "LGMQLDUOWJCHPL-UHFFFAOYSA-N",
+    "SMILES": "CCC1CC2CCC1N(CCc1c[nH]c3ccc(O)cc13)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11450",
+    "validation": "m_weight unsave, calculated(298.42999999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Dextrofemine ; N-(1-Phenoxypropan-2-yl)amphetamine ; N-PhOiPr-A",
+    "iupac_name": "1-Phenoxy-N-(1-phenylpropan-2-yl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10693,
+    "formular": "C18H23NO",
+    "molecular_weight": 269.381,
+    "inChl": "1S/C18H23NO/c1-15(13-17-9-5-3-6-10-17)19-16(2)14-20-18-11-7-4-8-12-18/h3-12,15-16,19H,13-14H2,1-2H3",
+    "InChl_Key": "URCIJDUOBBSMII-UHFFFAOYSA-N",
+    "SMILES": "CC(COc1ccccc1)NC(C)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10693",
+    "validation": "m_weight unsave, calculated(269.388)"
+}

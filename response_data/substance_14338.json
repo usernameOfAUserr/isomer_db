@@ -1,0 +1,13 @@
+{
+    "names": "Cotinine",
+    "iupac_name": "(5S)-1-Methyl-5-(pyridin-3-yl)pyrrolidin-2-one",
+    "category": "data not stored",
+    "index": 14338,
+    "formular": "C10H12N2O",
+    "molecular_weight": 176.215,
+    "inChl": "1S/C10H12N2O/c1-12-9(4-5-10(12)13)8-3-2-6-11-7-8/h2-3,6-7,9H,4-5H2,1H3/t9-/m0/s1",
+    "InChl_Key": "UIKROCXWUNQSPJ-VIFPVBQESA-N",
+    "SMILES": "CN1C(=O)CC[C@H]1c1cccnc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14338",
+    "validation": "m_weight unsave, calculated(176.21900000000002)"
+}

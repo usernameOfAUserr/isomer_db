@@ -1,0 +1,13 @@
+{
+    "names": "6-Prenyl-5-fluoro-N-acetyltryptamine",
+    "iupac_name": "N-{2-[5-Fluoro-6-(3-methylbut-2-en-1-yl)-1H-indol-3-yl]ethyl}acetamide",
+    "category": "Tryptamine",
+    "index": 14489,
+    "formular": "C17H21FN2O",
+    "molecular_weight": 288.36,
+    "inChl": "1S/C17H21FN2O/c1-11(2)4-5-13-8-17-15(9-16(13)18)14(10-20-17)6-7-19-12(3)21/h4,8-10,20H,5-7H2,1-3H3,(H,19,21)",
+    "InChl_Key": "FJQDIWBHIGPYLL-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NCCc1c[nH]c2cc(CC=C(C)C)c(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14489",
+    "validation": "m_weight unsave, calculated(288.36600000000004)"
+}

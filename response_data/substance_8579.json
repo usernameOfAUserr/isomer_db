@@ -1,0 +1,13 @@
+{
+    "names": "DL-4662 ; 3\u2032,4\u2032-Dimethoxy-2-(ethylamino)valerophenone",
+    "iupac_name": "1-(3,4-Dimethoxyphenyl)-2-(ethylamino)pentan-1-one",
+    "category": "data not stored",
+    "index": 8579,
+    "formular": "C15H23NO3",
+    "molecular_weight": 265.348,
+    "inChl": "1S/C15H23NO3/c1-5-7-12(16-6-2)15(17)11-8-9-13(18-3)14(10-11)19-4/h8-10,12,16H,5-7H2,1-4H3",
+    "InChl_Key": "WZVCLFAACAERMB-UHFFFAOYSA-N",
+    "SMILES": "CCCC(NCC)C(=O)c1ccc(OC)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8579",
+    "validation": "m_weight unsave, calculated(265.35299999999995)"
+}

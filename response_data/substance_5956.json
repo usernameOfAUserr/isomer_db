@@ -1,0 +1,13 @@
+{
+    "names": "25B-5-TFM-NBOMe ; N-(2-Methoxybenzyl)-4-bromo-5-trifluoromethyl-2-methoxyphenethylamine",
+    "iupac_name": "2-[4-Bromo-2-methoxy-5-(trifluoromethyl)phenyl]-N-[(2-methoxyphenyl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 5956,
+    "formular": "C18H19BrF3NO2",
+    "molecular_weight": 418.248,
+    "inChl": "1S/C18H19BrF3NO2/c1-24-16-6-4-3-5-13(16)11-23-8-7-12-9-14(18(20,21)22)15(19)10-17(12)25-2/h3-6,9-10,23H,7-8,11H2,1-2H3",
+    "InChl_Key": "RBGLJKFROJGZCO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Br)c(C(F)(F)F)cc1CCNCc1ccccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5956",
+    "validation": "m_weight unsave, calculated(418.25300000000004)"
+}

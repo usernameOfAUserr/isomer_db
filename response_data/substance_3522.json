@@ -1,0 +1,13 @@
+{
+    "names": "GSK-1360707F",
+    "iupac_name": "(1S,6R)-6-(3,4-Dichlorophenyl)-1-(methoxymethyl)-3-azabicyclo[4.1.0]heptane",
+    "category": "data not stored",
+    "index": 3522,
+    "formular": "C14H17Cl2NO",
+    "molecular_weight": 286.197,
+    "inChl": "1S/C14H17Cl2NO/c1-18-9-13-7-14(13,4-5-17-8-13)10-2-3-11(15)12(16)6-10/h2-3,6,17H,4-5,7-9H2,1H3/t13-,14-/m0/s1",
+    "InChl_Key": "ICXJGCSEMJXNQF-KBPBESRZSA-N",
+    "SMILES": "COC[C@]12CNCC[C@@]1(c1ccc(Cl)c(Cl)c1)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3522",
+    "validation": "m_weight unsave, calculated(286.202)"
+}

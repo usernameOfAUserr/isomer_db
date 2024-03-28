@@ -1,0 +1,13 @@
+{
+    "names": "2C-C-3 ; 2,4,5-Trichloro-3,6-dimethoxyphenethylamine",
+    "iupac_name": "2-(2,4,5-Trichloro-3,6-dimethoxyphenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10449,
+    "formular": "C10H12Cl3NO2",
+    "molecular_weight": 284.567,
+    "inChl": "1S/C10H12Cl3NO2/c1-15-9-5(3-4-14)6(11)10(16-2)8(13)7(9)12/h3-4,14H2,1-2H3",
+    "InChl_Key": "KOPBUYXENMEXTP-UHFFFAOYSA-N",
+    "SMILES": "COc1c(Cl)c(Cl)c(OC)c(CCN)c1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10449",
+    "validation": "m_weight unsave, calculated(284.56999999999994)"
+}

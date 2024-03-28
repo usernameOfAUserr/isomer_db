@@ -1,0 +1,13 @@
+{
+    "names": "Clobenzorex ; N-(2-Chlorobenzyl)amphetamine",
+    "iupac_name": "N-[(2-Chlorophenyl)methyl]-1-phenylpropan-2-amine ; N-(2-Chlorobenzyl)-1-phenylpropan-2-amine",
+    "category": "Phenetylamine",
+    "index": 2703,
+    "formular": "C16H18ClN",
+    "molecular_weight": 259.774,
+    "inChl": "1S/C16H18ClN/c1-13(11-14-7-3-2-4-8-14)18-12-15-9-5-6-10-16(15)17/h2-10,13,18H,11-12H2,1H3",
+    "InChl_Key": "LRXXRIXDSAEIOR-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NCc1ccccc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2703",
+    "validation": "m_weight unsave, calculated(259.78)"
+}

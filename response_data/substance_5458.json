@@ -1,0 +1,13 @@
+{
+    "names": "1-Propyl-5-MeO-AMT ; 1-Propyl-5-methoxy-\u03b1-methyltryptamine",
+    "iupac_name": "1-(5-Methoxy-1-propyl-1H-indol-3-yl)propan-2-amine",
+    "category": "Tryptamine",
+    "index": 5458,
+    "formular": "C15H22N2O",
+    "molecular_weight": 246.348,
+    "inChl": "1S/C15H22N2O/c1-4-7-17-10-12(8-11(2)16)14-9-13(18-3)5-6-15(14)17/h5-6,9-11H,4,7-8,16H2,1-3H3",
+    "InChl_Key": "DAGLCFOMYRIMJJ-UHFFFAOYSA-N",
+    "SMILES": "CCCn1cc(CC(C)N)c2cc(OC)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5458",
+    "validation": "m_weight unsave, calculated(246.35399999999996)"
+}

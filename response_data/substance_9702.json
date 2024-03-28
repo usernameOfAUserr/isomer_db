@@ -1,0 +1,13 @@
+{
+    "names": "Propoxy-hydroxyhomo-thiosildenafil",
+    "iupac_name": "5-{5-[4-(2-Hydroxyethyl)piperazine-1-sulfonyl]-2-propoxyphenyl}-1-methyl-3-propyl-1,6-dihydro-7H-pyrazolo[4,3-d]pyrimidine-7-thione ; 5-{5-[4-(2-Hydroxyethyl)piperazine-1-sulfonyl]-2-propoxyphenyl}-1-methyl-3-propyl-1,4-dihydro-7H-pyrazolo[4,3-d]pyrimidine-7-thione",
+    "category": "data not stored",
+    "index": 9702,
+    "formular": "C24H34N6O4S2",
+    "molecular_weight": 534.695,
+    "inChl": "1S/C24H34N6O4S2/c1-4-6-19-21-22(28(3)27-19)24(35)26-23(25-21)18-16-17(7-8-20(18)34-15-5-2)36(32,33)30-11-9-29(10-12-30)13-14-31/h7-8,16,31H,4-6,9-15H2,1-3H3,(H,25,26,35)",
+    "InChl_Key": "DEWHQLWUEFWZSK-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1ccc(S(=O)(=O)N2CCN(CCO)CC2)cc1-c1nc2c(CCC)nn(C)c2c(=S)[nH]1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9702",
+    "validation": "m_weight unsave, calculated(534.7080000000003)"
+}

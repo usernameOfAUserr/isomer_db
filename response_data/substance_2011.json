@@ -1,0 +1,13 @@
+{
+    "names": "Norepinephrine ; Noradrenaline ; (R)-4-(1-Hydroxy-2-aminoethyl)benzene-1,2-diol",
+    "iupac_name": "4-[(1R)-2-Amino-1-hydroxyethyl]benzene-1,2-diol",
+    "category": "Shulgin_Index",
+    "index": 2011,
+    "formular": "C8H11NO3",
+    "molecular_weight": 169.178,
+    "inChl": "1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2/t8-/m0/s1",
+    "InChl_Key": "SFLSHLFXELFNJZ-QMMMGPOBSA-N",
+    "SMILES": "NC[C@H](O)c1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2011",
+    "validation": "m_weight unsave, calculated(169.17999999999998)"
+}

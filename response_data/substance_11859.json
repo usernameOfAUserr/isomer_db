@@ -1,0 +1,13 @@
+{
+    "names": "8-Methyl-8-azabicyclo[3.2.1]octan-2-yl cyclobutyl(hydroxy)phenylacetate",
+    "iupac_name": "11859 ; C20H27NO3 ; 329.433",
+    "category": "data not stored",
+    "index": 11859,
+    "formular": "C20H27NO3",
+    "molecular_weight": 329.433,
+    "inChl": "1S/C20H27NO3/c1-21-16-10-12-17(21)18(13-11-16)24-19(22)20(23,15-8-5-9-15)14-6-3-2-4-7-14/h2-4,6-7,15-18,23H,5,8-13H2,1H3",
+    "InChl_Key": "JQQGTACLWAUYDA-UHFFFAOYSA-N",
+    "SMILES": "CN1C2CCC(OC(=O)C(O)(c3ccccc3)C3CCC3)C1CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11859",
+    "validation": "m_weight unsave, calculated(329.4400000000001)"
+}

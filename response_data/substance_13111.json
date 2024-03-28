@@ -1,0 +1,13 @@
+{
+    "names": "2,3-Dihydro-1-benzofuran-7-carbaldehyde",
+    "iupac_name": "13111 ; C9H8O2 ; 148.159",
+    "category": "data not stored",
+    "index": 13111,
+    "formular": "C9H8O2",
+    "molecular_weight": 148.159,
+    "inChl": "1S/C9H8O2/c10-6-8-3-1-2-7-4-5-11-9(7)8/h1-3,6H,4-5H2",
+    "InChl_Key": "CLXXUGOCVBQNAI-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1cccc2c1OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13111",
+    "validation": "m_weight unsave, calculated(148.16099999999994)"
+}

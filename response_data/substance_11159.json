@@ -1,0 +1,13 @@
+{
+    "names": "4C-DMPEA NS ; 3,4-Dimethoxy-\u03b2-ethyl-\u03b2-nitrostyrene ; 3,4-DiMeO-\u03b2-Et-NS",
+    "iupac_name": "1,2-Dimethoxy-4-[(1E)-2-nitrobut-1-en-1-yl]benzene",
+    "category": "data not stored",
+    "index": 11159,
+    "formular": "C12H15NO4",
+    "molecular_weight": 237.252,
+    "inChl": "1S/C12H15NO4/c1-4-10(13(14)15)7-9-5-6-11(16-2)12(8-9)17-3/h5-8H,4H2,1-3H3/b10-7+",
+    "InChl_Key": "NRBCNHBQBWHAJU-JXMROGBWSA-N",
+    "SMILES": "CC/C(=C\\c1ccc(OC)c(OC)c1)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11159",
+    "validation": "m_weight unsave, calculated(237.25499999999997)"
+}

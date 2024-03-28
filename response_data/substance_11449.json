@@ -1,0 +1,13 @@
+{
+    "names": "12-Methoxy-17,18-secoibogamine ; 3-[2-(6-Ethyl-2-azabicyclo[2.2.2]octan-2-yl)ethyl]-5-methoxy-1H-indole",
+    "iupac_name": "11449 ; C20H28N2O ; 312.449",
+    "category": "data not stored",
+    "index": 11449,
+    "formular": "C20H28N2O",
+    "molecular_weight": 312.449,
+    "inChl": "1S/C20H28N2O/c1-3-15-10-14-4-7-20(15)22(13-14)9-8-16-12-21-19-6-5-17(23-2)11-18(16)19/h5-6,11-12,14-15,20-21H,3-4,7-10,13H2,1-2H3",
+    "InChl_Key": "CVZPJOIZBLLOGS-UHFFFAOYSA-N",
+    "SMILES": "CCC1CC2CCC1N(CCc1c[nH]c3ccc(OC)cc13)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11449",
+    "validation": "m_weight unsave, calculated(312.457)"
+}

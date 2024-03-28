@@ -1,0 +1,13 @@
+{
+    "names": "Varacin C",
+    "iupac_name": "7-(2-Aminoethyl)-4,5-dimethoxy-1H-1\u03bb4,2,3-benzotrithiol-1-one",
+    "category": "Phenetylamine",
+    "index": 10391,
+    "formular": "C10H13NO3S3",
+    "molecular_weight": 291.41,
+    "inChl": "1S/C10H13NO3S3/c1-13-7-5-6(3-4-11)10-9(8(7)14-2)15-16-17(10)12/h5H,3-4,11H2,1-2H3",
+    "InChl_Key": "MPXUQNNQMHRHJD-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)c2c(c1OC)SSS2=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10391",
+    "validation": "m_weight unsave, calculated(291.41900000000004)"
+}

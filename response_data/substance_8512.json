@@ -1,0 +1,13 @@
+{
+    "names": "N,N-DMMC ; 4-MDMC",
+    "iupac_name": "2-(Dimethylamino)-1-(4-methylphenyl)propan-1-one",
+    "category": "data not stored",
+    "index": 8512,
+    "formular": "C12H17NO",
+    "molecular_weight": 191.269,
+    "inChl": "1S/C12H17NO/c1-9-5-7-11(8-6-9)12(14)10(2)13(3)4/h5-8,10H,1-4H3",
+    "InChl_Key": "FXLSIGLYVVJURY-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)C(C)N(C)C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8512",
+    "validation": "m_weight unsave, calculated(191.27399999999997)"
+}

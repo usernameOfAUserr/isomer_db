@@ -1,0 +1,13 @@
+{
+    "names": "4F-N-Ethylisohexedrone",
+    "iupac_name": "2-(Ethylamino)-1-(4-fluorophenyl)-4-methylpentan-1-one",
+    "category": "data not stored",
+    "index": 13313,
+    "formular": "C14H20FNO",
+    "molecular_weight": 237.313,
+    "inChl": "1S/C14H20FNO/c1-4-16-13(9-10(2)3)14(17)11-5-7-12(15)8-6-11/h5-8,10,13,16H,4,9H2,1-3H3",
+    "InChl_Key": "LZTZUHCTBUONLO-UHFFFAOYSA-N",
+    "SMILES": "CCNC(CC(C)C)C(=O)c1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13313",
+    "validation": "m_weight unsave, calculated(237.31799999999996)"
+}

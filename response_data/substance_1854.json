@@ -1,0 +1,13 @@
+{
+    "names": "Methyl 4-(2,5-dimethoxy-3-methylphenyl)butanoate",
+    "iupac_name": "1854 ; C14H20O4 ; 252.306",
+    "category": "data not stored",
+    "index": 1854,
+    "formular": "C14H20O4",
+    "molecular_weight": 252.306,
+    "inChl": "1S/C14H20O4/c1-10-8-12(16-2)9-11(14(10)18-4)6-5-7-13(15)17-3/h8-9H,5-7H2,1-4H3",
+    "InChl_Key": "UJOKTNYVJSICRS-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)CCCc1cc(OC)cc(C)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1854",
+    "validation": "m_weight unsave, calculated(252.30999999999997)"
+}

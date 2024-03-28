@@ -1,0 +1,13 @@
+{
+    "names": "p-Fluoro-cyclopentylfentanyl ; 4\u2032-Fluoro-cyclopentylfentanyl",
+    "iupac_name": "N-(4-Fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]cyclopentanecarboxamide",
+    "category": "Fentanyl",
+    "index": 1656,
+    "formular": "C25H31FN2O",
+    "molecular_weight": 394.525,
+    "inChl": "1S/C25H31FN2O/c26-22-10-12-23(13-11-22)28(25(29)21-8-4-5-9-21)24-15-18-27(19-16-24)17-14-20-6-2-1-3-7-20/h1-3,6-7,10-13,21,24H,4-5,8-9,14-19H2",
+    "InChl_Key": "FHNWCPRXMDUFOQ-UHFFFAOYSA-N",
+    "SMILES": "O=C(C1CCCC1)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1656",
+    "validation": "m_weight unsave, calculated(394.53400000000016)"
+}

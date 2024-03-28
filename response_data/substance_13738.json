@@ -1,0 +1,13 @@
+{
+    "names": "5\u2032-Chloro-5-methyl-1-pentyl-1,2,5,6-tetrahydro-3,3\u2032-bipyridine",
+    "iupac_name": "13738 ; C16H23ClN2 ; 278.82",
+    "category": "data not stored",
+    "index": 13738,
+    "formular": "C16H23ClN2",
+    "molecular_weight": 278.82,
+    "inChl": "1S/C16H23ClN2/c1-3-4-5-6-19-11-13(2)7-15(12-19)14-8-16(17)10-18-9-14/h7-10,13H,3-6,11-12H2,1-2H3",
+    "InChl_Key": "OHJVEQAHEBJMIL-UHFFFAOYSA-N",
+    "SMILES": "CCCCCN1CC(c2cncc(Cl)c2)=CC(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13738",
+    "validation": "m_weight unsave, calculated(278.827)"
+}

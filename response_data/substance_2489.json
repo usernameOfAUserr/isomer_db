@@ -1,0 +1,13 @@
+{
+    "names": "4-CHPr-2-MPEA ; 4-(3-Cyclohexylpropyl)-2-methoxyphenethylamine",
+    "iupac_name": "2-[4-(3-Cyclohexylpropyl)-2-methoxyphenyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 2489,
+    "formular": "C18H29NO",
+    "molecular_weight": 275.429,
+    "inChl": "1S/C18H29NO/c1-20-18-14-16(10-11-17(18)12-13-19)9-5-8-15-6-3-2-4-7-15/h10-11,14-15H,2-9,12-13,19H2,1H3",
+    "InChl_Key": "LHLIQTFLFFGKTN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCCC2CCCCC2)ccc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2489",
+    "validation": "m_weight unsave, calculated(275.436)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "US 7820144 #2-28",
+    "iupac_name": "(2-Iodophenyl){1-[(4-methylmorpholin-3-yl)methyl]-1H-indol-3-yl}methanone",
+    "category": "cannabinodids",
+    "index": 4045,
+    "formular": "C21H21IN2O2",
+    "molecular_weight": 460.308,
+    "inChl": "1S/C21H21IN2O2/c1-23-10-11-26-14-15(23)12-24-13-18(16-6-3-5-9-20(16)24)21(25)17-7-2-4-8-19(17)22/h2-9,13,15H,10-12,14H2,1H3",
+    "InChl_Key": "RDKDUZRIKURUJQ-UHFFFAOYSA-N",
+    "SMILES": "CN1CCOCC1Cn1cc(C(=O)c2ccccc2I)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4045",
+    "validation": "m_weight unsave, calculated(460.31500000000005)"
+}

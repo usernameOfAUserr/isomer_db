@@ -1,0 +1,13 @@
+{
+    "names": "Ro-20-8552",
+    "iupac_name": "8-Chloro-5-(2-fluorophenyl)-7-methyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one",
+    "category": "Aryldiazepine",
+    "index": 3402,
+    "formular": "C16H12ClFN2O",
+    "molecular_weight": 302.731,
+    "inChl": "1S/C16H12ClFN2O/c1-9-6-11-14(7-12(9)17)20-15(21)8-19-16(11)10-4-2-3-5-13(10)18/h2-7H,8H2,1H3,(H,20,21)",
+    "InChl_Key": "GANKBGRUGXCJBG-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc2c(cc1Cl)NC(=O)CN=C2c1ccccc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3402",
+    "validation": "m_weight unsave, calculated(302.736)"
+}

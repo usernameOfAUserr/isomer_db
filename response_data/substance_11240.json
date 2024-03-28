@@ -1,0 +1,13 @@
+{
+    "names": "1-Pentyl-4-azaindole-COOH",
+    "iupac_name": "1-Pentyl-1H-pyrrolo[3,2-b]pyridine-3-carboxylic acid",
+    "category": "data not stored",
+    "index": 11240,
+    "formular": "C13H16N2O2",
+    "molecular_weight": 232.278,
+    "inChl": "1S/C13H16N2O2/c1-2-3-4-8-15-9-10(13(16)17)12-11(15)6-5-7-14-12/h5-7,9H,2-4,8H2,1H3,(H,16,17)",
+    "InChl_Key": "QKKRXTOUMWCWPY-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)O)c2ncccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11240",
+    "validation": "m_weight unsave, calculated(232.28300000000002)"
+}

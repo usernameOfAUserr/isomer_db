@@ -1,0 +1,13 @@
+{
+    "names": "6,7-Dichloro-2,3,4,5-tetrahydro-1H-3-benzazepine",
+    "iupac_name": "14652 ; C10H11Cl2N ; 216.107",
+    "category": "data not stored",
+    "index": 14652,
+    "formular": "C10H11Cl2N",
+    "molecular_weight": 216.107,
+    "inChl": "1S/C10H11Cl2N/c11-9-2-1-7-3-5-13-6-4-8(7)10(9)12/h1-2,13H,3-6H2",
+    "InChl_Key": "WMCWIMZEYWNBOQ-UHFFFAOYSA-N",
+    "SMILES": "Clc1ccc2c(c1Cl)CCNCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14652",
+    "validation": "m_weight unsave, calculated(216.11099999999996)"
+}

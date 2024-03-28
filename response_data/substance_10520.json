@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2,3-DHMA ; \u03b2,3-Dihydroxymethamphetamine ; m-Hydroxyephedrine",
+    "iupac_name": "3-[1-Hydroxy-2-(methylamino)propyl]phenol",
+    "category": "Phenetylamine",
+    "index": 10520,
+    "formular": "C10H15NO2",
+    "molecular_weight": 181.232,
+    "inChl": "1S/C10H15NO2/c1-7(11-2)10(13)8-4-3-5-9(12)6-8/h3-7,10-13H,1-2H3",
+    "InChl_Key": "KEEFJRKWMCQJLN-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(O)c1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10520",
+    "validation": "m_weight unsave, calculated(181.23499999999999)"
+}

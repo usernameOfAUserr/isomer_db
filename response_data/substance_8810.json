@@ -1,0 +1,13 @@
+{
+    "names": "4-BrBP-HFBA",
+    "iupac_name": "1-{4-[(4-Bromophenyl)methyl]piperazin-1-yl}-2,2,3,3,4,4,4-heptafluorobutan-1-one",
+    "category": "data not stored",
+    "index": 8810,
+    "formular": "C15H14BrF7N2O",
+    "molecular_weight": 451.177,
+    "inChl": "1S/C15H14BrF7N2O/c16-11-3-1-10(2-4-11)9-24-5-7-25(8-6-24)12(26)13(17,18)14(19,20)15(21,22)23/h1-4H,5-9H2",
+    "InChl_Key": "DKVCFZLXERJJEM-UHFFFAOYSA-N",
+    "SMILES": "O=C(N1CCN(Cc2ccc(Br)cc2)CC1)C(F)(F)C(F)(F)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8810",
+    "validation": "m_weight unsave, calculated(451.1800000000001)"
+}

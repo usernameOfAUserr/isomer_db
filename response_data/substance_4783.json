@@ -1,0 +1,13 @@
+{
+    "names": "US 2004/0087590 #5",
+    "iupac_name": "2\u2032-Fluoro-5\u2032-methyl-4-(2-methyloctan-2-yl)[1,1\u2032-biphenyl]-2,6-diol",
+    "category": "cannabinodids",
+    "index": 4783,
+    "formular": "C22H29FO2",
+    "molecular_weight": 344.463,
+    "inChl": "1S/C22H29FO2/c1-5-6-7-8-11-22(3,4)16-13-19(24)21(20(25)14-16)17-12-15(2)9-10-18(17)23/h9-10,12-14,24-25H,5-8,11H2,1-4H3",
+    "InChl_Key": "KEQSELKUDRPLRG-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCC(C)(C)c1cc(O)c(-c2cc(C)ccc2F)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4783",
+    "validation": "m_weight unsave, calculated(344.47)"
+}

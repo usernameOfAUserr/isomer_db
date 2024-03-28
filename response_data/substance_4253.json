@@ -1,0 +1,13 @@
+{
+    "names": "US 5292736 #18",
+    "iupac_name": "4-[(E)-{3-[2-(Morpholin-4-yl)ethyl]-1H-inden-1-ylidene}methyl]-1H-indole",
+    "category": "cannabinodids",
+    "index": 4253,
+    "formular": "C24H24N2O",
+    "molecular_weight": 356.46,
+    "inChl": "1S/C24H24N2O/c1-2-6-22-20(16-18-4-3-7-24-23(18)8-10-25-24)17-19(21(22)5-1)9-11-26-12-14-27-15-13-26/h1-8,10,16-17,25H,9,11-15H2/b20-16+",
+    "InChl_Key": "FDBPHAOKOQMOLV-CAPFRKAQSA-N",
+    "SMILES": "C1=C(CCN2CCOCC2)c2ccccc2/C1=C/c1cccc2[nH]ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4253",
+    "validation": "m_weight unsave, calculated(356.46900000000005)"
+}

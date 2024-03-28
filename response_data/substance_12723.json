@@ -1,0 +1,13 @@
+{
+    "names": "5-Fluoro-ALSBT ; 5-Fluoro-N-allyl-N-sec-butyltryptamine",
+    "iupac_name": "N-[2-(5-Fluoro-1H-indol-3-yl)ethyl]-N-(prop-2-en-1-yl)butan-2-amine",
+    "category": "Tryptamine",
+    "index": 12723,
+    "formular": "C17H23FN2",
+    "molecular_weight": 274.376,
+    "inChl": "1S/C17H23FN2/c1-4-9-20(13(3)5-2)10-8-14-12-19-17-7-6-15(18)11-16(14)17/h4,6-7,11-13,19H,1,5,8-10H2,2-3H3",
+    "InChl_Key": "PVDOKCAOWDYGCF-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(CCc1c[nH]c2ccc(F)cc12)C(C)CC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12723",
+    "validation": "m_weight unsave, calculated(274.3830000000001)"
+}

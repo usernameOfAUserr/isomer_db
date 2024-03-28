@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(2-Butoxy-5-chlorophenyl)cyclopropyl]methanamine",
+    "iupac_name": "9678 ; C14H20ClNO ; 253.768",
+    "category": "data not stored",
+    "index": 9678,
+    "formular": "C14H20ClNO",
+    "molecular_weight": 253.768,
+    "inChl": "1S/C14H20ClNO/c1-2-3-6-17-14-5-4-11(15)8-13(14)12-7-10(12)9-16/h4-5,8,10,12H,2-3,6-7,9,16H2,1H3",
+    "InChl_Key": "YWMCKNVEQNOIMV-UHFFFAOYSA-N",
+    "SMILES": "CCCCOc1ccc(Cl)cc1C1CC1CN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9678",
+    "validation": "m_weight unsave, calculated(253.77299999999997)"
+}

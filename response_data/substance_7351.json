@@ -1,0 +1,13 @@
+{
+    "names": "Eltoprazine ; DU-28,853",
+    "iupac_name": "1-(2,3-Dihydro-1,4-benzodioxin-5-yl)piperazine",
+    "category": "data not stored",
+    "index": 7351,
+    "formular": "C12H16N2O2",
+    "molecular_weight": 220.268,
+    "inChl": "1S/C12H16N2O2/c1-2-10(14-6-4-13-5-7-14)12-11(3-1)15-8-9-16-12/h1-3,13H,4-9H2",
+    "InChl_Key": "WVLHGCRWEHCIOT-UHFFFAOYSA-N",
+    "SMILES": "c1cc2c(c(N3CCNCC3)c1)OCCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7351",
+    "validation": "m_weight unsave, calculated(220.27199999999993)"
+}

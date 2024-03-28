@@ -1,0 +1,13 @@
+{
+    "names": "S-{2-[3-(2,2,3,3-Tetramethylcyclopropane-1-carbonyl)-1H-indol-1-yl]ethyl} hydrogen sulfurothioate",
+    "iupac_name": "3575 ; C18H23NO4S2 ; 381.51",
+    "category": "cannabinodids",
+    "index": 3575,
+    "formular": "C18H23NO4S2",
+    "molecular_weight": 381.51,
+    "inChl": "1S/C18H23NO4S2/c1-17(2)16(18(17,3)4)15(20)13-11-19(9-10-24-25(21,22)23)14-8-6-5-7-12(13)14/h5-8,11,16H,9-10H2,1-4H3,(H,21,22,23)",
+    "InChl_Key": "CKHIJIGDSZJNID-UHFFFAOYSA-N",
+    "SMILES": "CC1(C)C(C(=O)c2cn(CCSS(=O)(=O)O)c3ccccc23)C1(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3575",
+    "validation": "m_weight unsave, calculated(381.5190000000001)"
+}

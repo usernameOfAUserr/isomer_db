@@ -1,0 +1,13 @@
+{
+    "names": "1-Azabicyclo[2.2.2]octan-3-yl cyclohexyl(hydroxy)phenylacetate",
+    "iupac_name": "11856 ; C21H29NO3 ; 343.46",
+    "category": "data not stored",
+    "index": 11856,
+    "formular": "C21H29NO3",
+    "molecular_weight": 343.46,
+    "inChl": "1S/C21H29NO3/c23-20(25-19-15-22-13-11-16(19)12-14-22)21(24,17-7-3-1-4-8-17)18-9-5-2-6-10-18/h1,3-4,7-8,16,18-19,24H,2,5-6,9-15H2",
+    "InChl_Key": "SWZDDEVSNRTITP-UHFFFAOYSA-N",
+    "SMILES": "O=C(OC1CN2CCC1CC2)C(O)(c1ccccc1)C1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11856",
+    "validation": "m_weight unsave, calculated(343.4670000000001)"
+}

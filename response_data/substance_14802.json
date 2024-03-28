@@ -1,0 +1,13 @@
+{
+    "names": "Lysine-MDA ; N-(L-Lysinamidyl)-3,4-methylenedioxyamphetamine ; Lys-MDA",
+    "iupac_name": "N-[1-(2H-1,3-Benzodioxol-5-yl)propan-2-yl]-L-lysinamide ; (2S)-2,6-Diamino-N-[1-(2H-1,3-benzodioxol-5-yl)propan-2-yl]hexanamide",
+    "category": "data not stored",
+    "index": 14802,
+    "formular": "C16H25N3O3",
+    "molecular_weight": 307.388,
+    "inChl": "1S/C16H25N3O3/c1-11(19-16(20)13(18)4-2-3-7-17)8-12-5-6-14-15(9-12)22-10-21-14/h5-6,9,11,13H,2-4,7-8,10,17-18H2,1H3,(H,19,20)/t11?,13-/m0/s1",
+    "InChl_Key": "ZUWUZALZPUJLCD-YUZLPWPTSA-N",
+    "SMILES": "CC(Cc1ccc2c(c1)OCO2)NC(=O)[C@@H](N)CCCCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14802",
+    "validation": "m_weight unsave, calculated(307.39400000000006)"
+}

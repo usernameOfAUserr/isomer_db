@@ -1,0 +1,13 @@
+{
+    "names": "2-{[Bis(4-fluorophenyl)methanesulfinyl]methyl}thiophene",
+    "iupac_name": "3671 ; C18H14F2OS2 ; 348.43",
+    "category": "data not stored",
+    "index": 3671,
+    "formular": "C18H14F2OS2",
+    "molecular_weight": 348.43,
+    "inChl": "1S/C18H14F2OS2/c19-15-7-3-13(4-8-15)18(14-5-9-16(20)10-6-14)23(21)12-17-2-1-11-22-17/h1-11,18H,12H2",
+    "InChl_Key": "MFDDISDHWURVPW-UHFFFAOYSA-N",
+    "SMILES": "O=S(Cc1cccs1)C(c1ccc(F)cc1)c1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3671",
+    "validation": "m_weight unsave, calculated(348.4390000000001)"
+}

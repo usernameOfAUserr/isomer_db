@@ -1,0 +1,13 @@
+{
+    "names": "4-(m-Hydroxyphenyl)fentanyl",
+    "iupac_name": "N-[4-(3-Hydroxyphenyl)-1-(2-phenylethyl)piperidin-4-yl]-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 1703,
+    "formular": "C28H32N2O2",
+    "molecular_weight": 428.566,
+    "inChl": "1S/C28H32N2O2/c1-2-27(32)30(25-13-7-4-8-14-25)28(24-12-9-15-26(31)22-24)17-20-29(21-18-28)19-16-23-10-5-3-6-11-23/h3-15,22,31H,2,16-21H2,1H3",
+    "InChl_Key": "CRJUJMJRISHORQ-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1(c2cccc(O)c2)CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1703",
+    "validation": "m_weight unsave, calculated(428.5760000000001)"
+}

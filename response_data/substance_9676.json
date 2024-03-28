@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(5-Chloro-2-ethoxyphenyl)cyclopropyl]methanamine",
+    "iupac_name": "9676 ; C12H16ClNO ; 225.715",
+    "category": "data not stored",
+    "index": 9676,
+    "formular": "C12H16ClNO",
+    "molecular_weight": 225.715,
+    "inChl": "1S/C12H16ClNO/c1-2-15-12-4-3-9(13)6-11(12)10-5-8(10)7-14/h3-4,6,8,10H,2,5,7,14H2,1H3",
+    "InChl_Key": "IOWLJFAJMUJVDQ-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(Cl)cc1C1CC1CN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9676",
+    "validation": "m_weight unsave, calculated(225.71899999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "bk-DOC ; \u03b2-Keto-4-chloro-2,5-dimethoxyamphetamine",
+    "iupac_name": "2-Amino-1-(4-chloro-2,5-dimethoxyphenyl)propan-1-one",
+    "category": "data not stored",
+    "index": 8557,
+    "formular": "C11H14ClNO3",
+    "molecular_weight": 243.687,
+    "inChl": "1S/C11H14ClNO3/c1-6(13)11(14)7-4-10(16-3)8(12)5-9(7)15-2/h4-6H,13H2,1-3H3",
+    "InChl_Key": "ASEYNZGVLNAZKO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(=O)C(C)N)c(OC)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8557",
+    "validation": "m_weight unsave, calculated(243.68999999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-[1,1,1-Trifluoro-3-(4-nitrophenyl)propan-2-yl]pyrrolidine",
+    "iupac_name": "14730 ; C13H15F3N2O2 ; 288.266",
+    "category": "data not stored",
+    "index": 14730,
+    "formular": "C13H15F3N2O2",
+    "molecular_weight": 288.266,
+    "inChl": "1S/C13H15F3N2O2/c14-13(15,16)12(17-7-1-2-8-17)9-10-3-5-11(6-4-10)18(19)20/h3-6,12H,1-2,7-9H2",
+    "InChl_Key": "AMLHOFZYPOVMQG-UHFFFAOYSA-N",
+    "SMILES": "O=[N+]([O-])c1ccc(CC(N2CCCC2)C(F)(F)F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14730",
+    "validation": "m_weight unsave, calculated(288.269)"
+}

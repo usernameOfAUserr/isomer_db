@@ -1,0 +1,13 @@
+{
+    "names": "PD-137889",
+    "iupac_name": "(4aR)-N-Methyl-1,2,3,4,9,9a-hexahydro-4aH-fluoren-4a-amine",
+    "category": "data not stored",
+    "index": 13271,
+    "formular": "C14H19N",
+    "molecular_weight": 201.307,
+    "inChl": "1S/C14H19N/c1-15-14-9-5-4-7-12(14)10-11-6-2-3-8-13(11)14/h2-3,6,8,12,15H,4-5,7,9-10H2,1H3/t12?,14-/m1/s1",
+    "InChl_Key": "KQLIVVYSTDBTMZ-TYZXPVIJSA-N",
+    "SMILES": "CN[C@]12CCCCC1Cc1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13271",
+    "validation": "m_weight unsave, calculated(201.31300000000002)"
+}

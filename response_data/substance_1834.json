@@ -1,0 +1,13 @@
+{
+    "names": "4-Br-3-MBAL ; 4-Bromo-3-anisaldehyde",
+    "iupac_name": "4-Bromo-3-methoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 1834,
+    "formular": "C8H7BrO2",
+    "molecular_weight": 215.044,
+    "inChl": "1S/C8H7BrO2/c1-11-8-4-6(5-10)2-3-7(8)9/h2-5H,1H3",
+    "InChl_Key": "HKLCOMKRVBQSHA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C=O)ccc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1834",
+    "validation": "m_weight unsave, calculated(215.04599999999996)"
+}

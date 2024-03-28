@@ -1,0 +1,13 @@
+{
+    "names": "3-OMeBP-TFA",
+    "iupac_name": "2,2,2-Trifluoro-1-{4-[(3-methoxyphenyl)methyl]piperazin-1-yl}ethan-1-one",
+    "category": "data not stored",
+    "index": 8812,
+    "formular": "C14H17F3N2O2",
+    "molecular_weight": 302.292,
+    "inChl": "1S/C14H17F3N2O2/c1-21-12-4-2-3-11(9-12)10-18-5-7-19(8-6-18)13(20)14(15,16)17/h2-4,9H,5-8,10H2,1H3",
+    "InChl_Key": "NHQKXNYABDYYRW-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(CN2CCN(C(=O)C(F)(F)F)CC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8812",
+    "validation": "m_weight unsave, calculated(302.2959999999999)"
+}

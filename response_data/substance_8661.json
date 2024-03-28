@@ -1,0 +1,13 @@
+{
+    "names": "BM-4-FA ; \u03b2-Methyl-4-fluoroamphetamine",
+    "iupac_name": "3-(4-Fluorophenyl)butan-2-amine",
+    "category": "data not stored",
+    "index": 8661,
+    "formular": "C10H14FN",
+    "molecular_weight": 167.223,
+    "inChl": "1S/C10H14FN/c1-7(8(2)12)9-3-5-10(11)6-4-9/h3-8H,12H2,1-2H3",
+    "InChl_Key": "CIPINOPHNGWDEZ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)C(C)c1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8661",
+    "validation": "m_weight unsave, calculated(167.22699999999998)"
+}

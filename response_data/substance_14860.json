@@ -1,0 +1,13 @@
+{
+    "names": "Z3517967757",
+    "iupac_name": "4-{1-[1-(Pyrimidin-2-yl)ethyl]piperidin-3-yl}phenol",
+    "category": "data not stored",
+    "index": 14860,
+    "formular": "C17H21N3O",
+    "molecular_weight": 283.368,
+    "inChl": "1S/C17H21N3O/c1-13(17-18-9-3-10-19-17)20-11-2-4-15(12-20)14-5-7-16(21)8-6-14/h3,5-10,13,15,21H,2,4,11-12H2,1H3",
+    "InChl_Key": "JDCMEPNJYDYSCB-UHFFFAOYSA-N",
+    "SMILES": "CC(c1ncccn1)N1CCCC(c2ccc(O)cc2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14860",
+    "validation": "m_weight unsave, calculated(283.375)"
+}

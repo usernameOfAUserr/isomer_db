@@ -1,0 +1,13 @@
+{
+    "names": "1-(5-Methylthiophen-2-yl)-2-(morpholin-4-yl)pentan-1-one",
+    "iupac_name": "1295 ; C14H21NO2S ; 267.387",
+    "category": "data not stored",
+    "index": 1295,
+    "formular": "C14H21NO2S",
+    "molecular_weight": 267.387,
+    "inChl": "1S/C14H21NO2S/c1-3-4-12(15-7-9-17-10-8-15)14(16)13-6-5-11(2)18-13/h5-6,12H,3-4,7-10H2,1-2H3",
+    "InChl_Key": "KHTZWWATEBEIRP-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccc(C)s1)N1CCOCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1295",
+    "validation": "m_weight unsave, calculated(267.39399999999995)"
+}

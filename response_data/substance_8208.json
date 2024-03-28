@@ -1,0 +1,13 @@
+{
+    "names": "MP-ii-065",
+    "iupac_name": "8-Ethynyl-6-(pyridin-2-yl)-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxamide",
+    "category": "Aryldiazepine",
+    "index": 8208,
+    "formular": "C19H13N5O",
+    "molecular_weight": 327.339,
+    "inChl": "1S/C19H13N5O/c1-2-12-6-7-15-13(9-12)17(14-5-3-4-8-21-14)22-10-16-18(19(20)25)23-11-24(15)16/h1,3-9,11H,10H2,(H2,20,25)",
+    "InChl_Key": "BGYVDFYYQYICIR-UHFFFAOYSA-N",
+    "SMILES": "C#Cc1ccc2c(c1)C(c1ccccn1)=NCc1c(C(N)=O)ncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8208",
+    "validation": "m_weight unsave, calculated(327.34700000000004)"
+}

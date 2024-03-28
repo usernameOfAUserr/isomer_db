@@ -1,0 +1,13 @@
+{
+    "names": "DOEH ; 4-(2-Hydroxyethyl)-2,5-dimethoxyamphetamine",
+    "iupac_name": "2-[4-(2-Aminopropyl)-2,5-dimethoxyphenyl]ethan-1-ol ; 2-[4-(2-Aminopropyl)-2,5-dimethoxyphenyl]ethanol",
+    "category": "Shulgin_Index",
+    "index": 7275,
+    "formular": "C13H21NO3",
+    "molecular_weight": 239.311,
+    "inChl": "1S/C13H21NO3/c1-9(14)6-11-8-12(16-2)10(4-5-15)7-13(11)17-3/h7-9,15H,4-6,14H2,1-3H3",
+    "InChl_Key": "XXLDJSGSZKURAM-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c(OC)cc1CCO",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7275",
+    "validation": "m_weight unsave, calculated(239.31499999999997)"
+}

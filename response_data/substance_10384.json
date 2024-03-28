@@ -1,0 +1,13 @@
+{
+    "names": "Lissoclinotoxin A",
+    "iupac_name": "9-(2-Aminoethyl)-6-methoxy-1,2,3,4,5-benzopentathiepin-7-ol",
+    "category": "Phenetylamine",
+    "index": 10384,
+    "formular": "C9H11NO2S5",
+    "molecular_weight": 325.514,
+    "inChl": "1S/C9H11NO2S5/c1-12-7-6(11)4-5(2-3-10)8-9(7)14-16-17-15-13-8/h4,11H,2-3,10H2,1H3",
+    "InChl_Key": "WQAHCFFHBFQTRE-UHFFFAOYSA-N",
+    "SMILES": "COc1c(O)cc(CCN)c2c1SSSSS2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10384",
+    "validation": "m_weight unsave, calculated(325.52700000000004)"
+}

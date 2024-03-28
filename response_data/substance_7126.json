@@ -1,0 +1,13 @@
+{
+    "names": "PAL-874",
+    "iupac_name": "4-Phenylbut-3-yn-2-amine",
+    "category": "data not stored",
+    "index": 7126,
+    "formular": "C10H11N",
+    "molecular_weight": 145.201,
+    "inChl": "1S/C10H11N/c1-9(11)7-8-10-5-3-2-4-6-10/h2-6,9H,11H2,1H3",
+    "InChl_Key": "CBRPSVDSBGTOKK-UHFFFAOYSA-N",
+    "SMILES": "CC(N)C#Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7126",
+    "validation": "m_weight unsave, calculated(145.20499999999996)"
+}

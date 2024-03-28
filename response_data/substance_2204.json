@@ -1,0 +1,13 @@
+{
+    "names": "Candicine ; 4-Hydroxy-N,N,N-trimethylphenethylamine+",
+    "iupac_name": "2-(4-Hydroxyphenyl)-N,N,N-trimethylethan-1-aminium ; 2-(4-Hydroxyphenyl)-N,N,N-trimethylethanaminium",
+    "category": "Peyote alkaloid",
+    "index": 2204,
+    "formular": "C11H17NO",
+    "molecular_weight": 179.259,
+    "inChl": "1S/C11H17NO/c1-12(2,3)9-8-10-4-6-11(13)7-5-10/h4-7H,8-9H2,1-3H3/p+1",
+    "InChl_Key": "PTOJXIKSKSASRB-UHFFFAOYSA-O",
+    "SMILES": "C[N+](C)(C)CCc1ccc(O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2204",
+    "validation": "m_weight unsave, calculated(180.271)formular unsave, calculated(C11H18NO+)"
+}

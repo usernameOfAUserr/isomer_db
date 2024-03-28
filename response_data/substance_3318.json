@@ -1,0 +1,13 @@
+{
+    "names": "5,6-MeO-T ; 5,6-Dimethoxytyptamine",
+    "iupac_name": "2-(5,6-Dimethoxy-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 3318,
+    "formular": "C12H16N2O2",
+    "molecular_weight": 220.268,
+    "inChl": "1S/C12H16N2O2/c1-15-11-5-9-8(3-4-13)7-14-10(9)6-12(11)16-2/h5-7,14H,3-4,13H2,1-2H3",
+    "InChl_Key": "RUBWDHXESZEALO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2[nH]cc(CCN)c2cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3318",
+    "validation": "m_weight unsave, calculated(220.27199999999996)"
+}

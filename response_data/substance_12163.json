@@ -1,0 +1,13 @@
+{
+    "names": "2-(Cyclopent-1-en-1-yl)ethan-1-amine",
+    "iupac_name": "12163 ; C7H13N ; 111.185",
+    "category": "Phenetylamine",
+    "index": 12163,
+    "formular": "C7H13N",
+    "molecular_weight": 111.185,
+    "inChl": "1S/C7H13N/c8-6-5-7-3-1-2-4-7/h3H,1-2,4-6,8H2",
+    "InChl_Key": "QPPWXASYHVFAQA-UHFFFAOYSA-N",
+    "SMILES": "NCCC1=CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12163",
+    "validation": "m_weight unsave, calculated(111.18799999999999)"
+}

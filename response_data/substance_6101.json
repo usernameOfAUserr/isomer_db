@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 4-(hydroxymethyl)-5-phenylimidazo[1,5-a]quinoline-3-carboxylate",
+    "iupac_name": "6101 ; C21H18N2O3 ; 346.379",
+    "category": "data not stored",
+    "index": 6101,
+    "formular": "C21H18N2O3",
+    "molecular_weight": 346.379,
+    "inChl": "1S/C21H18N2O3/c1-2-26-21(25)19-20-16(12-24)18(14-8-4-3-5-9-14)15-10-6-7-11-17(15)23(20)13-22-19/h3-11,13,24H,2,12H2,1H3",
+    "InChl_Key": "OIXKEOPKVMIFIA-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ncn2c1c(CO)c(-c1ccccc1)c1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6101",
+    "validation": "m_weight unsave, calculated(346.3860000000001)"
+}

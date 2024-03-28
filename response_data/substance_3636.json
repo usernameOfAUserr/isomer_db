@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl (2S,3S)-8-methyl-3-(naphthalen-1-yl)-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "iupac_name": "3636 ; C21H25NO2 ; 323.429",
+    "category": "data not stored",
+    "index": 3636,
+    "formular": "C21H25NO2",
+    "molecular_weight": 323.429,
+    "inChl": "1S/C21H25NO2/c1-3-24-21(23)20-18(13-15-11-12-19(20)22(15)2)17-10-6-8-14-7-4-5-9-16(14)17/h4-10,15,18-20H,3,11-13H2,1-2H3/t15?,18-,19?,20+/m1/s1",
+    "InChl_Key": "UEZDLHVSGSUDFK-TXQCFWEHSA-N",
+    "SMILES": "CCOC(=O)[C@@H]1C2CCC(C[C@@H]1c1cccc3ccccc13)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3636",
+    "validation": "m_weight unsave, calculated(323.43600000000004)"
+}

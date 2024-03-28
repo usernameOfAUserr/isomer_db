@@ -1,0 +1,13 @@
+{
+    "names": "LA-OZSP33",
+    "iupac_name": "(6-Methyl-9,10-didehydroergolin-8\u03b2-yl)(2-oxa-6-azaspiro[3.3]heptan-6-yl)methanone ; [(6aR,9R)-7-Methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-yl](2-oxa-6-azaspiro[3.3]heptan-6-yl)methanone ; [(8\u03b2)-6-Methyl-9,10-didehydroergolin-8-yl](2-oxa-6-azaspiro[3.3]heptan-6-yl)methanone",
+    "category": "data not stored",
+    "index": 8343,
+    "formular": "C21H23N3O2",
+    "molecular_weight": 349.426,
+    "inChl": "1S/C21H23N3O2/c1-23-8-14(20(25)24-9-21(10-24)11-26-12-21)5-16-15-3-2-4-17-19(15)13(7-22-17)6-18(16)23/h2-5,7,14,18,22H,6,8-12H2,1H3/t14-,18-/m1/s1",
+    "InChl_Key": "ANQQEJQFJZPGEM-RDTXWAMCSA-N",
+    "SMILES": "CN1C[C@H](C(=O)N2CC3(COC3)C2)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8343",
+    "validation": "m_weight unsave, calculated(349.4340000000002)"
+}

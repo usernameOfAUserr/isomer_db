@@ -1,0 +1,13 @@
+{
+    "names": "Mitralactonal",
+    "iupac_name": "9-Methoxy-17-oxo-3,14,15,16-tetradehydro-14,17-epoxy-20\u03b2-corynan-16-carbaldehyde ; (4S)-4-Ethyl-9-methoxy-2-oxo-2,4,5,7,8,13-hexahydrofuro[2,3-a]indolo[3,2-h]quinolizine-3-carbaldehyde ; (20\u03b2)-9-Methoxy-17-oxo-3,14,15,16-tetradehydro-14,17-epoxycorynan-16-carbaldehyde",
+    "category": "data not stored",
+    "index": 9586,
+    "formular": "C21H20N2O4",
+    "molecular_weight": 364.395,
+    "inChl": "1S/C21H20N2O4/c1-3-11-9-23-8-7-12-17-14(5-4-6-15(17)26-2)22-18(12)19(23)20-16(11)13(10-24)21(25)27-20/h4-6,10-11,22H,3,7-9H2,1-2H3/t11-/m1/s1",
+    "InChl_Key": "WTWCPWQXRBJBIQ-LLVKDONJSA-N",
+    "SMILES": "CC[C@@H]1CN2CCc3c([nH]c4cccc(OC)c34)C2=C2OC(=O)C(C=O)=C21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9586",
+    "validation": "m_weight unsave, calculated(364.40100000000007)"
+}

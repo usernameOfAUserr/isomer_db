@@ -1,0 +1,13 @@
+{
+    "names": "1-(Cyclohexa-1,4-dien-1-yl)propan-2-amine",
+    "iupac_name": "12173 ; C9H15N ; 137.222",
+    "category": "Phenetylamine",
+    "index": 12173,
+    "formular": "C9H15N",
+    "molecular_weight": 137.222,
+    "inChl": "1S/C9H15N/c1-8(10)7-9-5-3-2-4-6-9/h2-3,6,8H,4-5,7,10H2,1H3",
+    "InChl_Key": "TUDUZQCOQZZHBA-UHFFFAOYSA-N",
+    "SMILES": "CC(N)CC1=CCC=CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12173",
+    "validation": "m_weight unsave, calculated(137.22599999999997)"
+}

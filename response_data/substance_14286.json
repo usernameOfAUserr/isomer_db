@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Methoxy-N,N-dimethylphenethylamine",
+    "iupac_name": "2-Methoxy-N,N-dimethyl-2-phenylethan-1-amine",
+    "category": "data not stored",
+    "index": 14286,
+    "formular": "C11H17NO",
+    "molecular_weight": 179.259,
+    "inChl": "1S/C11H17NO/c1-12(2)9-11(13-3)10-7-5-4-6-8-10/h4-8,11H,9H2,1-3H3",
+    "InChl_Key": "OEZZFHANQAGLDU-UHFFFAOYSA-N",
+    "SMILES": "COC(CN(C)C)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14286",
+    "validation": "m_weight unsave, calculated(179.26299999999995)"
+}

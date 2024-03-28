@@ -1,0 +1,13 @@
+{
+    "names": "1-(5-Bromo-2-methoxythiophen-3-yl)propan-2-amine",
+    "iupac_name": "10123 ; C8H12BrNOS ; 250.156",
+    "category": "Phenetylamine",
+    "index": 10123,
+    "formular": "C8H12BrNOS",
+    "molecular_weight": 250.156,
+    "inChl": "1S/C8H12BrNOS/c1-5(10)3-6-4-7(9)12-8(6)11-2/h4-5H,3,10H2,1-2H3",
+    "InChl_Key": "PANIHFLMPZJSHB-UHFFFAOYSA-N",
+    "SMILES": "COc1sc(Br)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10123",
+    "validation": "m_weight unsave, calculated(250.16099999999997)"
+}

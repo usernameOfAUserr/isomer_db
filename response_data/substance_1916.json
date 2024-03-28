@@ -1,0 +1,13 @@
+{
+    "names": "HMPEA NS ; 3-Hydroxy-4-methoxy-\u03b2-nitrostyrene",
+    "iupac_name": "2-Methoxy-5-[(E)-2-nitroethenyl]phenol",
+    "category": "data not stored",
+    "index": 1916,
+    "formular": "C9H9NO4",
+    "molecular_weight": 195.172,
+    "inChl": "1S/C9H9NO4/c1-14-9-3-2-7(6-8(9)11)4-5-10(12)13/h2-6,11H,1H3/b5-4+",
+    "InChl_Key": "QGCVJPGJBCRIEV-SNAWJCMRSA-N",
+    "SMILES": "COc1ccc(/C=C/[N+](=O)[O-])cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1916",
+    "validation": "m_weight unsave, calculated(195.17399999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Epinoribogaine ; 4-epi-Ibogamin-12-ol ; endo-Noribogaine",
+    "iupac_name": "4\u03b1-Ibogamin-12-ol ; (6R,6aS,7R,9R)-7-Ethyl-6,6a,7,8,9,10,12,13-octahydro-5H-6,9-methanopyrido[1\u2032,2\u2032:1,2]azepino[4,5-b]indol-2-ol",
+    "category": "data not stored",
+    "index": 8436,
+    "formular": "C19H24N2O",
+    "molecular_weight": 296.407,
+    "inChl": "1S/C19H24N2O/c1-2-12-7-11-8-16-18-14(5-6-21(10-11)19(12)16)15-9-13(22)3-4-17(15)20-18/h3-4,9,11-12,16,19-20,22H,2,5-8,10H2,1H3/t11-,12-,16+,19+/m1/s1",
+    "InChl_Key": "RAUCDOKTMDOIPF-OTAMDTBUSA-N",
+    "SMILES": "CC[C@@H]1C[C@@H]2C[C@H]3c4[nH]c5ccc(O)cc5c4CCN(C2)[C@@H]13",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8436",
+    "validation": "m_weight unsave, calculated(296.41399999999993)"
+}

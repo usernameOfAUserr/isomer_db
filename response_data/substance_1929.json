@@ -1,0 +1,13 @@
+{
+    "names": "4-PrO-3,5-DMBAL ; 4-Propoxy-3,5-dimethoxybenzaldehyde",
+    "iupac_name": "3,5-Dimethoxy-4-propoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 1929,
+    "formular": "C12H16O4",
+    "molecular_weight": 224.253,
+    "inChl": "1S/C12H16O4/c1-4-5-16-12-10(14-2)6-9(8-13)7-11(12)15-3/h6-8H,4-5H2,1-3H3",
+    "InChl_Key": "VIZFOCNGDABISZ-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1c(OC)cc(C=O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1929",
+    "validation": "m_weight unsave, calculated(224.25599999999997)"
+}

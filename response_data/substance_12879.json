@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-3-EBAL ; 4-Hydroxy-3-ethoxybenzaldehyde",
+    "iupac_name": "3-Ethoxy-4-hydroxybenzaldehyde",
+    "category": "data not stored",
+    "index": 12879,
+    "formular": "C9H10O3",
+    "molecular_weight": 166.174,
+    "inChl": "1S/C9H10O3/c1-2-12-9-5-7(6-10)3-4-8(9)11/h3-6,11H,2H2,1H3",
+    "InChl_Key": "CBOQJANXLMLOSS-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(C=O)ccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12879",
+    "validation": "m_weight unsave, calculated(166.176)"
+}

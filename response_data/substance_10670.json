@@ -1,0 +1,13 @@
+{
+    "names": "N-BrEt-A ; N-(2-Bromoethyl)amphetamine",
+    "iupac_name": "N-(2-Bromoethyl)-1-phenylpropan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10670,
+    "formular": "C11H16BrN",
+    "molecular_weight": 242.155,
+    "inChl": "1S/C11H16BrN/c1-10(13-8-7-12)9-11-5-3-2-4-6-11/h2-6,10,13H,7-9H2,1H3",
+    "InChl_Key": "FDSBFUATMOYWDQ-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NCCBr",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10670",
+    "validation": "m_weight unsave, calculated(242.16000000000003)"
+}

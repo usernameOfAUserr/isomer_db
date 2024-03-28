@@ -1,0 +1,13 @@
+{
+    "names": "11-[(3-Methoxypropyl)amino]-6-methyl-3-phenoxy-6,11-dihydro-5H-5\u03bb6-dibenzo[c,f][1,2]thiazepine-5,5-dione",
+    "iupac_name": "8463 ; C24H26N2O4S ; 438.539",
+    "category": "data not stored",
+    "index": 8463,
+    "formular": "C24H26N2O4S",
+    "molecular_weight": 438.539,
+    "inChl": "1S/C24H26N2O4S/c1-26-22-12-7-6-11-20(22)24(25-15-8-16-29-2)21-14-13-19(17-23(21)31(26,27)28)30-18-9-4-3-5-10-18/h3-7,9-14,17,24-25H,8,15-16H2,1-2H3",
+    "InChl_Key": "ULTNRCFYRKJXNY-UHFFFAOYSA-N",
+    "SMILES": "COCCCNC1c2ccccc2N(C)S(=O)(=O)c2cc(Oc3ccccc3)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8463",
+    "validation": "m_weight unsave, calculated(438.5490000000002)"
+}

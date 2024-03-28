@@ -1,0 +1,13 @@
+{
+    "names": "3-HO-PCP ; 3-Hydroxy-PCP ; 3-Hydroxyphencyclidine",
+    "iupac_name": "3-[1-(Piperidin-1-yl)cyclohexyl]phenol",
+    "category": "Arylcycloalkylamine",
+    "index": 969,
+    "formular": "C17H25NO",
+    "molecular_weight": 259.387,
+    "inChl": "1S/C17H25NO/c19-16-9-7-8-15(14-16)17(10-3-1-4-11-17)18-12-5-2-6-13-18/h7-9,14,19H,1-6,10-13H2",
+    "InChl_Key": "AMSXTZUCNOKUEN-UHFFFAOYSA-N",
+    "SMILES": "Oc1cccc(C2(N3CCCCC3)CCCCC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=969",
+    "validation": "m_weight unsave, calculated(259.3929999999999)"
+}

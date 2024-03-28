@@ -1,0 +1,13 @@
+{
+    "names": "4F-PB-22",
+    "iupac_name": "Quinolin-8-yl 1-(4-fluorobutyl)-1H-indole-3-carboxylate",
+    "category": "cannabinodids",
+    "index": 4235,
+    "formular": "C22H19FN2O2",
+    "molecular_weight": 362.397,
+    "inChl": "1S/C22H19FN2O2/c23-12-3-4-14-25-15-18(17-9-1-2-10-19(17)25)22(26)27-20-11-5-7-16-8-6-13-24-21(16)20/h1-2,5-11,13,15H,3-4,12,14H2",
+    "InChl_Key": "KVOGIJSTICHHQX-UHFFFAOYSA-N",
+    "SMILES": "O=C(Oc1cccc2cccnc12)c1cn(CCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4235",
+    "validation": "m_weight unsave, calculated(362.40400000000005)"
+}

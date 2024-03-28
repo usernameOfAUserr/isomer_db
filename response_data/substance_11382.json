@@ -1,0 +1,13 @@
+{
+    "names": "3-Aminoquinoline",
+    "iupac_name": "Quinolin-3-amine",
+    "category": "data not stored",
+    "index": 11382,
+    "formular": "C9H8N2",
+    "molecular_weight": 144.173,
+    "inChl": "1S/C9H8N2/c10-8-5-7-3-1-2-4-9(7)11-6-8/h1-6H,10H2",
+    "InChl_Key": "SVNCRRZKBNSMIV-UHFFFAOYSA-N",
+    "SMILES": "Nc1cnc2ccccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11382",
+    "validation": "m_weight unsave, calculated(144.177)"
+}

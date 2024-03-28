@@ -1,0 +1,13 @@
+{
+    "names": "AEP-PINACA",
+    "iupac_name": "N-[(2S)-1-Amino-1-oxopentan-2-yl]-1-pentyl-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 13314,
+    "formular": "C18H26N4O2",
+    "molecular_weight": 330.425,
+    "inChl": "1S/C18H26N4O2/c1-3-5-8-12-22-15-11-7-6-10-13(15)16(21-22)18(24)20-14(9-4-2)17(19)23/h6-7,10-11,14H,3-5,8-9,12H2,1-2H3,(H2,19,23)(H,20,24)/t14-/m0/s1",
+    "InChl_Key": "HBJXHYRIXNGPAY-AWEZNQCLSA-N",
+    "SMILES": "CCCCCn1nc(C(=O)N[C@@H](CCC)C(N)=O)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13314",
+    "validation": "m_weight unsave, calculated(330.4320000000002)"
+}

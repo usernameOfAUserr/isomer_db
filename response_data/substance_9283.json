@@ -1,0 +1,13 @@
+{
+    "names": "R-1141",
+    "iupac_name": "Ethyl 1-[3-(4-ethynylphenyl)-3-oxopropyl]-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 9283,
+    "formular": "C25H27NO3",
+    "molecular_weight": 389.487,
+    "inChl": "1S/C25H27NO3/c1-3-20-10-12-21(13-11-20)23(27)14-17-26-18-15-25(16-19-26,24(28)29-4-2)22-8-6-5-7-9-22/h1,5-13H,4,14-19H2,2H3",
+    "InChl_Key": "ZNLVNAAPGVTTFI-UHFFFAOYSA-N",
+    "SMILES": "C#Cc1ccc(C(=O)CCN2CCC(C(=O)OCC)(c3ccccc3)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9283",
+    "validation": "m_weight unsave, calculated(389.49500000000006)"
+}

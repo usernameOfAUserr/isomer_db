@@ -1,0 +1,13 @@
+{
+    "names": "3-(1-Methyl-1,2,3,6-tetrahydropyridin-4-yl)-5-nitro-1H-indole",
+    "iupac_name": "9356 ; C14H15N3O2 ; 257.288",
+    "category": "data not stored",
+    "index": 9356,
+    "formular": "C14H15N3O2",
+    "molecular_weight": 257.288,
+    "inChl": "1S/C14H15N3O2/c1-16-6-4-10(5-7-16)13-9-15-14-3-2-11(17(18)19)8-12(13)14/h2-4,8-9,15H,5-7H2,1H3",
+    "InChl_Key": "MWJUXAHARLFJAN-UHFFFAOYSA-N",
+    "SMILES": "CN1CC=C(c2c[nH]c3ccc([N+](=O)[O-])cc23)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9356",
+    "validation": "m_weight unsave, calculated(257.293)"
+}

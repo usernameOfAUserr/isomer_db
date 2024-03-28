@@ -1,0 +1,13 @@
+{
+    "names": "Cinnarizine",
+    "iupac_name": "1-(Diphenylmethyl)-4-[(2E)-3-phenylprop-2-en-1-yl]piperazine",
+    "category": "data not stored",
+    "index": 9612,
+    "formular": "C26H28N2",
+    "molecular_weight": 368.514,
+    "inChl": "1S/C26H28N2/c1-4-11-23(12-5-1)13-10-18-27-19-21-28(22-20-27)26(24-14-6-2-7-15-24)25-16-8-3-9-17-25/h1-17,26H,18-22H2/b13-10+",
+    "InChl_Key": "DERZBLKQOCDDDZ-JLHYYAGUSA-N",
+    "SMILES": "C(=C/c1ccccc1)\\CN1CCN(C(c2ccccc2)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9612",
+    "validation": "m_weight unsave, calculated(368.524)"
+}

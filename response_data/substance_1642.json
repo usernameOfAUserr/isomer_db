@@ -1,0 +1,13 @@
+{
+    "names": "p-Fluoro-tetrahydrofuranylfentanyl ; 4\u2032-Fluoro-tetrahydrofuranylfentanyl",
+    "iupac_name": "N-(4-Fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]oxolane-2-carboxamide",
+    "category": "Fentanyl",
+    "index": 1642,
+    "formular": "C24H29FN2O2",
+    "molecular_weight": 396.498,
+    "inChl": "1S/C24H29FN2O2/c25-20-8-10-21(11-9-20)27(24(28)23-7-4-18-29-23)22-13-16-26(17-14-22)15-12-19-5-2-1-3-6-19/h1-3,5-6,8-11,22-23H,4,7,12-18H2",
+    "InChl_Key": "DNWBTPZLCFRPRR-UHFFFAOYSA-N",
+    "SMILES": "O=C(C1CCCO1)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1642",
+    "validation": "m_weight unsave, calculated(396.50600000000014)"
+}

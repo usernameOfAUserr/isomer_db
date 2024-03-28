@@ -1,0 +1,13 @@
+{
+    "names": "3C-FP ; 4-(3-Fluoropropoxy)-3,5-dimethoxyamphetamine",
+    "iupac_name": "1-[4-(3-Fluoropropoxy)-3,5-dimethoxyphenyl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 2193,
+    "formular": "C14H22FNO3",
+    "molecular_weight": 271.328,
+    "inChl": "1S/C14H22FNO3/c1-10(16)7-11-8-12(17-2)14(13(9-11)18-3)19-6-4-5-15/h8-10H,4-7,16H2,1-3H3",
+    "InChl_Key": "AKWFBZJFCPKTRW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)cc(OC)c1OCCCF",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2193",
+    "validation": "m_weight unsave, calculated(271.332)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-Pentan-3-ylmethyl-5-MeO-NMT ; N-Pentan-3-ylmethyl-5-methoxy-N-methyltryptamine",
+    "iupac_name": "2-Ethyl-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-methylbutan-1-amine",
+    "category": "Tryptamine",
+    "index": 5694,
+    "formular": "C18H28N2O",
+    "molecular_weight": 288.428,
+    "inChl": "1S/C18H28N2O/c1-5-14(6-2)13-20(3)10-9-15-12-19-18-8-7-16(21-4)11-17(15)18/h7-8,11-12,14,19H,5-6,9-10,13H2,1-4H3",
+    "InChl_Key": "DRQUADANVCVSNM-UHFFFAOYSA-N",
+    "SMILES": "CCC(CC)CN(C)CCc1c[nH]c2ccc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5694",
+    "validation": "m_weight unsave, calculated(288.43500000000006)"
+}

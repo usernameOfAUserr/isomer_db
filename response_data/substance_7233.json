@@ -1,0 +1,13 @@
+{
+    "names": "2C-OXO2M ; 2,5-Dimethoxy-4-(oxolan-2-ylmethyl)phenethylamine",
+    "iupac_name": "2-{2,5-Dimethoxy-4-[(oxolan-2-yl)methyl]phenyl}ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 7233,
+    "formular": "C15H23NO3",
+    "molecular_weight": 265.348,
+    "inChl": "1S/C15H23NO3/c1-17-14-10-12(8-13-4-3-7-19-13)15(18-2)9-11(14)5-6-16/h9-10,13H,3-8,16H2,1-2H3",
+    "InChl_Key": "NPWMSKNVZYNRFJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC2CCCO2)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7233",
+    "validation": "m_weight unsave, calculated(265.35299999999995)"
+}

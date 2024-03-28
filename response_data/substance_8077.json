@@ -1,0 +1,13 @@
+{
+    "names": "{7-Methoxy-1-[(oxan-4-yl)methyl]-1H-indol-3-yl}(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "iupac_name": "8077 ; C23H31NO3 ; 369.497",
+    "category": "cannabinodids",
+    "index": 8077,
+    "formular": "C23H31NO3",
+    "molecular_weight": 369.497,
+    "inChl": "1S/C23H31NO3/c1-22(2)21(23(22,3)4)20(25)17-14-24(13-15-9-11-27-12-10-15)19-16(17)7-6-8-18(19)26-5/h6-8,14-15,21H,9-13H2,1-5H3",
+    "InChl_Key": "JKHZPISEYADUGI-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c(C(=O)C3C(C)(C)C3(C)C)cn(CC3CCOCC3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8077",
+    "validation": "m_weight unsave, calculated(369.5050000000001)"
+}

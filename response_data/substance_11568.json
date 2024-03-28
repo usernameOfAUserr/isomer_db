@@ -1,0 +1,13 @@
+{
+    "names": "SGT-144",
+    "iupac_name": "N-[(6,6-Dimethylbicyclo[3.1.1]heptan-2-yl)methyl]-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11568,
+    "formular": "C23H32FN3O",
+    "molecular_weight": 385.518,
+    "inChl": "1S/C23H32FN3O/c1-23(2)17-11-10-16(19(23)14-17)15-25-22(28)21-18-8-4-5-9-20(18)27(26-21)13-7-3-6-12-24/h4-5,8-9,16-17,19H,3,6-7,10-15H2,1-2H3,(H,25,28)",
+    "InChl_Key": "ZWPISFLYGNWEQT-UHFFFAOYSA-N",
+    "SMILES": "CC1(C)C2CCC(CNC(=O)c3nn(CCCCCF)c4ccccc34)C1C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11568",
+    "validation": "m_weight unsave, calculated(385.52700000000027)"
+}

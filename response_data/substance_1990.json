@@ -1,0 +1,13 @@
+{
+    "names": "CP-93129",
+    "iupac_name": "3-(1,2,3,6-Tetrahydropyridin-4-yl)-1,4-dihydro-5H-pyrrolo[3,2-b]pyridin-5-one",
+    "category": "data not stored",
+    "index": 1990,
+    "formular": "C12H13N3O",
+    "molecular_weight": 215.251,
+    "inChl": "1S/C12H13N3O/c16-11-2-1-10-12(15-11)9(7-14-10)8-3-5-13-6-4-8/h1-3,7,13-14H,4-6H2,(H,15,16)",
+    "InChl_Key": "PJYVGMRFPFNZCT-UHFFFAOYSA-N",
+    "SMILES": "O=c1ccc2[nH]cc(C3=CCNCC3)c2[nH]1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1990",
+    "validation": "m_weight unsave, calculated(215.25599999999997)"
+}

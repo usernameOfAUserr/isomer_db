@@ -1,0 +1,13 @@
+{
+    "names": "2-MeO-N,N,4-Me-PEA ; 2-Methoxy-N,N,4-trimethylphenethylamine",
+    "iupac_name": "2-(2-Methoxy-4-methylphenyl)-N,N-dimethylethan-1-amine",
+    "category": "data not stored",
+    "index": 8964,
+    "formular": "C12H19NO",
+    "molecular_weight": 193.285,
+    "inChl": "1S/C12H19NO/c1-10-5-6-11(7-8-13(2)3)12(9-10)14-4/h5-6,9H,7-8H2,1-4H3",
+    "InChl_Key": "AEOCJIWNSPGZEL-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C)ccc1CCN(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8964",
+    "validation": "m_weight unsave, calculated(193.28999999999996)"
+}

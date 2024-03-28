@@ -1,0 +1,13 @@
+{
+    "names": "AT-121",
+    "iupac_name": "N-(2-{3-Oxo-1\u2032-[(1s,4s)-4-(propan-2-yl)cyclohexyl]-1H-spiro[isoquinoline-4,4\u2032-piperidin]-2(3H)-yl}ethyl)sulfuric diamide",
+    "category": "data not stored",
+    "index": 6349,
+    "formular": "C24H38N4O3S",
+    "molecular_weight": 462.649,
+    "inChl": "1S/C24H38N4O3S/c1-18(2)19-7-9-21(10-8-19)27-14-11-24(12-15-27)22-6-4-3-5-20(22)17-28(23(24)29)16-13-26-32(25,30)31/h3-6,18-19,21,26H,7-17H2,1-2H3,(H2,25,30,31)/t19-,21+",
+    "InChl_Key": "LIZMNXKYQXVRSS-TYKWCNGQSA-N",
+    "SMILES": "CC(C)[C@H]1CC[C@@H](N2CCC3(CC2)C(=O)N(CCNS(N)(=O)=O)Cc2ccccc23)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6349",
+    "validation": "m_weight unsave, calculated(462.6600000000002)"
+}

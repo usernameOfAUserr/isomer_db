@@ -1,0 +1,13 @@
+{
+    "names": "3-[(4aR,8aR)-2-Methyl-6-methylideneoctahydroisoquinolin-4a(2H)-yl]phenol",
+    "iupac_name": "3224 ; C17H23NO ; 257.371",
+    "category": "data not stored",
+    "index": 3224,
+    "formular": "C17H23NO",
+    "molecular_weight": 257.371,
+    "inChl": "1S/C17H23NO/c1-13-6-7-15-12-18(2)9-8-17(15,11-13)14-4-3-5-16(19)10-14/h3-5,10,15,19H,1,6-9,11-12H2,2H3/t15-,17+/m0/s1",
+    "InChl_Key": "HOJGXBNONFHSQQ-DOTOQJQBSA-N",
+    "SMILES": "C=C1CC[C@H]2CN(C)CC[C@]2(c2cccc(O)c2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3224",
+    "validation": "m_weight unsave, calculated(257.37699999999995)"
+}

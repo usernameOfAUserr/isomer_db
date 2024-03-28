@@ -1,0 +1,13 @@
+{
+    "names": "Zuclopenthixol",
+    "iupac_name": "2-{4-[(3Z)-3-(2-Chloro-9H-thioxanthen-9-ylidene)propyl]piperazin-1-yl}ethan-1-ol",
+    "category": "data not stored",
+    "index": 9447,
+    "formular": "C22H25ClN2OS",
+    "molecular_weight": 400.965,
+    "inChl": "1S/C22H25ClN2OS/c23-17-7-8-22-20(16-17)18(19-4-1-2-6-21(19)27-22)5-3-9-24-10-12-25(13-11-24)14-15-26/h1-2,4-8,16,26H,3,9-15H2/b18-5-",
+    "InChl_Key": "WFPIAZLQTJBIFN-DVZOWYKESA-N",
+    "SMILES": "OCCN1CCN(CC/C=C2/c3ccccc3Sc3ccc(Cl)cc32)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9447",
+    "validation": "m_weight unsave, calculated(400.97500000000014)"
+}

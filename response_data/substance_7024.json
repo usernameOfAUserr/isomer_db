@@ -1,0 +1,13 @@
+{
+    "names": "N-Acetyl-MPA ; N-Acetylmethiopropamine",
+    "iupac_name": "N-Methyl-N-[1-(thiophen-2-yl)propan-2-yl]acetamide",
+    "category": "data not stored",
+    "index": 7024,
+    "formular": "C10H15NOS",
+    "molecular_weight": 197.297,
+    "inChl": "1S/C10H15NOS/c1-8(11(3)9(2)12)7-10-5-4-6-13-10/h4-6,8H,7H2,1-3H3",
+    "InChl_Key": "MTPDSLPKRUSIJH-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)N(C)C(C)Cc1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7024",
+    "validation": "m_weight unsave, calculated(197.30300000000003)"
+}

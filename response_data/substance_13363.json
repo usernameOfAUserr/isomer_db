@@ -1,0 +1,13 @@
+{
+    "names": "5-Fluoro-ALCBT ; 5-Fluoro-N-allyl-N-cyclobutyltryptamine",
+    "iupac_name": "N-[2-(5-Fluoro-1H-indol-3-yl)ethyl]-N-(prop-2-en-1-yl)cyclobutanamine",
+    "category": "Tryptamine",
+    "index": 13363,
+    "formular": "C17H21FN2",
+    "molecular_weight": 272.36,
+    "inChl": "1S/C17H21FN2/c1-2-9-20(15-4-3-5-15)10-8-13-12-19-17-7-6-14(18)11-16(13)17/h2,6-7,11-12,15,19H,1,3-5,8-10H2",
+    "InChl_Key": "AOWWZZGOYGBRDN-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(CCc1c[nH]c2ccc(F)cc12)C1CCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13363",
+    "validation": "m_weight unsave, calculated(272.36699999999996)"
+}

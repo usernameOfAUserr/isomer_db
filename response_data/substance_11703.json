@@ -1,0 +1,13 @@
+{
+    "names": "Ro-13-9868",
+    "iupac_name": "8-Chloro-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1]benzazepine",
+    "category": "Aryldiazepine",
+    "index": 11703,
+    "formular": "C18H14ClN3",
+    "molecular_weight": 307.777,
+    "inChl": "1S/C18H14ClN3/c1-12-20-21-18-10-8-15(13-5-3-2-4-6-13)16-11-14(19)7-9-17(16)22(12)18/h2-9,11H,10H2,1H3",
+    "InChl_Key": "MAVUUPNHQPZOFS-UHFFFAOYSA-N",
+    "SMILES": "Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11703",
+    "validation": "m_weight unsave, calculated(307.784)"
+}

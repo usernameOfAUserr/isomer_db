@@ -1,0 +1,13 @@
+{
+    "names": "3-PPP ; N-Propyl-3-(3-hydroxyphenyl)piperidine",
+    "iupac_name": "3-(1-Propylpiperidin-3-yl)phenol",
+    "category": "Phenetylamine",
+    "index": 12019,
+    "formular": "C14H21NO",
+    "molecular_weight": 219.323,
+    "inChl": "1S/C14H21NO/c1-2-8-15-9-4-6-13(11-15)12-5-3-7-14(16)10-12/h3,5,7,10,13,16H,2,4,6,8-9,11H2,1H3",
+    "InChl_Key": "HTSNFXAICLXZMA-UHFFFAOYSA-N",
+    "SMILES": "CCCN1CCCC(c2cccc(O)c2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12019",
+    "validation": "m_weight unsave, calculated(219.328)"
+}

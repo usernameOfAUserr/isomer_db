@@ -1,0 +1,13 @@
+{
+    "names": "1-[(2-Fluorophenyl)methyl]-7-methyl-N-(4-methylcyclohexyl)-4-oxo-1,4-dihydro-1,8-naphthyridine-3-carboxamide",
+    "iupac_name": "4191 ; C24H26FN3O2 ; 407.481",
+    "category": "cannabinodids",
+    "index": 4191,
+    "formular": "C24H26FN3O2",
+    "molecular_weight": 407.481,
+    "inChl": "1S/C24H26FN3O2/c1-15-7-10-18(11-8-15)27-24(30)20-14-28(13-17-5-3-4-6-21(17)25)23-19(22(20)29)12-9-16(2)26-23/h3-6,9,12,14-15,18H,7-8,10-11,13H2,1-2H3,(H,27,30)",
+    "InChl_Key": "CSWGVXSESQPWML-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc2c(=O)c(C(=O)NC3CCC(C)CC3)cn(Cc3ccccc3F)c2n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4191",
+    "validation": "m_weight unsave, calculated(407.48900000000015)"
+}

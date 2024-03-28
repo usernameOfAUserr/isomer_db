@@ -1,0 +1,13 @@
+{
+    "names": "R-1882",
+    "iupac_name": "Propan-2-yl 1-[4-(4-methylphenyl)-4-oxobutyl]-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 9188,
+    "formular": "C26H33NO3",
+    "molecular_weight": 407.545,
+    "inChl": "1S/C26H33NO3/c1-20(2)30-25(29)26(23-8-5-4-6-9-23)15-18-27(19-16-26)17-7-10-24(28)22-13-11-21(3)12-14-22/h4-6,8-9,11-14,20H,7,10,15-19H2,1-3H3",
+    "InChl_Key": "URJMMSMDYFBDDJ-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)CCCN2CCC(C(=O)OC(C)C)(c3ccccc3)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9188",
+    "validation": "m_weight unsave, calculated(407.55400000000003)"
+}

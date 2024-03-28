@@ -1,0 +1,13 @@
+{
+    "names": "3-[2-(4-Methylpiperazin-1-yl)-2-phenylethyl]phenol",
+    "iupac_name": "14340 ; C19H24N2O ; 296.407",
+    "category": "data not stored",
+    "index": 14340,
+    "formular": "C19H24N2O",
+    "molecular_weight": 296.407,
+    "inChl": "1S/C19H24N2O/c1-20-10-12-21(13-11-20)19(17-7-3-2-4-8-17)15-16-6-5-9-18(22)14-16/h2-9,14,19,22H,10-13,15H2,1H3",
+    "InChl_Key": "SNEATSWSSQYWFG-UHFFFAOYSA-N",
+    "SMILES": "CN1CCN(C(Cc2cccc(O)c2)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14340",
+    "validation": "m_weight unsave, calculated(296.41400000000004)"
+}

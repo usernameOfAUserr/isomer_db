@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 7-[(3-bromo-6-methyl-5,5-dioxo-6,11-dihydro-5H-5\u03bb6-dibenzo[c,f][1,2]thiazepin-11-yl)amino]heptanoate",
+    "iupac_name": "8460 ; C23H29BrN2O4S ; 509.456",
+    "category": "data not stored",
+    "index": 8460,
+    "formular": "C23H29BrN2O4S",
+    "molecular_weight": 509.456,
+    "inChl": "1S/C23H29BrN2O4S/c1-3-30-22(27)12-6-4-5-9-15-25-23-18-10-7-8-11-20(18)26(2)31(28,29)21-16-17(24)13-14-19(21)23/h7-8,10-11,13-14,16,23,25H,3-6,9,12,15H2,1-2H3",
+    "InChl_Key": "MVFGUMSEPSMRLM-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)CCCCCCNC1c2ccccc2N(C)S(=O)(=O)c2cc(Br)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8460",
+    "validation": "m_weight unsave, calculated(509.4660000000002)"
+}

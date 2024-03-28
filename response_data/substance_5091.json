@@ -1,0 +1,13 @@
+{
+    "names": "5-HO-DIPT ; 5-Hydroxy-N,N-diisopropyltryptamine",
+    "iupac_name": "3-{2-[Di(propan-2-yl)amino]ethyl}-1H-indol-5-ol",
+    "category": "Tryptamine",
+    "index": 5091,
+    "formular": "C16H24N2O",
+    "molecular_weight": 260.375,
+    "inChl": "1S/C16H24N2O/c1-11(2)18(12(3)4)8-7-13-10-17-16-6-5-14(19)9-15(13)16/h5-6,9-12,17,19H,7-8H2,1-4H3",
+    "InChl_Key": "HWOLNTJLIUHEOG-UHFFFAOYSA-N",
+    "SMILES": "CC(C)N(CCc1c[nH]c2ccc(O)cc12)C(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5091",
+    "validation": "m_weight unsave, calculated(260.38100000000003)"
+}

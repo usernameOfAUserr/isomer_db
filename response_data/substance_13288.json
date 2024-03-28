@@ -1,0 +1,13 @@
+{
+    "names": "Etomethazene ; 5-Methyldesnitroetonitazene ; 5-Methyl etodesnitazene",
+    "iupac_name": "2-{2-[(4-Ethoxyphenyl)methyl]-5-methyl-1H-benzimidazol-1-yl}-N,N-diethylethan-1-amine",
+    "category": "data not stored",
+    "index": 13288,
+    "formular": "C23H31N3O",
+    "molecular_weight": 365.512,
+    "inChl": "1S/C23H31N3O/c1-5-25(6-2)14-15-26-22-13-8-18(4)16-21(22)24-23(26)17-19-9-11-20(12-10-19)27-7-3/h8-13,16H,5-7,14-15,17H2,1-4H3",
+    "InChl_Key": "ZARKNPABJGEAOQ-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(Cc2nc3cc(C)ccc3n2CCN(CC)CC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13288",
+    "validation": "m_weight unsave, calculated(365.5210000000001)"
+}

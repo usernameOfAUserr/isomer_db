@@ -1,0 +1,13 @@
+{
+    "names": "TRK-851",
+    "iupac_name": "(4bS,8R,8aS,16bR)-7-(Cyclopropylmethyl)-11-fluoro-5,6,7,8,9,14,15,16b-octahydro-8aH,13H-4,8-methano[1]benzofuro[2,3-a]dipyrido[4,3-b:3\u2032,2\u2032,1\u2032-jk]carbazole-1,8a-diol",
+    "category": "data not stored",
+    "index": 9926,
+    "formular": "C29H29FN2O3",
+    "molecular_weight": 472.551,
+    "inChl": "1S/C29H29FN2O3/c30-18-10-17-2-1-8-32-24(17)19(12-18)20-13-29(34)22-11-16-5-6-21(33)26-23(16)28(29,27(35-26)25(20)32)7-9-31(22)14-15-3-4-15/h5-6,10,12,15,22,27,33-34H,1-4,7-9,11,13-14H2/t22-,27+,28+,29-/m1/s1",
+    "InChl_Key": "TYHUVMCMIRSIAI-KZNIJNHCSA-N",
+    "SMILES": "Oc1ccc2c3c1O[C@H]1c4c(c5cc(F)cc6c5n4CCC6)C[C@@]4(O)[C@@H](C2)N(CC2CC2)CC[C@]314",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9926",
+    "validation": "m_weight unsave, calculated(472.56000000000034)"
+}

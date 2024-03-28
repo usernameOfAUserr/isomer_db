@@ -1,0 +1,13 @@
+{
+    "names": "3-Methyl-butyrylfentanyl ; 3-MBF",
+    "iupac_name": "N-[3-Methyl-1-(2-phenylethyl)piperidin-4-yl]-N-phenylbutanamide",
+    "category": "Fentanyl",
+    "index": 3156,
+    "formular": "C24H32N2O",
+    "molecular_weight": 364.524,
+    "inChl": "1S/C24H32N2O/c1-3-10-24(27)26(22-13-8-5-9-14-22)23-16-18-25(19-20(23)2)17-15-21-11-6-4-7-12-21/h4-9,11-14,20,23H,3,10,15-19H2,1-2H3",
+    "InChl_Key": "ZPAOSKLOFZWBLS-UHFFFAOYSA-N",
+    "SMILES": "CCCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3156",
+    "validation": "m_weight unsave, calculated(364.533)"
+}

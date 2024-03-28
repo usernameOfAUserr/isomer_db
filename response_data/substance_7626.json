@@ -1,0 +1,13 @@
+{
+    "names": "T-MeI ; N,N,N-Trimethyl-3,4,5-trimethoxyphenethylamine+",
+    "iupac_name": "N,N,N-Trimethyl-2-(3,4,5-trimethoxyphenyl)ethan-1-aminium ; N,N,N-Trimethyl-2-(3,4,5-trimethoxyphenyl)ethanaminium",
+    "category": "Shulgin_Index",
+    "index": 7626,
+    "formular": "C14H24NO3",
+    "molecular_weight": 254.345,
+    "inChl": "1S/C14H24NO3/c1-15(2,3)8-7-11-9-12(16-4)14(18-6)13(10-11)17-5/h9-10H,7-8H2,1-6H3/q+1",
+    "InChl_Key": "OTQYBYBBOHKXGD-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC[N+](C)(C)C)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7626",
+    "validation": "m_weight unsave, calculated(254.35)formular unsave, calculated(C14H24NO3+)"
+}

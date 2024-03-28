@@ -1,0 +1,13 @@
+{
+    "names": "6ADDB",
+    "iupac_name": "N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-5-bromo-1-(dec-9-en-1-yl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 13280,
+    "formular": "C25H36BrN3O2",
+    "molecular_weight": 490.476,
+    "inChl": "1S/C25H36BrN3O2/c1-5-6-7-8-9-10-11-12-15-29-17-20(19-16-18(26)13-14-21(19)29)24(31)28-22(23(27)30)25(2,3)4/h5,13-14,16-17,22H,1,6-12,15H2,2-4H3,(H2,27,30)(H,28,31)",
+    "InChl_Key": "XKJBLAQHRKQBIA-UHFFFAOYSA-N",
+    "SMILES": "C=CCCCCCCCCn1cc(C(=O)NC(C(N)=O)C(C)(C)C)c2cc(Br)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13280",
+    "validation": "m_weight unsave, calculated(490.4860000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "p-Fluoro-methoxyacetylfentanyl ; 4\u2032-Fluoro-methoxyacetylfentanyl",
+    "iupac_name": "N-(4-Fluorophenyl)-2-methoxy-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide",
+    "category": "Fentanyl",
+    "index": 3231,
+    "formular": "C22H27FN2O2",
+    "molecular_weight": 370.46,
+    "inChl": "1S/C22H27FN2O2/c1-27-17-22(26)25(20-9-7-19(23)8-10-20)21-12-15-24(16-13-21)14-11-18-5-3-2-4-6-18/h2-10,21H,11-17H2,1H3",
+    "InChl_Key": "KDXSBALZECTNCT-UHFFFAOYSA-N",
+    "SMILES": "COCC(=O)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3231",
+    "validation": "m_weight unsave, calculated(370.46800000000013)"
+}

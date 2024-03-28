@@ -1,0 +1,13 @@
+{
+    "names": "(3Z)-3-[(4-Methoxyphenyl)imino]-1-[2-(morpholin-4-yl)ethyl]-1,3-dihydro-2H-indol-2-one",
+    "iupac_name": "14682 ; C21H23N3O3 ; 365.426",
+    "category": "cannabinodids",
+    "index": 14682,
+    "formular": "C21H23N3O3",
+    "molecular_weight": 365.426,
+    "inChl": "1S/C21H23N3O3/c1-26-17-8-6-16(7-9-17)22-20-18-4-2-3-5-19(18)24(21(20)25)11-10-23-12-14-27-15-13-23/h2-9H,10-15H2,1H3/b22-20-",
+    "InChl_Key": "OQOBDZXJFYQVAP-XDOYNYLZSA-N",
+    "SMILES": "COc1ccc(/N=C2\\C(=O)N(CCN3CCOCC3)c3ccccc32)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14682",
+    "validation": "m_weight unsave, calculated(365.4330000000003)"
+}

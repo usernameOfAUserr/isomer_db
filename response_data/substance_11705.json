@@ -1,0 +1,13 @@
+{
+    "names": "Ro-14-3929",
+    "iupac_name": "Ethyl 8-chloro-6-(2-fluorophenyl)-4H-imidazo[1,5-a][1]benzazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 11705,
+    "formular": "C21H16ClFN2O2",
+    "molecular_weight": 382.815,
+    "inChl": "1S/C21H16ClFN2O2/c1-2-27-21(26)20-19-10-8-14(15-5-3-4-6-17(15)23)16-11-13(22)7-9-18(16)25(19)12-24-20/h3-9,11-12H,2,10H2,1H3",
+    "InChl_Key": "WVTVDJOJHKFMSP-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ncn2c1CC=C(c1ccccc1F)c1cc(Cl)ccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11705",
+    "validation": "m_weight unsave, calculated(382.82200000000006)"
+}

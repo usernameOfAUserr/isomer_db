@@ -1,0 +1,13 @@
+{
+    "names": "4-{1-[(1-Methylpiperidin-2-yl)methyl]-1H-indole-3-carbonyl}naphthalene-1-carbonitrile",
+    "iupac_name": "4097 ; C27H25N3O ; 407.507",
+    "category": "cannabinodids",
+    "index": 4097,
+    "formular": "C27H25N3O",
+    "molecular_weight": 407.507,
+    "inChl": "1S/C27H25N3O/c1-29-15-7-6-8-20(29)17-30-18-25(23-11-4-5-12-26(23)30)27(31)24-14-13-19(16-28)21-9-2-3-10-22(21)24/h2-5,9-14,18,20H,6-8,15,17H2,1H3",
+    "InChl_Key": "ZUFOUOSXCFGRDF-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCCC1Cn1cc(C(=O)c2ccc(C#N)c3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4097",
+    "validation": "m_weight unsave, calculated(407.5170000000002)"
+}

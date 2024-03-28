@@ -1,0 +1,13 @@
+{
+    "names": "2C-G-5 NS",
+    "iupac_name": "5,8-Dimethoxy-6-[(E)-2-nitroethenyl]-1,2,3,4-tetrahydro-1,4-methanonaphthalene",
+    "category": "data not stored",
+    "index": 12829,
+    "formular": "C15H17NO4",
+    "molecular_weight": 275.3,
+    "inChl": "1S/C15H17NO4/c1-19-12-8-11(5-6-16(17)18)15(20-2)14-10-4-3-9(7-10)13(12)14/h5-6,8-10H,3-4,7H2,1-2H3/b6-5+",
+    "InChl_Key": "AAAPZHUCIHHPRT-AATRIKPKSA-N",
+    "SMILES": "COc1cc(/C=C/[N+](=O)[O-])c(OC)c2c1C1CCC2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12829",
+    "validation": ""
+}

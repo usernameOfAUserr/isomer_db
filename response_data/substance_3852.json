@@ -1,0 +1,13 @@
+{
+    "names": "Ocinaplon ; DOV-273547",
+    "iupac_name": "(Pyridin-2-yl)[7-(pyridin-4-yl)pyrazolo[1,5-a]pyrimidin-3-yl]methanone",
+    "category": "data not stored",
+    "index": 3852,
+    "formular": "C17H11N5O",
+    "molecular_weight": 301.302,
+    "inChl": "1S/C17H11N5O/c23-16(14-3-1-2-7-19-14)13-11-21-22-15(6-10-20-17(13)22)12-4-8-18-9-5-12/h1-11H",
+    "InChl_Key": "OQJFBUOFGHPMSR-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccccn1)c1cnn2c(-c3ccncc3)ccnc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3852",
+    "validation": "m_weight unsave, calculated(301.309)"
+}

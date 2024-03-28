@@ -1,0 +1,13 @@
+{
+    "names": "Cannabisol",
+    "iupac_name": "(6aR,10aR,6\u2032aR,10\u2032aR)-2,2\u2032-Methylenebis(6,6,9-trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-ol)",
+    "category": "cannabinodids",
+    "index": 8102,
+    "formular": "C43H60O4",
+    "molecular_weight": 640.934,
+    "inChl": "1S/C43H60O4/c1-9-11-13-15-28-23-36-38(32-21-26(3)17-19-34(32)42(5,6)46-36)40(44)30(28)25-31-29(16-14-12-10-2)24-37-39(41(31)45)33-22-27(4)18-20-35(33)43(7,8)47-37/h21-24,32-35,44-45H,9-20,25H2,1-8H3/t32-,33-,34-,35-/m1/s1",
+    "InChl_Key": "PDADLCKRVIFEGH-BAQBVXSRSA-N",
+    "SMILES": "CCCCCc1cc2c(c(O)c1Cc1c(CCCCC)cc3c(c1O)[C@@H]1C=C(C)CC[C@H]1C(C)(C)O3)[C@@H]1C=C(C)CC[C@H]1C(C)(C)O2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8102",
+    "validation": "m_weight unsave, calculated(640.9490000000002)"
+}

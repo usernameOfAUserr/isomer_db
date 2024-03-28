@@ -1,0 +1,13 @@
+{
+    "names": "2,4-Dimethoxy-5-propylamphetamine",
+    "iupac_name": "1-(2,4-Dimethoxy-5-propylphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 12410,
+    "formular": "C14H23NO2",
+    "molecular_weight": 237.338,
+    "inChl": "1S/C14H23NO2/c1-5-6-11-8-12(7-10(2)15)14(17-4)9-13(11)16-3/h8-10H,5-7,15H2,1-4H3",
+    "InChl_Key": "ZRDXJTMNGSTWNA-UHFFFAOYSA-N",
+    "SMILES": "CCCc1cc(CC(C)N)c(OC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12410",
+    "validation": "m_weight unsave, calculated(237.34299999999996)"
+}

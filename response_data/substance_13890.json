@@ -1,0 +1,13 @@
+{
+    "names": "2,5-Dimethoxy-4-propyl-\u03b2-propyl-\u03b2-nitrostyrene",
+    "iupac_name": "1,4-Dimethoxy-2-[(1E)-2-nitropent-1-en-1-yl]-5-propylbenzene",
+    "category": "data not stored",
+    "index": 13890,
+    "formular": "C16H23NO4",
+    "molecular_weight": 293.358,
+    "inChl": "1S/C16H23NO4/c1-5-7-12-10-16(21-4)13(11-15(12)20-3)9-14(8-6-2)17(18)19/h9-11H,5-8H2,1-4H3/b14-9+",
+    "InChl_Key": "ZRCZDWXPCNVDQN-NTEUORMPSA-N",
+    "SMILES": "CCC/C(=C\\c1cc(OC)c(CCC)cc1OC)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13890",
+    "validation": "m_weight unsave, calculated(293.36300000000006)"
+}

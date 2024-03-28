@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-NHMe-MA ; \u03b2-(Methylamino)methamphetamine",
+    "iupac_name": "N1,N2-Dimethyl-1-phenylpropane-1,2-diamine",
+    "category": "Phenetylamine",
+    "index": 10755,
+    "formular": "C11H18N2",
+    "molecular_weight": 178.274,
+    "inChl": "1S/C11H18N2/c1-9(12-2)11(13-3)10-7-5-4-6-8-10/h4-9,11-13H,1-3H3",
+    "InChl_Key": "WLFWGHGVSWNVJT-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(NC)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10755",
+    "validation": "m_weight unsave, calculated(178.27899999999997)"
+}

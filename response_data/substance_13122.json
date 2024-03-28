@@ -1,0 +1,13 @@
+{
+    "names": "2-Methoxy-4-[(triphenylmethoxy)methyl]benzaldehyde",
+    "iupac_name": "13122 ; C28H24O3 ; 408.488",
+    "category": "data not stored",
+    "index": 13122,
+    "formular": "C28H24O3",
+    "molecular_weight": 408.488,
+    "inChl": "1S/C28H24O3/c1-30-27-19-22(17-18-23(27)20-29)21-31-28(24-11-5-2-6-12-24,25-13-7-3-8-14-25)26-15-9-4-10-16-26/h2-20H,21H2,1H3",
+    "InChl_Key": "GVARUWYZUFQTIV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(COC(c2ccccc2)(c2ccccc2)c2ccccc2)ccc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13122",
+    "validation": "m_weight unsave, calculated(408.4970000000001)"
+}

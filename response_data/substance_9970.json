@@ -1,0 +1,13 @@
+{
+    "names": "Cebaracetam",
+    "iupac_name": "4-{[4-(4-Chlorophenyl)-2-oxopyrrolidin-1-yl]acetyl}piperazin-2-one",
+    "category": "data not stored",
+    "index": 9970,
+    "formular": "C16H18ClN3O3",
+    "molecular_weight": 335.785,
+    "inChl": "1S/C16H18ClN3O3/c17-13-3-1-11(2-4-13)12-7-15(22)20(8-12)10-16(23)19-6-5-18-14(21)9-19/h1-4,12H,5-10H2,(H,18,21)",
+    "InChl_Key": "QPKMIYNBZGPJAR-UHFFFAOYSA-N",
+    "SMILES": "O=C1CN(C(=O)CN2CC(c3ccc(Cl)cc3)CC2=O)CCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9970",
+    "validation": "m_weight unsave, calculated(335.79100000000005)"
+}

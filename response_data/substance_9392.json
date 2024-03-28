@@ -1,0 +1,13 @@
+{
+    "names": "N-tert-Butyllysergamide",
+    "iupac_name": "N-tert-Butyl-5,6-dimethyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N-tert-Butyl-6a,7-dimethyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N-tert-Butyl-5,6-dimethyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 9392,
+    "formular": "C21H27N3O",
+    "molecular_weight": 337.459,
+    "inChl": "1S/C21H27N3O/c1-20(2,3)23-19(25)13-9-16-15-7-6-8-17-18(15)14(11-22-17)10-21(16,4)24(5)12-13/h6-9,11,13,22H,10,12H2,1-5H3,(H,23,25)/t13-,21-/m1/s1",
+    "InChl_Key": "NHHPCHPXSGMCFX-LRTDBIEQSA-N",
+    "SMILES": "CN1C[C@H](C(=O)NC(C)(C)C)C=C2c3cccc4[nH]cc(c34)C[C@]21C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9392",
+    "validation": "m_weight unsave, calculated(337.4670000000001)"
+}

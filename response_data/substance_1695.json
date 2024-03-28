@@ -1,0 +1,13 @@
+{
+    "names": "3-Methyl-furanylfentanyl",
+    "iupac_name": "N-[3-Methyl-1-(2-phenylethyl)piperidin-4-yl]-N-phenylfuran-2-carboxamide",
+    "category": "Fentanyl",
+    "index": 1695,
+    "formular": "C25H28N2O2",
+    "molecular_weight": 388.502,
+    "inChl": "1S/C25H28N2O2/c1-20-19-26(16-14-21-9-4-2-5-10-21)17-15-23(20)27(22-11-6-3-7-12-22)25(28)24-13-8-18-29-24/h2-13,18,20,23H,14-17,19H2,1H3",
+    "InChl_Key": "FXCXOYFIDLBWSR-UHFFFAOYSA-N",
+    "SMILES": "CC1CN(CCc2ccccc2)CCC1N(C(=O)c1ccco1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1695",
+    "validation": "m_weight unsave, calculated(388.5110000000001)"
+}

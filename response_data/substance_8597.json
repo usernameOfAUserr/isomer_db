@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-PipBP ; \u03b1-(Piperidin-1-yl)butanophenone ; PPBO ; \u03b1-Piperidinobutiophenone",
+    "iupac_name": "1-Phenyl-2-(piperidin-1-yl)butan-1-one",
+    "category": "data not stored",
+    "index": 8597,
+    "formular": "C15H21NO",
+    "molecular_weight": 231.333,
+    "inChl": "1S/C15H21NO/c1-2-14(16-11-7-4-8-12-16)15(17)13-9-5-3-6-10-13/h3,5-6,9-10,14H,2,4,7-8,11-12H2,1H3",
+    "InChl_Key": "VFLPICJWFQLLSY-UHFFFAOYSA-N",
+    "SMILES": "CCC(C(=O)c1ccccc1)N1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8597",
+    "validation": "m_weight unsave, calculated(231.3389999999999)"
+}

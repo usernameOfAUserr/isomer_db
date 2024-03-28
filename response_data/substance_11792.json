@@ -1,0 +1,13 @@
+{
+    "names": "MPP-4en-PINACA",
+    "iupac_name": "Methyl N-[1-(pent-4-en-1-yl)-1H-indazole-3-carbonyl]-L-phenylalaninate ; Methyl (2S)-2-{[1-(Pent-4-en-1-yl)-1H-indazole-3-carbonyl]amino}-3-phenylpropanoate",
+    "category": "cannabinodids",
+    "index": 11792,
+    "formular": "C23H25N3O3",
+    "molecular_weight": 391.463,
+    "inChl": "1S/C23H25N3O3/c1-3-4-10-15-26-20-14-9-8-13-18(20)21(25-26)22(27)24-19(23(28)29-2)16-17-11-6-5-7-12-17/h3,5-9,11-14,19H,1,4,10,15-16H2,2H3,(H,24,27)/t19-/m0/s1",
+    "InChl_Key": "KKMOECPBSGJMAE-IBGZPJMESA-N",
+    "SMILES": "C=CCCCn1nc(C(=O)N[C@@H](Cc2ccccc2)C(=O)OC)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11792",
+    "validation": "m_weight unsave, calculated(391.4710000000002)"
+}

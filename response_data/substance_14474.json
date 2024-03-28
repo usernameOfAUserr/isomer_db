@@ -1,0 +1,13 @@
+{
+    "names": "7-Nitro-5-fluorotryptamine",
+    "iupac_name": "2-(5-Fluoro-7-nitro-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 14474,
+    "formular": "C10H10FN3O2",
+    "molecular_weight": 223.204,
+    "inChl": "1S/C10H10FN3O2/c11-7-3-8-6(1-2-12)5-13-10(8)9(4-7)14(15)16/h3-5,13H,1-2,12H2",
+    "InChl_Key": "BXHCZHIDWWHVTE-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2c([N+](=O)[O-])cc(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14474",
+    "validation": "m_weight unsave, calculated(223.20699999999997)"
+}

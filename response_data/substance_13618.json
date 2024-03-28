@@ -1,0 +1,13 @@
+{
+    "names": "5-Fluoro-PPMI ; 5-Fluoro-3-(N-propylpyrrolidinylmethyl)indole",
+    "iupac_name": "5-Fluoro-3-[(1-propylpyrrolidin-2-yl)methyl]-1H-indole",
+    "category": "data not stored",
+    "index": 13618,
+    "formular": "C16H21FN2",
+    "molecular_weight": 260.35,
+    "inChl": "1S/C16H21FN2/c1-2-7-19-8-3-4-14(19)9-12-11-18-16-6-5-13(17)10-15(12)16/h5-6,10-11,14,18H,2-4,7-9H2,1H3",
+    "InChl_Key": "OVAKEKUDAGRHAF-UHFFFAOYSA-N",
+    "SMILES": "CCCN1CCCC1Cc1c[nH]c2ccc(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13618",
+    "validation": "m_weight unsave, calculated(260.356)"
+}

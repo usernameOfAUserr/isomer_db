@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Dimethyl-4,4-diphenylbutan-1-amine",
+    "iupac_name": "12089 ; C18H23N ; 253.382",
+    "category": "Phenetylamine",
+    "index": 12089,
+    "formular": "C18H23N",
+    "molecular_weight": 253.382,
+    "inChl": "1S/C18H23N/c1-19(2)15-9-14-18(16-10-5-3-6-11-16)17-12-7-4-8-13-17/h3-8,10-13,18H,9,14-15H2,1-2H3",
+    "InChl_Key": "BDSUMBDGCUOHGR-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCCC(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12089",
+    "validation": "m_weight unsave, calculated(253.389)"
+}

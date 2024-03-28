@@ -1,0 +1,13 @@
+{
+    "names": "7-MeO-DET ; 7-Methoxy-N,N-diethyltryptamine",
+    "iupac_name": "N,N-Diethyl-2-(7-methoxy-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 14297,
+    "formular": "C15H22N2O",
+    "molecular_weight": 246.348,
+    "inChl": "1S/C15H22N2O/c1-4-17(5-2)10-9-12-11-16-15-13(12)7-6-8-14(15)18-3/h6-8,11,16H,4-5,9-10H2,1-3H3",
+    "InChl_Key": "AIJWLDYNEKTION-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCc1c[nH]c2c(OC)cccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14297",
+    "validation": "m_weight unsave, calculated(246.35399999999998)"
+}

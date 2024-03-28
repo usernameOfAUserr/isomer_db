@@ -1,0 +1,13 @@
+{
+    "names": "AP-238",
+    "iupac_name": "1-{2,6-Dimethyl-4-[(2E)-3-phenylprop-2-en-1-yl]piperazin-1-yl}propan-1-one",
+    "category": "data not stored",
+    "index": 11503,
+    "formular": "C18H26N2O",
+    "molecular_weight": 286.412,
+    "inChl": "1S/C18H26N2O/c1-4-18(21)20-15(2)13-19(14-16(20)3)12-8-11-17-9-6-5-7-10-17/h5-11,15-16H,4,12-14H2,1-3H3/b11-8+",
+    "InChl_Key": "JELNWDOXWGBBLO-DHZHZOJOSA-N",
+    "SMILES": "CCC(=O)N1C(C)CN(C/C=C/c2ccccc2)CC1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11503",
+    "validation": "m_weight unsave, calculated(286.419)"
+}

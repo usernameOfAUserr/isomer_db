@@ -1,0 +1,13 @@
+{
+    "names": "Methyl 4-(2,5-dimethoxy-4-methylphenyl)-3-nitro-4-oxobutanoate",
+    "iupac_name": "1846 ; C14H17NO7 ; 311.287",
+    "category": "data not stored",
+    "index": 1846,
+    "formular": "C14H17NO7",
+    "molecular_weight": 311.287,
+    "inChl": "1S/C14H17NO7/c1-8-5-12(21-3)9(6-11(8)20-2)14(17)10(15(18)19)7-13(16)22-4/h5-6,10H,7H2,1-4H3",
+    "InChl_Key": "JIEHXBBEQXAORG-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)CC(C(=O)c1cc(OC)c(C)cc1OC)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1846",
+    "validation": "m_weight unsave, calculated(311.29)"
+}

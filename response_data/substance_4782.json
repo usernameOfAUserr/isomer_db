@@ -1,0 +1,13 @@
+{
+    "names": "US 2004/0087590 #1",
+    "iupac_name": "3\u2032,5\u2032-Dichloro-4-(2-methyloctan-2-yl)[1,1\u2032-biphenyl]-2,6-diol",
+    "category": "cannabinodids",
+    "index": 4782,
+    "formular": "C21H26Cl2O2",
+    "molecular_weight": 381.336,
+    "inChl": "1S/C21H26Cl2O2/c1-4-5-6-7-8-21(2,3)15-11-18(24)20(19(25)12-15)14-9-16(22)13-17(23)10-14/h9-13,24-25H,4-8H2,1-3H3",
+    "InChl_Key": "LTZVJBCRUKVNOV-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCC(C)(C)c1cc(O)c(-c2cc(Cl)cc(Cl)c2)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4782",
+    "validation": "m_weight unsave, calculated(381.3430000000001)"
+}

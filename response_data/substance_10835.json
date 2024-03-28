@@ -1,0 +1,13 @@
+{
+    "names": "2-Phenyl-N-(propan-2-yl)cyclohexan-1-amine",
+    "iupac_name": "10835 ; C15H23N ; 217.35",
+    "category": "Phenetylamine",
+    "index": 10835,
+    "formular": "C15H23N",
+    "molecular_weight": 217.35,
+    "inChl": "1S/C15H23N/c1-12(2)16-15-11-7-6-10-14(15)13-8-4-3-5-9-13/h3-5,8-9,12,14-16H,6-7,10-11H2,1-2H3",
+    "InChl_Key": "RGRISJFOBIMSBP-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NC1CCCCC1c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10835",
+    "validation": "m_weight unsave, calculated(217.35600000000002)"
+}

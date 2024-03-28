@@ -1,0 +1,13 @@
+{
+    "names": "2C-H-PP ; 2,5-DOMePP",
+    "iupac_name": "1-(2,5-Dimethoxyphenyl)piperazine",
+    "category": "Phenetylamine",
+    "index": 10120,
+    "formular": "C12H18N2O2",
+    "molecular_weight": 222.284,
+    "inChl": "1S/C12H18N2O2/c1-15-10-3-4-12(16-2)11(9-10)14-7-5-13-6-8-14/h3-4,9,13H,5-8H2,1-2H3",
+    "InChl_Key": "IZFHRJZAZNTUOI-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c(N2CCNCC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10120",
+    "validation": "m_weight unsave, calculated(222.28799999999995)"
+}

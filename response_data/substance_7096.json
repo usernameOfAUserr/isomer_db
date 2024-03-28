@@ -1,0 +1,13 @@
+{
+    "names": "CMP ; 1-(1\u2032,4\u2032-Cyclohexadienyl)-2-methylaminopropane",
+    "iupac_name": "1-(Cyclohexa-1,4-dien-1-yl)-N-methylpropan-2-amine",
+    "category": "data not stored",
+    "index": 7096,
+    "formular": "C10H17N",
+    "molecular_weight": 151.249,
+    "inChl": "1S/C10H17N/c1-9(11-2)8-10-6-4-3-5-7-10/h3-4,7,9,11H,5-6,8H2,1-2H3",
+    "InChl_Key": "DIMNLUIMZVXIKS-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)CC1=CCC=CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7096",
+    "validation": "m_weight unsave, calculated(151.253)"
+}

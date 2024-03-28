@@ -1,0 +1,13 @@
+{
+    "names": "4-[1-(Thiophen-2-yl)cyclohexyl]morpholine",
+    "iupac_name": "11830 ; C14H21NOS ; 251.388",
+    "category": "data not stored",
+    "index": 11830,
+    "formular": "C14H21NOS",
+    "molecular_weight": 251.388,
+    "inChl": "1S/C14H21NOS/c1-2-6-14(7-3-1,13-5-4-12-17-13)15-8-10-16-11-9-15/h4-5,12H,1-3,6-11H2",
+    "InChl_Key": "QBLUKXGKYQEPBB-UHFFFAOYSA-N",
+    "SMILES": "c1csc(C2(N3CCOCC3)CCCCC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11830",
+    "validation": "m_weight unsave, calculated(251.395)"
+}

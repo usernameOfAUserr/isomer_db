@@ -1,0 +1,13 @@
+{
+    "names": "SGT-253",
+    "iupac_name": "Methyl 2-methyl-N-{1-[(oxan-4-yl)methyl]-1H-indazole-3-carbonyl}alaninate ; Methyl 2-methyl-2-({1-[(oxan-4-yl)methyl]-1H-indazole-3-carbonyl}amino)propanoate",
+    "category": "cannabinodids",
+    "index": 11650,
+    "formular": "C19H25N3O4",
+    "molecular_weight": 359.42,
+    "inChl": "1S/C19H25N3O4/c1-19(2,18(24)25-3)20-17(23)16-14-6-4-5-7-15(14)22(21-16)12-13-8-10-26-11-9-13/h4-7,13H,8-12H2,1-3H3,(H,20,23)",
+    "InChl_Key": "QKTXVZAMWWJZGW-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(C)(C)NC(=O)c1nn(CC2CCOCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11650",
+    "validation": "m_weight unsave, calculated(359.4260000000002)"
+}

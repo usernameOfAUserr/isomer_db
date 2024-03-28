@@ -1,0 +1,13 @@
+{
+    "names": "Isomethcathinone",
+    "iupac_name": "1-(Methylamino)-1-phenylpropan-2-one",
+    "category": "data not stored",
+    "index": 3356,
+    "formular": "C10H13NO",
+    "molecular_weight": 163.216,
+    "inChl": "1S/C10H13NO/c1-8(12)10(11-2)9-6-4-3-5-7-9/h3-7,10-11H,1-2H3",
+    "InChl_Key": "LNLNWQQWSFMHBW-UHFFFAOYSA-N",
+    "SMILES": "CNC(C(C)=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3356",
+    "validation": "m_weight unsave, calculated(163.21999999999994)"
+}

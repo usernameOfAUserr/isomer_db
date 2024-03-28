@@ -1,0 +1,13 @@
+{
+    "names": "R-1480",
+    "iupac_name": "1-Phenyl-3-[4-phenyl-4-(propanoyloxy)piperidin-1-yl]propyl propanoate",
+    "category": "data not stored",
+    "index": 3285,
+    "formular": "C26H33NO4",
+    "molecular_weight": 423.545,
+    "inChl": "1S/C26H33NO4/c1-3-24(28)30-23(21-11-7-5-8-12-21)15-18-27-19-16-26(17-20-27,31-25(29)4-2)22-13-9-6-10-14-22/h5-14,23H,3-4,15-20H2,1-2H3",
+    "InChl_Key": "XXXVSUGBPCCNNV-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)OC(CCN1CCC(OC(=O)CC)(c2ccccc2)CC1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3285",
+    "validation": "m_weight unsave, calculated(423.5530000000002)"
+}

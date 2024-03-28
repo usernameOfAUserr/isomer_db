@@ -1,0 +1,13 @@
+{
+    "names": "2-(1,3-Benzothiazol-6-yl)-N-methylethan-1-amine",
+    "iupac_name": "7996 ; C10H12N2S ; 192.281",
+    "category": "data not stored",
+    "index": 7996,
+    "formular": "C10H12N2S",
+    "molecular_weight": 192.281,
+    "inChl": "1S/C10H12N2S/c1-11-5-4-8-2-3-9-10(6-8)13-7-12-9/h2-3,6-7,11H,4-5H2,1H3",
+    "InChl_Key": "RXIDESCYODQSNK-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1ccc2ncsc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7996",
+    "validation": "m_weight unsave, calculated(192.287)"
+}

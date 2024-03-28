@@ -1,0 +1,13 @@
+{
+    "names": "N-Formyl-3-demethylmescaline ; N-Formyl-3-hydroxy-4,5-dimethoxyphenethylamine",
+    "iupac_name": "N-[2-(3-Hydroxy-4,5-dimethoxyphenyl)ethyl]formamide",
+    "category": "Peyote alkaloid",
+    "index": 2215,
+    "formular": "C11H15NO4",
+    "molecular_weight": 225.241,
+    "inChl": "1S/C11H15NO4/c1-15-10-6-8(3-4-12-7-13)5-9(14)11(10)16-2/h5-7,14H,3-4H2,1-2H3,(H,12,13)",
+    "InChl_Key": "VQEZWIYKLKRGAQ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNC=O)cc(O)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2215",
+    "validation": "m_weight unsave, calculated(225.24399999999997)"
+}

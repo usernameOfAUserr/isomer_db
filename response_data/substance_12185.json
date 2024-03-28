@@ -1,0 +1,13 @@
+{
+    "names": "Lidocaine ; Lignocaine ; Xylocaine",
+    "iupac_name": "N-(2,6-Dimethylphenyl)-N2,N2-diethylglycinamide ; 2-(Diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+    "category": "Phenetylamine",
+    "index": 12185,
+    "formular": "C14H22N2O",
+    "molecular_weight": 234.337,
+    "inChl": "1S/C14H22N2O/c1-5-16(6-2)10-13(17)15-14-11(3)8-7-9-12(14)4/h7-9H,5-6,10H2,1-4H3,(H,15,17)",
+    "InChl_Key": "NNJVILVZKWQKPM-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CC(=O)Nc1c(C)cccc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12185",
+    "validation": "m_weight unsave, calculated(234.343)"
+}

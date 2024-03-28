@@ -1,0 +1,13 @@
+{
+    "names": "CBF ; Cannabifuran",
+    "iupac_name": "6-Methyl-3-pentyl-9-(propan-2-yl)dibenzo[b,d]furan-1-ol",
+    "category": "cannabinodids",
+    "index": 8103,
+    "formular": "C21H26O2",
+    "molecular_weight": 310.43,
+    "inChl": "1S/C21H26O2/c1-5-6-7-8-15-11-17(22)20-18(12-15)23-21-14(4)9-10-16(13(2)3)19(20)21/h9-13,22H,5-8H2,1-4H3",
+    "InChl_Key": "VNGQMWZHHNCMLQ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCc1cc(O)c2c(c1)oc1c(C)ccc(C(C)C)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8103",
+    "validation": "m_weight unsave, calculated(310.437)"
+}

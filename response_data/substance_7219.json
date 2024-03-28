@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Me-DOM ; N,N-Dimethyl-2,5-dimethoxy-4-methylamphetamine",
+    "iupac_name": "1-(2,5-Dimethoxy-4-methylphenyl)-N,N-dimethylpropan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7219,
+    "formular": "C14H23NO2",
+    "molecular_weight": 237.338,
+    "inChl": "1S/C14H23NO2/c1-10-7-14(17-6)12(9-13(10)16-5)8-11(2)15(3)4/h7,9,11H,8H2,1-6H3",
+    "InChl_Key": "RIYIPRFZCLNQIN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N(C)C)c(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7219",
+    "validation": "m_weight unsave, calculated(237.34299999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-I-MA ; 2-Iodomethamphetamine",
+    "iupac_name": "1-(2-Iodophenyl)-N-methylpropan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10479,
+    "formular": "C10H14IN",
+    "molecular_weight": 275.129,
+    "inChl": "1S/C10H14IN/c1-8(12-2)7-9-5-3-4-6-10(9)11/h3-6,8,12H,7H2,1-2H3",
+    "InChl_Key": "BNVVEJKUYYWZNZ-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1ccccc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10479",
+    "validation": "m_weight unsave, calculated(275.133)"
+}

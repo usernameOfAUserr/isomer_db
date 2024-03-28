@@ -1,0 +1,13 @@
+{
+    "names": "Fluvoxamine",
+    "iupac_name": "2-{[(E)-{5-Methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene}amino]oxy}ethan-1-amine",
+    "category": "data not stored",
+    "index": 9519,
+    "formular": "C15H21F3N2O2",
+    "molecular_weight": 318.335,
+    "inChl": "1S/C15H21F3N2O2/c1-21-10-3-2-4-14(20-22-11-9-19)12-5-7-13(8-6-12)15(16,17)18/h5-8H,2-4,9-11,19H2,1H3/b20-14+",
+    "InChl_Key": "CJOFXWAVKWHTFT-XSFVSMFZSA-N",
+    "SMILES": "COCCCC/C(=N\\OCCN)c1ccc(C(F)(F)F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9519",
+    "validation": "m_weight unsave, calculated(318.3390000000001)"
+}

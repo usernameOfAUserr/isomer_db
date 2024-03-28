@@ -1,0 +1,13 @@
+{
+    "names": "N-Heptyllysergamide",
+    "iupac_name": "N-Heptyl-6-methyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N-Heptyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N-Heptyl-6-methyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 5322,
+    "formular": "C23H31N3O",
+    "molecular_weight": 365.512,
+    "inChl": "1S/C23H31N3O/c1-3-4-5-6-7-11-24-23(27)17-12-19-18-9-8-10-20-22(18)16(14-25-20)13-21(19)26(2)15-17/h8-10,12,14,17,21,25H,3-7,11,13,15H2,1-2H3,(H,24,27)/t17-,21-/m1/s1",
+    "InChl_Key": "MDMVZMYXEOCIOT-DYESRHJHSA-N",
+    "SMILES": "CCCCCCCNC(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5322",
+    "validation": "m_weight unsave, calculated(365.52100000000013)"
+}

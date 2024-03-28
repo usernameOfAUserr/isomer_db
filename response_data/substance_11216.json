@@ -1,0 +1,13 @@
+{
+    "names": "2H-2C-B ; 4-Br-3-MeO-PEA",
+    "iupac_name": "2-(4-Bromo-3-methoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 11216,
+    "formular": "C9H12BrNO",
+    "molecular_weight": 230.102,
+    "inChl": "1S/C9H12BrNO/c1-12-9-6-7(4-5-11)2-3-8(9)10/h2-3,6H,4-5,11H2,1H3",
+    "InChl_Key": "KNLHFRSNELASBY-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)ccc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11216",
+    "validation": "m_weight unsave, calculated(230.10499999999996)"
+}

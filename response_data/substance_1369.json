@@ -1,0 +1,13 @@
+{
+    "names": "Benzyl (3-{[2-(3,4-dihydroxyphenyl)-2-hydroxyethyl]amino}butyl)carbamate",
+    "iupac_name": "1369 ; C20H26N2O5 ; 374.431",
+    "category": "data not stored",
+    "index": 1369,
+    "formular": "C20H26N2O5",
+    "molecular_weight": 374.431,
+    "inChl": "1S/C20H26N2O5/c1-14(22-12-19(25)16-7-8-17(23)18(24)11-16)9-10-21-20(26)27-13-15-5-3-2-4-6-15/h2-8,11,14,19,22-25H,9-10,12-13H2,1H3,(H,21,26)",
+    "InChl_Key": "CGWWBRMBAVNWRQ-UHFFFAOYSA-N",
+    "SMILES": "CC(CCNC(=O)OCc1ccccc1)NCC(O)c1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1369",
+    "validation": "m_weight unsave, calculated(374.4370000000001)"
+}

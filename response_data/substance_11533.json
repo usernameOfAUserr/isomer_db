@@ -1,0 +1,13 @@
+{
+    "names": "SGT-104",
+    "iupac_name": "(4-Benzylpiperidin-1-yl)[1-(5-fluoropentyl)-1H-indol-3-yl]methanone",
+    "category": "cannabinodids",
+    "index": 11533,
+    "formular": "C26H31FN2O",
+    "molecular_weight": 406.536,
+    "inChl": "1S/C26H31FN2O/c27-15-7-2-8-16-29-20-24(23-11-5-6-12-25(23)29)26(30)28-17-13-22(14-18-28)19-21-9-3-1-4-10-21/h1,3-6,9-12,20,22H,2,7-8,13-19H2",
+    "InChl_Key": "BPHCOBZSRGLSSH-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1cn(CCCCCF)c2ccccc12)N1CCC(Cc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11533",
+    "validation": "m_weight unsave, calculated(406.5450000000003)"
+}

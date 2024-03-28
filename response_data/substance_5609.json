@@ -1,0 +1,13 @@
+{
+    "names": "N-(2,5-Dimethoxyphenylethyl)-NMT ; N-(2,5-Dimethoxyphenylethyl)-N-methyltryptamine",
+    "iupac_name": "2-(2,5-Dimethoxyphenyl)-N-[2-(1H-indol-3-yl)ethyl]-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5609,
+    "formular": "C21H26N2O2",
+    "molecular_weight": 338.443,
+    "inChl": "1S/C21H26N2O2/c1-23(12-10-16-14-18(24-2)8-9-21(16)25-3)13-11-17-15-22-20-7-5-4-6-19(17)20/h4-9,14-15,22H,10-13H2,1-3H3",
+    "InChl_Key": "JPJUVPFNTLRLRR-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c(CCN(C)CCc2c[nH]c3ccccc23)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5609",
+    "validation": "m_weight unsave, calculated(338.451)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "p-(tert-Butyl)thioanisole",
+    "iupac_name": "1-tert-Butyl-4-(methylsulfanyl)benzene",
+    "category": "data not stored",
+    "index": 7086,
+    "formular": "C11H16S",
+    "molecular_weight": 180.31,
+    "inChl": "1S/C11H16S/c1-11(2,3)9-5-7-10(12-4)8-6-9/h5-8H,1-4H3",
+    "InChl_Key": "JNMLIYFMOVEXEV-UHFFFAOYSA-N",
+    "SMILES": "CSc1ccc(C(C)(C)C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7086",
+    "validation": "m_weight unsave, calculated(180.31599999999995)"
+}

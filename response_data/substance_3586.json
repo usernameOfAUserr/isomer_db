@@ -1,0 +1,13 @@
+{
+    "names": "[(2Z)-2-Hydrazinylidene-1,2-dihydroquinolin-4-yl](1-{[(2R)-1-methylpiperidin-2-yl]methyl}-1H-indol-3-yl)methanone",
+    "iupac_name": "3586 ; C25H27N5O ; 413.515",
+    "category": "cannabinodids",
+    "index": 3586,
+    "formular": "C25H27N5O",
+    "molecular_weight": 413.515,
+    "inChl": "1S/C25H27N5O/c1-29-13-7-6-8-17(29)15-30-16-21(19-10-3-5-12-23(19)30)25(31)20-14-24(28-26)27-22-11-4-2-9-18(20)22/h2-5,9-12,14,16-17H,6-8,13,15,26H2,1H3,(H,27,28)/t17-/m1/s1",
+    "InChl_Key": "KSKQACATYSWOCN-QGZVFWFLSA-N",
+    "SMILES": "CN1CCCC[C@@H]1Cn1cc(C(=O)c2c/c(=N/N)[nH]c3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3586",
+    "validation": "m_weight unsave, calculated(413.52500000000015)"
+}

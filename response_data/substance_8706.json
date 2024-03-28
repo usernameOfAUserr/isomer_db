@@ -1,0 +1,13 @@
+{
+    "names": "Arecoline",
+    "iupac_name": "Methyl 1-methyl-1,2,5,6-tetrahydropyridine-3-carboxylate",
+    "category": "data not stored",
+    "index": 8706,
+    "formular": "C8H13NO2",
+    "molecular_weight": 155.194,
+    "inChl": "1S/C8H13NO2/c1-9-5-3-4-7(6-9)8(10)11-2/h4H,3,5-6H2,1-2H3",
+    "InChl_Key": "HJJPJSXJAXAIPN-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C1=CCCN(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8706",
+    "validation": "m_weight unsave, calculated(155.197)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Me-3-Cl-PEA ; N,N-Dimethyl-3-chlorophenethylamine",
+    "iupac_name": "2-(3-Chlorophenyl)-N,N-dimethylethan-1-amine",
+    "category": "data not stored",
+    "index": 1572,
+    "formular": "C10H14ClN",
+    "molecular_weight": 183.678,
+    "inChl": "1S/C10H14ClN/c1-12(2)7-6-9-4-3-5-10(11)8-9/h3-5,8H,6-7H2,1-2H3",
+    "InChl_Key": "BKRCVTMYFIKQPN-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1cccc(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1572",
+    "validation": "m_weight unsave, calculated(183.682)"
+}

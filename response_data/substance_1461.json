@@ -1,0 +1,13 @@
+{
+    "names": "2,5-HO-4-ClPEA ; 4-Chloro-2,5-dihydroxyphenethylamine",
+    "iupac_name": "2-(2-Aminoethyl)-5-chlorobenzene-1,4-diol",
+    "category": "data not stored",
+    "index": 1461,
+    "formular": "C8H10ClNO2",
+    "molecular_weight": 187.624,
+    "inChl": "1S/C8H10ClNO2/c9-6-4-7(11)5(1-2-10)3-8(6)12/h3-4,11-12H,1-2,10H2",
+    "InChl_Key": "MQIBVCQBVGKYNC-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cc(O)c(Cl)cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1461",
+    "validation": "m_weight unsave, calculated(187.62599999999998)"
+}

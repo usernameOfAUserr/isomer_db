@@ -1,0 +1,13 @@
+{
+    "names": "(4E)-N-(2-Phenylethyl)-5-(pyridin-3-yl)pent-4-en-1-amine",
+    "iupac_name": "10690 ; C18H22N2 ; 266.381",
+    "category": "Phenetylamine",
+    "index": 10690,
+    "formular": "C18H22N2",
+    "molecular_weight": 266.381,
+    "inChl": "1S/C18H22N2/c1-3-8-17(9-4-1)12-15-19-13-6-2-5-10-18-11-7-14-20-16-18/h1,3-5,7-11,14,16,19H,2,6,12-13,15H2/b10-5+",
+    "InChl_Key": "DSUKBESLHOUBDY-BJMVGYQFSA-N",
+    "SMILES": "C(=C/c1cccnc1)\\CCCNCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10690",
+    "validation": "m_weight unsave, calculated(266.388)"
+}

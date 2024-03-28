@@ -1,0 +1,13 @@
+{
+    "names": "4F-TB",
+    "iupac_name": "2-{4-[(4-Fluorobutyl)sulfanyl]-3,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "data not stored",
+    "index": 13447,
+    "formular": "C14H22FNO2S",
+    "molecular_weight": 287.393,
+    "inChl": "1S/C14H22FNO2S/c1-17-12-9-11(5-7-16)10-13(18-2)14(12)19-8-4-3-6-15/h9-10H,3-8,16H2,1-2H3",
+    "InChl_Key": "XOBHSSXXIZNYDI-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(OC)c1SCCCCF",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13447",
+    "validation": "m_weight unsave, calculated(287.4)"
+}

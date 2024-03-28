@@ -1,0 +1,13 @@
+{
+    "names": "2-(Dimethylamino)-1-(2-methoxyphenyl)ethan-1-one ; 2-(Dimethylamino)-1-(2-methoxyphenyl)ethanone",
+    "iupac_name": "2520 ; C11H15NO2 ; 193.242",
+    "category": "data not stored",
+    "index": 2520,
+    "formular": "C11H15NO2",
+    "molecular_weight": 193.242,
+    "inChl": "1S/C11H15NO2/c1-12(2)8-10(13)9-6-4-5-7-11(9)14-3/h4-7H,8H2,1-3H3",
+    "InChl_Key": "XTEYYSRZKHMKIS-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1C(=O)CN(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2520",
+    "validation": "m_weight unsave, calculated(193.24599999999995)"
+}

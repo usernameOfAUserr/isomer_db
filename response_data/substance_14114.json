@@ -1,0 +1,13 @@
+{
+    "names": "SB-206553",
+    "iupac_name": "5-Methyl-N-(pyridin-2-yl)-3,5-dihydropyrrolo[2,3-f]indole-1(2H)-carboxamide",
+    "category": "data not stored",
+    "index": 14114,
+    "formular": "C17H16N4O",
+    "molecular_weight": 292.335,
+    "inChl": "1S/C17H16N4O/c1-20-8-5-12-11-15-13(10-14(12)20)6-9-21(15)17(22)19-16-4-2-3-7-18-16/h2-5,7-8,10-11H,6,9H2,1H3,(H,18,19,22)",
+    "InChl_Key": "FZWWVCLHOQKQGY-UHFFFAOYSA-N",
+    "SMILES": "Cn1ccc2cc3c(cc21)CCN3C(=O)Nc1ccccn1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14114",
+    "validation": "m_weight unsave, calculated(292.34200000000004)"
+}

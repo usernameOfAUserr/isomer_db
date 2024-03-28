@@ -1,0 +1,13 @@
+{
+    "names": "N-Acetyl 2C-B ; N-Acetyl-4-bromo-2,5-dimethoxyphenethylamine",
+    "iupac_name": "N-[2-(4-Bromo-2,5-dimethoxyphenyl)ethyl]acetamide",
+    "category": "data not stored",
+    "index": 1923,
+    "formular": "C12H16BrNO3",
+    "molecular_weight": 302.164,
+    "inChl": "1S/C12H16BrNO3/c1-8(15)14-5-4-9-6-12(17-3)10(13)7-11(9)16-2/h6-7H,4-5H2,1-3H3,(H,14,15)",
+    "InChl_Key": "FPJLSDPZIUNKGU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNC(C)=O)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1923",
+    "validation": "m_weight unsave, calculated(302.16800000000006)"
+}

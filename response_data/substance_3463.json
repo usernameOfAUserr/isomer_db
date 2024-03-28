@@ -1,0 +1,13 @@
+{
+    "names": "Pynazolam",
+    "iupac_name": "1-Methyl-8-nitro-6-(pyridin-2-yl)-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine",
+    "category": "Aryldiazepine",
+    "index": 3463,
+    "formular": "C16H12N6O2",
+    "molecular_weight": 320.305,
+    "inChl": "1S/C16H12N6O2/c1-10-19-20-15-9-18-16(13-4-2-3-7-17-13)12-8-11(22(23)24)5-6-14(12)21(10)15/h2-8H,9H2,1H3",
+    "InChl_Key": "TULLJLNDPPOHKC-UHFFFAOYSA-N",
+    "SMILES": "Cc1nnc2n1-c1ccc([N+](=O)[O-])cc1C(c1ccccn1)=NC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3463",
+    "validation": "m_weight unsave, calculated(320.312)"
+}

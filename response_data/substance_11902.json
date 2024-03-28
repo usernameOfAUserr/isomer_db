@@ -1,0 +1,13 @@
+{
+    "names": "Di-fentanyl",
+    "iupac_name": "N,N\u2032-([1,1\u2032-Biphenyl]-4,4\u2032-diyl)bis{N-[1-(2-phenylethyl)piperidin-4-yl]propanamide}",
+    "category": "data not stored",
+    "index": 11902,
+    "formular": "C44H54N4O2",
+    "molecular_weight": 670.925,
+    "inChl": "1S/C44H54N4O2/c1-3-43(49)47(41-25-31-45(32-26-41)29-23-35-11-7-5-8-12-35)39-19-15-37(16-20-39)38-17-21-40(22-18-38)48(44(50)4-2)42-27-33-46(34-28-42)30-24-36-13-9-6-10-14-36/h5-22,41-42H,3-4,23-34H2,1-2H3",
+    "InChl_Key": "TZNOQWHMBJLJLN-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccc(-c2ccc(N(C(=O)CC)C3CCN(CCc4ccccc4)CC3)cc2)cc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11902",
+    "validation": "m_weight unsave, calculated(670.9420000000001)"
+}

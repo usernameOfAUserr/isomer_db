@@ -1,0 +1,13 @@
+{
+    "names": "Cyclothiazide",
+    "iupac_name": "3-(Bicyclo[2.2.1]hept-5-en-2-yl)-6-chloro-1,1-dioxo-1,2,3,4-tetrahydro-1\u03bb6,2,4-benzothiadiazine-7-sulfonamide",
+    "category": "data not stored",
+    "index": 3725,
+    "formular": "C14H16ClN3O4S2",
+    "molecular_weight": 389.878,
+    "inChl": "1S/C14H16ClN3O4S2/c15-10-5-11-13(6-12(10)23(16,19)20)24(21,22)18-14(17-11)9-4-7-1-2-8(9)3-7/h1-2,5-9,14,17-18H,3-4H2,(H2,16,19,20)",
+    "InChl_Key": "BOCUKUHCLICSIY-UHFFFAOYSA-N",
+    "SMILES": "NS(=O)(=O)c1cc2c(cc1Cl)NC(C1CC3C=CC1C3)NS2(=O)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3725",
+    "validation": "m_weight unsave, calculated(389.88600000000014)"
+}

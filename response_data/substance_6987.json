@@ -1,0 +1,13 @@
+{
+    "names": "Norsufentanil",
+    "iupac_name": "N-[4-(Methoxymethyl)piperidin-4-yl]-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 6987,
+    "formular": "C16H24N2O2",
+    "molecular_weight": 276.374,
+    "inChl": "1S/C16H24N2O2/c1-3-15(19)18(14-7-5-4-6-8-14)16(13-20-2)9-11-17-12-10-16/h4-8,17H,3,9-13H2,1-2H3",
+    "InChl_Key": "ULOZGJWEIWAWML-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1(COC)CCNCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6987",
+    "validation": "m_weight unsave, calculated(276.38000000000005)"
+}

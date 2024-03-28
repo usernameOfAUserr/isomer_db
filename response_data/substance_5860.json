@@ -1,0 +1,13 @@
+{
+    "names": "5-PrO-NMT ; 5-Propoxy-N-methyltryptamine",
+    "iupac_name": "N-Methyl-2-(5-propoxy-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5860,
+    "formular": "C14H20N2O",
+    "molecular_weight": 232.321,
+    "inChl": "1S/C14H20N2O/c1-3-8-17-12-4-5-14-13(9-12)11(10-16-14)6-7-15-2/h4-5,9-10,15-16H,3,6-8H2,1-2H3",
+    "InChl_Key": "PIBGHIUMDRKMBE-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1ccc2[nH]cc(CCNC)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5860",
+    "validation": "m_weight unsave, calculated(232.32699999999997)"
+}

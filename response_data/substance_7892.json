@@ -1,0 +1,13 @@
+{
+    "names": "4-Fluorokynurenine ; 4-F-Kynurenine",
+    "iupac_name": "2-Amino-4-(2-amino-4-fluorophenyl)-4-oxobutanoic acid",
+    "category": "data not stored",
+    "index": 7892,
+    "formular": "C10H11FN2O3",
+    "molecular_weight": 226.204,
+    "inChl": "1S/C10H11FN2O3/c11-5-1-2-6(7(12)3-5)9(14)4-8(13)10(15)16/h1-3,8H,4,12-13H2,(H,15,16)",
+    "InChl_Key": "HBZXXBQBSXMCSM-UHFFFAOYSA-N",
+    "SMILES": "Nc1cc(F)ccc1C(=O)CC(N)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7892",
+    "validation": "m_weight unsave, calculated(226.207)"
+}

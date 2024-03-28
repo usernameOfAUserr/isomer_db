@@ -1,0 +1,13 @@
+{
+    "names": "Delmorphan-A",
+    "iupac_name": "N-[(1R,5R,7S)-5-(3-Hydroxyphenyl)-4-methyl-2-(3-phenylpropyl)-2-azabicyclo[3.3.1]nonan-7-yl]-2-methyl-2-phenylpropanamide",
+    "category": "data not stored",
+    "index": 12592,
+    "formular": "C34H42N2O2",
+    "molecular_weight": 510.709,
+    "inChl": "1S/C34H42N2O2/c1-25-24-36(19-11-14-26-12-6-4-7-13-26)30-21-29(22-34(25,23-30)28-17-10-18-31(37)20-28)35-32(38)33(2,3)27-15-8-5-9-16-27/h4-10,12-13,15-18,20,25,29-30,37H,11,14,19,21-24H2,1-3H3,(H,35,38)/t25?,29-,30+,34-/m1/s1",
+    "InChl_Key": "YEFGMGCEOZCNNZ-SHIDQMEHSA-N",
+    "SMILES": "CC1CN(CCCc2ccccc2)[C@H]2C[C@@H](NC(=O)C(C)(C)c3ccccc3)C[C@@]1(c1cccc(O)c1)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12592",
+    "validation": "m_weight unsave, calculated(510.7220000000002)"
+}

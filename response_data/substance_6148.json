@@ -1,0 +1,13 @@
+{
+    "names": "Phenylpropyl-acetyl-norfentanyl",
+    "iupac_name": "N-Phenyl-N-[1-(3-phenylpropyl)piperidin-4-yl]acetamide",
+    "category": "Fentanyl",
+    "index": 6148,
+    "formular": "C22H28N2O",
+    "molecular_weight": 336.471,
+    "inChl": "1S/C22H28N2O/c1-19(25)24(21-12-6-3-7-13-21)22-14-17-23(18-15-22)16-8-11-20-9-4-2-5-10-20/h2-7,9-10,12-13,22H,8,11,14-18H2,1H3",
+    "InChl_Key": "QZTILTHMQXTRFP-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)N(c1ccccc1)C1CCN(CCCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6148",
+    "validation": "m_weight unsave, calculated(336.479)"
+}

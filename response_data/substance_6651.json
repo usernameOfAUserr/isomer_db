@@ -1,0 +1,13 @@
+{
+    "names": "MEA ; 4-Ethoxy-3-methoxyamphetamine",
+    "iupac_name": "1-(4-Ethoxy-3-methoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 6651,
+    "formular": "C12H19NO2",
+    "molecular_weight": 209.285,
+    "inChl": "1S/C12H19NO2/c1-4-15-11-6-5-10(7-9(2)13)8-12(11)14-3/h5-6,8-9H,4,7,13H2,1-3H3",
+    "InChl_Key": "RVWFZIVXDDQMII-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6651",
+    "validation": "m_weight unsave, calculated(209.28899999999996)"
+}

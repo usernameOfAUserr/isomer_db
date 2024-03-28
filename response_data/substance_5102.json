@@ -1,0 +1,13 @@
+{
+    "names": "6-HO-DMT ; 6-Hydroxy-N,N-dimethyltryptamine ; 6-Hydroxy-DMT",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-1H-indol-6-ol",
+    "category": "Tryptamine",
+    "index": 5102,
+    "formular": "C12H16N2O",
+    "molecular_weight": 204.268,
+    "inChl": "1S/C12H16N2O/c1-14(2)6-5-9-8-13-12-7-10(15)3-4-11(9)12/h3-4,7-8,13,15H,5-6H2,1-2H3",
+    "InChl_Key": "WUQMRWPLIMXBDX-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2cc(O)ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5102",
+    "validation": "m_weight unsave, calculated(204.273)"
+}

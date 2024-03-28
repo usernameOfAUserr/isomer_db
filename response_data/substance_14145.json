@@ -1,0 +1,13 @@
+{
+    "names": "AAM NS ; 3,4,5-Trimethoxy-\u03b2-pentyl-\u03b2-nitrostyrene",
+    "iupac_name": "1,2,3-Trimethoxy-5-[(1E)-2-nitrohept-1-en-1-yl]benzene",
+    "category": "data not stored",
+    "index": 14145,
+    "formular": "C16H23NO5",
+    "molecular_weight": 309.358,
+    "inChl": "1S/C16H23NO5/c1-5-6-7-8-13(17(18)19)9-12-10-14(20-2)16(22-4)15(11-12)21-3/h9-11H,5-8H2,1-4H3/b13-9+",
+    "InChl_Key": "RLTMGAGHBAVTKO-UKTHLTGXSA-N",
+    "SMILES": "CCCCC/C(=C\\c1cc(OC)c(OC)c(OC)c1)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14145",
+    "validation": "m_weight unsave, calculated(309.362)"
+}

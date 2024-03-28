@@ -1,0 +1,13 @@
+{
+    "names": "2,2,2-TFE NS ; 3,5-Dimethoxy-4-(2,2,2-trifluoroethoxy)-\u03b2-nitrostyrene",
+    "iupac_name": "1,3-Dimethoxy-5-[(E)-2-nitroethenyl]-2-(2,2,2-trifluoroethoxy)benzene",
+    "category": "data not stored",
+    "index": 1935,
+    "formular": "C12H12F3NO5",
+    "molecular_weight": 307.223,
+    "inChl": "1S/C12H12F3NO5/c1-19-9-5-8(3-4-16(17)18)6-10(20-2)11(9)21-7-12(13,14)15/h3-6H,7H2,1-2H3/b4-3+",
+    "InChl_Key": "FERBBVBHBLOIPD-ONEGZZNKSA-N",
+    "SMILES": "COc1cc(/C=C/[N+](=O)[O-])cc(OC)c1OCC(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1935",
+    "validation": "m_weight unsave, calculated(307.224)"
+}

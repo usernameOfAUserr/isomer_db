@@ -1,0 +1,13 @@
+{
+    "names": "1-(Cyclohepta-2,4,6-trien-1-yl)propan-2-amine",
+    "iupac_name": "12177 ; C10H15N ; 149.233",
+    "category": "Phenetylamine",
+    "index": 12177,
+    "formular": "C10H15N",
+    "molecular_weight": 149.233,
+    "inChl": "1S/C10H15N/c1-9(11)8-10-6-4-2-3-5-7-10/h2-7,9-10H,8,11H2,1H3",
+    "InChl_Key": "PMCJBKGMFXNMPB-UHFFFAOYSA-N",
+    "SMILES": "CC(N)CC1C=CC=CC=C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12177",
+    "validation": "m_weight unsave, calculated(149.23699999999997)"
+}

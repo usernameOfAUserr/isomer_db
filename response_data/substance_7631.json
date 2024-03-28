@@ -1,0 +1,13 @@
+{
+    "names": "N-CPM-M ; N-Cyclopropylmethyl-3,4,5-trimethoxyphenethylamine",
+    "iupac_name": "N-(Cyclopropylmethyl)-2-(3,4,5-trimethoxyphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7631,
+    "formular": "C15H23NO3",
+    "molecular_weight": 265.348,
+    "inChl": "1S/C15H23NO3/c1-17-13-8-12(6-7-16-10-11-4-5-11)9-14(18-2)15(13)19-3/h8-9,11,16H,4-7,10H2,1-3H3",
+    "InChl_Key": "DFDALGJXCBUKHT-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCC2CC2)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7631",
+    "validation": "m_weight unsave, calculated(265.353)"
+}

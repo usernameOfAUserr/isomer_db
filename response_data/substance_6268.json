@@ -1,0 +1,13 @@
+{
+    "names": "4\u2033-HO-4\u2033-Ph-PCP",
+    "iupac_name": "4-Phenyl-1-(1-phenylcyclohexyl)piperidin-4-ol",
+    "category": "Arylcycloalkylamine",
+    "index": 6268,
+    "formular": "C23H29NO",
+    "molecular_weight": 335.482,
+    "inChl": "1S/C23H29NO/c25-23(21-12-6-2-7-13-21)16-18-24(19-17-23)22(14-8-3-9-15-22)20-10-4-1-5-11-20/h1-2,4-7,10-13,25H,3,8-9,14-19H2",
+    "InChl_Key": "QIFDQIWFDPDODM-UHFFFAOYSA-N",
+    "SMILES": "OC1(c2ccccc2)CCN(C2(c3ccccc3)CCCCC2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6268",
+    "validation": "m_weight unsave, calculated(335.491)"
+}

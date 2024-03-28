@@ -1,0 +1,13 @@
+{
+    "names": "N-Bu-2-AT ; N-Butyl-2-aminotetralin",
+    "iupac_name": "N-Butyl-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "category": "data not stored",
+    "index": 1321,
+    "formular": "C14H21N",
+    "molecular_weight": 203.323,
+    "inChl": "1S/C14H21N/c1-2-3-10-15-14-9-8-12-6-4-5-7-13(12)11-14/h4-7,14-15H,2-3,8-11H2,1H3",
+    "InChl_Key": "FSXXDNPGFQZQSR-UHFFFAOYSA-N",
+    "SMILES": "CCCCNC1CCc2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1321",
+    "validation": "m_weight unsave, calculated(203.32899999999998)"
+}

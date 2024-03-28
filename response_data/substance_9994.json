@@ -1,0 +1,13 @@
+{
+    "names": "5-Br-\u03b1-PBT",
+    "iupac_name": "1-(5-Bromothiophen-2-yl)-2-(pyrrolidin-1-yl)butan-1-one",
+    "category": "data not stored",
+    "index": 9994,
+    "formular": "C12H16BrNOS",
+    "molecular_weight": 302.231,
+    "inChl": "1S/C12H16BrNOS/c1-2-9(14-7-3-4-8-14)12(15)10-5-6-11(13)16-10/h5-6,9H,2-4,7-8H2,1H3",
+    "InChl_Key": "XTQJHDYGODVHRX-UHFFFAOYSA-N",
+    "SMILES": "CCC(C(=O)c1ccc(Br)s1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9994",
+    "validation": "m_weight unsave, calculated(302.23700000000014)"
+}

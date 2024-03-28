@@ -1,0 +1,13 @@
+{
+    "names": "SGT-36",
+    "iupac_name": "[1-(Cyclohexylmethyl)-1H-indazol-3-yl](4-methoxynaphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 11287,
+    "formular": "C26H26N2O2",
+    "molecular_weight": 398.497,
+    "inChl": "1S/C26H26N2O2/c1-30-24-16-15-21(19-11-5-6-12-20(19)24)26(29)25-22-13-7-8-14-23(22)28(27-25)17-18-9-3-2-4-10-18/h5-8,11-16,18H,2-4,9-10,17H2,1H3",
+    "InChl_Key": "LDMQNXUAUPKSFM-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C(=O)c2nn(CC3CCCCC3)c3ccccc23)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11287",
+    "validation": "m_weight unsave, calculated(398.50600000000026)"
+}

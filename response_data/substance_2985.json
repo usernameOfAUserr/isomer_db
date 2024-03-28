@@ -1,0 +1,13 @@
+{
+    "names": "BBPYR-4-MA",
+    "iupac_name": "1-(7-Bromo-6-methoxy-3,4-dihydro-2H-1-benzopyran-4-yl)methanamine",
+    "category": "data not stored",
+    "index": 2985,
+    "formular": "C11H14BrNO2",
+    "molecular_weight": 272.138,
+    "inChl": "1S/C11H14BrNO2/c1-14-11-4-8-7(6-13)2-3-15-10(8)5-9(11)12/h4-5,7H,2-3,6,13H2,1H3",
+    "InChl_Key": "CIIPWXYBJOENDA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(cc1Br)OCCC2CN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2985",
+    "validation": "m_weight unsave, calculated(272.14199999999994)"
+}

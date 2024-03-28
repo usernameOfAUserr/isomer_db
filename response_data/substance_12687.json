@@ -1,0 +1,13 @@
+{
+    "names": "Pycnarrhine",
+    "iupac_name": "7-Hydroxy-6-methoxy-2-methyl-3,4-dihydroisoquinolin-2-ium",
+    "category": "data not stored",
+    "index": 12687,
+    "formular": "C11H13NO2",
+    "molecular_weight": 191.226,
+    "inChl": "1S/C11H13NO2/c1-12-4-3-8-6-11(14-2)10(13)5-9(8)7-12/h5-7H,3-4H2,1-2H3/p+1",
+    "InChl_Key": "KOMKGIRKSWCPSF-UHFFFAOYSA-O",
+    "SMILES": "COc1cc2c(cc1O)C=[N+](C)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12687",
+    "validation": "m_weight unsave, calculated(192.238)formular unsave, calculated(C11H14NO2+)"
+}

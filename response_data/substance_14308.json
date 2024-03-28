@@ -1,0 +1,13 @@
+{
+    "names": "N-(4-{[2-(3,4-Dihydroxyphenyl)-2-hydroxyethyl]amino}pentyl)-2-methylbenzamide",
+    "iupac_name": "14308 ; C21H28N2O4 ; 372.458",
+    "category": "data not stored",
+    "index": 14308,
+    "formular": "C21H28N2O4",
+    "molecular_weight": 372.458,
+    "inChl": "1S/C21H28N2O4/c1-14-6-3-4-8-17(14)21(27)22-11-5-7-15(2)23-13-20(26)16-9-10-18(24)19(25)12-16/h3-4,6,8-10,12,15,20,23-26H,5,7,11,13H2,1-2H3,(H,22,27)",
+    "InChl_Key": "ZERPGLOPMSMXHI-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccccc1C(=O)NCCCC(C)NCC(O)c1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14308",
+    "validation": "m_weight unsave, calculated(372.4650000000001)"
+}

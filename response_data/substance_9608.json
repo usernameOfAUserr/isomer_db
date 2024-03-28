@@ -1,0 +1,13 @@
+{
+    "names": "4-Carboxy-MA-NBOMe ; N-(2-Methoxybenzyl)-N-methyl-4-carboxyamphetamine",
+    "iupac_name": "4-(2-{[(2-Methoxyphenyl)methyl](methyl)amino}propyl)benzoic acid",
+    "category": "data not stored",
+    "index": 9608,
+    "formular": "C19H23NO3",
+    "molecular_weight": 313.391,
+    "inChl": "1S/C19H23NO3/c1-14(12-15-8-10-16(11-9-15)19(21)22)20(2)13-17-6-4-5-7-18(17)23-3/h4-11,14H,12-13H2,1-3H3,(H,21,22)",
+    "InChl_Key": "LYGCPZVJHPSDGH-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CN(C)C(C)Cc1ccc(C(=O)O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9608",
+    "validation": "m_weight unsave, calculated(313.39700000000005)"
+}

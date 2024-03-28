@@ -1,0 +1,13 @@
+{
+    "names": "4C-B-BOC",
+    "iupac_name": "tert-Butyl [1-(4-bromo-2,5-dimethoxyphenyl)butan-2-yl]carbamate",
+    "category": "data not stored",
+    "index": 13876,
+    "formular": "C17H26BrNO4",
+    "molecular_weight": 388.297,
+    "inChl": "1S/C17H26BrNO4/c1-7-12(19-16(20)23-17(2,3)4)8-11-9-15(22-6)13(18)10-14(11)21-5/h9-10,12H,7-8H2,1-6H3,(H,19,20)",
+    "InChl_Key": "YOBDJGIHVQFSSK-UHFFFAOYSA-N",
+    "SMILES": "CCC(Cc1cc(OC)c(Br)cc1OC)NC(=O)OC(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13876",
+    "validation": "m_weight unsave, calculated(388.30200000000013)"
+}

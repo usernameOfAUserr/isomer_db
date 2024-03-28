@@ -1,0 +1,13 @@
+{
+    "names": "MPBP ; 4\u2032-Methyl-\u03b1-(pyrrolidin-1-yl)butanophenone",
+    "iupac_name": "1-(4-Methylphenyl)-2-(pyrrolidin-1-yl)butan-1-one",
+    "category": "data not stored",
+    "index": 2118,
+    "formular": "C15H21NO",
+    "molecular_weight": 231.333,
+    "inChl": "1S/C15H21NO/c1-3-14(16-10-4-5-11-16)15(17)13-8-6-12(2)7-9-13/h6-9,14H,3-5,10-11H2,1-2H3",
+    "InChl_Key": "NXNPGAAZKYDOPW-UHFFFAOYSA-N",
+    "SMILES": "CCC(C(=O)c1ccc(C)cc1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2118",
+    "validation": "m_weight unsave, calculated(231.33899999999994)"
+}

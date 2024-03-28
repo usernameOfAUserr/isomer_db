@@ -1,0 +1,13 @@
+{
+    "names": "Gigantine (Earlier, incorrect structure)",
+    "iupac_name": "6,7-Dimethoxy-1,2-dimethyl-1,2,3,4-tetrahydroisoquinolin-4-ol",
+    "category": "data not stored",
+    "index": 2260,
+    "formular": "C13H19NO3",
+    "molecular_weight": 237.295,
+    "inChl": "1S/C13H19NO3/c1-8-9-5-12(16-3)13(17-4)6-10(9)11(15)7-14(8)2/h5-6,8,11,15H,7H2,1-4H3",
+    "InChl_Key": "QGPSUGJXPDZRPF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(cc1OC)C(C)N(C)CC2O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2260",
+    "validation": "m_weight unsave, calculated(237.29899999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "MTTA ; Mephtetramine",
+    "iupac_name": "2-[(Methylamino)methyl]-3,4-dihydronaphthalen-1(2H)-one",
+    "category": "data not stored",
+    "index": 1287,
+    "formular": "C12H15NO",
+    "molecular_weight": 189.254,
+    "inChl": "1S/C12H15NO/c1-13-8-10-7-6-9-4-2-3-5-11(9)12(10)14/h2-5,10,13H,6-8H2,1H3",
+    "InChl_Key": "FTRWLSZFQILOOD-UHFFFAOYSA-N",
+    "SMILES": "CNCC1CCc2ccccc2C1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1287",
+    "validation": "m_weight unsave, calculated(189.258)"
+}

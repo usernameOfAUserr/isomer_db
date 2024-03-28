@@ -1,0 +1,13 @@
+{
+    "names": "Phenyl{1-[(propan-2-yl)amino]cyclopentyl}methanone",
+    "iupac_name": "14756 ; C15H21NO ; 231.333",
+    "category": "data not stored",
+    "index": 14756,
+    "formular": "C15H21NO",
+    "molecular_weight": 231.333,
+    "inChl": "1S/C15H21NO/c1-12(2)16-15(10-6-7-11-15)14(17)13-8-4-3-5-9-13/h3-5,8-9,12,16H,6-7,10-11H2,1-2H3",
+    "InChl_Key": "FHDAULHLMWHMBT-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NC1(C(=O)c2ccccc2)CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14756",
+    "validation": "m_weight unsave, calculated(231.33900000000003)"
+}

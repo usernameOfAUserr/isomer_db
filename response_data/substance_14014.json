@@ -1,0 +1,13 @@
+{
+    "names": "N-(3C-B-FLY) fentanyl",
+    "iupac_name": "N-{1-[1-(8-Bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl)propan-2-yl]piperidin-4-yl}-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 14014,
+    "formular": "C27H33BrN2O3",
+    "molecular_weight": 513.467,
+    "inChl": "1S/C27H33BrN2O3/c1-3-24(31)30(19-7-5-4-6-8-19)20-9-13-29(14-10-20)18(2)17-23-21-11-15-33-27(21)25(28)22-12-16-32-26(22)23/h4-8,18,20H,3,9-17H2,1-2H3",
+    "InChl_Key": "LVFPLZZLKWURRJ-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1CCN(C(C)Cc2c3c(c(Br)c4c2OCC4)OCC3)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14014",
+    "validation": "m_weight unsave, calculated(513.4760000000003)"
+}

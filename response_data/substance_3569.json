@@ -1,0 +1,13 @@
+{
+    "names": "(1-{[(2-Methylpropyl)sulfanyl]methyl}-1H-indol-3-yl)(naphthalen-1-yl)methanone",
+    "iupac_name": "3569 ; C24H23NOS ; 373.511",
+    "category": "cannabinodids",
+    "index": 3569,
+    "formular": "C24H23NOS",
+    "molecular_weight": 373.511,
+    "inChl": "1S/C24H23NOS/c1-17(2)15-27-16-25-14-22(20-11-5-6-13-23(20)25)24(26)21-12-7-9-18-8-3-4-10-19(18)21/h3-14,17H,15-16H2,1-2H3",
+    "InChl_Key": "NWUHHXZKRKNNTM-UHFFFAOYSA-N",
+    "SMILES": "CC(C)CSCn1cc(C(=O)c2cccc3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3569",
+    "validation": "m_weight unsave, calculated(373.5210000000001)"
+}

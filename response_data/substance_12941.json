@@ -1,0 +1,13 @@
+{
+    "names": "IHCH-7081",
+    "iupac_name": "2-{2-[(6bR,10aS)-3-Methyl-2,3,6b,9,10,10a-hexahydro-1H-pyrido[3\u2032,4\u2032:4,5]pyrrolo[1,2,3-de]quinoxalin-8(7H)-yl]ethyl}phenol",
+    "category": "data not stored",
+    "index": 12941,
+    "formular": "C22H27N3O",
+    "molecular_weight": 349.469,
+    "inChl": "1S/C22H27N3O/c1-23-13-14-25-19-10-12-24(11-9-16-5-2-3-8-21(16)26)15-18(19)17-6-4-7-20(23)22(17)25/h2-8,18-19,26H,9-15H2,1H3/t18-,19-/m0/s1",
+    "InChl_Key": "ZWJWUYMPJMMDKX-OALUTQOASA-N",
+    "SMILES": "CN1CCN2c3c(cccc31)[C@@H]1CN(CCc3ccccc3O)CC[C@@H]12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12941",
+    "validation": "m_weight unsave, calculated(349.4780000000001)"
+}

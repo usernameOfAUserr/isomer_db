@@ -1,0 +1,13 @@
+{
+    "names": "4-BnO-3,5-DMBAL ; 4-Benzyloxy-3,5-dimethoxybenzaldehyde",
+    "iupac_name": "4-(Benzyloxy)-3,5-dimethoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 11526,
+    "formular": "C16H16O4",
+    "molecular_weight": 272.296,
+    "inChl": "1S/C16H16O4/c1-18-14-8-13(10-17)9-15(19-2)16(14)20-11-12-6-4-3-5-7-12/h3-10H,11H2,1-2H3",
+    "InChl_Key": "AGQUHZIDRBKPNN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C=O)cc(OC)c1OCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11526",
+    "validation": "m_weight unsave, calculated(272.3)"
+}

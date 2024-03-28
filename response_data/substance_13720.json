@@ -1,0 +1,13 @@
+{
+    "names": "3-Methyl-1-[(3-methyloxetan-3-yl)methyl]-5-(1-methyl-1H-pyrazol-4-yl)-1,2,3,6-tetrahydropyridine",
+    "iupac_name": "13720 ; C15H23N3O ; 261.363",
+    "category": "data not stored",
+    "index": 13720,
+    "formular": "C15H23N3O",
+    "molecular_weight": 261.363,
+    "inChl": "1S/C15H23N3O/c1-12-4-13(14-5-16-17(3)7-14)8-18(6-12)9-15(2)10-19-11-15/h4-5,7,12H,6,8-11H2,1-3H3",
+    "InChl_Key": "XHCUDWSCWOZELX-UHFFFAOYSA-N",
+    "SMILES": "CC1C=C(c2cnn(C)c2)CN(CC2(C)COC2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13720",
+    "validation": "m_weight unsave, calculated(261.36899999999997)"
+}

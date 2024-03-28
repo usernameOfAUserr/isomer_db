@@ -1,0 +1,13 @@
+{
+    "names": "6-(4-Chlorophenyl)-3-({3-[(4-hydroxypiperidin-1-yl)methyl]quinolin-8-yl}methyl)thieno[3,2-d]pyrimidin-4(3H)-one",
+    "iupac_name": "9762 ; C28H25ClN4O2S ; 517.042",
+    "category": "data not stored",
+    "index": 9762,
+    "formular": "C28H25ClN4O2S",
+    "molecular_weight": 517.042,
+    "inChl": "1S/C28H25ClN4O2S/c29-22-6-4-19(5-7-22)25-13-24-27(36-25)28(35)33(17-31-24)16-21-3-1-2-20-12-18(14-30-26(20)21)15-32-10-8-23(34)9-11-32/h1-7,12-14,17,23,34H,8-11,15-16H2",
+    "InChl_Key": "DOSLTOINSAMWEA-UHFFFAOYSA-N",
+    "SMILES": "O=c1c2sc(-c3ccc(Cl)cc3)cc2ncn1Cc1cccc2cc(CN3CCC(O)CC3)cnc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9762",
+    "validation": "m_weight unsave, calculated(517.0540000000002)"
+}

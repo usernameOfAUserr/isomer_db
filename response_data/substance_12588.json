@@ -1,0 +1,13 @@
+{
+    "names": "Pramipexole",
+    "iupac_name": "(6S)-N6-Propyl-4,5,6,7-tetrahydro-1,3-benzothiazole-2,6-diamine",
+    "category": "data not stored",
+    "index": 12588,
+    "formular": "C10H17N3S",
+    "molecular_weight": 211.327,
+    "inChl": "1S/C10H17N3S/c1-2-5-12-7-3-4-8-9(6-7)14-10(11)13-8/h7,12H,2-6H2,1H3,(H2,11,13)/t7-/m0/s1",
+    "InChl_Key": "FASDKYOPVNHBLU-ZETCQYMHSA-N",
+    "SMILES": "CCCN[C@H]1CCc2nc(N)sc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12588",
+    "validation": "m_weight unsave, calculated(211.33399999999997)"
+}

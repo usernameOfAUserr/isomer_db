@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-DALT ; 4-Hydroxy-N,N-diallyltryptamine",
+    "iupac_name": "3-{2-[Di(prop-2-en-1-yl)amino]ethyl}-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 5530,
+    "formular": "C16H20N2O",
+    "molecular_weight": 256.343,
+    "inChl": "1S/C16H20N2O/c1-3-9-18(10-4-2)11-8-13-12-17-14-6-5-7-15(19)16(13)14/h3-7,12,17,19H,1-2,8-11H2",
+    "InChl_Key": "JVIWQWJXRKVJTA-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(CC=C)CCc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5530",
+    "validation": "m_weight unsave, calculated(256.349)"
+}

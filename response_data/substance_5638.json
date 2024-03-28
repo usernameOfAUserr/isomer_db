@@ -1,0 +1,13 @@
+{
+    "names": "N-Dodecyl-NMT ; N-Dodecyl-N-methyltryptamine",
+    "iupac_name": "N-[2-(1H-Indol-3-yl)ethyl]-N-methyldodecan-1-amine",
+    "category": "Tryptamine",
+    "index": 5638,
+    "formular": "C23H38N2",
+    "molecular_weight": 342.561,
+    "inChl": "1S/C23H38N2/c1-3-4-5-6-7-8-9-10-11-14-18-25(2)19-17-21-20-24-23-16-13-12-15-22(21)23/h12-13,15-16,20,24H,3-11,14,17-19H2,1-2H3",
+    "InChl_Key": "ZSUYQMLIHRWGFI-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCCCCCN(C)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5638",
+    "validation": "m_weight unsave, calculated(342.571)"
+}

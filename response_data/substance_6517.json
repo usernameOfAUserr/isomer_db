@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Me-DHPEA ; \u03b2-Methyl-3,4-dihydroxyphenethylamine",
+    "iupac_name": "4-(1-Aminopropan-2-yl)benzene-1,2-diol",
+    "category": "Shulgin_Index",
+    "index": 6517,
+    "formular": "C9H13NO2",
+    "molecular_weight": 167.205,
+    "inChl": "1S/C9H13NO2/c1-6(5-10)7-2-3-8(11)9(12)4-7/h2-4,6,11-12H,5,10H2,1H3",
+    "InChl_Key": "IDLSQOHXWOVTGJ-UHFFFAOYSA-N",
+    "SMILES": "CC(CN)c1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6517",
+    "validation": "m_weight unsave, calculated(167.20799999999997)"
+}

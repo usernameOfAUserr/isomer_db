@@ -1,0 +1,13 @@
+{
+    "names": "AMG 076",
+    "iupac_name": "1-{2-[11-Methyl-9-(trifluoromethyl)-1,3,4,4a,5,6,11,11a-octahydro-2H-pyrido[4,3-b]carbazol-2-yl]ethyl}cyclohexane-1-carboxylic acid",
+    "category": "data not stored",
+    "index": 9757,
+    "formular": "C26H33F3N2O2",
+    "molecular_weight": 462.548,
+    "inChl": "1S/C26H33F3N2O2/c1-16-20-15-31(12-10-25(24(32)33)8-3-2-4-9-25)11-7-17(20)13-22-23(16)19-14-18(26(27,28)29)5-6-21(19)30-22/h5-6,14,16-17,20,30H,2-4,7-13,15H2,1H3,(H,32,33)",
+    "InChl_Key": "WAOZNBXSEVIAGX-UHFFFAOYSA-N",
+    "SMILES": "CC1c2c([nH]c3ccc(C(F)(F)F)cc23)CC2CCN(CCC3(C(=O)O)CCCCC3)CC21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9757",
+    "validation": "m_weight unsave, calculated(462.55600000000015)"
+}

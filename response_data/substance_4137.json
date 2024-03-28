@@ -1,0 +1,13 @@
+{
+    "names": "5I-JWH-122",
+    "iupac_name": "[1-(5-Iodopentyl)-1H-indol-3-yl](4-methylnaphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4137,
+    "formular": "C25H24INO",
+    "molecular_weight": 481.369,
+    "inChl": "1S/C25H24INO/c1-18-13-14-22(20-10-4-3-9-19(18)20)25(28)23-17-27(16-8-2-7-15-26)24-12-6-5-11-21(23)24/h3-6,9-14,17H,2,7-8,15-16H2,1H3",
+    "InChl_Key": "WLQRBHHDDTYLTK-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)c2cn(CCCCCI)c3ccccc23)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4137",
+    "validation": "m_weight unsave, calculated(481.3770000000002)"
+}

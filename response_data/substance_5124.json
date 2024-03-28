@@ -1,0 +1,13 @@
+{
+    "names": "Norbaeocystin ; 4-Phosphonooxytryptamine ; 4-PO-T",
+    "iupac_name": "3-(2-Aminoethyl)-1H-indol-4-yl dihydrogen phosphate",
+    "category": "Tryptamine",
+    "index": 5124,
+    "formular": "C10H13N2O4P",
+    "molecular_weight": 256.195,
+    "inChl": "1S/C10H13N2O4P/c11-5-4-7-6-12-8-2-1-3-9(10(7)8)16-17(13,14)15/h1-3,6,12H,4-5,11H2,(H2,13,14,15)",
+    "InChl_Key": "IKQGYCWFBVEAKF-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2cccc(OP(=O)(O)O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5124",
+    "validation": "m_weight unsave, calculated(256.198)"
+}

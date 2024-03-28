@@ -1,0 +1,13 @@
+{
+    "names": "4-BP ; 4-PMPD",
+    "iupac_name": "4-Benzylpiperidine",
+    "category": "data not stored",
+    "index": 3333,
+    "formular": "C12H17N",
+    "molecular_weight": 175.27,
+    "inChl": "1S/C12H17N/c1-2-4-11(5-3-1)10-12-6-8-13-9-7-12/h1-5,12-13H,6-10H2",
+    "InChl_Key": "ABGXADJDTPFFSZ-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(CC2CCNCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3333",
+    "validation": "m_weight unsave, calculated(175.27500000000003)"
+}

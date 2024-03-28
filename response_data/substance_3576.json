@@ -1,0 +1,13 @@
+{
+    "names": "{1-[3-(Prop-2-yne-1-sulfonyl)propyl]-1H-indol-3-yl}(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "iupac_name": "3576 ; C22H27NO3S ; 385.52",
+    "category": "cannabinodids",
+    "index": 3576,
+    "formular": "C22H27NO3S",
+    "molecular_weight": 385.52,
+    "inChl": "1S/C22H27NO3S/c1-6-13-27(25,26)14-9-12-23-15-17(16-10-7-8-11-18(16)23)19(24)20-21(2,3)22(20,4)5/h1,7-8,10-11,15,20H,9,12-14H2,2-5H3",
+    "InChl_Key": "IIDXKQSGOZEKIY-UHFFFAOYSA-N",
+    "SMILES": "C#CCS(=O)(=O)CCCn1cc(C(=O)C2C(C)(C)C2(C)C)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3576",
+    "validation": "m_weight unsave, calculated(385.52900000000017)"
+}

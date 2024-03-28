@@ -1,0 +1,13 @@
+{
+    "names": "Cyclopent-2-enscaline ; CPe-2-en",
+    "iupac_name": "2-{4-[(Cyclopent-2-en-1-yl)oxy]-3,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "data not stored",
+    "index": 13702,
+    "formular": "C15H21NO3",
+    "molecular_weight": 263.332,
+    "inChl": "1S/C15H21NO3/c1-17-13-9-11(7-8-16)10-14(18-2)15(13)19-12-5-3-4-6-12/h3,5,9-10,12H,4,6-8,16H2,1-2H3",
+    "InChl_Key": "LYTNJCJFUMKZEU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(OC)c1OC1C=CCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13702",
+    "validation": "m_weight unsave, calculated(263.33699999999993)"
+}

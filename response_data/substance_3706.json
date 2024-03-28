@@ -1,0 +1,13 @@
+{
+    "names": "Capeserod ; SL650155 ; SL65.0155",
+    "iupac_name": "5-(8-Amino-7-chloro-2,3-dihydro-1,4-benzodioxin-5-yl)-3-[1-(2-phenylethyl)piperidin-4-yl]-1,3,4-oxadiazol-2(3H)-one",
+    "category": "data not stored",
+    "index": 3706,
+    "formular": "C23H25ClN4O4",
+    "molecular_weight": 456.922,
+    "inChl": "1S/C23H25ClN4O4/c24-18-14-17(20-21(19(18)25)31-13-12-30-20)22-26-28(23(29)32-22)16-7-10-27(11-8-16)9-6-15-4-2-1-3-5-15/h1-5,14,16H,6-13,25H2",
+    "InChl_Key": "MDBNTXARNGRHEV-UHFFFAOYSA-N",
+    "SMILES": "Nc1c(Cl)cc(-c2nn(C3CCN(CCc4ccccc4)CC3)c(=O)o2)c2c1OCCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3706",
+    "validation": "m_weight unsave, calculated(456.9300000000003)"
+}

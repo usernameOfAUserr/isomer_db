@@ -1,0 +1,13 @@
+{
+    "names": "2-(9,10-Dihydroanthracen-9-yl)ethan-1-amine",
+    "iupac_name": "12183 ; C16H17N ; 223.313",
+    "category": "Phenetylamine",
+    "index": 12183,
+    "formular": "C16H17N",
+    "molecular_weight": 223.313,
+    "inChl": "1S/C16H17N/c17-10-9-16-14-7-3-1-5-12(14)11-13-6-2-4-8-15(13)16/h1-8,16H,9-11,17H2",
+    "InChl_Key": "OWPHKTVZEZNCMB-UHFFFAOYSA-N",
+    "SMILES": "NCCC1c2ccccc2Cc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12183",
+    "validation": "m_weight unsave, calculated(223.31899999999996)"
+}

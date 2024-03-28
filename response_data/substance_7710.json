@@ -1,0 +1,13 @@
+{
+    "names": "N-[3-(1H-Imidazol-1-yl)propyl]-1-[(oxan-4-yl)methyl]-1H-indazole-3-carboxamide",
+    "iupac_name": "7710 ; C20H25N5O2 ; 367.445",
+    "category": "cannabinodids",
+    "index": 7710,
+    "formular": "C20H25N5O2",
+    "molecular_weight": 367.445,
+    "inChl": "1S/C20H25N5O2/c26-20(22-8-3-10-24-11-9-21-15-24)19-17-4-1-2-5-18(17)25(23-19)14-16-6-12-27-13-7-16/h1-2,4-5,9,11,15-16H,3,6-8,10,12-14H2,(H,22,26)",
+    "InChl_Key": "AEWPMQOKQPINLX-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCCCn1ccnc1)c1nn(CC2CCOCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7710",
+    "validation": "m_weight unsave, calculated(367.45300000000003)"
+}

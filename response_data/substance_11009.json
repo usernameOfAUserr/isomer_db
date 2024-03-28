@@ -1,0 +1,13 @@
+{
+    "names": "2-(Pyrimidin-2-yl)ethan-1-amine",
+    "iupac_name": "11009 ; C6H9N3 ; 123.156",
+    "category": "Phenetylamine",
+    "index": 11009,
+    "formular": "C6H9N3",
+    "molecular_weight": 123.156,
+    "inChl": "1S/C6H9N3/c7-3-2-6-8-4-1-5-9-6/h1,4-5H,2-3,7H2",
+    "InChl_Key": "DKJOQBMLNGUEFQ-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ncccn1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11009",
+    "validation": "m_weight unsave, calculated(123.15899999999998)"
+}

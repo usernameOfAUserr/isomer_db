@@ -1,0 +1,13 @@
+{
+    "names": "US 3043844 #3",
+    "iupac_name": "1-{4-Phenyl-1-[(2E)-3-phenylprop-2-en-1-yl]piperidin-4-yl}propan-1-one",
+    "category": "data not stored",
+    "index": 3166,
+    "formular": "C23H27NO",
+    "molecular_weight": 333.467,
+    "inChl": "1S/C23H27NO/c1-2-22(25)23(21-13-7-4-8-14-21)15-18-24(19-16-23)17-9-12-20-10-5-3-6-11-20/h3-14H,2,15-19H2,1H3/b12-9+",
+    "InChl_Key": "XXDMMWVONIULHL-FMIVXFBMSA-N",
+    "SMILES": "CCC(=O)C1(c2ccccc2)CCN(C/C=C/c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3166",
+    "validation": "m_weight unsave, calculated(333.4750000000001)"
+}

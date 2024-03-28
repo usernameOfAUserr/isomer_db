@@ -1,0 +1,13 @@
+{
+    "names": "Benzyl (5-{[2-(3,4-dihydroxyphenyl)-2-hydroxyethyl]amino}hexyl)carbamate",
+    "iupac_name": "1371 ; C22H30N2O5 ; 402.484",
+    "category": "data not stored",
+    "index": 1371,
+    "formular": "C22H30N2O5",
+    "molecular_weight": 402.484,
+    "inChl": "1S/C22H30N2O5/c1-16(24-14-21(27)18-10-11-19(25)20(26)13-18)7-5-6-12-23-22(28)29-15-17-8-3-2-4-9-17/h2-4,8-11,13,16,21,24-27H,5-7,12,14-15H2,1H3,(H,23,28)",
+    "InChl_Key": "SMQPASACOUXUJE-UHFFFAOYSA-N",
+    "SMILES": "CC(CCCCNC(=O)OCc1ccccc1)NCC(O)c1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1371",
+    "validation": "m_weight unsave, calculated(402.4910000000001)"
+}

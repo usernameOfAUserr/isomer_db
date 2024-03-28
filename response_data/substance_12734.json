@@ -1,0 +1,13 @@
+{
+    "names": "7-Fluoro-5-methyl-EPT ; 7-Fluoro-5-methyl-N-ethyl-N-propyltryptamine",
+    "iupac_name": "N-Ethyl-N-[2-(7-fluoro-5-methyl-1H-indol-3-yl)ethyl]propan-1-amine",
+    "category": "Tryptamine",
+    "index": 12734,
+    "formular": "C16H23FN2",
+    "molecular_weight": 262.366,
+    "inChl": "1S/C16H23FN2/c1-4-7-19(5-2)8-6-13-11-18-16-14(13)9-12(3)10-15(16)17/h9-11,18H,4-8H2,1-3H3",
+    "InChl_Key": "ZVFOAOSZDPMMRX-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CC)CCc1c[nH]c2c(F)cc(C)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12734",
+    "validation": "m_weight unsave, calculated(262.37199999999996)"
+}

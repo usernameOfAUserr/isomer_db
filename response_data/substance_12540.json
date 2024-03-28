@@ -1,0 +1,13 @@
+{
+    "names": "Methyl (2S)-3,3-dimethyl-2-[(1-pentyl-1H-pyrazolo[3,4-b]pyridine-3-carbonyl)amino]butanoate",
+    "iupac_name": "12540 ; C19H28N4O3 ; 360.451",
+    "category": "cannabinodids",
+    "index": 12540,
+    "formular": "C19H28N4O3",
+    "molecular_weight": 360.451,
+    "inChl": "1S/C19H28N4O3/c1-6-7-8-12-23-16-13(10-9-11-20-16)14(22-23)17(24)21-15(18(25)26-5)19(2,3)4/h9-11,15H,6-8,12H2,1-5H3,(H,21,24)/t15-/m1/s1",
+    "InChl_Key": "QRJXHLLPAWYSMJ-OAHLLOKOSA-N",
+    "SMILES": "CCCCCn1nc(C(=O)N[C@H](C(=O)OC)C(C)(C)C)c2cccnc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12540",
+    "validation": "m_weight unsave, calculated(360.4580000000002)"
+}

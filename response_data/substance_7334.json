@@ -1,0 +1,13 @@
+{
+    "names": "6-Ethyl-T ; 6-Ethyltryptamine",
+    "iupac_name": "2-(6-Ethyl-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 7334,
+    "formular": "C12H16N2",
+    "molecular_weight": 188.269,
+    "inChl": "1S/C12H16N2/c1-2-9-3-4-11-10(5-6-13)8-14-12(11)7-9/h3-4,7-8,14H,2,5-6,13H2,1H3",
+    "InChl_Key": "BDIDXHXHOZSHRX-UHFFFAOYSA-N",
+    "SMILES": "CCc1ccc2c(CCN)c[nH]c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7334",
+    "validation": "m_weight unsave, calculated(188.27399999999997)"
+}

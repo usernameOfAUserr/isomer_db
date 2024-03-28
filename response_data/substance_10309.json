@@ -1,0 +1,13 @@
+{
+    "names": "N-(Cyclohexyl)phenethylamine",
+    "iupac_name": "N-(2-Phenylethyl)cyclohexanamine",
+    "category": "data not stored",
+    "index": 10309,
+    "formular": "C14H21N",
+    "molecular_weight": 203.323,
+    "inChl": "1S/C14H21N/c1-3-7-13(8-4-1)11-12-15-14-9-5-2-6-10-14/h1,3-4,7-8,14-15H,2,5-6,9-12H2",
+    "InChl_Key": "HYESTPIIALLAAO-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(CCNC2CCCCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10309",
+    "validation": "m_weight unsave, calculated(203.32900000000004)"
+}

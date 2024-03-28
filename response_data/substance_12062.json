@@ -1,0 +1,13 @@
+{
+    "names": "1-(9,10-Dihydro-9,10-ethanoanthracen-11-yl)methanamine",
+    "iupac_name": "12062 ; C17H17N ; 235.324",
+    "category": "Phenetylamine",
+    "index": 12062,
+    "formular": "C17H17N",
+    "molecular_weight": 235.324,
+    "inChl": "1S/C17H17N/c18-10-11-9-16-12-5-1-3-7-14(12)17(11)15-8-4-2-6-13(15)16/h1-8,11,16-17H,9-10,18H2",
+    "InChl_Key": "UWARBRXWIXCVNO-UHFFFAOYSA-N",
+    "SMILES": "NCC1CC2c3ccccc3C1c1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12062",
+    "validation": "m_weight unsave, calculated(235.33)"
+}

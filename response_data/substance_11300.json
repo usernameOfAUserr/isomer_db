@@ -1,0 +1,13 @@
+{
+    "names": "4-Dichlorophosphoryloxy-DMT ; 4-Dichlorophosphoryloxy-N,N-dimethyltryptamine",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-1H-indol-4-yl phosphorodichloridate",
+    "category": "Tryptamine",
+    "index": 11300,
+    "formular": "C12H15Cl2N2O2P",
+    "molecular_weight": 321.139,
+    "inChl": "1S/C12H15Cl2N2O2P/c1-16(2)7-6-9-8-15-10-4-3-5-11(12(9)10)18-19(13,14)17/h3-5,8,15H,6-7H2,1-2H3",
+    "InChl_Key": "LFFKRBQLGAKXKY-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2cccc(OP(=O)(Cl)Cl)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11300",
+    "validation": "m_weight unsave, calculated(321.14399999999995)"
+}

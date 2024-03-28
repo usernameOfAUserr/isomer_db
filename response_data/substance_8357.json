@@ -1,0 +1,13 @@
+{
+    "names": "2,3-Methylenedioxy-6-nitro-\u03b2-dimethylaminostyrene",
+    "iupac_name": "(E)-N,N-Dimethyl-2-(5-nitro-2H-1,3-benzodioxol-4-yl)ethen-1-amine",
+    "category": "data not stored",
+    "index": 8357,
+    "formular": "C11H12N2O4",
+    "molecular_weight": 236.224,
+    "inChl": "1S/C11H12N2O4/c1-12(2)6-5-8-9(13(14)15)3-4-10-11(8)17-7-16-10/h3-6H,7H2,1-2H3/b6-5+",
+    "InChl_Key": "KAGIHAFYIDWHGA-AATRIKPKSA-N",
+    "SMILES": "CN(C)/C=C/c1c([N+](=O)[O-])ccc2c1OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8357",
+    "validation": "m_weight unsave, calculated(236.22699999999995)"
+}

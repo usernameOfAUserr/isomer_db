@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl-3-(thiophen-2-yl)propan-1-amine",
+    "iupac_name": "12113 ; C8H13NS ; 155.261",
+    "category": "Phenetylamine",
+    "index": 12113,
+    "formular": "C8H13NS",
+    "molecular_weight": 155.261,
+    "inChl": "1S/C8H13NS/c1-9-6-2-4-8-5-3-7-10-8/h3,5,7,9H,2,4,6H2,1H3",
+    "InChl_Key": "UNUUERBHCKDOEI-UHFFFAOYSA-N",
+    "SMILES": "CNCCCc1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12113",
+    "validation": "m_weight unsave, calculated(155.26599999999996)"
+}

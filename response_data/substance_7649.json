@@ -1,0 +1,13 @@
+{
+    "names": "Udes04",
+    "iupac_name": "N-[(1R,2R)-2-(Dimethylamino)cyclohexyl]-4-(trifluoromethyl)benzamide",
+    "category": "data not stored",
+    "index": 7649,
+    "formular": "C16H21F3N2O",
+    "molecular_weight": 314.346,
+    "inChl": "1S/C16H21F3N2O/c1-21(2)14-6-4-3-5-13(14)20-15(22)11-7-9-12(10-8-11)16(17,18)19/h7-10,13-14H,3-6H2,1-2H3,(H,20,22)/t13-,14-/m1/s1",
+    "InChl_Key": "BHNDCLNLNOLFOE-ZIAGYGMSSA-N",
+    "SMILES": "CN(C)[C@@H]1CCCC[C@H]1NC(=O)c1ccc(C(F)(F)F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7649",
+    "validation": "m_weight unsave, calculated(314.351)"
+}

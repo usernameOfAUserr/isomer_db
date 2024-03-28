@@ -1,0 +1,13 @@
+{
+    "names": "Olanzapine",
+    "iupac_name": "2-Methyl-4-(4-methylpiperazin-1-yl)-10H-thieno[2,3-b][1,5]benzodiazepine",
+    "category": "data not stored",
+    "index": 9433,
+    "formular": "C17H20N4S",
+    "molecular_weight": 312.433,
+    "inChl": "1S/C17H20N4S/c1-12-11-13-16(21-9-7-20(2)8-10-21)18-14-5-3-4-6-15(14)19-17(13)22-12/h3-6,11,19H,7-10H2,1-2H3",
+    "InChl_Key": "KVWDHTXUZHCGIO-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc2c(s1)Nc1ccccc1N=C2N1CCN(C)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9433",
+    "validation": "m_weight unsave, calculated(312.44200000000006)"
+}

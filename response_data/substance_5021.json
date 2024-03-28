@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-MET ; 4-Hydroxy-N-methyl-N-ethyltryptamine ; N-Ethyl-4-hydroxy-N-methyltryptamine ; 3-[2-(Ethylmethylamino)ethyl]-4-indolol ; 4-Indolol, 3-[2-(ethylmethylamino)ethyl] ; Metocin ; Tryptamine, N-ethyl-4-hydroxy-N-methyl",
+    "iupac_name": "3-{2-[Ethyl(methyl)amino]ethyl}-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 5021,
+    "formular": "C13H18N2O",
+    "molecular_weight": 218.295,
+    "inChl": "1S/C13H18N2O/c1-3-15(2)8-7-10-9-14-11-5-4-6-12(16)13(10)11/h4-6,9,14,16H,3,7-8H2,1-2H3",
+    "InChl_Key": "ORWQBKPSGDRPPA-UHFFFAOYSA-N",
+    "SMILES": "CCN(C)CCc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5021",
+    "validation": "m_weight unsave, calculated(218.3)"
+}

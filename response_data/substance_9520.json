@@ -1,0 +1,13 @@
+{
+    "names": "Pipamperone",
+    "iupac_name": "1\u2032-[4-(4-Fluorophenyl)-4-oxobutyl][1,4\u2032-bipiperidine]-4\u2032-carboxamide",
+    "category": "data not stored",
+    "index": 9520,
+    "formular": "C21H30FN3O2",
+    "molecular_weight": 375.48,
+    "inChl": "1S/C21H30FN3O2/c22-18-8-6-17(7-9-18)19(26)5-4-12-24-15-10-21(11-16-24,20(23)27)25-13-2-1-3-14-25/h6-9H,1-5,10-16H2,(H2,23,27)",
+    "InChl_Key": "AXKPFOAXAHJUAG-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)C1(N2CCCCC2)CCN(CCCC(=O)c2ccc(F)cc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9520",
+    "validation": "m_weight unsave, calculated(375.48800000000017)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Udes07",
+    "iupac_name": "3,4-Dichloro-N-[(1R,2R)-2-(dimethylamino)cyclohexyl]benzene-1-sulfonamide",
+    "category": "data not stored",
+    "index": 7652,
+    "formular": "C14H20Cl2N2O2S",
+    "molecular_weight": 351.292,
+    "inChl": "1S/C14H20Cl2N2O2S/c1-18(2)14-6-4-3-5-13(14)17-21(19,20)10-7-8-11(15)12(16)9-10/h7-9,13-14,17H,3-6H2,1-2H3/t13-,14-/m1/s1",
+    "InChl_Key": "HIWGSVXWSRLMJJ-ZIAGYGMSSA-N",
+    "SMILES": "CN(C)[C@@H]1CCCC[C@H]1NS(=O)(=O)c1ccc(Cl)c(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7652",
+    "validation": "m_weight unsave, calculated(351.29900000000004)"
+}

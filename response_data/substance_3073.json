@@ -1,0 +1,13 @@
+{
+    "names": "p-Fluoro-acrylfentanyl ; 4\u2032-Fluoro-acrylfentanyl",
+    "iupac_name": "N-(4-Fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]prop-2-enamide",
+    "category": "Fentanyl",
+    "index": 3073,
+    "formular": "C22H25FN2O",
+    "molecular_weight": 352.445,
+    "inChl": "1S/C22H25FN2O/c1-2-22(26)25(20-10-8-19(23)9-11-20)21-13-16-24(17-14-21)15-12-18-6-4-3-5-7-18/h2-11,21H,1,12-17H2",
+    "InChl_Key": "ZTLLQVADDIYHJU-UHFFFAOYSA-N",
+    "SMILES": "C=CC(=O)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3073",
+    "validation": "m_weight unsave, calculated(352.4530000000001)"
+}

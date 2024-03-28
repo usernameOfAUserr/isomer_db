@@ -1,0 +1,13 @@
+{
+    "names": "2-Methyl-5-MeO-DALT ; 2-Methyl-5-methoxy-N,N-diallyltryptamine",
+    "iupac_name": "N-[2-(5-Methoxy-2-methyl-1H-indol-3-yl)ethyl]-N-(prop-2-en-1-yl)prop-2-en-1-amine",
+    "category": "Tryptamine",
+    "index": 5576,
+    "formular": "C18H24N2O",
+    "molecular_weight": 284.396,
+    "inChl": "1S/C18H24N2O/c1-5-10-20(11-6-2)12-9-16-14(3)19-18-8-7-15(21-4)13-17(16)18/h5-8,13,19H,1-2,9-12H2,3-4H3",
+    "InChl_Key": "HBJOFGKFBANLLV-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(CC=C)CCc1c(C)[nH]c2ccc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5576",
+    "validation": "m_weight unsave, calculated(284.4029999999999)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "6,6a,7,8,9,13b-Hexahydro-5H-benzo[d]naphtho[2,1-b]azepine-11,12-diol",
+    "iupac_name": "1314 ; C18H19NO2 ; 281.349",
+    "category": "data not stored",
+    "index": 1314,
+    "formular": "C18H19NO2",
+    "molecular_weight": 281.349,
+    "inChl": "1S/C18H19NO2/c20-16-9-12-7-8-19-15-6-5-11-3-1-2-4-13(11)18(15)14(12)10-17(16)21/h1-4,9-10,15,18-21H,5-8H2",
+    "InChl_Key": "NAEDEEABHJUYHB-UHFFFAOYSA-N",
+    "SMILES": "Oc1cc2c(cc1O)C1c3ccccc3CCC1NCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1314",
+    "validation": "m_weight unsave, calculated(281.3550000000001)"
+}

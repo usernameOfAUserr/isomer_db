@@ -1,0 +1,13 @@
+{
+    "names": "4-tert-Butyl-P2P",
+    "iupac_name": "1-(4-tert-Butylphenyl)propan-2-one",
+    "category": "data not stored",
+    "index": 11195,
+    "formular": "C13H18O",
+    "molecular_weight": 190.281,
+    "inChl": "1S/C13H18O/c1-10(14)9-11-5-7-12(8-6-11)13(2,3)4/h5-8H,9H2,1-4H3",
+    "InChl_Key": "HSNJERRVXUNQLS-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Cc1ccc(C(C)(C)C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11195",
+    "validation": "m_weight unsave, calculated(190.28599999999997)"
+}

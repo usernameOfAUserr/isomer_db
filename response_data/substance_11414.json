@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-2C-T-2-NBOMe",
+    "iupac_name": "2-{[2,5-Dimethoxy-4-(2-{[(2-methoxyphenyl)methyl]amino}ethyl)phenyl]sulfanyl}ethan-1-ol",
+    "category": "Prophetic?",
+    "index": 11414,
+    "formular": "C20H27NO4S",
+    "molecular_weight": 377.498,
+    "inChl": "1S/C20H27NO4S/c1-23-17-7-5-4-6-16(17)14-21-9-8-15-12-19(25-3)20(26-11-10-22)13-18(15)24-2/h4-7,12-13,21-22H,8-11,14H2,1-3H3",
+    "InChl_Key": "UHAWIBBLVBGMBD-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SCCO)c(OC)cc1CCNCc1ccccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11414",
+    "validation": "m_weight unsave, calculated(377.5060000000001)"
+}

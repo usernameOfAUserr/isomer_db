@@ -1,0 +1,13 @@
+{
+    "names": "2,4,5-HO-3-MePEA ; 2,4,5-Trihydroxy-3-methylphenethylamine",
+    "iupac_name": "5-(2-Aminoethyl)-3-methylbenzene-1,2,4-triol",
+    "category": "Phenetylamine",
+    "index": 10407,
+    "formular": "C9H13NO3",
+    "molecular_weight": 183.204,
+    "inChl": "1S/C9H13NO3/c1-5-8(12)6(2-3-10)4-7(11)9(5)13/h4,11-13H,2-3,10H2,1H3",
+    "InChl_Key": "VFBWQQWVDKMENN-UHFFFAOYSA-N",
+    "SMILES": "Cc1c(O)c(O)cc(CCN)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10407",
+    "validation": "m_weight unsave, calculated(183.20699999999997)"
+}

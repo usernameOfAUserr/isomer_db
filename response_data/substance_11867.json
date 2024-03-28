@@ -1,0 +1,13 @@
+{
+    "names": "EA-3834",
+    "iupac_name": "1-Methylpiperidin-4-yl 2-hydroxy-3-methyl-2-phenylbutanoate",
+    "category": "data not stored",
+    "index": 11867,
+    "formular": "C17H25NO3",
+    "molecular_weight": 291.385,
+    "inChl": "1S/C17H25NO3/c1-13(2)17(20,14-7-5-4-6-8-14)16(19)21-15-9-11-18(3)12-10-15/h4-8,13,15,20H,9-12H2,1-3H3",
+    "InChl_Key": "IFXNWEDGILPSBA-UHFFFAOYSA-N",
+    "SMILES": "CC(C)C(O)(C(=O)OC1CCN(C)CC1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11867",
+    "validation": "m_weight unsave, calculated(291.39099999999996)"
+}

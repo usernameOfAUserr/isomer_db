@@ -1,0 +1,13 @@
+{
+    "names": "3-MPC ; 3-Methyl-N-propylcathinone",
+    "iupac_name": "1-(3-Methylphenyl)-2-(propylamino)propan-1-one",
+    "category": "data not stored",
+    "index": 13269,
+    "formular": "C13H19NO",
+    "molecular_weight": 205.296,
+    "inChl": "1S/C13H19NO/c1-4-8-14-11(3)13(15)12-7-5-6-10(2)9-12/h5-7,9,11,14H,4,8H2,1-3H3",
+    "InChl_Key": "QDFWQUVPIKKPMD-UHFFFAOYSA-N",
+    "SMILES": "CCCNC(C)C(=O)c1cccc(C)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13269",
+    "validation": "m_weight unsave, calculated(205.301)"
+}

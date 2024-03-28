@@ -1,0 +1,13 @@
+{
+    "names": "7-Oxoprasterone AC ; 7-Keto-DHEA ; 7-Ketodehydroepiandrosterone ; 7-Oxo-DHEA",
+    "iupac_name": "7,17-Dioxoandrost-5-en-3\u03b2-yl acetate ; (3S,8R,9S,10R,13S,14S)-10,13-Dimethyl-7,17-dioxo-2,3,4,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-3-yl acetate ; (3\u03b2)-7,17-Dioxoandrost-5-en-3-yl acetate",
+    "category": "data not stored",
+    "index": 13210,
+    "formular": "C21H28O4",
+    "molecular_weight": 344.445,
+    "inChl": "1S/C21H28O4/c1-12(22)25-14-6-8-20(2)13(10-14)11-17(23)19-15-4-5-18(24)21(15,3)9-7-16(19)20/h11,14-16,19H,4-10H2,1-3H3/t14-,15-,16-,19-,20-,21-/m0/s1",
+    "InChl_Key": "VVSMJVQHDZUPIL-XFKPDKBWSA-N",
+    "SMILES": "CC(=O)O[C@H]1CC[C@@]2(C)C(=CC(=O)[C@@H]3[C@@H]2CC[C@]2(C)C(=O)CC[C@@H]32)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13210",
+    "validation": "m_weight unsave, calculated(344.4510000000002)"
+}

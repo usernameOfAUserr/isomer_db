@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-DET ; 4-Hydroxy-N,N-diethyltryptamine ; CZ-74 ; 3-[2-(Diethylamino)ethyl]-4-indolol ; N,N-Diethyl-4-hydroxytryptamine ; Ethocin ; 4-Indolol, 3-[2-(diethylamino)ethyl] ; Tryptamine, N,N-diethyl-4-hydroxy",
+    "iupac_name": "3-[2-(Diethylamino)ethyl]-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 5016,
+    "formular": "C14H20N2O",
+    "molecular_weight": 232.321,
+    "inChl": "1S/C14H20N2O/c1-3-16(4-2)9-8-11-10-15-12-6-5-7-13(17)14(11)12/h5-7,10,15,17H,3-4,8-9H2,1-2H3",
+    "InChl_Key": "OHHYMKDBKJPILO-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5016",
+    "validation": "m_weight unsave, calculated(232.327)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Ro14-1636",
+    "iupac_name": "4-(2-Chlorophenyl)-2-iodo-9-methyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine",
+    "category": "Aryldiazepine",
+    "index": 11686,
+    "formular": "C15H10ClIN4S",
+    "molecular_weight": 440.689,
+    "inChl": "1S/C15H10ClIN4S/c1-8-19-20-13-7-18-14(9-4-2-3-5-11(9)16)10-6-12(17)22-15(10)21(8)13/h2-6H,7H2,1H3",
+    "InChl_Key": "KJZJHABCRCESGN-UHFFFAOYSA-N",
+    "SMILES": "Cc1nnc2n1-c1sc(I)cc1C(c1ccccc1Cl)=NC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11686",
+    "validation": "m_weight unsave, calculated(440.6970000000001)"
+}

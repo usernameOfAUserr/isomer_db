@@ -1,0 +1,13 @@
+{
+    "names": "3,4-Bis(benzyloxy)-2,5-difluorophenethylamine",
+    "iupac_name": "2-[3,4-Bis(benzyloxy)-2,5-difluorophenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10401,
+    "formular": "C22H21F2NO2",
+    "molecular_weight": 369.404,
+    "inChl": "1S/C22H21F2NO2/c23-19-13-18(11-12-25)20(24)22(27-15-17-9-5-2-6-10-17)21(19)26-14-16-7-3-1-4-8-16/h1-10,13H,11-12,14-15,25H2",
+    "InChl_Key": "PDORFFKSSGKQTF-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cc(F)c(OCc2ccccc2)c(OCc2ccccc2)c1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10401",
+    "validation": "m_weight unsave, calculated(369.41100000000006)"
+}

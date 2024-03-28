@@ -1,0 +1,13 @@
+{
+    "names": "SGT-255",
+    "iupac_name": "1-(5-Fluoropentyl)-N-(2-phenylbutan-2-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4603,
+    "formular": "C23H28FN3O",
+    "molecular_weight": 381.486,
+    "inChl": "1S/C23H28FN3O/c1-3-23(2,18-12-6-4-7-13-18)25-22(28)21-19-14-8-9-15-20(19)27(26-21)17-11-5-10-16-24/h4,6-9,12-15H,3,5,10-11,16-17H2,1-2H3,(H,25,28)",
+    "InChl_Key": "BOXSBJSRELRIJG-UHFFFAOYSA-N",
+    "SMILES": "CCC(C)(NC(=O)c1nn(CCCCCF)c2ccccc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4603",
+    "validation": "m_weight unsave, calculated(381.4950000000002)"
+}

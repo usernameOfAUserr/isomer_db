@@ -1,0 +1,13 @@
+{
+    "names": "2,3,6-F-4,5-DMPEA ; 2,3,6-Trifluoro-4,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(2,3,6-Trifluoro-4,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10458,
+    "formular": "C10H12F3NO2",
+    "molecular_weight": 235.203,
+    "inChl": "1S/C10H12F3NO2/c1-15-9-7(12)5(3-4-14)6(11)8(13)10(9)16-2/h3-4,14H2,1-2H3",
+    "InChl_Key": "VYISHDPDMMVJJV-UHFFFAOYSA-N",
+    "SMILES": "COc1c(F)c(F)c(CCN)c(F)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10458",
+    "validation": "m_weight unsave, calculated(235.20499999999993)"
+}

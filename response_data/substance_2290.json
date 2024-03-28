@@ -1,0 +1,13 @@
+{
+    "names": "2C-B-GNAT",
+    "iupac_name": "2-(4-Bromo-3,6,7,8-tetrahydro-2H-furo[2,3-g][1]benzopyran-9-yl)ethan-1-amine ; 2-(4-Bromo-3,6,7,8-tetrahydro-2H-furo[2,3-g]chromen-9-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 2290,
+    "formular": "C13H16BrNO2",
+    "molecular_weight": 298.176,
+    "inChl": "1S/C13H16BrNO2/c14-11-10-4-7-17-12(10)9(3-5-15)8-2-1-6-16-13(8)11/h1-7,15H2",
+    "InChl_Key": "VOQWACFRDPJQQY-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c2c(c(Br)c3c1OCC3)OCCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2290",
+    "validation": "m_weight unsave, calculated(298.17999999999995)"
+}

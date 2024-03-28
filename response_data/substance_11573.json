@@ -1,0 +1,13 @@
+{
+    "names": "SGT-155",
+    "iupac_name": "N-[2-(4-Chlorophenyl)propan-2-yl]-1-(cyclohexylmethyl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11573,
+    "formular": "C25H29ClN2O",
+    "molecular_weight": 408.964,
+    "inChl": "1S/C25H29ClN2O/c1-25(2,19-12-14-20(26)15-13-19)27-24(29)22-17-28(16-18-8-4-3-5-9-18)23-11-7-6-10-21(22)23/h6-7,10-15,17-18H,3-5,8-9,16H2,1-2H3,(H,27,29)",
+    "InChl_Key": "WXWOCCYHTOAKKU-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1cn(CC2CCCCC2)c2ccccc12)c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11573",
+    "validation": "m_weight unsave, calculated(408.9730000000003)"
+}

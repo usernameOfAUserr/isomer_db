@@ -1,0 +1,13 @@
+{
+    "names": "4-Fluoroanthranilic acid",
+    "iupac_name": "2-Amino-4-fluorobenzoic acid",
+    "category": "data not stored",
+    "index": 7890,
+    "formular": "C7H6FNO2",
+    "molecular_weight": 155.126,
+    "inChl": "1S/C7H6FNO2/c8-4-1-2-5(7(10)11)6(9)3-4/h1-3H,9H2,(H,10,11)",
+    "InChl_Key": "LGPVTNAJFDUWLF-UHFFFAOYSA-N",
+    "SMILES": "Nc1cc(F)ccc1C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7890",
+    "validation": "m_weight unsave, calculated(155.12800000000001)"
+}

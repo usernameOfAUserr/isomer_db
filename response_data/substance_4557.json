@@ -1,0 +1,13 @@
+{
+    "names": "US 7297796 #36",
+    "iupac_name": "N-[(2R)-Bicyclo[2.2.1]heptan-2-yl]-4-methyl-3-(morpholine-4-sulfonyl)benzamide",
+    "category": "cannabinodids",
+    "index": 4557,
+    "formular": "C19H26N2O4S",
+    "molecular_weight": 378.486,
+    "inChl": "1S/C19H26N2O4S/c1-13-2-4-16(19(22)20-17-11-14-3-5-15(17)10-14)12-18(13)26(23,24)21-6-8-25-9-7-21/h2,4,12,14-15,17H,3,5-11H2,1H3,(H,20,22)/t14?,15?,17-/m1/s1",
+    "InChl_Key": "DWNDPARTYDIVIY-VMBOVVBDSA-N",
+    "SMILES": "Cc1ccc(C(=O)N[C@@H]2CC3CCC2C3)cc1S(=O)(=O)N1CCOCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4557",
+    "validation": "m_weight unsave, calculated(378.4940000000001)"
+}

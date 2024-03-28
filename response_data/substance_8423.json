@@ -1,0 +1,13 @@
+{
+    "names": "16-Oxahomonorepiibogaine ; (Propyl) Furanyl-endo-noribogaine",
+    "iupac_name": "16-Oxa-21a-homo-4-epi-ibogamin-12-ol ; (6R,6aS,7R,9R)-7-Propyl-6,6a,7,8,9,10,12,13-octahydro-6,9-methano[1]benzofuro[2,3-d]pyrido[1,2-a]azepin-2-ol ; 16-Oxa-21a-homo-4\u03b1-ibogamin-12-ol",
+    "category": "data not stored",
+    "index": 8423,
+    "formular": "C20H25NO2",
+    "molecular_weight": 311.418,
+    "inChl": "1S/C20H25NO2/c1-2-3-13-8-12-9-17-19(13)21(11-12)7-6-15-16-10-14(22)4-5-18(16)23-20(15)17/h4-5,10,12-13,17,19,22H,2-3,6-9,11H2,1H3/t12-,13-,17-,19+/m1/s1",
+    "InChl_Key": "RAQKKWRKOIFTBQ-REHIUZFUSA-N",
+    "SMILES": "CCC[C@@H]1C[C@@H]2C[C@H]3c4oc5ccc(O)cc5c4CCN(C2)[C@@H]13",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8423",
+    "validation": "m_weight unsave, calculated(311.42499999999995)"
+}

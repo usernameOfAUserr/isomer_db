@@ -1,0 +1,13 @@
+{
+    "names": "4-MeO-PCEMe",
+    "iupac_name": "N-Ethyl-1-(4-methoxyphenyl)-N-methylcyclohexan-1-amine",
+    "category": "Arylcycloalkylamine",
+    "index": 9097,
+    "formular": "C16H25NO",
+    "molecular_weight": 247.376,
+    "inChl": "1S/C16H25NO/c1-4-17(2)16(12-6-5-7-13-16)14-8-10-15(18-3)11-9-14/h8-11H,4-7,12-13H2,1-3H3",
+    "InChl_Key": "BCNDXSWLADKTJH-UHFFFAOYSA-N",
+    "SMILES": "CCN(C)C1(c2ccc(OC)cc2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9097",
+    "validation": "m_weight unsave, calculated(247.382)"
+}

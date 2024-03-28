@@ -1,0 +1,13 @@
+{
+    "names": "(C4) JWH-210",
+    "iupac_name": "(1-Butyl-1H-indol-3-yl)(4-ethylnaphthalen-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4030,
+    "formular": "C25H25NO",
+    "molecular_weight": 355.472,
+    "inChl": "1S/C25H25NO/c1-3-5-16-26-17-23(21-12-8-9-13-24(21)26)25(27)22-15-14-18(4-2)19-10-6-7-11-20(19)22/h6-15,17H,3-5,16H2,1-2H3",
+    "InChl_Key": "WAQACJOCPXHBKX-UHFFFAOYSA-N",
+    "SMILES": "CCCCn1cc(C(=O)c2ccc(CC)c3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4030",
+    "validation": "m_weight unsave, calculated(355.4810000000001)"
+}

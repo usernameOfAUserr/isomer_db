@@ -1,0 +1,13 @@
+{
+    "names": "N-EtPEA ; N-Ethylphenethylamine",
+    "iupac_name": "N-Ethyl-2-phenylethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 6004,
+    "formular": "C10H15N",
+    "molecular_weight": 149.233,
+    "inChl": "1S/C10H15N/c1-2-11-9-8-10-6-4-3-5-7-10/h3-7,11H,2,8-9H2,1H3",
+    "InChl_Key": "WOHOHPONCSKXSQ-UHFFFAOYSA-N",
+    "SMILES": "CCNCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6004",
+    "validation": "m_weight unsave, calculated(149.237)"
+}

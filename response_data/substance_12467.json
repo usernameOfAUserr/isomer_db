@@ -1,0 +1,13 @@
+{
+    "names": "2,3-MDPEA-NB",
+    "iupac_name": "2-(2H-1,3-Benzodioxol-4-yl)-N-benzylethan-1-amine",
+    "category": "data not stored",
+    "index": 12467,
+    "formular": "C16H17NO2",
+    "molecular_weight": 255.312,
+    "inChl": "1S/C16H17NO2/c1-2-5-13(6-3-1)11-17-10-9-14-7-4-8-15-16(14)19-12-18-15/h1-8,17H,9-12H2",
+    "InChl_Key": "KHZHSBMKXYLXGA-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(CNCCc2cccc3c2OCO3)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12467",
+    "validation": "m_weight unsave, calculated(255.31699999999995)"
+}

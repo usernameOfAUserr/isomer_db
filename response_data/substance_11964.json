@@ -1,0 +1,13 @@
+{
+    "names": "23H-NBOMe ; N-(2-Methoxybenzyl)-2,3-dimethoxyphenethylamine",
+    "iupac_name": "2-(2,3-Dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 11964,
+    "formular": "C18H23NO3",
+    "molecular_weight": 301.38,
+    "inChl": "1S/C18H23NO3/c1-20-16-9-5-4-7-15(16)13-19-12-11-14-8-6-10-17(21-2)18(14)22-3/h4-10,19H,11-13H2,1-3H3",
+    "InChl_Key": "FVECXSYBNLTBNP-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CNCCc1cccc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11964",
+    "validation": "m_weight unsave, calculated(301.386)"
+}

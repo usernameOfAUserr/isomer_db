@@ -1,0 +1,13 @@
+{
+    "names": "1-[(Oxan-4-yl)methyl]-3-(2,2,3,3-tetramethylcyclopropane-1-carbonyl)-1H-indole-6-carbonitrile",
+    "iupac_name": "8080 ; C23H28N2O2 ; 364.481",
+    "category": "cannabinodids",
+    "index": 8080,
+    "formular": "C23H28N2O2",
+    "molecular_weight": 364.481,
+    "inChl": "1S/C23H28N2O2/c1-22(2)21(23(22,3)4)20(26)18-14-25(13-15-7-9-27-10-8-15)19-11-16(12-24)5-6-17(18)19/h5-6,11,14-15,21H,7-10,13H2,1-4H3",
+    "InChl_Key": "LJZLIPSTUBWUJE-UHFFFAOYSA-N",
+    "SMILES": "CC1(C)C(C(=O)c2cn(CC3CCOCC3)c3cc(C#N)ccc23)C1(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8080",
+    "validation": "m_weight unsave, calculated(364.4890000000001)"
+}

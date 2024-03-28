@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-IAA ; 4-Hydroxyindole-3-acetic acid",
+    "iupac_name": "(4-Hydroxy-1H-indol-3-yl)acetic acid",
+    "category": "data not stored",
+    "index": 3884,
+    "formular": "C10H9NO3",
+    "molecular_weight": 191.183,
+    "inChl": "1S/C10H9NO3/c12-8-3-1-2-7-10(8)6(5-11-7)4-9(13)14/h1-3,5,11-12H,4H2,(H,13,14)",
+    "InChl_Key": "IGOSTOCJEXIQIA-UHFFFAOYSA-N",
+    "SMILES": "O=C(O)Cc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3884",
+    "validation": "m_weight unsave, calculated(191.186)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-PhPr-4-IA ; N-(3-Phenylpropyl)-4-iodoamphetamine",
+    "iupac_name": "N-[1-(4-Iodophenyl)propan-2-yl]-3-phenylpropan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10578,
+    "formular": "C18H22IN",
+    "molecular_weight": 379.278,
+    "inChl": "1S/C18H22IN/c1-15(14-17-9-11-18(19)12-10-17)20-13-5-8-16-6-3-2-4-7-16/h2-4,6-7,9-12,15,20H,5,8,13-14H2,1H3",
+    "InChl_Key": "NVVHZMXNPUHEAQ-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccc(I)cc1)NCCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10578",
+    "validation": "m_weight unsave, calculated(379.28500000000014)"
+}

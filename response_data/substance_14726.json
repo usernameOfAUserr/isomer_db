@@ -1,0 +1,13 @@
+{
+    "names": "2-(1H-Indol-4-yl)ethan-1-amine",
+    "iupac_name": "14726 ; C10H12N2 ; 160.216",
+    "category": "data not stored",
+    "index": 14726,
+    "formular": "C10H12N2",
+    "molecular_weight": 160.216,
+    "inChl": "1S/C10H12N2/c11-6-4-8-2-1-3-10-9(8)5-7-12-10/h1-3,5,7,12H,4,6,11H2",
+    "InChl_Key": "XBARKDQKGSJDLG-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cccc2[nH]ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14726",
+    "validation": "m_weight unsave, calculated(160.22)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Nefopam",
+    "iupac_name": "5-Methyl-1-phenyl-3,4,5,6-tetrahydro-1H-2,5-benzoxazocine",
+    "category": "data not stored",
+    "index": 12430,
+    "formular": "C17H19NO",
+    "molecular_weight": 253.339,
+    "inChl": "1S/C17H19NO/c1-18-11-12-19-17(14-7-3-2-4-8-14)16-10-6-5-9-15(16)13-18/h2-10,17H,11-13H2,1H3",
+    "InChl_Key": "RGPDEAGGEXEMMM-UHFFFAOYSA-N",
+    "SMILES": "CN1CCOC(c2ccccc2)c2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12430",
+    "validation": "m_weight unsave, calculated(253.34500000000003)"
+}

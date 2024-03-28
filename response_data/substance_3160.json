@@ -1,0 +1,13 @@
+{
+    "names": "Propyl-norfentanyl",
+    "iupac_name": "N-Phenyl-N-(1-propylpiperidin-4-yl)propanamide",
+    "category": "Fentanyl",
+    "index": 3160,
+    "formular": "C17H26N2O",
+    "molecular_weight": 274.401,
+    "inChl": "1S/C17H26N2O/c1-3-12-18-13-10-16(11-14-18)19(17(20)4-2)15-8-6-5-7-9-15/h5-9,16H,3-4,10-14H2,1-2H3",
+    "InChl_Key": "HDNAZKBGDIBSLJ-UHFFFAOYSA-N",
+    "SMILES": "CCCN1CCC(N(C(=O)CC)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3160",
+    "validation": "m_weight unsave, calculated(274.4080000000001)"
+}

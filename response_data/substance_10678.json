@@ -1,0 +1,13 @@
+{
+    "names": "N-PhBu-A ; N-(4-Phenylbutyl)amphetamine",
+    "iupac_name": "4-Phenyl-N-(1-phenylpropan-2-yl)butan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10678,
+    "formular": "C19H25N",
+    "molecular_weight": 267.409,
+    "inChl": "1S/C19H25N/c1-17(16-19-13-6-3-7-14-19)20-15-9-8-12-18-10-4-2-5-11-18/h2-7,10-11,13-14,17,20H,8-9,12,15-16H2,1H3",
+    "InChl_Key": "LFAVXHNZCYGUPI-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NCCCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10678",
+    "validation": "m_weight unsave, calculated(267.41599999999994)"
+}

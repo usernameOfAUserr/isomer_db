@@ -1,0 +1,13 @@
+{
+    "names": "Metizolam ; Desmethyletizolam",
+    "iupac_name": "4-(2-Chlorophenyl)-2-ethyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine",
+    "category": "Aryldiazepine",
+    "index": 3051,
+    "formular": "C16H13ClN4S",
+    "molecular_weight": 328.819,
+    "inChl": "1S/C16H13ClN4S/c1-2-10-7-12-15(11-5-3-4-6-13(11)17)18-8-14-20-19-9-21(14)16(12)22-10/h3-7,9H,2,8H2,1H3",
+    "InChl_Key": "NQSSWDKQLVBUQN-UHFFFAOYSA-N",
+    "SMILES": "CCc1cc2c(s1)-n1cnnc1CN=C2c1ccccc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3051",
+    "validation": "m_weight unsave, calculated(328.828)"
+}

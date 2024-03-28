@@ -1,0 +1,13 @@
+{
+    "names": "Quinolin-2-amine",
+    "iupac_name": "11380 ; C9H8N2 ; 144.173",
+    "category": "data not stored",
+    "index": 11380,
+    "formular": "C9H8N2",
+    "molecular_weight": 144.173,
+    "inChl": "1S/C9H8N2/c10-9-6-5-7-3-1-2-4-8(7)11-9/h1-6H,(H2,10,11)",
+    "InChl_Key": "GCMNJUJAKQGROZ-UHFFFAOYSA-N",
+    "SMILES": "Nc1ccc2ccccc2n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11380",
+    "validation": "m_weight unsave, calculated(144.17700000000002)"
+}

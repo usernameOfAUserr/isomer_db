@@ -1,0 +1,13 @@
+{
+    "names": "EZS-30-NBOH",
+    "iupac_name": "3-(2-{[(2-Hydroxyphenyl)methyl]amino}ethyl)quinazoline-2,4(1H,3H)-dione",
+    "category": "data not stored",
+    "index": 12500,
+    "formular": "C17H17N3O3",
+    "molecular_weight": 311.335,
+    "inChl": "1S/C17H17N3O3/c21-15-8-4-1-5-12(15)11-18-9-10-20-16(22)13-6-2-3-7-14(13)19-17(20)23/h1-8,18,21H,9-11H2,(H,19,23)",
+    "InChl_Key": "SAILJVDJZOVWBU-UHFFFAOYSA-N",
+    "SMILES": "O=c1[nH]c2ccccc2c(=O)n1CCNCc1ccccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12500",
+    "validation": "m_weight unsave, calculated(311.341)"
+}

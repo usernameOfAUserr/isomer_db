@@ -1,0 +1,13 @@
+{
+    "names": "BPH ; Butylphenidate",
+    "iupac_name": "Butyl phenyl(piperidin-2-yl)acetate",
+    "category": "data not stored",
+    "index": 8638,
+    "formular": "C17H25NO2",
+    "molecular_weight": 275.386,
+    "inChl": "1S/C17H25NO2/c1-2-3-13-20-17(19)16(14-9-5-4-6-10-14)15-11-7-8-12-18-15/h4-6,9-10,15-16,18H,2-3,7-8,11-13H2,1H3",
+    "InChl_Key": "BMITZBVIXKTTQB-UHFFFAOYSA-N",
+    "SMILES": "CCCCOC(=O)C(c1ccccc1)C1CCCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8638",
+    "validation": "m_weight unsave, calculated(275.392)"
+}

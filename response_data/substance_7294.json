@@ -1,0 +1,13 @@
+{
+    "names": "1-Methyl-T ; 1-Methyltryptamine",
+    "iupac_name": "2-(1-Methyl-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 7294,
+    "formular": "C11H14N2",
+    "molecular_weight": 174.242,
+    "inChl": "1S/C11H14N2/c1-13-8-9(6-7-12)10-4-2-3-5-11(10)13/h2-5,8H,6-7,12H2,1H3",
+    "InChl_Key": "CAAGZPJPCKMFBD-UHFFFAOYSA-N",
+    "SMILES": "Cn1cc(CCN)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7294",
+    "validation": "m_weight unsave, calculated(174.24699999999999)"
+}

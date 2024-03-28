@@ -1,0 +1,13 @@
+{
+    "names": "N-Adamantyl-fentanyl",
+    "iupac_name": "N-(Adamantan-1-yl)-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide",
+    "category": "Fentanyl",
+    "index": 1693,
+    "formular": "C26H38N2O",
+    "molecular_weight": 394.593,
+    "inChl": "1S/C26H38N2O/c1-2-25(29)28(26-17-21-14-22(18-26)16-23(15-21)19-26)24-9-12-27(13-10-24)11-8-20-6-4-3-5-7-20/h3-7,21-24H,2,8-19H2,1H3",
+    "InChl_Key": "WVHMYQYXDPBJIG-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(C1CCN(CCc2ccccc2)CC1)C12CC3CC(CC(C3)C1)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1693",
+    "validation": "m_weight unsave, calculated(394.6030000000001)"
+}

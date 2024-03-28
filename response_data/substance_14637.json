@@ -1,0 +1,13 @@
+{
+    "names": "5-(2-Methylbenzyloxy)tryptamine",
+    "iupac_name": "2-{5-[(2-Methylphenyl)methoxy]-1H-indol-3-yl}ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 14637,
+    "formular": "C18H20N2O",
+    "molecular_weight": 280.364,
+    "inChl": "1S/C18H20N2O/c1-13-4-2-3-5-15(13)12-21-16-6-7-18-17(10-16)14(8-9-19)11-20-18/h2-7,10-11,20H,8-9,12,19H2,1H3",
+    "InChl_Key": "QQXZOTIRWHVIKK-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccccc1COc1ccc2[nH]cc(CCN)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14637",
+    "validation": "m_weight unsave, calculated(280.371)"
+}

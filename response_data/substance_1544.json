@@ -1,0 +1,13 @@
+{
+    "names": "3-{2-[Pentyl(2-phenylethyl)amino]ethyl}phenol",
+    "iupac_name": "1544 ; C21H29NO ; 311.461",
+    "category": "data not stored",
+    "index": 1544,
+    "formular": "C21H29NO",
+    "molecular_weight": 311.461,
+    "inChl": "1S/C21H29NO/c1-2-3-7-15-22(16-13-19-9-5-4-6-10-19)17-14-20-11-8-12-21(23)18-20/h4-6,8-12,18,23H,2-3,7,13-17H2,1H3",
+    "InChl_Key": "CRDPGPNGVQWYOK-UHFFFAOYSA-N",
+    "SMILES": "CCCCCN(CCc1ccccc1)CCc1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1544",
+    "validation": "m_weight unsave, calculated(311.469)"
+}

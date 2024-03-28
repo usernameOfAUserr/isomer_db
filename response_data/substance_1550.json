@@ -1,0 +1,13 @@
+{
+    "names": "2C-GNAT",
+    "iupac_name": "2-(3,6,7,8-Tetrahydro-2H-furo[2,3-g][1]benzopyran-9-yl)ethan-1-amine ; 2-(3,6,7,8-Tetrahydro-2H-furo[2,3-g]chromen-9-yl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 1550,
+    "formular": "C13H17NO2",
+    "molecular_weight": 219.28,
+    "inChl": "1S/C13H17NO2/c14-5-3-11-10-2-1-6-15-12(10)8-9-4-7-16-13(9)11/h8H,1-7,14H2",
+    "InChl_Key": "QXLHSAXQWDMDIT-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c2c(cc3c1OCC3)OCCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1550",
+    "validation": ""
+}

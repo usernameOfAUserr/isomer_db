@@ -1,0 +1,13 @@
+{
+    "names": "2,4-MHPEA ; 2-Methoxy-4-hydroxyphenethylamine",
+    "iupac_name": "4-(2-Aminoethyl)-3-methoxyphenol",
+    "category": "Shulgin_Index",
+    "index": 6456,
+    "formular": "C9H13NO2",
+    "molecular_weight": 167.205,
+    "inChl": "1S/C9H13NO2/c1-12-9-6-8(11)3-2-7(9)4-5-10/h2-3,6,11H,4-5,10H2,1H3",
+    "InChl_Key": "PCRGOGUXNSLMNX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(O)ccc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6456",
+    "validation": "m_weight unsave, calculated(167.20799999999997)"
+}

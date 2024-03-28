@@ -1,0 +1,13 @@
+{
+    "names": "Haloxazolam",
+    "iupac_name": "10-Bromo-11b-(2-fluorophenyl)-2,3,7,11b-tetrahydro[1,3]oxazolo[3,2-d][1,4]benzodiazepin-6(5H)-one",
+    "category": "Aryldiazepine",
+    "index": 3017,
+    "formular": "C17H14BrFN2O2",
+    "molecular_weight": 377.208,
+    "inChl": "1S/C17H14BrFN2O2/c18-11-5-6-15-13(9-11)17(12-3-1-2-4-14(12)19)21(7-8-23-17)10-16(22)20-15/h1-6,9H,7-8,10H2,(H,20,22)",
+    "InChl_Key": "XDKCGKQHVBOOHC-UHFFFAOYSA-N",
+    "SMILES": "O=C1CN2CCOC2(c2ccccc2F)c2cc(Br)ccc2N1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3017",
+    "validation": "m_weight unsave, calculated(377.21299999999997)"
+}

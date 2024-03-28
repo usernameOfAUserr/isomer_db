@@ -1,0 +1,13 @@
+{
+    "names": "AA ; Phenacylamine",
+    "iupac_name": "2-Amino-1-phenylethan-1-one ; 2-Amino-1-phenylethanone",
+    "category": "Shulgin_Index",
+    "index": 6012,
+    "formular": "C8H9NO",
+    "molecular_weight": 135.163,
+    "inChl": "1S/C8H9NO/c9-6-8(10)7-4-2-1-3-5-7/h1-5H,6,9H2",
+    "InChl_Key": "HEQOJEGTZCTHCF-UHFFFAOYSA-N",
+    "SMILES": "NCC(=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6012",
+    "validation": "m_weight unsave, calculated(135.16599999999997)"
+}

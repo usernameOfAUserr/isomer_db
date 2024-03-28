@@ -1,0 +1,13 @@
+{
+    "names": "2-DM-2C-O ; 2-HO-4,5-DMPEA",
+    "iupac_name": "2-(2-Aminoethyl)-4,5-dimethoxyphenol",
+    "category": "data not stored",
+    "index": 14078,
+    "formular": "C10H15NO3",
+    "molecular_weight": 197.231,
+    "inChl": "1S/C10H15NO3/c1-13-9-5-7(3-4-11)8(12)6-10(9)14-2/h5-6,12H,3-4,11H2,1-2H3",
+    "InChl_Key": "BUOZFAGGJKSWDA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(O)c(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14078",
+    "validation": "m_weight unsave, calculated(197.23399999999998)"
+}

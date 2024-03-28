@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Methyl-NMT ; \u03b1-Methyl-N-methyltryptamine ; Alpha-N ; \u03b1,N-DMT ; \u03b1,N-Dimethyltryptamine ; Indole, 3-[2-(methylamino)propyl] ; 3-[2-(Methylamino)propyl]indole ; Tryptamine, \u03b1,N-dimethyl",
+    "iupac_name": "1-(1H-Indol-3-yl)-N-methylpropan-2-amine",
+    "category": "Tryptamine",
+    "index": 5008,
+    "formular": "C12H16N2",
+    "molecular_weight": 188.269,
+    "inChl": "1S/C12H16N2/c1-9(13-2)7-10-8-14-12-6-4-3-5-11(10)12/h3-6,8-9,13-14H,7H2,1-2H3",
+    "InChl_Key": "HUWIYJREHSBOEO-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5008",
+    "validation": "m_weight unsave, calculated(188.274)"
+}

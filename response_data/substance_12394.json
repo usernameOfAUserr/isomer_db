@@ -1,0 +1,13 @@
+{
+    "names": "3-[(4,4-Difluoropiperidin-1-yl)methyl]-N-{[1-(hydroxymethyl)cyclopentyl]methyl}imidazo[1,5-a]pyridine-1-carboxamide",
+    "iupac_name": "12394 ; C21H28F2N4O2 ; 406.469",
+    "category": "cannabinodids",
+    "index": 12394,
+    "formular": "C21H28F2N4O2",
+    "molecular_weight": 406.469,
+    "inChl": "1S/C21H28F2N4O2/c22-21(23)8-11-26(12-9-21)13-17-25-18(16-5-1-4-10-27(16)17)19(29)24-14-20(15-28)6-2-3-7-20/h1,4-5,10,28H,2-3,6-9,11-15H2,(H,24,29)",
+    "InChl_Key": "NAIUQZFQDFINIL-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCC1(CO)CCCC1)c1nc(CN2CCC(F)(F)CC2)n2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12394",
+    "validation": "m_weight unsave, calculated(406.47700000000026)"
+}

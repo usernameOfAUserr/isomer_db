@@ -1,0 +1,13 @@
+{
+    "names": "o-Fluoro-butyrylfentanyl ; 2\u2032-Fluoro-butyrylfentanyl",
+    "iupac_name": "N-(2-Fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]butanamide",
+    "category": "Fentanyl",
+    "index": 1638,
+    "formular": "C23H29FN2O",
+    "molecular_weight": 368.488,
+    "inChl": "1S/C23H29FN2O/c1-2-8-23(27)26(22-12-7-6-11-21(22)24)20-14-17-25(18-15-20)16-13-19-9-4-3-5-10-19/h3-7,9-12,20H,2,8,13-18H2,1H3",
+    "InChl_Key": "NLSYMTDGNNFMCX-UHFFFAOYSA-N",
+    "SMILES": "CCCC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1638",
+    "validation": "m_weight unsave, calculated(368.4960000000001)"
+}

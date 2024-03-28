@@ -1,0 +1,13 @@
+{
+    "names": "Furethylnorlevorphanol ; Ro-04-1539",
+    "iupac_name": "17-[2-(Furan-2-yl)ethyl]morphinan-3-ol ; (4aR,10R,10aR)-11-[2-(Furan-2-yl)ethyl]-1,3,4,9,10,10a-hexahydro-2H-10,4a-(epiminoethano)phenanthren-6-ol",
+    "category": "data not stored",
+    "index": 7481,
+    "formular": "C22H27NO2",
+    "molecular_weight": 337.455,
+    "inChl": "1S/C22H27NO2/c24-17-7-6-16-14-21-19-5-1-2-9-22(19,20(16)15-17)10-12-23(21)11-8-18-4-3-13-25-18/h3-4,6-7,13,15,19,21,24H,1-2,5,8-12,14H2/t19-,21+,22+/m0/s1",
+    "InChl_Key": "ANCZOEKEGCHEKY-KSEOMHKRSA-N",
+    "SMILES": "Oc1ccc2c(c1)[C@@]13CCCC[C@H]1[C@@H](C2)N(CCc1ccco1)CC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7481",
+    "validation": "m_weight unsave, calculated(337.463)"
+}

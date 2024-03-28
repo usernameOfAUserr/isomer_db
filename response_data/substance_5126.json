@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-T ; 4-Hydroxytryptamine",
+    "iupac_name": "3-(2-Aminoethyl)-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 5126,
+    "formular": "C10H12N2O",
+    "molecular_weight": 176.215,
+    "inChl": "1S/C10H12N2O/c11-5-4-7-6-12-8-2-1-3-9(13)10(7)8/h1-3,6,12-13H,4-5,11H2",
+    "InChl_Key": "FKIRTWDHOWAQGX-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5126",
+    "validation": "m_weight unsave, calculated(176.219)"
+}

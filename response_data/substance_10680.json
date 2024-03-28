@@ -1,0 +1,13 @@
+{
+    "names": "Suvorexant",
+    "iupac_name": "[(7R)-4-(5-Chloro-1,3-benzoxazol-2-yl)-7-methyl-1,4-diazepan-1-yl][5-methyl-2-(2H-1,2,3-triazol-2-yl)phenyl]methanone",
+    "category": "data not stored",
+    "index": 10680,
+    "formular": "C23H23ClN6O2",
+    "molecular_weight": 450.921,
+    "inChl": "1S/C23H23ClN6O2/c1-15-3-5-20(30-25-8-9-26-30)18(13-15)22(31)29-12-11-28(10-7-16(29)2)23-27-19-14-17(24)4-6-21(19)32-23/h3-6,8-9,13-14,16H,7,10-12H2,1-2H3/t16-/m1/s1",
+    "InChl_Key": "JYTNQNCOQXFQPK-MRXNPFEDSA-N",
+    "SMILES": "Cc1ccc(-n2nccn2)c(C(=O)N2CCN(c3nc4cc(Cl)ccc4o3)CC[C@H]2C)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10680",
+    "validation": "m_weight unsave, calculated(450.9300000000001)"
+}

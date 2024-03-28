@@ -1,0 +1,13 @@
+{
+    "names": "T-NB24OMe ; N-(2,4-Dimethoxybenzyl)tryptamine",
+    "iupac_name": "N-[(2,4-Dimethoxyphenyl)methyl]-2-(1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 7438,
+    "formular": "C19H22N2O2",
+    "molecular_weight": 310.39,
+    "inChl": "1S/C19H22N2O2/c1-22-16-8-7-15(19(11-16)23-2)12-20-10-9-14-13-21-18-6-4-3-5-17(14)18/h3-8,11,13,20-21H,9-10,12H2,1-2H3",
+    "InChl_Key": "WRUDCACOUHLUEZ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CNCCc2c[nH]c3ccccc23)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7438",
+    "validation": "m_weight unsave, calculated(310.397)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "AMPA",
+    "iupac_name": "3-(3-Hydroxy-5-methyl-1,2-oxazol-4-yl)alanine",
+    "category": "data not stored",
+    "index": 6350,
+    "formular": "C7H10N2O4",
+    "molecular_weight": 186.165,
+    "inChl": "1S/C7H10N2O4/c1-3-4(6(10)9-13-3)2-5(8)7(11)12/h5H,2,8H2,1H3,(H,9,10)(H,11,12)",
+    "InChl_Key": "UUDAMDVQRQNNHZ-UHFFFAOYSA-N",
+    "SMILES": "Cc1onc(O)c1CC(N)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6350",
+    "validation": "m_weight unsave, calculated(186.167)"
+}

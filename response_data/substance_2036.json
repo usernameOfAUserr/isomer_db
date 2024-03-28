@@ -1,0 +1,13 @@
+{
+    "names": "B-PLY ; DOB-butterFLY",
+    "iupac_name": "1-(10-Bromo-2,3,4,7,8,9-hexahydrobenzo[1,2-b:4,5-b\u2032]dipyran-5-yl)propan-2-amine ; 1-(10-Bromo-2,3,4,7,8,9-hexahydropyrano[2,3-g]chromen-5-yl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 2036,
+    "formular": "C15H20BrNO2",
+    "molecular_weight": 326.229,
+    "inChl": "1S/C15H20BrNO2/c1-9(17)8-12-10-4-2-7-19-15(10)13(16)11-5-3-6-18-14(11)12/h9H,2-8,17H2,1H3",
+    "InChl_Key": "PDCVVUDZIAVPTI-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c2c(c(Br)c3c1OCCC3)OCCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2036",
+    "validation": "m_weight unsave, calculated(326.2339999999999)"
+}

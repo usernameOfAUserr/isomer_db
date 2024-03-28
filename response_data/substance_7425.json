@@ -1,0 +1,13 @@
+{
+    "names": "BHB ; 2,5-Dibutoxy-4-hexylamphetamine",
+    "iupac_name": "1-(2,5-Dibutoxy-4-hexylphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7425,
+    "formular": "C23H41NO2",
+    "molecular_weight": 363.577,
+    "inChl": "1S/C23H41NO2/c1-5-8-11-12-13-20-17-23(26-15-10-7-3)21(16-19(4)24)18-22(20)25-14-9-6-2/h17-19H,5-16,24H2,1-4H3",
+    "InChl_Key": "QAIDFXHPUMLDHL-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCc1cc(OCCCC)c(CC(C)N)cc1OCCCC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7425",
+    "validation": "m_weight unsave, calculated(363.5860000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "(4aS,8aS)-4a-(3-Hydroxyphenyl)-2-methyloctahydroisoquinolin-8a(1H)-ol",
+    "iupac_name": "7491 ; C16H23NO2 ; 261.359",
+    "category": "Prophetic?",
+    "index": 7491,
+    "formular": "C16H23NO2",
+    "molecular_weight": 261.359,
+    "inChl": "1S/C16H23NO2/c1-17-10-9-15(13-5-4-6-14(18)11-13)7-2-3-8-16(15,19)12-17/h4-6,11,18-19H,2-3,7-10,12H2,1H3/t15-,16+/m0/s1",
+    "InChl_Key": "DAHRNDIJXFKFHP-JKSUJKDBSA-N",
+    "SMILES": "CN1CC[C@]2(c3cccc(O)c3)CCCC[C@@]2(O)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7491",
+    "validation": "m_weight unsave, calculated(261.36499999999995)"
+}

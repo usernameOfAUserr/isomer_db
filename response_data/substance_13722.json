@@ -1,0 +1,13 @@
+{
+    "names": "N-Methylisosalsoline",
+    "iupac_name": "6-Methoxy-1,2-dimethyl-1,2,3,4-tetrahydroisoquinolin-7-ol",
+    "category": "data not stored",
+    "index": 13722,
+    "formular": "C12H17NO2",
+    "molecular_weight": 207.269,
+    "inChl": "1S/C12H17NO2/c1-8-10-7-11(14)12(15-3)6-9(10)4-5-13(8)2/h6-8,14H,4-5H2,1-3H3",
+    "InChl_Key": "QFSVLNAGJRAZFV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(cc1O)C(C)N(C)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13722",
+    "validation": "m_weight unsave, calculated(207.273)"
+}

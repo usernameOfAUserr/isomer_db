@@ -1,0 +1,13 @@
+{
+    "names": "1-(4,5-Dichlorothiophen-2-yl)propan-2-amine",
+    "iupac_name": "12149 ; C7H9Cl2NS ; 210.124",
+    "category": "Phenetylamine",
+    "index": 12149,
+    "formular": "C7H9Cl2NS",
+    "molecular_weight": 210.124,
+    "inChl": "1S/C7H9Cl2NS/c1-4(10)2-5-3-6(8)7(9)11-5/h3-4H,2,10H2,1H3",
+    "InChl_Key": "YCQPUUFXDKYXPF-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1cc(Cl)c(Cl)s1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12149",
+    "validation": "m_weight unsave, calculated(210.12899999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-[4-(4-Fluorophenyl)butyl]-4-(2-methoxyphenyl)piperazine",
+    "iupac_name": "3814 ; C21H27FN2O ; 342.45",
+    "category": "data not stored",
+    "index": 3814,
+    "formular": "C21H27FN2O",
+    "molecular_weight": 342.45,
+    "inChl": "1S/C21H27FN2O/c1-25-21-8-3-2-7-20(21)24-16-14-23(15-17-24)13-5-4-6-18-9-11-19(22)12-10-18/h2-3,7-12H,4-6,13-17H2,1H3",
+    "InChl_Key": "OHHOLPBLYOJVEF-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1N1CCN(CCCCc2ccc(F)cc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3814",
+    "validation": "m_weight unsave, calculated(342.4579999999999)"
+}

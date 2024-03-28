@@ -1,0 +1,13 @@
+{
+    "names": "N-(3,4-Dichlorophenylethyl)-5-MeO-NMT ; N-(3,4-Dichlorophenylethyl)-5-methoxy-N-methyltryptamine",
+    "iupac_name": "2-(3,4-Dichlorophenyl)-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5671,
+    "formular": "C20H22Cl2N2O",
+    "molecular_weight": 377.307,
+    "inChl": "1S/C20H22Cl2N2O/c1-24(9-7-14-3-5-18(21)19(22)11-14)10-8-15-13-23-20-6-4-16(25-2)12-17(15)20/h3-6,11-13,23H,7-10H2,1-2H3",
+    "InChl_Key": "ZGCFUDBTSBAIPV-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN(C)CCc3ccc(Cl)c(Cl)c3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5671",
+    "validation": "m_weight unsave, calculated(377.3149999999999)"
+}

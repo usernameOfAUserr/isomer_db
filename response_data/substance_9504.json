@@ -1,0 +1,13 @@
+{
+    "names": "5-Fluoro-1-[(naphthalen-2-yl)methyl]-2-(pyridin-3-yl)-1H-benzimidazole",
+    "iupac_name": "9504 ; C23H16FN3 ; 353.392",
+    "category": "cannabinodids",
+    "index": 9504,
+    "formular": "C23H16FN3",
+    "molecular_weight": 353.392,
+    "inChl": "1S/C23H16FN3/c24-20-9-10-22-21(13-20)26-23(19-6-3-11-25-14-19)27(22)15-16-7-8-17-4-1-2-5-18(17)12-16/h1-14H,15H2",
+    "InChl_Key": "XMJYUTIWMYLGOV-UHFFFAOYSA-N",
+    "SMILES": "Fc1ccc2c(c1)nc(-c1cccnc1)n2Cc1ccc2ccccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9504",
+    "validation": "m_weight unsave, calculated(353.40000000000003)"
+}

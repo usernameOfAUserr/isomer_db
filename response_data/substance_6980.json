@@ -1,0 +1,13 @@
+{
+    "names": "Re 1",
+    "iupac_name": "[(4-Fluorophenyl){1-[5-(sulfanyl-\u03baS)pentyl]piperidin-4-yl}methanonato][2,2\u2032-(methylazanediyl-\u03baN)di(ethane-1-thiolato-\u03baS)(2-)](oxido)rhenium",
+    "category": "data not stored",
+    "index": 6980,
+    "formular": "C17H24FNOS\u2009\u00b7\u2009C5H13NS2\u2009\u00b7\u2009O\u2009\u00b7\u2009Re",
+    "molecular_weight": 662.945,
+    "inChl": "1S/C17H24FNOS.C5H13NS2.O.Re/c18-16-6-4-14(5-7-16)17(20)15-8-11-19(12-9-15)10-2-1-3-13-21;1-6(2-4-7)3-5-8;;/h4-7,15,21H,1-3,8-13H2;7-8H,2-5H2,1H3;;/q;;;+3/p-3",
+    "InChl_Key": "BIPFKRLGIWHERM-UHFFFAOYSA-K",
+    "SMILES": "C[N+]12CCS[Re]1(=O)(SCCCCCN1CCC(C(=O)c3ccc(F)cc3)CC1)SCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6980",
+    "validation": "m_weight unsave, calculated(659.9319999999997)formular unsave, calculated(C22H34FN2O2ReS3+)"
+}

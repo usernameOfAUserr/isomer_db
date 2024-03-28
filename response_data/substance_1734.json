@@ -1,0 +1,13 @@
+{
+    "names": "Norketamine ; 2-Cl-2\u2032-Oxo-PCA ; N-Desmethylketamine",
+    "iupac_name": "2-Amino-2-(2-chlorophenyl)cyclohexan-1-one",
+    "category": "Arylcycloalkylamine",
+    "index": 1734,
+    "formular": "C12H14ClNO",
+    "molecular_weight": 223.699,
+    "inChl": "1S/C12H14ClNO/c13-10-6-2-1-5-9(10)12(14)8-4-3-7-11(12)15/h1-2,5-6H,3-4,7-8,14H2",
+    "InChl_Key": "BEQZHFIKTBVCAU-UHFFFAOYSA-N",
+    "SMILES": "NC1(c2ccccc2Cl)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1734",
+    "validation": "m_weight unsave, calculated(223.70300000000003)"
+}

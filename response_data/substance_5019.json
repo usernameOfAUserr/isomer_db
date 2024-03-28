@@ -1,0 +1,13 @@
+{
+    "names": "Bufotenin ; 5-Hydroxy-N,N-dimethyltryptamine ; Bufotenine ; 3-(2-Dimethylaminoethyl)indol-5-ol ; N,N-Dimethyl-5-hydroxytryptamine ; N,N-Dimethylserotonin ; 5-HO-DMT ; Indol-5-ol, 3-[2-(dimethylamino)ethyl] ; Mappine ; Tryptamine, N,N-dimethyl-5-hydroxy",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-1H-indol-5-ol",
+    "category": "Tryptamine",
+    "index": 5019,
+    "formular": "C12H16N2O",
+    "molecular_weight": 204.268,
+    "inChl": "1S/C12H16N2O/c1-14(2)6-5-9-8-13-12-4-3-10(15)7-11(9)12/h3-4,7-8,13,15H,5-6H2,1-2H3",
+    "InChl_Key": "VTTONGPRPXSUTJ-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2ccc(O)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5019",
+    "validation": "m_weight unsave, calculated(204.273)"
+}

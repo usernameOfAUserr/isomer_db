@@ -1,0 +1,13 @@
+{
+    "names": "4-AcO-DBT ; 4-Acetoxy-N,N-dibutyltryptamine",
+    "iupac_name": "3-[2-(Dibutylamino)ethyl]-1H-indol-4-yl acetate",
+    "category": "Tryptamine",
+    "index": 5204,
+    "formular": "C20H30N2O2",
+    "molecular_weight": 330.464,
+    "inChl": "1S/C20H30N2O2/c1-4-6-12-22(13-7-5-2)14-11-17-15-21-18-9-8-10-19(20(17)18)24-16(3)23/h8-10,15,21H,4-7,11-14H2,1-3H3",
+    "InChl_Key": "MFCYCDTZOUTDSH-UHFFFAOYSA-N",
+    "SMILES": "CCCCN(CCCC)CCc1c[nH]c2cccc(OC(C)=O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5204",
+    "validation": "m_weight unsave, calculated(330.47200000000015)"
+}

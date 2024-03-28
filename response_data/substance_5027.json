@@ -1,0 +1,13 @@
+{
+    "names": "MBT ; N-Methyl-N-butyltryptamine ; 3-[2-(Butylmethylamino)ethyl]indole ; N-Butyl-N-methyltryptamine ; Indole, 3-[2-(butylmethylamino)ethyl] ; Tryptamine, N-butyl-N-methyl",
+    "iupac_name": "N-[2-(1H-Indol-3-yl)ethyl]-N-methylbutan-1-amine",
+    "category": "Tryptamine",
+    "index": 5027,
+    "formular": "C15H22N2",
+    "molecular_weight": 230.349,
+    "inChl": "1S/C15H22N2/c1-3-4-10-17(2)11-9-13-12-16-15-8-6-5-7-14(13)15/h5-8,12,16H,3-4,9-11H2,1-2H3",
+    "InChl_Key": "PUEYINPKMCBJCA-UHFFFAOYSA-N",
+    "SMILES": "CCCCN(C)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5027",
+    "validation": "m_weight unsave, calculated(230.355)"
+}

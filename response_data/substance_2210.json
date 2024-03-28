@@ -1,0 +1,13 @@
+{
+    "names": "DOB-GNAT ; DOB-2-FLY-5-butterFLY",
+    "iupac_name": "1-(4-Bromo-3,6,7,8-tetrahydro-2H-furo[2,3-g][1]benzopyran-9-yl)propan-2-amine ; 1-(4-Bromo-3,6,7,8-tetrahydro-2H-furo[2,3-g]chromen-9-yl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 2210,
+    "formular": "C14H18BrNO2",
+    "molecular_weight": 312.202,
+    "inChl": "1S/C14H18BrNO2/c1-8(16)7-11-9-3-2-5-17-14(9)12(15)10-4-6-18-13(10)11/h8H,2-7,16H2,1H3",
+    "InChl_Key": "WYFSZAHECAHNFL-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c2c(c(Br)c3c1OCC3)OCCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2210",
+    "validation": "m_weight unsave, calculated(312.207)"
+}

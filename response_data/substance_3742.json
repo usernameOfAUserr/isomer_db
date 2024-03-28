@@ -1,0 +1,13 @@
+{
+    "names": "MRK-016",
+    "iupac_name": "3-tert-Butyl-7-(5-methyl-1,2-oxazol-3-yl)-2-[(1-methyl-1H-1,2,4-triazol-5-yl)methoxy]pyrazolo[1,5-d][1,2,4]triazine",
+    "category": "data not stored",
+    "index": 3742,
+    "formular": "C17H20N8O2",
+    "molecular_weight": 368.393,
+    "inChl": "1S/C17H20N8O2/c1-10-6-11(23-27-10)15-21-19-7-12-14(17(2,3)4)16(22-25(12)15)26-8-13-18-9-20-24(13)5/h6-7,9H,8H2,1-5H3",
+    "InChl_Key": "QYSYOGCIDRANAR-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(-c2nncc3c(C(C)(C)C)c(OCc4ncnn4C)nn23)no1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3742",
+    "validation": "m_weight unsave, calculated(368.4010000000001)"
+}

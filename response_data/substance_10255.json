@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Fluoromescaline ; \u03b2-Fluoro-3,4,5-trimethoxyphenethylamine",
+    "iupac_name": "2-Fluoro-2-(3,4,5-trimethoxyphenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10255,
+    "formular": "C11H16FNO3",
+    "molecular_weight": 229.248,
+    "inChl": "1S/C11H16FNO3/c1-14-9-4-7(8(12)6-13)5-10(15-2)11(9)16-3/h4-5,8H,6,13H2,1-3H3",
+    "InChl_Key": "WJJFRQWHMSRSJV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(F)CN)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10255",
+    "validation": "m_weight unsave, calculated(229.25099999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "RCS-2-C4 ; (C4) ortho-RCS-4",
+    "iupac_name": "(1-Butyl-1H-indol-3-yl)(2-methoxyphenyl)methanone",
+    "category": "cannabinodids",
+    "index": 4078,
+    "formular": "C20H21NO2",
+    "molecular_weight": 307.386,
+    "inChl": "1S/C20H21NO2/c1-3-4-13-21-14-17(15-9-5-7-11-18(15)21)20(22)16-10-6-8-12-19(16)23-2/h5-12,14H,3-4,13H2,1-2H3",
+    "InChl_Key": "VXEFELOAOCLJFI-UHFFFAOYSA-N",
+    "SMILES": "CCCCn1cc(C(=O)c2ccccc2OC)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4078",
+    "validation": "m_weight unsave, calculated(307.3930000000001)"
+}

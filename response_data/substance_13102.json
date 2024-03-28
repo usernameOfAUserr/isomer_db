@@ -1,0 +1,13 @@
+{
+    "names": "4-(2,5-Dimethoxyphenyl)-2,3,4,5-tetrahydro-1H-2-benzazepin-1-one",
+    "iupac_name": "13102 ; C18H19NO3 ; 297.348",
+    "category": "data not stored",
+    "index": 13102,
+    "formular": "C18H19NO3",
+    "molecular_weight": 297.348,
+    "inChl": "1S/C18H19NO3/c1-21-14-7-8-17(22-2)16(10-14)13-9-12-5-3-4-6-15(12)18(20)19-11-13/h3-8,10,13H,9,11H2,1-2H3,(H,19,20)",
+    "InChl_Key": "UHRBBLGNOKOROF-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(OC)c(C2CNC(=O)c3ccccc3C2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13102",
+    "validation": "m_weight unsave, calculated(297.354)"
+}

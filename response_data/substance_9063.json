@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 1-(5-hydroxypentyl)-4-phenylpiperidine-4-carboxylate",
+    "iupac_name": "9063 ; C19H29NO3 ; 319.438",
+    "category": "data not stored",
+    "index": 9063,
+    "formular": "C19H29NO3",
+    "molecular_weight": 319.438,
+    "inChl": "1S/C19H29NO3/c1-2-23-18(22)19(17-9-5-3-6-10-17)11-14-20(15-12-19)13-7-4-8-16-21/h3,5-6,9-10,21H,2,4,7-8,11-16H2,1H3",
+    "InChl_Key": "YBGDVHWDLHJZAN-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CCCCCO)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9063",
+    "validation": "m_weight unsave, calculated(319.44499999999994)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Pentyl naphthoyl pyrazolopyridine 7N",
+    "iupac_name": "(Naphthalen-1-yl)(1-pentyl-1H-pyrazolo[3,4-b]pyridin-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4852,
+    "formular": "C22H21N3O",
+    "molecular_weight": 343.422,
+    "inChl": "1S/C22H21N3O/c1-2-3-6-15-25-22-19(13-8-14-23-22)20(24-25)21(26)18-12-7-10-16-9-4-5-11-17(16)18/h4-5,7-14H,2-3,6,15H2,1H3",
+    "InChl_Key": "HVEYPCGTJMIZGN-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1nc(C(=O)c2cccc3ccccc23)c2cccnc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4852",
+    "validation": "m_weight unsave, calculated(343.43000000000006)"
+}

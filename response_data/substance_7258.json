@@ -1,0 +1,13 @@
+{
+    "names": "4-Methylbufotenin ; 4-Methyl-5-hydroxy-N,N-dimethyltryptamine ; 5-Hydroxy-4,N,N-trimethyltryptamine ; 4-Methyl-5-HO-DMT",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-4-methyl-1H-indol-5-ol",
+    "category": "Prophetic? \u00b7 Tryptamine",
+    "index": 7258,
+    "formular": "C13H18N2O",
+    "molecular_weight": 218.295,
+    "inChl": "1S/C13H18N2O/c1-9-12(16)5-4-11-13(9)10(8-14-11)6-7-15(2)3/h4-5,8,14,16H,6-7H2,1-3H3",
+    "InChl_Key": "JOEDPCOQLOHLPE-UHFFFAOYSA-N",
+    "SMILES": "Cc1c(O)ccc2[nH]cc(CCN(C)C)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7258",
+    "validation": "m_weight unsave, calculated(218.29999999999998)"
+}

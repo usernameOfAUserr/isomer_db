@@ -1,0 +1,13 @@
+{
+    "names": "2-{[2-(Pyridin-3-yl)phenyl]methanesulfinyl}acetamide",
+    "iupac_name": "9693 ; C14H14N2O2S ; 274.338",
+    "category": "data not stored",
+    "index": 9693,
+    "formular": "C14H14N2O2S",
+    "molecular_weight": 274.338,
+    "inChl": "1S/C14H14N2O2S/c15-14(17)10-19(18)9-12-4-1-2-6-13(12)11-5-3-7-16-8-11/h1-8H,9-10H2,(H2,15,17)",
+    "InChl_Key": "AQBHANPZUQYWCM-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)CS(=O)Cc1ccccc1-c1cccnc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9693",
+    "validation": "m_weight unsave, calculated(274.345)"
+}

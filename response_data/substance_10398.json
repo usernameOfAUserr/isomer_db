@@ -1,0 +1,13 @@
+{
+    "names": "2,3-F-4,5-DHPEA ; 2,3-Difluoro-4,5-dihydroxyphenethylamine",
+    "iupac_name": "5-(2-Aminoethyl)-3,4-difluorobenzene-1,2-diol",
+    "category": "Phenetylamine",
+    "index": 10398,
+    "formular": "C8H9F2NO2",
+    "molecular_weight": 189.159,
+    "inChl": "1S/C8H9F2NO2/c9-6-4(1-2-11)3-5(12)8(13)7(6)10/h3,12-13H,1-2,11H2",
+    "InChl_Key": "NKOTVQNOEFJHJJ-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cc(O)c(O)c(F)c1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10398",
+    "validation": "m_weight unsave, calculated(189.16099999999994)"
+}

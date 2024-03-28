@@ -1,0 +1,13 @@
+{
+    "names": "WO 2008/032164 #292",
+    "iupac_name": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-3-butyl-2-oxo-2,3-dihydro-1H-benzimidazole-1-carboxamide",
+    "category": "cannabinodids",
+    "index": 4897,
+    "formular": "C18H26N4O3",
+    "molecular_weight": 346.424,
+    "inChl": "1S/C18H26N4O3/c1-5-6-11-21-12-9-7-8-10-13(12)22(17(21)25)16(24)20-14(15(19)23)18(2,3)4/h7-10,14H,5-6,11H2,1-4H3,(H2,19,23)(H,20,24)/t14-/m1/s1",
+    "InChl_Key": "AZFVXHKZVJZFIR-CQSZACIVSA-N",
+    "SMILES": "CCCCn1c(=O)n(C(=O)N[C@H](C(N)=O)C(C)(C)C)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4897",
+    "validation": "m_weight unsave, calculated(346.43100000000015)"
+}

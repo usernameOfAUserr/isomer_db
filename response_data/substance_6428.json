@@ -1,0 +1,13 @@
+{
+    "names": "5H-2C-B ; 4-Br-2-MPEA",
+    "iupac_name": "2-(4-Bromo-2-methoxyphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 6428,
+    "formular": "C9H12BrNO",
+    "molecular_weight": 230.102,
+    "inChl": "1S/C9H12BrNO/c1-12-9-6-8(10)3-2-7(9)4-5-11/h2-3,6H,4-5,11H2,1H3",
+    "InChl_Key": "OTADZJZZPXOZQT-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Br)ccc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6428",
+    "validation": "m_weight unsave, calculated(230.10499999999996)"
+}

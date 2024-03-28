@@ -1,0 +1,13 @@
+{
+    "names": "ECPT ; N-Ethyl-N-cyclopropyltryptamine",
+    "iupac_name": "N-Ethyl-N-[2-(1H-indol-3-yl)ethyl]cyclopropanamine",
+    "category": "Tryptamine",
+    "index": 13980,
+    "formular": "C15H20N2",
+    "molecular_weight": 228.333,
+    "inChl": "1S/C15H20N2/c1-2-17(13-7-8-13)10-9-12-11-16-15-6-4-3-5-14(12)15/h3-6,11,13,16H,2,7-10H2,1H3",
+    "InChl_Key": "BOJUDAZOQVYIGT-UHFFFAOYSA-N",
+    "SMILES": "CCN(CCc1c[nH]c2ccccc12)C1CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13980",
+    "validation": "m_weight unsave, calculated(228.33900000000006)"
+}

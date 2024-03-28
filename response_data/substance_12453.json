@@ -1,0 +1,13 @@
+{
+    "names": "PEA-NBI",
+    "iupac_name": "N-[(2-Iodophenyl)methyl]-2-phenylethan-1-amine",
+    "category": "data not stored",
+    "index": 12453,
+    "formular": "C15H16IN",
+    "molecular_weight": 337.199,
+    "inChl": "1S/C15H16IN/c16-15-9-5-4-8-14(15)12-17-11-10-13-6-2-1-3-7-13/h1-9,17H,10-12H2",
+    "InChl_Key": "ZYZJAEZUKVMQIZ-UHFFFAOYSA-N",
+    "SMILES": "Ic1ccccc1CNCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12453",
+    "validation": "m_weight unsave, calculated(337.20400000000006)"
+}

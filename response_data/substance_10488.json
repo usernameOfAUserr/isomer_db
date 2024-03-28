@@ -1,0 +1,13 @@
+{
+    "names": "2-(2-Bromophenyl)-N,N-dipropylcyclopropan-1-amine",
+    "iupac_name": "10488 ; C15H22BrN ; 296.246",
+    "category": "Phenetylamine",
+    "index": 10488,
+    "formular": "C15H22BrN",
+    "molecular_weight": 296.246,
+    "inChl": "1S/C15H22BrN/c1-3-9-17(10-4-2)15-11-13(15)12-7-5-6-8-14(12)16/h5-8,13,15H,3-4,9-11H2,1-2H3",
+    "InChl_Key": "ACQHMFVIQVCMBR-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C1CC1c1ccccc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10488",
+    "validation": "m_weight unsave, calculated(296.25200000000007)"
+}

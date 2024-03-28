@@ -1,0 +1,13 @@
+{
+    "names": "RY-057",
+    "iupac_name": "7-Ethynyl-1-[3-(propan-2-yl)-1,2,4-oxadiazol-5-yl]-11,12,13,13a-tetrahydro-9H-imidazo[1,5-a]pyrrolo[2,1-c][1,4]benzodiazepin-9-one",
+    "category": "data not stored",
+    "index": 6832,
+    "formular": "C21H19N5O2",
+    "molecular_weight": 373.408,
+    "inChl": "1S/C21H19N5O2/c1-4-13-7-8-15-14(10-13)21(27)25-9-5-6-16(25)18-17(22-11-26(15)18)20-23-19(12(2)3)24-28-20/h1,7-8,10-12,16H,5-6,9H2,2-3H3",
+    "InChl_Key": "KDGMRQJYYKGVCJ-UHFFFAOYSA-N",
+    "SMILES": "C#Cc1ccc2c(c1)C(=O)N1CCCC1c1c(-c3nc(C(C)C)no3)ncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6832",
+    "validation": "m_weight unsave, calculated(373.4160000000001)"
+}

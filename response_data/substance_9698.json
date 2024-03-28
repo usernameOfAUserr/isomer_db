@@ -1,0 +1,13 @@
+{
+    "names": "2-{[2-(Cyclopent-1-en-1-yl)phenyl]methanesulfinyl}acetamide",
+    "iupac_name": "9698 ; C14H17NO2S ; 263.355",
+    "category": "data not stored",
+    "index": 9698,
+    "formular": "C14H17NO2S",
+    "molecular_weight": 263.355,
+    "inChl": "1S/C14H17NO2S/c15-14(16)10-18(17)9-12-7-3-4-8-13(12)11-5-1-2-6-11/h3-5,7-8H,1-2,6,9-10H2,(H2,15,16)",
+    "InChl_Key": "MILSNRUXSVJGOX-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)CS(=O)Cc1ccccc1C1=CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9698",
+    "validation": "m_weight unsave, calculated(263.3619999999999)"
+}

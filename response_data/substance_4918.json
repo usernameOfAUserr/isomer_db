@@ -1,0 +1,13 @@
+{
+    "names": "WO 2011/025541 #455",
+    "iupac_name": "(4aR,5aR)-1-(2,4-Difluorophenyl)-N-[4-(hydroxymethyl)oxan-4-yl]-4,4a,5,5a-tetrahydro-1H-cyclopropa[4,5]cyclopenta[1,2-c]pyrazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4918,
+    "formular": "C20H21F2N3O3",
+    "molecular_weight": 389.396,
+    "inChl": "1S/C20H21F2N3O3/c21-12-1-2-16(15(22)9-12)25-18-13-7-11(13)8-14(18)17(24-25)19(27)23-20(10-26)3-5-28-6-4-20/h1-2,9,11,13,26H,3-8,10H2,(H,23,27)/t11-,13-/m1/s1",
+    "InChl_Key": "JWFKDRNPFPKGRH-DGCLKSJQSA-N",
+    "SMILES": "O=C(NC1(CO)CCOCC1)c1nn(-c2ccc(F)cc2F)c2c1C[C@H]1C[C@@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4918",
+    "validation": "m_weight unsave, calculated(389.4020000000001)"
+}

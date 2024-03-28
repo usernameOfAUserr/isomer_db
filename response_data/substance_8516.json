@@ -1,0 +1,13 @@
+{
+    "names": "2,4,5-TMMC ; 2,4,5-Trimethylmethcathinone",
+    "iupac_name": "2-(Methylamino)-1-(2,4,5-trimethylphenyl)propan-1-one",
+    "category": "data not stored",
+    "index": 8516,
+    "formular": "C13H19NO",
+    "molecular_weight": 205.296,
+    "inChl": "1S/C13H19NO/c1-8-6-10(3)12(7-9(8)2)13(15)11(4)14-5/h6-7,11,14H,1-5H3",
+    "InChl_Key": "LADJRHTVATTWAT-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(=O)c1cc(C)c(C)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8516",
+    "validation": "m_weight unsave, calculated(205.30099999999996)"
+}

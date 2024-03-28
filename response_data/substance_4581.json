@@ -1,0 +1,13 @@
+{
+    "names": "WO 2014/167530 #MJ10",
+    "iupac_name": "1-[(Adamantan-2-yl)methyl]-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4581,
+    "formular": "C28H33N3O",
+    "molecular_weight": 427.581,
+    "inChl": "1S/C28H33N3O/c1-28(2,22-8-4-3-5-9-22)29-27(32)26-23-10-6-7-11-25(23)31(30-26)17-24-20-13-18-12-19(15-20)16-21(24)14-18/h3-11,18-21,24H,12-17H2,1-2H3,(H,29,32)",
+    "InChl_Key": "RALVRWNQBBEIPX-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1nn(CC2C3CC4CC(C3)CC2C4)c2ccccc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4581",
+    "validation": "m_weight unsave, calculated(427.59200000000016)"
+}

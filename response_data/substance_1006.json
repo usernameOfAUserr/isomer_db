@@ -1,0 +1,13 @@
+{
+    "names": "N-[1-(2-Methoxyphenyl)propan-2-yl]acetamide",
+    "iupac_name": "1006 ; C12H17NO2 ; 207.269",
+    "category": "data not stored",
+    "index": 1006,
+    "formular": "C12H17NO2",
+    "molecular_weight": 207.269,
+    "inChl": "1S/C12H17NO2/c1-9(13-10(2)14)8-11-6-4-5-7-12(11)15-3/h4-7,9H,8H2,1-3H3,(H,13,14)",
+    "InChl_Key": "KMMMHHCNFVYPIJ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1CC(C)NC(C)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1006",
+    "validation": "m_weight unsave, calculated(207.273)"
+}

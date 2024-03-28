@@ -1,0 +1,13 @@
+{
+    "names": "N-Me-\u03b2-Et-PEA ; N-Methyl-\u03b2-ethylphenethylamine",
+    "iupac_name": "N-Methyl-2-phenylbutan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10783,
+    "formular": "C11H17N",
+    "molecular_weight": 163.259,
+    "inChl": "1S/C11H17N/c1-3-10(9-12-2)11-7-5-4-6-8-11/h4-8,10,12H,3,9H2,1-2H3",
+    "InChl_Key": "XLBPZPVJGDFUMN-UHFFFAOYSA-N",
+    "SMILES": "CCC(CNC)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10783",
+    "validation": "m_weight unsave, calculated(163.26399999999995)"
+}

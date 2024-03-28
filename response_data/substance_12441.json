@@ -1,0 +1,13 @@
+{
+    "names": "PF-592,379",
+    "iupac_name": "5-[(2R,5S)-5-Methyl-4-propylmorpholin-2-yl]pyridin-2-amine",
+    "category": "data not stored",
+    "index": 12441,
+    "formular": "C13H21N3O",
+    "molecular_weight": 235.325,
+    "inChl": "1S/C13H21N3O/c1-3-6-16-8-12(17-9-10(16)2)11-4-5-13(14)15-7-11/h4-5,7,10,12H,3,6,8-9H2,1-2H3,(H2,14,15)/t10-,12-/m0/s1",
+    "InChl_Key": "DFTCYTDJDXZFSK-JQWIXIFHSA-N",
+    "SMILES": "CCCN1C[C@@H](c2ccc(N)nc2)OC[C@@H]1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12441",
+    "validation": "m_weight unsave, calculated(235.331)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-MeA ; \u03b2-Methylamphetamine",
+    "iupac_name": "3-Phenylbutan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10647,
+    "formular": "C10H15N",
+    "molecular_weight": 149.233,
+    "inChl": "1S/C10H15N/c1-8(9(2)11)10-6-4-3-5-7-10/h3-9H,11H2,1-2H3",
+    "InChl_Key": "BKRHEVJTTWAYFJ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)C(C)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10647",
+    "validation": "m_weight unsave, calculated(149.23699999999994)"
+}

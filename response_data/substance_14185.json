@@ -1,0 +1,13 @@
+{
+    "names": "1-Methoxy-6,6,9-trimethyl-3-propyl-6H-dibenzo[b,d]pyran",
+    "iupac_name": "14185 ; C20H24O2 ; 296.403",
+    "category": "data not stored",
+    "index": 14185,
+    "formular": "C20H24O2",
+    "molecular_weight": 296.403,
+    "inChl": "1S/C20H24O2/c1-6-7-14-11-17(21-5)19-15-10-13(2)8-9-16(15)20(3,4)22-18(19)12-14/h8-12H,6-7H2,1-5H3",
+    "InChl_Key": "UDXUQTAVFURHRS-UHFFFAOYSA-N",
+    "SMILES": "CCCc1cc(OC)c2c(c1)OC(C)(C)c1ccc(C)cc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14185",
+    "validation": "m_weight unsave, calculated(296.41)"
+}

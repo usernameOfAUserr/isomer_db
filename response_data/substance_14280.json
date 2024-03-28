@@ -1,0 +1,13 @@
+{
+    "names": "25O-NM(4Pyrazole3Ph)",
+    "iupac_name": "N-[(3-Phenyl-1H-pyrazol-4-yl)methyl]-2-(2,4,5-trimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14280,
+    "formular": "C21H25N3O3",
+    "molecular_weight": 367.442,
+    "inChl": "1S/C21H25N3O3/c1-25-18-12-20(27-3)19(26-2)11-16(18)9-10-22-13-17-14-23-24-21(17)15-7-5-4-6-8-15/h4-8,11-12,14,22H,9-10,13H2,1-3H3,(H,23,24)",
+    "InChl_Key": "SHCPZBTZTNOFIY-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(OC)cc1CCNCc1c[nH]nc1-c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14280",
+    "validation": "m_weight unsave, calculated(367.44900000000007)"
+}

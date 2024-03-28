@@ -1,0 +1,13 @@
+{
+    "names": "US 7297796 #33",
+    "iupac_name": "N-(Adamantan-2-yl)-4-methyl-3-(morpholine-4-sulfonyl)benzamide",
+    "category": "cannabinodids",
+    "index": 4246,
+    "formular": "C22H30N2O4S",
+    "molecular_weight": 418.55,
+    "inChl": "1S/C22H30N2O4S/c1-14-2-3-17(13-20(14)29(26,27)24-4-6-28-7-5-24)22(25)23-21-18-9-15-8-16(11-18)12-19(21)10-15/h2-3,13,15-16,18-19,21H,4-12H2,1H3,(H,23,25)",
+    "InChl_Key": "ZHZOQUQDUAAVIE-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)NC2C3CC4CC(C3)CC2C4)cc1S(=O)(=O)N1CCOCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4246",
+    "validation": "m_weight unsave, calculated(418.55900000000014)"
+}

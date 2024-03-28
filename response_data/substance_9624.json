@@ -1,0 +1,13 @@
+{
+    "names": "2-[({[2-(5-Fluoro-2-methoxyphenyl)cyclopropyl]methyl}amino)methyl]benzonitrile",
+    "iupac_name": "9624 ; C19H19FN2O ; 310.365",
+    "category": "data not stored",
+    "index": 9624,
+    "formular": "C19H19FN2O",
+    "molecular_weight": 310.365,
+    "inChl": "1S/C19H19FN2O/c1-23-19-7-6-16(20)9-18(19)17-8-15(17)12-22-11-14-5-3-2-4-13(14)10-21/h2-7,9,15,17,22H,8,11-12H2,1H3",
+    "InChl_Key": "QOLLBJICSQQCLT-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(F)cc1C1CC1CNCc1ccccc1C#N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9624",
+    "validation": "m_weight unsave, calculated(310.372)"
+}

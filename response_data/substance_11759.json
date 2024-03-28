@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-HO-5H-2C-TFM",
+    "iupac_name": "2-Amino-1-[2-methoxy-4-(trifluoromethyl)phenyl]ethan-1-ol",
+    "category": "data not stored",
+    "index": 11759,
+    "formular": "C10H12F3NO2",
+    "molecular_weight": 235.203,
+    "inChl": "1S/C10H12F3NO2/c1-16-9-4-6(10(11,12)13)2-3-7(9)8(15)5-14/h2-4,8,15H,5,14H2,1H3",
+    "InChl_Key": "JVFFEVWIQNIVGA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(F)(F)F)ccc1C(O)CN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11759",
+    "validation": "m_weight unsave, calculated(235.20499999999993)"
+}

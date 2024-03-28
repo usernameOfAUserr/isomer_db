@@ -1,0 +1,13 @@
+{
+    "names": "HU-345",
+    "iupac_name": "6,6,9-Trimethyl-3-pentyl-1H-dibenzo[b,d]pyran-1,4(6H)-dione",
+    "category": "cannabinodids",
+    "index": 4901,
+    "formular": "C21H24O3",
+    "molecular_weight": 324.413,
+    "inChl": "1S/C21H24O3/c1-5-6-7-8-14-12-17(22)18-15-11-13(2)9-10-16(15)21(3,4)24-20(18)19(14)23/h9-12H,5-8H2,1-4H3",
+    "InChl_Key": "UFDYTRQMIXJHTH-UHFFFAOYSA-N",
+    "SMILES": "CCCCCC1=CC(=O)C2=C(OC(C)(C)c3ccc(C)cc32)C1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4901",
+    "validation": "m_weight unsave, calculated(324.42)"
+}

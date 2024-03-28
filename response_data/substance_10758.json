@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Br-MA ; \u03b2-Bromomethamphetamine",
+    "iupac_name": "1-Bromo-N-methyl-1-phenylpropan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10758,
+    "formular": "C10H14BrN",
+    "molecular_weight": 228.129,
+    "inChl": "1S/C10H14BrN/c1-8(12-2)10(11)9-6-4-3-5-7-9/h3-8,10,12H,1-2H3",
+    "InChl_Key": "PCTSITTVLWKNKT-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(Br)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10758",
+    "validation": "m_weight unsave, calculated(228.13299999999998)"
+}

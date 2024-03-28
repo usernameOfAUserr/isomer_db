@@ -1,0 +1,13 @@
+{
+    "names": "1-Benzothiophene-7-carbaldehyde",
+    "iupac_name": "13109 ; C9H6OS ; 162.208",
+    "category": "data not stored",
+    "index": 13109,
+    "formular": "C9H6OS",
+    "molecular_weight": 162.208,
+    "inChl": "1S/C9H6OS/c10-6-8-3-1-2-7-4-5-11-9(7)8/h1-6H",
+    "InChl_Key": "WSSVAOKEXMFMIO-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1cccc2ccsc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13109",
+    "validation": "m_weight unsave, calculated(162.213)"
+}

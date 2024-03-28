@@ -1,0 +1,13 @@
+{
+    "names": "4CE-25DIETO ; 2,5-Diethoxy-\u03b1,4-diethylphenethylamine",
+    "iupac_name": "1-(2,5-Diethoxy-4-ethylphenyl)butan-2-amine",
+    "category": "data not stored",
+    "index": 1211,
+    "formular": "C16H27NO2",
+    "molecular_weight": 265.391,
+    "inChl": "1S/C16H27NO2/c1-5-12-10-16(19-8-4)13(9-14(17)6-2)11-15(12)18-7-3/h10-11,14H,5-9,17H2,1-4H3",
+    "InChl_Key": "CVJQARLFWMPJBL-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(CC(N)CC)c(OCC)cc1CC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1211",
+    "validation": "m_weight unsave, calculated(265.39699999999993)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Pilocereine",
+    "iupac_name": "6-Methoxy-8-{[6-methoxy-8-{[6-methoxy-2-methyl-1-(2-methylpropyl)-1,2,3,4-tetrahydroisoquinolin-7-yl]oxy}-2-methyl-1-(2-methylpropyl)-1,2,3,4-tetrahydroisoquinolin-7-yl]oxy}-2-methyl-1-(2-methylpropyl)-1,2,3,4-tetrahydroisoquinolin-7-ol",
+    "category": "data not stored",
+    "index": 12675,
+    "formular": "C45H65N3O6",
+    "molecular_weight": 744.014,
+    "inChl": "1S/C45H65N3O6/c1-26(2)19-33-32-25-37(36(50-10)22-29(32)13-16-46(33)7)53-45-41-31(15-18-48(9)35(41)21-28(5)6)24-39(52-12)43(45)54-44-40-30(23-38(51-11)42(44)49)14-17-47(8)34(40)20-27(3)4/h22-28,33-35,49H,13-21H2,1-12H3",
+    "InChl_Key": "AFQDIEHIPKSXRL-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(cc1Oc1c(Oc3c(O)c(OC)cc4c3C(CC(C)C)N(C)CC4)c(OC)cc3c1C(CC(C)C)N(C)CC3)C(CC(C)C)N(C)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12675",
+    "validation": "m_weight unsave, calculated(744.0299999999999)"
+}

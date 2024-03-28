@@ -1,0 +1,13 @@
+{
+    "names": "N-t-BOC-MA ; N-(t-Butoxycarbonyl)-N-methylamphetamine",
+    "iupac_name": "tert-Butyl methyl(1-phenylpropan-2-yl)carbamate",
+    "category": "data not stored",
+    "index": 9298,
+    "formular": "C15H23NO2",
+    "molecular_weight": 249.349,
+    "inChl": "1S/C15H23NO2/c1-12(11-13-9-7-6-8-10-13)16(5)14(17)18-15(2,3)4/h6-10,12H,11H2,1-5H3",
+    "InChl_Key": "NYMJXPUUUCVJQY-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)N(C)C(=O)OC(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9298",
+    "validation": "m_weight unsave, calculated(249.35399999999998)"
+}

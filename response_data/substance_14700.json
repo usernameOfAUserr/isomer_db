@@ -1,0 +1,13 @@
+{
+    "names": "1-(2-Methoxyethyl)-N-(naphthalen-1-yl)-1H-indole-3-carboxamide",
+    "iupac_name": "14700 ; C22H20N2O2 ; 344.406",
+    "category": "cannabinodids",
+    "index": 14700,
+    "formular": "C22H20N2O2",
+    "molecular_weight": 344.406,
+    "inChl": "1S/C22H20N2O2/c1-26-14-13-24-15-19(18-10-4-5-12-21(18)24)22(25)23-20-11-6-8-16-7-2-3-9-17(16)20/h2-12,15H,13-14H2,1H3,(H,23,25)",
+    "InChl_Key": "UXUZJUVHUCEQEA-UHFFFAOYSA-N",
+    "SMILES": "COCCn1cc(C(=O)Nc2cccc3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14700",
+    "validation": "m_weight unsave, calculated(344.4140000000001)"
+}

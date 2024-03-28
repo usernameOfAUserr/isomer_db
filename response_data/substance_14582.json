@@ -1,0 +1,13 @@
+{
+    "names": "1-(2,3-Dihydro-1H-inden-4-yl)propan-2-amine",
+    "iupac_name": "14582 ; C12H17N ; 175.27",
+    "category": "data not stored",
+    "index": 14582,
+    "formular": "C12H17N",
+    "molecular_weight": 175.27,
+    "inChl": "1S/C12H17N/c1-9(13)8-11-6-2-4-10-5-3-7-12(10)11/h2,4,6,9H,3,5,7-8,13H2,1H3",
+    "InChl_Key": "HOJKTWRCXDEBRZ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1cccc2c1CCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14582",
+    "validation": ""
+}

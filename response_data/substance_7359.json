@@ -1,0 +1,13 @@
+{
+    "names": "5H-2C-BI-2 NS ; 2-Methoxy-4-(2-methoxyphenyl)-\u03b2-nitrostyrene",
+    "iupac_name": "2,3\u2032-Dimethoxy-4\u2032-[(E)-2-nitroethenyl]-1,1\u2032-biphenyl",
+    "category": "data not stored",
+    "index": 7359,
+    "formular": "C16H15NO4",
+    "molecular_weight": 285.295,
+    "inChl": "1S/C16H15NO4/c1-20-15-6-4-3-5-14(15)13-8-7-12(9-10-17(18)19)16(11-13)21-2/h3-11H,1-2H3/b10-9+",
+    "InChl_Key": "FKGREDHLZQVMFG-MDZDMXLPSA-N",
+    "SMILES": "COc1cc(-c2ccccc2OC)ccc1/C=C/[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7359",
+    "validation": "m_weight unsave, calculated(285.29900000000004)"
+}

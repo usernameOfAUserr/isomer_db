@@ -1,0 +1,13 @@
+{
+    "names": "3-MBOP",
+    "iupac_name": "(3-Methylphenyl)(piperazin-1-yl)methanone",
+    "category": "data not stored",
+    "index": 8859,
+    "formular": "C12H16N2O",
+    "molecular_weight": 204.268,
+    "inChl": "1S/C12H16N2O/c1-10-3-2-4-11(9-10)12(15)14-7-5-13-6-8-14/h2-4,9,13H,5-8H2,1H3",
+    "InChl_Key": "YHGUVIUZDTUVKZ-UHFFFAOYSA-N",
+    "SMILES": "Cc1cccc(C(=O)N2CCNCC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8859",
+    "validation": "m_weight unsave, calculated(204.27299999999994)"
+}

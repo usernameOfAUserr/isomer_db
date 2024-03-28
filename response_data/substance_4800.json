@@ -1,0 +1,13 @@
+{
+    "names": "SGT-260",
+    "iupac_name": "1-Pentyl-3-[3-(2-phenylpropan-2-yl)-1,2,4-oxadiazol-5-yl]-1H-indole",
+    "category": "cannabinodids",
+    "index": 4800,
+    "formular": "C24H27N3O",
+    "molecular_weight": 373.491,
+    "inChl": "1S/C24H27N3O/c1-4-5-11-16-27-17-20(19-14-9-10-15-21(19)27)22-25-23(26-28-22)24(2,3)18-12-7-6-8-13-18/h6-10,12-15,17H,4-5,11,16H2,1-3H3",
+    "InChl_Key": "CFVJXMSIYZAHTN-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(-c2nc(C(C)(C)c3ccccc3)no2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4800",
+    "validation": "m_weight unsave, calculated(373.5000000000001)"
+}

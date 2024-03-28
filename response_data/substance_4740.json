@@ -1,0 +1,13 @@
+{
+    "names": "FP-CP 47,497",
+    "iupac_name": "5-(5-Fluoropentyl)-2-[(1S,3R)-3-hydroxycyclohexyl]phenol",
+    "category": "cannabinodids",
+    "index": 4740,
+    "formular": "C17H25FO2",
+    "molecular_weight": 280.378,
+    "inChl": "1S/C17H25FO2/c18-10-3-1-2-5-13-8-9-16(17(20)11-13)14-6-4-7-15(19)12-14/h8-9,11,14-15,19-20H,1-7,10,12H2/t14-,15+/m0/s1",
+    "InChl_Key": "QHCWUXLKOCPGFO-LSDHHAIUSA-N",
+    "SMILES": "Oc1cc(CCCCCF)ccc1[C@H]1CCC[C@@H](O)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4740",
+    "validation": "m_weight unsave, calculated(280.383)"
+}

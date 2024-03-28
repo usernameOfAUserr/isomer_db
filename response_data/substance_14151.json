@@ -1,0 +1,13 @@
+{
+    "names": "4-AlO-3,5-DCl-BAL",
+    "iupac_name": "3,5-Dichloro-4-[(prop-2-en-1-yl)oxy]benzaldehyde",
+    "category": "data not stored",
+    "index": 14151,
+    "formular": "C10H8Cl2O2",
+    "molecular_weight": 231.075,
+    "inChl": "1S/C10H8Cl2O2/c1-2-3-14-10-8(11)4-7(6-13)5-9(10)12/h2,4-6H,1,3H2",
+    "InChl_Key": "CJJQJAJJMMBMJT-UHFFFAOYSA-N",
+    "SMILES": "C=CCOc1c(Cl)cc(C=O)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14151",
+    "validation": "m_weight unsave, calculated(231.078)"
+}

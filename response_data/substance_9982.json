@@ -1,0 +1,13 @@
+{
+    "names": "Noopept ; Omberacetam ; N-Phenylacetyl-L-prolylglycine ethyl ester",
+    "iupac_name": "Ethyl 1-(phenylacetyl)-L-prolylglycinate ; Ethyl {[(2S)-1-(phenylacetyl)pyrrolidine-2-carbonyl]amino}acetate",
+    "category": "data not stored",
+    "index": 9982,
+    "formular": "C17H22N2O4",
+    "molecular_weight": 318.368,
+    "inChl": "1S/C17H22N2O4/c1-2-23-16(21)12-18-17(22)14-9-6-10-19(14)15(20)11-13-7-4-3-5-8-13/h3-5,7-8,14H,2,6,9-12H2,1H3,(H,18,22)/t14-/m0/s1",
+    "InChl_Key": "PJNSMUBMSNAEEN-AWEZNQCLSA-N",
+    "SMILES": "CCOC(=O)CNC(=O)[C@@H]1CCCN1C(=O)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9982",
+    "validation": "m_weight unsave, calculated(318.37299999999993)"
+}

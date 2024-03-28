@@ -1,0 +1,13 @@
+{
+    "names": "NBI-30545",
+    "iupac_name": "3-(2,4-Dimethoxyphenyl)-N-(2-methoxyethyl)-2,5-dimethyl-N-propylpyrazolo[1,5-a]pyrimidin-7-amine",
+    "category": "data not stored",
+    "index": 3839,
+    "formular": "C22H30N4O3",
+    "molecular_weight": 398.499,
+    "inChl": "1S/C22H30N4O3/c1-7-10-25(11-12-27-4)20-13-15(2)23-22-21(16(3)24-26(20)22)18-9-8-17(28-5)14-19(18)29-6/h8-9,13-14H,7,10-12H2,1-6H3",
+    "InChl_Key": "AKFWXFDMKRSYRD-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCOC)c1cc(C)nc2c(-c3ccc(OC)cc3OC)c(C)nn12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3839",
+    "validation": "m_weight unsave, calculated(398.50700000000023)"
+}

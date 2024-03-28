@@ -1,0 +1,13 @@
+{
+    "names": "NM-2201 ; CBL-2201 ; NA-5F-PIC",
+    "iupac_name": "Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate",
+    "category": "cannabinodids",
+    "index": 8114,
+    "formular": "C24H22FNO2",
+    "molecular_weight": 375.435,
+    "inChl": "1S/C24H22FNO2/c25-15-6-1-7-16-26-17-21(20-12-4-5-13-22(20)26)24(27)28-23-14-8-10-18-9-2-3-11-19(18)23/h2-5,8-14,17H,1,6-7,15-16H2",
+    "InChl_Key": "PRGFSQYZCKCBQO-UHFFFAOYSA-N",
+    "SMILES": "O=C(Oc1cccc2ccccc12)c1cn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8114",
+    "validation": "m_weight unsave, calculated(375.4430000000001)"
+}

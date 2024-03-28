@@ -1,0 +1,13 @@
+{
+    "names": "5-[(Diphenylmethanesulfinyl)methyl]-4-(propan-2-yl)-1,2,3-thiadiazole",
+    "iupac_name": "3649 ; C19H20N2OS2 ; 356.505",
+    "category": "data not stored",
+    "index": 3649,
+    "formular": "C19H20N2OS2",
+    "molecular_weight": 356.505,
+    "inChl": "1S/C19H20N2OS2/c1-14(2)18-17(23-21-20-18)13-24(22)19(15-9-5-3-6-10-15)16-11-7-4-8-12-16/h3-12,14,19H,13H2,1-2H3",
+    "InChl_Key": "OVBMSRHWMYFNGO-UHFFFAOYSA-N",
+    "SMILES": "CC(C)c1nnsc1CS(=O)C(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3649",
+    "validation": "m_weight unsave, calculated(356.5160000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2\u2032-Fluoroisoproscaline ; 4-(2-Fluoroisopropoxy)-3,5-dimethoxyphenethylamine ; FIP-2 ; 2\u2032-F-IP ; Fluoroisoproscaline-2",
+    "iupac_name": "2-{4-[(2-Fluoropropan-2-yl)oxy]-3,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10265,
+    "formular": "C13H20FNO3",
+    "molecular_weight": 257.301,
+    "inChl": "1S/C13H20FNO3/c1-13(2,14)18-12-10(16-3)7-9(5-6-15)8-11(12)17-4/h7-8H,5-6,15H2,1-4H3",
+    "InChl_Key": "XDHIAVDKPKMHHB-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(OC)c1OC(C)(C)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10265",
+    "validation": "m_weight unsave, calculated(257.30499999999995)"
+}

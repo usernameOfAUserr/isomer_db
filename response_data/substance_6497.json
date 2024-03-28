@@ -1,0 +1,13 @@
+{
+    "names": "(4S)-4-Butyl-9-methoxy-1,2,3,4,5,6-hexahydroazepino[4,5-b]indole",
+    "iupac_name": "6497 ; C17H24N2O ; 272.385",
+    "category": "data not stored",
+    "index": 6497,
+    "formular": "C17H24N2O",
+    "molecular_weight": 272.385,
+    "inChl": "1S/C17H24N2O/c1-3-4-5-12-10-17-14(8-9-18-12)15-11-13(20-2)6-7-16(15)19-17/h6-7,11-12,18-19H,3-5,8-10H2,1-2H3/t12-/m0/s1",
+    "InChl_Key": "HUXVCTVVMWDDOB-LBPRGKRZSA-N",
+    "SMILES": "CCCC[C@H]1Cc2[nH]c3ccc(OC)cc3c2CCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6497",
+    "validation": "m_weight unsave, calculated(272.39200000000005)"
+}

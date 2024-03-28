@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1,\u03b1-Dideuteromescaline ; \u03b1-D ; \u03b1,\u03b1-Dideutero-3,4,5-trimethoxyphenethylamine",
+    "iupac_name": "2-(3,4,5-Trimethoxyphenyl)(1,1-2H2)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 2094,
+    "formular": "C11H15D2NO3",
+    "molecular_weight": 213.27,
+    "inChl": "1S/C11H17NO3/c1-13-9-6-8(4-5-12)7-10(14-2)11(9)15-3/h6-7H,4-5,12H2,1-3H3/i5D2",
+    "InChl_Key": "RHCSKNNOAZULRK-BFWBPSQCSA-N",
+    "SMILES": "[2H]C([2H])(N)Cc1cc(OC)c(OC)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2094",
+    "validation": "formular unsave, calculated(C11H17NO3)"
+}

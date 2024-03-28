@@ -1,0 +1,13 @@
+{
+    "names": "(2E)-4-Cyclohexyl-4-hydroxybut-2-enoic acid",
+    "iupac_name": "11920 ; C10H16O3 ; 184.232",
+    "category": "data not stored",
+    "index": 11920,
+    "formular": "C10H16O3",
+    "molecular_weight": 184.232,
+    "inChl": "1S/C10H16O3/c11-9(6-7-10(12)13)8-4-2-1-3-5-8/h6-9,11H,1-5H2,(H,12,13)/b7-6+",
+    "InChl_Key": "CGIACWYLNZMXMN-VOTSOKGWSA-N",
+    "SMILES": "O=C(O)/C=C/C(O)C1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11920",
+    "validation": "m_weight unsave, calculated(184.235)"
+}

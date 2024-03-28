@@ -1,0 +1,13 @@
+{
+    "names": "MXiP ; MXiPr ; 2-(Isopropylamino)-2-(3-methoxyphenyl)cyclohexanone ; 3-MeO-2\u2032-Oxo-PCiPr",
+    "iupac_name": "2-(3-Methoxyphenyl)-2-[(propan-2-yl)amino]cyclohexan-1-one",
+    "category": "Arylcycloalkylamine",
+    "index": 14059,
+    "formular": "C16H23NO2",
+    "molecular_weight": 261.359,
+    "inChl": "1S/C16H23NO2/c1-12(2)17-16(10-5-4-9-15(16)18)13-7-6-8-14(11-13)19-3/h6-8,11-12,17H,4-5,9-10H2,1-3H3",
+    "InChl_Key": "FTQIVDGNGXPEKP-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(C2(NC(C)C)CCCCC2=O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14059",
+    "validation": "m_weight unsave, calculated(261.36499999999995)"
+}

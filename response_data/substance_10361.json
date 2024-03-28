@@ -1,0 +1,13 @@
+{
+    "names": "2C-B-CE ; N-Ethoxycarbonyl-4-bromo-2,5-dimethoxyphenethylamine",
+    "iupac_name": "Ethyl [2-(4-bromo-2,5-dimethoxyphenyl)ethyl]carbamate",
+    "category": "Phenetylamine",
+    "index": 10361,
+    "formular": "C13H18BrNO4",
+    "molecular_weight": 332.19,
+    "inChl": "1S/C13H18BrNO4/c1-4-19-13(16)15-6-5-9-7-12(18-3)10(14)8-11(9)17-2/h7-8H,4-6H2,1-3H3,(H,15,16)",
+    "InChl_Key": "XAEHBBKIQLTPKD-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)NCCc1cc(OC)c(Br)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10361",
+    "validation": ""
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-FBZP ; 4-FBP",
+    "iupac_name": "1-[(4-Fluorophenyl)methyl]piperazine",
+    "category": "data not stored",
+    "index": 8796,
+    "formular": "C11H15FN2",
+    "molecular_weight": 194.249,
+    "inChl": "1S/C11H15FN2/c12-11-3-1-10(2-4-11)9-14-7-5-13-6-8-14/h1-4,13H,5-9H2",
+    "InChl_Key": "OOSZCNKVJAVHJI-UHFFFAOYSA-N",
+    "SMILES": "Fc1ccc(CN2CCNCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8796",
+    "validation": "m_weight unsave, calculated(194.25299999999996)"
+}

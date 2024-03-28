@@ -1,0 +1,13 @@
+{
+    "names": "PCMe",
+    "iupac_name": "N-Methyl-1-phenylcyclohexan-1-amine",
+    "category": "Arylcycloalkylamine",
+    "index": 988,
+    "formular": "C13H19N",
+    "molecular_weight": 189.297,
+    "inChl": "1S/C13H19N/c1-14-13(10-6-3-7-11-13)12-8-4-2-5-9-12/h2,4-5,8-9,14H,3,6-7,10-11H2,1H3",
+    "InChl_Key": "TVXWSRNLIRYOFR-UHFFFAOYSA-N",
+    "SMILES": "CNC1(c2ccccc2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=988",
+    "validation": "m_weight unsave, calculated(189.30200000000005)"
+}

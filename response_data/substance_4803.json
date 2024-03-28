@@ -1,0 +1,13 @@
+{
+    "names": "WO 2008/101995 #24",
+    "iupac_name": "2-[(2S)-4-[(3-{7-Chloro-1-[(oxan-4-yl)methyl]-1H-indol-3-yl}-1,2,4-oxadiazol-5-yl)methyl]-2-(hydroxymethyl)piperazin-1-yl]-N-methylacetamide",
+    "category": "cannabinodids",
+    "index": 4803,
+    "formular": "C25H33ClN6O4",
+    "molecular_weight": 517.02,
+    "inChl": "1S/C25H33ClN6O4/c1-27-22(34)14-31-8-7-30(12-18(31)16-33)15-23-28-25(29-36-23)20-13-32(11-17-5-9-35-10-6-17)24-19(20)3-2-4-21(24)26/h2-4,13,17-18,33H,5-12,14-16H2,1H3,(H,27,34)/t18-/m0/s1",
+    "InChl_Key": "XLEFTMZVWZNOOZ-SFHVURJKSA-N",
+    "SMILES": "CNC(=O)CN1CCN(Cc2nc(-c3cn(CC4CCOCC4)c4c(Cl)cccc34)no2)C[C@H]1CO",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4803",
+    "validation": "m_weight unsave, calculated(517.0300000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-iPr-DHA-\u03b2k ; N-Isopropyl-3,4-dihydroxycathinone ; Phenisonone",
+    "iupac_name": "1-(3,4-Dihydroxyphenyl)-2-[(propan-2-yl)amino]propan-1-one ; 1-(3,4-Dihydroxyphenyl)-2-(propan-2-ylamino)propan-1-one",
+    "category": "Shulgin_Index",
+    "index": 6533,
+    "formular": "C12H17NO3",
+    "molecular_weight": 223.268,
+    "inChl": "1S/C12H17NO3/c1-7(2)13-8(3)12(16)9-4-5-10(14)11(15)6-9/h4-8,13-15H,1-3H3",
+    "InChl_Key": "GPHUDPVNXDFRCO-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NC(C)C(=O)c1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6533",
+    "validation": "m_weight unsave, calculated(223.272)"
+}

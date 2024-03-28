@@ -1,0 +1,13 @@
+{
+    "names": "SGT-93",
+    "iupac_name": "1-(5-Fluoropentyl)-N-pentyl-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 12274,
+    "formular": "C19H27FN2O",
+    "molecular_weight": 318.429,
+    "inChl": "1S/C19H27FN2O/c1-2-3-8-13-21-19(23)17-15-22(14-9-4-7-12-20)18-11-6-5-10-16(17)18/h5-6,10-11,15H,2-4,7-9,12-14H2,1H3,(H,21,23)",
+    "InChl_Key": "PYPZIQAVJBFPHR-UHFFFAOYSA-N",
+    "SMILES": "CCCCCNC(=O)c1cn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12274",
+    "validation": "m_weight unsave, calculated(318.43600000000015)"
+}

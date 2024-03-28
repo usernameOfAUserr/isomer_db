@@ -1,0 +1,13 @@
+{
+    "names": "[5,6-Dimethyl-2-(pyridin-2-yl)-1H-benzimidazol-1-yl](naphthalen-2-yl)methanone",
+    "iupac_name": "9478 ; C25H19N3O ; 377.438",
+    "category": "cannabinodids",
+    "index": 9478,
+    "formular": "C25H19N3O",
+    "molecular_weight": 377.438,
+    "inChl": "1S/C25H19N3O/c1-16-13-22-23(14-17(16)2)28(24(27-22)21-9-5-6-12-26-21)25(29)20-11-10-18-7-3-4-8-19(18)15-20/h3-15H,1-2H3",
+    "InChl_Key": "XQXHPIHZBMEYFX-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc2nc(-c3ccccn3)n(C(=O)c3ccc4ccccc4c3)c2cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9478",
+    "validation": "m_weight unsave, calculated(377.44700000000006)"
+}

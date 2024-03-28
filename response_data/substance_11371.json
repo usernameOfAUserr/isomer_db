@@ -1,0 +1,13 @@
+{
+    "names": "BENZYL-4CN-BINACA ; BZ-4CN-BINACA",
+    "iupac_name": "N-Benzyl-1-(4-cyanobutyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11371,
+    "formular": "C20H20N4O",
+    "molecular_weight": 332.399,
+    "inChl": "1S/C20H20N4O/c21-13-7-2-8-14-24-18-12-6-5-11-17(18)19(23-24)20(25)22-15-16-9-3-1-4-10-16/h1,3-6,9-12H,2,7-8,14-15H2,(H,22,25)",
+    "InChl_Key": "JISDUTVCVJSDFN-UHFFFAOYSA-N",
+    "SMILES": "N#CCCCCn1nc(C(=O)NCc2ccccc2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11371",
+    "validation": "m_weight unsave, calculated(332.40700000000004)"
+}

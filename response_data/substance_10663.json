@@ -1,0 +1,13 @@
+{
+    "names": "N-cBu-A ; N-Cyclobutylamphetamine",
+    "iupac_name": "N-(1-Phenylpropan-2-yl)cyclobutanamine",
+    "category": "Phenetylamine",
+    "index": 10663,
+    "formular": "C13H19N",
+    "molecular_weight": 189.297,
+    "inChl": "1S/C13H19N/c1-11(14-13-8-5-9-13)10-12-6-3-2-4-7-12/h2-4,6-7,11,13-14H,5,8-10H2,1H3",
+    "InChl_Key": "QTUXPJZFZNBOLH-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NC1CCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10663",
+    "validation": "m_weight unsave, calculated(189.30199999999994)"
+}

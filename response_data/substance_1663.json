@@ -1,0 +1,13 @@
+{
+    "names": "p-Methoxy-valerylfentanyl ; 4\u2032-Methoxy-valerylfentanyl",
+    "iupac_name": "N-(4-Methoxyphenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]pentanamide",
+    "category": "Fentanyl",
+    "index": 1663,
+    "formular": "C25H34N2O2",
+    "molecular_weight": 394.55,
+    "inChl": "1S/C25H34N2O2/c1-3-4-10-25(28)27(22-11-13-24(29-2)14-12-22)23-16-19-26(20-17-23)18-15-21-8-6-5-7-9-21/h5-9,11-14,23H,3-4,10,15-20H2,1-2H3",
+    "InChl_Key": "SVNODVBERPGABW-UHFFFAOYSA-N",
+    "SMILES": "CCCCC(=O)N(c1ccc(OC)cc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1663",
+    "validation": "m_weight unsave, calculated(394.5590000000002)"
+}

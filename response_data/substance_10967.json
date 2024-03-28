@@ -1,0 +1,13 @@
+{
+    "names": "2-(Thiophen-3-yl)cyclopropan-1-amine",
+    "iupac_name": "10967 ; C7H9NS ; 139.218",
+    "category": "Phenetylamine",
+    "index": 10967,
+    "formular": "C7H9NS",
+    "molecular_weight": 139.218,
+    "inChl": "1S/C7H9NS/c8-7-3-6(7)5-1-2-9-4-5/h1-2,4,6-7H,3,8H2",
+    "InChl_Key": "LMXUPPWQKXDJNR-UHFFFAOYSA-N",
+    "SMILES": "NC1CC1c1ccsc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10967",
+    "validation": "m_weight unsave, calculated(139.223)"
+}

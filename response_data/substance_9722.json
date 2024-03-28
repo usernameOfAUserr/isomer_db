@@ -1,0 +1,13 @@
+{
+    "names": "Pridopidine ; ACR16 ; ASP2314",
+    "iupac_name": "4-[3-(Methanesulfonyl)phenyl]-1-propylpiperidine",
+    "category": "data not stored",
+    "index": 9722,
+    "formular": "C15H23NO2S",
+    "molecular_weight": 281.414,
+    "inChl": "1S/C15H23NO2S/c1-3-9-16-10-7-13(8-11-16)14-5-4-6-15(12-14)19(2,17)18/h4-6,12-13H,3,7-11H2,1-2H3",
+    "InChl_Key": "YGKUEOZJFIXDGI-UHFFFAOYSA-N",
+    "SMILES": "CCCN1CCC(c2cccc(S(C)(=O)=O)c2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9722",
+    "validation": "m_weight unsave, calculated(281.42100000000005)"
+}

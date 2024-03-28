@@ -1,0 +1,13 @@
+{
+    "names": "Backebergine",
+    "iupac_name": "6,7-Dimethoxyisoquinoline",
+    "category": "data not stored",
+    "index": 13712,
+    "formular": "C11H11NO2",
+    "molecular_weight": 189.211,
+    "inChl": "1S/C11H11NO2/c1-13-10-5-8-3-4-12-7-9(8)6-11(10)14-2/h3-7H,1-2H3",
+    "InChl_Key": "JAJVYESKUNMYPN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2ccncc2cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13712",
+    "validation": "m_weight unsave, calculated(189.21399999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2C-DFE-12 ; 4-(1,2-Difluoroethyl)-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-[4-(1,2-Difluoroethyl)-2,5-dimethoxyphenyl]ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 7215,
+    "formular": "C12H17F2NO2",
+    "molecular_weight": 245.266,
+    "inChl": "1S/C12H17F2NO2/c1-16-11-6-9(10(14)7-13)12(17-2)5-8(11)3-4-15/h5-6,10H,3-4,7,15H2,1-2H3",
+    "InChl_Key": "JLFFFMNILVUXFN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(F)CF)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7215",
+    "validation": "m_weight unsave, calculated(245.26899999999995)"
+}

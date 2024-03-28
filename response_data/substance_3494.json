@@ -1,0 +1,13 @@
+{
+    "names": "Ro-20-2541",
+    "iupac_name": "5-(2-Fluorophenyl)-1-methyl-2-oxo-2,3-dihydro-1H-1,4-benzodiazepine-7-carbonitrile",
+    "category": "Aryldiazepine",
+    "index": 3494,
+    "formular": "C17H12FN3O",
+    "molecular_weight": 293.295,
+    "inChl": "1S/C17H12FN3O/c1-21-15-7-6-11(9-19)8-13(15)17(20-10-16(21)22)12-4-2-3-5-14(12)18/h2-8H,10H2,1H3",
+    "InChl_Key": "UISYLUSWXGAFAR-UHFFFAOYSA-N",
+    "SMILES": "CN1C(=O)CN=C(c2ccccc2F)c2cc(C#N)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3494",
+    "validation": "m_weight unsave, calculated(293.301)"
+}

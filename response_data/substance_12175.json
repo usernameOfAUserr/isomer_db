@@ -1,0 +1,13 @@
+{
+    "names": "1-Cyclooctylpropan-2-amine",
+    "iupac_name": "12175 ; C11H23N ; 169.307",
+    "category": "Phenetylamine",
+    "index": 12175,
+    "formular": "C11H23N",
+    "molecular_weight": 169.307,
+    "inChl": "1S/C11H23N/c1-10(12)9-11-7-5-3-2-4-6-8-11/h10-11H,2-9,12H2,1H3",
+    "InChl_Key": "LGIMXTCWSDSTPO-UHFFFAOYSA-N",
+    "SMILES": "CC(N)CC1CCCCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12175",
+    "validation": "m_weight unsave, calculated(169.31199999999998)"
+}

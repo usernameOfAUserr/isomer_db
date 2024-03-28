@@ -1,0 +1,13 @@
+{
+    "names": "(1-Pentyl-1H-indol-4-yl)(phenyl)methanone",
+    "iupac_name": "1754 ; C20H21NO ; 291.387",
+    "category": "data not stored",
+    "index": 1754,
+    "formular": "C20H21NO",
+    "molecular_weight": 291.387,
+    "inChl": "1S/C20H21NO/c1-2-3-7-14-21-15-13-17-18(11-8-12-19(17)21)20(22)16-9-5-4-6-10-16/h4-6,8-13,15H,2-3,7,14H2,1H3",
+    "InChl_Key": "GQQPSLYOMLLSDK-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1ccc2c(C(=O)c3ccccc3)cccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1754",
+    "validation": "m_weight unsave, calculated(291.394)"
+}

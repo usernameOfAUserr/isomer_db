@@ -1,0 +1,13 @@
+{
+    "names": "N-[1-(3-Methoxyphenyl)propan-2-yl]acetamide",
+    "iupac_name": "1095 ; C12H17NO2 ; 207.269",
+    "category": "Phenetylamine",
+    "index": 1095,
+    "formular": "C12H17NO2",
+    "molecular_weight": 207.269,
+    "inChl": "1S/C12H17NO2/c1-9(13-10(2)14)7-11-5-4-6-12(8-11)15-3/h4-6,8-9H,7H2,1-3H3,(H,13,14)",
+    "InChl_Key": "OKLJQMHTDMDYCB-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(CC(C)NC(C)=O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1095",
+    "validation": "m_weight unsave, calculated(207.273)"
+}

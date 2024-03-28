@@ -1,0 +1,13 @@
+{
+    "names": "5F-SDB-006 ; BZ-5F-PICA",
+    "iupac_name": "N-Benzyl-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4721,
+    "formular": "C21H23FN2O",
+    "molecular_weight": 338.419,
+    "inChl": "1S/C21H23FN2O/c22-13-7-2-8-14-24-16-19(18-11-5-6-12-20(18)24)21(25)23-15-17-9-3-1-4-10-17/h1,3-6,9-12,16H,2,7-8,13-15H2,(H,23,25)",
+    "InChl_Key": "VFLXAWVAWXHMFB-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCc1ccccc1)c1cn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4721",
+    "validation": "m_weight unsave, calculated(338.4260000000001)"
+}

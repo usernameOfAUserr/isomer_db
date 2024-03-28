@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Me-DEPEA ; N,N-Dimethyl-3,4-diethoxyphenethylamine",
+    "iupac_name": "2-(3,4-Diethoxyphenyl)-N,N-dimethylethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 6654,
+    "formular": "C14H23NO2",
+    "molecular_weight": 237.338,
+    "inChl": "1S/C14H23NO2/c1-5-16-13-8-7-12(9-10-15(3)4)11-14(13)17-6-2/h7-8,11H,5-6,9-10H2,1-4H3",
+    "InChl_Key": "CBDBYEXITFAZJI-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(CCN(C)C)cc1OCC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6654",
+    "validation": "m_weight unsave, calculated(237.343)"
+}

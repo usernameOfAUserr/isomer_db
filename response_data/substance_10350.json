@@ -1,0 +1,13 @@
+{
+    "names": "1C-B",
+    "iupac_name": "1-(4-Bromo-2,5-dimethoxyphenyl)methanamine",
+    "category": "Phenetylamine",
+    "index": 10350,
+    "formular": "C9H12BrNO2",
+    "molecular_weight": 246.101,
+    "inChl": "1S/C9H12BrNO2/c1-12-8-4-7(10)9(13-2)3-6(8)5-11/h3-4H,5,11H2,1-2H3",
+    "InChl_Key": "QLPHYDUVAFPRGJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CN)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10350",
+    "validation": "m_weight unsave, calculated(246.10399999999996)"
+}

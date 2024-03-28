@@ -1,0 +1,13 @@
+{
+    "names": "2-Carboxy-6-MeS-T ; 2-Carboxy-6-methylthiotryptamine",
+    "iupac_name": "3-(2-Aminoethyl)-6-(methylsulfanyl)-1H-indole-2-carboxylic acid",
+    "category": "Tryptamine",
+    "index": 7336,
+    "formular": "C12H14N2O2S",
+    "molecular_weight": 250.317,
+    "inChl": "1S/C12H14N2O2S/c1-17-7-2-3-8-9(4-5-13)11(12(15)16)14-10(8)6-7/h2-3,6,14H,4-5,13H2,1H3,(H,15,16)",
+    "InChl_Key": "YEMPNVKCRSKXGX-UHFFFAOYSA-N",
+    "SMILES": "CSc1ccc2c(CCN)c(C(=O)O)[nH]c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7336",
+    "validation": "m_weight unsave, calculated(250.32299999999998)"
+}

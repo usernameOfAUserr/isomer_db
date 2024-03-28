@@ -1,0 +1,13 @@
+{
+    "names": "2-(Cyclohexylmethyl)piperidine",
+    "iupac_name": "11023 ; C12H23N ; 181.318",
+    "category": "Phenetylamine",
+    "index": 11023,
+    "formular": "C12H23N",
+    "molecular_weight": 181.318,
+    "inChl": "1S/C12H23N/c1-2-6-11(7-3-1)10-12-8-4-5-9-13-12/h11-13H,1-10H2",
+    "InChl_Key": "WKYVKENYQAXODJ-UHFFFAOYSA-N",
+    "SMILES": "C1CCC(CC2CCCCN2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11023",
+    "validation": "m_weight unsave, calculated(181.32299999999998)"
+}

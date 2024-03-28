@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl-normorphinan-3-ol",
+    "iupac_name": "(3aR,4R,9bR)-12-Methyl-1,2,3,3a,4,5-hexahydro-4,9b-(epiminoethano)cyclopenta[a]naphthalen-8-ol",
+    "category": "data not stored",
+    "index": 3145,
+    "formular": "C16H21NO",
+    "molecular_weight": 243.344,
+    "inChl": "1S/C16H21NO/c1-17-8-7-16-6-2-3-13(16)15(17)9-11-4-5-12(18)10-14(11)16/h4-5,10,13,15,18H,2-3,6-9H2,1H3/t13-,15+,16+/m0/s1",
+    "InChl_Key": "PZOWMNQECZYAAL-NUEKZKHPSA-N",
+    "SMILES": "CN1CC[C@]23CCC[C@H]2[C@H]1Cc1ccc(O)cc13",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3145",
+    "validation": "m_weight unsave, calculated(243.34999999999994)"
+}

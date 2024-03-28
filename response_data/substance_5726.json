@@ -1,0 +1,13 @@
+{
+    "names": "7-Br-DH\u03b2C",
+    "iupac_name": "7-Bromo-4,9-dihydro-3H-pyrido[3,4-b]indole ; 7-Bromo-4,9-dihydro-3H-\u03b2-carboline",
+    "category": "data not stored",
+    "index": 5726,
+    "formular": "C11H9BrN2",
+    "molecular_weight": 249.107,
+    "inChl": "1S/C11H9BrN2/c12-7-1-2-8-9-3-4-13-6-11(9)14-10(8)5-7/h1-2,5-6,14H,3-4H2",
+    "InChl_Key": "NTZLLWPDAQVIOA-UHFFFAOYSA-N",
+    "SMILES": "Brc1ccc2c3c([nH]c2c1)C=NCC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5726",
+    "validation": "m_weight unsave, calculated(249.11099999999996)"
+}

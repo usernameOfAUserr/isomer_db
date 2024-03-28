@@ -1,0 +1,13 @@
+{
+    "names": "2-APBT",
+    "iupac_name": "1-(1-Benzothiophen-2-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 8203,
+    "formular": "C11H13NS",
+    "molecular_weight": 191.293,
+    "inChl": "1S/C11H13NS/c1-8(12)6-10-7-9-4-2-3-5-11(9)13-10/h2-5,7-8H,6,12H2,1H3",
+    "InChl_Key": "LQRQTYOYXPEWJR-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1cc2ccccc2s1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8203",
+    "validation": "m_weight unsave, calculated(191.299)"
+}

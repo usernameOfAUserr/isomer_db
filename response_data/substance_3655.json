@@ -1,0 +1,13 @@
+{
+    "names": "2-[(Diphenylmethanesulfinyl)methyl]-6-(trifluoromethyl)pyrimidin-4-ol",
+    "iupac_name": "3655 ; C19H15F3N2O2S ; 392.395",
+    "category": "data not stored",
+    "index": 3655,
+    "formular": "C19H15F3N2O2S",
+    "molecular_weight": 392.395,
+    "inChl": "1S/C19H15F3N2O2S/c20-19(21,22)15-11-17(25)24-16(23-15)12-27(26)18(13-7-3-1-4-8-13)14-9-5-2-6-10-14/h1-11,18H,12H2,(H,23,24,25)",
+    "InChl_Key": "OCDFCLVIFAPPIE-UHFFFAOYSA-N",
+    "SMILES": "O=S(Cc1nc(O)cc(C(F)(F)F)n1)C(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3655",
+    "validation": "m_weight unsave, calculated(392.40200000000004)"
+}

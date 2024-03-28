@@ -1,0 +1,13 @@
+{
+    "names": "6-EAPDB ; 6-(2-(Ethylamino)propyl)-2,3-dihydrobenzofuran",
+    "iupac_name": "1-(2,3-Dihydro-1-benzofuran-6-yl)-N-ethylpropan-2-amine",
+    "category": "data not stored",
+    "index": 1430,
+    "formular": "C13H19NO",
+    "molecular_weight": 205.296,
+    "inChl": "1S/C13H19NO/c1-3-14-10(2)8-11-4-5-12-6-7-15-13(12)9-11/h4-5,9-10,14H,3,6-8H2,1-2H3",
+    "InChl_Key": "JHDSHYDQQUHNQA-UHFFFAOYSA-N",
+    "SMILES": "CCNC(C)Cc1ccc2c(c1)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1430",
+    "validation": "m_weight unsave, calculated(205.30099999999996)"
+}

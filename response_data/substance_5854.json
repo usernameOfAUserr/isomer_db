@@ -1,0 +1,13 @@
+{
+    "names": "5-Hexyloxy-T ; 5-Hexyloxytryptamine",
+    "iupac_name": "2-[5-(Hexyloxy)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5854,
+    "formular": "C16H24N2O",
+    "molecular_weight": 260.375,
+    "inChl": "1S/C16H24N2O/c1-2-3-4-5-10-19-14-6-7-16-15(11-14)13(8-9-17)12-18-16/h6-7,11-12,18H,2-5,8-10,17H2,1H3",
+    "InChl_Key": "WZYQAUSPXHOGSM-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCOc1ccc2[nH]cc(CCN)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5854",
+    "validation": "m_weight unsave, calculated(260.3809999999999)"
+}

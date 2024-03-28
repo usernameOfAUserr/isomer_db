@@ -1,0 +1,13 @@
+{
+    "names": "N-(1-Phenylpropyl)formamide",
+    "iupac_name": "7845 ; C10H13NO ; 163.216",
+    "category": "data not stored",
+    "index": 7845,
+    "formular": "C10H13NO",
+    "molecular_weight": 163.216,
+    "inChl": "1S/C10H13NO/c1-2-10(11-8-12)9-6-4-3-5-7-9/h3-8,10H,2H2,1H3,(H,11,12)",
+    "InChl_Key": "UERJGKDKJBSKQN-UHFFFAOYSA-N",
+    "SMILES": "CCC(NC=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7845",
+    "validation": "m_weight unsave, calculated(163.21999999999997)"
+}

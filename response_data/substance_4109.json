@@ -1,0 +1,13 @@
+{
+    "names": "(7N) JWH-018",
+    "iupac_name": "(Naphthalen-1-yl)(1-pentyl-1H-pyrrolo[2,3-b]pyridin-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4109,
+    "formular": "C23H22N2O",
+    "molecular_weight": 342.434,
+    "inChl": "1S/C23H22N2O/c1-2-3-6-15-25-16-21(20-13-8-14-24-23(20)25)22(26)19-12-7-10-17-9-4-5-11-18(17)19/h4-5,7-14,16H,2-3,6,15H2,1H3",
+    "InChl_Key": "IMGJLJWXTHYHIG-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2cccc3ccccc23)c2cccnc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4109",
+    "validation": "m_weight unsave, calculated(342.44200000000006)"
+}

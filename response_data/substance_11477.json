@@ -1,0 +1,13 @@
+{
+    "names": "p-Cl-phenylpiracetam ; RGPU-95",
+    "iupac_name": "2-[4-(4-Chlorophenyl)-2-oxopyrrolidin-1-yl]acetamide",
+    "category": "data not stored",
+    "index": 11477,
+    "formular": "C12H13ClN2O2",
+    "molecular_weight": 252.697,
+    "inChl": "1S/C12H13ClN2O2/c13-10-3-1-8(2-4-10)9-5-12(17)15(6-9)7-11(14)16/h1-4,9H,5-7H2,(H2,14,16)",
+    "InChl_Key": "NEEZTPLBDJRDCV-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)CN1CC(c2ccc(Cl)cc2)CC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11477",
+    "validation": "m_weight unsave, calculated(252.701)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "NE-2-AI ; N-Ethyl-2-aminoindane",
+    "iupac_name": "N-Ethyl-2,3-dihydro-1H-inden-2-amine",
+    "category": "data not stored",
+    "index": 1328,
+    "formular": "C11H15N",
+    "molecular_weight": 161.244,
+    "inChl": "1S/C11H15N/c1-2-12-11-7-9-5-3-4-6-10(9)8-11/h3-6,11-12H,2,7-8H2,1H3",
+    "InChl_Key": "RAJHFMSNMQFOPU-UHFFFAOYSA-N",
+    "SMILES": "CCNC1Cc2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1328",
+    "validation": "m_weight unsave, calculated(161.24800000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-Ethyl-1-(4-fluorophenyl)butan-2-amine",
+    "iupac_name": "2517 ; C12H18FN ; 195.276",
+    "category": "data not stored",
+    "index": 2517,
+    "formular": "C12H18FN",
+    "molecular_weight": 195.276,
+    "inChl": "1S/C12H18FN/c1-3-12(14-4-2)9-10-5-7-11(13)8-6-10/h5-8,12,14H,3-4,9H2,1-2H3",
+    "InChl_Key": "CCGJHNXREFILBN-UHFFFAOYSA-N",
+    "SMILES": "CCNC(CC)Cc1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2517",
+    "validation": "m_weight unsave, calculated(195.28099999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Cannabidiolic acid monomethyl ether",
+    "iupac_name": "(2\u2032R)-6-Hydroxy-2-methoxy-5\u2032-methyl-4-pentyl-2\u2032-(prop-1-en-2-yl)-1\u2032,2\u2032,3\u2032,4\u2032-tetrahydro[1,1\u2032-biphenyl]-3-carboxylic acid",
+    "category": "cannabinodids",
+    "index": 12688,
+    "formular": "C23H32O4",
+    "molecular_weight": 372.498,
+    "inChl": "1S/C23H32O4/c1-6-7-8-9-16-13-19(24)21(22(27-5)20(16)23(25)26)18-12-15(4)10-11-17(18)14(2)3/h12-13,17-18,24H,2,6-11H2,1,3-5H3,(H,25,26)/t17-,18?/m0/s1",
+    "InChl_Key": "HCYVACPPDADSOY-ZENAZSQFSA-N",
+    "SMILES": "C=C(C)[C@@H]1CCC(C)=CC1c1c(O)cc(CCCCC)c(C(=O)O)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12688",
+    "validation": "m_weight unsave, calculated(372.50500000000017)"
+}

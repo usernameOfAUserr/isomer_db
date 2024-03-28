@@ -1,0 +1,13 @@
+{
+    "names": "4,7-Dimethoxy-3-[(1E)-2-nitroprop-1-en-1-yl]-1H-indole",
+    "iupac_name": "13097 ; C13H14N2O4 ; 262.261",
+    "category": "data not stored",
+    "index": 13097,
+    "formular": "C13H14N2O4",
+    "molecular_weight": 262.261,
+    "inChl": "1S/C13H14N2O4/c1-8(15(16)17)6-9-7-14-13-11(19-3)5-4-10(18-2)12(9)13/h4-7,14H,1-3H3/b8-6+",
+    "InChl_Key": "MQTHLLLDHYMSDZ-SOFGYWHQSA-N",
+    "SMILES": "COc1ccc(OC)c2c(/C=C(\\C)[N+](=O)[O-])c[nH]c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13097",
+    "validation": "m_weight unsave, calculated(262.265)"
+}

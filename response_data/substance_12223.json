@@ -1,0 +1,13 @@
+{
+    "names": "Psammaplysin A",
+    "iupac_name": "N-{3-[4-(2-Aminoethyl)-2,6-dibromophenoxy]propyl}-8,10-dibromo-4-hydroxy-9-methoxy-1,6-dioxa-2-azaspiro[4.6]undeca-2,7,9-triene-3-carboxamide",
+    "category": "Phenetylamine",
+    "index": 12223,
+    "formular": "C21H23Br4N3O6",
+    "molecular_weight": 733.04,
+    "inChl": "1S/C21H23Br4N3O6/c1-31-17-14(24)9-21(33-10-15(17)25)19(29)16(28-34-21)20(30)27-5-2-6-32-18-12(22)7-11(3-4-26)8-13(18)23/h7-8,10,19,29H,2-6,9,26H2,1H3,(H,27,30)/t19-,21-/m0/s1",
+    "InChl_Key": "XVHHFAJHWSIGJS-FPOVZHCZSA-N",
+    "SMILES": "COC1=C(Br)C[C@]2(OC=C1Br)ON=C(C(=O)NCCCOc1c(Br)cc(CCN)cc1Br)[C@@H]2O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12223",
+    "validation": "m_weight unsave, calculated(733.0460000000002)"
+}

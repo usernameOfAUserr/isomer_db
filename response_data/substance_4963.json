@@ -1,0 +1,13 @@
+{
+    "names": "AM-855",
+    "iupac_name": "(4aR,12bR)-8-Hexyl-2,5,5-trimethyl-1,4a,5,8,9,10,11,12b-octahydro-4H-benzo[d]naphtho[2,3-b]pyran-12-ol",
+    "category": "cannabinodids",
+    "index": 4963,
+    "formular": "C26H38O2",
+    "molecular_weight": 382.579,
+    "inChl": "1S/C26H38O2/c1-5-6-7-8-10-18-11-9-12-19-20(18)16-23-24(25(19)27)21-15-17(2)13-14-22(21)26(3,4)28-23/h13,16,18,21-22,27H,5-12,14-15H2,1-4H3/t18?,21-,22-/m1/s1",
+    "InChl_Key": "GAAJNVWIOIOMPO-IPKCRJEZSA-N",
+    "SMILES": "CCCCCCC1CCCc2c1cc1c(c2O)[C@@H]2CC(C)=CC[C@H]2C(C)(C)O1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4963",
+    "validation": "m_weight unsave, calculated(382.58800000000014)"
+}

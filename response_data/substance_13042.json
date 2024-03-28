@@ -1,0 +1,13 @@
+{
+    "names": "3-[2-Methoxy-4-(trifluoromethyl)phenyl]piperidine",
+    "iupac_name": "13042 ; C13H16F3NO ; 259.267",
+    "category": "data not stored",
+    "index": 13042,
+    "formular": "C13H16F3NO",
+    "molecular_weight": 259.267,
+    "inChl": "1S/C13H16F3NO/c1-18-12-7-10(13(14,15)16)4-5-11(12)9-3-2-6-17-8-9/h4-5,7,9,17H,2-3,6,8H2,1H3",
+    "InChl_Key": "HAJYZPNSWHOIRS-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(F)(F)F)ccc1C1CCCNC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13042",
+    "validation": "m_weight unsave, calculated(259.2709999999999)"
+}

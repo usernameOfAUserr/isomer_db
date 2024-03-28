@@ -1,0 +1,13 @@
+{
+    "names": "M-CHMIC",
+    "iupac_name": "Methyl 1-(cyclohexylmethyl)-1H-indole-3-carboxylate",
+    "category": "cannabinodids",
+    "index": 7185,
+    "formular": "C17H21NO2",
+    "molecular_weight": 271.354,
+    "inChl": "1S/C17H21NO2/c1-20-17(19)15-12-18(11-13-7-3-2-4-8-13)16-10-6-5-9-14(15)16/h5-6,9-10,12-13H,2-4,7-8,11H2,1H3",
+    "InChl_Key": "KNWOMWABRWXHET-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)c1cn(CC2CCCCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7185",
+    "validation": "m_weight unsave, calculated(271.36)"
+}

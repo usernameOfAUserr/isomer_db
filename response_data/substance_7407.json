@@ -1,0 +1,13 @@
+{
+    "names": "T-NB3Cl ; N-(3-Chlorobenzyl)tryptamine",
+    "iupac_name": "N-[(3-Chlorophenyl)methyl]-2-(1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 7407,
+    "formular": "C17H17ClN2",
+    "molecular_weight": 284.783,
+    "inChl": "1S/C17H17ClN2/c18-15-5-3-4-13(10-15)11-19-9-8-14-12-20-17-7-2-1-6-16(14)17/h1-7,10,12,19-20H,8-9,11H2",
+    "InChl_Key": "QDPIEYJXTMKWCX-UHFFFAOYSA-N",
+    "SMILES": "Clc1cccc(CNCCc2c[nH]c3ccccc23)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7407",
+    "validation": "m_weight unsave, calculated(284.78999999999996)"
+}

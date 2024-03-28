@@ -1,0 +1,13 @@
+{
+    "names": "2-Bromo-PRO-LAD",
+    "iupac_name": "(8\u03b2)-2-Bromo-N,N-diethyl-6-propyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 13747,
+    "formular": "C22H28BrN3O",
+    "molecular_weight": 430.381,
+    "inChl": "1S/C22H28BrN3O/c1-4-10-26-13-14(22(27)25(5-2)6-3)11-16-15-8-7-9-18-20(15)17(12-19(16)26)21(23)24-18/h7-9,11,14,19,24H,4-6,10,12-13H2,1-3H3/t14-,19-/m1/s1",
+    "InChl_Key": "HUBDFUOCMCQCLS-AUUYWEPGSA-N",
+    "SMILES": "CCCN1C[C@H](C(=O)N(CC)CC)C=C2c3cccc4[nH]c(Br)c(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13747",
+    "validation": "m_weight unsave, calculated(430.3900000000002)"
+}

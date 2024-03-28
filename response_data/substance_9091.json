@@ -1,0 +1,13 @@
+{
+    "names": "1-Naphthyl-CP",
+    "iupac_name": "1-[1-(Naphthalen-1-yl)cyclohexyl]piperidine",
+    "category": "Arylcycloalkylamine",
+    "index": 9091,
+    "formular": "C21H27N",
+    "molecular_weight": 293.446,
+    "inChl": "1S/C21H27N/c1-5-14-21(15-6-1,22-16-7-2-8-17-22)20-13-9-11-18-10-3-4-12-19(18)20/h3-4,9-13H,1-2,5-8,14-17H2",
+    "InChl_Key": "VNGCZEMEKQTINU-UHFFFAOYSA-N",
+    "SMILES": "c1ccc2c(C3(N4CCCCC4)CCCCC3)cccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9091",
+    "validation": "m_weight unsave, calculated(293.454)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-Methanesulfonyl-6-fluoro-4-benzyloxy-DMT ; 1-Methanesulfonyl-6-fluoro-4-benzyloxy-N,N-dimethyltryptamine",
+    "iupac_name": "2-[4-(Benzyloxy)-6-fluoro-1-(methanesulfonyl)-1H-indol-3-yl]-N,N-dimethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 13680,
+    "formular": "C20H23FN2O3S",
+    "molecular_weight": 390.472,
+    "inChl": "1S/C20H23FN2O3S/c1-22(2)10-9-16-13-23(27(3,24)25)18-11-17(21)12-19(20(16)18)26-14-15-7-5-4-6-8-15/h4-8,11-13H,9-10,14H2,1-3H3",
+    "InChl_Key": "SXCMJIDGTRLUEP-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1cn(S(C)(=O)=O)c2cc(F)cc(OCc3ccccc3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13680",
+    "validation": "m_weight unsave, calculated(390.48000000000013)"
+}

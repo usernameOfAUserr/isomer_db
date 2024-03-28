@@ -1,0 +1,13 @@
+{
+    "names": "Psilocin glucuronide",
+    "iupac_name": "6-({3-[2-(Dimethylamino)ethyl]-1H-indol-4-yl}oxy)-3,4,5-trihydroxyoxane-2-carboxylic acid ; 3-[2-(Dimethylamino)ethyl]-1H-indol-4-yl hexopyranosiduronic acid",
+    "category": "Tryptamine",
+    "index": 9448,
+    "formular": "C18H24N2O7",
+    "molecular_weight": 380.392,
+    "inChl": "1S/C18H24N2O7/c1-20(2)7-6-9-8-19-10-4-3-5-11(12(9)10)26-18-15(23)13(21)14(22)16(27-18)17(24)25/h3-5,8,13-16,18-19,21-23H,6-7H2,1-2H3,(H,24,25)",
+    "InChl_Key": "QPZFVYCQQOLROG-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2cccc(OC3OC(C(=O)O)C(O)C(O)C3O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9448",
+    "validation": "m_weight unsave, calculated(380.39700000000005)"
+}

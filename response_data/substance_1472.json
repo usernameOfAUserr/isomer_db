@@ -1,0 +1,13 @@
+{
+    "names": "3-CCPA",
+    "iupac_name": "2-(3-Chlorophenyl)cyclopropan-1-amine ; 2-(3-Chlorophenyl)cyclopropanamine",
+    "category": "data not stored",
+    "index": 1472,
+    "formular": "C9H10ClN",
+    "molecular_weight": 167.635,
+    "inChl": "1S/C9H10ClN/c10-7-3-1-2-6(4-7)8-5-9(8)11/h1-4,8-9H,5,11H2",
+    "InChl_Key": "BXWIHRPPNLMSME-UHFFFAOYSA-N",
+    "SMILES": "NC1CC1c1cccc(Cl)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1472",
+    "validation": "m_weight unsave, calculated(167.63899999999998)"
+}

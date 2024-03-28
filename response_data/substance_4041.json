@@ -1,0 +1,13 @@
+{
+    "names": "SGT-61 ; 5F-PNI-D",
+    "iupac_name": "(2,3-Dichlorophenyl)[1-(5-fluoropentyl)-1H-indol-3-yl]methanone",
+    "category": "cannabinodids",
+    "index": 4041,
+    "formular": "C20H18Cl2FNO",
+    "molecular_weight": 378.267,
+    "inChl": "1S/C20H18Cl2FNO/c21-17-9-6-8-15(19(17)22)20(25)16-13-24(12-5-1-4-11-23)18-10-3-2-7-14(16)18/h2-3,6-10,13H,1,4-5,11-12H2",
+    "InChl_Key": "JMPIAGKNGPZTPG-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1cccc(Cl)c1Cl)c1cn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4041",
+    "validation": "m_weight unsave, calculated(378.274)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "[1-(5-Fluoropentyl)-1H-indol-3-yl]{4-[(1H-1,2,3-triazol-1-yl)methyl]naphthalen-1-yl}methanone",
+    "iupac_name": "7697 ; C27H25FN4O ; 440.512",
+    "category": "cannabinodids",
+    "index": 7697,
+    "formular": "C27H25FN4O",
+    "molecular_weight": 440.512,
+    "inChl": "1S/C27H25FN4O/c28-14-6-1-7-16-31-19-25(23-10-4-5-11-26(23)31)27(33)24-13-12-20(18-32-17-15-29-30-32)21-8-2-3-9-22(21)24/h2-5,8-13,15,17,19H,1,6-7,14,16,18H2",
+    "InChl_Key": "AJKFOJUZYNZDTE-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccc(Cn2ccnn2)c2ccccc12)c1cn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7697",
+    "validation": "m_weight unsave, calculated(440.52200000000016)"
+}

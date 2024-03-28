@@ -1,0 +1,13 @@
+{
+    "names": "1-(5-Ethylthiophen-2-yl)-2-(piperidin-1-yl)pentan-1-one",
+    "iupac_name": "1302 ; C16H25NOS ; 279.441",
+    "category": "data not stored",
+    "index": 1302,
+    "formular": "C16H25NOS",
+    "molecular_weight": 279.441,
+    "inChl": "1S/C16H25NOS/c1-3-8-14(17-11-6-5-7-12-17)16(18)15-10-9-13(4-2)19-15/h9-10,14H,3-8,11-12H2,1-2H3",
+    "InChl_Key": "MHTRCNOCPVOGBM-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccc(CC)s1)N1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1302",
+    "validation": "m_weight unsave, calculated(279.449)"
+}

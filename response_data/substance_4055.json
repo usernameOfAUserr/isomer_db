@@ -1,0 +1,13 @@
+{
+    "names": "4F3-JWH-073 ; TFB-073",
+    "iupac_name": "(Naphthalen-1-yl)[1-(4,4,4-trifluorobutyl)-1H-indol-3-yl]methanone",
+    "category": "cannabinodids",
+    "index": 4055,
+    "formular": "C23H18F3NO",
+    "molecular_weight": 381.39,
+    "inChl": "1S/C23H18F3NO/c24-23(25,26)13-6-14-27-15-20(18-10-3-4-12-21(18)27)22(28)19-11-5-8-16-7-1-2-9-17(16)19/h1-5,7-12,15H,6,13-14H2",
+    "InChl_Key": "LGRPYUXZJYMNPL-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1cccc2ccccc12)c1cn(CCCC(F)(F)F)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4055",
+    "validation": "m_weight unsave, calculated(381.3970000000001)"
+}

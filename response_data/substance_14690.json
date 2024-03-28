@@ -1,0 +1,13 @@
+{
+    "names": "N-Acetylbenzocaine",
+    "iupac_name": "Ethyl 4-acetamidobenzoate",
+    "category": "data not stored",
+    "index": 14690,
+    "formular": "C11H13NO3",
+    "molecular_weight": 207.226,
+    "inChl": "1S/C11H13NO3/c1-3-15-11(14)9-4-6-10(7-5-9)12-8(2)13/h4-7H,3H2,1-2H3,(H,12,13)",
+    "InChl_Key": "NHLOBHNRBWKNIO-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ccc(NC(C)=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14690",
+    "validation": "m_weight unsave, calculated(207.22899999999998)"
+}

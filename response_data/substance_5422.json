@@ -1,0 +1,13 @@
+{
+    "names": "6-MeO-TH\u03b2C ; 6-Methoxy-1,2,3,4-tetrahydro-\u03b2-carboline ; Pinoline",
+    "iupac_name": "6-Methoxy-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indole ; 6-Methoxy-2,3,4,9-tetrahydro-1H-\u03b2-carboline",
+    "category": "data not stored",
+    "index": 5422,
+    "formular": "C12H14N2O",
+    "molecular_weight": 202.252,
+    "inChl": "1S/C12H14N2O/c1-15-8-2-3-11-10(6-8)9-4-5-13-7-12(9)14-11/h2-3,6,13-14H,4-5,7H2,1H3",
+    "InChl_Key": "QYMDEOQLJUUNOF-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]c3c(c2c1)CCNC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5422",
+    "validation": "m_weight unsave, calculated(202.25699999999998)"
+}

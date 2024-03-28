@@ -1,0 +1,13 @@
+{
+    "names": "N-HO-PMA ; N-Hydroxy-4-methoxyamphetamine",
+    "iupac_name": "N-Hydroxy-1-(4-methoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 6305,
+    "formular": "C10H15NO2",
+    "molecular_weight": 181.232,
+    "inChl": "1S/C10H15NO2/c1-8(11-12)7-9-3-5-10(13-2)6-4-9/h3-6,8,11-12H,7H2,1-2H3",
+    "InChl_Key": "FRVVGSSZWOOTGV-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CC(C)NO)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6305",
+    "validation": "m_weight unsave, calculated(181.23499999999999)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "iso-PCPy",
+    "iupac_name": "1-(2-Phenylcyclohexyl)pyrrolidine",
+    "category": "Arylcycloalkylamine",
+    "index": 9964,
+    "formular": "C16H23N",
+    "molecular_weight": 229.361,
+    "inChl": "1S/C16H23N/c1-2-8-14(9-3-1)15-10-4-5-11-16(15)17-12-6-7-13-17/h1-3,8-9,15-16H,4-7,10-13H2",
+    "InChl_Key": "OVCOUMFDWWOSLZ-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(C2CCCCC2N2CCCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9964",
+    "validation": "m_weight unsave, calculated(229.36699999999996)"
+}

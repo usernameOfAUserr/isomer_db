@@ -1,0 +1,13 @@
+{
+    "names": "TMPEA-4 ; 2,3,5-Trimethoxyphenethylamine",
+    "iupac_name": "2-(2,3,5-Trimethoxyphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7071,
+    "formular": "C11H17NO3",
+    "molecular_weight": 211.258,
+    "inChl": "1S/C11H17NO3/c1-13-9-6-8(4-5-12)11(15-3)10(7-9)14-2/h6-7H,4-5,12H2,1-3H3",
+    "InChl_Key": "GERNGXILVRWWGB-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)c(OC)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7071",
+    "validation": "m_weight unsave, calculated(211.26099999999994)"
+}

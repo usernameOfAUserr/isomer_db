@@ -1,0 +1,13 @@
+{
+    "names": "2C-T-14 ; 2,5-Dimethoxy-4-(2-methylthioethylthio)phenethylamine",
+    "iupac_name": "2-(2,5-Dimethoxy-4-{[2-(methylsulfanyl)ethyl]sulfanyl}phenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 2082,
+    "formular": "C13H21NO2S2",
+    "molecular_weight": 287.441,
+    "inChl": "1S/C13H21NO2S2/c1-15-11-9-13(18-7-6-17-3)12(16-2)8-10(11)4-5-14/h8-9H,4-7,14H2,1-3H3",
+    "InChl_Key": "YFENVCWPZGGJQO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SCCSC)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2082",
+    "validation": "m_weight unsave, calculated(287.45000000000005)"
+}

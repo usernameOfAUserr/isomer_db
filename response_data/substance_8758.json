@@ -1,0 +1,13 @@
+{
+    "names": "4,2-MMBP",
+    "iupac_name": "1-[(4-Methoxy-2-methylphenyl)methyl]piperazine",
+    "category": "data not stored",
+    "index": 8758,
+    "formular": "C13H20N2O",
+    "molecular_weight": 220.311,
+    "inChl": "1S/C13H20N2O/c1-11-9-13(16-2)4-3-12(11)10-15-7-5-14-6-8-15/h3-4,9,14H,5-8,10H2,1-2H3",
+    "InChl_Key": "FUJYKTZYYPTGRO-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CN2CCNCC2)c(C)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8758",
+    "validation": "m_weight unsave, calculated(220.31599999999995)"
+}

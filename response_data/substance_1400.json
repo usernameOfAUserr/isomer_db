@@ -1,0 +1,13 @@
+{
+    "names": "N-Ethyl-1-[4-(methylsulfanyl)phenyl]butan-2-amine",
+    "iupac_name": "1400 ; C13H21NS ; 223.378",
+    "category": "data not stored",
+    "index": 1400,
+    "formular": "C13H21NS",
+    "molecular_weight": 223.378,
+    "inChl": "1S/C13H21NS/c1-4-12(14-5-2)10-11-6-8-13(15-3)9-7-11/h6-9,12,14H,4-5,10H2,1-3H3",
+    "InChl_Key": "DVPCSQHSLVMBEG-UHFFFAOYSA-N",
+    "SMILES": "CCNC(CC)Cc1ccc(SC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1400",
+    "validation": "m_weight unsave, calculated(223.385)"
+}

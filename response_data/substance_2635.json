@@ -1,0 +1,13 @@
+{
+    "names": "U-50211",
+    "iupac_name": "rel-N-[(1S,2S)-2-(Dimethylamino)cyclohexyl]-4-hydroxy-N-methylbenzamide",
+    "category": "data not stored",
+    "index": 2635,
+    "formular": "C16H24N2O2",
+    "molecular_weight": 276.374,
+    "inChl": "1S/C16H24N2O2/c1-17(2)14-6-4-5-7-15(14)18(3)16(20)12-8-10-13(19)11-9-12/h8-11,14-15,19H,4-7H2,1-3H3/t14-,15-/m0/s1",
+    "InChl_Key": "AEXXPSTYDJTKJQ-GJZGRUSLSA-N",
+    "SMILES": "CN(C)[C@H]1CCCC[C@@H]1N(C)C(=O)c1ccc(O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2635",
+    "validation": "m_weight unsave, calculated(276.38000000000005)"
+}

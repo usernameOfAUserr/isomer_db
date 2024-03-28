@@ -1,0 +1,13 @@
+{
+    "names": "4-ClPPPO-PFPA",
+    "iupac_name": "1-{4-[1-(4-Chlorophenyl)-1-oxopropan-2-yl]piperazin-1-yl}-2,2,3,3,3-pentafluoropropan-1-one",
+    "category": "data not stored",
+    "index": 8929,
+    "formular": "C16H16ClF5N2O2",
+    "molecular_weight": 398.755,
+    "inChl": "1S/C16H16ClF5N2O2/c1-10(13(25)11-2-4-12(17)5-3-11)23-6-8-24(9-7-23)14(26)15(18,19)16(20,21)22/h2-5,10H,6-9H2,1H3",
+    "InChl_Key": "OMMPGCVGFPRUEQ-UHFFFAOYSA-N",
+    "SMILES": "CC(C(=O)c1ccc(Cl)cc1)N1CCN(C(=O)C(F)(F)C(F)(F)F)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8929",
+    "validation": "m_weight unsave, calculated(398.75899999999996)"
+}

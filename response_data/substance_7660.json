@@ -1,0 +1,13 @@
+{
+    "names": "Dihydromorphine",
+    "iupac_name": "17-Methyl-4,5\u03b1-epoxymorphinan-3,6\u03b1-diol ; (4R,4aR,7S,7aR,12bS)-3-Methyl-2,3,4,4a,5,6,7,7a-octahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinoline-7,9-diol ; (5\u03b1,6\u03b1)-17-Methyl-4,5-epoxymorphinan-3,6-diol",
+    "category": "data not stored",
+    "index": 7660,
+    "formular": "C17H21NO3",
+    "molecular_weight": 287.354,
+    "inChl": "1S/C17H21NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2,4,10-11,13,16,19-20H,3,5-8H2,1H3/t10-,11+,13-,16-,17-/m0/s1",
+    "InChl_Key": "IJVCSMSMFSCRME-KBQPJGBKSA-N",
+    "SMILES": "CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)CC[C@H]3[C@H]1C5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7660",
+    "validation": "m_weight unsave, calculated(287.359)"
+}

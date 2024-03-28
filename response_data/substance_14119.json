@@ -1,0 +1,13 @@
+{
+    "names": "2,5-Dihydroxyphenyl-DL-alanine",
+    "iupac_name": "2,5-Dihydroxyphenylalanine ; 2-Amino-3-(2,5-dihydroxyphenyl)propanoic acid",
+    "category": "data not stored",
+    "index": 14119,
+    "formular": "C9H11NO4",
+    "molecular_weight": 197.188,
+    "inChl": "1S/C9H11NO4/c10-7(9(13)14)4-5-3-6(11)1-2-8(5)12/h1-3,7,11-12H,4,10H2,(H,13,14)",
+    "InChl_Key": "GWVBDUDVLOEOHB-UHFFFAOYSA-N",
+    "SMILES": "NC(Cc1cc(O)ccc1O)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14119",
+    "validation": "m_weight unsave, calculated(197.19)"
+}

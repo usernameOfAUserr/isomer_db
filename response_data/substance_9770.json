@@ -1,0 +1,13 @@
+{
+    "names": "PAA",
+    "iupac_name": "Phenylacetic acid",
+    "category": "data not stored",
+    "index": 9770,
+    "formular": "C8H8O2",
+    "molecular_weight": 136.148,
+    "inChl": "1S/C8H8O2/c9-8(10)6-7-4-2-1-3-5-7/h1-5H,6H2,(H,9,10)",
+    "InChl_Key": "WLJVXDMOQOGPHL-UHFFFAOYSA-N",
+    "SMILES": "O=C(O)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9770",
+    "validation": "m_weight unsave, calculated(136.14999999999998)"
+}

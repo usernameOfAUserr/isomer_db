@@ -1,0 +1,13 @@
+{
+    "names": "CP-1414S",
+    "iupac_name": "4-Amino-8-nitro-1-phenyl-1,3-dihydro-2H-1,5-benzodiazepin-2-one",
+    "category": "Aryldiazepine",
+    "index": 3427,
+    "formular": "C15H12N4O3",
+    "molecular_weight": 296.281,
+    "inChl": "1S/C15H12N4O3/c16-14-9-15(20)18(10-4-2-1-3-5-10)13-8-11(19(21)22)6-7-12(13)17-14/h1-8H,9H2,(H2,16,17)",
+    "InChl_Key": "MBSVPZTUXNRICW-UHFFFAOYSA-N",
+    "SMILES": "NC1=Nc2ccc([N+](=O)[O-])cc2N(c2ccccc2)C(=O)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3427",
+    "validation": "m_weight unsave, calculated(296.286)"
+}

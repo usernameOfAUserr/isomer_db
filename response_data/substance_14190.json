@@ -1,0 +1,13 @@
+{
+    "names": "2,5-Dihydroxy-\u03b1-methyltyrosine ; 2-Amino-2-methyl-3-(2,4,5-trihydroxyphenyl)propanoic acid",
+    "iupac_name": "14190 ; C10H13NO5 ; 227.214",
+    "category": "data not stored",
+    "index": 14190,
+    "formular": "C10H13NO5",
+    "molecular_weight": 227.214,
+    "inChl": "1S/C10H13NO5/c1-10(11,9(15)16)4-5-2-7(13)8(14)3-6(5)12/h2-3,12-14H,4,11H2,1H3,(H,15,16)",
+    "InChl_Key": "HHXDZOBGVZKIJO-UHFFFAOYSA-N",
+    "SMILES": "CC(N)(Cc1cc(O)c(O)cc1O)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14190",
+    "validation": "m_weight unsave, calculated(227.21599999999998)"
+}

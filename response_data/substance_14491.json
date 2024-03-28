@@ -1,0 +1,13 @@
+{
+    "names": "6-Prenyl-5-chlorotryptamine",
+    "iupac_name": "2-[5-Chloro-6-(3-methylbut-2-en-1-yl)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 14491,
+    "formular": "C15H19ClN2",
+    "molecular_weight": 262.778,
+    "inChl": "1S/C15H19ClN2/c1-10(2)3-4-11-7-15-13(8-14(11)16)12(5-6-17)9-18-15/h3,7-9,18H,4-6,17H2,1-2H3",
+    "InChl_Key": "HGKJRLFSJQKDME-UHFFFAOYSA-N",
+    "SMILES": "CC(C)=CCc1cc2[nH]cc(CCN)c2cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14491",
+    "validation": "m_weight unsave, calculated(262.784)"
+}

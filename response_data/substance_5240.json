@@ -1,0 +1,13 @@
+{
+    "names": "5-Bromopsilocin ; 5-Bromo-4-hydroxy-N,N-dimethyltryptamine ; 5-Bromo-4-HO-DMT",
+    "iupac_name": "5-Bromo-3-[2-(dimethylamino)ethyl]-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 5240,
+    "formular": "C12H15BrN2O",
+    "molecular_weight": 283.164,
+    "inChl": "1S/C12H15BrN2O/c1-15(2)6-5-8-7-14-10-4-3-9(13)12(16)11(8)10/h3-4,7,14,16H,5-6H2,1-2H3",
+    "InChl_Key": "NJTXKUGHUWSJLC-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2ccc(Br)c(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5240",
+    "validation": "m_weight unsave, calculated(283.169)"
+}

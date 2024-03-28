@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(4,5-Dichloro-2-methoxyphenyl)cyclopropyl]methanamine",
+    "iupac_name": "12964 ; C11H13Cl2NO ; 246.133",
+    "category": "data not stored",
+    "index": 12964,
+    "formular": "C11H13Cl2NO",
+    "molecular_weight": 246.133,
+    "inChl": "1S/C11H13Cl2NO/c1-15-11-4-10(13)9(12)3-8(11)7-2-6(7)5-14/h3-4,6-7H,2,5,14H2,1H3",
+    "InChl_Key": "IZWSHCTXJOWBOY-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Cl)c(Cl)cc1C1CC1CN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12964",
+    "validation": "m_weight unsave, calculated(246.13699999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-[1-(3-Fluorophenyl)propan-2-yl]propan-1-amine",
+    "iupac_name": "2506 ; C12H18FN ; 195.276",
+    "category": "data not stored",
+    "index": 2506,
+    "formular": "C12H18FN",
+    "molecular_weight": 195.276,
+    "inChl": "1S/C12H18FN/c1-3-7-14-10(2)8-11-5-4-6-12(13)9-11/h4-6,9-10,14H,3,7-8H2,1-2H3",
+    "InChl_Key": "AHIVEVZGLQAKQQ-UHFFFAOYSA-N",
+    "SMILES": "CCCNC(C)Cc1cccc(F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2506",
+    "validation": "m_weight unsave, calculated(195.28099999999998)"
+}

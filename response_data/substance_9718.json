@@ -1,0 +1,13 @@
+{
+    "names": "1-(1-Propylpiperidin-4-yl)-1H-indole-2,3-dione",
+    "iupac_name": "9718 ; C16H20N2O2 ; 272.342",
+    "category": "data not stored",
+    "index": 9718,
+    "formular": "C16H20N2O2",
+    "molecular_weight": 272.342,
+    "inChl": "1S/C16H20N2O2/c1-2-9-17-10-7-12(8-11-17)18-14-6-4-3-5-13(14)15(19)16(18)20/h3-6,12H,2,7-11H2,1H3",
+    "InChl_Key": "ZMHLLOSHNNKANA-UHFFFAOYSA-N",
+    "SMILES": "CCCN1CCC(N2C(=O)C(=O)c3ccccc32)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9718",
+    "validation": "m_weight unsave, calculated(272.348)"
+}

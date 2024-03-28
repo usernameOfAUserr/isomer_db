@@ -1,0 +1,13 @@
+{
+    "names": "DESMETHYL-M ; N-Methyl-4-hydroxy-3,5-dimethoxyphenethylamine",
+    "iupac_name": "2,6-Dimethoxy-4-[2-(methylamino)ethyl]phenol",
+    "category": "Shulgin_Index",
+    "index": 7568,
+    "formular": "C11H17NO3",
+    "molecular_weight": 211.258,
+    "inChl": "1S/C11H17NO3/c1-12-5-4-8-6-9(14-2)11(13)10(7-8)15-3/h6-7,12-13H,4-5H2,1-3H3",
+    "InChl_Key": "CQRXQNMRCIMDPZ-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1cc(OC)c(O)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7568",
+    "validation": "m_weight unsave, calculated(211.26099999999997)"
+}

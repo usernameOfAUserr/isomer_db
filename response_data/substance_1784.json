@@ -1,0 +1,13 @@
+{
+    "names": "2-DM-2C-H NS ; 2-Hydroxy-5-methoxy-\u03b2-nitrostyrene",
+    "iupac_name": "4-Methoxy-2-[(E)-2-nitroethenyl]phenol",
+    "category": "data not stored",
+    "index": 1784,
+    "formular": "C9H9NO4",
+    "molecular_weight": 195.172,
+    "inChl": "1S/C9H9NO4/c1-14-8-2-3-9(11)7(6-8)4-5-10(12)13/h2-6,11H,1H3/b5-4+",
+    "InChl_Key": "XHZXDCADXNMUGF-SNAWJCMRSA-N",
+    "SMILES": "COc1ccc(O)c(/C=C/[N+](=O)[O-])c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1784",
+    "validation": "m_weight unsave, calculated(195.17399999999998)"
+}

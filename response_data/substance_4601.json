@@ -1,0 +1,13 @@
+{
+    "names": "CUMYL-TFBICA ; SGT-262",
+    "iupac_name": "N-(2-Phenylpropan-2-yl)-1-(4,4,4-trifluorobutyl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4601,
+    "formular": "C22H23F3N2O",
+    "molecular_weight": 388.426,
+    "inChl": "1S/C22H23F3N2O/c1-21(2,16-9-4-3-5-10-16)26-20(28)18-15-27(14-8-13-22(23,24)25)19-12-7-6-11-17(18)19/h3-7,9-12,15H,8,13-14H2,1-2H3,(H,26,28)",
+    "InChl_Key": "BUMSMEHOLVSGDD-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1cn(CCCC(F)(F)F)c2ccccc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4601",
+    "validation": "m_weight unsave, calculated(388.433)"
+}

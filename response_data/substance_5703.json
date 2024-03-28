@@ -1,0 +1,13 @@
+{
+    "names": "12-MeO-6-Pr-Ergoline",
+    "iupac_name": "12-Methoxy-6-propylergoline ; 1-Methoxy-7-propyl-4,6,6a,7,8,9,10,10a-octahydroindolo[4,3-fg]quinoline",
+    "category": "data not stored",
+    "index": 5703,
+    "formular": "C18H24N2O",
+    "molecular_weight": 284.396,
+    "inChl": "1S/C18H24N2O/c1-3-8-20-9-4-5-13-15(20)10-12-11-19-14-6-7-16(21-2)18(13)17(12)14/h6-7,11,13,15,19H,3-5,8-10H2,1-2H3/t13-,15+/m0/s1",
+    "InChl_Key": "NNOSNWMGHJBLBJ-DZGCQCFKSA-N",
+    "SMILES": "CCCN1CCC[C@@H]2c3c(OC)ccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5703",
+    "validation": "m_weight unsave, calculated(284.40299999999996)"
+}

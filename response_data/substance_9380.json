@@ -1,0 +1,13 @@
+{
+    "names": "6-Me-2,4-EMPEA NS ; 2-Ethoxy-4-methoxy-6-methyl-\u03b2-nitrostyrene",
+    "iupac_name": "1-Ethoxy-5-methoxy-3-methyl-2-[(E)-2-nitroethenyl]benzene",
+    "category": "data not stored",
+    "index": 9380,
+    "formular": "C12H15NO4",
+    "molecular_weight": 237.252,
+    "inChl": "1S/C12H15NO4/c1-4-17-12-8-10(16-3)7-9(2)11(12)5-6-13(14)15/h5-8H,4H2,1-3H3/b6-5+",
+    "InChl_Key": "QJASFRSWOIFMBC-AATRIKPKSA-N",
+    "SMILES": "CCOc1cc(OC)cc(C)c1/C=C/[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9380",
+    "validation": "m_weight unsave, calculated(237.25499999999997)"
+}

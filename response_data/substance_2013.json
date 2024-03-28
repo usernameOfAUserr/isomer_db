@@ -1,0 +1,13 @@
+{
+    "names": "2,4,5-HO-PEA ; Oxidopamine ; 6-Hydroxydopamine ; 6-OHDA ; 2,4,5-Trihydroxyphenethylamine",
+    "iupac_name": "5-(2-Aminoethyl)benzene-1,2,4-triol",
+    "category": "Shulgin_Index",
+    "index": 2013,
+    "formular": "C8H11NO3",
+    "molecular_weight": 169.178,
+    "inChl": "1S/C8H11NO3/c9-2-1-5-3-7(11)8(12)4-6(5)10/h3-4,10-12H,1-2,9H2",
+    "InChl_Key": "DIVDFFZHCJEHGG-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cc(O)c(O)cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2013",
+    "validation": "m_weight unsave, calculated(169.17999999999998)"
+}

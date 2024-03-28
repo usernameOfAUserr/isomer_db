@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Diethyl-5-(3-methoxyphenyl)-1-methyl-1,2,3,6-tetrahydropyridine-3-carboxamide",
+    "iupac_name": "13054 ; C18H26N2O2 ; 302.411",
+    "category": "data not stored",
+    "index": 13054,
+    "formular": "C18H26N2O2",
+    "molecular_weight": 302.411,
+    "inChl": "1S/C18H26N2O2/c1-5-20(6-2)18(21)16-10-15(12-19(3)13-16)14-8-7-9-17(11-14)22-4/h7-11,16H,5-6,12-13H2,1-4H3",
+    "InChl_Key": "LBOVWVLKCFKHRI-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)C(=O)C1C=C(c2cccc(OC)c2)CN(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13054",
+    "validation": "m_weight unsave, calculated(302.4180000000001)"
+}

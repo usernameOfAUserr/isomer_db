@@ -1,0 +1,13 @@
+{
+    "names": "7-Fluoro-N-methyl-IPIP",
+    "iupac_name": "7-Fluoro-3-(1-methylpiperidin-3-yl)-1H-indole",
+    "category": "data not stored",
+    "index": 13551,
+    "formular": "C14H17FN2",
+    "molecular_weight": 232.297,
+    "inChl": "1S/C14H17FN2/c1-17-7-3-4-10(9-17)12-8-16-14-11(12)5-2-6-13(14)15/h2,5-6,8,10,16H,3-4,7,9H2,1H3",
+    "InChl_Key": "VWFRFMWOKJZMCJ-UHFFFAOYSA-N",
+    "SMILES": "CN1CCCC(c2c[nH]c3c(F)cccc23)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13551",
+    "validation": "m_weight unsave, calculated(232.302)"
+}

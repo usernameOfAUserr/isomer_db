@@ -1,0 +1,13 @@
+{
+    "names": "Lauric acid",
+    "iupac_name": "Dodecanoic acid",
+    "category": "data not stored",
+    "index": 13237,
+    "formular": "C12H24O2",
+    "molecular_weight": 200.318,
+    "inChl": "1S/C12H24O2/c1-2-3-4-5-6-7-8-9-10-11-12(13)14/h2-11H2,1H3,(H,13,14)",
+    "InChl_Key": "POULHZVOKOAJMA-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCCCCC(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13237",
+    "validation": "m_weight unsave, calculated(200.32199999999997)"
+}

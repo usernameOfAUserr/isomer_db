@@ -1,0 +1,13 @@
+{
+    "names": "5-(1-Phenylethyl)oxy-AMT ; 5-(1-Phenylethyl)oxy-\u03b1-methyltryptamine",
+    "iupac_name": "1-[5-(1-Phenylethoxy)-1H-indol-3-yl]propan-2-amine",
+    "category": "Tryptamine",
+    "index": 5825,
+    "formular": "C19H22N2O",
+    "molecular_weight": 294.391,
+    "inChl": "1S/C19H22N2O/c1-13(20)10-16-12-21-19-9-8-17(11-18(16)19)22-14(2)15-6-4-3-5-7-15/h3-9,11-14,21H,10,20H2,1-2H3",
+    "InChl_Key": "DCKWIQPXAMBCIJ-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c[nH]c2ccc(OC(C)c3ccccc3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5825",
+    "validation": "m_weight unsave, calculated(294.398)"
+}

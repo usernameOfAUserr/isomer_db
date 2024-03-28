@@ -1,0 +1,13 @@
+{
+    "names": "2-FAP",
+    "iupac_name": "1-(Furan-2-yl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10908,
+    "formular": "C7H11NO",
+    "molecular_weight": 125.168,
+    "inChl": "1S/C7H11NO/c1-6(8)5-7-3-2-4-9-7/h2-4,6H,5,8H2,1H3",
+    "InChl_Key": "IDUAQSPIDXGMKI-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccco1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10908",
+    "validation": "m_weight unsave, calculated(125.17099999999998)"
+}

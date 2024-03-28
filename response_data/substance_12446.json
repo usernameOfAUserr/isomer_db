@@ -1,0 +1,13 @@
+{
+    "names": "9-Iodo-5,6,7,8-tetrahydrodibenzo[c,e]azocine",
+    "iupac_name": "12446 ; C15H14IN ; 335.183",
+    "category": "data not stored",
+    "index": 12446,
+    "formular": "C15H14IN",
+    "molecular_weight": 335.183,
+    "inChl": "1S/C15H14IN/c16-15-7-3-6-13-12-5-2-1-4-11(12)10-17-9-8-14(13)15/h1-7,17H,8-10H2",
+    "InChl_Key": "UVOMRSALAMJJPQ-UHFFFAOYSA-N",
+    "SMILES": "Ic1cccc2c1CCNCc1ccccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12446",
+    "validation": "m_weight unsave, calculated(335.1880000000001)"
+}

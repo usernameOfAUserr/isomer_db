@@ -1,0 +1,13 @@
+{
+    "names": "2-(5-Methoxy-1-methyl-1H-indazol-3-yl)-N,N-dimethylethan-1-amine",
+    "iupac_name": "14796 ; C13H19N3O ; 233.309",
+    "category": "data not stored",
+    "index": 14796,
+    "formular": "C13H19N3O",
+    "molecular_weight": 233.309,
+    "inChl": "1S/C13H19N3O/c1-15(2)8-7-12-11-9-10(17-4)5-6-13(11)16(3)14-12/h5-6,9H,7-8H2,1-4H3",
+    "InChl_Key": "DBWDLUKMLNLREJ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c(c1)c(CCN(C)C)nn2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14796",
+    "validation": "m_weight unsave, calculated(233.31499999999997)"
+}

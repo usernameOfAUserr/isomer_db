@@ -1,0 +1,13 @@
+{
+    "names": "5-Carbamoyl-NIPT ; 5-Carbamoyl-N-isopropyltryptamine",
+    "iupac_name": "3-{2-[(Propan-2-yl)amino]ethyl}-1H-indole-5-carboxamide ; 3-[2-(Propan-2-ylamino)ethyl]-1H-indole-5-carboxamide",
+    "category": "Tryptamine",
+    "index": 5893,
+    "formular": "C14H19N3O",
+    "molecular_weight": 245.32,
+    "inChl": "1S/C14H19N3O/c1-9(2)16-6-5-11-8-17-13-4-3-10(14(15)18)7-12(11)13/h3-4,7-9,16-17H,5-6H2,1-2H3,(H2,15,18)",
+    "InChl_Key": "FMIWNZIDTRGNHN-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NCCc1c[nH]c2ccc(C(N)=O)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5893",
+    "validation": "m_weight unsave, calculated(245.326)"
+}

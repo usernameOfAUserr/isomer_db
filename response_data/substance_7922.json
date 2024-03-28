@@ -1,0 +1,13 @@
+{
+    "names": "5,6-Bromo-N-chloromethyl-DMT+ ; 5,6-Bromo-N-chloromethyl-N,N-dimethyltryptamine+",
+    "iupac_name": "N-(Chloromethyl)-2-(5,6-dibromo-1H-indol-3-yl)-N,N-dimethylethan-1-aminium",
+    "category": "Tryptamine",
+    "index": 7922,
+    "formular": "C13H16Br2ClN2",
+    "molecular_weight": 395.541,
+    "inChl": "1S/C13H16Br2ClN2/c1-18(2,8-16)4-3-9-7-17-13-6-12(15)11(14)5-10(9)13/h5-7,17H,3-4,8H2,1-2H3/q+1",
+    "InChl_Key": "DVEJGOXVWBEWGN-UHFFFAOYSA-N",
+    "SMILES": "C[N+](C)(CCl)CCc1c[nH]c2cc(Br)c(Br)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7922",
+    "validation": "m_weight unsave, calculated(395.54600000000005)formular unsave, calculated(C13H16Br2ClN2+)"
+}

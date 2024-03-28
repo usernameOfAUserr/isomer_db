@@ -1,0 +1,13 @@
+{
+    "names": "5-IAI ; 2-Amino-5-iodoindane",
+    "iupac_name": "5-Iodo-2,3-dihydro-1H-inden-2-amine",
+    "category": "data not stored",
+    "index": 2355,
+    "formular": "C9H10IN",
+    "molecular_weight": 259.087,
+    "inChl": "1S/C9H10IN/c10-8-2-1-6-4-9(11)5-7(6)3-8/h1-3,9H,4-5,11H2",
+    "InChl_Key": "BIHPYCDDPGNWQO-UHFFFAOYSA-N",
+    "SMILES": "NC1Cc2ccc(I)cc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2355",
+    "validation": "m_weight unsave, calculated(259.09)"
+}

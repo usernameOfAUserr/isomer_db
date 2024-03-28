@@ -1,0 +1,13 @@
+{
+    "names": "1-Pentyl-N-(2-phenylpropan-2-yl)-4,5,6,7-tetrahydro-1H-4,7-methanoindazole-3-carboxamide",
+    "iupac_name": "7776 ; C23H31N3O ; 365.512",
+    "category": "cannabinodids",
+    "index": 7776,
+    "formular": "C23H31N3O",
+    "molecular_weight": 365.512,
+    "inChl": "1S/C23H31N3O/c1-4-5-9-14-26-21-17-13-12-16(15-17)19(21)20(25-26)22(27)24-23(2,3)18-10-7-6-8-11-18/h6-8,10-11,16-17H,4-5,9,12-15H2,1-3H3,(H,24,27)",
+    "InChl_Key": "FOMJQFIIIGVOAU-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1nc(C(=O)NC(C)(C)c2ccccc2)c2c1C1CCC2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7776",
+    "validation": "m_weight unsave, calculated(365.5210000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-Methoxydibenzo[b,d]furan",
+    "iupac_name": "14051 ; C13H10O2 ; 198.217",
+    "category": "data not stored",
+    "index": 14051,
+    "formular": "C13H10O2",
+    "molecular_weight": 198.217,
+    "inChl": "1S/C13H10O2/c1-14-9-6-7-13-11(8-9)10-4-2-3-5-12(10)15-13/h2-8H,1H3",
+    "InChl_Key": "XSIBNFRLWPYZRA-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2oc3ccccc3c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14051",
+    "validation": "m_weight unsave, calculated(198.221)"
+}

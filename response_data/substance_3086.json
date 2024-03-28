@@ -1,0 +1,13 @@
+{
+    "names": "Deschloro W-19",
+    "iupac_name": "N-{1-[2-(4-Aminophenyl)ethyl]piperidin-2-ylidene}benzenesulfonamide",
+    "category": "data not stored",
+    "index": 3086,
+    "formular": "C19H23N3O2S",
+    "molecular_weight": 357.47,
+    "inChl": "1S/C19H23N3O2S/c20-17-11-9-16(10-12-17)13-15-22-14-5-4-8-19(22)21-25(23,24)18-6-2-1-3-7-18/h1-3,6-7,9-12H,4-5,8,13-15,20H2",
+    "InChl_Key": "LEPJQUCPARWIPK-UHFFFAOYSA-N",
+    "SMILES": "Nc1ccc(CCN2CCCCC2=NS(=O)(=O)c2ccccc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3086",
+    "validation": "m_weight unsave, calculated(357.47900000000004)"
+}

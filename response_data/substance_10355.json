@@ -1,0 +1,13 @@
+{
+    "names": "BMB ; 4-Bromo-2,5-dimethoxy-\u03b2-methylphenethylamine",
+    "iupac_name": "2-(4-Bromo-2,5-dimethoxyphenyl)propan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10355,
+    "formular": "C11H16BrNO2",
+    "molecular_weight": 274.154,
+    "inChl": "1S/C11H16BrNO2/c1-7(6-13)8-4-11(15-3)9(12)5-10(8)14-2/h4-5,7H,6,13H2,1-3H3",
+    "InChl_Key": "YJJFYOKEGOFNFA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(C)CN)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10355",
+    "validation": "m_weight unsave, calculated(274.15799999999996)"
+}

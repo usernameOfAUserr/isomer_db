@@ -1,0 +1,13 @@
+{
+    "names": "O-Methylepinephrine ; N-Methyl-\u03b2-methoxy-3,4-dihydroxyphenethylamine",
+    "iupac_name": "4-[1-Methoxy-2-(methylamino)ethyl]benzene-1,2-diol",
+    "category": "data not stored",
+    "index": 8391,
+    "formular": "C10H15NO3",
+    "molecular_weight": 197.231,
+    "inChl": "1S/C10H15NO3/c1-11-6-10(14-2)7-3-4-8(12)9(13)5-7/h3-5,10-13H,6H2,1-2H3",
+    "InChl_Key": "VEBWYSFGJOBXNO-UHFFFAOYSA-N",
+    "SMILES": "CNCC(OC)c1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8391",
+    "validation": "m_weight unsave, calculated(197.23399999999998)"
+}

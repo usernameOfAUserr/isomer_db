@@ -1,0 +1,13 @@
+{
+    "names": "MPTP",
+    "iupac_name": "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+    "category": "Phenetylamine",
+    "index": 5452,
+    "formular": "C12H15N",
+    "molecular_weight": 173.254,
+    "inChl": "1S/C12H15N/c1-13-9-7-12(8-10-13)11-5-3-2-4-6-11/h2-7H,8-10H2,1H3",
+    "InChl_Key": "PLRACCBDVIHHLZ-UHFFFAOYSA-N",
+    "SMILES": "CN1CC=C(c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5452",
+    "validation": "m_weight unsave, calculated(173.25900000000001)"
+}

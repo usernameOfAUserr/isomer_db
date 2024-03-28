@@ -1,0 +1,13 @@
+{
+    "names": "N-(5-Methoxypentyl)-1-phenylcyclohexan-1-amine",
+    "iupac_name": "9109 ; C18H29NO ; 275.429",
+    "category": "Arylcycloalkylamine",
+    "index": 9109,
+    "formular": "C18H29NO",
+    "molecular_weight": 275.429,
+    "inChl": "1S/C18H29NO/c1-20-16-10-4-9-15-19-18(13-7-3-8-14-18)17-11-5-2-6-12-17/h2,5-6,11-12,19H,3-4,7-10,13-16H2,1H3",
+    "InChl_Key": "YVCJWUBKGKBXDB-UHFFFAOYSA-N",
+    "SMILES": "COCCCCCNC1(c2ccccc2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9109",
+    "validation": "m_weight unsave, calculated(275.436)"
+}

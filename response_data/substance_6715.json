@@ -1,0 +1,13 @@
+{
+    "names": "N-tert-Butyl-N-methyl-3-chlorocathinone ; N-tert-Butyl-3-chloromethcathinone",
+    "iupac_name": "2-[tert-Butyl(methyl)amino]-1-(3-chlorophenyl)propan-1-one",
+    "category": "data not stored",
+    "index": 6715,
+    "formular": "C14H20ClNO",
+    "molecular_weight": 253.768,
+    "inChl": "1S/C14H20ClNO/c1-10(16(5)14(2,3)4)13(17)11-7-6-8-12(15)9-11/h6-10H,1-5H3",
+    "InChl_Key": "BJLKZFUZNNATGZ-UHFFFAOYSA-N",
+    "SMILES": "CC(C(=O)c1cccc(Cl)c1)N(C)C(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6715",
+    "validation": "m_weight unsave, calculated(253.77299999999997)"
+}

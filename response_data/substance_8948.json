@@ -1,0 +1,13 @@
+{
+    "names": "2,3-MDPH-PFPA",
+    "iupac_name": "N-[1-(2H-1,3-Benzodioxol-4-yl)-2-methylpropan-2-yl]-2,2,3,3,3-pentafluoropropanamide",
+    "category": "data not stored",
+    "index": 8948,
+    "formular": "C14H14F5NO3",
+    "molecular_weight": 339.258,
+    "inChl": "1S/C14H14F5NO3/c1-12(2,20-11(21)13(15,16)14(17,18)19)6-8-4-3-5-9-10(8)23-7-22-9/h3-5H,6-7H2,1-2H3,(H,20,21)",
+    "InChl_Key": "TXVIMMCYXUXCIC-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(Cc1cccc2c1OCO2)NC(=O)C(F)(F)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8948",
+    "validation": "m_weight unsave, calculated(339.26000000000016)"
+}

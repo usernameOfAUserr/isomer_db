@@ -1,0 +1,13 @@
+{
+    "names": "N-(3-Nitrobenzyliden)tyramine",
+    "iupac_name": "4-(2-{(E)-[(3-Nitrophenyl)methylidene]amino}ethyl)phenol",
+    "category": "data not stored",
+    "index": 3595,
+    "formular": "C15H14N2O3",
+    "molecular_weight": 270.283,
+    "inChl": "1S/C15H14N2O3/c18-15-6-4-12(5-7-15)8-9-16-11-13-2-1-3-14(10-13)17(19)20/h1-7,10-11,18H,8-9H2/b16-11+",
+    "InChl_Key": "ZFWLCWQUUMXCDK-LFIBNONCSA-N",
+    "SMILES": "O=[N+]([O-])c1cccc(/C=N/CCc2ccc(O)cc2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3595",
+    "validation": "m_weight unsave, calculated(270.288)"
+}

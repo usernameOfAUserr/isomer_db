@@ -1,0 +1,13 @@
+{
+    "names": "SN35486",
+    "iupac_name": "Propan-2-yl 4-{[1-(2-chlorophenyl)-2-oxocyclohexyl]amino}butanoate",
+    "category": "Arylcycloalkylamine",
+    "index": 6193,
+    "formular": "C19H26ClNO3",
+    "molecular_weight": 351.868,
+    "inChl": "1S/C19H26ClNO3/c1-14(2)24-18(23)11-7-13-21-19(12-6-5-10-17(19)22)15-8-3-4-9-16(15)20/h3-4,8-9,14,21H,5-7,10-13H2,1-2H3",
+    "InChl_Key": "UMTAVENMCNHZKS-UHFFFAOYSA-N",
+    "SMILES": "CC(C)OC(=O)CCCNC1(c2ccccc2Cl)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6193",
+    "validation": "m_weight unsave, calculated(351.87399999999997)"
+}

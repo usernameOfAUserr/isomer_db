@@ -1,0 +1,13 @@
+{
+    "names": "AET ; \u03b1-Ethyltryptamine ; 3-(2-Aminobutyl)indole ; \u03b1-ET ; \u03b1ET ; Etryptamine ; Indole, 3-(2-aminobutyl) ; Monase ; Tryptamine, \u03b1-ethyl",
+    "iupac_name": "1-(1H-Indol-3-yl)butan-2-amine",
+    "category": "Tryptamine",
+    "index": 5011,
+    "formular": "C12H16N2",
+    "molecular_weight": 188.269,
+    "inChl": "1S/C12H16N2/c1-2-10(13)7-9-8-14-12-6-4-3-5-11(9)12/h3-6,8,10,14H,2,7,13H2,1H3",
+    "InChl_Key": "ZXUMUPVQYAFTLF-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)Cc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5011",
+    "validation": "m_weight unsave, calculated(188.274)"
+}

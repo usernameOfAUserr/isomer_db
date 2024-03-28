@@ -1,0 +1,13 @@
+{
+    "names": "1-Methyl-8-(trifluoromethyl)-2,3,4,5-tetrahydro-1H-3-benzazepine",
+    "iupac_name": "2742 ; C12H14F3N ; 229.241",
+    "category": "data not stored",
+    "index": 2742,
+    "formular": "C12H14F3N",
+    "molecular_weight": 229.241,
+    "inChl": "1S/C12H14F3N/c1-8-7-16-5-4-9-2-3-10(6-11(8)9)12(13,14)15/h2-3,6,8,16H,4-5,7H2,1H3",
+    "InChl_Key": "GBYLNYMTYZRQLE-UHFFFAOYSA-N",
+    "SMILES": "CC1CNCCc2ccc(C(F)(F)F)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2742",
+    "validation": "m_weight unsave, calculated(229.24499999999998)"
+}

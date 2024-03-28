@@ -1,0 +1,13 @@
+{
+    "names": "N-[2-(2,5-Dimethoxy-4-propylphenyl)ethyl]acetamide",
+    "iupac_name": "6945 ; C15H23NO3 ; 265.348",
+    "category": "data not stored",
+    "index": 6945,
+    "formular": "C15H23NO3",
+    "molecular_weight": 265.348,
+    "inChl": "1S/C15H23NO3/c1-5-6-12-9-15(19-4)13(10-14(12)18-3)7-8-16-11(2)17/h9-10H,5-8H2,1-4H3,(H,16,17)",
+    "InChl_Key": "KCAZCGSRGRGMNS-UHFFFAOYSA-N",
+    "SMILES": "CCCc1cc(OC)c(CCNC(C)=O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6945",
+    "validation": "m_weight unsave, calculated(265.35299999999995)"
+}

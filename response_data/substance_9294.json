@@ -1,0 +1,13 @@
+{
+    "names": "Methadone",
+    "iupac_name": "6-(Dimethylamino)-4,4-diphenylheptan-3-one",
+    "category": "data not stored",
+    "index": 9294,
+    "formular": "C21H27NO",
+    "molecular_weight": 309.445,
+    "inChl": "1S/C21H27NO/c1-5-20(23)21(16-17(2)22(3)4,18-12-8-6-9-13-18)19-14-10-7-11-15-19/h6-15,17H,5,16H2,1-4H3",
+    "InChl_Key": "USSIQXCVUWKGNF-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9294",
+    "validation": "m_weight unsave, calculated(309.4530000000001)"
+}

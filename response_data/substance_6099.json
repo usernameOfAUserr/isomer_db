@@ -1,0 +1,13 @@
+{
+    "names": "Diethyl 5-phenylimidazo[1,5-a]quinoline-3,4-dicarboxylate",
+    "iupac_name": "6099 ; C23H20N2O4 ; 388.416",
+    "category": "data not stored",
+    "index": 6099,
+    "formular": "C23H20N2O4",
+    "molecular_weight": 388.416,
+    "inChl": "1S/C23H20N2O4/c1-3-28-22(26)19-18(15-10-6-5-7-11-15)16-12-8-9-13-17(16)25-14-24-20(21(19)25)23(27)29-4-2/h5-14H,3-4H2,1-2H3",
+    "InChl_Key": "BAKDMJMOJBSBMQ-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ncn2c1c(C(=O)OCC)c(-c1ccccc1)c1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6099",
+    "validation": "m_weight unsave, calculated(388.42300000000023)"
+}

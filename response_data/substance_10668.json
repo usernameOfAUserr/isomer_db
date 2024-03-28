@@ -1,0 +1,13 @@
+{
+    "names": "N-MeOEt-A ; N-(2-Methoxyethyl)amphetamine",
+    "iupac_name": "N-(2-Methoxyethyl)-1-phenylpropan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10668,
+    "formular": "C12H19NO",
+    "molecular_weight": 193.285,
+    "inChl": "1S/C12H19NO/c1-11(13-8-9-14-2)10-12-6-4-3-5-7-12/h3-7,11,13H,8-10H2,1-2H3",
+    "InChl_Key": "KIABFHXPDLBMLA-UHFFFAOYSA-N",
+    "SMILES": "COCCNC(C)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10668",
+    "validation": "m_weight unsave, calculated(193.29)"
+}

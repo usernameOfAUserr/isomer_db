@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Diethyl-1-(4-fluorophenyl)propan-2-amine",
+    "iupac_name": "2514 ; C13H20FN ; 209.303",
+    "category": "data not stored",
+    "index": 2514,
+    "formular": "C13H20FN",
+    "molecular_weight": 209.303,
+    "inChl": "1S/C13H20FN/c1-4-15(5-2)11(3)10-12-6-8-13(14)9-7-12/h6-9,11H,4-5,10H2,1-3H3",
+    "InChl_Key": "QEJKHPUUEQDJBQ-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)C(C)Cc1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2514",
+    "validation": "m_weight unsave, calculated(209.30799999999996)"
+}

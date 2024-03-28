@@ -1,0 +1,13 @@
+{
+    "names": "1-(5-Chlorothiophen-2-yl)-2-(2,6-dimethylmorpholin-4-yl)pentan-1-one",
+    "iupac_name": "1304 ; C15H22ClNO2S ; 315.859",
+    "category": "data not stored",
+    "index": 1304,
+    "formular": "C15H22ClNO2S",
+    "molecular_weight": 315.859,
+    "inChl": "1S/C15H22ClNO2S/c1-4-5-12(15(18)13-6-7-14(16)20-13)17-8-10(2)19-11(3)9-17/h6-7,10-12H,4-5,8-9H2,1-3H3",
+    "InChl_Key": "GDWCWYMKLPGSLS-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccc(Cl)s1)N1CC(C)OC(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1304",
+    "validation": "m_weight unsave, calculated(315.86600000000004)"
+}

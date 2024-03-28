@@ -1,0 +1,13 @@
+{
+    "names": "3-Allylfentanyl",
+    "iupac_name": "N-Phenyl-N-[1-(2-phenylethyl)-3-(prop-2-en-1-yl)piperidin-4-yl]propanamide",
+    "category": "Fentanyl",
+    "index": 3186,
+    "formular": "C25H32N2O",
+    "molecular_weight": 376.534,
+    "inChl": "1S/C25H32N2O/c1-3-11-22-20-26(18-16-21-12-7-5-8-13-21)19-17-24(22)27(25(28)4-2)23-14-9-6-10-15-23/h3,5-10,12-15,22,24H,1,4,11,16-20H2,2H3",
+    "InChl_Key": "BZXKQFFMDLTPJL-UHFFFAOYSA-N",
+    "SMILES": "C=CCC1CN(CCc2ccccc2)CCC1N(C(=O)CC)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3186",
+    "validation": "m_weight unsave, calculated(376.54400000000015)"
+}

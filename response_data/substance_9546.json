@@ -1,0 +1,13 @@
+{
+    "names": "PCPyrrole",
+    "iupac_name": "1-(1-Phenylcyclohexyl)-1H-pyrrole",
+    "category": "Arylcycloalkylamine",
+    "index": 9546,
+    "formular": "C16H19N",
+    "molecular_weight": 225.329,
+    "inChl": "1S/C16H19N/c1-3-9-15(10-4-1)16(11-5-2-6-12-16)17-13-7-8-14-17/h1,3-4,7-10,13-14H,2,5-6,11-12H2",
+    "InChl_Key": "VNGWITCXLFXYBC-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(C2(n3cccc3)CCCCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9546",
+    "validation": "m_weight unsave, calculated(225.33500000000004)"
+}

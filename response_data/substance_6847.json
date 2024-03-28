@@ -1,0 +1,13 @@
+{
+    "names": "7-Azido-5-(2-azidophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one",
+    "iupac_name": "6847 ; C15H10N8O ; 318.293",
+    "category": "Aryldiazepine",
+    "index": 6847,
+    "formular": "C15H10N8O",
+    "molecular_weight": 318.293,
+    "inChl": "1S/C15H10N8O/c16-22-20-9-5-6-12-11(7-9)15(18-8-14(24)19-12)10-3-1-2-4-13(10)21-23-17/h1-7H,8H2,(H,19,24)",
+    "InChl_Key": "IYVLGVHRRFSIIL-UHFFFAOYSA-N",
+    "SMILES": "[N-]=[N+]=Nc1ccc2c(c1)C(c1ccccc1N=[N+]=[N-])=NCC(=O)N2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6847",
+    "validation": "m_weight unsave, calculated(318.3)"
+}

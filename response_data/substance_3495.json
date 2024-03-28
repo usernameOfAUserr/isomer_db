@@ -1,0 +1,13 @@
+{
+    "names": "Triflunordazepam ; Ro-05-2904",
+    "iupac_name": "5-Phenyl-7-(trifluoromethyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one",
+    "category": "Aryldiazepine",
+    "index": 3495,
+    "formular": "C16H11F3N2O",
+    "molecular_weight": 304.267,
+    "inChl": "1S/C16H11F3N2O/c17-16(18,19)11-6-7-13-12(8-11)15(20-9-14(22)21-13)10-4-2-1-3-5-10/h1-8H,9H2,(H,21,22)",
+    "InChl_Key": "UUBMOUNXQFMBQF-UHFFFAOYSA-N",
+    "SMILES": "O=C1CN=C(c2ccccc2)c2cc(C(F)(F)F)ccc2N1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3495",
+    "validation": "m_weight unsave, calculated(304.27099999999996)"
+}

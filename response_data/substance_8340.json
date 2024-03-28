@@ -1,0 +1,13 @@
+{
+    "names": "TFELA",
+    "iupac_name": "6-Methyl-N-(2,2,2-trifluoroethyl)-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-7-Methyl-N-(2,2,2-trifluoroethyl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-6-Methyl-N-(2,2,2-trifluoroethyl)-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 8340,
+    "formular": "C18H18F3N3O",
+    "molecular_weight": 349.35,
+    "inChl": "1S/C18H18F3N3O/c1-24-8-11(17(25)23-9-18(19,20)21)5-13-12-3-2-4-14-16(12)10(7-22-14)6-15(13)24/h2-5,7,11,15,22H,6,8-9H2,1H3,(H,23,25)/t11-,15-/m1/s1",
+    "InChl_Key": "CJXMFGXOIQWGNO-IAQYHMDHSA-N",
+    "SMILES": "CN1C[C@H](C(=O)NCC(F)(F)F)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8340",
+    "validation": "m_weight unsave, calculated(349.356)"
+}

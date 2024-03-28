@@ -1,0 +1,13 @@
+{
+    "names": "N-Ethyl-1,3,4,9,10,10a-hexahydrophenanthren-4a(2H)-amine",
+    "iupac_name": "6644 ; C16H23N ; 229.361",
+    "category": "Arylcycloalkylamine",
+    "index": 6644,
+    "formular": "C16H23N",
+    "molecular_weight": 229.361,
+    "inChl": "1S/C16H23N/c1-2-17-16-12-6-5-8-14(16)11-10-13-7-3-4-9-15(13)16/h3-4,7,9,14,17H,2,5-6,8,10-12H2,1H3",
+    "InChl_Key": "DGBRGNBZYYODJF-UHFFFAOYSA-N",
+    "SMILES": "CCNC12CCCCC1CCc1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6644",
+    "validation": "m_weight unsave, calculated(229.367)"
+}

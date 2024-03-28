@@ -1,0 +1,13 @@
+{
+    "names": "Fluorexetamine ; FXE ; 3-F-2\u2032-Oxo-PCE",
+    "iupac_name": "2-(Ethylamino)-2-(3-fluorophenyl)cyclohexan-1-one",
+    "category": "Arylcycloalkylamine",
+    "index": 1950,
+    "formular": "C14H18FNO",
+    "molecular_weight": 235.297,
+    "inChl": "1S/C14H18FNO/c1-2-16-14(9-4-3-8-13(14)17)11-6-5-7-12(15)10-11/h5-7,10,16H,2-4,8-9H2,1H3",
+    "InChl_Key": "FCETYWCLCUZFJI-UHFFFAOYSA-N",
+    "SMILES": "CCNC1(c2cccc(F)c2)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1950",
+    "validation": "m_weight unsave, calculated(235.302)"
+}

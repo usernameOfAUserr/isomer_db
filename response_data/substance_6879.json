@@ -1,0 +1,13 @@
+{
+    "names": "1-[1-(Cyclooctylmethyl)piperidin-4-yl]-1,3-dihydro-2H-benzimidazol-2-one",
+    "iupac_name": "6879 ; C21H31N3O ; 341.49",
+    "category": "data not stored",
+    "index": 6879,
+    "formular": "C21H31N3O",
+    "molecular_weight": 341.49,
+    "inChl": "1S/C21H31N3O/c25-21-22-19-10-6-7-11-20(19)24(21)18-12-14-23(15-13-18)16-17-8-4-2-1-3-5-9-17/h6-7,10-11,17-18H,1-5,8-9,12-16H2,(H,22,25)",
+    "InChl_Key": "JOVPNINDYCHWAC-UHFFFAOYSA-N",
+    "SMILES": "O=c1[nH]c2ccccc2n1C1CCN(CC2CCCCCCC2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6879",
+    "validation": "m_weight unsave, calculated(341.499)"
+}

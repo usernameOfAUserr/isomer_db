@@ -1,0 +1,13 @@
+{
+    "names": "25N-NB3OH ; N-(3-Hydroxybenzyl)-4-nitro-2,5-dimethoxyphenethylamine",
+    "iupac_name": "3-({[2-(2,5-Dimethoxy-4-nitrophenyl)ethyl]amino}methyl)phenol",
+    "category": "data not stored",
+    "index": 14221,
+    "formular": "C17H20N2O5",
+    "molecular_weight": 332.351,
+    "inChl": "1S/C17H20N2O5/c1-23-16-10-15(19(21)22)17(24-2)9-13(16)6-7-18-11-12-4-3-5-14(20)8-12/h3-5,8-10,18,20H,6-7,11H2,1-2H3",
+    "InChl_Key": "BNZQWNYUIQAGDB-UHFFFAOYSA-N",
+    "SMILES": "COc1cc([N+](=O)[O-])c(OC)cc1CCNCc1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14221",
+    "validation": "m_weight unsave, calculated(332.35600000000005)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-(4-Ethoxy-4-phenylpiperidin-1-yl)-1-phenylpropan-1-one",
+    "iupac_name": "9133 ; C22H27NO2 ; 337.455",
+    "category": "data not stored",
+    "index": 9133,
+    "formular": "C22H27NO2",
+    "molecular_weight": 337.455,
+    "inChl": "1S/C22H27NO2/c1-2-25-22(20-11-7-4-8-12-20)14-17-23(18-15-22)16-13-21(24)19-9-5-3-6-10-19/h3-12H,2,13-18H2,1H3",
+    "InChl_Key": "YWILOHLWOGZUFZ-UHFFFAOYSA-N",
+    "SMILES": "CCOC1(c2ccccc2)CCN(CCC(=O)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9133",
+    "validation": "m_weight unsave, calculated(337.463)"
+}

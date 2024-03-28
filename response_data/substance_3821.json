@@ -1,0 +1,13 @@
+{
+    "names": "Lesopitron ; E-4424",
+    "iupac_name": "2-{4-[4-(4-Chloro-1H-pyrazol-1-yl)butyl]piperazin-1-yl}pyrimidine",
+    "category": "data not stored",
+    "index": 3821,
+    "formular": "C15H21ClN6",
+    "molecular_weight": 320.82,
+    "inChl": "1S/C15H21ClN6/c16-14-12-19-22(13-14)7-2-1-6-20-8-10-21(11-9-20)15-17-4-3-5-18-15/h3-5,12-13H,1-2,6-11H2",
+    "InChl_Key": "AHCPKWJUALHOPH-UHFFFAOYSA-N",
+    "SMILES": "Clc1cnn(CCCCN2CCN(c3ncccn3)CC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3821",
+    "validation": "m_weight unsave, calculated(320.8279999999999)"
+}

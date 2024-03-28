@@ -1,0 +1,13 @@
+{
+    "names": "2C-D-ANTH",
+    "iupac_name": "2-(10-Methylanthracen-9-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 12245,
+    "formular": "C17H17N",
+    "molecular_weight": 235.324,
+    "inChl": "1S/C17H17N/c1-12-13-6-2-4-8-15(13)17(10-11-18)16-9-5-3-7-14(12)16/h2-9H,10-11,18H2,1H3",
+    "InChl_Key": "JVDNQJZASVSSPO-UHFFFAOYSA-N",
+    "SMILES": "Cc1c2ccccc2c(CCN)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12245",
+    "validation": "m_weight unsave, calculated(235.32999999999996)"
+}

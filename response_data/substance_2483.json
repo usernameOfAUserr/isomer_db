@@ -1,0 +1,13 @@
+{
+    "names": "N-[1-(4-Bromo-2,5-dimethoxyphenyl)propan-2-yl]-1-[(pentafluorophenyl)carbonyl]pyrrolidine-2-carboxamide",
+    "iupac_name": "N-[1-(4-Bromo-2,5-dimethoxyphenyl)propan-2-yl]-1-(2,3,4,5,6-pentafluorobenzoyl)prolinamide ; N-[1-(4-Bromo-2,5-dimethoxyphenyl)propan-2-yl]-1-(2,3,4,5,6-pentafluorobenzoyl)pyrrolidine-2-carboxamide",
+    "category": "data not stored",
+    "index": 2483,
+    "formular": "C23H22BrF5N2O4",
+    "molecular_weight": 565.328,
+    "inChl": "1S/C23H22BrF5N2O4/c1-10(7-11-8-15(35-3)12(24)9-14(11)34-2)30-22(32)13-5-4-6-31(13)23(33)16-17(25)19(27)21(29)20(28)18(16)26/h8-10,13H,4-7H2,1-3H3,(H,30,32)",
+    "InChl_Key": "VITMUZFIAJJYPJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)NC(=O)C2CCCN2C(=O)c2c(F)c(F)c(F)c(F)c2F)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2483",
+    "validation": "m_weight unsave, calculated(565.3330000000002)"
+}

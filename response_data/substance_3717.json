@@ -1,0 +1,13 @@
+{
+    "names": "Clonidine",
+    "iupac_name": "N-(2,6-Dichlorophenyl)-4,5-dihydro-1H-imidazol-2-amine",
+    "category": "data not stored",
+    "index": 3717,
+    "formular": "C9H9Cl2N3",
+    "molecular_weight": 230.094,
+    "inChl": "1S/C9H9Cl2N3/c10-6-2-1-3-7(11)8(6)14-9-12-4-5-13-9/h1-3H,4-5H2,(H2,12,13,14)",
+    "InChl_Key": "GJSURZIOUXUGAL-UHFFFAOYSA-N",
+    "SMILES": "Clc1cccc(Cl)c1NC1=NCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3717",
+    "validation": "m_weight unsave, calculated(230.09799999999998)"
+}

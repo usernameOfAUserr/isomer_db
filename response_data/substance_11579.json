@@ -1,0 +1,13 @@
+{
+    "names": "SGT-165",
+    "iupac_name": "N-Cyclohexyl-5-fluoro-1-pentyl-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11579,
+    "formular": "C20H27FN2O",
+    "molecular_weight": 330.44,
+    "inChl": "1S/C20H27FN2O/c1-2-3-7-12-23-14-18(17-13-15(21)10-11-19(17)23)20(24)22-16-8-5-4-6-9-16/h10-11,13-14,16H,2-9,12H2,1H3,(H,22,24)",
+    "InChl_Key": "FLSQUTRUVRHWNM-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NC2CCCCC2)c2cc(F)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11579",
+    "validation": "m_weight unsave, calculated(330.44700000000023)"
+}

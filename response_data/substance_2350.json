@@ -1,0 +1,13 @@
+{
+    "names": "Eutylone ; Euthylone ; \u03b2-Keto-ethylbenzodioxolylbutanamine ; MDEBP ; bk-EBDB",
+    "iupac_name": "1-(2H-1,3-Benzodioxol-5-yl)-2-(ethylamino)butan-1-one ; 1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)butan-1-one",
+    "category": "Shulgin_Index",
+    "index": 2350,
+    "formular": "C13H17NO3",
+    "molecular_weight": 235.279,
+    "inChl": "1S/C13H17NO3/c1-3-10(14-4-2)13(15)9-5-6-11-12(7-9)17-8-16-11/h5-7,10,14H,3-4,8H2,1-2H3",
+    "InChl_Key": "YERSNXHEOIYEGX-UHFFFAOYSA-N",
+    "SMILES": "CCNC(CC)C(=O)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2350",
+    "validation": "m_weight unsave, calculated(235.28299999999993)"
+}

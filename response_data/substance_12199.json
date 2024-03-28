@@ -1,0 +1,13 @@
+{
+    "names": "6F-DA",
+    "iupac_name": "4-(2-Aminoethyl)-5-fluorobenzene-1,2-diol",
+    "category": "Phenetylamine",
+    "index": 12199,
+    "formular": "C8H10FNO2",
+    "molecular_weight": 171.169,
+    "inChl": "1S/C8H10FNO2/c9-6-4-8(12)7(11)3-5(6)1-2-10/h3-4,11-12H,1-2,10H2",
+    "InChl_Key": "WPKXGJXEAGYSBQ-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cc(O)c(O)cc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12199",
+    "validation": "m_weight unsave, calculated(171.17099999999996)"
+}

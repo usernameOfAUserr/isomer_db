@@ -1,0 +1,13 @@
+{
+    "names": "Mescaline-NBOH ; N-(2-Hydroxybenzyl)-3,4,5-trimethoxyphenethylamine",
+    "iupac_name": "2-({[2-(3,4,5-Trimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "category": "data not stored",
+    "index": 6696,
+    "formular": "C18H23NO4",
+    "molecular_weight": 317.38,
+    "inChl": "1S/C18H23NO4/c1-21-16-10-13(11-17(22-2)18(16)23-3)8-9-19-12-14-6-4-5-7-15(14)20/h4-7,10-11,19-20H,8-9,12H2,1-3H3",
+    "InChl_Key": "JNPJCMNJGQNTSW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2ccccc2O)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6696",
+    "validation": "m_weight unsave, calculated(317.3850000000001)"
+}

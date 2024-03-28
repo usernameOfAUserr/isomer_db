@@ -1,0 +1,13 @@
+{
+    "names": "5,6,7-Trifluoro-MET ; 5,6,7-Trifluoro-N-methyl-N-ethyltryptamine",
+    "iupac_name": "N-Ethyl-N-methyl-2-(5,6,7-trifluoro-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 13601,
+    "formular": "C13H15F3N2",
+    "molecular_weight": 256.267,
+    "inChl": "1S/C13H15F3N2/c1-3-18(2)5-4-8-7-17-13-9(8)6-10(14)11(15)12(13)16/h6-7,17H,3-5H2,1-2H3",
+    "InChl_Key": "GZDUULSRZUZDAF-UHFFFAOYSA-N",
+    "SMILES": "CCN(C)CCc1c[nH]c2c(F)c(F)c(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13601",
+    "validation": "m_weight unsave, calculated(256.27099999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2C-pKet ; 4-Acetoxy-2,5-dimethoxyphenethylamine",
+    "iupac_name": "1-[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]ethan-1-one",
+    "category": "Phenetylamine",
+    "index": 5397,
+    "formular": "C12H17NO3",
+    "molecular_weight": 223.268,
+    "inChl": "1S/C12H17NO3/c1-8(14)10-7-11(15-2)9(4-5-13)6-12(10)16-3/h6-7H,4-5,13H2,1-3H3",
+    "InChl_Key": "SINPNRIJFLWSJQ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(C)=O)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5397",
+    "validation": "m_weight unsave, calculated(223.27199999999996)"
+}

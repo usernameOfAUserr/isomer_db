@@ -1,0 +1,13 @@
+{
+    "names": "2-(Thiophen-2-yl)cyclopentan-1-amine",
+    "iupac_name": "10957 ; C9H13NS ; 167.271",
+    "category": "Phenetylamine",
+    "index": 10957,
+    "formular": "C9H13NS",
+    "molecular_weight": 167.271,
+    "inChl": "1S/C9H13NS/c10-8-4-1-3-7(8)9-5-2-6-11-9/h2,5-8H,1,3-4,10H2",
+    "InChl_Key": "QUYFFWVVUJKBJS-UHFFFAOYSA-N",
+    "SMILES": "NC1CCCC1c1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10957",
+    "validation": "m_weight unsave, calculated(167.277)"
+}

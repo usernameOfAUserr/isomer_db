@@ -1,0 +1,13 @@
+{
+    "names": "4HOMe-PH-PIMO",
+    "iupac_name": "[4-(Hydroxymethyl)phenyl](1-pentyl-1H-indol-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 8705,
+    "formular": "C21H23NO2",
+    "molecular_weight": 321.413,
+    "inChl": "1S/C21H23NO2/c1-2-3-6-13-22-14-19(18-7-4-5-8-20(18)22)21(24)17-11-9-16(15-23)10-12-17/h4-5,7-12,14,23H,2-3,6,13,15H2,1H3",
+    "InChl_Key": "KAXVGIUZJKXDPE-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2ccc(CO)cc2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8705",
+    "validation": "m_weight unsave, calculated(321.4200000000001)"
+}

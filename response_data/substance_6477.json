@@ -1,0 +1,13 @@
+{
+    "names": "[1-(5-Fluoropentyl)-1H-indol-3-yl](piperidin-1-yl)methanone",
+    "iupac_name": "6477 ; C19H25FN2O ; 316.413",
+    "category": "data not stored",
+    "index": 6477,
+    "formular": "C19H25FN2O",
+    "molecular_weight": 316.413,
+    "inChl": "1S/C19H25FN2O/c20-11-5-1-6-14-22-15-17(16-9-3-4-10-18(16)22)19(23)21-12-7-2-8-13-21/h3-4,9-10,15H,1-2,5-8,11-14H2",
+    "InChl_Key": "YOBQAGMEWYGYDI-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1cn(CCCCCF)c2ccccc12)N1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6477",
+    "validation": "m_weight unsave, calculated(316.42000000000024)"
+}

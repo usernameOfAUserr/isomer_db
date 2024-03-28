@@ -1,0 +1,13 @@
+{
+    "names": "DESMETHYL-iPr ; N-Isopropyl-4-hydroxy-3,5-dimethoxyphenethylamine",
+    "iupac_name": "2,6-Dimethoxy-4-{2-[(propan-2-yl)amino]ethyl}phenol ; 2,6-Dimethoxy-4-[2-(propan-2-ylamino)ethyl]phenol",
+    "category": "Shulgin_Index",
+    "index": 7570,
+    "formular": "C13H21NO3",
+    "molecular_weight": 239.311,
+    "inChl": "1S/C13H21NO3/c1-9(2)14-6-5-10-7-11(16-3)13(15)12(8-10)17-4/h7-9,14-15H,5-6H2,1-4H3",
+    "InChl_Key": "MQVBLDXCDVGWQB-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNC(C)C)cc(OC)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7570",
+    "validation": "m_weight unsave, calculated(239.315)"
+}

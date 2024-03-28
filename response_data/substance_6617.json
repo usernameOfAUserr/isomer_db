@@ -1,0 +1,13 @@
+{
+    "names": "Allylphenyline",
+    "iupac_name": "2-{1-[2-(Prop-2-en-1-yl)phenoxy]ethyl}-4,5-dihydro-1H-imidazole",
+    "category": "data not stored",
+    "index": 6617,
+    "formular": "C14H18N2O",
+    "molecular_weight": 230.306,
+    "inChl": "1S/C14H18N2O/c1-3-6-12-7-4-5-8-13(12)17-11(2)14-15-9-10-16-14/h3-5,7-8,11H,1,6,9-10H2,2H3,(H,15,16)",
+    "InChl_Key": "MNMDMCKHXVHLAW-UHFFFAOYSA-N",
+    "SMILES": "C=CCc1ccccc1OC(C)C1=NCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6617",
+    "validation": "m_weight unsave, calculated(230.31099999999995)"
+}

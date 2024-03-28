@@ -1,0 +1,13 @@
+{
+    "names": "PS-i-37 ; PS-1-37",
+    "iupac_name": "(2Z)-8-Ethynyl-2-[(4-methylpiperazin-1-yl)methylidene]-6-phenyl-2,4-dihydro-1H-imidazo[1,2-a][1,4]benzodiazepin-1-one",
+    "category": "Aryldiazepine",
+    "index": 8235,
+    "formular": "C25H23N5O",
+    "molecular_weight": 409.483,
+    "inChl": "1S/C25H23N5O/c1-3-18-9-10-22-20(15-18)24(19-7-5-4-6-8-19)26-16-23-27-21(25(31)30(22)23)17-29-13-11-28(2)12-14-29/h1,4-10,15,17H,11-14,16H2,2H3/b21-17-",
+    "InChl_Key": "QPZOBLBMBGEGOO-FXBPSFAMSA-N",
+    "SMILES": "C#Cc1ccc2c(c1)C(c1ccccc1)=NCC1=N/C(=C\\N3CCN(C)CC3)C(=O)N12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8235",
+    "validation": "m_weight unsave, calculated(409.49300000000017)"
+}

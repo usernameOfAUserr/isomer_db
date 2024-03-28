@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 5-phenylimidazo[1,5-a]quinoline-3-carboxylate",
+    "iupac_name": "6093 ; C20H16N2O2 ; 316.353",
+    "category": "data not stored",
+    "index": 6093,
+    "formular": "C20H16N2O2",
+    "molecular_weight": 316.353,
+    "inChl": "1S/C20H16N2O2/c1-2-24-20(23)19-18-12-16(14-8-4-3-5-9-14)15-10-6-7-11-17(15)22(18)13-21-19/h3-13H,2H2,1H3",
+    "InChl_Key": "UKRCIKWVIFYLRE-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ncn2c1cc(-c1ccccc1)c1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6093",
+    "validation": "m_weight unsave, calculated(316.36000000000007)"
+}

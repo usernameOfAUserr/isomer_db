@@ -1,0 +1,13 @@
+{
+    "names": "Methaqualone",
+    "iupac_name": "2-Methyl-3-(2-methylphenyl)quinazolin-4(3H)-one",
+    "category": "data not stored",
+    "index": 3000,
+    "formular": "C16H14N2O",
+    "molecular_weight": 250.295,
+    "inChl": "1S/C16H14N2O/c1-11-7-3-6-10-15(11)18-12(2)17-14-9-5-4-8-13(14)16(18)19/h3-10H,1-2H3",
+    "InChl_Key": "JEYCTXHKTXCGPB-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccccc1-n1c(C)nc2ccccc2c1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3000",
+    "validation": "m_weight unsave, calculated(250.30099999999996)"
+}

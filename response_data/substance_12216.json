@@ -1,0 +1,13 @@
+{
+    "names": "5-(GSyl)-N-Me-\u03b1-MeDA",
+    "iupac_name": "\u03b3-Glutamyl-S-{2,3-dihydroxy-5-[2-(methylamino)propyl]phenyl}cysteinylglycine ; 2-Amino-5-({1-[(carboxymethyl)amino]-3-({2,3-dihydroxy-5-[2-(methylamino)propyl]phenyl}sulfanyl)-1-oxopropan-2-yl}amino)-5-oxopentanoic acid",
+    "category": "Phenetylamine",
+    "index": 12216,
+    "formular": "C20H30N4O8S",
+    "molecular_weight": 486.539,
+    "inChl": "1S/C20H30N4O8S/c1-10(22-2)5-11-6-14(25)18(29)15(7-11)33-9-13(19(30)23-8-17(27)28)24-16(26)4-3-12(21)20(31)32/h6-7,10,12-13,22,25,29H,3-5,8-9,21H2,1-2H3,(H,23,30)(H,24,26)(H,27,28)(H,31,32)",
+    "InChl_Key": "KGLPAXFSFOMKEZ-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1cc(O)c(O)c(SCC(NC(=O)CCC(N)C(=O)O)C(=O)NCC(=O)O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12216",
+    "validation": "m_weight unsave, calculated(486.54700000000025)"
+}

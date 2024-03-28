@@ -1,0 +1,13 @@
+{
+    "names": "8-Chloro-6-(4-chlorophenyl)-N-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxamide",
+    "iupac_name": "6300 ; C19H14Cl2N4O ; 385.247",
+    "category": "Aryldiazepine",
+    "index": 6300,
+    "formular": "C19H14Cl2N4O",
+    "molecular_weight": 385.247,
+    "inChl": "1S/C19H14Cl2N4O/c1-22-19(26)18-16-9-23-17(11-2-4-12(20)5-3-11)14-8-13(21)6-7-15(14)25(16)10-24-18/h2-8,10H,9H2,1H3,(H,22,26)",
+    "InChl_Key": "LHYSVNTZQXACDD-UHFFFAOYSA-N",
+    "SMILES": "CNC(=O)c1ncn2c1CN=C(c1ccc(Cl)cc1)c1cc(Cl)ccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6300",
+    "validation": "m_weight unsave, calculated(385.254)"
+}

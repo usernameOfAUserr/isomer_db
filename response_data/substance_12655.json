@@ -1,0 +1,13 @@
+{
+    "names": "JB-8008 ; N-Cinnamyl-3-piperidyl benzilate",
+    "iupac_name": "1-[(2E)-3-Phenylprop-2-en-1-yl]piperidin-3-yl hydroxy(diphenyl)acetate",
+    "category": "data not stored",
+    "index": 12655,
+    "formular": "C28H29NO3",
+    "molecular_weight": 427.535,
+    "inChl": "1S/C28H29NO3/c30-27(28(31,24-15-6-2-7-16-24)25-17-8-3-9-18-25)32-26-19-11-21-29(22-26)20-10-14-23-12-4-1-5-13-23/h1-10,12-18,26,31H,11,19-22H2/b14-10+",
+    "InChl_Key": "PGZLDLPELYXORR-GXDHUFHOSA-N",
+    "SMILES": "O=C(OC1CCCN(C/C=C/c2ccccc2)C1)C(O)(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12655",
+    "validation": "m_weight unsave, calculated(427.5440000000002)"
+}

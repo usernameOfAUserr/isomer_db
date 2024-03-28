@@ -1,0 +1,13 @@
+{
+    "names": "2,5-DMeA NS ; 2,5-Dimethyl-\u03b2-methyl-\u03b2-nitrostyrene",
+    "iupac_name": "1,4-Dimethyl-2-[(1E)-2-nitroprop-1-en-1-yl]benzene",
+    "category": "data not stored",
+    "index": 12843,
+    "formular": "C11H13NO2",
+    "molecular_weight": 191.226,
+    "inChl": "1S/C11H13NO2/c1-8-4-5-9(2)11(6-8)7-10(3)12(13)14/h4-7H,1-3H3/b10-7+",
+    "InChl_Key": "CQEQATGRIJNIQI-JXMROGBWSA-N",
+    "SMILES": "C/C(=C\\c1cc(C)ccc1C)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12843",
+    "validation": "m_weight unsave, calculated(191.22999999999996)"
+}

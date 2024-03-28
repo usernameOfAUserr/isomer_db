@@ -1,0 +1,13 @@
+{
+    "names": "CX-516",
+    "iupac_name": "(Piperidin-1-yl)(quinoxalin-6-yl)methanone",
+    "category": "data not stored",
+    "index": 3726,
+    "formular": "C14H15N3O",
+    "molecular_weight": 241.288,
+    "inChl": "1S/C14H15N3O/c18-14(17-8-2-1-3-9-17)11-4-5-12-13(10-11)16-7-6-15-12/h4-7,10H,1-3,8-9H2",
+    "InChl_Key": "ANDGGVOPIJEHOF-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccc2nccnc2c1)N1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3726",
+    "validation": "m_weight unsave, calculated(241.29399999999995)"
+}

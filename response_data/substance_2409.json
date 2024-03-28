@@ -1,0 +1,13 @@
+{
+    "names": "DOOC ; 2,5-Dimethoxy-4-octylamphetamine",
+    "iupac_name": "1-(2,5-Dimethoxy-4-octylphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 2409,
+    "formular": "C19H33NO2",
+    "molecular_weight": 307.471,
+    "inChl": "1S/C19H33NO2/c1-5-6-7-8-9-10-11-16-13-19(22-4)17(12-15(2)20)14-18(16)21-3/h13-15H,5-12,20H2,1-4H3",
+    "InChl_Key": "YJEXIKLCPDHVQC-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCc1cc(OC)c(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2409",
+    "validation": "m_weight unsave, calculated(307.47800000000007)"
+}

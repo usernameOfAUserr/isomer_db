@@ -1,0 +1,13 @@
+{
+    "names": "PAL-872 ; PAL-873 (R) ; PAL-875 (S)",
+    "iupac_name": "(4E)-5-Phenylpent-4-en-2-amine",
+    "category": "data not stored",
+    "index": 6549,
+    "formular": "C11H15N",
+    "molecular_weight": 161.244,
+    "inChl": "1S/C11H15N/c1-10(12)6-5-9-11-7-3-2-4-8-11/h2-5,7-10H,6,12H2,1H3/b9-5+",
+    "InChl_Key": "LLHJXESMOGGFAI-WEVVVXLNSA-N",
+    "SMILES": "CC(N)C/C=C/c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6549",
+    "validation": "m_weight unsave, calculated(161.248)"
+}

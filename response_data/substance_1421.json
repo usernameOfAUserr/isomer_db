@@ -1,0 +1,13 @@
+{
+    "names": "O-2446 ; 4\u2032-(1-Methyl-1H-pyrrol-2-yl)-\u03b1-(pyrrolidin-1-yl)valerophenone",
+    "iupac_name": "1-[4-(1-Methyl-1H-pyrrol-2-yl)phenyl]-2-(pyrrolidin-1-yl)pentan-1-one",
+    "category": "data not stored",
+    "index": 1421,
+    "formular": "C20H26N2O",
+    "molecular_weight": 310.433,
+    "inChl": "1S/C20H26N2O/c1-3-7-19(22-14-4-5-15-22)20(23)17-11-9-16(10-12-17)18-8-6-13-21(18)2/h6,8-13,19H,3-5,7,14-15H2,1-2H3",
+    "InChl_Key": "ROXOOMBIDGERBZ-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccc(-c2cccn2C)cc1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1421",
+    "validation": "m_weight unsave, calculated(310.44100000000014)"
+}

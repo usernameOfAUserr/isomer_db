@@ -1,0 +1,13 @@
+{
+    "names": "1-(2,5-Dimethoxy-4-methylphenyl)-N-[(2-methoxyphenyl)methyl]propan-2-amine",
+    "iupac_name": "13417 ; C20H27NO3 ; 329.433",
+    "category": "data not stored",
+    "index": 13417,
+    "formular": "C20H27NO3",
+    "molecular_weight": 329.433,
+    "inChl": "1S/C20H27NO3/c1-14-10-20(24-5)17(12-19(14)23-4)11-15(2)21-13-16-8-6-7-9-18(16)22-3/h6-10,12,15,21H,11,13H2,1-5H3",
+    "InChl_Key": "KWMCUFLLPHCVSK-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)NCc2ccccc2OC)c(OC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13417",
+    "validation": "m_weight unsave, calculated(329.4400000000001)"
+}

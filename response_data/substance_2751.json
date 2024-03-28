@@ -1,0 +1,13 @@
+{
+    "names": "8-Chloro-7-fluoro-1-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine",
+    "iupac_name": "2751 ; C11H13ClFN ; 213.679",
+    "category": "data not stored",
+    "index": 2751,
+    "formular": "C11H13ClFN",
+    "molecular_weight": 213.679,
+    "inChl": "1S/C11H13ClFN/c1-7-6-14-3-2-8-4-11(13)10(12)5-9(7)8/h4-5,7,14H,2-3,6H2,1H3",
+    "InChl_Key": "AELPHXGUKIVCSY-UHFFFAOYSA-N",
+    "SMILES": "CC1CNCCc2cc(F)c(Cl)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2751",
+    "validation": "m_weight unsave, calculated(213.683)"
+}

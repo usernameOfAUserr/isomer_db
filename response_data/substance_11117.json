@@ -1,0 +1,13 @@
+{
+    "names": "N-{4-[(E)-2-Nitroethenyl]phenyl}acetamide",
+    "iupac_name": "11117 ; C10H10N2O3 ; 206.198",
+    "category": "data not stored",
+    "index": 11117,
+    "formular": "C10H10N2O3",
+    "molecular_weight": 206.198,
+    "inChl": "1S/C10H10N2O3/c1-8(13)11-10-4-2-9(3-5-10)6-7-12(14)15/h2-7H,1H3,(H,11,13)/b7-6+",
+    "InChl_Key": "BWLIIZFNXSJVLW-VOTSOKGWSA-N",
+    "SMILES": "CC(=O)Nc1ccc(/C=C/[N+](=O)[O-])cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11117",
+    "validation": "m_weight unsave, calculated(206.201)"
+}

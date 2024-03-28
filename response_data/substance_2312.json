@@ -1,0 +1,13 @@
+{
+    "names": "2\u2032-MeO-4-Ph-2-MPEA ; 2-Methoxy-4-(2-methoxyphenyl)phenethylamine ; 5H-2C-BI-2",
+    "iupac_name": "2-(2\u2032,3-Dimethoxy[1,1\u2032-biphenyl]-4-yl)ethan-1-amine ; 2-(2\u2032,3-Dimethoxybiphenyl-4-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 2312,
+    "formular": "C16H19NO2",
+    "molecular_weight": 257.328,
+    "inChl": "1S/C16H19NO2/c1-18-15-6-4-3-5-14(15)13-8-7-12(9-10-17)16(11-13)19-2/h3-8,11H,9-10,17H2,1-2H3",
+    "InChl_Key": "BGUVGUXJHPYKEW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(-c2ccccc2OC)ccc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2312",
+    "validation": "m_weight unsave, calculated(257.33299999999997)"
+}

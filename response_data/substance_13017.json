@@ -1,0 +1,13 @@
+{
+    "names": "2-(2-Methylazetidin-1-yl)-2-phenylcyclohexan-1-one",
+    "iupac_name": "13017 ; C16H21NO ; 243.344",
+    "category": "Arylcycloalkylamine",
+    "index": 13017,
+    "formular": "C16H21NO",
+    "molecular_weight": 243.344,
+    "inChl": "1S/C16H21NO/c1-13-10-12-17(13)16(11-6-5-9-15(16)18)14-7-3-2-4-8-14/h2-4,7-8,13H,5-6,9-12H2,1H3",
+    "InChl_Key": "XQVBXZSNQZTIQE-UHFFFAOYSA-N",
+    "SMILES": "CC1CCN1C1(c2ccccc2)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13017",
+    "validation": "m_weight unsave, calculated(243.35)"
+}

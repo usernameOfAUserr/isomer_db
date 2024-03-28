@@ -1,0 +1,13 @@
+{
+    "names": "2C-CP ; 4-Cyclopropyl-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(4-Cyclopropyl-2,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 10308,
+    "formular": "C13H19NO2",
+    "molecular_weight": 221.295,
+    "inChl": "1S/C13H19NO2/c1-15-12-8-11(9-3-4-9)13(16-2)7-10(12)5-6-14/h7-9H,3-6,14H2,1-2H3",
+    "InChl_Key": "WSMVNFNZKKZCPU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2CC2)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10308",
+    "validation": "m_weight unsave, calculated(221.29999999999995)"
+}

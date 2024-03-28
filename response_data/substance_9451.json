@@ -1,0 +1,13 @@
+{
+    "names": "N-Aminopropyl-T ; N-(3-Aminopropyl)tryptamine",
+    "iupac_name": "N1-[2-(1H-Indol-3-yl)ethyl]propane-1,3-diamine",
+    "category": "Tryptamine",
+    "index": 9451,
+    "formular": "C13H19N3",
+    "molecular_weight": 217.31,
+    "inChl": "1S/C13H19N3/c14-7-3-8-15-9-6-11-10-16-13-5-2-1-4-12(11)13/h1-2,4-5,10,15-16H,3,6-9,14H2",
+    "InChl_Key": "TWHVGHAVCBDNGG-UHFFFAOYSA-N",
+    "SMILES": "NCCCNCCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9451",
+    "validation": "m_weight unsave, calculated(217.316)"
+}

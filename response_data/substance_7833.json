@@ -1,0 +1,13 @@
+{
+    "names": "6-Fluoro-iso-DMT ; 6-Fluoro-N,N-dimethyl-isotryptamine",
+    "iupac_name": "2-(6-Fluoro-1H-indol-1-yl)-N,N-dimethylethan-1-amine",
+    "category": "data not stored",
+    "index": 7833,
+    "formular": "C12H15FN2",
+    "molecular_weight": 206.259,
+    "inChl": "1S/C12H15FN2/c1-14(2)7-8-15-6-5-10-3-4-11(13)9-12(10)15/h3-6,9H,7-8H2,1-2H3",
+    "InChl_Key": "AAYSINVQMISZED-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCn1ccc2ccc(F)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7833",
+    "validation": "m_weight unsave, calculated(206.26399999999998)"
+}

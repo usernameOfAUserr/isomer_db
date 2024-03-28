@@ -1,0 +1,13 @@
+{
+    "names": "tert-Butyl 7-chloro-5-[(3R,5S)-3,5-dimethylpiperazine-1-carbonyl]-4,5-dihydroimidazo[1,5-a]quinoxaline-3-carboxylate",
+    "iupac_name": "3799 ; C22H28ClN5O3 ; 445.942",
+    "category": "data not stored",
+    "index": 3799,
+    "formular": "C22H28ClN5O3",
+    "molecular_weight": 445.942,
+    "inChl": "1S/C22H28ClN5O3/c1-13-9-26(10-14(2)25-13)21(30)27-11-18-19(20(29)31-22(3,4)5)24-12-28(18)16-7-6-15(23)8-17(16)27/h6-8,12-14,25H,9-11H2,1-5H3/t13-,14+",
+    "InChl_Key": "FVAOOUVFQCEVRD-OKILXGFUSA-N",
+    "SMILES": "C[C@@H]1CN(C(=O)N2Cc3c(C(=O)OC(C)(C)C)ncn3-c3ccc(Cl)cc32)C[C@H](C)N1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3799",
+    "validation": "m_weight unsave, calculated(445.9510000000002)"
+}

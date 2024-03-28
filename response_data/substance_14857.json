@@ -1,0 +1,13 @@
+{
+    "names": "Z2825713589",
+    "iupac_name": "(4-Aminohexahydrocyclopenta[c]pyrrol-2(1H)-yl)(6-methoxypyrazin-2-yl)methanone",
+    "category": "data not stored",
+    "index": 14857,
+    "formular": "C13H18N4O2",
+    "molecular_weight": 262.308,
+    "inChl": "1S/C13H18N4O2/c1-19-12-5-15-4-11(16-12)13(18)17-6-8-2-3-10(14)9(8)7-17/h4-5,8-10H,2-3,6-7,14H2,1H3",
+    "InChl_Key": "IMYNMAPBEPKOLU-UHFFFAOYSA-N",
+    "SMILES": "COc1cncc(C(=O)N2CC3CCC(N)C3C2)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14857",
+    "validation": "m_weight unsave, calculated(262.313)"
+}

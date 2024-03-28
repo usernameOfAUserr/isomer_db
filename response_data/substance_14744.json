@@ -1,0 +1,13 @@
+{
+    "names": "2-(Hexylamino)-2-phenylcyclohexan-1-one",
+    "iupac_name": "14744 ; C18H27NO ; 273.413",
+    "category": "data not stored",
+    "index": 14744,
+    "formular": "C18H27NO",
+    "molecular_weight": 273.413,
+    "inChl": "1S/C18H27NO/c1-2-3-4-10-15-19-18(14-9-8-13-17(18)20)16-11-6-5-7-12-16/h5-7,11-12,19H,2-4,8-10,13-15H2,1H3",
+    "InChl_Key": "BMRBXYATNFSOQG-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCNC1(c2ccccc2)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14744",
+    "validation": "m_weight unsave, calculated(273.41999999999996)"
+}

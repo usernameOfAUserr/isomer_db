@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl loflazepate",
+    "iupac_name": "Ethyl 7-chloro-5-(2-fluorophenyl)-2-oxo-2,3-dihydro-1H-1,4-benzodiazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 3013,
+    "formular": "C18H14ClFN2O3",
+    "molecular_weight": 360.767,
+    "inChl": "1S/C18H14ClFN2O3/c1-2-25-18(24)16-17(23)21-14-8-7-10(19)9-12(14)15(22-16)11-5-3-4-6-13(11)20/h3-9,16H,2H2,1H3,(H,21,23)",
+    "InChl_Key": "CUCHJCMWNFEYOM-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1N=C(c2ccccc2F)c2cc(Cl)ccc2NC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3013",
+    "validation": "m_weight unsave, calculated(360.7720000000001)"
+}

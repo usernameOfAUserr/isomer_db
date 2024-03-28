@@ -1,0 +1,13 @@
+{
+    "names": "Flumexadol ; 1841-CERM",
+    "iupac_name": "2-[3-(Trifluoromethyl)phenyl]morpholine",
+    "category": "Phenetylamine",
+    "index": 10508,
+    "formular": "C11H12F3NO",
+    "molecular_weight": 231.214,
+    "inChl": "1S/C11H12F3NO/c12-11(13,14)9-3-1-2-8(6-9)10-7-15-4-5-16-10/h1-3,6,10,15H,4-5,7H2",
+    "InChl_Key": "GXPYCYWPUGKQIJ-UHFFFAOYSA-N",
+    "SMILES": "FC(F)(F)c1cccc(C2CNCCO2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10508",
+    "validation": "m_weight unsave, calculated(231.21699999999993)"
+}

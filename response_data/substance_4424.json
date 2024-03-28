@@ -1,0 +1,13 @@
+{
+    "names": "WO 2003/035005 #3",
+    "iupac_name": "N-(Adamantan-1-yl)-1-(4-cyanobutyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4424,
+    "formular": "C23H28N4O",
+    "molecular_weight": 376.495,
+    "inChl": "1S/C23H28N4O/c24-8-4-1-5-9-27-20-7-3-2-6-19(20)21(26-27)22(28)25-23-13-16-10-17(14-23)12-18(11-16)15-23/h2-3,6-7,16-18H,1,4-5,9-15H2,(H,25,28)",
+    "InChl_Key": "KBSWEFCXLUVSFX-UHFFFAOYSA-N",
+    "SMILES": "N#CCCCCn1nc(C(=O)NC23CC4CC(CC(C4)C2)C3)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4424",
+    "validation": "m_weight unsave, calculated(376.5040000000003)"
+}

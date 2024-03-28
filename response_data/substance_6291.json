@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 8-fluoro-6-(4-fluorophenyl)-4-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "iupac_name": "6291 ; C21H17F2N3O2 ; 381.375",
+    "category": "Aryldiazepine",
+    "index": 6291,
+    "formular": "C21H17F2N3O2",
+    "molecular_weight": 381.375,
+    "inChl": "1S/C21H17F2N3O2/c1-3-28-21(27)19-20-12(2)25-18(13-4-6-14(22)7-5-13)16-10-15(23)8-9-17(16)26(20)11-24-19/h4-12H,3H2,1-2H3",
+    "InChl_Key": "GXIOJUSHXWWWJB-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ncn2c1C(C)N=C(c1ccc(F)cc1)c1cc(F)ccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6291",
+    "validation": "m_weight unsave, calculated(381.38200000000006)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Amisulpride",
+    "iupac_name": "4-Amino-5-(ethanesulfonyl)-N-[(1-ethylpyrrolidin-2-yl)methyl]-2-methoxybenzamide",
+    "category": "data not stored",
+    "index": 9407,
+    "formular": "C17H27N3O4S",
+    "molecular_weight": 369.479,
+    "inChl": "1S/C17H27N3O4S/c1-4-20-8-6-7-12(20)11-19-17(21)13-9-16(25(22,23)5-2)14(18)10-15(13)24-3/h9-10,12H,4-8,11,18H2,1-3H3,(H,19,21)",
+    "InChl_Key": "NTJOBXMMWNYJFB-UHFFFAOYSA-N",
+    "SMILES": "CCN1CCCC1CNC(=O)c1cc(S(=O)(=O)CC)c(N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9407",
+    "validation": "m_weight unsave, calculated(369.48700000000014)"
+}

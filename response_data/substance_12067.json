@@ -1,0 +1,13 @@
+{
+    "names": "Chlorpromazine",
+    "iupac_name": "3-(2-Chloro-10H-phenothiazin-10-yl)-N,N-dimethylpropan-1-amine",
+    "category": "Phenetylamine",
+    "index": 12067,
+    "formular": "C17H19ClN2S",
+    "molecular_weight": 318.864,
+    "inChl": "1S/C17H19ClN2S/c1-19(2)10-5-11-20-14-6-3-4-7-16(14)21-17-9-8-13(18)12-15(17)20/h3-4,6-9,12H,5,10-11H2,1-2H3",
+    "InChl_Key": "ZPEIMTDSQAKGNT-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12067",
+    "validation": "m_weight unsave, calculated(318.87300000000005)"
+}

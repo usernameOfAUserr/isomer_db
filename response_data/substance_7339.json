@@ -1,0 +1,13 @@
+{
+    "names": "GBLD-345",
+    "iupac_name": "2-(4-Aminophenyl)-3-methoxy-N-[(3-methoxyphenyl)methyl]imidazo[1,2-b]pyridazin-6-amine",
+    "category": "Aryldiazepine",
+    "index": 7339,
+    "formular": "C21H21N5O2",
+    "molecular_weight": 375.424,
+    "inChl": "1S/C21H21N5O2/c1-27-17-5-3-4-14(12-17)13-23-18-10-11-19-24-20(21(28-2)26(19)25-18)15-6-8-16(22)9-7-15/h3-12H,13,22H2,1-2H3,(H,23,25)",
+    "InChl_Key": "HQRHGSRWOHGIRI-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(CNc2ccc3nc(-c4ccc(N)cc4)c(OC)n3n2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7339",
+    "validation": "m_weight unsave, calculated(375.4320000000001)"
+}

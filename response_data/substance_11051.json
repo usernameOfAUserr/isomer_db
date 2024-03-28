@@ -1,0 +1,13 @@
+{
+    "names": "4-Phenylhexan-3-one",
+    "iupac_name": "11051 ; C12H16O ; 176.255",
+    "category": "data not stored",
+    "index": 11051,
+    "formular": "C12H16O",
+    "molecular_weight": 176.255,
+    "inChl": "1S/C12H16O/c1-3-11(12(13)4-2)10-8-6-5-7-9-10/h5-9,11H,3-4H2,1-2H3",
+    "InChl_Key": "QYLKEKKESJKLTD-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)C(CC)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11051",
+    "validation": "m_weight unsave, calculated(176.25899999999993)"
+}

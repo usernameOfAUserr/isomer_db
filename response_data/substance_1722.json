@@ -1,0 +1,13 @@
+{
+    "names": "3,4-MD-PBCHPy",
+    "iupac_name": "1-[2-(2H-1,3-Benzodioxol-5-yl)bicyclo[2.2.1]heptan-2-yl]pyrrolidine",
+    "category": "Arylcycloalkylamine",
+    "index": 1722,
+    "formular": "C18H23NO2",
+    "molecular_weight": 285.381,
+    "inChl": "1S/C18H23NO2/c1-2-8-19(7-1)18(11-13-3-4-14(18)9-13)15-5-6-16-17(10-15)21-12-20-16/h5-6,10,13-14H,1-4,7-9,11-12H2",
+    "InChl_Key": "SVEMGNGWLVUPSX-UHFFFAOYSA-N",
+    "SMILES": "c1cc2c(cc1C1(N3CCCC3)CC3CCC1C3)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1722",
+    "validation": "m_weight unsave, calculated(285.387)"
+}

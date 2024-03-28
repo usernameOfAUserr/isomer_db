@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-HO-2-F-5-MeSO2NH-PEA ; \u03b2-Hydroxy-2-fluoro-5-(methylsulfonylamino)phenethylamine",
+    "iupac_name": "N-[3-(2-Amino-1-hydroxyethyl)-4-fluorophenyl]methanesulfonamide",
+    "category": "Phenetylamine",
+    "index": 10115,
+    "formular": "C9H13FN2O3S",
+    "molecular_weight": 248.275,
+    "inChl": "1S/C9H13FN2O3S/c1-16(14,15)12-6-2-3-8(10)7(4-6)9(13)5-11/h2-4,9,12-13H,5,11H2,1H3",
+    "InChl_Key": "XYLJNMCMDOOJRW-UHFFFAOYSA-N",
+    "SMILES": "CS(=O)(=O)Nc1ccc(F)c(C(O)CN)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10115",
+    "validation": "m_weight unsave, calculated(248.27899999999997)"
+}

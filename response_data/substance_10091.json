@@ -1,0 +1,13 @@
+{
+    "names": "5,2-EtMPEA ; 5-Ethyl-2-methoxyphenethylamine",
+    "iupac_name": "2-(5-Ethyl-2-methoxyphenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10091,
+    "formular": "C11H17NO",
+    "molecular_weight": 179.259,
+    "inChl": "1S/C11H17NO/c1-3-9-4-5-11(13-2)10(8-9)6-7-12/h4-5,8H,3,6-7,12H2,1-2H3",
+    "InChl_Key": "ORIZFYDJRSUBPF-UHFFFAOYSA-N",
+    "SMILES": "CCc1ccc(OC)c(CCN)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10091",
+    "validation": "m_weight unsave, calculated(179.26299999999998)"
+}

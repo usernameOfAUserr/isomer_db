@@ -1,0 +1,13 @@
+{
+    "names": "N-(2-Chlorophenylethyl)-NMT ; N-(2-Chlorophenylethyl)-N-methyltryptamine",
+    "iupac_name": "2-(2-Chlorophenyl)-N-[2-(1H-indol-3-yl)ethyl]-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5606,
+    "formular": "C19H21ClN2",
+    "molecular_weight": 312.836,
+    "inChl": "1S/C19H21ClN2/c1-22(12-10-15-6-2-4-8-18(15)20)13-11-16-14-21-19-9-5-3-7-17(16)19/h2-9,14,21H,10-13H2,1H3",
+    "InChl_Key": "ZFAVMQBJQUVWJV-UHFFFAOYSA-N",
+    "SMILES": "CN(CCc1ccccc1Cl)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5606",
+    "validation": "m_weight unsave, calculated(312.84400000000005)"
+}

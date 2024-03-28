@@ -1,0 +1,13 @@
+{
+    "names": "2-MAPBT",
+    "iupac_name": "1-(1-Benzothiophen-2-yl)-N-methylpropan-2-amine",
+    "category": "data not stored",
+    "index": 14095,
+    "formular": "C12H15NS",
+    "molecular_weight": 205.319,
+    "inChl": "1S/C12H15NS/c1-9(13-2)7-11-8-10-5-3-4-6-12(10)14-11/h3-6,8-9,13H,7H2,1-2H3",
+    "InChl_Key": "DWSHJGNBNZAVRQ-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1cc2ccccc2s1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14095",
+    "validation": "m_weight unsave, calculated(205.326)"
+}

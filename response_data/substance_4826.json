@@ -1,0 +1,13 @@
+{
+    "names": "CUMYL-P7AICA ; SGT-237",
+    "iupac_name": "1-Pentyl-N-(2-phenylpropan-2-yl)-1H-pyrrolo[2,3-b]pyridine-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4826,
+    "formular": "C22H27N3O",
+    "molecular_weight": 349.469,
+    "inChl": "1S/C22H27N3O/c1-4-5-9-15-25-16-19(18-13-10-14-23-20(18)25)21(26)24-22(2,3)17-11-7-6-8-12-17/h6-8,10-14,16H,4-5,9,15H2,1-3H3,(H,24,26)",
+    "InChl_Key": "CAEILFVPDJUERU-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NC(C)(C)c2ccccc2)c2cccnc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4826",
+    "validation": "m_weight unsave, calculated(349.47800000000007)"
+}

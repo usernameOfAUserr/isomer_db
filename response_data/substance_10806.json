@@ -1,0 +1,13 @@
+{
+    "names": "(E)-\u03b2-CHBr-PEA ; (E)-\u03b2-(Bromomethylidene)phenethylamine",
+    "iupac_name": "(2E)-3-Bromo-2-phenylprop-2-en-1-amine",
+    "category": "Phenetylamine",
+    "index": 10806,
+    "formular": "C9H10BrN",
+    "molecular_weight": 212.086,
+    "inChl": "1S/C9H10BrN/c10-6-9(7-11)8-4-2-1-3-5-8/h1-6H,7,11H2/b9-6-",
+    "InChl_Key": "POPUWIUFSWRDDQ-TWGQIWQCSA-N",
+    "SMILES": "NC/C(=C/Br)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10806",
+    "validation": "m_weight unsave, calculated(212.09)"
+}

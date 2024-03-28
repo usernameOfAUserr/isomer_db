@@ -1,0 +1,13 @@
+{
+    "names": "2C-A ; 2,5-Dimethoxy-4-astatophenethylamine",
+    "iupac_name": "[4-(2-Aminoethyl)-2,5-dimethoxyphenyl]astatine",
+    "category": "data not stored",
+    "index": 2474,
+    "formular": "C10H14AtNO2",
+    "molecular_weight": 390.224,
+    "inChl": "1S/C10H14AtNO2/c1-13-9-6-8(11)10(14-2)5-7(9)3-4-12/h5-6H,3-4,12H2,1-2H3",
+    "InChl_Key": "ULHVWCPOZNGWMU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)c(OC)cc1[At]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2474",
+    "validation": "m_weight unsave, calculated(390.227)"
+}

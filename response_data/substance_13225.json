@@ -1,0 +1,13 @@
+{
+    "names": "Mebeverine",
+    "iupac_name": "4-{Ethyl[1-(4-methoxyphenyl)propan-2-yl]amino}butyl 3,4-dimethoxybenzoate",
+    "category": "data not stored",
+    "index": 13225,
+    "formular": "C25H35NO5",
+    "molecular_weight": 429.549,
+    "inChl": "1S/C25H35NO5/c1-6-26(19(2)17-20-9-12-22(28-3)13-10-20)15-7-8-16-31-25(27)21-11-14-23(29-4)24(18-21)30-5/h9-14,18-19H,6-8,15-17H2,1-5H3",
+    "InChl_Key": "VYVKHNNGDFVQGA-UHFFFAOYSA-N",
+    "SMILES": "CCN(CCCCOC(=O)c1ccc(OC)c(OC)c1)C(C)Cc1ccc(OC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13225",
+    "validation": "m_weight unsave, calculated(429.5570000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "P-F-SDB-006 ; SGT-139",
+    "iupac_name": "N-[(4-Fluorophenyl)methyl]-1-pentyl-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 8155,
+    "formular": "C21H23FN2O",
+    "molecular_weight": 338.419,
+    "inChl": "1S/C21H23FN2O/c1-2-3-6-13-24-15-19(18-7-4-5-8-20(18)24)21(25)23-14-16-9-11-17(22)12-10-16/h4-5,7-12,15H,2-3,6,13-14H2,1H3,(H,23,25)",
+    "InChl_Key": "OKKJXOPAMQEIII-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NCc2ccc(F)cc2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8155",
+    "validation": "m_weight unsave, calculated(338.42600000000004)"
+}

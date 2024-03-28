@@ -1,0 +1,13 @@
+{
+    "names": "PrNMI ; WO 2014/015298 #9",
+    "iupac_name": "4-(2-{(1E)-1-[(4-Propylnaphthalen-1-yl)methylidene]-1H-inden-3-yl}ethyl)morpholine",
+    "category": "cannabinodids",
+    "index": 4256,
+    "formular": "C29H31NO",
+    "molecular_weight": 409.563,
+    "inChl": "1S/C29H31NO/c1-2-7-22-12-13-23(27-9-4-3-8-26(22)27)20-25-21-24(28-10-5-6-11-29(25)28)14-15-30-16-18-31-19-17-30/h3-6,8-13,20-21H,2,7,14-19H2,1H3/b25-20+",
+    "InChl_Key": "LNMJOKWZPNIBKY-LKUDQCMESA-N",
+    "SMILES": "CCCc1ccc(/C=C2\\C=C(CCN3CCOCC3)c3ccccc32)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4256",
+    "validation": "m_weight unsave, calculated(409.57300000000026)"
+}

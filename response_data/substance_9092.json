@@ -1,0 +1,13 @@
+{
+    "names": "9-Fluorenyl-CP",
+    "iupac_name": "1-[1-(9H-Fluoren-9-yl)cyclohexyl]piperidine",
+    "category": "data not stored",
+    "index": 9092,
+    "formular": "C24H29N",
+    "molecular_weight": 331.494,
+    "inChl": "1S/C24H29N/c1-7-15-24(16-8-1,25-17-9-2-10-18-25)23-21-13-5-3-11-19(21)20-12-4-6-14-22(20)23/h3-6,11-14,23H,1-2,7-10,15-18H2",
+    "InChl_Key": "PPAJNYZRTYILBW-UHFFFAOYSA-N",
+    "SMILES": "c1ccc2c(c1)-c1ccccc1C2C1(N2CCCCC2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9092",
+    "validation": "m_weight unsave, calculated(331.50300000000004)"
+}

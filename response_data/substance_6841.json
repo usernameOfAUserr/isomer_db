@@ -1,0 +1,13 @@
+{
+    "names": "BDBM50083903 ; WZ-148",
+    "iupac_name": "7-Chloro-5-(furan-2-yl)-1-methyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one",
+    "category": "Aryldiazepine",
+    "index": 6841,
+    "formular": "C14H11ClN2O2",
+    "molecular_weight": 274.702,
+    "inChl": "1S/C14H11ClN2O2/c1-17-11-5-4-9(15)7-10(11)14(16-8-13(17)18)12-3-2-6-19-12/h2-7H,8H2,1H3",
+    "InChl_Key": "MSDYIYDSWRIPTR-UHFFFAOYSA-N",
+    "SMILES": "CN1C(=O)CN=C(c2ccco2)c2cc(Cl)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6841",
+    "validation": "m_weight unsave, calculated(274.707)"
+}

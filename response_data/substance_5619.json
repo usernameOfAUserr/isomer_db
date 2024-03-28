@@ -1,0 +1,13 @@
+{
+    "names": "N-(4-Methylphenylethyl)-NMT ; N-(4-Methylphenylethyl)-N-methyltryptamine",
+    "iupac_name": "2-(1H-Indol-3-yl)-N-methyl-N-[2-(4-methylphenyl)ethyl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5619,
+    "formular": "C20H24N2",
+    "molecular_weight": 292.418,
+    "inChl": "1S/C20H24N2/c1-16-7-9-17(10-8-16)11-13-22(2)14-12-18-15-21-20-6-4-3-5-19(18)20/h3-10,15,21H,11-14H2,1-2H3",
+    "InChl_Key": "CHPMMTFFDOCALR-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(CCN(C)CCc2c[nH]c3ccccc23)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5619",
+    "validation": "m_weight unsave, calculated(292.426)"
+}

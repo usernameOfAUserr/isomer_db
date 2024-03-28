@@ -1,0 +1,13 @@
+{
+    "names": "3-[(3-{2-[Benzyl(methyl)amino]ethyl}-1H-indol-4-yl)oxy]-1,5-dihydro-3H-2,4,3\u03bb5-benzodioxaphosphepin-3-one",
+    "iupac_name": "11514 ; C26H27N2O4P ; 462.477",
+    "category": "Tryptamine",
+    "index": 11514,
+    "formular": "C26H27N2O4P",
+    "molecular_weight": 462.477,
+    "inChl": "1S/C26H27N2O4P/c1-28(17-20-8-3-2-4-9-20)15-14-21-16-27-24-12-7-13-25(26(21)24)32-33(29)30-18-22-10-5-6-11-23(22)19-31-33/h2-13,16,27H,14-15,17-19H2,1H3",
+    "InChl_Key": "HEMRKQMJSPEDCA-UHFFFAOYSA-N",
+    "SMILES": "CN(CCc1c[nH]c2cccc(OP3(=O)OCc4ccccc4CO3)c12)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11514",
+    "validation": "m_weight unsave, calculated(462.48600000000016)"
+}

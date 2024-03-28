@@ -1,0 +1,13 @@
+{
+    "names": "3-Methylbuphedrone ; 3\u2032-Methyl-2-(methylamino)butanophenone",
+    "iupac_name": "2-(Methylamino)-1-(3-methylphenyl)butan-1-one",
+    "category": "data not stored",
+    "index": 1871,
+    "formular": "C12H17NO",
+    "molecular_weight": 191.269,
+    "inChl": "1S/C12H17NO/c1-4-11(13-3)12(14)10-7-5-6-9(2)8-10/h5-8,11,13H,4H2,1-3H3",
+    "InChl_Key": "XTCTXCSGKAZSKT-UHFFFAOYSA-N",
+    "SMILES": "CCC(NC)C(=O)c1cccc(C)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1871",
+    "validation": "m_weight unsave, calculated(191.27399999999997)"
+}

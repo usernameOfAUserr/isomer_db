@@ -1,0 +1,13 @@
+{
+    "names": "2-Br-4,5-DMPEA-NB",
+    "iupac_name": "N-Benzyl-2-(2-bromo-4,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 12459,
+    "formular": "C17H20BrNO2",
+    "molecular_weight": 350.25,
+    "inChl": "1S/C17H20BrNO2/c1-20-16-10-14(15(18)11-17(16)21-2)8-9-19-12-13-6-4-3-5-7-13/h3-7,10-11,19H,8-9,12H2,1-2H3",
+    "InChl_Key": "DEWOBVKHUPHBBF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Br)c(CCNCc2ccccc2)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12459",
+    "validation": "m_weight unsave, calculated(350.25600000000003)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "SGT-145",
+    "iupac_name": "1-(Cyclohexylmethyl)-N-[(6,6-dimethylbicyclo[3.1.1]heptan-2-yl)methyl]-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11569,
+    "formular": "C26H36N2O",
+    "molecular_weight": 392.577,
+    "inChl": "1S/C26H36N2O/c1-26(2)20-13-12-19(23(26)14-20)15-27-25(29)22-17-28(16-18-8-4-3-5-9-18)24-11-7-6-10-21(22)24/h6-7,10-11,17-20,23H,3-5,8-9,12-16H2,1-2H3,(H,27,29)",
+    "InChl_Key": "RKQIKRBBVNXCPK-UHFFFAOYSA-N",
+    "SMILES": "CC1(C)C2CCC(CNC(=O)c3cn(CC4CCCCC4)c4ccccc34)C1C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11569",
+    "validation": "m_weight unsave, calculated(392.58700000000016)"
+}

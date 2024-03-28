@@ -1,0 +1,13 @@
+{
+    "names": "i-BU-LAD ; i-BULAD ; iso-BULAD",
+    "iupac_name": "N,N-Diethyl-6-(2-methylpropyl)-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N,N-Diethyl-7-(2-methylpropyl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N,N-Diethyl-6-(2-methylpropyl)-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 9939,
+    "formular": "C23H31N3O",
+    "molecular_weight": 365.512,
+    "inChl": "1S/C23H31N3O/c1-5-25(6-2)23(27)17-10-19-18-8-7-9-20-22(18)16(12-24-20)11-21(19)26(14-17)13-15(3)4/h7-10,12,15,17,21,24H,5-6,11,13-14H2,1-4H3/t17-,21-/m1/s1",
+    "InChl_Key": "GMBJXVVZSYZKIR-DYESRHJHSA-N",
+    "SMILES": "CCN(CC)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(CC(C)C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9939",
+    "validation": "m_weight unsave, calculated(365.5210000000002)"
+}

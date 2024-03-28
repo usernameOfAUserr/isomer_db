@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Carboxymescaline ; \u03b1-Carboxy-3,4,5-trimethoxyphenethylamine",
+    "iupac_name": "3,5-Dimethoxy-O-methyltyrosine ; 2-Amino-3-(3,4,5-trimethoxyphenyl)propanoic acid",
+    "category": "data not stored",
+    "index": 2331,
+    "formular": "C12H17NO5",
+    "molecular_weight": 255.267,
+    "inChl": "1S/C12H17NO5/c1-16-9-5-7(4-8(13)12(14)15)6-10(17-2)11(9)18-3/h5-6,8H,4,13H2,1-3H3,(H,14,15)",
+    "InChl_Key": "AYPXBNMIJGVJDE-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(N)C(=O)O)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2331",
+    "validation": "m_weight unsave, calculated(255.26999999999998)"
+}

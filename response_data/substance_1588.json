@@ -1,0 +1,13 @@
+{
+    "names": "N-[1,3-Bis(2H-1,3-benzodioxol-5-yl)propan-2-yl]acetamide ; N-[1,3-Bis(1,3-benzodioxol-5-yl)propan-2-yl]acetamide",
+    "iupac_name": "1588 ; C19H19NO5 ; 341.358",
+    "category": "data not stored",
+    "index": 1588,
+    "formular": "C19H19NO5",
+    "molecular_weight": 341.358,
+    "inChl": "1S/C19H19NO5/c1-12(21)20-15(6-13-2-4-16-18(8-13)24-10-22-16)7-14-3-5-17-19(9-14)25-11-23-17/h2-5,8-9,15H,6-7,10-11H2,1H3,(H,20,21)",
+    "InChl_Key": "OTDCZHSIOIIKOM-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NC(Cc1ccc2c(c1)OCO2)Cc1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1588",
+    "validation": "m_weight unsave, calculated(341.36300000000006)"
+}

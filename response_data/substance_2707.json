@@ -1,0 +1,13 @@
+{
+    "names": "25C-NB345OMe ; N-(3,4,5-Trimethoxybenzyl)-4-chloro-2,5-dimethoxyphenethylamine ; C30-NBOMe ; 30C-NBOMe",
+    "iupac_name": "2-(4-Chloro-2,5-dimethoxyphenyl)-N-[(3,4,5-trimethoxyphenyl)methyl]ethan-1-amine ; 2-(4-Chloro-2,5-dimethoxyphenyl)-N-(3,4,5-trimethoxybenzyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 2707,
+    "formular": "C20H26ClNO5",
+    "molecular_weight": 395.877,
+    "inChl": "1S/C20H26ClNO5/c1-23-16-11-15(21)17(24-2)10-14(16)6-7-22-12-13-8-18(25-3)20(27-5)19(9-13)26-4/h8-11,22H,6-7,12H2,1-5H3",
+    "InChl_Key": "ZQYYVTABADQBTJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2cc(OC)c(OC)c(OC)c2)c(OC)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2707",
+    "validation": "m_weight unsave, calculated(395.88300000000015)"
+}

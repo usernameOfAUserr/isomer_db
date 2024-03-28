@@ -1,0 +1,13 @@
+{
+    "names": "N-Formylmescaline ; N-Formyl-3,4,5-trimethoxyphenethylamine",
+    "iupac_name": "N-[2-(3,4,5-Trimethoxyphenyl)ethyl]formamide",
+    "category": "Peyote alkaloid",
+    "index": 2219,
+    "formular": "C12H17NO4",
+    "molecular_weight": 239.268,
+    "inChl": "1S/C12H17NO4/c1-15-10-6-9(4-5-13-8-14)7-11(16-2)12(10)17-3/h6-8H,4-5H2,1-3H3,(H,13,14)",
+    "InChl_Key": "BESRMWQCUXKEMP-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNC=O)cc(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2219",
+    "validation": "m_weight unsave, calculated(239.271)"
+}

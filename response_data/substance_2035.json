@@ -1,0 +1,13 @@
+{
+    "names": "DOI-2-hemiFLY ; IMBF ; 4-I-5-MeO-7-APDB",
+    "iupac_name": "1-(4-Iodo-5-methoxy-2,3-dihydro-1-benzofuran-7-yl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 2035,
+    "formular": "C12H16INO2",
+    "molecular_weight": 333.165,
+    "inChl": "1S/C12H16INO2/c1-7(14)5-8-6-10(15-2)11(13)9-3-4-16-12(8)9/h6-7H,3-5,14H2,1-2H3",
+    "InChl_Key": "HRQHNJIRFOUXCR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c2c(c1I)CCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2035",
+    "validation": "m_weight unsave, calculated(333.1690000000001)"
+}

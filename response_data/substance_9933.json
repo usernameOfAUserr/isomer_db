@@ -1,0 +1,13 @@
+{
+    "names": "IPR-LAD ; IP-LAD ; 2-PROLAD ; iso-PROLAD",
+    "iupac_name": "N,N-Diethyl-6-(propan-2-yl)-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N,N-Diethyl-7-(propan-2-yl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N,N-Diethyl-6-(propan-2-yl)-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 9933,
+    "formular": "C22H29N3O",
+    "molecular_weight": 351.485,
+    "inChl": "1S/C22H29N3O/c1-5-24(6-2)22(26)16-10-18-17-8-7-9-19-21(17)15(12-23-19)11-20(18)25(13-16)14(3)4/h7-10,12,14,16,20,23H,5-6,11,13H2,1-4H3/t16-,20-/m1/s1",
+    "InChl_Key": "GLNOSFGSNDKLOC-OXQOHEQNSA-N",
+    "SMILES": "CCN(CC)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C(C)C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9933",
+    "validation": "m_weight unsave, calculated(351.49400000000014)"
+}

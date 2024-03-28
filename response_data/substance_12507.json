@@ -1,0 +1,13 @@
+{
+    "names": "N-boc Norketamine",
+    "iupac_name": "tert-Butyl [1-(2-chlorophenyl)-2-oxocyclohexyl]carbamate",
+    "category": "Arylcycloalkylamine",
+    "index": 12507,
+    "formular": "C17H22ClNO3",
+    "molecular_weight": 323.814,
+    "inChl": "1S/C17H22ClNO3/c1-16(2,3)22-15(21)19-17(11-7-6-10-14(17)20)12-8-4-5-9-13(12)18/h4-5,8-9H,6-7,10-11H2,1-3H3,(H,19,21)",
+    "InChl_Key": "VRZJVQFAJVIUAX-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(C)OC(=O)NC1(c2ccccc2Cl)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12507",
+    "validation": "m_weight unsave, calculated(323.8200000000001)"
+}

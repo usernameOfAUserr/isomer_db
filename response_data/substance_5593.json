@@ -1,0 +1,13 @@
+{
+    "names": "5-Ethoxy-N-allyl-N-cyclohexyltryptamine",
+    "iupac_name": "N-[2-(5-Ethoxy-1H-indol-3-yl)ethyl]-N-(prop-2-en-1-yl)cyclohexanamine",
+    "category": "Tryptamine",
+    "index": 5593,
+    "formular": "C21H30N2O",
+    "molecular_weight": 326.476,
+    "inChl": "1S/C21H30N2O/c1-3-13-23(18-8-6-5-7-9-18)14-12-17-16-22-21-11-10-19(24-4-2)15-20(17)21/h3,10-11,15-16,18,22H,1,4-9,12-14H2,2H3",
+    "InChl_Key": "AFEHHJJZHGFBEN-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(CCc1c[nH]c2ccc(OCC)cc12)C1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5593",
+    "validation": "m_weight unsave, calculated(326.484)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Biscaline ; 3,5-Dimethoxy-4-phenylphenethylamine",
+    "iupac_name": "2-(2,6-Dimethoxy[1,1\u2032-biphenyl]-4-yl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14041,
+    "formular": "C16H19NO2",
+    "molecular_weight": 257.328,
+    "inChl": "1S/C16H19NO2/c1-18-14-10-12(8-9-17)11-15(19-2)16(14)13-6-4-3-5-7-13/h3-7,10-11H,8-9,17H2,1-2H3",
+    "InChl_Key": "ZDAUKFAGIRVDHK-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCN)cc(OC)c1-c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14041",
+    "validation": "m_weight unsave, calculated(257.33299999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "A-834,735 ; TMCP-THPMIMO",
+    "iupac_name": "{1-[(Oxan-4-yl)methyl]-1H-indol-3-yl}(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "category": "cannabinodids",
+    "index": 4673,
+    "formular": "C22H29NO2",
+    "molecular_weight": 339.471,
+    "inChl": "1S/C22H29NO2/c1-21(2)20(22(21,3)4)19(24)17-14-23(13-15-9-11-25-12-10-15)18-8-6-5-7-16(17)18/h5-8,14-15,20H,9-13H2,1-4H3",
+    "InChl_Key": "NQTMRZNYLIGQCF-UHFFFAOYSA-N",
+    "SMILES": "CC1(C)C(C(=O)c2cn(CC3CCOCC3)c3ccccc23)C1(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4673",
+    "validation": "m_weight unsave, calculated(339.4790000000002)"
+}

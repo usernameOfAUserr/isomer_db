@@ -1,0 +1,13 @@
+{
+    "names": "1-(2,3-Dihydro-1,3-benzoxazol-6-yl)propan-2-amine",
+    "iupac_name": "7979 ; C10H14N2O ; 178.231",
+    "category": "data not stored",
+    "index": 7979,
+    "formular": "C10H14N2O",
+    "molecular_weight": 178.231,
+    "inChl": "1S/C10H14N2O/c1-7(11)4-8-2-3-9-10(5-8)13-6-12-9/h2-3,5,7,12H,4,6,11H2,1H3",
+    "InChl_Key": "VIWXSLLHXBDBJP-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc2c(c1)OCN2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7979",
+    "validation": "m_weight unsave, calculated(178.23499999999996)"
+}

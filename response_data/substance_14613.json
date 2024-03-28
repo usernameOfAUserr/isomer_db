@@ -1,0 +1,13 @@
+{
+    "names": "AM-1204",
+    "iupac_name": "(2-Iodo-5-isothiocyanatophenyl)(1-pentyl-1H-indol-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 14613,
+    "formular": "C21H19IN2OS",
+    "molecular_weight": 474.358,
+    "inChl": "1S/C21H19IN2OS/c1-2-3-6-11-24-13-18(16-7-4-5-8-20(16)24)21(25)17-12-15(23-14-26)9-10-19(17)22/h4-5,7-10,12-13H,2-3,6,11H2,1H3",
+    "InChl_Key": "XHMQCRWCJMXKGH-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2cc(N=C=S)ccc2I)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14613",
+    "validation": "m_weight unsave, calculated(474.3670000000001)"
+}

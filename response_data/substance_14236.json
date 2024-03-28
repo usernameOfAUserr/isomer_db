@@ -1,0 +1,13 @@
+{
+    "names": "5H-25B-NM1Nap",
+    "iupac_name": "2-(4-Bromo-2-methoxyphenyl)-N-[(naphthalen-1-yl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 14236,
+    "formular": "C20H20BrNO",
+    "molecular_weight": 370.283,
+    "inChl": "1S/C20H20BrNO/c1-23-20-13-18(21)10-9-16(20)11-12-22-14-17-7-4-6-15-5-2-3-8-19(15)17/h2-10,13,22H,11-12,14H2,1H3",
+    "InChl_Key": "FCSNWSFCNLQAKW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Br)ccc1CCNCc1cccc2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14236",
+    "validation": "m_weight unsave, calculated(370.29)"
+}

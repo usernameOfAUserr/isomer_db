@@ -1,0 +1,13 @@
+{
+    "names": "25O-NBThiophene",
+    "iupac_name": "N-[(1-Benzothiophen-7-yl)methyl]-2-(2,4,5-trimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14273,
+    "formular": "C20H23NO3S",
+    "molecular_weight": 357.467,
+    "inChl": "1S/C20H23NO3S/c1-22-17-12-19(24-3)18(23-2)11-15(17)7-9-21-13-16-6-4-5-14-8-10-25-20(14)16/h4-6,8,10-12,21H,7,9,13H2,1-3H3",
+    "InChl_Key": "FXZOEKAWMXXDRI-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(OC)cc1CCNCc1cccc2ccsc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14273",
+    "validation": "m_weight unsave, calculated(357.4750000000001)"
+}

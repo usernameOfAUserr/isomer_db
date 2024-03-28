@@ -1,0 +1,13 @@
+{
+    "names": "2C-Bene",
+    "iupac_name": "(E)-2-(4-Bromo-2,5-dimethoxyphenyl)ethen-1-amine",
+    "category": "data not stored",
+    "index": 3094,
+    "formular": "C10H12BrNO2",
+    "molecular_weight": 258.112,
+    "inChl": "1S/C10H12BrNO2/c1-13-9-6-8(11)10(14-2)5-7(9)3-4-12/h3-6H,12H2,1-2H3/b4-3+",
+    "InChl_Key": "GMUPWOKRRWIDBP-ONEGZZNKSA-N",
+    "SMILES": "COc1cc(/C=C/N)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3094",
+    "validation": "m_weight unsave, calculated(258.115)"
+}

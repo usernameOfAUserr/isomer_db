@@ -1,0 +1,13 @@
+{
+    "names": "Pimethixene",
+    "iupac_name": "1-Methyl-4-(9H-thioxanthen-9-ylidene)piperidine",
+    "category": "Phenetylamine",
+    "index": 12079,
+    "formular": "C19H19NS",
+    "molecular_weight": 293.426,
+    "inChl": "1S/C19H19NS/c1-20-12-10-14(11-13-20)19-15-6-2-4-8-17(15)21-18-9-5-3-7-16(18)19/h2-9H,10-13H2,1H3",
+    "InChl_Key": "NZLVRVYNQYGMAB-UHFFFAOYSA-N",
+    "SMILES": "CN1CCC(=C2c3ccccc3Sc3ccccc32)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12079",
+    "validation": "m_weight unsave, calculated(293.43500000000006)"
+}

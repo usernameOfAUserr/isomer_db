@@ -1,0 +1,13 @@
+{
+    "names": "Codoxime",
+    "iupac_name": "(E)-{[(3-Methoxy-17-methyl-4,5\u03b1-epoxymorphinan-6-ylidene)amino]oxy}acetic acid ; ({(E)-[(4R,4aR,7aR,12bS)-9-Methoxy-3-methyl-2,3,4,4a,5,6-hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinolin-7(7aH)-ylidene]amino}oxy)acetic acid ; ({(E)-[(5\u03b1,6E)-3-Methoxy-17-methyl-4,5-epoxymorphinan-6-ylidene]amino}oxy)acetic acid",
+    "category": "data not stored",
+    "index": 7658,
+    "formular": "C20H24N2O5",
+    "molecular_weight": 372.415,
+    "inChl": "1S/C20H24N2O5/c1-22-8-7-20-12-4-5-13(21-26-10-16(23)24)19(20)27-18-15(25-2)6-3-11(17(18)20)9-14(12)22/h3,6,12,14,19H,4-5,7-10H2,1-2H3,(H,23,24)/b21-13+/t12-,14+,19-,20-/m0/s1",
+    "InChl_Key": "WKJYCUVUZIIMJA-OIBQYEROSA-N",
+    "SMILES": "COc1ccc2c3c1O[C@H]1/C(=N/OCC(=O)O)CC[C@H]4[C@@H](C2)N(C)CC[C@]314",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7658",
+    "validation": "m_weight unsave, calculated(372.4210000000001)"
+}

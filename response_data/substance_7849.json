@@ -1,0 +1,13 @@
+{
+    "names": "6-Fluoroindole-3-pyruvate ; 6-F-Indole-3-pyruvate",
+    "iupac_name": "3-(6-Fluoro-1H-indol-3-yl)-2-oxopropanoic acid",
+    "category": "data not stored",
+    "index": 7849,
+    "formular": "C11H8FNO3",
+    "molecular_weight": 221.185,
+    "inChl": "1S/C11H8FNO3/c12-7-1-2-8-6(3-10(14)11(15)16)5-13-9(8)4-7/h1-2,4-5,13H,3H2,(H,15,16)",
+    "InChl_Key": "PLQKAHMNCDSGCT-UHFFFAOYSA-N",
+    "SMILES": "O=C(O)C(=O)Cc1c[nH]c2cc(F)ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7849",
+    "validation": "m_weight unsave, calculated(221.18699999999995)"
+}

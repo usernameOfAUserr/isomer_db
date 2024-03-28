@@ -1,0 +1,13 @@
+{
+    "names": "Phenylethylidenehydrazine",
+    "iupac_name": "(1E)-1-Ethylidene-2-phenylhydrazine",
+    "category": "Phenetylamine",
+    "index": 12006,
+    "formular": "C8H10N2",
+    "molecular_weight": 134.178,
+    "inChl": "1S/C8H10N2/c1-2-9-10-8-6-4-3-5-7-8/h2-7,10H,1H3/b9-2+",
+    "InChl_Key": "KURBTRNHGDQKOS-XNWCZRBMSA-N",
+    "SMILES": "C/C=N/Nc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12006",
+    "validation": "m_weight unsave, calculated(134.182)"
+}

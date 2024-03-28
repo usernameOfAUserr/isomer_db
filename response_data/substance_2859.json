@@ -1,0 +1,13 @@
+{
+    "names": "3\u2032-NO2-PAT",
+    "iupac_name": "N,N-Dimethyl-4-(3-nitrophenyl)-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "category": "data not stored",
+    "index": 2859,
+    "formular": "C18H20N2O2",
+    "molecular_weight": 296.364,
+    "inChl": "1S/C18H20N2O2/c1-19(2)16-11-13-6-3-4-9-17(13)18(12-16)14-7-5-8-15(10-14)20(21)22/h3-10,16,18H,11-12H2,1-2H3",
+    "InChl_Key": "BNPPCWFJMXBSSK-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1Cc2ccccc2C(c2cccc([N+](=O)[O-])c2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2859",
+    "validation": "m_weight unsave, calculated(296.37000000000006)"
+}

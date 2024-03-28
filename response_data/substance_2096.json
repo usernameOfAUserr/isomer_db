@@ -1,0 +1,13 @@
+{
+    "names": "TMePEA ; 3,4,5-Trimethylphenethylamine ; Desoxymescaline ; 3,4,5-Trideoxymescaline",
+    "iupac_name": "2-(3,4,5-Trimethylphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 2096,
+    "formular": "C11H17N",
+    "molecular_weight": 163.259,
+    "inChl": "1S/C11H17N/c1-8-6-11(4-5-12)7-9(2)10(8)3/h6-7H,4-5,12H2,1-3H3",
+    "InChl_Key": "KAUIOBNOAIVCQQ-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(CCN)cc(C)c1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2096",
+    "validation": "m_weight unsave, calculated(163.26399999999998)"
+}

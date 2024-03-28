@@ -1,0 +1,13 @@
+{
+    "names": "2C-MAL ; 4-Methallyl-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-[2,5-Dimethoxy-4-(2-methylprop-2-en-1-yl)phenyl]ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 7206,
+    "formular": "C14H21NO2",
+    "molecular_weight": 235.322,
+    "inChl": "1S/C14H21NO2/c1-10(2)7-12-9-13(16-3)11(5-6-15)8-14(12)17-4/h8-9H,1,5-7,15H2,2-4H3",
+    "InChl_Key": "NRGLHFAGBUDHBH-UHFFFAOYSA-N",
+    "SMILES": "C=C(C)Cc1cc(OC)c(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7206",
+    "validation": "m_weight unsave, calculated(235.32699999999994)"
+}

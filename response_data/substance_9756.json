@@ -1,0 +1,13 @@
+{
+    "names": "NGD-4715",
+    "iupac_name": "1-(5-Bromo-6-methoxypyridin-2-yl)-4-[(3,4-dimethoxyphenyl)methyl]piperazine",
+    "category": "data not stored",
+    "index": 9756,
+    "formular": "C19H24BrN3O3",
+    "molecular_weight": 422.316,
+    "inChl": "1S/C19H24BrN3O3/c1-24-16-6-4-14(12-17(16)25-2)13-22-8-10-23(11-9-22)18-7-5-15(20)19(21-18)26-3/h4-7,12H,8-11,13H2,1-3H3",
+    "InChl_Key": "VAKYVNYLCIABRV-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CN2CCN(c3ccc(Br)c(OC)n3)CC2)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9756",
+    "validation": "m_weight unsave, calculated(422.32300000000004)"
+}

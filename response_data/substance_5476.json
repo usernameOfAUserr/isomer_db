@@ -1,0 +1,13 @@
+{
+    "names": "DSBT ; N,N-Di-sec-butyltryptamine",
+    "iupac_name": "N-(Butan-2-yl)-N-[2-(1H-indol-3-yl)ethyl]butan-2-amine",
+    "category": "Tryptamine",
+    "index": 5476,
+    "formular": "C18H28N2",
+    "molecular_weight": 272.428,
+    "inChl": "1S/C18H28N2/c1-5-14(3)20(15(4)6-2)12-11-16-13-19-18-10-8-7-9-17(16)18/h7-10,13-15,19H,5-6,11-12H2,1-4H3",
+    "InChl_Key": "GAMSOQVPHIMBSR-UHFFFAOYSA-N",
+    "SMILES": "CCC(C)N(CCc1c[nH]c2ccccc12)C(C)CC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5476",
+    "validation": "m_weight unsave, calculated(272.43600000000004)"
+}

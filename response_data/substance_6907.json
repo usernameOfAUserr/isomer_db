@@ -1,0 +1,13 @@
+{
+    "names": "2-HO-5-EPEA-\u03b2k ; \u03b2-Keto-2-hydroxy-5-ethoxyphenethylamine",
+    "iupac_name": "2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethan-1-one ; 2-Amino-1-(5-ethoxy-2-hydroxyphenyl)ethanone",
+    "category": "Shulgin_Index",
+    "index": 6907,
+    "formular": "C10H13NO3",
+    "molecular_weight": 195.215,
+    "inChl": "1S/C10H13NO3/c1-2-14-7-3-4-9(12)8(5-7)10(13)6-11/h3-5,12H,2,6,11H2,1H3",
+    "InChl_Key": "YCGNGHLXFKBBIM-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(O)c(C(=O)CN)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6907",
+    "validation": "m_weight unsave, calculated(195.21799999999996)"
+}

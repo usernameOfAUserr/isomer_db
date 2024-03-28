@@ -1,0 +1,13 @@
+{
+    "names": "A-NFur ; N-Furfurylamphetamine",
+    "iupac_name": "N-[(Furan-2-yl)methyl]-1-phenylpropan-2-amine",
+    "category": "data not stored",
+    "index": 9829,
+    "formular": "C14H17NO",
+    "molecular_weight": 215.291,
+    "inChl": "1S/C14H17NO/c1-12(10-13-6-3-2-4-7-13)15-11-14-8-5-9-16-14/h2-9,12,15H,10-11H2,1H3",
+    "InChl_Key": "XWWSVBIGONHVQI-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NCc1ccco1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9829",
+    "validation": "m_weight unsave, calculated(215.29599999999996)"
+}

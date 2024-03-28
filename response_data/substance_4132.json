@@ -1,0 +1,13 @@
+{
+    "names": "RCS-3 ; meta-RCS-4",
+    "iupac_name": "(3-Methoxyphenyl)(1-pentyl-1H-indol-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4132,
+    "formular": "C21H23NO2",
+    "molecular_weight": 321.413,
+    "inChl": "1S/C21H23NO2/c1-3-4-7-13-22-15-19(18-11-5-6-12-20(18)22)21(23)16-9-8-10-17(14-16)24-2/h5-6,8-12,14-15H,3-4,7,13H2,1-2H3",
+    "InChl_Key": "SWUSQHCKRVISGU-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2cccc(OC)c2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4132",
+    "validation": "m_weight unsave, calculated(321.4200000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "AB-FUBICA",
+    "iupac_name": "N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1-[(4-fluorophenyl)methyl]-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4513,
+    "formular": "C21H22FN3O2",
+    "molecular_weight": 367.417,
+    "inChl": "1S/C21H22FN3O2/c1-13(2)19(20(23)26)24-21(27)17-12-25(18-6-4-3-5-16(17)18)11-14-7-9-15(22)10-8-14/h3-10,12-13,19H,11H2,1-2H3,(H2,23,26)(H,24,27)/t19-/m0/s1",
+    "InChl_Key": "KTVPQJSKKGZIEA-IBGZPJMESA-N",
+    "SMILES": "CC(C)[C@H](NC(=O)c1cn(Cc2ccc(F)cc2)c2ccccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4513",
+    "validation": "m_weight unsave, calculated(367.4240000000001)"
+}

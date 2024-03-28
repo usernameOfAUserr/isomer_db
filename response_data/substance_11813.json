@@ -1,0 +1,13 @@
+{
+    "names": "MP1305",
+    "iupac_name": "N-[17-(Cyclopropylmethyl)-3-hydroxy-14-methoxy-4,5\u03b1-epoxymorphinan-6\u03b2-yl]-3-iodobenzamide ; N-[(4R,4aS,7R,7aR,12bS)-3-(Cyclopropylmethyl)-9-hydroxy-4a-methoxy-2,3,4,4a,5,6,7,7a-octahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinolin-7-yl]-3-iodobenzamide ; N-[(5\u03b1,6\u03b2)-17-(Cyclopropylmethyl)-3-hydroxy-14-methoxy-4,5-epoxymorphinan-6-yl]-3-iodobenzamide",
+    "category": "data not stored",
+    "index": 11813,
+    "formular": "C28H31IN2O4",
+    "molecular_weight": 586.461,
+    "inChl": "1S/C28H31IN2O4/c1-34-28-10-9-20(30-26(33)18-3-2-4-19(29)13-18)25-27(28)11-12-31(15-16-5-6-16)22(28)14-17-7-8-21(32)24(35-25)23(17)27/h2-4,7-8,13,16,20,22,25,32H,5-6,9-12,14-15H2,1H3,(H,30,33)/t20-,22-,25+,27+,28-/m1/s1",
+    "InChl_Key": "UUOPFAYTLJIWHN-RDGDOILBSA-N",
+    "SMILES": "CO[C@@]12CC[C@@H](NC(=O)c3cccc(I)c3)[C@@H]3Oc4c(O)ccc5c4[C@@]31CCN(CC1CC1)[C@@H]2C5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11813",
+    "validation": "m_weight unsave, calculated(586.4700000000003)"
+}

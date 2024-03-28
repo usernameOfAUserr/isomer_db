@@ -1,0 +1,13 @@
+{
+    "names": "Iso-phenmetrazine",
+    "iupac_name": "5-Methyl-2-phenylmorpholine",
+    "category": "data not stored",
+    "index": 2974,
+    "formular": "C11H15NO",
+    "molecular_weight": 177.243,
+    "inChl": "1S/C11H15NO/c1-9-8-13-11(7-12-9)10-5-3-2-4-6-10/h2-6,9,11-12H,7-8H2,1H3",
+    "InChl_Key": "LQHGEOIBMBXJGV-UHFFFAOYSA-N",
+    "SMILES": "CC1COC(c2ccccc2)CN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2974",
+    "validation": "m_weight unsave, calculated(177.247)"
+}

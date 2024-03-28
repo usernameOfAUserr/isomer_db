@@ -1,0 +1,13 @@
+{
+    "names": "2C-TE ; 2,5-Dimethoxy-4-methyltellurophenethylamine",
+    "iupac_name": "2-[2,5-Dimethoxy-4-(methyltellanyl)phenyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 2076,
+    "formular": "C11H17NO2Te",
+    "molecular_weight": 322.858,
+    "inChl": "1S/C11H17NO2Te/c1-13-9-7-11(15-3)10(14-2)6-8(9)4-5-12/h6-7H,4-5,12H2,1-3H3",
+    "InChl_Key": "OLHAAXPQNWOKOE-UHFFFAOYSA-N",
+    "SMILES": "COc1cc([Te]C)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2076",
+    "validation": "m_weight unsave, calculated(322.862)"
+}

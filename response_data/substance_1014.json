@@ -1,0 +1,13 @@
+{
+    "names": "Buflomedil",
+    "iupac_name": "4-(Pyrrolidin-1-yl)-1-(2,4,6-trimethoxyphenyl)butan-1-one",
+    "category": "data not stored",
+    "index": 1014,
+    "formular": "C17H25NO4",
+    "molecular_weight": 307.385,
+    "inChl": "1S/C17H25NO4/c1-20-13-11-15(21-2)17(16(12-13)22-3)14(19)7-6-10-18-8-4-5-9-18/h11-12H,4-10H2,1-3H3",
+    "InChl_Key": "OWYLAEYXIQKAOL-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(C(=O)CCCN2CCCC2)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1014",
+    "validation": "m_weight unsave, calculated(307.39000000000004)"
+}

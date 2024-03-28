@@ -1,0 +1,13 @@
+{
+    "names": "9-Azanoribogaine ; 9-Aza-12-hydroxyibogamine ; Imidazolyl-noribogaine",
+    "iupac_name": "9-Azaibogamin-12-ol ; (2R,4S,4aS,13bR)-4-Ethyl-1,2,3,4,4a,6,7,13b-octahydro-2,5-methanobenzimidazo[1,2-d][1,4]benzodiazepin-10-ol",
+    "category": "data not stored",
+    "index": 8411,
+    "formular": "C18H23N3O",
+    "molecular_weight": 297.395,
+    "inChl": "1S/C18H23N3O/c1-2-12-7-11-8-14-17(12)20(10-11)5-6-21-16-9-13(22)3-4-15(16)19-18(14)21/h3-4,9,11-12,14,17,22H,2,5-8,10H2,1H3/t11-,12+,14-,17+/m1/s1",
+    "InChl_Key": "VZTPVECHKWGJCM-GNNTXSLPSA-N",
+    "SMILES": "CC[C@H]1C[C@@H]2C[C@H]3c4nc5ccc(O)cc5n4CCN(C2)[C@@H]13",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8411",
+    "validation": "m_weight unsave, calculated(297.40199999999993)"
+}

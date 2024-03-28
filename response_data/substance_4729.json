@@ -1,0 +1,13 @@
+{
+    "names": "LY-320,135",
+    "iupac_name": "4-[6-Methoxy-2-(4-methoxyphenyl)-1-benzofuran-3-carbonyl]benzonitrile",
+    "category": "cannabinodids",
+    "index": 4729,
+    "formular": "C24H17NO4",
+    "molecular_weight": 383.396,
+    "inChl": "1S/C24H17NO4/c1-27-18-9-7-17(8-10-18)24-22(20-12-11-19(28-2)13-21(20)29-24)23(26)16-5-3-15(14-25)4-6-16/h3-13H,1-2H3",
+    "InChl_Key": "RYNSGDFWBJWWSZ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(-c2oc3cc(OC)ccc3c2C(=O)c2ccc(C#N)cc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4729",
+    "validation": "m_weight unsave, calculated(383.40300000000013)"
+}

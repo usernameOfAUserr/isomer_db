@@ -1,0 +1,13 @@
+{
+    "names": "N-[3-(Methylsulfanyl)propyl]-1-phenylcyclohexan-1-amine",
+    "iupac_name": "9111 ; C16H25NS ; 263.441",
+    "category": "Arylcycloalkylamine",
+    "index": 9111,
+    "formular": "C16H25NS",
+    "molecular_weight": 263.441,
+    "inChl": "1S/C16H25NS/c1-18-14-8-13-17-16(11-6-3-7-12-16)15-9-4-2-5-10-15/h2,4-5,9-10,17H,3,6-8,11-14H2,1H3",
+    "InChl_Key": "FAAZJMRSMNZOOS-UHFFFAOYSA-N",
+    "SMILES": "CSCCCNC1(c2ccccc2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9111",
+    "validation": "m_weight unsave, calculated(263.44999999999993)"
+}

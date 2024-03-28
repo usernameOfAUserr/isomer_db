@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 1-(4-cyclopentylbutyl)-4-phenylpiperidine-4-carboxylate",
+    "iupac_name": "9086 ; C23H35NO2 ; 357.53",
+    "category": "data not stored",
+    "index": 9086,
+    "formular": "C23H35NO2",
+    "molecular_weight": 357.53,
+    "inChl": "1S/C23H35NO2/c1-2-26-22(25)23(21-13-4-3-5-14-21)15-18-24(19-16-23)17-9-8-12-20-10-6-7-11-20/h3-5,13-14,20H,2,6-12,15-19H2,1H3",
+    "InChl_Key": "RQGUIILNCPYBOR-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CCCCC2CCCC2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9086",
+    "validation": "m_weight unsave, calculated(357.538)"
+}

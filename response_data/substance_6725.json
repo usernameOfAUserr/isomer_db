@@ -1,0 +1,13 @@
+{
+    "names": "iBuONE ; N-Isobutyl-3,4-methylenedioxycathinone",
+    "iupac_name": "1-(2H-1,3-Benzodioxol-5-yl)-2-[(2-methylpropyl)amino]propan-1-one ; 1-(1,3-Benzodioxol-5-yl)-2-[(2-methylpropyl)amino]propan-1-one",
+    "category": "Shulgin_Index",
+    "index": 6725,
+    "formular": "C14H19NO3",
+    "molecular_weight": 249.306,
+    "inChl": "1S/C14H19NO3/c1-9(2)7-15-10(3)14(16)11-4-5-12-13(6-11)18-8-17-12/h4-6,9-10,15H,7-8H2,1-3H3",
+    "InChl_Key": "BRTCHYAPFXDRFB-UHFFFAOYSA-N",
+    "SMILES": "CC(C)CNC(C)C(=O)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6725",
+    "validation": "m_weight unsave, calculated(249.30999999999995)"
+}

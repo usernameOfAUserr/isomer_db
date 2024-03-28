@@ -1,0 +1,13 @@
+{
+    "names": "NPB-22 ; (Indazole) PB-22 ; QU-PINAC",
+    "iupac_name": "Quinolin-8-yl 1-pentyl-1H-indazole-3-carboxylate",
+    "category": "cannabinodids",
+    "index": 4224,
+    "formular": "C22H21N3O2",
+    "molecular_weight": 359.421,
+    "inChl": "1S/C22H21N3O2/c1-2-3-6-15-25-18-12-5-4-11-17(18)21(24-25)22(26)27-19-13-7-9-16-10-8-14-23-20(16)19/h4-5,7-14H,2-3,6,15H2,1H3",
+    "InChl_Key": "UWICFJAXLKCHTQ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1nc(C(=O)Oc2cccc3cccnc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4224",
+    "validation": "m_weight unsave, calculated(359.4290000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3,4-DHA-NBOH ; N-(2-Hydroxybenzyl)-3,4-dihydroxyamphetamine",
+    "iupac_name": "4-(2-{[(2-Hydroxyphenyl)methyl]amino}propyl)benzene-1,2-diol",
+    "category": "data not stored",
+    "index": 9730,
+    "formular": "C16H19NO3",
+    "molecular_weight": 273.327,
+    "inChl": "1S/C16H19NO3/c1-11(8-12-6-7-15(19)16(20)9-12)17-10-13-4-2-3-5-14(13)18/h2-7,9,11,17-20H,8,10H2,1H3",
+    "InChl_Key": "YVJOLGOJSJJKCB-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccc(O)c(O)c1)NCc1ccccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9730",
+    "validation": "m_weight unsave, calculated(273.332)"
+}

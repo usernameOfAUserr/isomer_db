@@ -1,0 +1,13 @@
+{
+    "names": "8-Chloro-6-(4-chlorophenyl)-3-(1H-tetrazol-5-yl)-4H-imidazo[1,5-a][1,4]benzodiazepine",
+    "iupac_name": "6307 ; C18H11Cl2N7 ; 396.233",
+    "category": "Aryldiazepine",
+    "index": 6307,
+    "formular": "C18H11Cl2N7",
+    "molecular_weight": 396.233,
+    "inChl": "1S/C18H11Cl2N7/c19-11-3-1-10(2-4-11)16-13-7-12(20)5-6-14(13)27-9-22-17(15(27)8-21-16)18-23-25-26-24-18/h1-7,9H,8H2,(H,23,24,25,26)",
+    "InChl_Key": "OMSPQHRJXKVWKN-UHFFFAOYSA-N",
+    "SMILES": "Clc1ccc(C2=NCc3c(-c4nnn[nH]4)ncn3-c3ccc(Cl)cc32)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6307",
+    "validation": "m_weight unsave, calculated(396.241)"
+}

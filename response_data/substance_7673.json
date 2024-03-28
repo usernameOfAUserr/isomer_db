@@ -1,0 +1,13 @@
+{
+    "names": "Thebacon ; Dihydrocodeinone enol acetate",
+    "iupac_name": "3-Methoxy-17-methyl-6,7-didehydro-4,5\u03b1-epoxymorphinan-6-yl acetate ; (4R,4aR,7aR,12bS)-9-Methoxy-3-methyl-2,3,4,4a,5,7a-hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinolin-7-yl acetate ; (5\u03b1)-3-Methoxy-17-methyl-6,7-didehydro-4,5-epoxymorphinan-6-yl acetate",
+    "category": "data not stored",
+    "index": 7673,
+    "formular": "C20H23NO4",
+    "molecular_weight": 341.401,
+    "inChl": "1S/C20H23NO4/c1-11(22)24-16-7-5-13-14-10-12-4-6-15(23-3)18-17(12)20(13,19(16)25-18)8-9-21(14)2/h4,6-7,13-14,19H,5,8-10H2,1-3H3/t13-,14+,19-,20-/m0/s1",
+    "InChl_Key": "RRJQTGHQFYTZOW-ILWKUFEGSA-N",
+    "SMILES": "COc1ccc2c3c1O[C@H]1C(OC(C)=O)=CC[C@H]4[C@@H](C2)N(C)CC[C@]314",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7673",
+    "validation": "m_weight unsave, calculated(341.4070000000001)"
+}

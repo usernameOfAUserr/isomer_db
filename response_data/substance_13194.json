@@ -1,0 +1,13 @@
+{
+    "names": "(2S)-1-(Pyrano[2,3-g]indazol-1(7H)-yl)propan-2-amine",
+    "iupac_name": "13194 ; C13H15N3O ; 229.278",
+    "category": "data not stored",
+    "index": 13194,
+    "formular": "C13H15N3O",
+    "molecular_weight": 229.278,
+    "inChl": "1S/C13H15N3O/c1-9(14)8-16-13-10(7-15-16)4-5-12-11(13)3-2-6-17-12/h2-5,7,9H,6,8,14H2,1H3/t9-/m0/s1",
+    "InChl_Key": "NDBRBEGZUIOISY-VIFPVBQESA-N",
+    "SMILES": "C[C@H](N)Cn1ncc2ccc3c(c21)C=CCO3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13194",
+    "validation": "m_weight unsave, calculated(229.283)"
+}

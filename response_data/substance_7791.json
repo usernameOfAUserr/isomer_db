@@ -1,0 +1,13 @@
+{
+    "names": "(5S)-5-(4-Fluorobutyl)-N-(2-phenylpropan-2-yl)-5,6,7,8-tetrahydroindolizine-2-carboxamide",
+    "iupac_name": "7791 ; C22H29FN2O ; 356.477",
+    "category": "cannabinodids",
+    "index": 7791,
+    "formular": "C22H29FN2O",
+    "molecular_weight": 356.477,
+    "inChl": "1S/C22H29FN2O/c1-22(2,18-9-4-3-5-10-18)24-21(26)17-15-20-13-8-12-19(25(20)16-17)11-6-7-14-23/h3-5,9-10,15-16,19H,6-8,11-14H2,1-2H3,(H,24,26)/t19-/m1/s1",
+    "InChl_Key": "WDTBKBXERXTYOP-LJQANCHMSA-N",
+    "SMILES": "CC(C)(NC(=O)c1cc2n(c1)[C@H](CCCCF)CCC2)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7791",
+    "validation": "m_weight unsave, calculated(356.48500000000007)"
+}

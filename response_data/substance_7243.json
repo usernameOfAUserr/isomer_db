@@ -1,0 +1,13 @@
+{
+    "names": "2C-PIP ; 2,5-Dimethoxy-4-(piperidin-1-yl)phenethylamine",
+    "iupac_name": "2-[2,5-Dimethoxy-4-(piperidin-1-yl)phenyl]ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 7243,
+    "formular": "C15H24N2O2",
+    "molecular_weight": 264.363,
+    "inChl": "1S/C15H24N2O2/c1-18-14-11-13(17-8-4-3-5-9-17)15(19-2)10-12(14)6-7-16/h10-11H,3-9,16H2,1-2H3",
+    "InChl_Key": "ATVVOKCOEVNJJF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(N2CCCCC2)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7243",
+    "validation": "m_weight unsave, calculated(264.36899999999997)"
+}

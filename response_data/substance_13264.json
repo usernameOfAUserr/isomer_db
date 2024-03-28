@@ -1,0 +1,13 @@
+{
+    "names": "CHM-MDMB-CHMINACA ; CHMDMB-CHMINACA",
+    "iupac_name": "Cyclohexylmethyl N-[1-(cyclohexylmethyl)-1H-indazole-3-carbonyl]-3-methyl-L-valinate ; Cyclohexylmethyl (2S)-2-{[1-(cyclohexylmethyl)-1H-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate",
+    "category": "cannabinodids",
+    "index": 13264,
+    "formular": "C28H41N3O3",
+    "molecular_weight": 467.643,
+    "inChl": "1S/C28H41N3O3/c1-28(2,3)25(27(33)34-19-21-14-8-5-9-15-21)29-26(32)24-22-16-10-11-17-23(22)31(30-24)18-20-12-6-4-7-13-20/h10-11,16-17,20-21,25H,4-9,12-15,18-19H2,1-3H3,(H,29,32)/t25-/m1/s1",
+    "InChl_Key": "BJNHBUMERXHSSM-RUZDIDTESA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(CC2CCCCC2)c2ccccc12)C(=O)OCC1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13264",
+    "validation": "m_weight unsave, calculated(467.65400000000034)"
+}

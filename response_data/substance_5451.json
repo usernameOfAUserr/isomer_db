@@ -1,0 +1,13 @@
+{
+    "names": "MPPP (opioid) ; Desmethylprodine ; 1-Methyl-4-phenyl-4-propionoxypiperidine ; R-1143",
+    "iupac_name": "1-Methyl-4-phenylpiperidin-4-yl propanoate",
+    "category": "Phenetylamine",
+    "index": 5451,
+    "formular": "C15H21NO2",
+    "molecular_weight": 247.333,
+    "inChl": "1S/C15H21NO2/c1-3-14(17)18-15(9-11-16(2)12-10-15)13-7-5-4-6-8-13/h4-8H,3,9-12H2,1-2H3",
+    "InChl_Key": "BCQMRZRAWHNSBF-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)OC1(c2ccccc2)CCN(C)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5451",
+    "validation": "m_weight unsave, calculated(247.338)"
+}

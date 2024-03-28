@@ -1,0 +1,13 @@
+{
+    "names": "4-Bromo-8-[(1E)-2-nitroprop-1-en-1-yl]benzo[1,2-b:4,5-b\u2032]difuran",
+    "iupac_name": "14741 ; C13H8BrNO4 ; 322.111",
+    "category": "data not stored",
+    "index": 14741,
+    "formular": "C13H8BrNO4",
+    "molecular_weight": 322.111,
+    "inChl": "1S/C13H8BrNO4/c1-7(15(16)17)6-10-8-2-4-19-13(8)11(14)9-3-5-18-12(9)10/h2-6H,1H3/b7-6+",
+    "InChl_Key": "WQTAJDVYJACQAR-VOTSOKGWSA-N",
+    "SMILES": "C/C(=C\\c1c2ccoc2c(Br)c2ccoc12)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14741",
+    "validation": "m_weight unsave, calculated(322.114)"
+}

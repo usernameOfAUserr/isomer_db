@@ -1,0 +1,13 @@
+{
+    "names": "4-Hydroxymethylcathinone ; Norhydroxytolyl-mephedrone",
+    "iupac_name": "2-Amino-1-[4-(hydroxymethyl)phenyl]propan-1-one",
+    "category": "data not stored",
+    "index": 9565,
+    "formular": "C10H13NO2",
+    "molecular_weight": 179.216,
+    "inChl": "1S/C10H13NO2/c1-7(11)10(13)9-4-2-8(6-12)3-5-9/h2-5,7,12H,6,11H2,1H3",
+    "InChl_Key": "ZHIHSXTXQMLFSP-UHFFFAOYSA-N",
+    "SMILES": "CC(N)C(=O)c1ccc(CO)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9565",
+    "validation": "m_weight unsave, calculated(179.21899999999997)"
+}

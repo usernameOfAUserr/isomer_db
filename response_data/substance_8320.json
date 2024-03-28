@@ -1,0 +1,13 @@
+{
+    "names": "3-EtO-5-MeS-4-MBAL ; 3-Ethoxy-5-methylthio-4-methoxybenzaldehyde",
+    "iupac_name": "3-Ethoxy-4-methoxy-5-(methylsulfanyl)benzaldehyde",
+    "category": "data not stored",
+    "index": 8320,
+    "formular": "C11H14O3S",
+    "molecular_weight": 226.292,
+    "inChl": "1S/C11H14O3S/c1-4-14-9-5-8(7-12)6-10(15-3)11(9)13-2/h5-7H,4H2,1-3H3",
+    "InChl_Key": "JGEDBYNLGQLDNH-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(C=O)cc(SC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8320",
+    "validation": "m_weight unsave, calculated(226.29699999999997)"
+}

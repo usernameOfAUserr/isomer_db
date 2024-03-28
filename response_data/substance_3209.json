@@ -1,0 +1,13 @@
+{
+    "names": "Diethylthiambutene",
+    "iupac_name": "N,N-Diethyl-4,4-di(thiophen-2-yl)but-3-en-2-amine",
+    "category": "data not stored",
+    "index": 3209,
+    "formular": "C16H21NS2",
+    "molecular_weight": 291.475,
+    "inChl": "1S/C16H21NS2/c1-4-17(5-2)13(3)12-14(15-8-6-10-18-15)16-9-7-11-19-16/h6-13H,4-5H2,1-3H3",
+    "InChl_Key": "CBYWMRHUUVRIAF-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)C(C)C=C(c1cccs1)c1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3209",
+    "validation": "m_weight unsave, calculated(291.48500000000007)"
+}

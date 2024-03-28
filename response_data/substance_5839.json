@@ -1,0 +1,13 @@
+{
+    "names": "5-Benzyloxy-\u03b1-phenyltryptamine",
+    "iupac_name": "2-[5-(Benzyloxy)-1H-indol-3-yl]-1-phenylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5839,
+    "formular": "C23H22N2O",
+    "molecular_weight": 342.434,
+    "inChl": "1S/C23H22N2O/c24-22(18-9-5-2-6-10-18)13-19-15-25-23-12-11-20(14-21(19)23)26-16-17-7-3-1-4-8-17/h1-12,14-15,22,25H,13,16,24H2",
+    "InChl_Key": "XRJAIRFOWONETI-UHFFFAOYSA-N",
+    "SMILES": "NC(Cc1c[nH]c2ccc(OCc3ccccc3)cc12)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5839",
+    "validation": "m_weight unsave, calculated(342.442)"
+}

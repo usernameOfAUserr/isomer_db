@@ -1,0 +1,13 @@
+{
+    "names": "5F-CPM-PINACA",
+    "iupac_name": "N-(Cyclopentylmethyl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 8065,
+    "formular": "C19H26FN3O",
+    "molecular_weight": 331.428,
+    "inChl": "1S/C19H26FN3O/c20-12-6-1-7-13-23-17-11-5-4-10-16(17)18(22-23)19(24)21-14-15-8-2-3-9-15/h4-5,10-11,15H,1-3,6-9,12-14H2,(H,21,24)",
+    "InChl_Key": "YLFBTHCYSIXXJY-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCC1CCCC1)c1nn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8065",
+    "validation": "m_weight unsave, calculated(331.43500000000023)"
+}

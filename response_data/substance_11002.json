@@ -1,0 +1,13 @@
+{
+    "names": "Betahistine",
+    "iupac_name": "N-Methyl-2-(pyridin-2-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 11002,
+    "formular": "C8H12N2",
+    "molecular_weight": 136.194,
+    "inChl": "1S/C8H12N2/c1-9-7-5-8-4-2-3-6-10-8/h2-4,6,9H,5,7H2,1H3",
+    "InChl_Key": "UUQMNUMQCIQDMZ-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1ccccn1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11002",
+    "validation": "m_weight unsave, calculated(136.19799999999995)"
+}

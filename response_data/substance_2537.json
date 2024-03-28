@@ -1,0 +1,13 @@
+{
+    "names": "2-FDMC ; 2-Fluoro-N,N-dimethylcathinone",
+    "iupac_name": "2-(Dimethylamino)-1-(2-fluorophenyl)propan-1-one",
+    "category": "data not stored",
+    "index": 2537,
+    "formular": "C11H14FNO",
+    "molecular_weight": 195.233,
+    "inChl": "1S/C11H14FNO/c1-8(13(2)3)11(14)9-6-4-5-7-10(9)12/h4-8H,1-3H3",
+    "InChl_Key": "KRQKDYQUPIVSPU-UHFFFAOYSA-N",
+    "SMILES": "CC(C(=O)c1ccccc1F)N(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2537",
+    "validation": "m_weight unsave, calculated(195.23699999999997)"
+}

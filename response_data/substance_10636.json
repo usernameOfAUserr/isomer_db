@@ -1,0 +1,13 @@
+{
+    "names": "3-Iodothyronamine ; 4-(4-Hydroxyphenoxy)-3-iodophenethylamine ; 4-HOPhO-3-I-PEA ; T1AM",
+    "iupac_name": "4-[4-(2-Aminoethyl)-2-iodophenoxy]phenol",
+    "category": "data not stored",
+    "index": 10636,
+    "formular": "C14H14INO2",
+    "molecular_weight": 355.171,
+    "inChl": "1S/C14H14INO2/c15-13-9-10(7-8-16)1-6-14(13)18-12-4-2-11(17)3-5-12/h1-6,9,17H,7-8,16H2",
+    "InChl_Key": "XIINYOJWNGOUPF-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ccc(Oc2ccc(O)cc2)c(I)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10636",
+    "validation": "m_weight unsave, calculated(355.17500000000007)"
+}

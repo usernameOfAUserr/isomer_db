@@ -1,0 +1,13 @@
+{
+    "names": "4-Me-APAAN",
+    "iupac_name": "2-(4-Methylphenyl)-3-oxobutanenitrile",
+    "category": "data not stored",
+    "index": 7093,
+    "formular": "C11H11NO",
+    "molecular_weight": 173.211,
+    "inChl": "1S/C11H11NO/c1-8-3-5-10(6-4-8)11(7-12)9(2)13/h3-6,11H,1-2H3",
+    "InChl_Key": "QWWANUDFLOXOCB-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)C(C#N)c1ccc(C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7093",
+    "validation": "m_weight unsave, calculated(173.21499999999995)"
+}

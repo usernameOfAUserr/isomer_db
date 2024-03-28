@@ -1,0 +1,13 @@
+{
+    "names": "Cocaine reverse ester 2",
+    "iupac_name": "2-Methyl 3-phenyl (2S,3S)-8-methyl-8-azabicyclo[3.2.1]octane-2,3-dicarboxylate",
+    "category": "data not stored",
+    "index": 3500,
+    "formular": "C17H21NO4",
+    "molecular_weight": 303.353,
+    "inChl": "1S/C17H21NO4/c1-18-11-8-9-14(18)15(17(20)21-2)13(10-11)16(19)22-12-6-4-3-5-7-12/h3-7,11,13-15H,8-10H2,1-2H3/t11?,13-,14?,15-/m0/s1",
+    "InChl_Key": "QBYGRJQJEUUFHI-CDFKWJNJSA-N",
+    "SMILES": "COC(=O)[C@@H]1C2CCC(C[C@@H]1C(=O)Oc1ccccc1)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3500",
+    "validation": "m_weight unsave, calculated(303.35799999999995)"
+}

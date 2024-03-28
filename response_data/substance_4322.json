@@ -1,0 +1,13 @@
+{
+    "names": "JWH-309",
+    "iupac_name": "(Naphthalen-1-yl)[5-(naphthalen-1-yl)-1-pentyl-1H-pyrrol-3-yl]methanone",
+    "category": "cannabinodids",
+    "index": 4322,
+    "formular": "C30H27NO",
+    "molecular_weight": 417.541,
+    "inChl": "1S/C30H27NO/c1-2-3-8-19-31-21-24(30(32)28-18-10-14-23-12-5-7-16-26(23)28)20-29(31)27-17-9-13-22-11-4-6-15-25(22)27/h4-7,9-18,20-21H,2-3,8,19H2,1H3",
+    "InChl_Key": "WVISOUYKTUUDFW-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2cccc3ccccc23)cc1-c1cccc2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4322",
+    "validation": "m_weight unsave, calculated(417.55200000000013)"
+}

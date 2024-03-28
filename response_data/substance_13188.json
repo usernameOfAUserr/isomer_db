@@ -1,0 +1,13 @@
+{
+    "names": "2-Methyl-5-chloro-DMT ; 2-Methyl-5-chloro-N,N-dimethyltryptamine ; ST-1936",
+    "iupac_name": "2-(5-Chloro-2-methyl-1H-indol-3-yl)-N,N-dimethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 13188,
+    "formular": "C13H17ClN2",
+    "molecular_weight": 236.74,
+    "inChl": "1S/C13H17ClN2/c1-9-11(6-7-16(2)3)12-8-10(14)4-5-13(12)15-9/h4-5,8,15H,6-7H2,1-3H3",
+    "InChl_Key": "KSYMELKKLOFABL-UHFFFAOYSA-N",
+    "SMILES": "Cc1[nH]c2ccc(Cl)cc2c1CCN(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13188",
+    "validation": "m_weight unsave, calculated(236.746)"
+}

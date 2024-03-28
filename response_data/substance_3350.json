@@ -1,0 +1,13 @@
+{
+    "names": "Pagoclone",
+    "iupac_name": "2-(7-Chloro-1,8-naphthyridin-2-yl)-3-(5-methyl-2-oxohexyl)-2,3-dihydro-1H-isoindol-1-one",
+    "category": "data not stored",
+    "index": 3350,
+    "formular": "C23H22ClN3O2",
+    "molecular_weight": 407.893,
+    "inChl": "1S/C23H22ClN3O2/c1-14(2)7-10-16(28)13-19-17-5-3-4-6-18(17)23(29)27(19)21-12-9-15-8-11-20(24)25-22(15)26-21/h3-6,8-9,11-12,14,19H,7,10,13H2,1-2H3",
+    "InChl_Key": "HIUPRQPBWVEQJJ-UHFFFAOYSA-N",
+    "SMILES": "CC(C)CCC(=O)CC1c2ccccc2C(=O)N1c1ccc2ccc(Cl)nc2n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3350",
+    "validation": "m_weight unsave, calculated(407.9010000000002)"
+}

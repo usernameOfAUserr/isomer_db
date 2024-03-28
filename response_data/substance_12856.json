@@ -1,0 +1,13 @@
+{
+    "names": "EMM NS ; 2-Ethoxy-4,5-dimethoxy-\u03b2-methyl-\u03b2-nitrostyrene",
+    "iupac_name": "1-Ethoxy-4,5-dimethoxy-2-[(1E)-2-nitroprop-1-en-1-yl]benzene",
+    "category": "data not stored",
+    "index": 12856,
+    "formular": "C13H17NO5",
+    "molecular_weight": 267.278,
+    "inChl": "1S/C13H17NO5/c1-5-19-11-8-13(18-4)12(17-3)7-10(11)6-9(2)14(15)16/h6-8H,5H2,1-4H3/b9-6+",
+    "InChl_Key": "TUGFCZSZUDCUQF-RMKNXTFCSA-N",
+    "SMILES": "CCOc1cc(OC)c(OC)cc1/C=C(\\C)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12856",
+    "validation": "m_weight unsave, calculated(267.281)"
+}

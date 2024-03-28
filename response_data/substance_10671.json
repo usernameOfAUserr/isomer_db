@@ -1,0 +1,13 @@
+{
+    "names": "N-BrPr-A ; N-(3-Bromopropyl)amphetamine",
+    "iupac_name": "3-Bromo-N-(1-phenylpropan-2-yl)propan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10671,
+    "formular": "C12H18BrN",
+    "molecular_weight": 256.182,
+    "inChl": "1S/C12H18BrN/c1-11(14-9-5-8-13)10-12-6-3-2-4-7-12/h2-4,6-7,11,14H,5,8-10H2,1H3",
+    "InChl_Key": "FPMVHHJZKRYDFU-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NCCCBr",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10671",
+    "validation": "m_weight unsave, calculated(256.187)"
+}

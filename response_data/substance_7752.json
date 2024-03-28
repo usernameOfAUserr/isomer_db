@@ -1,0 +1,13 @@
+{
+    "names": "5-(2-Fluorophenyl)-1-methyl-4-pentyl-N-(2-phenylpropan-2-yl)-1H-imidazole-2-carboxamide",
+    "iupac_name": "7752 ; C25H30FN3O ; 407.524",
+    "category": "cannabinodids",
+    "index": 7752,
+    "formular": "C25H30FN3O",
+    "molecular_weight": 407.524,
+    "inChl": "1S/C25H30FN3O/c1-5-6-8-17-21-22(19-15-11-12-16-20(19)26)29(4)23(27-21)24(30)28-25(2,3)18-13-9-7-10-14-18/h7,9-16H,5-6,8,17H2,1-4H3,(H,28,30)",
+    "InChl_Key": "IZNJRJGLOOFVHS-UHFFFAOYSA-N",
+    "SMILES": "CCCCCc1nc(C(=O)NC(C)(C)c2ccccc2)n(C)c1-c1ccccc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7752",
+    "validation": "m_weight unsave, calculated(407.53300000000013)"
+}

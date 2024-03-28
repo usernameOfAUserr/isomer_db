@@ -1,0 +1,13 @@
+{
+    "names": "2C-OXET3 ; 2,5-Dimethoxy-4-(oxetan-3-yl)phenethylamine",
+    "iupac_name": "2-[2,5-Dimethoxy-4-(oxetan-3-yl)phenyl]ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 5951,
+    "formular": "C13H19NO3",
+    "molecular_weight": 237.295,
+    "inChl": "1S/C13H19NO3/c1-15-12-6-11(10-7-17-8-10)13(16-2)5-9(12)3-4-14/h5-6,10H,3-4,7-8,14H2,1-2H3",
+    "InChl_Key": "FGGLDVOSWPJZJY-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2COC2)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5951",
+    "validation": "m_weight unsave, calculated(237.29899999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1,4-Butanediol ; BD",
+    "iupac_name": "Butane-1,4-diol",
+    "category": "data not stored",
+    "index": 12266,
+    "formular": "C4H10O2",
+    "molecular_weight": 90.121,
+    "inChl": "1S/C4H10O2/c5-3-1-2-4-6/h5-6H,1-4H2",
+    "InChl_Key": "WERYXYBDKMZEQL-UHFFFAOYSA-N",
+    "SMILES": "OCCCCO",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12266",
+    "validation": "m_weight unsave, calculated(90.122)"
+}

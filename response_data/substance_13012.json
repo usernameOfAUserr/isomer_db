@@ -1,0 +1,13 @@
+{
+    "names": "2-Amino-2-(4-fluorophenyl)cyclohexan-1-one",
+    "iupac_name": "13012 ; C12H14FNO ; 207.244",
+    "category": "Arylcycloalkylamine",
+    "index": 13012,
+    "formular": "C12H14FNO",
+    "molecular_weight": 207.244,
+    "inChl": "1S/C12H14FNO/c13-10-6-4-9(5-7-10)12(14)8-2-1-3-11(12)15/h4-7H,1-3,8,14H2",
+    "InChl_Key": "TZUMXORMVXGFNA-UHFFFAOYSA-N",
+    "SMILES": "NC1(c2ccc(F)cc2)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13012",
+    "validation": "m_weight unsave, calculated(207.24799999999993)"
+}

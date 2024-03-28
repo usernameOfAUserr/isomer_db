@@ -1,0 +1,13 @@
+{
+    "names": "25O-NBFuran2 ; N-(2-Furan-2-ylbenzyl)-2,4,5-trimethoxyphenethylamine",
+    "iupac_name": "N-{[2-(Furan-2-yl)phenyl]methyl}-2-(2,4,5-trimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14258,
+    "formular": "C22H25NO4",
+    "molecular_weight": 367.438,
+    "inChl": "1S/C22H25NO4/c1-24-20-14-22(26-3)21(25-2)13-16(20)10-11-23-15-17-7-4-5-8-18(17)19-9-6-12-27-19/h4-9,12-14,23H,10-11,15H2,1-3H3",
+    "InChl_Key": "QLXRIKMMCJPGCI-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(OC)cc1CCNCc1ccccc1-c1ccco1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14258",
+    "validation": "m_weight unsave, calculated(367.4450000000001)"
+}

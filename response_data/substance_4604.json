@@ -1,0 +1,13 @@
+{
+    "names": "SGT-162",
+    "iupac_name": "1-(5-Fluoropentyl)-N-(1-phenylcyclopropyl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4604,
+    "formular": "C22H24FN3O",
+    "molecular_weight": 365.444,
+    "inChl": "1S/C22H24FN3O/c23-15-7-2-8-16-26-19-12-6-5-11-18(19)20(25-26)21(27)24-22(13-14-22)17-9-3-1-4-10-17/h1,3-6,9-12H,2,7-8,13-16H2,(H,24,27)",
+    "InChl_Key": "AWZPHMZWUMYXPM-UHFFFAOYSA-N",
+    "SMILES": "O=C(NC1(c2ccccc2)CC1)c1nn(CCCCCF)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4604",
+    "validation": "m_weight unsave, calculated(365.45200000000017)"
+}

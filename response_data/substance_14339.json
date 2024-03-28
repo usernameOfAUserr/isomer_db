@@ -1,0 +1,13 @@
+{
+    "names": "3-[2-(4-Cyclohexylpiperazin-1-yl)-2-phenylethyl]phenol",
+    "iupac_name": "14339 ; C24H32N2O ; 364.524",
+    "category": "data not stored",
+    "index": 14339,
+    "formular": "C24H32N2O",
+    "molecular_weight": 364.524,
+    "inChl": "1S/C24H32N2O/c27-23-13-7-8-20(18-23)19-24(21-9-3-1-4-10-21)26-16-14-25(15-17-26)22-11-5-2-6-12-22/h1,3-4,7-10,13,18,22,24,27H,2,5-6,11-12,14-17,19H2",
+    "InChl_Key": "NCHVKDWFWTUXRV-UHFFFAOYSA-N",
+    "SMILES": "Oc1cccc(CC(c2ccccc2)N2CCN(C3CCCCC3)CC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14339",
+    "validation": "m_weight unsave, calculated(364.5330000000003)"
+}

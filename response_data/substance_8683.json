@@ -1,0 +1,13 @@
+{
+    "names": "4\u2032-(Thiophen-3-yl)-CPT",
+    "iupac_name": "Methyl (2S,3S)-8-methyl-3-[4-(thiophen-3-yl)phenyl]-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "category": "data not stored",
+    "index": 8683,
+    "formular": "C20H23NO2S",
+    "molecular_weight": 341.467,
+    "inChl": "1S/C20H23NO2S/c1-21-16-7-8-18(21)19(20(22)23-2)17(11-16)14-5-3-13(4-6-14)15-9-10-24-12-15/h3-6,9-10,12,16-19H,7-8,11H2,1-2H3/t16?,17-,18?,19+/m1/s1",
+    "InChl_Key": "XDCKKLJZZNMBOS-CHPDAQJUSA-N",
+    "SMILES": "COC(=O)[C@@H]1C2CCC(C[C@@H]1c1ccc(-c3ccsc3)cc1)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8683",
+    "validation": "m_weight unsave, calculated(341.476)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Anhalamine ; 8-Hydroxy-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline",
+    "iupac_name": "6,7-Dimethoxy-1,2,3,4-tetrahydroisoquinolin-8-ol",
+    "category": "Peyote alkaloid",
+    "index": 2221,
+    "formular": "C11H15NO3",
+    "molecular_weight": 209.242,
+    "inChl": "1S/C11H15NO3/c1-14-9-5-7-3-4-12-6-8(7)10(13)11(9)15-2/h5,12-13H,3-4,6H2,1-2H3",
+    "InChl_Key": "DVQVXTPSJBCBJI-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(c(O)c1OC)CNCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2221",
+    "validation": "m_weight unsave, calculated(209.245)"
+}

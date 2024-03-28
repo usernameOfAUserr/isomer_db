@@ -1,0 +1,13 @@
+{
+    "names": "4-Methyl-5-(4\u2032-methoxyphenyl)pyrimidine",
+    "iupac_name": "5-(4-Methoxyphenyl)-4-methylpyrimidine",
+    "category": "data not stored",
+    "index": 7099,
+    "formular": "C12H12N2O",
+    "molecular_weight": 200.236,
+    "inChl": "1S/C12H12N2O/c1-9-12(7-13-8-14-9)10-3-5-11(15-2)6-4-10/h3-8H,1-2H3",
+    "InChl_Key": "QTSOLMHKDAQWCD-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(-c2cncnc2C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7099",
+    "validation": "m_weight unsave, calculated(200.24099999999999)"
+}

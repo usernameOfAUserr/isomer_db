@@ -1,0 +1,13 @@
+{
+    "names": "THPC",
+    "iupac_name": "N,N-Diethyl-1-methyl-1,2,5,6-tetrahydropyridine-3-carboxamide",
+    "category": "data not stored",
+    "index": 1815,
+    "formular": "C11H20N2O",
+    "molecular_weight": 196.289,
+    "inChl": "1S/C11H20N2O/c1-4-13(5-2)11(14)10-7-6-8-12(3)9-10/h7H,4-6,8-9H2,1-3H3",
+    "InChl_Key": "QELRLWHVJBVJOI-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)C(=O)C1=CCCN(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1815",
+    "validation": "m_weight unsave, calculated(196.29399999999995)"
+}

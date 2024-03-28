@@ -1,0 +1,13 @@
+{
+    "names": "AB-4en-PINACA ; AMP-4en-PINACA",
+    "iupac_name": "N-[(2S)-1-Amino-1-oxobutan-2-yl]-1-(pent-4-en-1-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 13847,
+    "formular": "C17H22N4O2",
+    "molecular_weight": 314.382,
+    "inChl": "1S/C17H22N4O2/c1-3-5-8-11-21-14-10-7-6-9-12(14)15(20-21)17(23)19-13(4-2)16(18)22/h3,6-7,9-10,13H,1,4-5,8,11H2,2H3,(H2,18,22)(H,19,23)/t13-/m0/s1",
+    "InChl_Key": "SHELRBQJCJWWQC-ZDUSSCGKSA-N",
+    "SMILES": "C=CCCCn1nc(C(=O)N[C@@H](CC)C(N)=O)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13847",
+    "validation": "m_weight unsave, calculated(314.3890000000001)"
+}

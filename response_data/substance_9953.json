@@ -1,0 +1,13 @@
+{
+    "names": "THC isomer 1,3",
+    "iupac_name": "(6aR)-6,6,9-Trimethyl-1-pentyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-3-ol",
+    "category": "cannabinodids",
+    "index": 9953,
+    "formular": "C21H30O2",
+    "molecular_weight": 314.462,
+    "inChl": "1S/C21H30O2/c1-5-6-7-8-15-12-16(22)13-19-20(15)17-11-14(2)9-10-18(17)21(3,4)23-19/h11-13,17-18,22H,5-10H2,1-4H3/t17?,18-/m1/s1",
+    "InChl_Key": "SBDHCUZETSWOAX-QRWMCTBCSA-N",
+    "SMILES": "CCCCCc1cc(O)cc2c1C1C=C(C)CC[C@H]1C(C)(C)O2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9953",
+    "validation": "m_weight unsave, calculated(314.46900000000005)"
+}

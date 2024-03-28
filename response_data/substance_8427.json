@@ -1,0 +1,13 @@
+{
+    "names": "13-Fluoronoribogaine ; 13-Fluoro-12-hydroxy-16-oxaibogamine ; Furanyl-13-fluoronoribogaine",
+    "iupac_name": "13-Fluoro-16-oxaibogamin-12-ol ; (6R,6aS,7S,9R)-7-Ethyl-3-fluoro-6,6a,7,8,9,10,12,13-octahydro-6,9-methano[1]benzofuro[2,3-d]pyrido[1,2-a]azepin-2-ol",
+    "category": "data not stored",
+    "index": 8427,
+    "formular": "C19H22FNO2",
+    "molecular_weight": 315.382,
+    "inChl": "1S/C19H22FNO2/c1-2-11-5-10-6-14-18(11)21(9-10)4-3-12-13-7-16(22)15(20)8-17(13)23-19(12)14/h7-8,10-11,14,18,22H,2-6,9H2,1H3/t10-,11+,14-,18+/m1/s1",
+    "InChl_Key": "ZYDWOEKRQZMNJO-GRINDBAHSA-N",
+    "SMILES": "CC[C@H]1C[C@@H]2C[C@H]3c4oc5cc(F)c(O)cc5c4CCN(C2)[C@@H]13",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8427",
+    "validation": "m_weight unsave, calculated(315.3879999999999)"
+}

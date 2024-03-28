@@ -1,0 +1,13 @@
+{
+    "names": "25I-NMePyr ; N-(Pyridin-2-ylmethyl)-4-iodo-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(4-Iodo-2,5-dimethoxyphenyl)-N-[(pyridin-2-yl)methyl]ethan-1-amine ; 2-(4-Iodo-2,5-dimethoxyphenyl)-N-(pyridin-2-ylmethyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 5508,
+    "formular": "C16H19IN2O2",
+    "molecular_weight": 398.239,
+    "inChl": "1S/C16H19IN2O2/c1-20-15-10-14(17)16(21-2)9-12(15)6-8-18-11-13-5-3-4-7-19-13/h3-5,7,9-10,18H,6,8,11H2,1-2H3",
+    "InChl_Key": "WIGLUKMOENSTNX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2ccccn2)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5508",
+    "validation": "m_weight unsave, calculated(398.24400000000014)"
+}

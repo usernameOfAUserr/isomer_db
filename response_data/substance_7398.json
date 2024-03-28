@@ -1,0 +1,13 @@
+{
+    "names": "2-Iodo-N,N-MePEA ; 2-Iodo-N,N-dimethylphenylethylamine",
+    "iupac_name": "2-(2-Iodophenyl)-N,N-dimethylethan-1-amine",
+    "category": "data not stored",
+    "index": 7398,
+    "formular": "C10H14IN",
+    "molecular_weight": 275.129,
+    "inChl": "1S/C10H14IN/c1-12(2)8-7-9-5-3-4-6-10(9)11/h3-6H,7-8H2,1-2H3",
+    "InChl_Key": "DZXWWNHYEFKCPW-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1ccccc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7398",
+    "validation": "m_weight unsave, calculated(275.133)"
+}

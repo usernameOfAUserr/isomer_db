@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl-furanyl-norfentanyl",
+    "iupac_name": "N-(1-Methylpiperidin-4-yl)-N-phenylfuran-2-carboxamide",
+    "category": "Fentanyl",
+    "index": 9317,
+    "formular": "C17H20N2O2",
+    "molecular_weight": 284.353,
+    "inChl": "1S/C17H20N2O2/c1-18-11-9-15(10-12-18)19(14-6-3-2-4-7-14)17(20)16-8-5-13-21-16/h2-8,13,15H,9-12H2,1H3",
+    "InChl_Key": "ZEBYHDNSNNNUFC-UHFFFAOYSA-N",
+    "SMILES": "CN1CCC(N(C(=O)c2ccco2)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9317",
+    "validation": "m_weight unsave, calculated(284.35900000000004)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-mor-T ; 5-Methoxy-mor-tryptamine",
+    "iupac_name": "5-Methoxy-3-[2-(morpholin-4-yl)ethyl]-1H-indole",
+    "category": "Tryptamine",
+    "index": 5169,
+    "formular": "C15H20N2O2",
+    "molecular_weight": 260.332,
+    "inChl": "1S/C15H20N2O2/c1-18-13-2-3-15-14(10-13)12(11-16-15)4-5-17-6-8-19-9-7-17/h2-3,10-11,16H,4-9H2,1H3",
+    "InChl_Key": "NKTMQWGDNZZJHQ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN3CCOCC3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5169",
+    "validation": "m_weight unsave, calculated(260.3369999999999)"
+}

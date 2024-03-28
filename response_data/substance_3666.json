@@ -1,0 +1,13 @@
+{
+    "names": "4-Bromo-2-[(diphenylmethanesulfinyl)methyl]thiophene",
+    "iupac_name": "3666 ; C18H15BrOS2 ; 391.345",
+    "category": "data not stored",
+    "index": 3666,
+    "formular": "C18H15BrOS2",
+    "molecular_weight": 391.345,
+    "inChl": "1S/C18H15BrOS2/c19-16-11-17(21-12-16)13-22(20)18(14-7-3-1-4-8-14)15-9-5-2-6-10-15/h1-12,18H,13H2",
+    "InChl_Key": "IKCLTFFWWUNISJ-UHFFFAOYSA-N",
+    "SMILES": "O=S(Cc1cc(Br)cs1)C(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3666",
+    "validation": "m_weight unsave, calculated(391.355)"
+}

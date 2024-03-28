@@ -1,0 +1,13 @@
+{
+    "names": "m-Fluoro-furanylfentanyl ; m-F-Fu-F ; 3\u2032-Fluoro-furanylfentanyl",
+    "iupac_name": "N-(3-Fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]furan-2-carboxamide",
+    "category": "Fentanyl",
+    "index": 7448,
+    "formular": "C24H25FN2O2",
+    "molecular_weight": 392.466,
+    "inChl": "1S/C24H25FN2O2/c25-20-8-4-9-22(18-20)27(24(28)23-10-5-17-29-23)21-12-15-26(16-13-21)14-11-19-6-2-1-3-7-19/h1-10,17-18,21H,11-16H2",
+    "InChl_Key": "NLTYWPGXHYUTRN-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1ccco1)N(c1cccc(F)c1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7448",
+    "validation": "m_weight unsave, calculated(392.4740000000002)"
+}

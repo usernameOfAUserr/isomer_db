@@ -1,0 +1,13 @@
+{
+    "names": "2-Phenylcyclobutan-1-amine ; 2-Phenylcyclobutanamine",
+    "iupac_name": "1471 ; C10H13N ; 147.217",
+    "category": "Phenetylamine",
+    "index": 1471,
+    "formular": "C10H13N",
+    "molecular_weight": 147.217,
+    "inChl": "1S/C10H13N/c11-10-7-6-9(10)8-4-2-1-3-5-8/h1-5,9-10H,6-7,11H2",
+    "InChl_Key": "PKMQLQANCCIABY-UHFFFAOYSA-N",
+    "SMILES": "NC1CCC1c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1471",
+    "validation": "m_weight unsave, calculated(147.22099999999998)"
+}

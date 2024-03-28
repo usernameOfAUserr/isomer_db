@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl-MPA ; N-Methylmethiopropamine",
+    "iupac_name": "N,N-Dimethyl-1-(thiophen-2-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 7025,
+    "formular": "C9H15NS",
+    "molecular_weight": 169.287,
+    "inChl": "1S/C9H15NS/c1-8(10(2)3)7-9-5-4-6-11-9/h4-6,8H,7H2,1-3H3",
+    "InChl_Key": "AUJLBZNZBJWZIN-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1cccs1)N(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7025",
+    "validation": "m_weight unsave, calculated(169.29299999999998)"
+}

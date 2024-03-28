@@ -1,0 +1,13 @@
+{
+    "names": "PEP",
+    "iupac_name": "1-(1-Phenylethyl)piperazine",
+    "category": "data not stored",
+    "index": 2671,
+    "formular": "C12H18N2",
+    "molecular_weight": 190.285,
+    "inChl": "1S/C12H18N2/c1-11(12-5-3-2-4-6-12)14-9-7-13-8-10-14/h2-6,11,13H,7-10H2,1H3",
+    "InChl_Key": "PYBNQKSXWAIBKN-UHFFFAOYSA-N",
+    "SMILES": "CC(c1ccccc1)N1CCNCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2671",
+    "validation": "m_weight unsave, calculated(190.28999999999994)"
+}

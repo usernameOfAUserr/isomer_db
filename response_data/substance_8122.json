@@ -1,0 +1,13 @@
+{
+    "names": "O-806",
+    "iupac_name": "(6aR,10aR)-3-(6-Bromohex-2-yn-1-yl)-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-ol",
+    "category": "cannabinodids",
+    "index": 8122,
+    "formular": "C22H27BrO2",
+    "molecular_weight": 403.353,
+    "inChl": "1S/C22H27BrO2/c1-15-9-10-18-17(12-15)21-19(24)13-16(8-6-4-5-7-11-23)14-20(21)25-22(18,2)3/h9,13-14,17-18,24H,5,7-8,10-12H2,1-3H3/t17-,18-/m1/s1",
+    "InChl_Key": "QHFROVGTWNPDOW-QZTJIDSGSA-N",
+    "SMILES": "CC1=CC[C@@H]2[C@@H](C1)c1c(O)cc(CC#CCCCBr)cc1OC2(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8122",
+    "validation": "m_weight unsave, calculated(403.36000000000024)"
+}

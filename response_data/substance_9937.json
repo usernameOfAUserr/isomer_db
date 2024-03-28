@@ -1,0 +1,13 @@
+{
+    "names": "BU2E-LAD ; E-CROTLAD",
+    "iupac_name": "6-[(2E)-But-2-en-1-yl]-N,N-diethyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-7-[(2E)-But-2-en-1-yl]-N,N-diethyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-6-[(2E)-But-2-en-1-yl]-N,N-diethyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 9937,
+    "formular": "C23H29N3O",
+    "molecular_weight": 363.496,
+    "inChl": "1S/C23H29N3O/c1-4-7-11-26-15-17(23(27)25(5-2)6-3)12-19-18-9-8-10-20-22(18)16(14-24-20)13-21(19)26/h4,7-10,12,14,17,21,24H,5-6,11,13,15H2,1-3H3/b7-4+/t17-,21-/m1/s1",
+    "InChl_Key": "CPXGMBJSSDNYNL-PAXTWUASSA-N",
+    "SMILES": "C/C=C/CN1C[C@H](C(=O)N(CC)CC)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9937",
+    "validation": "m_weight unsave, calculated(363.50500000000017)"
+}

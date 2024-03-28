@@ -1,0 +1,13 @@
+{
+    "names": "WO 2008/032164 #304",
+    "iupac_name": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-3-[(4-fluorocyclohex-3-en-1-yl)methyl]-2-oxo-2,3-dihydro-1H-benzimidazole-1-carboxamide",
+    "category": "cannabinodids",
+    "index": 4899,
+    "formular": "C21H27FN4O3",
+    "molecular_weight": 402.462,
+    "inChl": "1S/C21H27FN4O3/c1-21(2,3)17(18(23)27)24-19(28)26-16-7-5-4-6-15(16)25(20(26)29)12-13-8-10-14(22)11-9-13/h4-7,10,13,17H,8-9,11-12H2,1-3H3,(H2,23,27)(H,24,28)/t13?,17-/m1/s1",
+    "InChl_Key": "KUDMIVGFPCVIEE-LRHAYUFXSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)n1c(=O)n(CC2CC=C(F)CC2)c2ccccc21)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4899",
+    "validation": "m_weight unsave, calculated(402.4700000000002)"
+}

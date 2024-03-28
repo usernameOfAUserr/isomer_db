@@ -1,0 +1,13 @@
+{
+    "names": "2-Bromo-5,6,7,8,9,10-hexahydropyrido[3\u2032,2\u2032:4,5]pyrrolo[2,3-d]azepine",
+    "iupac_name": "12988 ; C11H12BrN3 ; 266.137",
+    "category": "data not stored",
+    "index": 12988,
+    "formular": "C11H12BrN3",
+    "molecular_weight": 266.137,
+    "inChl": "1S/C11H12BrN3/c12-10-2-1-8-7-3-5-13-6-4-9(7)14-11(8)15-10/h1-2,13H,3-6H2,(H,14,15)",
+    "InChl_Key": "DDKLNLAJZBBWBR-UHFFFAOYSA-N",
+    "SMILES": "Brc1ccc2c3c([nH]c2n1)CCNCC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12988",
+    "validation": "m_weight unsave, calculated(266.142)"
+}

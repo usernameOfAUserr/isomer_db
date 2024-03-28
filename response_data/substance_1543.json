@@ -1,0 +1,13 @@
+{
+    "names": "RU-24213",
+    "iupac_name": "3-{2-[(2-Phenylethyl)(propyl)amino]ethyl}phenol",
+    "category": "data not stored",
+    "index": 1543,
+    "formular": "C19H25NO",
+    "molecular_weight": 283.408,
+    "inChl": "1S/C19H25NO/c1-2-13-20(14-11-17-7-4-3-5-8-17)15-12-18-9-6-10-19(21)16-18/h3-10,16,21H,2,11-15H2,1H3",
+    "InChl_Key": "QUZUPTMNMJTYGL-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCc1ccccc1)CCc1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1543",
+    "validation": "m_weight unsave, calculated(283.41499999999996)"
+}

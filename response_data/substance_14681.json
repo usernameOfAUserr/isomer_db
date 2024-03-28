@@ -1,0 +1,13 @@
+{
+    "names": "4-EtO-EA",
+    "iupac_name": "1-(4-Ethoxyphenyl)-N-ethylpropan-2-amine",
+    "category": "data not stored",
+    "index": 14681,
+    "formular": "C13H21NO",
+    "molecular_weight": 207.312,
+    "inChl": "1S/C13H21NO/c1-4-14-11(3)10-12-6-8-13(9-7-12)15-5-2/h6-9,11,14H,4-5,10H2,1-3H3",
+    "InChl_Key": "NLQDPTAVINMZTP-UHFFFAOYSA-N",
+    "SMILES": "CCNC(C)Cc1ccc(OCC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14681",
+    "validation": "m_weight unsave, calculated(207.31699999999998)"
+}

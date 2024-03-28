@@ -1,0 +1,13 @@
+{
+    "names": "\u03948-THC-1,1-DMP",
+    "iupac_name": "(6aR,10aR)-6,6,9-Trimethyl-3-(2-methylhexan-2-yl)-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-ol",
+    "category": "cannabinodids",
+    "index": 4640,
+    "formular": "C23H34O2",
+    "molecular_weight": 342.515,
+    "inChl": "1S/C23H34O2/c1-7-8-11-22(3,4)16-13-19(24)21-17-12-15(2)9-10-18(17)23(5,6)25-20(21)14-16/h9,13-14,17-18,24H,7-8,10-12H2,1-6H3/t17-,18-/m1/s1",
+    "InChl_Key": "ADXMNDLGCLUVBL-QZTJIDSGSA-N",
+    "SMILES": "CCCCC(C)(C)c1cc(O)c2c(c1)OC(C)(C)[C@@H]1CC=C(C)C[C@@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4640",
+    "validation": "m_weight unsave, calculated(342.52300000000014)"
+}

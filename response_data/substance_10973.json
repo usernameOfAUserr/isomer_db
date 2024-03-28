@@ -1,0 +1,13 @@
+{
+    "names": "Isohistamine",
+    "iupac_name": "2-(1H-Imidazol-2-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10973,
+    "formular": "C5H9N3",
+    "molecular_weight": 111.145,
+    "inChl": "1S/C5H9N3/c6-2-1-5-7-3-4-8-5/h3-4H,1-2,6H2,(H,7,8)",
+    "InChl_Key": "DEURIUYJZZLADZ-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ncc[nH]1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10973",
+    "validation": "m_weight unsave, calculated(111.14799999999998)"
+}

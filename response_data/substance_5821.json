@@ -1,0 +1,13 @@
+{
+    "names": "5-Cyclohexylmethoxy-AMT ; 5-Cyclohexylmethoxy-\u03b1-methyltryptamine",
+    "iupac_name": "1-[5-(Cyclohexylmethoxy)-1H-indol-3-yl]propan-2-amine",
+    "category": "Tryptamine",
+    "index": 5821,
+    "formular": "C18H26N2O",
+    "molecular_weight": 286.412,
+    "inChl": "1S/C18H26N2O/c1-13(19)9-15-11-20-18-8-7-16(10-17(15)18)21-12-14-5-3-2-4-6-14/h7-8,10-11,13-14,20H,2-6,9,12,19H2,1H3",
+    "InChl_Key": "PZFFXROITAQWFE-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c[nH]c2ccc(OCC3CCCCC3)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5821",
+    "validation": "m_weight unsave, calculated(286.4189999999999)"
+}

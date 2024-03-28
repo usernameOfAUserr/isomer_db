@@ -1,0 +1,13 @@
+{
+    "names": "2-(3-Hydroxycyclohexyl)phenol",
+    "iupac_name": "13949 ; C12H16O2 ; 192.254",
+    "category": "cannabinodids",
+    "index": 13949,
+    "formular": "C12H16O2",
+    "molecular_weight": 192.254,
+    "inChl": "1S/C12H16O2/c13-10-5-3-4-9(8-10)11-6-1-2-7-12(11)14/h1-2,6-7,9-10,13-14H,3-5,8H2",
+    "InChl_Key": "VSTTZJOLOBELBM-UHFFFAOYSA-N",
+    "SMILES": "Oc1ccccc1C1CCCC(O)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13949",
+    "validation": "m_weight unsave, calculated(192.258)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-Methyl-2,3,4,5-tetrahydro-1H-3-benzazepine",
+    "iupac_name": "2744 ; C11H15N ; 161.244",
+    "category": "data not stored",
+    "index": 2744,
+    "formular": "C11H15N",
+    "molecular_weight": 161.244,
+    "inChl": "1S/C11H15N/c1-9-8-12-7-6-10-4-2-3-5-11(9)10/h2-5,9,12H,6-8H2,1H3",
+    "InChl_Key": "ZRPYKXHZFPGPRZ-UHFFFAOYSA-N",
+    "SMILES": "CC1CNCCc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2744",
+    "validation": "m_weight unsave, calculated(161.24800000000002)"
+}

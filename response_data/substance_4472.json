@@ -1,0 +1,13 @@
+{
+    "names": "WO 2001/058869 #30",
+    "iupac_name": "2-Methyl-1-[2-(morpholin-4-yl)ethyl]-N-[2-(pyridin-2-yl)ethyl]-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4472,
+    "formular": "C23H28N4O2",
+    "molecular_weight": 392.494,
+    "inChl": "1S/C23H28N4O2/c1-18-22(23(28)25-11-9-19-6-4-5-10-24-19)20-7-2-3-8-21(20)27(18)13-12-26-14-16-29-17-15-26/h2-8,10H,9,11-17H2,1H3,(H,25,28)",
+    "InChl_Key": "MOGWIUFVSGHHJK-UHFFFAOYSA-N",
+    "SMILES": "Cc1c(C(=O)NCCc2ccccn2)c2ccccc2n1CCN1CCOCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4472",
+    "validation": "m_weight unsave, calculated(392.5030000000001)"
+}

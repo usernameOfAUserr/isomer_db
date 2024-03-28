@@ -1,0 +1,13 @@
+{
+    "names": "(6aR,10aR)-6,6,9-Trimethyl-3-(2-methyloctan-2-yl)-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-amine",
+    "iupac_name": "4789 ; C25H39NO ; 369.583",
+    "category": "cannabinodids",
+    "index": 4789,
+    "formular": "C25H39NO",
+    "molecular_weight": 369.583,
+    "inChl": "1S/C25H39NO/c1-7-8-9-10-13-24(3,4)18-15-21(26)23-19-14-17(2)11-12-20(19)25(5,6)27-22(23)16-18/h14-16,19-20H,7-13,26H2,1-6H3/t19-,20-/m1/s1",
+    "InChl_Key": "XCSQASXDTQFUHI-WOJBJXKFSA-N",
+    "SMILES": "CCCCCCC(C)(C)c1cc(N)c2c(c1)OC(C)(C)[C@@H]1CCC(C)=C[C@@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4789",
+    "validation": "m_weight unsave, calculated(369.5930000000002)"
+}

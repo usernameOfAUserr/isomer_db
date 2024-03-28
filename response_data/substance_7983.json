@@ -1,0 +1,13 @@
+{
+    "names": "1-(2,3-Dihydro-1H-benzimidazol-5-yl)propan-2-amine",
+    "iupac_name": "7983 ; C10H15N3 ; 177.246",
+    "category": "data not stored",
+    "index": 7983,
+    "formular": "C10H15N3",
+    "molecular_weight": 177.246,
+    "inChl": "1S/C10H15N3/c1-7(11)4-8-2-3-9-10(5-8)13-6-12-9/h2-3,5,7,12-13H,4,6,11H2,1H3",
+    "InChl_Key": "ONZAESCPJIEOGX-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc2c(c1)NCN2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7983",
+    "validation": "m_weight unsave, calculated(177.25099999999998)"
+}

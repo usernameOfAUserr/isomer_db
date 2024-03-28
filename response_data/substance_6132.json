@@ -1,0 +1,13 @@
+{
+    "names": "HOPr-NKE",
+    "iupac_name": "2-(2-Chlorophenyl)-2-[(3-hydroxypropyl)amino]cyclohexan-1-one",
+    "category": "data not stored",
+    "index": 6132,
+    "formular": "C15H20ClNO2",
+    "molecular_weight": 281.778,
+    "inChl": "1S/C15H20ClNO2/c16-13-7-2-1-6-12(13)15(17-10-5-11-18)9-4-3-8-14(15)19/h1-2,6-7,17-18H,3-5,8-11H2",
+    "InChl_Key": "AKWNMOUJQGVURB-UHFFFAOYSA-N",
+    "SMILES": "O=C1CCCCC1(NCCCO)c1ccccc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6132",
+    "validation": "m_weight unsave, calculated(281.783)"
+}

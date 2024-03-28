@@ -1,0 +1,13 @@
+{
+    "names": "WO 2009/106980 #545",
+    "iupac_name": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-1-[(3,3-difluorocyclobutyl)methyl]-7-fluoro-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4958,
+    "formular": "C19H23F3N4O2",
+    "molecular_weight": 396.407,
+    "inChl": "1S/C19H23F3N4O2/c1-18(2,3)15(16(23)27)24-17(28)13-11-5-4-6-12(20)14(11)26(25-13)9-10-7-19(21,22)8-10/h4-6,10,15H,7-9H2,1-3H3,(H2,23,27)(H,24,28)/t15-/m1/s1",
+    "InChl_Key": "FWUPAVNCBDFSRR-OAHLLOKOSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(CC2CC(F)(F)C2)c2c(F)cccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4958",
+    "validation": "m_weight unsave, calculated(396.4130000000001)"
+}

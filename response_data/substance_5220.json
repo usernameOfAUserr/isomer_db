@@ -1,0 +1,13 @@
+{
+    "names": "1-Phenylsulfonyl-4-MeO-DMT ; 1-Phenylsulfonyl-4-methoxy-N,N-dimethyltryptamine",
+    "iupac_name": "2-[1-(Benzenesulfonyl)-4-methoxy-1H-indol-3-yl]-N,N-dimethylethan-1-amine ; 2-[4-Methoxy-1-(phenylsulfonyl)-1H-indol-3-yl]-N,N-dimethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5220,
+    "formular": "C19H22N2O3S",
+    "molecular_weight": 358.455,
+    "inChl": "1S/C19H22N2O3S/c1-20(2)13-12-15-14-21(17-10-7-11-18(24-3)19(15)17)25(22,23)16-8-5-4-6-9-16/h4-11,14H,12-13H2,1-3H3",
+    "InChl_Key": "GEORPUVVXOBYHO-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c1c(CCN(C)C)cn2S(=O)(=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5220",
+    "validation": "m_weight unsave, calculated(358.4630000000001)"
+}

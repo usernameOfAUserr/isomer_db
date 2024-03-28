@@ -1,0 +1,13 @@
+{
+    "names": "4-DHBF-PCP",
+    "iupac_name": "1-[1-(2,3-Dihydro-1-benzofuran-5-yl)cyclohexyl]piperidine",
+    "category": "Arylcycloalkylamine",
+    "index": 3388,
+    "formular": "C19H27NO",
+    "molecular_weight": 285.424,
+    "inChl": "1S/C19H27NO/c1-3-10-19(11-4-1,20-12-5-2-6-13-20)17-7-8-18-16(15-17)9-14-21-18/h7-8,15H,1-6,9-14H2",
+    "InChl_Key": "WNQAFAPYTXIQPX-UHFFFAOYSA-N",
+    "SMILES": "c1cc2c(cc1C1(N3CCCCC3)CCCCC1)CCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3388",
+    "validation": "m_weight unsave, calculated(285.43100000000004)"
+}

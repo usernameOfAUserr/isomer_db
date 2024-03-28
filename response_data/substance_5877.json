@@ -1,0 +1,13 @@
+{
+    "names": "5-EtO-pip-T ; 5-Ethoxy-pip-tryptamine",
+    "iupac_name": "5-Ethoxy-3-[2-(piperidin-1-yl)ethyl]-1H-indole",
+    "category": "Tryptamine",
+    "index": 5877,
+    "formular": "C17H24N2O",
+    "molecular_weight": 272.385,
+    "inChl": "1S/C17H24N2O/c1-2-20-15-6-7-17-16(12-15)14(13-18-17)8-11-19-9-4-3-5-10-19/h6-7,12-13,18H,2-5,8-11H2,1H3",
+    "InChl_Key": "CYULAXWWXPVPAI-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc2[nH]cc(CCN3CCCCC3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5877",
+    "validation": "m_weight unsave, calculated(272.3919999999999)"
+}

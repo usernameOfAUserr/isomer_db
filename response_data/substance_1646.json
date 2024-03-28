@@ -1,0 +1,13 @@
+{
+    "names": "Phenylacetylfentanyl",
+    "iupac_name": "N,2-Diphenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide",
+    "category": "Fentanyl",
+    "index": 1646,
+    "formular": "C27H30N2O",
+    "molecular_weight": 398.54,
+    "inChl": "1S/C27H30N2O/c30-27(22-24-12-6-2-7-13-24)29(25-14-8-3-9-15-25)26-17-20-28(21-18-26)19-16-23-10-4-1-5-11-23/h1-15,26H,16-22H2",
+    "InChl_Key": "QIGINNCOUQLAIF-UHFFFAOYSA-N",
+    "SMILES": "O=C(Cc1ccccc1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1646",
+    "validation": "m_weight unsave, calculated(398.55)"
+}

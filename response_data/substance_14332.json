@@ -1,0 +1,13 @@
+{
+    "names": "7-Hydroxy-6-methoxy-1,2-dimethyl-3,4-dihydroisoquinolin-2-ium",
+    "iupac_name": "14332 ; C12H15NO2 ; 205.253",
+    "category": "data not stored",
+    "index": 14332,
+    "formular": "C12H15NO2",
+    "molecular_weight": 205.253,
+    "inChl": "1S/C12H15NO2/c1-8-10-7-11(14)12(15-3)6-9(10)4-5-13(8)2/h6-7H,4-5H2,1-3H3/p+1",
+    "InChl_Key": "ZCTBSWHPDXZIAG-UHFFFAOYSA-O",
+    "SMILES": "COc1cc2c(cc1O)C(C)=[N+](C)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14332",
+    "validation": "m_weight unsave, calculated(206.26500000000001)formular unsave, calculated(C12H16NO2+)"
+}

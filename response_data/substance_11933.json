@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl-\u03b2-(methylimino)-\u03b1-oxomescaline",
+    "iupac_name": "N-Methyl-2-(methylimino)-2-(3,4,5-trimethoxyphenyl)acetamide",
+    "category": "data not stored",
+    "index": 11933,
+    "formular": "C13H18N2O4",
+    "molecular_weight": 266.293,
+    "inChl": "1S/C13H18N2O4/c1-14-11(13(16)15-2)8-6-9(17-3)12(19-5)10(7-8)18-4/h6-7H,1-5H3,(H,15,16)",
+    "InChl_Key": "DNKDYKQCUGGXQS-UHFFFAOYSA-N",
+    "SMILES": "CN=C(C(=O)NC)c1cc(OC)c(OC)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11933",
+    "validation": "m_weight unsave, calculated(266.29699999999997)"
+}

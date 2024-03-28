@@ -1,0 +1,13 @@
+{
+    "names": "Desmethyltriazolam",
+    "iupac_name": "8-Chloro-6-(2-chlorophenyl)-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine",
+    "category": "Aryldiazepine",
+    "index": 3430,
+    "formular": "C16H10Cl2N4",
+    "molecular_weight": 329.183,
+    "inChl": "1S/C16H10Cl2N4/c17-10-5-6-14-12(7-10)16(11-3-1-2-4-13(11)18)19-8-15-21-20-9-22(14)15/h1-7,9H,8H2",
+    "InChl_Key": "BDQFWTZESHZRGW-UHFFFAOYSA-N",
+    "SMILES": "Clc1ccc2c(c1)C(c1ccccc1Cl)=NCc1nncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3430",
+    "validation": "m_weight unsave, calculated(329.19000000000005)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "DOM-25DIETO ; 2,5-Diethoxy-4-methylamphetamine ; DOM-2,5-DIEtO",
+    "iupac_name": "1-(2,5-Diethoxy-4-methylphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7424,
+    "formular": "C14H23NO2",
+    "molecular_weight": 237.338,
+    "inChl": "1S/C14H23NO2/c1-5-16-13-9-12(8-11(4)15)14(17-6-2)7-10(13)3/h7,9,11H,5-6,8,15H2,1-4H3",
+    "InChl_Key": "IFOVMAYZCWAFKA-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(CC(C)N)c(OCC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7424",
+    "validation": "m_weight unsave, calculated(237.34299999999996)"
+}

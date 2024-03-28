@@ -1,0 +1,13 @@
+{
+    "names": "5-Pentyloxy-DET ; 5-Pentyloxy-N,N-diethyltryptamine",
+    "iupac_name": "N,N-Diethyl-2-[5-(pentyloxy)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5870,
+    "formular": "C19H30N2O",
+    "molecular_weight": 302.454,
+    "inChl": "1S/C19H30N2O/c1-4-7-8-13-22-17-9-10-19-18(14-17)16(15-20-19)11-12-21(5-2)6-3/h9-10,14-15,20H,4-8,11-13H2,1-3H3",
+    "InChl_Key": "SOROHCUYNSCGHB-UHFFFAOYSA-N",
+    "SMILES": "CCCCCOc1ccc2[nH]cc(CCN(CC)CC)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5870",
+    "validation": "m_weight unsave, calculated(302.462)"
+}

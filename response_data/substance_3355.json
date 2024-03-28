@@ -1,0 +1,13 @@
+{
+    "names": "Norflurazepam ; Dealkylflurazepam ; Desalkylflurazepam ; N-Desalkylflurazepam ; N-Desalkylflutoprazepam ; N-Desalkyl-2-oxoquazepam ; Descarbethoxyloflazepate ; Norfludiazepam ; Norflutoprazepam ; Ro-05-3367 ; TL8002277",
+    "iupac_name": "7-Chloro-5-(2-fluorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one",
+    "category": "Aryldiazepine",
+    "index": 3355,
+    "formular": "C15H10ClFN2O",
+    "molecular_weight": 288.704,
+    "inChl": "1S/C15H10ClFN2O/c16-9-5-6-13-11(7-9)15(18-8-14(20)19-13)10-3-1-2-4-12(10)17/h1-7H,8H2,(H,19,20)",
+    "InChl_Key": "UVCOILFBWYKHHB-UHFFFAOYSA-N",
+    "SMILES": "O=C1CN=C(c2ccccc2F)c2cc(Cl)ccc2N1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3355",
+    "validation": "m_weight unsave, calculated(288.709)"
+}

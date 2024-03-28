@@ -1,0 +1,13 @@
+{
+    "names": "WO 2001/058869 #256",
+    "iupac_name": "N-[(Adamantan-1-yl)methyl]-7-methoxy-1-[2-(morpholin-4-yl)ethyl]-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4566,
+    "formular": "C26H36N4O3",
+    "molecular_weight": 452.589,
+    "inChl": "1S/C26H36N4O3/c1-32-22-4-2-3-21-23(28-30(24(21)22)6-5-29-7-9-33-10-8-29)25(31)27-17-26-14-18-11-19(15-26)13-20(12-18)16-26/h2-4,18-20H,5-17H2,1H3,(H,27,31)",
+    "InChl_Key": "HQZMOUWUZDCCAT-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c(C(=O)NCC34CC5CC(CC(C5)C3)C4)nn(CCN3CCOCC3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4566",
+    "validation": "m_weight unsave, calculated(452.59900000000033)"
+}

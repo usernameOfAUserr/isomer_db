@@ -1,0 +1,13 @@
+{
+    "names": "8-Methoxy-N-(2-phenylethyl)-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "iupac_name": "1447 ; C19H23NO ; 281.392",
+    "category": "data not stored",
+    "index": 1447,
+    "formular": "C19H23NO",
+    "molecular_weight": 281.392,
+    "inChl": "1S/C19H23NO/c1-21-19-9-5-8-16-10-11-17(14-18(16)19)20-13-12-15-6-3-2-4-7-15/h2-9,17,20H,10-14H2,1H3",
+    "InChl_Key": "JGLIFBVPJNHPLU-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c1CC(NCCc1ccccc1)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1447",
+    "validation": "m_weight unsave, calculated(281.39900000000006)"
+}

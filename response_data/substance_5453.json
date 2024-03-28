@@ -1,0 +1,13 @@
+{
+    "names": "MPP+",
+    "iupac_name": "1-Methyl-4-phenylpyridin-1-ium ; 1-Methyl-4-phenylpyridinium",
+    "category": "Phenetylamine",
+    "index": 5453,
+    "formular": "C12H12N",
+    "molecular_weight": 170.23,
+    "inChl": "1S/C12H12N/c1-13-9-7-12(8-10-13)11-5-3-2-4-6-11/h2-10H,1H3/q+1",
+    "InChl_Key": "FMGYKKMPNATWHP-UHFFFAOYSA-N",
+    "SMILES": "C[n+]1ccc(-c2ccccc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5453",
+    "validation": "m_weight unsave, calculated(170.235)formular unsave, calculated(C12H12N+)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "DESMETHYL NS ; 3,5-Dimethoxy-4-hydroxy-\u03b2-nitrostyrene",
+    "iupac_name": "2,6-Dimethoxy-4-[(E)-2-nitroethenyl]phenol",
+    "category": "data not stored",
+    "index": 14124,
+    "formular": "C10H11NO5",
+    "molecular_weight": 225.198,
+    "inChl": "1S/C10H11NO5/c1-15-8-5-7(3-4-11(13)14)6-9(16-2)10(8)12/h3-6,12H,1-2H3/b4-3+",
+    "InChl_Key": "IVLRLGAGRSQAIN-ONEGZZNKSA-N",
+    "SMILES": "COc1cc(/C=C/[N+](=O)[O-])cc(OC)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14124",
+    "validation": "m_weight unsave, calculated(225.2)"
+}

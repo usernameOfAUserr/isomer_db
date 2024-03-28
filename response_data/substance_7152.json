@@ -1,0 +1,13 @@
+{
+    "names": "4-OH-ADB-CHMINACA",
+    "iupac_name": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-1-[(4-hydroxycyclohexyl)methyl]-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 7152,
+    "formular": "C21H30N4O3",
+    "molecular_weight": 386.488,
+    "inChl": "1S/C21H30N4O3/c1-21(2,3)18(19(22)27)23-20(28)17-15-6-4-5-7-16(15)25(24-17)12-13-8-10-14(26)11-9-13/h4-7,13-14,18,26H,8-12H2,1-3H3,(H2,22,27)(H,23,28)/t13?,14?,18-/m1/s1",
+    "InChl_Key": "WTNUEUMGTOEHAA-WTNGLUPJSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(CC2CCC(O)CC2)c2ccccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7152",
+    "validation": "m_weight unsave, calculated(386.49600000000015)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-{[(4-Methylphenyl)(phenyl)methanesulfinyl]methyl}thiophene",
+    "iupac_name": "3669 ; C19H18OS2 ; 326.476",
+    "category": "data not stored",
+    "index": 3669,
+    "formular": "C19H18OS2",
+    "molecular_weight": 326.476,
+    "inChl": "1S/C19H18OS2/c1-15-9-11-17(12-10-15)19(16-6-3-2-4-7-16)22(20)14-18-8-5-13-21-18/h2-13,19H,14H2,1H3",
+    "InChl_Key": "PWZOWRNJWLJVFK-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(c2ccccc2)S(=O)Cc2cccs2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3669",
+    "validation": "m_weight unsave, calculated(326.48600000000005)"
+}

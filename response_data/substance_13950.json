@@ -1,0 +1,13 @@
+{
+    "names": "DCNK ; Deschloronorketamine ; 2\u2032-Oxo-PCA",
+    "iupac_name": "2-Amino-2-phenylcyclohexan-1-one",
+    "category": "Arylcycloalkylamine",
+    "index": 13950,
+    "formular": "C12H15NO",
+    "molecular_weight": 189.254,
+    "inChl": "1S/C12H15NO/c13-12(9-5-4-8-11(12)14)10-6-2-1-3-7-10/h1-3,6-7H,4-5,8-9,13H2",
+    "InChl_Key": "IXDGGSSUYSFGOK-UHFFFAOYSA-N",
+    "SMILES": "NC1(c2ccccc2)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13950",
+    "validation": "m_weight unsave, calculated(189.25800000000004)"
+}

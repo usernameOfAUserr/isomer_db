@@ -1,0 +1,13 @@
+{
+    "names": "1-Pentyl-4-azaindole-TFA",
+    "iupac_name": "2,2,2-Trifluoro-1-(1-pentyl-1H-pyrrolo[3,2-b]pyridin-3-yl)ethan-1-one",
+    "category": "data not stored",
+    "index": 11236,
+    "formular": "C14H15F3N2O",
+    "molecular_weight": 284.277,
+    "inChl": "1S/C14H15F3N2O/c1-2-3-4-8-19-9-10(13(20)14(15,16)17)12-11(19)6-5-7-18-12/h5-7,9H,2-4,8H2,1H3",
+    "InChl_Key": "IEAQDASKEBYQDV-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)C(F)(F)F)c2ncccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11236",
+    "validation": "m_weight unsave, calculated(284.281)"
+}

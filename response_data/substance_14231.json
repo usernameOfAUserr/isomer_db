@@ -1,0 +1,13 @@
+{
+    "names": "35B-NM1Nap",
+    "iupac_name": "2-(4-Bromo-3,5-dimethoxyphenyl)-N-[(naphthalen-1-yl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 14231,
+    "formular": "C21H22BrNO2",
+    "molecular_weight": 400.309,
+    "inChl": "1S/C21H22BrNO2/c1-24-19-12-15(13-20(25-2)21(19)22)10-11-23-14-17-8-5-7-16-6-3-4-9-18(16)17/h3-9,12-13,23H,10-11,14H2,1-2H3",
+    "InChl_Key": "MZFNYHAPESLMBU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2cccc3ccccc23)cc(OC)c1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14231",
+    "validation": "m_weight unsave, calculated(400.31600000000014)"
+}

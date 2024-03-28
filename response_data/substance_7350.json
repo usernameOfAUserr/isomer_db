@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-Hydroxytriazolam",
+    "iupac_name": "[8-Chloro-6-(2-chlorophenyl)-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepin-1-yl]methanol",
+    "category": "Aryldiazepine",
+    "index": 7350,
+    "formular": "C17H12Cl2N4O",
+    "molecular_weight": 359.209,
+    "inChl": "1S/C17H12Cl2N4O/c18-10-5-6-14-12(7-10)17(11-3-1-2-4-13(11)19)20-8-15-21-22-16(9-24)23(14)15/h1-7,24H,8-9H2",
+    "InChl_Key": "BHUYWUDMVCLHND-UHFFFAOYSA-N",
+    "SMILES": "OCc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7350",
+    "validation": "m_weight unsave, calculated(359.216)"
+}

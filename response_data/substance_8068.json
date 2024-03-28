@@ -1,0 +1,13 @@
+{
+    "names": "AB-4en-PINACA ; AB-PINACA pentenyl",
+    "iupac_name": "N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1-(pent-4-en-1-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 8068,
+    "formular": "C18H24N4O2",
+    "molecular_weight": 328.409,
+    "inChl": "1S/C18H24N4O2/c1-4-5-8-11-22-14-10-7-6-9-13(14)16(21-22)18(24)20-15(12(2)3)17(19)23/h4,6-7,9-10,12,15H,1,5,8,11H2,2-3H3,(H2,19,23)(H,20,24)/t15-/m0/s1",
+    "InChl_Key": "HPIGPAIXTIMBJA-HNNXBMFYSA-N",
+    "SMILES": "C=CCCCn1nc(C(=O)N[C@H](C(N)=O)C(C)C)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8068",
+    "validation": "m_weight unsave, calculated(328.4160000000001)"
+}

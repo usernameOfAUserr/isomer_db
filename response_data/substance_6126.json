@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-2-Me-PCMo ; Hydroxy-methyl-PCMo",
+    "iupac_name": "3-Methyl-4-[1-(morpholin-4-yl)cyclohexyl]phenol",
+    "category": "Arylcycloalkylamine",
+    "index": 6126,
+    "formular": "C17H25NO2",
+    "molecular_weight": 275.386,
+    "inChl": "1S/C17H25NO2/c1-14-13-15(19)5-6-16(14)17(7-3-2-4-8-17)18-9-11-20-12-10-18/h5-6,13,19H,2-4,7-12H2,1H3",
+    "InChl_Key": "JWXGTWSDQNIGSH-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(O)ccc1C1(N2CCOCC2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6126",
+    "validation": "m_weight unsave, calculated(275.392)"
+}

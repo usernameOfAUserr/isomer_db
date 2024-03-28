@@ -1,0 +1,13 @@
+{
+    "names": "1,1\u2032-(2,5-Dimethoxy-1,4-phenylene)di(ethan-1-one)",
+    "iupac_name": "6775 ; C12H14O4 ; 222.237",
+    "category": "data not stored",
+    "index": 6775,
+    "formular": "C12H14O4",
+    "molecular_weight": 222.237,
+    "inChl": "1S/C12H14O4/c1-7(13)9-5-12(16-4)10(8(2)14)6-11(9)15-3/h5-6H,1-4H3",
+    "InChl_Key": "FGYGGKRNTYGDPH-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(C)=O)c(OC)cc1C(C)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6775",
+    "validation": "m_weight unsave, calculated(222.23999999999998)"
+}

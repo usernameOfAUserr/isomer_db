@@ -1,0 +1,13 @@
+{
+    "names": "ADB-FUPYCA ; 5F-3,5-ADB-PFUPPYCA ; AZ-037",
+    "iupac_name": "N2-[1-(5-Fluoropentyl)-3-(4-fluorophenyl)-1H-pyrazole-5-carbonyl]-3-methyl-L-valinamide ; N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)-3-(4-fluorophenyl)-1H-pyrazole-5-carboxamide",
+    "category": "cannabinodids",
+    "index": 4469,
+    "formular": "C21H28F2N4O2",
+    "molecular_weight": 406.469,
+    "inChl": "1S/C21H28F2N4O2/c1-21(2,3)18(19(24)28)25-20(29)17-13-16(14-7-9-15(23)10-8-14)26-27(17)12-6-4-5-11-22/h7-10,13,18H,4-6,11-12H2,1-3H3,(H2,24,28)(H,25,29)/t18-/m1/s1",
+    "InChl_Key": "CMXMZASHZSECQV-GOSISDBHSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1cc(-c2ccc(F)cc2)nn1CCCCCF)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4469",
+    "validation": "m_weight unsave, calculated(406.47700000000015)"
+}

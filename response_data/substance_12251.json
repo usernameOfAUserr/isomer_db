@@ -1,0 +1,13 @@
+{
+    "names": "Lissoclibadin 3",
+    "iupac_name": "2,2\u2032-[3,4,8,9-Tetramethoxy-2,7-bis(methylsulfanyl)thianthrene-1,6-diyl]bis(N,N-dimethylethan-1-amine)",
+    "category": "Phenetylamine",
+    "index": 12251,
+    "formular": "C26H38N2O4S4",
+    "molecular_weight": 570.851,
+    "inChl": "1S/C26H38N2O4S4/c1-27(2)13-11-15-21(33-9)17(29-5)19(31-7)25-23(15)35-26-20(32-8)18(30-6)22(34-10)16(24(26)36-25)12-14-28(3)4/h11-14H2,1-10H3",
+    "InChl_Key": "DDNBLGHDDGIIFX-UHFFFAOYSA-N",
+    "SMILES": "COc1c(OC)c2c(c(CCN(C)C)c1SC)Sc1c(OC)c(OC)c(SC)c(CCN(C)C)c1S2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12251",
+    "validation": "m_weight unsave, calculated(570.8680000000004)"
+}

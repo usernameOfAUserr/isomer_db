@@ -1,0 +1,13 @@
+{
+    "names": "Fluorococaine ; 4\u2032-Fluorococaine",
+    "iupac_name": "Methyl (2R,3S)-3-[(4-fluorobenzoyl)oxy]-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "category": "data not stored",
+    "index": 2944,
+    "formular": "C17H20FNO4",
+    "molecular_weight": 321.343,
+    "inChl": "1S/C17H20FNO4/c1-19-12-7-8-13(19)15(17(21)22-2)14(9-12)23-16(20)10-3-5-11(18)6-4-10/h3-6,12-15H,7-9H2,1-2H3/t12?,13?,14-,15+/m0/s1",
+    "InChl_Key": "JRPRINGETIYVSV-PFSRBDOWSA-N",
+    "SMILES": "COC(=O)[C@@H]1C2CCC(C[C@@H]1OC(=O)c1ccc(F)cc1)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2944",
+    "validation": "m_weight unsave, calculated(321.34799999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3-Br-TMPM ; 3\u2032-Bromo-5,5-dimethylphenmetrazine",
+    "iupac_name": "2-(3-Bromophenyl)-3,5,5-trimethylmorpholine",
+    "category": "data not stored",
+    "index": 2721,
+    "formular": "C13H18BrNO",
+    "molecular_weight": 284.192,
+    "inChl": "1S/C13H18BrNO/c1-9-12(16-8-13(2,3)15-9)10-5-4-6-11(14)7-10/h4-7,9,12,15H,8H2,1-3H3",
+    "InChl_Key": "PMBNPPUXYAQSCZ-UHFFFAOYSA-N",
+    "SMILES": "CC1NC(C)(C)COC1c1cccc(Br)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2721",
+    "validation": "m_weight unsave, calculated(284.197)"
+}

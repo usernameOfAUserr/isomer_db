@@ -1,0 +1,13 @@
+{
+    "names": "6-Fluoro-4-HO-T ; 6-Fluoro-4-hydroxytryptamine",
+    "iupac_name": "3-(2-Aminoethyl)-6-fluoro-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 14494,
+    "formular": "C10H11FN2O",
+    "molecular_weight": 194.206,
+    "inChl": "1S/C10H11FN2O/c11-7-3-8-10(9(14)4-7)6(1-2-12)5-13-8/h3-5,13-14H,1-2,12H2",
+    "InChl_Key": "PDOBPTHIQPAZKB-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2cc(F)cc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14494",
+    "validation": "m_weight unsave, calculated(194.20899999999997)"
+}

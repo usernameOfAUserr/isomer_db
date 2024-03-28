@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-tryptophan ; \u03b1-Carboxy-5-methoxytryptamine",
+    "iupac_name": "5-Methoxytryptophan ; 2-Amino-3-(5-methoxy-1H-indol-3-yl)propanoic acid",
+    "category": "Tryptamine",
+    "index": 14086,
+    "formular": "C12H14N2O3",
+    "molecular_weight": 234.251,
+    "inChl": "1S/C12H14N2O3/c1-17-8-2-3-11-9(5-8)7(6-14-11)4-10(13)12(15)16/h2-3,5-6,10,14H,4,13H2,1H3,(H,15,16)",
+    "InChl_Key": "KVNPSKDDJARYKK-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CC(N)C(=O)O)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14086",
+    "validation": "m_weight unsave, calculated(234.255)"
+}

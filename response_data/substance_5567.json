@@ -1,0 +1,13 @@
+{
+    "names": "IPLA ; N-Isopropyllysergamide",
+    "iupac_name": "6-Methyl-N-(propan-2-yl)-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-7-Methyl-N-(propan-2-yl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-6-Methyl-N-(propan-2-yl)-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 5567,
+    "formular": "C19H23N3O",
+    "molecular_weight": 309.405,
+    "inChl": "1S/C19H23N3O/c1-11(2)21-19(23)13-7-15-14-5-4-6-16-18(14)12(9-20-16)8-17(15)22(3)10-13/h4-7,9,11,13,17,20H,8,10H2,1-3H3,(H,21,23)/t13-,17-/m1/s1",
+    "InChl_Key": "XSQDFRPRMRYUHM-CXAGYDPISA-N",
+    "SMILES": "CC(C)NC(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5567",
+    "validation": "m_weight unsave, calculated(309.41300000000007)"
+}

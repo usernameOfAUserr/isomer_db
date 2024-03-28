@@ -1,0 +1,13 @@
+{
+    "names": "Desloratadine",
+    "iupac_name": "8-Chloro-11-(piperidin-4-ylidene)-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine",
+    "category": "data not stored",
+    "index": 11170,
+    "formular": "C19H19ClN2",
+    "molecular_weight": 310.821,
+    "inChl": "1S/C19H19ClN2/c20-16-5-6-17-15(12-16)4-3-14-2-1-9-22-19(14)18(17)13-7-10-21-11-8-13/h1-2,5-6,9,12,21H,3-4,7-8,10-11H2",
+    "InChl_Key": "JAUOIFJMECXRGI-UHFFFAOYSA-N",
+    "SMILES": "Clc1ccc2c(c1)CCc1cccnc1C2=C1CCNCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11170",
+    "validation": "m_weight unsave, calculated(310.828)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-Fluoro-N-methyl-IPYR",
+    "iupac_name": "4-Fluoro-3-(1-methylpyrrolidin-3-yl)-1H-indole",
+    "category": "data not stored",
+    "index": 13542,
+    "formular": "C13H15FN2",
+    "molecular_weight": 218.27,
+    "inChl": "1S/C13H15FN2/c1-16-6-5-9(8-16)10-7-15-12-4-2-3-11(14)13(10)12/h2-4,7,9,15H,5-6,8H2,1H3",
+    "InChl_Key": "SIOLYNKHXBKNKV-UHFFFAOYSA-N",
+    "SMILES": "CN1CCC(c2c[nH]c3cccc(F)c23)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13542",
+    "validation": ""
+}

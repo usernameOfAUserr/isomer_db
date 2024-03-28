@@ -1,0 +1,13 @@
+{
+    "names": "2,5-Dimethoxy-4-(2-{[(2-methoxyphenyl)methyl]amino}propyl)benzonitrile",
+    "iupac_name": "13420 ; C20H24N2O3 ; 340.416",
+    "category": "data not stored",
+    "index": 13420,
+    "formular": "C20H24N2O3",
+    "molecular_weight": 340.416,
+    "inChl": "1S/C20H24N2O3/c1-14(22-13-15-7-5-6-8-18(15)23-2)9-16-10-20(25-4)17(12-21)11-19(16)24-3/h5-8,10-11,14,22H,9,13H2,1-4H3",
+    "InChl_Key": "UFWSOEUKOSPPJO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)NCc2ccccc2OC)c(OC)cc1C#N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13420",
+    "validation": "m_weight unsave, calculated(340.4230000000001)"
+}

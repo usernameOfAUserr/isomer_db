@@ -1,0 +1,13 @@
+{
+    "names": "(2-MeO-PHENETH)-LAD",
+    "iupac_name": "(8\u03b2)-N,N-Diethyl-6-[2-(2-methoxyphenyl)ethyl]-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 13749,
+    "formular": "C28H33N3O2",
+    "molecular_weight": 443.581,
+    "inChl": "1S/C28H33N3O2/c1-4-30(5-2)28(32)21-15-23-22-10-8-11-24-27(22)20(17-29-24)16-25(23)31(18-21)14-13-19-9-6-7-12-26(19)33-3/h6-12,15,17,21,25,29H,4-5,13-14,16,18H2,1-3H3/t21-,25-/m1/s1",
+    "InChl_Key": "NJLOFOBMZJFGNH-PXDATVDWSA-N",
+    "SMILES": "CCN(CC)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(CCc2ccccc2OC)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13749",
+    "validation": "m_weight unsave, calculated(443.59100000000024)"
+}

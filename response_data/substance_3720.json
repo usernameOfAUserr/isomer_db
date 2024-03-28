@@ -1,0 +1,13 @@
+{
+    "names": "LY2140023",
+    "iupac_name": "(1R,4S,5S,6S)-4-(Methionylamino)-2,2-dioxo-2\u03bb6-thiabicyclo[3.1.0]hexane-4,6-dicarboxylic acid ; (1R,4S,5S,6S)-4-[2-Amino-4-(methylsulfanyl)butanamido]-2,2-dioxo-2\u03bb6-thiabicyclo[3.1.0]hexane-4,6-dicarboxylic acid",
+    "category": "data not stored",
+    "index": 3720,
+    "formular": "C12H18N2O7S2",
+    "molecular_weight": 366.411,
+    "inChl": "1S/C12H18N2O7S2/c1-22-3-2-5(13)9(15)14-12(11(18)19)4-23(20,21)8-6(7(8)12)10(16)17/h5-8H,2-4,13H2,1H3,(H,14,15)(H,16,17)(H,18,19)/t5?,6-,7-,8+,12+/m1/s1",
+    "InChl_Key": "VOYCNOJFAJAILW-LWDQJBINSA-N",
+    "SMILES": "CSCCC(N)C(=O)N[C@@]1(C(=O)O)CS(=O)(=O)[C@H]2[C@H](C(=O)O)[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3720",
+    "validation": "m_weight unsave, calculated(366.4170000000001)"
+}

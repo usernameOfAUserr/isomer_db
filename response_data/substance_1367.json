@@ -1,0 +1,13 @@
+{
+    "names": "4-{2-[(6-Aminohexan-2-yl)amino]-1-hydroxyethyl}benzene-1,2-diol",
+    "iupac_name": "1367 ; C14H24N2O3 ; 268.352",
+    "category": "data not stored",
+    "index": 1367,
+    "formular": "C14H24N2O3",
+    "molecular_weight": 268.352,
+    "inChl": "1S/C14H24N2O3/c1-10(4-2-3-7-15)16-9-14(19)11-5-6-12(17)13(18)8-11/h5-6,8,10,14,16-19H,2-4,7,9,15H2,1H3",
+    "InChl_Key": "ZSOJCZSTSRCFTL-UHFFFAOYSA-N",
+    "SMILES": "CC(CCCCN)NCC(O)c1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1367",
+    "validation": "m_weight unsave, calculated(268.357)"
+}

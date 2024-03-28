@@ -1,0 +1,13 @@
+{
+    "names": "(Naphthalen-1-yl)[2-(pyridin-4-yl)-1H-benzimidazol-1-yl]methanone",
+    "iupac_name": "9472 ; C23H15N3O ; 349.385",
+    "category": "cannabinodids",
+    "index": 9472,
+    "formular": "C23H15N3O",
+    "molecular_weight": 349.385,
+    "inChl": "1S/C23H15N3O/c27-23(19-9-5-7-16-6-1-2-8-18(16)19)26-21-11-4-3-10-20(21)25-22(26)17-12-14-24-15-13-17/h1-15H",
+    "InChl_Key": "KKRNFHAXNZUHPV-UHFFFAOYSA-N",
+    "SMILES": "O=C(c1cccc2ccccc12)n1c(-c2ccncc2)nc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9472",
+    "validation": "m_weight unsave, calculated(349.39300000000003)"
+}

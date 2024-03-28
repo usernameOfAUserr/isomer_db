@@ -1,0 +1,13 @@
+{
+    "names": "1-(4-Chlorothiophen-2-yl)-2-[(propan-2-yl)amino]ethan-1-ol",
+    "iupac_name": "10537 ; C9H14ClNOS ; 219.732",
+    "category": "Phenetylamine",
+    "index": 10537,
+    "formular": "C9H14ClNOS",
+    "molecular_weight": 219.732,
+    "inChl": "1S/C9H14ClNOS/c1-6(2)11-4-8(12)9-3-7(10)5-13-9/h3,5-6,8,11-12H,4H2,1-2H3",
+    "InChl_Key": "YGOWRPCBESCQEU-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NCC(O)c1cc(Cl)cs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10537",
+    "validation": "m_weight unsave, calculated(219.737)"
+}

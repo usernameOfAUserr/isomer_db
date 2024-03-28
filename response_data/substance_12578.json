@@ -1,0 +1,13 @@
+{
+    "names": "2-[(4-Ethoxyphenyl)methyl]-1-[2-(1-methylpyrrolidin-2-yl)ethyl]-5-nitro-1H-benzimidazole",
+    "iupac_name": "12578 ; C23H28N4O3 ; 408.493",
+    "category": "data not stored",
+    "index": 12578,
+    "formular": "C23H28N4O3",
+    "molecular_weight": 408.493,
+    "inChl": "1S/C23H28N4O3/c1-3-30-20-9-6-17(7-10-20)15-23-24-21-16-19(27(28)29)8-11-22(21)26(23)14-12-18-5-4-13-25(18)2/h6-11,16,18H,3-5,12-15H2,1-2H3",
+    "InChl_Key": "LCSAQCJYMFXOFN-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(Cc2nc3cc([N+](=O)[O-])ccc3n2CCC2CCCN2C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12578",
+    "validation": "m_weight unsave, calculated(408.5020000000001)"
+}

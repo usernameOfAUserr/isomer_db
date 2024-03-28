@@ -1,0 +1,13 @@
+{
+    "names": "Premazepam",
+    "iupac_name": "6,7-Dimethyl-5-phenyl-3,7-dihydropyrrolo[3,4-e][1,4]diazepin-2(1H)-one",
+    "category": "Aryldiazepine",
+    "index": 3064,
+    "formular": "C15H15N3O",
+    "molecular_weight": 253.299,
+    "inChl": "1S/C15H15N3O/c1-10-14-12(9-18(10)2)17-13(19)8-16-15(14)11-6-4-3-5-7-11/h3-7,9H,8H2,1-2H3,(H,17,19)",
+    "InChl_Key": "CNWSHOJSFGGNLC-UHFFFAOYSA-N",
+    "SMILES": "Cc1c2c(cn1C)NC(=O)CN=C2c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3064",
+    "validation": "m_weight unsave, calculated(253.30499999999998)"
+}

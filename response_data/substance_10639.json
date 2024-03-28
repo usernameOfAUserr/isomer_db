@@ -1,0 +1,13 @@
+{
+    "names": "Dakaramine ; N,N-Dimethyl-4-(dimethylaminopropoxy)-3,5-diiodophenethylamine",
+    "iupac_name": "3-{4-[2-(Dimethylamino)ethyl]-2,6-diiodophenoxy}-N,N-dimethylpropan-1-amine",
+    "category": "data not stored",
+    "index": 10639,
+    "formular": "C15H24I2N2O",
+    "molecular_weight": 502.173,
+    "inChl": "1S/C15H24I2N2O/c1-18(2)7-5-9-20-15-13(16)10-12(11-14(15)17)6-8-19(3)4/h10-11H,5-9H2,1-4H3",
+    "InChl_Key": "MLOCHWQHCZWDTO-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCCOc1c(I)cc(CCN(C)C)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10639",
+    "validation": "m_weight unsave, calculated(502.1780000000002)"
+}

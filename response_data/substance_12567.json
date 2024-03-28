@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Dimethyl-3-{2-[2-(morpholin-4-yl)ethyl]-5-nitro-1H-benzimidazol-1-yl}propan-1-amine",
+    "iupac_name": "12567 ; C18H27N5O3 ; 361.439",
+    "category": "data not stored",
+    "index": 12567,
+    "formular": "C18H27N5O3",
+    "molecular_weight": 361.439,
+    "inChl": "1S/C18H27N5O3/c1-20(2)7-3-8-22-17-5-4-15(23(24)25)14-16(17)19-18(22)6-9-21-10-12-26-13-11-21/h4-5,14H,3,6-13H2,1-2H3",
+    "InChl_Key": "XDQRQHQVEOAAEK-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCCn1c(CCN2CCOCC2)nc2cc([N+](=O)[O-])ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12567",
+    "validation": "m_weight unsave, calculated(361.446)"
+}

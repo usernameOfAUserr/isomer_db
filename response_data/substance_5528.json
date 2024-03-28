@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-NALT ; 5-Methoxy-N-allyltryptamine",
+    "iupac_name": "N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]prop-2-en-1-amine",
+    "category": "Tryptamine",
+    "index": 5528,
+    "formular": "C14H18N2O",
+    "molecular_weight": 230.306,
+    "inChl": "1S/C14H18N2O/c1-3-7-15-8-6-11-10-16-14-5-4-12(17-2)9-13(11)14/h3-5,9-10,15-16H,1,6-8H2,2H3",
+    "InChl_Key": "GTUMVYJHXMIYKV-UHFFFAOYSA-N",
+    "SMILES": "C=CCNCCc1c[nH]c2ccc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5528",
+    "validation": "m_weight unsave, calculated(230.311)"
+}

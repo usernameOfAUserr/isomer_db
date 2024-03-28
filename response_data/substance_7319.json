@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Aminomethyl-MTPEA ; \u03b2-Aminomethyl-4-methylthiophenylethylamine",
+    "iupac_name": "2-[4-(Methylsulfanyl)phenyl]propane-1,3-diamine",
+    "category": "data not stored",
+    "index": 7319,
+    "formular": "C10H16N2S",
+    "molecular_weight": 196.312,
+    "inChl": "1S/C10H16N2S/c1-13-10-4-2-8(3-5-10)9(6-11)7-12/h2-5,9H,6-7,11-12H2,1H3",
+    "InChl_Key": "OYVKVXVFMSBMHA-UHFFFAOYSA-N",
+    "SMILES": "CSc1ccc(C(CN)CN)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7319",
+    "validation": "m_weight unsave, calculated(196.31899999999993)"
+}

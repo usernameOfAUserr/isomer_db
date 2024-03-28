@@ -1,0 +1,13 @@
+{
+    "names": "2-Cl-5-Et-DOB ; 4-Bromo-2-chloro-5-ethyl-3,6-dimethoxyamphetamine",
+    "iupac_name": "1-(4-Bromo-2-chloro-5-ethyl-3,6-dimethoxyphenyl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10447,
+    "formular": "C13H19BrClNO2",
+    "molecular_weight": 336.652,
+    "inChl": "1S/C13H19BrClNO2/c1-5-8-10(14)13(18-4)11(15)9(6-7(2)16)12(8)17-3/h7H,5-6,16H2,1-4H3",
+    "InChl_Key": "INMNNJCOMXICBK-UHFFFAOYSA-N",
+    "SMILES": "CCc1c(Br)c(OC)c(Cl)c(CC(C)N)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10447",
+    "validation": "m_weight unsave, calculated(336.6570000000001)"
+}

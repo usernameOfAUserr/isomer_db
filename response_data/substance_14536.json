@@ -1,0 +1,13 @@
+{
+    "names": "2-(8-Methoxybenzo[1,2-b:5,4-b\u2032]difuran-4-yl)ethan-1-amine",
+    "iupac_name": "14536 ; C13H13NO3 ; 231.247",
+    "category": "data not stored",
+    "index": 14536,
+    "formular": "C13H13NO3",
+    "molecular_weight": 231.247,
+    "inChl": "1S/C13H13NO3/c1-15-13-11-9(3-6-16-11)8(2-5-14)10-4-7-17-12(10)13/h3-4,6-7H,2,5,14H2,1H3",
+    "InChl_Key": "ORPNKKWBNQGHDO-UHFFFAOYSA-N",
+    "SMILES": "COc1c2occc2c(CCN)c2ccoc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14536",
+    "validation": "m_weight unsave, calculated(231.25099999999995)"
+}

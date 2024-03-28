@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1,\u03b2-Oxo-5-methyl-4-AcO-DMT ; \u03b1,\u03b2-Oxo-5-methyl-4-acetoxy-N,N-dimethyltryptamine",
+    "iupac_name": "3-[(Dimethylamino)(oxo)acetyl]-5-methyl-1H-indol-4-yl acetate",
+    "category": "Tryptamine",
+    "index": 13856,
+    "formular": "C15H16N2O4",
+    "molecular_weight": 288.299,
+    "inChl": "1S/C15H16N2O4/c1-8-5-6-11-12(14(8)21-9(2)18)10(7-16-11)13(19)15(20)17(3)4/h5-7,16H,1-4H3",
+    "InChl_Key": "QQPBMNLGKRCHLE-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Oc1c(C)ccc2[nH]cc(C(=O)C(=O)N(C)C)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13856",
+    "validation": "m_weight unsave, calculated(288.303)"
+}

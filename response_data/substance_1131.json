@@ -1,0 +1,13 @@
+{
+    "names": "Chavibetol ; 3-Hydroxy-4-methoxyphenylprop-2-ene",
+    "iupac_name": "2-Methoxy-5-(prop-2-en-1-yl)phenol",
+    "category": "Essential oil",
+    "index": 1131,
+    "formular": "C10H12O2",
+    "molecular_weight": 164.201,
+    "inChl": "1S/C10H12O2/c1-3-4-8-5-6-10(12-2)9(11)7-8/h3,5-7,11H,1,4H2,2H3",
+    "InChl_Key": "NPBVQXIMTZKSBA-UHFFFAOYSA-N",
+    "SMILES": "C=CCc1ccc(OC)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1131",
+    "validation": "m_weight unsave, calculated(164.20399999999995)"
+}

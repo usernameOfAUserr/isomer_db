@@ -1,0 +1,13 @@
+{
+    "names": "{[2-(1H-Indol-3-yl)ethyl](methyl)amino}acetonitrile",
+    "iupac_name": "14552 ; C13H15N3 ; 213.278",
+    "category": "Tryptamine",
+    "index": 14552,
+    "formular": "C13H15N3",
+    "molecular_weight": 213.278,
+    "inChl": "1S/C13H15N3/c1-16(9-7-14)8-6-11-10-15-13-5-3-2-4-12(11)13/h2-5,10,15H,6,8-9H2,1H3",
+    "InChl_Key": "GJCYGUSMPNUVLB-UHFFFAOYSA-N",
+    "SMILES": "CN(CC#N)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14552",
+    "validation": "m_weight unsave, calculated(213.284)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Remacemide ; PR 934-423",
+    "iupac_name": "N-(1,2-Diphenylpropan-2-yl)glycinamide ; 2-Amino-N-(1,2-diphenylpropan-2-yl)acetamide",
+    "category": "data not stored",
+    "index": 974,
+    "formular": "C17H20N2O",
+    "molecular_weight": 268.354,
+    "inChl": "1S/C17H20N2O/c1-17(19-16(20)13-18,15-10-6-3-7-11-15)12-14-8-4-2-5-9-14/h2-11H,12-13,18H2,1H3,(H,19,20)",
+    "InChl_Key": "YSGASDXSLKIKOD-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)(NC(=O)CN)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=974",
+    "validation": "m_weight unsave, calculated(268.36)"
+}

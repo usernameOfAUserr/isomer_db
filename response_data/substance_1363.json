@@ -1,0 +1,13 @@
+{
+    "names": "N-(3-{[2-(3,4-Dihydroxyphenyl)-2-hydroxyethyl]amino}propyl)acetamide",
+    "iupac_name": "1363 ; C13H20N2O4 ; 268.309",
+    "category": "data not stored",
+    "index": 1363,
+    "formular": "C13H20N2O4",
+    "molecular_weight": 268.309,
+    "inChl": "1S/C13H20N2O4/c1-9(16)15-6-2-5-14-8-13(19)10-3-4-11(17)12(18)7-10/h3-4,7,13-14,17-19H,2,5-6,8H2,1H3,(H,15,16)",
+    "InChl_Key": "JPWXFMHPYJXHQC-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NCCCNCC(O)c1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1363",
+    "validation": "m_weight unsave, calculated(268.313)"
+}

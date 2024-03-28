@@ -1,0 +1,13 @@
+{
+    "names": "(3R)-3-(Oxan-4-yl)-N-(2-phenylpropan-2-yl)-2,3-dihydro[1,4]oxazino[2,3,4-hi]indole-6-carboxamide",
+    "iupac_name": "7792 ; C25H28N2O3 ; 404.501",
+    "category": "cannabinodids",
+    "index": 7792,
+    "formular": "C25H28N2O3",
+    "molecular_weight": 404.501,
+    "inChl": "1S/C25H28N2O3/c1-25(2,18-7-4-3-5-8-18)26-24(28)20-15-27-21(17-11-13-29-14-12-17)16-30-22-10-6-9-19(20)23(22)27/h3-10,15,17,21H,11-14,16H2,1-2H3,(H,26,28)/t21-/m0/s1",
+    "InChl_Key": "FERGMHWXZLINCH-NRFANRHFSA-N",
+    "SMILES": "CC(C)(NC(=O)c1cn2c3c(cccc13)OC[C@H]2C1CCOCC1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7792",
+    "validation": "m_weight unsave, calculated(404.5100000000001)"
+}

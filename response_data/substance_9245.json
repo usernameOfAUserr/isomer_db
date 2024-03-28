@@ -1,0 +1,13 @@
+{
+    "names": "4-[(3-Fluorophenyl)methyl]-1-(2-phenylethyl)piperidin-4-yl propanoate",
+    "iupac_name": "9245 ; C23H28FNO2 ; 369.472",
+    "category": "data not stored",
+    "index": 9245,
+    "formular": "C23H28FNO2",
+    "molecular_weight": 369.472,
+    "inChl": "1S/C23H28FNO2/c1-2-22(26)27-23(18-20-9-6-10-21(24)17-20)12-15-25(16-13-23)14-11-19-7-4-3-5-8-19/h3-10,17H,2,11-16,18H2,1H3",
+    "InChl_Key": "RLFXUZIDTSDOAJ-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)OC1(Cc2cccc(F)c2)CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9245",
+    "validation": "m_weight unsave, calculated(369.4800000000001)"
+}

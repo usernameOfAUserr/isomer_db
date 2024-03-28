@@ -1,0 +1,13 @@
+{
+    "names": "Chlorprothixene",
+    "iupac_name": "(3Z)-3-(2-Chloro-9H-thioxanthen-9-ylidene)-N,N-dimethylpropan-1-amine",
+    "category": "data not stored",
+    "index": 9516,
+    "formular": "C18H18ClNS",
+    "molecular_weight": 315.86,
+    "inChl": "1S/C18H18ClNS/c1-20(2)11-5-7-14-15-6-3-4-8-17(15)21-18-10-9-13(19)12-16(14)18/h3-4,6-10,12H,5,11H2,1-2H3/b14-7-",
+    "InChl_Key": "WSPOMRSOLSGNFJ-AUWJEWJLSA-N",
+    "SMILES": "CN(C)CC/C=C1/c2ccccc2Sc2ccc(Cl)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9516",
+    "validation": "m_weight unsave, calculated(315.869)"
+}

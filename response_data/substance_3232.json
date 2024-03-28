@@ -1,0 +1,13 @@
+{
+    "names": "Cyclohexylfentanyl",
+    "iupac_name": "N-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]cyclohexanecarboxamide",
+    "category": "Fentanyl",
+    "index": 3232,
+    "formular": "C26H34N2O",
+    "molecular_weight": 390.561,
+    "inChl": "1S/C26H34N2O/c29-26(23-12-6-2-7-13-23)28(24-14-8-3-9-15-24)25-17-20-27(21-18-25)19-16-22-10-4-1-5-11-22/h1,3-5,8-11,14-15,23,25H,2,6-7,12-13,16-21H2",
+    "InChl_Key": "CWLVCTNETVWMMZ-UHFFFAOYSA-N",
+    "SMILES": "O=C(C1CCCCC1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3232",
+    "validation": "m_weight unsave, calculated(390.57100000000014)"
+}

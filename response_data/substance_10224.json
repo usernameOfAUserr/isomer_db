@@ -1,0 +1,13 @@
+{
+    "names": "Pronethalol",
+    "iupac_name": "1-(Naphthalen-2-yl)-2-[(propan-2-yl)amino]ethan-1-ol",
+    "category": "Phenetylamine",
+    "index": 10224,
+    "formular": "C15H19NO",
+    "molecular_weight": 229.317,
+    "inChl": "1S/C15H19NO/c1-11(2)16-10-15(17)14-8-7-12-5-3-4-6-13(12)9-14/h3-9,11,15-17H,10H2,1-2H3",
+    "InChl_Key": "HRSANNODOVBCST-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NCC(O)c1ccc2ccccc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10224",
+    "validation": "m_weight unsave, calculated(229.323)"
+}

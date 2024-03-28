@@ -1,0 +1,13 @@
+{
+    "names": "3-F-4-HO-5-MBAL",
+    "iupac_name": "3-Fluoro-4-hydroxy-5-methoxybenzaldehyde",
+    "category": "Phenetylamine",
+    "index": 12217,
+    "formular": "C8H7FO3",
+    "molecular_weight": 170.138,
+    "inChl": "1S/C8H7FO3/c1-12-7-3-5(4-10)2-6(9)8(7)11/h2-4,11H,1H3",
+    "InChl_Key": "OOGOFUKAJDPHDJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C=O)cc(F)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12217",
+    "validation": "m_weight unsave, calculated(170.13899999999998)"
+}

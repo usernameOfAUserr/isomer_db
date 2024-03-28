@@ -1,0 +1,13 @@
+{
+    "names": "CBDD ; Cannabidiol dimethyl ether",
+    "iupac_name": "(1R,2R)-2\u2032,6\u2032-Dimethoxy-5-methyl-4\u2032-pentyl-2-(prop-1-en-2-yl)-1,2,3,4-tetrahydro-1,1\u2032-biphenyl",
+    "category": "cannabinodids",
+    "index": 14184,
+    "formular": "C23H34O2",
+    "molecular_weight": 342.515,
+    "inChl": "1S/C23H34O2/c1-7-8-9-10-18-14-21(24-5)23(22(15-18)25-6)20-13-17(4)11-12-19(20)16(2)3/h13-15,19-20H,2,7-12H2,1,3-6H3/t19-,20+/m0/s1",
+    "InChl_Key": "UYBGHBAVRNATET-VQTJNVASSA-N",
+    "SMILES": "C=C(C)[C@@H]1CCC(C)=C[C@H]1c1c(OC)cc(CCCCC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14184",
+    "validation": "m_weight unsave, calculated(342.5230000000002)"
+}

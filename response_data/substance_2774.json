@@ -1,0 +1,13 @@
+{
+    "names": "N-Acetyl-ALEPH ; N-Acetyl-4-methylthio-2,5-dimethoxyamphetamine",
+    "iupac_name": "N-{1-[2,5-Dimethoxy-4-(methylsulfanyl)phenyl]propan-2-yl}acetamide",
+    "category": "data not stored",
+    "index": 2774,
+    "formular": "C14H21NO3S",
+    "molecular_weight": 283.386,
+    "inChl": "1S/C14H21NO3S/c1-9(15-10(2)16)6-11-7-13(18-4)14(19-5)8-12(11)17-3/h7-9H,6H2,1-5H3,(H,15,16)",
+    "InChl_Key": "PSGOFJFBBNMEMR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SC)c(OC)cc1CC(C)NC(C)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2774",
+    "validation": "m_weight unsave, calculated(283.39300000000003)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 1-[2-(pentyloxy)ethyl]-4-phenylpiperidine-4-carboxylate",
+    "iupac_name": "9073 ; C21H33NO3 ; 347.492",
+    "category": "data not stored",
+    "index": 9073,
+    "formular": "C21H33NO3",
+    "molecular_weight": 347.492,
+    "inChl": "1S/C21H33NO3/c1-3-5-9-17-24-18-16-22-14-12-21(13-15-22,20(23)25-4-2)19-10-7-6-8-11-19/h6-8,10-11H,3-5,9,12-18H2,1-2H3",
+    "InChl_Key": "QNLXYSVZWHTCPN-UHFFFAOYSA-N",
+    "SMILES": "CCCCCOCCN1CCC(C(=O)OCC)(c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9073",
+    "validation": "m_weight unsave, calculated(347.49899999999997)"
+}

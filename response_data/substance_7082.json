@@ -1,0 +1,13 @@
+{
+    "names": "Me-THBDF",
+    "iupac_name": "4-Methyl-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran",
+    "category": "data not stored",
+    "index": 7082,
+    "formular": "C11H12O2",
+    "molecular_weight": 176.212,
+    "inChl": "1S/C11H12O2/c1-7-9-3-5-12-10(9)6-8-2-4-13-11(7)8/h6H,2-5H2,1H3",
+    "InChl_Key": "HMQSCZUPMPTQSS-UHFFFAOYSA-N",
+    "SMILES": "Cc1c2c(cc3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7082",
+    "validation": "m_weight unsave, calculated(176.21499999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-CMC ; 4-Chloromethcathinone ; Clephedrone",
+    "iupac_name": "1-(4-Chlorophenyl)-2-(methylamino)propan-1-one",
+    "category": "data not stored",
+    "index": 2435,
+    "formular": "C10H12ClNO",
+    "molecular_weight": 197.661,
+    "inChl": "1S/C10H12ClNO/c1-7(12-2)10(13)8-3-5-9(11)6-4-8/h3-7,12H,1-2H3",
+    "InChl_Key": "UEJBEYOXRNGPEI-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(=O)c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2435",
+    "validation": "m_weight unsave, calculated(197.665)"
+}

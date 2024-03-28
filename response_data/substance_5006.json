@@ -1,0 +1,13 @@
+{
+    "names": "DMT ; N,N-Dimethyltryptamine ; Desoxybufotenine ; 3-[2-(Dimethylamino)ethyl]indole ; Indole, 3-[2-(dimethylamino)ethyl] ; Nigerine ; Tryptamine, N,N-dimethyl",
+    "iupac_name": "2-(1H-Indol-3-yl)-N,N-dimethylethan-1-amine",
+    "category": "cannabinodids",
+    "index": 5006,
+    "formular": "C12H16N2",
+    "molecular_weight": 188.269,
+    "inChl": "1S/C12H16N2/c1-14(2)8-7-10-9-13-12-6-4-3-5-11(10)12/h3-6,9,13H,7-8H2,1-2H3",
+    "InChl_Key": "DMULVCHRPCFFGV-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5006",
+    "validation": "m_weight unsave, calculated(188.274)"
+}

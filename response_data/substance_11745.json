@@ -1,0 +1,13 @@
+{
+    "names": "DM-139",
+    "iupac_name": "tert-Butyl 5-methyl-6-oxo-8-(pyrrolidin-1-yl)-5,6-dihydro-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 11745,
+    "formular": "C21H26N4O3",
+    "molecular_weight": 382.456,
+    "inChl": "1S/C21H26N4O3/c1-21(2,3)28-20(27)18-17-12-23(4)19(26)15-11-14(24-9-5-6-10-24)7-8-16(15)25(17)13-22-18/h7-8,11,13H,5-6,9-10,12H2,1-4H3",
+    "InChl_Key": "BCOWBMDVBZPNTD-UHFFFAOYSA-N",
+    "SMILES": "CN1Cc2c(C(=O)OC(C)(C)C)ncn2-c2ccc(N3CCCC3)cc2C1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11745",
+    "validation": "m_weight unsave, calculated(382.4640000000002)"
+}

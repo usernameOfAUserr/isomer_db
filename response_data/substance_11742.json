@@ -1,0 +1,13 @@
+{
+    "names": "SVO-8-67",
+    "iupac_name": "Ethyl 5-methyl-6-oxo-8-phenyl-5,6-dihydro-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 11742,
+    "formular": "C21H19N3O3",
+    "molecular_weight": 361.394,
+    "inChl": "1S/C21H19N3O3/c1-3-27-21(26)19-18-12-23(2)20(25)16-11-15(14-7-5-4-6-8-14)9-10-17(16)24(18)13-22-19/h4-11,13H,3,12H2,1-2H3",
+    "InChl_Key": "VKSSEINLULFGCM-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ncn2c1CN(C)C(=O)c1cc(-c3ccccc3)ccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11742",
+    "validation": "m_weight unsave, calculated(361.40100000000007)"
+}

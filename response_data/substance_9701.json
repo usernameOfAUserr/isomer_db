@@ -1,0 +1,13 @@
+{
+    "names": "Acetildenafil ; Hongdenafil",
+    "iupac_name": "5-{2-Ethoxy-5-[(4-ethylpiperazin-1-yl)acetyl]phenyl}-1-methyl-3-propyl-1,6-dihydro-7H-pyrazolo[4,3-d]pyrimidin-7-one ; 5-{2-Ethoxy-5-[(4-ethylpiperazin-1-yl)acetyl]phenyl}-1-methyl-3-propyl-1,4-dihydro-7H-pyrazolo[4,3-d]pyrimidin-7-one",
+    "category": "data not stored",
+    "index": 9701,
+    "formular": "C25H34N6O3",
+    "molecular_weight": 466.576,
+    "inChl": "1S/C25H34N6O3/c1-5-8-19-22-23(29(4)28-19)25(33)27-24(26-22)18-15-17(9-10-21(18)34-7-3)20(32)16-31-13-11-30(6-2)12-14-31/h9-10,15H,5-8,11-14,16H2,1-4H3,(H,26,27,33)",
+    "InChl_Key": "RRBRQNALHKQCAI-UHFFFAOYSA-N",
+    "SMILES": "CCCc1nn(C)c2c(=O)[nH]c(-c3cc(C(=O)CN4CCN(CC)CC4)ccc3OCC)nc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9701",
+    "validation": "m_weight unsave, calculated(466.58600000000035)"
+}

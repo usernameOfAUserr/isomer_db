@@ -1,0 +1,13 @@
+{
+    "names": "EAZ-91-05 ; Psicofentanil",
+    "iupac_name": "1-Azabicyclo[2.2.2]octan-3-yl 1-[2-(1H-indol-3-yl)ethyl]-4-[phenyl(propanoyl)amino]piperidine-4-carboxylate",
+    "category": "Fentanyl",
+    "index": 1705,
+    "formular": "C32H40N4O3",
+    "molecular_weight": 528.685,
+    "inChl": "1S/C32H40N4O3/c1-2-30(37)36(26-8-4-3-5-9-26)32(31(38)39-29-23-35-18-12-24(29)13-19-35)15-20-34(21-16-32)17-14-25-22-33-28-11-7-6-10-27(25)28/h3-11,22,24,29,33H,2,12-21,23H2,1H3",
+    "InChl_Key": "YBZXYJDABKNENX-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1(C(=O)OC2CN3CCC2CC3)CCN(CCc2c[nH]c3ccccc23)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1705",
+    "validation": "m_weight unsave, calculated(528.6970000000003)"
+}

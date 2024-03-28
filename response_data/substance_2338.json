@@ -1,0 +1,13 @@
+{
+    "names": "4-PPPEA ; 4-PhPr-PEA ; 4-Phenylpropylphenethylamine",
+    "iupac_name": "2-[4-(3-Phenylpropyl)phenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 2338,
+    "formular": "C17H21N",
+    "molecular_weight": 239.355,
+    "inChl": "1S/C17H21N/c18-14-13-17-11-9-16(10-12-17)8-4-7-15-5-2-1-3-6-15/h1-3,5-6,9-12H,4,7-8,13-14,18H2",
+    "InChl_Key": "YMVIIWYVJUTVGJ-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ccc(CCCc2ccccc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2338",
+    "validation": "m_weight unsave, calculated(239.36199999999994)"
+}

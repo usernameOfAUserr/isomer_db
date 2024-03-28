@@ -1,0 +1,13 @@
+{
+    "names": "Tehuanine",
+    "iupac_name": "5,6,7-Trimethoxy-2-methyl-1,2,3,4-tetrahydroisoquinoline",
+    "category": "data not stored",
+    "index": 13732,
+    "formular": "C13H19NO3",
+    "molecular_weight": 237.295,
+    "inChl": "1S/C13H19NO3/c1-14-6-5-10-9(8-14)7-11(15-2)13(17-4)12(10)16-3/h7H,5-6,8H2,1-4H3",
+    "InChl_Key": "TUWJYOOVMLZJGJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(c(OC)c1OC)CCN(C)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13732",
+    "validation": "m_weight unsave, calculated(237.29899999999998)"
+}

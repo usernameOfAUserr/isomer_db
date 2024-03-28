@@ -1,0 +1,13 @@
+{
+    "names": "RTI-125",
+    "iupac_name": "(2S,3S)-3-(4-Chlorophenyl)-8-methyl-2-(3-methyl-1,2,4-oxadiazol-5-yl)-8-azabicyclo[3.2.1]octane",
+    "category": "data not stored",
+    "index": 3243,
+    "formular": "C17H20ClN3O",
+    "molecular_weight": 317.813,
+    "inChl": "1S/C17H20ClN3O/c1-10-19-17(22-20-10)16-14(11-3-5-12(18)6-4-11)9-13-7-8-15(16)21(13)2/h3-6,13-16H,7-9H2,1-2H3/t13?,14-,15?,16+/m1/s1",
+    "InChl_Key": "VULTYTWXYKTCJU-KNIAUWFNSA-N",
+    "SMILES": "Cc1noc([C@@H]2C3CCC(C[C@@H]2c2ccc(Cl)cc2)N3C)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3243",
+    "validation": "m_weight unsave, calculated(317.82)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3,3-Diphenylpropan-1-amine ; 3,3-Diphenylpropylamine",
+    "iupac_name": "10890 ; C15H17N ; 211.302",
+    "category": "Phenetylamine",
+    "index": 10890,
+    "formular": "C15H17N",
+    "molecular_weight": 211.302,
+    "inChl": "1S/C15H17N/c16-12-11-15(13-7-3-1-4-8-13)14-9-5-2-6-10-14/h1-10,15H,11-12,16H2",
+    "InChl_Key": "KISZTEOELCMZPY-UHFFFAOYSA-N",
+    "SMILES": "NCCC(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10890",
+    "validation": "m_weight unsave, calculated(211.308)"
+}

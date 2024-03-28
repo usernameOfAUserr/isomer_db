@@ -1,0 +1,13 @@
+{
+    "names": "Nonylnorketobemidone",
+    "iupac_name": "1-[4-(3-Hydroxyphenyl)-1-nonylpiperidin-4-yl]propan-1-one",
+    "category": "data not stored",
+    "index": 14523,
+    "formular": "C23H37NO2",
+    "molecular_weight": 359.545,
+    "inChl": "1S/C23H37NO2/c1-3-5-6-7-8-9-10-16-24-17-14-23(15-18-24,22(26)4-2)20-12-11-13-21(25)19-20/h11-13,19,25H,3-10,14-18H2,1-2H3",
+    "InChl_Key": "WNRHDBRHLDZKPI-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCCN1CCC(C(=O)CC)(c2cccc(O)c2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14523",
+    "validation": "m_weight unsave, calculated(359.55400000000003)"
+}

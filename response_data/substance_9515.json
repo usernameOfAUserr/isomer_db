@@ -1,0 +1,13 @@
+{
+    "names": "Buspirone",
+    "iupac_name": "8-{4-[4-(Pyrimidin-2-yl)piperazin-1-yl]butyl}-8-azaspiro[4.5]decane-7,9-dione",
+    "category": "data not stored",
+    "index": 9515,
+    "formular": "C21H31N5O2",
+    "molecular_weight": 385.503,
+    "inChl": "1S/C21H31N5O2/c27-18-16-21(6-1-2-7-21)17-19(28)26(18)11-4-3-10-24-12-14-25(15-13-24)20-22-8-5-9-23-20/h5,8-9H,1-4,6-7,10-17H2",
+    "InChl_Key": "QWCRAEMEVRGPNT-UHFFFAOYSA-N",
+    "SMILES": "O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9515",
+    "validation": "m_weight unsave, calculated(385.5120000000001)"
+}

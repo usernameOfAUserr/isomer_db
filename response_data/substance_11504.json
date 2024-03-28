@@ -1,0 +1,13 @@
+{
+    "names": "Metodesnitazene ; Metazene",
+    "iupac_name": "N,N-Diethyl-2-{2-[(4-methoxyphenyl)methyl]-1H-benzimidazol-1-yl}ethan-1-amine",
+    "category": "data not stored",
+    "index": 11504,
+    "formular": "C21H27N3O",
+    "molecular_weight": 337.459,
+    "inChl": "1S/C21H27N3O/c1-4-23(5-2)14-15-24-20-9-7-6-8-19(20)22-21(24)16-17-10-12-18(25-3)13-11-17/h6-13H,4-5,14-16H2,1-3H3",
+    "InChl_Key": "SFNKTTXBZXVGOH-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCn1c(Cc2ccc(OC)cc2)nc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11504",
+    "validation": "m_weight unsave, calculated(337.4670000000001)"
+}

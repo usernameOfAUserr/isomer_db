@@ -1,0 +1,13 @@
+{
+    "names": "4-MeO-PCMo",
+    "iupac_name": "4-[1-(4-Methoxyphenyl)cyclohexyl]morpholine",
+    "category": "Arylcycloalkylamine",
+    "index": 2681,
+    "formular": "C17H25NO2",
+    "molecular_weight": 275.386,
+    "inChl": "1S/C17H25NO2/c1-19-16-7-5-15(6-8-16)17(9-3-2-4-10-17)18-11-13-20-14-12-18/h5-8H,2-4,9-14H2,1H3",
+    "InChl_Key": "QVUBZCUJKHQTLN-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C2(N3CCOCC3)CCCCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2681",
+    "validation": "m_weight unsave, calculated(275.39199999999994)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "7-Fluoro-5-MeO-DET ; 7-Fluoro-5-methoxy-N,N-diethyltryptamine",
+    "iupac_name": "N,N-Diethyl-2-(7-fluoro-5-methoxy-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 13590,
+    "formular": "C15H21FN2O",
+    "molecular_weight": 264.338,
+    "inChl": "1S/C15H21FN2O/c1-4-18(5-2)7-6-11-10-17-15-13(11)8-12(19-3)9-14(15)16/h8-10,17H,4-7H2,1-3H3",
+    "InChl_Key": "UHQCXRSBNVNIRR-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCc1c[nH]c2c(F)cc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13590",
+    "validation": "m_weight unsave, calculated(264.344)"
+}

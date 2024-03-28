@@ -1,0 +1,13 @@
+{
+    "names": "NBI-30775 ; R-121919",
+    "iupac_name": "3-[6-(Dimethylamino)-4-methylpyridin-3-yl]-2,5-dimethyl-N,N-dipropylpyrazolo[1,5-a]pyrimidin-7-amine",
+    "category": "data not stored",
+    "index": 3842,
+    "formular": "C22H32N6",
+    "molecular_weight": 380.53,
+    "inChl": "1S/C22H32N6/c1-8-10-27(11-9-2)20-13-16(4)24-22-21(17(5)25-28(20)22)18-14-23-19(26(6)7)12-15(18)3/h12-14H,8-11H2,1-7H3",
+    "InChl_Key": "ANNRUWYFVIGKHA-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)c1cc(C)nc2c(-c3cnc(N(C)C)cc3C)c(C)nn12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3842",
+    "validation": "m_weight unsave, calculated(380.5400000000002)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "SGT-219",
+    "iupac_name": "2-Pentyl-N-(2-phenylpropan-2-yl)-2H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11622,
+    "formular": "C22H27N3O",
+    "molecular_weight": 349.469,
+    "inChl": "1S/C22H27N3O/c1-4-5-11-16-25-20(18-14-9-10-15-19(18)24-25)21(26)23-22(2,3)17-12-7-6-8-13-17/h6-10,12-15H,4-5,11,16H2,1-3H3,(H,23,26)",
+    "InChl_Key": "LGEWXCALARVFAP-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1nc2ccccc2c1C(=O)NC(C)(C)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11622",
+    "validation": "m_weight unsave, calculated(349.47800000000007)"
+}

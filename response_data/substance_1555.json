@@ -1,0 +1,13 @@
+{
+    "names": "2-Cl-6-F-PEA ; 2-Chloro-6-fluorophenethylamine",
+    "iupac_name": "2-(2-Chloro-6-fluorophenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 1555,
+    "formular": "C8H9ClFN",
+    "molecular_weight": 173.615,
+    "inChl": "1S/C8H9ClFN/c9-7-2-1-3-8(10)6(7)4-5-11/h1-3H,4-5,11H2",
+    "InChl_Key": "NNEMMAAHBKHXLP-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c(F)cccc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1555",
+    "validation": "m_weight unsave, calculated(173.61799999999997)"
+}

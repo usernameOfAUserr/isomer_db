@@ -1,0 +1,13 @@
+{
+    "names": "DOH-FLY-TFA",
+    "iupac_name": "2,2,2-Trifluoro-N-[1-(2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl)propan-2-yl]acetamide",
+    "category": "data not stored",
+    "index": 7049,
+    "formular": "C15H16F3NO3",
+    "molecular_weight": 315.288,
+    "inChl": "1S/C15H16F3NO3/c1-8(19-14(20)15(16,17)18)6-11-10-3-5-21-12(10)7-9-2-4-22-13(9)11/h7-8H,2-6H2,1H3,(H,19,20)",
+    "InChl_Key": "WPAJSWLICHKIOD-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1c2c(cc3c1OCC3)OCC2)NC(=O)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7049",
+    "validation": "m_weight unsave, calculated(315.29099999999994)"
+}

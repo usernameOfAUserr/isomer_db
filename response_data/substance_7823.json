@@ -1,0 +1,13 @@
+{
+    "names": "(2\u2032-isomer) LY-2183240",
+    "iupac_name": "5-[([1,1\u2032-Biphenyl]-4-yl)methyl]-N,N-dimethyl-2H-tetrazole-2-carboxamide",
+    "category": "data not stored",
+    "index": 7823,
+    "formular": "C17H17N5O",
+    "molecular_weight": 307.35,
+    "inChl": "1S/C17H17N5O/c1-21(2)17(23)22-19-16(18-20-22)12-13-8-10-15(11-9-13)14-6-4-3-5-7-14/h3-11H,12H2,1-2H3",
+    "InChl_Key": "VBVLSXPOMAONNK-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C(=O)n1nnc(Cc2ccc(-c3ccccc3)cc2)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7823",
+    "validation": "m_weight unsave, calculated(307.357)"
+}

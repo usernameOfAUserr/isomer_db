@@ -1,0 +1,13 @@
+{
+    "names": "Z4349",
+    "iupac_name": "(5S)-1-[(2-Chlorophenyl)methyl]-5-[(1S)-2-{di[(2R)-butan-2-yl]amino}-1-hydroxyethyl]pyrrolidin-2-one",
+    "category": "data not stored",
+    "index": 3151,
+    "formular": "C21H33ClN2O2",
+    "molecular_weight": 380.952,
+    "inChl": "1S/C21H33ClN2O2/c1-5-15(3)23(16(4)6-2)14-20(25)19-11-12-21(26)24(19)13-17-9-7-8-10-18(17)22/h7-10,15-16,19-20,25H,5-6,11-14H2,1-4H3/t15-,16-,19+,20+/m1/s1",
+    "InChl_Key": "YNGZJSALRCLELM-YKCBXCCJSA-N",
+    "SMILES": "CC[C@@H](C)N(C[C@H](O)[C@@H]1CCC(=O)N1Cc1ccccc1Cl)[C@H](C)CC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3151",
+    "validation": "m_weight unsave, calculated(380.96000000000004)"
+}

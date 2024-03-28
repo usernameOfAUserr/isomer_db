@@ -1,0 +1,13 @@
+{
+    "names": "WO 2001/058869 #293",
+    "iupac_name": "7-Methoxy-1-[2-(morpholin-4-yl)ethyl]-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4475,
+    "formular": "C24H30N4O3",
+    "molecular_weight": 422.52,
+    "inChl": "1S/C24H30N4O3/c1-24(2,18-8-5-4-6-9-18)25-23(29)21-19-10-7-11-20(30-3)22(19)28(26-21)13-12-27-14-16-31-17-15-27/h4-11H,12-17H2,1-3H3,(H,25,29)",
+    "InChl_Key": "XNRJQUBKVWQIQY-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c(C(=O)NC(C)(C)c3ccccc3)nn(CCN3CCOCC3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4475",
+    "validation": "m_weight unsave, calculated(422.5290000000001)"
+}

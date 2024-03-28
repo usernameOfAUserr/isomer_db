@@ -1,0 +1,13 @@
+{
+    "names": "2-BzO-DOM ; 2-Benzyloxy-5-methoxy-4-methylamphetamine",
+    "iupac_name": "1-[2-(Benzyloxy)-5-methoxy-4-methylphenyl]propan-2-amine",
+    "category": "data not stored",
+    "index": 2446,
+    "formular": "C18H23NO2",
+    "molecular_weight": 285.381,
+    "inChl": "1S/C18H23NO2/c1-13-9-18(21-12-15-7-5-4-6-8-15)16(10-14(2)19)11-17(13)20-3/h4-9,11,14H,10,12,19H2,1-3H3",
+    "InChl_Key": "RDINEGYZQWGJFR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c(OCc2ccccc2)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2446",
+    "validation": "m_weight unsave, calculated(285.387)"
+}

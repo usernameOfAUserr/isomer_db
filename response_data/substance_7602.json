@@ -1,0 +1,13 @@
+{
+    "names": "A08",
+    "iupac_name": "4-Bromo-N-{[1-(dimethylamino)cyclohexyl]methyl}benzamide",
+    "category": "data not stored",
+    "index": 7602,
+    "formular": "C16H23BrN2O",
+    "molecular_weight": 339.271,
+    "inChl": "1S/C16H23BrN2O/c1-19(2)16(10-4-3-5-11-16)12-18-15(20)13-6-8-14(17)9-7-13/h6-9H,3-5,10-12H2,1-2H3,(H,18,20)",
+    "InChl_Key": "RHNRWKLWYAKABH-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1(CNC(=O)c2ccc(Br)cc2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7602",
+    "validation": "m_weight unsave, calculated(339.27700000000004)"
+}

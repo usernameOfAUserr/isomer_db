@@ -1,0 +1,13 @@
+{
+    "names": "VDM-11",
+    "iupac_name": "(5Z,8Z,11Z,14Z)-N-(4-Hydroxy-2-methylphenyl)icosa-5,8,11,14-tetraenamide",
+    "category": "cannabinodids",
+    "index": 8046,
+    "formular": "C27H39NO2",
+    "molecular_weight": 409.604,
+    "inChl": "1S/C27H39NO2/c1-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-27(30)28-26-22-21-25(29)23-24(26)2/h7-8,10-11,13-14,16-17,21-23,29H,3-6,9,12,15,18-20H2,1-2H3,(H,28,30)/b8-7-,11-10-,14-13-,17-16-",
+    "InChl_Key": "WUZWFRWVRHLXHZ-ZKWNWVNESA-N",
+    "SMILES": "CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)Nc1ccc(O)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8046",
+    "validation": "m_weight unsave, calculated(409.61400000000015)"
+}

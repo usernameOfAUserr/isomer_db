@@ -1,0 +1,13 @@
+{
+    "names": "MPA-TMS ; N-(Trimethylsilyl)methiopropamine",
+    "iupac_name": "N,1,1,1-Tetramethyl-N-[1-(thiophen-2-yl)propan-2-yl]silanamine",
+    "category": "data not stored",
+    "index": 2889,
+    "formular": "C11H21NSSi",
+    "molecular_weight": 227.442,
+    "inChl": "1S/C11H21NSSi/c1-10(12(2)14(3,4)5)9-11-7-6-8-13-11/h6-8,10H,9H2,1-5H3",
+    "InChl_Key": "CACXOPNEPLDLPL-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1cccs1)N(C)[Si](C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2889",
+    "validation": "m_weight unsave, calculated(227.44899999999998)"
+}

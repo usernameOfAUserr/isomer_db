@@ -1,0 +1,13 @@
+{
+    "names": "SGT-178",
+    "iupac_name": "N-Benzyl-6-fluoro-1-pentyl-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11590,
+    "formular": "C21H23FN2O",
+    "molecular_weight": 338.419,
+    "inChl": "1S/C21H23FN2O/c1-2-3-7-12-24-15-19(18-11-10-17(22)13-20(18)24)21(25)23-14-16-8-5-4-6-9-16/h4-6,8-11,13,15H,2-3,7,12,14H2,1H3,(H,23,25)",
+    "InChl_Key": "FTYCISQYKSKNQW-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NCc2ccccc2)c2ccc(F)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11590",
+    "validation": "m_weight unsave, calculated(338.4260000000001)"
+}

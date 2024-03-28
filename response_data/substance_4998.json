@@ -1,0 +1,13 @@
+{
+    "names": "2\u2032,5\u2032-Dimethyl-4-(2-methyloctan-2-yl)[1,1\u2032-biphenyl]-2-ol",
+    "iupac_name": "4998 ; C23H32O ; 324.5",
+    "category": "cannabinodids",
+    "index": 4998,
+    "formular": "C23H32O",
+    "molecular_weight": 324.5,
+    "inChl": "1S/C23H32O/c1-6-7-8-9-14-23(4,5)19-12-13-20(22(24)16-19)21-15-17(2)10-11-18(21)3/h10-13,15-16,24H,6-9,14H2,1-5H3",
+    "InChl_Key": "JXNJMTHLHFQGCM-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCC(C)(C)c1ccc(-c2cc(C)ccc2C)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4998",
+    "validation": "m_weight unsave, calculated(324.5080000000001)"
+}

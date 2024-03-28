@@ -1,0 +1,13 @@
+{
+    "names": "2C-SE-4 ; 2,5-Dimethoxy-4-isopropylselenophenethylamine",
+    "iupac_name": "2-{2,5-Dimethoxy-4-[(propan-2-yl)selanyl]phenyl}ethan-1-amine ; 2-[2,5-Dimethoxy-4-(propan-2-ylselanyl)phenyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 2073,
+    "formular": "C13H21NO2Se",
+    "molecular_weight": 302.271,
+    "inChl": "1S/C13H21NO2Se/c1-9(2)17-13-8-11(15-3)10(5-6-14)7-12(13)16-4/h7-9H,5-6,14H2,1-4H3",
+    "InChl_Key": "UUGAXTBZOCLVOE-UHFFFAOYSA-N",
+    "SMILES": "COc1cc([Se]C(C)C)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2073",
+    "validation": "m_weight unsave, calculated(302.276)"
+}

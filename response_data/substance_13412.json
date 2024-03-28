@@ -1,0 +1,13 @@
+{
+    "names": "1-[4-(Butylsulfanyl)-3,5-dimethoxyphenyl]propan-2-amine",
+    "iupac_name": "13412 ; C15H25NO2S ; 283.43",
+    "category": "data not stored",
+    "index": 13412,
+    "formular": "C15H25NO2S",
+    "molecular_weight": 283.43,
+    "inChl": "1S/C15H25NO2S/c1-5-6-7-19-15-13(17-3)9-12(8-11(2)16)10-14(15)18-4/h9-11H,5-8,16H2,1-4H3",
+    "InChl_Key": "NDRIWYLSRARTJB-UHFFFAOYSA-N",
+    "SMILES": "CCCCSc1c(OC)cc(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13412",
+    "validation": "m_weight unsave, calculated(283.437)"
+}

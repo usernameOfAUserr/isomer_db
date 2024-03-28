@@ -1,0 +1,13 @@
+{
+    "names": "2C-BI-4 ; 2,5-Dimethoxy-4-(2-trifluoromethylphenyl)phenethylamine",
+    "iupac_name": "2-[2,5-Dimethoxy-2\u2032-(trifluoromethyl)[1,1\u2032-biphenyl]-4-yl]ethan-1-amine ; 2-[2,5-Dimethoxy-2\u2032-(trifluoromethyl)biphenyl-4-yl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 2303,
+    "formular": "C17H18F3NO2",
+    "molecular_weight": 325.326,
+    "inChl": "1S/C17H18F3NO2/c1-22-15-10-13(16(23-2)9-11(15)7-8-21)12-5-3-4-6-14(12)17(18,19)20/h3-6,9-10H,7-8,21H2,1-2H3",
+    "InChl_Key": "XCNBZPCBVPDJFY-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(-c2ccccc2C(F)(F)F)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2303",
+    "validation": "m_weight unsave, calculated(325.33)"
+}

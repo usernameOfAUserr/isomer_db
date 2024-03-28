@@ -1,0 +1,13 @@
+{
+    "names": "(metabolite) MDMB-CHMCZCA",
+    "iupac_name": "N-(9H-Carbazole-3-carbonyl)-3-methyl-L-valine ; (2S)-2-[(9H-Carbazole-3-carbonyl)amino]-3,3-dimethylbutanoic acid",
+    "category": "data not stored",
+    "index": 11277,
+    "formular": "C19H20N2O3",
+    "molecular_weight": 324.374,
+    "inChl": "1S/C19H20N2O3/c1-19(2,3)16(18(23)24)21-17(22)11-8-9-15-13(10-11)12-6-4-5-7-14(12)20-15/h4-10,16,20H,1-3H3,(H,21,22)(H,23,24)/t16-/m1/s1",
+    "InChl_Key": "QXSFXSIYHKFQKL-MRXNPFEDSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1ccc2[nH]c3ccccc3c2c1)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11277",
+    "validation": "m_weight unsave, calculated(324.38)"
+}

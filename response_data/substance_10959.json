@@ -1,0 +1,13 @@
+{
+    "names": "2-THAB",
+    "iupac_name": "1-(Thiophen-2-yl)butan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10959,
+    "formular": "C8H13NS",
+    "molecular_weight": 155.261,
+    "inChl": "1S/C8H13NS/c1-2-7(9)6-8-4-3-5-10-8/h3-5,7H,2,6,9H2,1H3",
+    "InChl_Key": "ROSMJBLXJLMJLV-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)Cc1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10959",
+    "validation": "m_weight unsave, calculated(155.26599999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "EHAT ; 8-Hydroxy-2-(ethylamino)tetralin",
+    "iupac_name": "7-(Ethylamino)-5,6,7,8-tetrahydronaphthalen-1-ol",
+    "category": "Shulgin_Index",
+    "index": 6957,
+    "formular": "C12H17NO",
+    "molecular_weight": 191.269,
+    "inChl": "1S/C12H17NO/c1-2-13-10-7-6-9-4-3-5-12(14)11(9)8-10/h3-5,10,13-14H,2,6-8H2,1H3",
+    "InChl_Key": "DTLFTJICCITUGW-UHFFFAOYSA-N",
+    "SMILES": "CCNC1CCc2cccc(O)c2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6957",
+    "validation": "m_weight unsave, calculated(191.27400000000003)"
+}

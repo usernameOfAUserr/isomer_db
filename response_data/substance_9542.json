@@ -1,0 +1,13 @@
+{
+    "names": "Octyl-CP",
+    "iupac_name": "1-(1-Octylcyclohexyl)piperidine",
+    "category": "Arylcycloalkylamine",
+    "index": 9542,
+    "formular": "C19H37N",
+    "molecular_weight": 279.504,
+    "inChl": "1S/C19H37N/c1-2-3-4-5-6-9-14-19(15-10-7-11-16-19)20-17-12-8-13-18-20/h2-18H2,1H3",
+    "InChl_Key": "DQEKQFHZCALYGA-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCC1(N2CCCCC2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9542",
+    "validation": "m_weight unsave, calculated(279.512)"
+}

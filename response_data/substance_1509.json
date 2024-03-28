@@ -1,0 +1,13 @@
+{
+    "names": "2-I-PEA ; 2-Iodophenethylamine",
+    "iupac_name": "2-(2-Iodophenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 1509,
+    "formular": "C8H10IN",
+    "molecular_weight": 247.076,
+    "inChl": "1S/C8H10IN/c9-8-4-2-1-3-7(8)5-6-10/h1-4H,5-6,10H2",
+    "InChl_Key": "YNDYXJUDBNYUBF-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ccccc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1509",
+    "validation": "m_weight unsave, calculated(247.07899999999995)"
+}

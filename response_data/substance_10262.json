@@ -1,0 +1,13 @@
+{
+    "names": "Viscaline ; 3,5-Dimethoxy-4-vinylphenethylamine ; V",
+    "iupac_name": "2-[4-(Ethenyloxy)-3,5-dimethoxyphenyl]ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10262,
+    "formular": "C12H17NO3",
+    "molecular_weight": 223.268,
+    "inChl": "1S/C12H17NO3/c1-4-16-12-10(14-2)7-9(5-6-13)8-11(12)15-3/h4,7-8H,1,5-6,13H2,2-3H3",
+    "InChl_Key": "WSALJXLLWHGNBB-UHFFFAOYSA-N",
+    "SMILES": "C=COc1c(OC)cc(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10262",
+    "validation": "m_weight unsave, calculated(223.27199999999996)"
+}

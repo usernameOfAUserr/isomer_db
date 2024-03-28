@@ -1,0 +1,13 @@
+{
+    "names": "2-HO-3MBnCN",
+    "iupac_name": "(2-Hydroxy-3-methoxyphenyl)acetonitrile",
+    "category": "data not stored",
+    "index": 14166,
+    "formular": "C9H9NO2",
+    "molecular_weight": 163.173,
+    "inChl": "1S/C9H9NO2/c1-12-8-4-2-3-7(5-6-10)9(8)11/h2-4,11H,5H2,1H3",
+    "InChl_Key": "HGPGOFBJMBBPAX-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(CC#N)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14166",
+    "validation": "m_weight unsave, calculated(163.17599999999996)"
+}

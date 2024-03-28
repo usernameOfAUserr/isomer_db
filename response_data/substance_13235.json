@@ -1,0 +1,13 @@
+{
+    "names": "4-Br-DM-1-PEA",
+    "iupac_name": "1-(4-Bromo-2,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 13235,
+    "formular": "C10H14BrNO2",
+    "molecular_weight": 260.128,
+    "inChl": "1S/C10H14BrNO2/c1-6(12)7-4-10(14-3)8(11)5-9(7)13-2/h4-6H,12H2,1-3H3",
+    "InChl_Key": "JKOMOTQHGDWZAQ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(C)N)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13235",
+    "validation": "m_weight unsave, calculated(260.13100000000003)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Nigellimine N-oxide",
+    "iupac_name": "6,7-Dimethoxy-1-methyl-2-oxo-2\u03bb5-isoquinoline",
+    "category": "data not stored",
+    "index": 14329,
+    "formular": "C12H13NO3",
+    "molecular_weight": 219.237,
+    "inChl": "1S/C12H13NO3/c1-8-10-7-12(16-3)11(15-2)6-9(10)4-5-13(8)14/h4-7H,1-3H3",
+    "InChl_Key": "GVQWAJKTFATJEW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2cc[n+]([O-])c(C)c2cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14329",
+    "validation": "m_weight unsave, calculated(219.23999999999998)"
+}

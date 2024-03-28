@@ -1,0 +1,13 @@
+{
+    "names": "ZC-B ; 2C-B-AZET",
+    "iupac_name": "3-(4-Bromo-2,5-dimethoxyphenyl)azetidine",
+    "category": "data not stored",
+    "index": 13047,
+    "formular": "C11H14BrNO2",
+    "molecular_weight": 272.138,
+    "inChl": "1S/C11H14BrNO2/c1-14-10-4-9(12)11(15-2)3-8(10)7-5-13-6-7/h3-4,7,13H,5-6H2,1-2H3",
+    "InChl_Key": "YFCASESLVDHSAW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2CNC2)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13047",
+    "validation": "m_weight unsave, calculated(272.142)"
+}

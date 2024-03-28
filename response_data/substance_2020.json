@@ -1,0 +1,13 @@
+{
+    "names": "2C-FLY ; 2C-H-FLY",
+    "iupac_name": "2-(2,3,6,7-Tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 2020,
+    "formular": "C12H15NO2",
+    "molecular_weight": 205.253,
+    "inChl": "1S/C12H15NO2/c13-4-1-10-9-3-6-14-11(9)7-8-2-5-15-12(8)10/h7H,1-6,13H2",
+    "InChl_Key": "TUZLDMANNCPSHX-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c2c(cc3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2020",
+    "validation": "m_weight unsave, calculated(205.25699999999995)"
+}

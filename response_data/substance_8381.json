@@ -1,0 +1,13 @@
+{
+    "names": "Methylamine ; Methanamine",
+    "iupac_name": "8381 ; CH5N ; 31.057",
+    "category": "data not stored",
+    "index": 8381,
+    "formular": "CH5N",
+    "molecular_weight": 31.057,
+    "inChl": "1S/CH5N/c1-2/h2H2,1H3",
+    "InChl_Key": "BAVYZALUXZFZLV-UHFFFAOYSA-N",
+    "SMILES": "CN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8381",
+    "validation": "m_weight unsave, calculated(31.058)"
+}

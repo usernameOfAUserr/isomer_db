@@ -1,0 +1,13 @@
+{
+    "names": "2,5-MeP2P",
+    "iupac_name": "1-(2,5-Dimethylphenyl)propan-2-one",
+    "category": "data not stored",
+    "index": 11046,
+    "formular": "C11H14O",
+    "molecular_weight": 162.228,
+    "inChl": "1S/C11H14O/c1-8-4-5-9(2)11(6-8)7-10(3)12/h4-6H,7H2,1-3H3",
+    "InChl_Key": "XHEUPKZIPXSSLU-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Cc1cc(C)ccc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11046",
+    "validation": "m_weight unsave, calculated(162.23199999999997)"
+}

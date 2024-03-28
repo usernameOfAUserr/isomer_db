@@ -1,0 +1,13 @@
+{
+    "names": "5,6-MeO-DET ; 5,6-Dimethoxy-N,N-diethyltryptamine",
+    "iupac_name": "2-(5,6-Dimethoxy-1H-indol-3-yl)-N,N-diethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5163,
+    "formular": "C16H24N2O2",
+    "molecular_weight": 276.374,
+    "inChl": "1S/C16H24N2O2/c1-5-18(6-2)8-7-12-11-17-14-10-16(20-4)15(19-3)9-13(12)14/h9-11,17H,5-8H2,1-4H3",
+    "InChl_Key": "UAFONEVKDNIYLR-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCc1c[nH]c2cc(OC)c(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5163",
+    "validation": "m_weight unsave, calculated(276.38000000000005)"
+}

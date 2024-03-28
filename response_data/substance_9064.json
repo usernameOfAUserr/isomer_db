@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 1-(6-hydroxyhexyl)-4-phenylpiperidine-4-carboxylate",
+    "iupac_name": "9064 ; C20H31NO3 ; 333.465",
+    "category": "data not stored",
+    "index": 9064,
+    "formular": "C20H31NO3",
+    "molecular_weight": 333.465,
+    "inChl": "1S/C20H31NO3/c1-2-24-19(23)20(18-10-6-5-7-11-18)12-15-21(16-13-20)14-8-3-4-9-17-22/h5-7,10-11,22H,2-4,8-9,12-17H2,1H3",
+    "InChl_Key": "PTFLMOSETUGCMT-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CCCCCCO)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9064",
+    "validation": "m_weight unsave, calculated(333.472)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Norpethidine ; Normeperidine ; Pethidine intermediate B",
+    "iupac_name": "Ethyl 4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 3265,
+    "formular": "C14H19NO2",
+    "molecular_weight": 233.306,
+    "inChl": "1S/C14H19NO2/c1-2-17-13(16)14(8-10-15-11-9-14)12-6-4-3-5-7-12/h3-7,15H,2,8-11H2,1H3",
+    "InChl_Key": "QKHMFBKXTNQCTM-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCNCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3265",
+    "validation": "m_weight unsave, calculated(233.311)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "T-NBOMe5Br ; N-(2-Methoxy-5-bromobenzyl)tryptamine",
+    "iupac_name": "N-[(5-Bromo-2-methoxyphenyl)methyl]-2-(1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 7433,
+    "formular": "C18H19BrN2O",
+    "molecular_weight": 359.26,
+    "inChl": "1S/C18H19BrN2O/c1-22-18-7-6-15(19)10-14(18)11-20-9-8-13-12-21-17-5-3-2-4-16(13)17/h2-7,10,12,20-21H,8-9,11H2,1H3",
+    "InChl_Key": "GPAHZRIDPUMZLF-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(Br)cc1CNCCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7433",
+    "validation": "m_weight unsave, calculated(359.267)"
+}

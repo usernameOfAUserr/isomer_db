@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Dimethyl-10,11-dihydro-5H-dibenzo[a,d][7]annulen-10-amine",
+    "iupac_name": "10903 ; C17H19N ; 237.339",
+    "category": "Phenetylamine",
+    "index": 10903,
+    "formular": "C17H19N",
+    "molecular_weight": 237.339,
+    "inChl": "1S/C17H19N/c1-18(2)17-12-14-8-4-3-7-13(14)11-15-9-5-6-10-16(15)17/h3-10,17H,11-12H2,1-2H3",
+    "InChl_Key": "ZPSSTBLGHWYJFR-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1Cc2ccccc2Cc2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10903",
+    "validation": "m_weight unsave, calculated(237.34599999999998)"
+}

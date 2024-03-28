@@ -1,0 +1,13 @@
+{
+    "names": "25P-NB4OMe ; N-(4-Methoxybenzyl)-4-propyl-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-(2,5-Dimethoxy-4-propylphenyl)-N-[(4-methoxyphenyl)methyl]ethan-1-amine ; 2-(2,5-Dimethoxy-4-propylphenyl)-N-(4-methoxybenzyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 2592,
+    "formular": "C21H29NO3",
+    "molecular_weight": 343.46,
+    "inChl": "1S/C21H29NO3/c1-5-6-17-13-21(25-4)18(14-20(17)24-3)11-12-22-15-16-7-9-19(23-2)10-8-16/h7-10,13-14,22H,5-6,11-12,15H2,1-4H3",
+    "InChl_Key": "UFLOYIVKUXNFAZ-UHFFFAOYSA-N",
+    "SMILES": "CCCc1cc(OC)c(CCNCc2ccc(OC)cc2)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2592",
+    "validation": "m_weight unsave, calculated(343.46700000000004)"
+}

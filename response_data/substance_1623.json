@@ -1,0 +1,13 @@
+{
+    "names": "Methyl 4-[phenyl(propanoyl)amino]-1-[2-(thiophen-3-yl)ethyl]piperidine-4-carboxylate",
+    "iupac_name": "1623 ; C22H28N2O3S ; 400.534",
+    "category": "Fentanyl",
+    "index": 1623,
+    "formular": "C22H28N2O3S",
+    "molecular_weight": 400.534,
+    "inChl": "1S/C22H28N2O3S/c1-3-20(25)24(19-7-5-4-6-8-19)22(21(26)27-2)11-14-23(15-12-22)13-9-18-10-16-28-17-18/h4-8,10,16-17H,3,9,11-15H2,1-2H3",
+    "InChl_Key": "JPFRMUAREHIGHU-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(CCc2ccsc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1623",
+    "validation": "m_weight unsave, calculated(400.54400000000015)"
+}

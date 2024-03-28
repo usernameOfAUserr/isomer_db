@@ -1,0 +1,13 @@
+{
+    "names": "DOCET ; 4-(2-Chloroethyl)-2,5-dimethoxyamphetamine",
+    "iupac_name": "1-[4-(2-Chloroethyl)-2,5-dimethoxyphenyl]propan-2-amine",
+    "category": "data not stored",
+    "index": 1516,
+    "formular": "C13H20ClNO2",
+    "molecular_weight": 257.756,
+    "inChl": "1S/C13H20ClNO2/c1-9(15)6-11-8-12(16-2)10(4-5-14)7-13(11)17-3/h7-9H,4-6,15H2,1-3H3",
+    "InChl_Key": "SEPPDGJRABVPLK-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c(OC)cc1CCCl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1516",
+    "validation": "m_weight unsave, calculated(257.76099999999997)"
+}

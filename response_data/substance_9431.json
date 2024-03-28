@@ -1,0 +1,13 @@
+{
+    "names": "Moclobemide",
+    "iupac_name": "4-Chloro-N-[2-(morpholin-4-yl)ethyl]benzamide",
+    "category": "data not stored",
+    "index": 9431,
+    "formular": "C13H17ClN2O2",
+    "molecular_weight": 268.739,
+    "inChl": "1S/C13H17ClN2O2/c14-12-3-1-11(2-4-12)13(17)15-5-6-16-7-9-18-10-8-16/h1-4H,5-10H2,(H,15,17)",
+    "InChl_Key": "YHXISWVBGDMDLQ-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCCN1CCOCC1)c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9431",
+    "validation": "m_weight unsave, calculated(268.74399999999997)"
+}

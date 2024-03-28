@@ -1,0 +1,13 @@
+{
+    "names": "1-{2,5-Dimethoxy-4-[(5,5,5-trifluoropentyl)sulfanyl]phenyl}butan-2-amine",
+    "iupac_name": "13476 ; C17H26F3NO2S ; 365.454",
+    "category": "data not stored",
+    "index": 13476,
+    "formular": "C17H26F3NO2S",
+    "molecular_weight": 365.454,
+    "inChl": "1S/C17H26F3NO2S/c1-4-13(21)9-12-10-15(23-3)16(11-14(12)22-2)24-8-6-5-7-17(18,19)20/h10-11,13H,4-9,21H2,1-3H3",
+    "InChl_Key": "PWSICAHPHQVERL-UHFFFAOYSA-N",
+    "SMILES": "CCC(N)Cc1cc(OC)c(SCCCCC(F)(F)F)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13476",
+    "validation": "m_weight unsave, calculated(365.46100000000007)"
+}

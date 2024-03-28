@@ -1,0 +1,13 @@
+{
+    "names": "N-Formyl-MA ; N-Formylmethamphetamine",
+    "iupac_name": "N-Methyl-N-(1-phenylpropan-2-yl)formamide",
+    "category": "data not stored",
+    "index": 7475,
+    "formular": "C11H15NO",
+    "molecular_weight": 177.243,
+    "inChl": "1S/C11H15NO/c1-10(12(2)9-13)8-11-6-4-3-5-7-11/h3-7,9-10H,8H2,1-2H3",
+    "InChl_Key": "GLSMSUZWTDVJMA-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)N(C)C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7475",
+    "validation": "m_weight unsave, calculated(177.24699999999999)"
+}

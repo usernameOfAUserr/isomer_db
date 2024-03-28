@@ -1,0 +1,13 @@
+{
+    "names": "Decylnorketobemidone",
+    "iupac_name": "1-[1-Decyl-4-(3-hydroxyphenyl)piperidin-4-yl]propan-1-one",
+    "category": "data not stored",
+    "index": 14524,
+    "formular": "C24H39NO2",
+    "molecular_weight": 373.572,
+    "inChl": "1S/C24H39NO2/c1-3-5-6-7-8-9-10-11-17-25-18-15-24(16-19-25,23(27)4-2)21-13-12-14-22(26)20-21/h12-14,20,26H,3-11,15-19H2,1-2H3",
+    "InChl_Key": "ZTJJECSMGGPEFY-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCCCN1CCC(C(=O)CC)(c2cccc(O)c2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14524",
+    "validation": "m_weight unsave, calculated(373.5810000000001)"
+}

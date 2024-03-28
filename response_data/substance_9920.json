@@ -1,0 +1,13 @@
+{
+    "names": "Cebranopadol ; GRT-6005",
+    "iupac_name": "(1r,4r)-6\u2032-Fluoro-N,N-dimethyl-4-phenyl-4\u2032,9\u2032-dihydro-3\u2032H-spiro[cyclohexane-1,1\u2032-pyrano[3,4-b]indol]-4-amine",
+    "category": "data not stored",
+    "index": 9920,
+    "formular": "C24H27FN2O",
+    "molecular_weight": 378.482,
+    "inChl": "1S/C24H27FN2O/c1-27(2)23(17-6-4-3-5-7-17)11-13-24(14-12-23)22-19(10-15-28-24)20-16-18(25)8-9-21(20)26-22/h3-9,16,26H,10-15H2,1-2H3/t23-,24-",
+    "InChl_Key": "CSMVOZKEWSOFER-RQNOJGIXSA-N",
+    "SMILES": "CN(C)[C@]1(c2ccccc2)CC[C@]2(CC1)OCCc1c3cc(F)ccc3[nH]c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9920",
+    "validation": "m_weight unsave, calculated(378.49100000000004)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "10-Hydroxy-\u03948-THC",
+    "iupac_name": "(6aR,10aR)-6,6,9-Trimethyl-3-pentyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-1,10-diol",
+    "category": "cannabinodids",
+    "index": 8100,
+    "formular": "C21H30O3",
+    "molecular_weight": 330.461,
+    "inChl": "1S/C21H30O3/c1-5-6-7-8-14-11-16(22)19-17(12-14)24-21(3,4)15-10-9-13(2)20(23)18(15)19/h9,11-12,15,18,20,22-23H,5-8,10H2,1-4H3/t15-,18-,20?/m1/s1",
+    "InChl_Key": "KQQMZTULVOWZJR-ILPDQNMUSA-N",
+    "SMILES": "CCCCCc1cc(O)c2c(c1)OC(C)(C)[C@@H]1CC=C(C)C(O)[C@@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8100",
+    "validation": "m_weight unsave, calculated(330.46800000000013)"
+}

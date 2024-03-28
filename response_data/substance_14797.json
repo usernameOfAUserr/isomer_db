@@ -1,0 +1,13 @@
+{
+    "names": "2-(5-Chloro-1H-indazol-3-yl)-N,N-dimethylethan-1-amine",
+    "iupac_name": "14797 ; C11H14ClN3 ; 223.702",
+    "category": "data not stored",
+    "index": 14797,
+    "formular": "C11H14ClN3",
+    "molecular_weight": 223.702,
+    "inChl": "1S/C11H14ClN3/c1-15(2)6-5-11-9-7-8(12)3-4-10(9)13-14-11/h3-4,7H,5-6H2,1-2H3,(H,13,14)",
+    "InChl_Key": "GHZFOEZISSDFOH-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1n[nH]c2ccc(Cl)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14797",
+    "validation": "m_weight unsave, calculated(223.70700000000002)"
+}

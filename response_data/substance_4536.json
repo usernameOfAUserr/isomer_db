@@ -1,0 +1,13 @@
+{
+    "names": "WO 2001/058869 #40",
+    "iupac_name": "Methyl N-{2-methyl-1-[2-(morpholin-4-yl)ethyl]-1H-indole-3-carbonyl}-L-phenylalaninate ; Methyl (2S)-2-({2-methyl-1-[2-(morpholin-4-yl)ethyl]-1H-indole-3-carbonyl}amino)-3-phenylpropanoate",
+    "category": "cannabinodids",
+    "index": 4536,
+    "formular": "C26H31N3O4",
+    "molecular_weight": 449.542,
+    "inChl": "1S/C26H31N3O4/c1-19-24(25(30)27-22(26(31)32-2)18-20-8-4-3-5-9-20)21-10-6-7-11-23(21)29(19)13-12-28-14-16-33-17-15-28/h3-11,22H,12-18H2,1-2H3,(H,27,30)/t22-/m0/s1",
+    "InChl_Key": "BIGBNLVWLAWOLK-QFIPXVFZSA-N",
+    "SMILES": "COC(=O)[C@H](Cc1ccccc1)NC(=O)c1c(C)n(CCN2CCOCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4536",
+    "validation": "m_weight unsave, calculated(449.5510000000004)"
+}

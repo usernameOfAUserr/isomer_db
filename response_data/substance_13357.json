@@ -1,0 +1,13 @@
+{
+    "names": "ADB-4en-P-5Br-INACA ; ADMB-4en-P-5Br-INACA",
+    "iupac_name": "N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-5-bromo-1-(pent-4-en-1-yl)-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 13357,
+    "formular": "C19H25BrN4O2",
+    "molecular_weight": 421.331,
+    "inChl": "1S/C19H25BrN4O2/c1-5-6-7-10-24-14-9-8-12(20)11-13(14)15(23-24)18(26)22-16(17(21)25)19(2,3)4/h5,8-9,11,16H,1,6-7,10H2,2-4H3,(H2,21,25)(H,22,26)",
+    "InChl_Key": "SKMMFULKOGGVOT-UHFFFAOYSA-N",
+    "SMILES": "C=CCCCn1nc(C(=O)NC(C(N)=O)C(C)(C)C)c2cc(Br)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13357",
+    "validation": "m_weight unsave, calculated(421.3390000000002)"
+}

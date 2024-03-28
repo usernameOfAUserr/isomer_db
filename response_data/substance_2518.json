@@ -1,0 +1,13 @@
+{
+    "names": "1-(4-Fluorophenyl)-N,N-dimethylbutan-2-amine",
+    "iupac_name": "2518 ; C12H18FN ; 195.276",
+    "category": "data not stored",
+    "index": 2518,
+    "formular": "C12H18FN",
+    "molecular_weight": 195.276,
+    "inChl": "1S/C12H18FN/c1-4-12(14(2)3)9-10-5-7-11(13)8-6-10/h5-8,12H,4,9H2,1-3H3",
+    "InChl_Key": "WRTXWPYFHQCBCN-UHFFFAOYSA-N",
+    "SMILES": "CCC(Cc1ccc(F)cc1)N(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2518",
+    "validation": "m_weight unsave, calculated(195.28099999999998)"
+}

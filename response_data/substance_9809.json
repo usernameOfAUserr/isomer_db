@@ -1,0 +1,13 @@
+{
+    "names": "iso-Methylphenidate",
+    "iupac_name": "Methyl phenyl(piperidin-3-yl)acetate",
+    "category": "data not stored",
+    "index": 9809,
+    "formular": "C14H19NO2",
+    "molecular_weight": 233.306,
+    "inChl": "1S/C14H19NO2/c1-17-14(16)13(11-6-3-2-4-7-11)12-8-5-9-15-10-12/h2-4,6-7,12-13,15H,5,8-10H2,1H3",
+    "InChl_Key": "HCXQGEAHPYGBRO-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(c1ccccc1)C1CCCNC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9809",
+    "validation": "m_weight unsave, calculated(233.31099999999995)"
+}

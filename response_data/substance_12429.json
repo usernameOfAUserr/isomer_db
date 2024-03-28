@@ -1,0 +1,13 @@
+{
+    "names": "LONI11",
+    "iupac_name": "1-[(2,4-Dichlorophenyl)methyl]-N-[(2S)-3,3-dimethyl-1-(methylamino)-1-oxobutan-2-yl]-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 12429,
+    "formular": "C22H24Cl2N4O2",
+    "molecular_weight": 447.358,
+    "inChl": "1S/C22H24Cl2N4O2/c1-22(2,3)19(21(30)25-4)26-20(29)18-15-7-5-6-8-17(15)28(27-18)12-13-9-10-14(23)11-16(13)24/h5-11,19H,12H2,1-4H3,(H,25,30)(H,26,29)/t19-/m1/s1",
+    "InChl_Key": "RLJSVPLJAMHACJ-LJQANCHMSA-N",
+    "SMILES": "CNC(=O)[C@@H](NC(=O)c1nn(Cc2ccc(Cl)cc2Cl)c2ccccc12)C(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12429",
+    "validation": "m_weight unsave, calculated(447.3660000000001)"
+}

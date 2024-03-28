@@ -1,0 +1,13 @@
+{
+    "names": "5-EAPB ; 5-(2-(Ethylamino)propyl)benzofuran",
+    "iupac_name": "1-(1-Benzofuran-5-yl)-N-ethylpropan-2-amine",
+    "category": "data not stored",
+    "index": 1291,
+    "formular": "C13H17NO",
+    "molecular_weight": 203.28,
+    "inChl": "1S/C13H17NO/c1-3-14-10(2)8-11-4-5-13-12(9-11)6-7-15-13/h4-7,9-10,14H,3,8H2,1-2H3",
+    "InChl_Key": "ZBZDDOARNPAMSP-UHFFFAOYSA-N",
+    "SMILES": "CCNC(C)Cc1ccc2occc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1291",
+    "validation": ""
+}

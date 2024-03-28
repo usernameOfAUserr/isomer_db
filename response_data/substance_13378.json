@@ -1,0 +1,13 @@
+{
+    "names": "5-Fluoro-PALT ; 5-Fluoro-N-propyl-N-allyltryptamine",
+    "iupac_name": "N-[2-(5-Fluoro-1H-indol-3-yl)ethyl]-N-propylprop-2-en-1-amine",
+    "category": "Tryptamine",
+    "index": 13378,
+    "formular": "C16H21FN2",
+    "molecular_weight": 260.35,
+    "inChl": "1S/C16H21FN2/c1-3-8-19(9-4-2)10-7-13-12-18-16-6-5-14(17)11-15(13)16/h3,5-6,11-12,18H,1,4,7-10H2,2H3",
+    "InChl_Key": "FWUVDPBLAKRRCP-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(CCC)CCc1c[nH]c2ccc(F)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13378",
+    "validation": "m_weight unsave, calculated(260.356)"
+}

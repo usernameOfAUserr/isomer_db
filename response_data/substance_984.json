@@ -1,0 +1,13 @@
+{
+    "names": "BTCP ; Benocyclidine ; BCP",
+    "iupac_name": "1-[1-(1-Benzothiophen-2-yl)cyclohexyl]piperidine",
+    "category": "Arylcycloalkylamine",
+    "index": 984,
+    "formular": "C19H25NS",
+    "molecular_weight": 299.474,
+    "inChl": "1S/C19H25NS/c1-5-11-19(12-6-1,20-13-7-2-8-14-20)18-15-16-9-3-4-10-17(16)21-18/h3-4,9-10,15H,1-2,5-8,11-14H2",
+    "InChl_Key": "RGSVXQJPSWZXOP-UHFFFAOYSA-N",
+    "SMILES": "c1ccc2sc(C3(N4CCCCC4)CCCCC3)cc2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=984",
+    "validation": "m_weight unsave, calculated(299.48299999999995)"
+}

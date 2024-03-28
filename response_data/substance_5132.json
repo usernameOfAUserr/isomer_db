@@ -1,0 +1,13 @@
+{
+    "names": "5-AcO-DMT ; 5-Acetoxy-N,N-dimethyltryptamine ; O-Acetylbufotenine",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-1H-indol-5-yl acetate",
+    "category": "Tryptamine",
+    "index": 5132,
+    "formular": "C14H18N2O2",
+    "molecular_weight": 246.305,
+    "inChl": "1S/C14H18N2O2/c1-10(17)18-12-4-5-14-13(8-12)11(9-15-14)6-7-16(2)3/h4-5,8-9,15H,6-7H2,1-3H3",
+    "InChl_Key": "BZFGYTBVFYYKOK-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Oc1ccc2[nH]cc(CCN(C)C)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5132",
+    "validation": "m_weight unsave, calculated(246.30999999999997)"
+}

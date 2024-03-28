@@ -1,0 +1,13 @@
+{
+    "names": "1,3-Indandione ; 1,3-Indanedione",
+    "iupac_name": "1H-Indene-1,3(2H)-dione",
+    "category": "data not stored",
+    "index": 3938,
+    "formular": "C9H6O2",
+    "molecular_weight": 146.143,
+    "inChl": "1S/C9H6O2/c10-8-5-9(11)7-4-2-1-3-6(7)8/h1-4H,5H2",
+    "InChl_Key": "UHKAJLSKXBADFT-UHFFFAOYSA-N",
+    "SMILES": "O=C1CC(=O)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3938",
+    "validation": "m_weight unsave, calculated(146.14499999999998)"
+}

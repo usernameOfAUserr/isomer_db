@@ -1,0 +1,13 @@
+{
+    "names": "6-Pivaloylmorphine",
+    "iupac_name": "(5\u03b1,6\u03b1)-3-Hydroxy-17-methyl-7,8-didehydro-4,5-epoxymorphinan-6-yl 2,2-dimethylpropanoate",
+    "category": "data not stored",
+    "index": 14056,
+    "formular": "C22H27NO4",
+    "molecular_weight": 369.454,
+    "inChl": "1S/C22H27NO4/c1-21(2,3)20(25)26-16-8-6-13-14-11-12-5-7-15(24)18-17(12)22(13,19(16)27-18)9-10-23(14)4/h5-8,13-14,16,19,24H,9-11H2,1-4H3/t13-,14+,16-,19-,22-/m0/s1",
+    "InChl_Key": "LBZYIMLIOJHFCM-JYSMHPMOSA-N",
+    "SMILES": "CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](OC(=O)C(C)(C)C)C=C[C@H]3[C@H]1C5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14056",
+    "validation": "m_weight unsave, calculated(369.4610000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "NO2-EOMA ; 4-Ethoxy-5-methoxy-2-nitroamphetamine",
+    "iupac_name": "1-(4-Ethoxy-5-methoxy-2-nitrophenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 2659,
+    "formular": "C12H18N2O4",
+    "molecular_weight": 254.282,
+    "inChl": "1S/C12H18N2O4/c1-4-18-12-7-10(14(15)16)9(5-8(2)13)6-11(12)17-3/h6-8H,4-5,13H2,1-3H3",
+    "InChl_Key": "YZGYJAVOJSUAPZ-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc([N+](=O)[O-])c(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2659",
+    "validation": "m_weight unsave, calculated(254.28599999999997)"
+}

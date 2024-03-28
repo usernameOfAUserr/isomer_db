@@ -1,0 +1,13 @@
+{
+    "names": "4-Cl-BAL",
+    "iupac_name": "4-Chlorobenzaldehyde",
+    "category": "data not stored",
+    "index": 11092,
+    "formular": "C7H5ClO",
+    "molecular_weight": 140.567,
+    "inChl": "1S/C7H5ClO/c8-7-3-1-6(5-9)2-4-7/h1-5H",
+    "InChl_Key": "AVPYQKSLYISFPO-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11092",
+    "validation": "m_weight unsave, calculated(140.56899999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-Cyclohexylethan-1-amine",
+    "iupac_name": "12165 ; C8H17N ; 127.227",
+    "category": "Phenetylamine",
+    "index": 12165,
+    "formular": "C8H17N",
+    "molecular_weight": 127.227,
+    "inChl": "1S/C8H17N/c9-7-6-8-4-2-1-3-5-8/h8H,1-7,9H2",
+    "InChl_Key": "HFACYWDPMNWMIW-UHFFFAOYSA-N",
+    "SMILES": "NCCC1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12165",
+    "validation": "m_weight unsave, calculated(127.23100000000001)"
+}

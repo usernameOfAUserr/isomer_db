@@ -1,0 +1,13 @@
+{
+    "names": "6-Benzyl-2-methyl-3-phenylpyridine",
+    "iupac_name": "12651 ; C19H17N ; 259.345",
+    "category": "data not stored",
+    "index": 12651,
+    "formular": "C19H17N",
+    "molecular_weight": 259.345,
+    "inChl": "1S/C19H17N/c1-15-19(17-10-6-3-7-11-17)13-12-18(20-15)14-16-8-4-2-5-9-16/h2-13H,14H2,1H3",
+    "InChl_Key": "VYDHPAHSQXEZCW-UHFFFAOYSA-N",
+    "SMILES": "Cc1nc(Cc2ccccc2)ccc1-c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12651",
+    "validation": "m_weight unsave, calculated(259.352)"
+}

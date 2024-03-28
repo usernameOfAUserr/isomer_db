@@ -1,0 +1,13 @@
+{
+    "names": "4-ProO-DMT ; 4-Propanoyloxy-N,N-dimethyltryptamine ; 4-Pro-DMT ; 4-Propionyloxy-N,N-dimethyltryptamine",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-1H-indol-4-yl propanoate",
+    "category": "Tryptamine",
+    "index": 7459,
+    "formular": "C15H20N2O2",
+    "molecular_weight": 260.332,
+    "inChl": "1S/C15H20N2O2/c1-4-14(18)19-13-7-5-6-12-15(13)11(10-16-12)8-9-17(2)3/h5-7,10,16H,4,8-9H2,1-3H3",
+    "InChl_Key": "KUOGXPDQORRHED-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)Oc1cccc2[nH]cc(CCN(C)C)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7459",
+    "validation": "m_weight unsave, calculated(260.33699999999993)"
+}

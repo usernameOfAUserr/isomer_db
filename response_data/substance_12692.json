@@ -1,0 +1,13 @@
+{
+    "names": "4,4-Dimethyl-7-(3-methyloctan-2-yl)-1,4-dihydro-2H-thieno[2,3-c][1]benzopyran-9-ol",
+    "iupac_name": "12692 ; C22H32O2S ; 360.553",
+    "category": "cannabinodids",
+    "index": 12692,
+    "formular": "C22H32O2S",
+    "molecular_weight": 360.553,
+    "inChl": "1S/C22H32O2S/c1-6-7-8-9-14(2)15(3)16-12-18(23)20-17-10-11-25-21(17)22(4,5)24-19(20)13-16/h12-15,23H,6-11H2,1-5H3",
+    "InChl_Key": "PZDFHHSXZRIAEF-UHFFFAOYSA-N",
+    "SMILES": "CCCCCC(C)C(C)c1cc(O)c2c(c1)OC(C)(C)C1=C2CCS1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12692",
+    "validation": "m_weight unsave, calculated(360.5630000000001)"
+}

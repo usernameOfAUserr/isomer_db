@@ -1,0 +1,13 @@
+{
+    "names": "25Oxetane-NBOMe ; N-(2-Methoxybenzyl)-4-(oxetan-3-yl)-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-[2,5-Dimethoxy-4-(oxetan-3-yl)phenyl]-N-[(2-methoxyphenyl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 5970,
+    "formular": "C21H27NO4",
+    "molecular_weight": 357.443,
+    "inChl": "1S/C21H27NO4/c1-23-19-7-5-4-6-16(19)12-22-9-8-15-10-21(25-3)18(11-20(15)24-2)17-13-26-14-17/h4-7,10-11,17,22H,8-9,12-14H2,1-3H3",
+    "InChl_Key": "NHTLTYVGVYQQKQ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2COC2)c(OC)cc1CCNCc1ccccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5970",
+    "validation": "m_weight unsave, calculated(357.4500000000001)"
+}

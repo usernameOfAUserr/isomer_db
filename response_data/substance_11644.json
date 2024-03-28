@@ -1,0 +1,13 @@
+{
+    "names": "SGT-245",
+    "iupac_name": "N-[2-Methyl-1-(pyrrolidin-1-yl)propan-2-yl]-1-[(oxan-4-yl)methyl]-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11644,
+    "formular": "C23H33N3O2",
+    "molecular_weight": 383.527,
+    "inChl": "1S/C23H33N3O2/c1-23(2,17-25-11-5-6-12-25)24-22(27)20-16-26(15-18-9-13-28-14-10-18)21-8-4-3-7-19(20)21/h3-4,7-8,16,18H,5-6,9-15,17H2,1-2H3,(H,24,27)",
+    "InChl_Key": "WALHTIWQCMVBOV-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(CN1CCCC1)NC(=O)c1cn(CC2CCOCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11644",
+    "validation": "m_weight unsave, calculated(383.5360000000002)"
+}

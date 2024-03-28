@@ -1,0 +1,13 @@
+{
+    "names": "4F-iPP ; 4-Fluoro-N-isopropylnorpentedrone",
+    "iupac_name": "1-(4-Fluorophenyl)-2-[(propan-2-yl)amino]pentan-1-one",
+    "category": "data not stored",
+    "index": 8580,
+    "formular": "C14H20FNO",
+    "molecular_weight": 237.313,
+    "inChl": "1S/C14H20FNO/c1-4-5-13(16-10(2)3)14(17)11-6-8-12(15)9-7-11/h6-10,13,16H,4-5H2,1-3H3",
+    "InChl_Key": "OWNVSTVTZITAOJ-UHFFFAOYSA-N",
+    "SMILES": "CCCC(NC(C)C)C(=O)c1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8580",
+    "validation": "m_weight unsave, calculated(237.31799999999998)"
+}

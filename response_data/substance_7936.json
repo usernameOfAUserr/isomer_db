@@ -1,0 +1,13 @@
+{
+    "names": "CBGA ; Cannabigerolic acid",
+    "iupac_name": "3-[(2E)-3,7-Dimethylocta-2,6-dien-1-yl]-2,4-dihydroxy-6-pentylbenzoic acid",
+    "category": "data not stored",
+    "index": 7936,
+    "formular": "C22H32O4",
+    "molecular_weight": 360.487,
+    "inChl": "1S/C22H32O4/c1-5-6-7-11-17-14-19(23)18(21(24)20(17)22(25)26)13-12-16(4)10-8-9-15(2)3/h9,12,14,23-24H,5-8,10-11,13H2,1-4H3,(H,25,26)/b16-12+",
+    "InChl_Key": "SEEZIOZEUUMJME-FOWTUZBSSA-N",
+    "SMILES": "CCCCCc1cc(O)c(C/C=C(\\C)CCC=C(C)C)c(O)c1C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7936",
+    "validation": "m_weight unsave, calculated(360.49400000000014)"
+}

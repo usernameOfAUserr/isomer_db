@@ -1,0 +1,13 @@
+{
+    "names": "p-Chloro-cyclobutylfentanyl ; 4\u2032-Chloro-cyclobutylfentanyl",
+    "iupac_name": "N-(4-Chlorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]cyclobutanecarboxamide",
+    "category": "Fentanyl",
+    "index": 1670,
+    "formular": "C24H29ClN2O",
+    "molecular_weight": 396.953,
+    "inChl": "1S/C24H29ClN2O/c25-21-9-11-22(12-10-21)27(24(28)20-7-4-8-20)23-14-17-26(18-15-23)16-13-19-5-2-1-3-6-19/h1-3,5-6,9-12,20,23H,4,7-8,13-18H2",
+    "InChl_Key": "BCYKSTXBLMALSD-UHFFFAOYSA-N",
+    "SMILES": "O=C(C1CCC1)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1670",
+    "validation": "m_weight unsave, calculated(396.96200000000016)"
+}

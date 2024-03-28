@@ -1,0 +1,13 @@
+{
+    "names": "2-Nitro-1-phenylpropan-1-ol",
+    "iupac_name": "11061 ; C9H11NO3 ; 181.189",
+    "category": "data not stored",
+    "index": 11061,
+    "formular": "C9H11NO3",
+    "molecular_weight": 181.189,
+    "inChl": "1S/C9H11NO3/c1-7(10(12)13)9(11)8-5-3-2-4-6-8/h2-7,9,11H,1H3",
+    "InChl_Key": "JGYVPZIKTZGAAD-UHFFFAOYSA-N",
+    "SMILES": "CC(C(O)c1ccccc1)[N+](=O)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11061",
+    "validation": "m_weight unsave, calculated(181.19100000000003)"
+}

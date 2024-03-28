@@ -1,0 +1,13 @@
+{
+    "names": "7-Bromo-5-methoxy-1-methyl-3-[(E)-2-nitroethenyl]-1H-indole",
+    "iupac_name": "13086 ; C12H11BrN2O3 ; 311.131",
+    "category": "data not stored",
+    "index": 13086,
+    "formular": "C12H11BrN2O3",
+    "molecular_weight": 311.131,
+    "inChl": "1S/C12H11BrN2O3/c1-14-7-8(3-4-15(16)17)10-5-9(18-2)6-11(13)12(10)14/h3-7H,1-2H3/b4-3+",
+    "InChl_Key": "RMVGNFNXHNHRSB-ONEGZZNKSA-N",
+    "SMILES": "COc1cc(Br)c2c(c1)c(/C=C/[N+](=O)[O-])cn2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13086",
+    "validation": "m_weight unsave, calculated(311.13500000000005)"
+}

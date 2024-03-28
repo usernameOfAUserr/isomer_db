@@ -1,0 +1,13 @@
+{
+    "names": "5,6-Difluoro-N-methyl-IPYR",
+    "iupac_name": "5,6-Difluoro-3-(1-methylpyrrolidin-3-yl)-1H-indole",
+    "category": "data not stored",
+    "index": 13367,
+    "formular": "C13H14F2N2",
+    "molecular_weight": 236.26,
+    "inChl": "1S/C13H14F2N2/c1-17-3-2-8(7-17)10-6-16-13-5-12(15)11(14)4-9(10)13/h4-6,8,16H,2-3,7H2,1H3",
+    "InChl_Key": "LRUHSQLVKQKHBQ-UHFFFAOYSA-N",
+    "SMILES": "CN1CCC(c2c[nH]c3cc(F)c(F)cc23)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13367",
+    "validation": ""
+}

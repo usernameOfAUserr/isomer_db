@@ -1,0 +1,13 @@
+{
+    "names": "Desmethylclozapine ; Norclozapine",
+    "iupac_name": "8-Chloro-11-(piperazin-1-yl)-5H-dibenzo[b,e][1,4]diazepine",
+    "category": "data not stored",
+    "index": 9414,
+    "formular": "C17H17ClN4",
+    "molecular_weight": 312.797,
+    "inChl": "1S/C17H17ClN4/c18-12-5-6-15-16(11-12)21-17(22-9-7-19-8-10-22)13-3-1-2-4-14(13)20-15/h1-6,11,19-20H,7-10H2",
+    "InChl_Key": "JNNOSTQEZICQQP-UHFFFAOYSA-N",
+    "SMILES": "Clc1ccc2c(c1)N=C(N1CCNCC1)c1ccccc1N2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9414",
+    "validation": "m_weight unsave, calculated(312.8039999999999)"
+}

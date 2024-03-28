@@ -1,0 +1,13 @@
+{
+    "names": "1-(5-Fluoropentyl)-N-(2-phenylpropan-2-yl)-5-(thiophen-2-yl)-1H-pyrrole-3-carboxamide",
+    "iupac_name": "7735 ; C23H27FN2OS ; 398.537",
+    "category": "cannabinodids",
+    "index": 7735,
+    "formular": "C23H27FN2OS",
+    "molecular_weight": 398.537,
+    "inChl": "1S/C23H27FN2OS/c1-23(2,19-10-5-3-6-11-19)25-22(27)18-16-20(21-12-9-15-28-21)26(17-18)14-8-4-7-13-24/h3,5-6,9-12,15-17H,4,7-8,13-14H2,1-2H3,(H,25,27)",
+    "InChl_Key": "CFTQPOQNFGTTIU-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(NC(=O)c1cc(-c2cccs2)n(CCCCCF)c1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7735",
+    "validation": "m_weight unsave, calculated(398.54700000000014)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-DPT ; 4-Hydroxy-N,N-dipropyltryptamine ; 3-[2-(Dipropylamino)ethyl]-4-indolol ; N,N-Dipropyl-4-hydroxytryptamine ; 4-Indolol, 3-[2-(dipropylamino)ethyl] ; Tryptamine, N,N-dipropyl-4-hydroxy",
+    "iupac_name": "3-[2-(Dipropylamino)ethyl]-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 5020,
+    "formular": "C16H24N2O",
+    "molecular_weight": 260.375,
+    "inChl": "1S/C16H24N2O/c1-3-9-18(10-4-2)11-8-13-12-17-14-6-5-7-15(19)16(13)14/h5-7,12,17,19H,3-4,8-11H2,1-2H3",
+    "InChl_Key": "MZLRMPTVOVJXLW-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)CCc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5020",
+    "validation": "m_weight unsave, calculated(260.381)"
+}

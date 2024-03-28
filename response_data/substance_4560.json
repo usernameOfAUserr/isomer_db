@@ -1,0 +1,13 @@
+{
+    "names": "7-Methoxy-2-methyl-1-[2-(morpholin-4-yl)ethyl]-N-(2,2,6,6-tetramethylcyclohexyl)-1H-indole-3-carboxamide",
+    "iupac_name": "4560 ; C27H41N3O3 ; 455.633",
+    "category": "cannabinodids",
+    "index": 4560,
+    "formular": "C27H41N3O3",
+    "molecular_weight": 455.633,
+    "inChl": "1S/C27H41N3O3/c1-19-22(24(31)28-25-26(2,3)11-8-12-27(25,4)5)20-9-7-10-21(32-6)23(20)30(19)14-13-29-15-17-33-18-16-29/h7,9-10,25H,8,11-18H2,1-6H3,(H,28,31)",
+    "InChl_Key": "XPAINUNSBXWJJS-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2c(C(=O)NC3C(C)(C)CCCC3(C)C)c(C)n(CCN3CCOCC3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4560",
+    "validation": "m_weight unsave, calculated(455.64300000000026)"
+}

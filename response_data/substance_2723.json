@@ -1,0 +1,13 @@
+{
+    "names": "3-Cl-N-EtTMPM ; 3\u2032-Chloro-4-ethyl-5,5-dimethylphenmetrazine",
+    "iupac_name": "2-(3-Chlorophenyl)-4-ethyl-3,5,5-trimethylmorpholine",
+    "category": "data not stored",
+    "index": 2723,
+    "formular": "C15H22ClNO",
+    "molecular_weight": 267.794,
+    "inChl": "1S/C15H22ClNO/c1-5-17-11(2)14(18-10-15(17,3)4)12-7-6-8-13(16)9-12/h6-9,11,14H,5,10H2,1-4H3",
+    "InChl_Key": "LPGUCVOJWAKTHP-UHFFFAOYSA-N",
+    "SMILES": "CCN1C(C)C(c2cccc(Cl)c2)OCC1(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2723",
+    "validation": "m_weight unsave, calculated(267.8)"
+}

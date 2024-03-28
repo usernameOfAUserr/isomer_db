@@ -1,0 +1,13 @@
+{
+    "names": "2,3,6-2C-T-7 ; 2,3-Dimethoxy-6-propylthiophenethylamine",
+    "iupac_name": "2-[2,3-Dimethoxy-6-(propylsulfanyl)phenyl]ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7756,
+    "formular": "C13H21NO2S",
+    "molecular_weight": 255.376,
+    "inChl": "1S/C13H21NO2S/c1-4-9-17-12-6-5-11(15-2)13(16-3)10(12)7-8-14/h5-6H,4,7-9,14H2,1-3H3",
+    "InChl_Key": "CFPLMSXFORWPEO-UHFFFAOYSA-N",
+    "SMILES": "CCCSc1ccc(OC)c(OC)c1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7756",
+    "validation": "m_weight unsave, calculated(255.38299999999998)"
+}

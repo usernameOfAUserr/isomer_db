@@ -1,0 +1,13 @@
+{
+    "names": "WO 2009/106982 #12",
+    "iupac_name": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-1-benzyl-1H-pyrazolo[3,4-b]pyridine-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4571,
+    "formular": "C20H23N5O2",
+    "molecular_weight": 365.429,
+    "inChl": "1S/C20H23N5O2/c1-20(2,3)16(17(21)26)23-19(27)15-14-10-7-11-22-18(14)25(24-15)12-13-8-5-4-6-9-13/h4-11,16H,12H2,1-3H3,(H2,21,26)(H,23,27)/t16-/m1/s1",
+    "InChl_Key": "ROZDCQPFUXCALE-MRXNPFEDSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(Cc2ccccc2)c2ncccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4571",
+    "validation": "m_weight unsave, calculated(365.43700000000007)"
+}

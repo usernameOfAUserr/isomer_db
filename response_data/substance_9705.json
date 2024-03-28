@@ -1,0 +1,13 @@
+{
+    "names": "Naltrexone",
+    "iupac_name": "17-(Cyclopropylmethyl)-3,14-dihydroxy-4,5\u03b1-epoxymorphinan-6-one ; (4R,4aS,7aR,12bS)-3-(Cyclopropylmethyl)-4a,9-dihydroxy-2,3,4,4a,5,6-hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinolin-7(7aH)-one ; (5\u03b1)-17-(Cyclopropylmethyl)-3,14-dihydroxy-4,5-epoxymorphinan-6-one",
+    "category": "data not stored",
+    "index": 9705,
+    "formular": "C20H23NO4",
+    "molecular_weight": 341.401,
+    "inChl": "1S/C20H23NO4/c22-13-4-3-12-9-15-20(24)6-5-14(23)18-19(20,16(12)17(13)25-18)7-8-21(15)10-11-1-2-11/h3-4,11,15,18,22,24H,1-2,5-10H2/t15-,18+,19+,20-/m1/s1",
+    "InChl_Key": "DQCKKXVULJGBQN-XFWGSAIBSA-N",
+    "SMILES": "O=C1CC[C@@]2(O)[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3CC2CC2)[C@H]1O5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9705",
+    "validation": "m_weight unsave, calculated(341.407)"
+}

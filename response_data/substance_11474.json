@@ -1,0 +1,13 @@
+{
+    "names": "4-Flmodafinil",
+    "iupac_name": "2-[(4-Fluorophenyl)(phenyl)methanesulfinyl]acetamide",
+    "category": "data not stored",
+    "index": 11474,
+    "formular": "C15H14FNO2S",
+    "molecular_weight": 291.341,
+    "inChl": "1S/C15H14FNO2S/c16-13-8-6-12(7-9-13)15(20(19)10-14(17)18)11-4-2-1-3-5-11/h1-9,15H,10H2,(H2,17,18)",
+    "InChl_Key": "MQJAICLKVWBVCS-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)CS(=O)C(c1ccccc1)c1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11474",
+    "validation": "m_weight unsave, calculated(291.347)"
+}

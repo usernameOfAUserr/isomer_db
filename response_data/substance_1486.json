@@ -1,0 +1,13 @@
+{
+    "names": "2-Phenyl-N-(1-phenylpropan-2-yl)cyclopropan-1-amine ; 2-Phenyl-N-(1-phenylpropan-2-yl)cyclopropanamine",
+    "iupac_name": "1486 ; C18H21N ; 251.366",
+    "category": "data not stored",
+    "index": 1486,
+    "formular": "C18H21N",
+    "molecular_weight": 251.366,
+    "inChl": "1S/C18H21N/c1-14(12-15-8-4-2-5-9-15)19-18-13-17(18)16-10-6-3-7-11-16/h2-11,14,17-19H,12-13H2,1H3",
+    "InChl_Key": "WYMOILKEUATGHW-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NC1CC1c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1486",
+    "validation": "m_weight unsave, calculated(251.37300000000002)"
+}

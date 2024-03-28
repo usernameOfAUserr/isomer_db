@@ -1,0 +1,13 @@
+{
+    "names": "3-(Dimethylamino)-2-methyl-1-(selenophen-2-yl)propan-1-one",
+    "iupac_name": "12115 ; C10H15NOSe ; 244.192",
+    "category": "Phenetylamine",
+    "index": 12115,
+    "formular": "C10H15NOSe",
+    "molecular_weight": 244.192,
+    "inChl": "1S/C10H15NOSe/c1-8(7-11(2)3)10(12)9-5-4-6-13-9/h4-6,8H,7H2,1-3H3",
+    "InChl_Key": "VXFHISBCPHUFFP-UHFFFAOYSA-N",
+    "SMILES": "CC(CN(C)C)C(=O)c1ccc[se]1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12115",
+    "validation": "m_weight unsave, calculated(244.19599999999997)"
+}

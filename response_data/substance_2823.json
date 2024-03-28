@@ -1,0 +1,13 @@
+{
+    "names": "LS-112935",
+    "iupac_name": "1-Methyl-4-(1-phenylcyclohexyl)piperazine",
+    "category": "Arylcycloalkylamine",
+    "index": 2823,
+    "formular": "C17H26N2",
+    "molecular_weight": 258.402,
+    "inChl": "1S/C17H26N2/c1-18-12-14-19(15-13-18)17(10-6-3-7-11-17)16-8-4-2-5-9-16/h2,4-5,8-9H,3,6-7,10-15H2,1H3",
+    "InChl_Key": "OYUCDSLJJSMPAE-UHFFFAOYSA-N",
+    "SMILES": "CN1CCN(C2(c3ccccc3)CCCCC2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2823",
+    "validation": "m_weight unsave, calculated(258.40899999999993)"
+}

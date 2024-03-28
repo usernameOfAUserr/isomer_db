@@ -1,0 +1,13 @@
+{
+    "names": "2-(1H-Imidazol-2-yl)propan-1-amine",
+    "iupac_name": "10975 ; C6H11N3 ; 125.172",
+    "category": "Phenetylamine",
+    "index": 10975,
+    "formular": "C6H11N3",
+    "molecular_weight": 125.172,
+    "inChl": "1S/C6H11N3/c1-5(4-7)6-8-2-3-9-6/h2-3,5H,4,7H2,1H3,(H,8,9)",
+    "InChl_Key": "ZKVYCQSCJORSLS-UHFFFAOYSA-N",
+    "SMILES": "CC(CN)c1ncc[nH]1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10975",
+    "validation": "m_weight unsave, calculated(125.17499999999998)"
+}

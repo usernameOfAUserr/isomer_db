@@ -1,0 +1,13 @@
+{
+    "names": "1-(2,5-Dimethoxyphenyl)propan-1-one",
+    "iupac_name": "6772 ; C11H14O3 ; 194.227",
+    "category": "data not stored",
+    "index": 6772,
+    "formular": "C11H14O3",
+    "molecular_weight": 194.227,
+    "inChl": "1S/C11H14O3/c1-4-10(12)9-7-8(13-2)5-6-11(9)14-3/h5-7H,4H2,1-3H3",
+    "InChl_Key": "DKVCHMQHUMLKPO-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)c1cc(OC)ccc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6772",
+    "validation": "m_weight unsave, calculated(194.22999999999996)"
+}

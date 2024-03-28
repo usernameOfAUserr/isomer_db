@@ -1,0 +1,13 @@
+{
+    "names": "1-(Octahydro-1H-4,7-methanoinden-5-yl)propan-2-amine",
+    "iupac_name": "12181 ; C13H23N ; 193.328",
+    "category": "Phenetylamine",
+    "index": 12181,
+    "formular": "C13H23N",
+    "molecular_weight": 193.328,
+    "inChl": "1S/C13H23N/c1-8(14)5-9-6-10-7-13(9)12-4-2-3-11(10)12/h8-13H,2-7,14H2,1H3",
+    "InChl_Key": "VKDGZUFPTUINNW-UHFFFAOYSA-N",
+    "SMILES": "CC(N)CC1CC2CC1C1CCCC21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12181",
+    "validation": "m_weight unsave, calculated(193.33399999999995)"
+}

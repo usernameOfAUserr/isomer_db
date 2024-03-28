@@ -1,0 +1,13 @@
+{
+    "names": "25E-NBF6OH ; N-(2-Fluoro-6-hydroxybenzyl)-4-ethyl-2,5-dimethoxyphenethylamine ; 25E-NBOH6F",
+    "iupac_name": "2-({[2-(4-Ethyl-2,5-dimethoxyphenyl)ethyl]amino}methyl)-3-fluorophenol",
+    "category": "Prophetic?",
+    "index": 11409,
+    "formular": "C19H24FNO3",
+    "molecular_weight": 333.397,
+    "inChl": "1S/C19H24FNO3/c1-4-13-10-19(24-3)14(11-18(13)23-2)8-9-21-12-15-16(20)6-5-7-17(15)22/h5-7,10-11,21-22H,4,8-9,12H2,1-3H3",
+    "InChl_Key": "AFVMVFVZVHMHNZ-UHFFFAOYSA-N",
+    "SMILES": "CCc1cc(OC)c(CCNCc2c(O)cccc2F)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11409",
+    "validation": "m_weight unsave, calculated(333.403)"
+}

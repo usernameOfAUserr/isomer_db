@@ -1,0 +1,13 @@
+{
+    "names": "2\u2033-Hydroxycarfentanil",
+    "iupac_name": "Methyl 1-[2-(2-hydroxyphenyl)ethyl]-4-[phenyl(propanoyl)amino]piperidine-4-carboxylate",
+    "category": "Fentanyl",
+    "index": 8362,
+    "formular": "C24H30N2O4",
+    "molecular_weight": 410.506,
+    "inChl": "1S/C24H30N2O4/c1-3-22(28)26(20-10-5-4-6-11-20)24(23(29)30-2)14-17-25(18-15-24)16-13-19-9-7-8-12-21(19)27/h4-12,27H,3,13-18H2,1-2H3",
+    "InChl_Key": "BOXACENIBMHDHY-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(CCc2ccccc2O)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8362",
+    "validation": "m_weight unsave, calculated(410.5140000000001)"
+}

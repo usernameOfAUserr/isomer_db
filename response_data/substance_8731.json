@@ -1,0 +1,13 @@
+{
+    "names": "RTI-32 2-MOM",
+    "iupac_name": "(2S,3S)-2-(Methoxymethyl)-8-methyl-3-(4-methylphenyl)-8-azabicyclo[3.2.1]octane",
+    "category": "data not stored",
+    "index": 8731,
+    "formular": "C17H25NO",
+    "molecular_weight": 259.387,
+    "inChl": "1S/C17H25NO/c1-12-4-6-13(7-5-12)15-10-14-8-9-17(18(14)2)16(15)11-19-3/h4-7,14-17H,8-11H2,1-3H3/t14?,15-,16+,17?/m1/s1",
+    "InChl_Key": "YGTHISLOXCTYOU-GMRIPVOYSA-N",
+    "SMILES": "COC[C@@H]1C2CCC(C[C@@H]1c1ccc(C)cc1)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8731",
+    "validation": "m_weight unsave, calculated(259.39300000000003)"
+}

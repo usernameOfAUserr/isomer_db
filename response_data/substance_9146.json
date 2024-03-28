@@ -1,0 +1,13 @@
+{
+    "names": "4-(Furan-2-yl)-3-methyl-1-(2-phenylethyl)-4-propoxypiperidine",
+    "iupac_name": "9146 ; C21H29NO2 ; 327.46",
+    "category": "data not stored",
+    "index": 9146,
+    "formular": "C21H29NO2",
+    "molecular_weight": 327.46,
+    "inChl": "1S/C21H29NO2/c1-3-15-24-21(20-10-7-16-23-20)12-14-22(17-18(21)2)13-11-19-8-5-4-6-9-19/h4-10,16,18H,3,11-15,17H2,1-2H3",
+    "InChl_Key": "HEFQERULSQCJLZ-UHFFFAOYSA-N",
+    "SMILES": "CCCOC1(c2ccco2)CCN(CCc2ccccc2)CC1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9146",
+    "validation": "m_weight unsave, calculated(327.4680000000001)"
+}

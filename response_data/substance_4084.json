@@ -1,0 +1,13 @@
+{
+    "names": "{2-Methyl-1-[2-(morpholin-4-yl)ethyl]-1H-indol-3-yl}(quinolin-7-yl)methanone",
+    "iupac_name": "4084 ; C25H25N3O2 ; 399.485",
+    "category": "cannabinodids",
+    "index": 4084,
+    "formular": "C25H25N3O2",
+    "molecular_weight": 399.485,
+    "inChl": "1S/C25H25N3O2/c1-18-24(25(29)20-9-8-19-5-4-10-26-22(19)17-20)21-6-2-3-7-23(21)28(18)12-11-27-13-15-30-16-14-27/h2-10,17H,11-16H2,1H3",
+    "InChl_Key": "MKFQSRZGXGZRFE-UHFFFAOYSA-N",
+    "SMILES": "Cc1c(C(=O)c2ccc3cccnc3c2)c2ccccc2n1CCN1CCOCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4084",
+    "validation": "m_weight unsave, calculated(399.4940000000001)"
+}

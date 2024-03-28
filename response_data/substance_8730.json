@@ -1,0 +1,13 @@
+{
+    "names": "RTI-348",
+    "iupac_name": "(2R,3S)-8-Methyl-2,3-diphenyl-8-azabicyclo[3.2.1]octane",
+    "category": "data not stored",
+    "index": 8730,
+    "formular": "C20H23N",
+    "molecular_weight": 277.403,
+    "inChl": "1S/C20H23N/c1-21-17-12-13-19(21)20(16-10-6-3-7-11-16)18(14-17)15-8-4-2-5-9-15/h2-11,17-20H,12-14H2,1H3/t17?,18-,19?,20+/m1/s1",
+    "InChl_Key": "URXGPOFPBIBVGT-NBDWZHNGSA-N",
+    "SMILES": "CN1C2CCC1[C@@H](c1ccccc1)[C@@H](c1ccccc1)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8730",
+    "validation": "m_weight unsave, calculated(277.411)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "25I-N4MT3M ; N4MT3M-2CI",
+    "iupac_name": "2-(4-Iodo-2,5-dimethoxyphenyl)-N-[(4-methoxythiophen-3-yl)methyl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 2427,
+    "formular": "C16H20INO3S",
+    "molecular_weight": 433.304,
+    "inChl": "1S/C16H20INO3S/c1-19-14-7-13(17)15(20-2)6-11(14)4-5-18-8-12-9-22-10-16(12)21-3/h6-7,9-10,18H,4-5,8H2,1-3H3",
+    "InChl_Key": "UTMRVIAXDLNLDV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2cscc2OC)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2427",
+    "validation": "m_weight unsave, calculated(433.3110000000002)"
+}

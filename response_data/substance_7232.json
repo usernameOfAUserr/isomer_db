@@ -1,0 +1,13 @@
+{
+    "names": "2C-F3M ; 4-(Furan-3-ylmethyl)-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-{4-[(Furan-3-yl)methyl]-2,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 7232,
+    "formular": "C15H19NO3",
+    "molecular_weight": 261.316,
+    "inChl": "1S/C15H19NO3/c1-17-14-9-13(7-11-4-6-19-10-11)15(18-2)8-12(14)3-5-16/h4,6,8-10H,3,5,7,16H2,1-2H3",
+    "InChl_Key": "WHDZRVDEBJIRJW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Cc2ccoc2)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7232",
+    "validation": "m_weight unsave, calculated(261.32099999999997)"
+}

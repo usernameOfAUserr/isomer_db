@@ -1,0 +1,13 @@
+{
+    "names": "A17",
+    "iupac_name": "5-Chloro-N-{[1-(dimethylamino)cyclohexyl]methyl}thiophene-2-carboxamide",
+    "category": "data not stored",
+    "index": 7616,
+    "formular": "C14H21ClN2OS",
+    "molecular_weight": 300.847,
+    "inChl": "1S/C14H21ClN2OS/c1-17(2)14(8-4-3-5-9-14)10-16-13(18)11-6-7-12(15)19-11/h6-7H,3-5,8-10H2,1-2H3,(H,16,18)",
+    "InChl_Key": "LMSDSOLIKLFMOE-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1(CNC(=O)c2ccc(Cl)s2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7616",
+    "validation": "m_weight unsave, calculated(300.8550000000001)"
+}

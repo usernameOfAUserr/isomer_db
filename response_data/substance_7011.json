@@ -1,0 +1,13 @@
+{
+    "names": "2,3,4-DOB ; 2-Bromo-3,4-dimethoxyamphetamine",
+    "iupac_name": "1-(2-Bromo-3,4-dimethoxyphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7011,
+    "formular": "C11H16BrNO2",
+    "molecular_weight": 274.154,
+    "inChl": "1S/C11H16BrNO2/c1-7(13)6-8-4-5-9(14-2)11(15-3)10(8)12/h4-5,7H,6,13H2,1-3H3",
+    "InChl_Key": "MYNGUVCYHDQOCQ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CC(C)N)c(Br)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7011",
+    "validation": "m_weight unsave, calculated(274.158)"
+}

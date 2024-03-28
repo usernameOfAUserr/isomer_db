@@ -1,0 +1,13 @@
+{
+    "names": "DMMH-4 ; Salsolidine",
+    "iupac_name": "6,7-Dimethoxy-1-methyl-1,2,3,4-tetrahydroisoquinoline",
+    "category": "data not stored",
+    "index": 2270,
+    "formular": "C12H17NO2",
+    "molecular_weight": 207.269,
+    "inChl": "1S/C12H17NO2/c1-8-10-7-12(15-3)11(14-2)6-9(10)4-5-13-8/h6-8,13H,4-5H2,1-3H3",
+    "InChl_Key": "HMYJLVDKPJHJCF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(cc1OC)C(C)NCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2270",
+    "validation": "m_weight unsave, calculated(207.27299999999997)"
+}

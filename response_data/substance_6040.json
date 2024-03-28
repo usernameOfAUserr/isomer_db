@@ -1,0 +1,13 @@
+{
+    "names": "3-AcO-PCP",
+    "iupac_name": "3-[1-(Piperidin-1-yl)cyclohexyl]phenyl acetate",
+    "category": "Arylcycloalkylamine",
+    "index": 6040,
+    "formular": "C19H27NO2",
+    "molecular_weight": 301.423,
+    "inChl": "1S/C19H27NO2/c1-16(21)22-18-10-8-9-17(15-18)19(11-4-2-5-12-19)20-13-6-3-7-14-20/h8-10,15H,2-7,11-14H2,1H3",
+    "InChl_Key": "RGGCGAGCOULBPE-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)Oc1cccc(C2(N3CCCCC3)CCCCC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6040",
+    "validation": "m_weight unsave, calculated(301.43000000000006)"
+}

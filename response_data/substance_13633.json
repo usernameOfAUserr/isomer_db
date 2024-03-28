@@ -1,0 +1,13 @@
+{
+    "names": "5-Fluoro-CPPMI ; 5-Fluoro-3-(N-cyclopropylpyrrolidinylmethyl)indole",
+    "iupac_name": "3-[(1-Cyclopropylpyrrolidin-2-yl)methyl]-5-fluoro-1H-indole",
+    "category": "data not stored",
+    "index": 13633,
+    "formular": "C16H19FN2",
+    "molecular_weight": 258.334,
+    "inChl": "1S/C16H19FN2/c17-12-3-6-16-15(9-12)11(10-18-16)8-14-2-1-7-19(14)13-4-5-13/h3,6,9-10,13-14,18H,1-2,4-5,7-8H2",
+    "InChl_Key": "JBRPSBJLUXENHS-UHFFFAOYSA-N",
+    "SMILES": "Fc1ccc2[nH]cc(CC3CCCN3C3CC3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13633",
+    "validation": "m_weight unsave, calculated(258.34)"
+}

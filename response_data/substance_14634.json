@@ -1,0 +1,13 @@
+{
+    "names": "3,4-(Difluoromethylenedioxy)-\u03b2-nitrostyrene",
+    "iupac_name": "2,2-Difluoro-5-[(E)-2-nitroethenyl]-2H-1,3-benzodioxole",
+    "category": "data not stored",
+    "index": 14634,
+    "formular": "C9H5F2NO4",
+    "molecular_weight": 229.137,
+    "inChl": "1S/C9H5F2NO4/c10-9(11)15-7-2-1-6(3-4-12(13)14)5-8(7)16-9/h1-5H/b4-3+",
+    "InChl_Key": "QDPFQTZFVOZJEL-ONEGZZNKSA-N",
+    "SMILES": "O=[N+]([O-])/C=C/c1ccc2c(c1)OC(F)(F)O2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14634",
+    "validation": "m_weight unsave, calculated(229.13799999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2,4-EMPEA ; 2-Ethoxy-4-methoxyphenethylamine",
+    "iupac_name": "2-(2-Ethoxy-4-methoxyphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 6466,
+    "formular": "C11H17NO2",
+    "molecular_weight": 195.258,
+    "inChl": "1S/C11H17NO2/c1-3-14-11-8-10(13-2)5-4-9(11)6-7-12/h4-5,8H,3,6-7,12H2,1-2H3",
+    "InChl_Key": "QAXUKBWYVGIBRW-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(OC)ccc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6466",
+    "validation": "m_weight unsave, calculated(195.26199999999994)"
+}

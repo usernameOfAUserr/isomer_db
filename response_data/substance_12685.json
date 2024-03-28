@@ -1,0 +1,13 @@
+{
+    "names": "2-Methyl-6,7-dimethoxy-8-hydroxy-3,4-dihydroisoquinolinium inner salt",
+    "iupac_name": "6,7-Dimethoxy-2-methyl-3,4-dihydroisoquinolin-2-ium-8-olate",
+    "category": "data not stored",
+    "index": 12685,
+    "formular": "C12H15NO3",
+    "molecular_weight": 221.252,
+    "inChl": "1S/C12H15NO3/c1-13-5-4-8-6-10(15-2)12(16-3)11(14)9(8)7-13/h6-7H,4-5H2,1-3H3",
+    "InChl_Key": "DIJKYVMQOZWMRX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(c([O-])c1OC)C=[N+](C)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12685",
+    "validation": "m_weight unsave, calculated(221.25599999999994)"
+}

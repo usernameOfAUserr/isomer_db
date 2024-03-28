@@ -1,0 +1,13 @@
+{
+    "names": "Isomephedrone",
+    "iupac_name": "1-(Methylamino)-1-(4-methylphenyl)propan-2-one",
+    "category": "data not stored",
+    "index": 2525,
+    "formular": "C11H15NO",
+    "molecular_weight": 177.243,
+    "inChl": "1S/C11H15NO/c1-8-4-6-10(7-5-8)11(12-3)9(2)13/h4-7,11-12H,1-3H3",
+    "InChl_Key": "YYAJPXVZVYGQIQ-UHFFFAOYSA-N",
+    "SMILES": "CNC(C(C)=O)c1ccc(C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2525",
+    "validation": "m_weight unsave, calculated(177.24699999999996)"
+}

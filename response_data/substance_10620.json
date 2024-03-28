@@ -1,0 +1,13 @@
+{
+    "names": "2-(4-Nitrophenyl)-4-(propan-2-yl)morpholine",
+    "iupac_name": "10620 ; C13H18N2O3 ; 250.294",
+    "category": "Phenetylamine",
+    "index": 10620,
+    "formular": "C13H18N2O3",
+    "molecular_weight": 250.294,
+    "inChl": "1S/C13H18N2O3/c1-10(2)14-7-8-18-13(9-14)11-3-5-12(6-4-11)15(16)17/h3-6,10,13H,7-9H2,1-2H3",
+    "InChl_Key": "IKRIJCFBDQXYMM-UHFFFAOYSA-N",
+    "SMILES": "CC(C)N1CCOC(c2ccc([N+](=O)[O-])cc2)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10620",
+    "validation": "m_weight unsave, calculated(250.298)"
+}

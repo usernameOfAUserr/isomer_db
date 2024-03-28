@@ -1,0 +1,13 @@
+{
+    "names": "4-CF3-PBCHP",
+    "iupac_name": "1-{2-[4-(Trifluoromethyl)phenyl]bicyclo[2.2.1]heptan-2-yl}piperidine",
+    "category": "Arylcycloalkylamine",
+    "index": 1195,
+    "formular": "C19H24F3N",
+    "molecular_weight": 323.396,
+    "inChl": "1S/C19H24F3N/c20-19(21,22)16-8-6-15(7-9-16)18(23-10-2-1-3-11-23)13-14-4-5-17(18)12-14/h6-9,14,17H,1-5,10-13H2",
+    "InChl_Key": "AYPWFLXZTSGQQL-UHFFFAOYSA-N",
+    "SMILES": "FC(F)(F)c1ccc(C2(N3CCCCC3)CC3CCC2C3)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1195",
+    "validation": "m_weight unsave, calculated(323.402)"
+}

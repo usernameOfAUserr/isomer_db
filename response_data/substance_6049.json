@@ -1,0 +1,13 @@
+{
+    "names": "US 7049327 #11",
+    "iupac_name": "(3S,4R)-3-[(Dimethylamino)methyl]-4-methyl-1-(1-phenylcyclohexyl)piperidin-4-ol",
+    "category": "Arylcycloalkylamine",
+    "index": 6049,
+    "formular": "C21H34N2O",
+    "molecular_weight": 330.507,
+    "inChl": "1S/C21H34N2O/c1-20(24)14-15-23(17-19(20)16-22(2)3)21(12-8-5-9-13-21)18-10-6-4-7-11-18/h4,6-7,10-11,19,24H,5,8-9,12-17H2,1-3H3/t19-,20+/m0/s1",
+    "InChl_Key": "LFUUHGOWIIYTGI-VQTJNVASSA-N",
+    "SMILES": "CN(C)C[C@H]1CN(C2(c3ccccc3)CCCCC2)CC[C@@]1(C)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6049",
+    "validation": "m_weight unsave, calculated(330.51599999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-(5-Chlorothiophen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one",
+    "iupac_name": "1297 ; C13H18ClNOS ; 271.806",
+    "category": "data not stored",
+    "index": 1297,
+    "formular": "C13H18ClNOS",
+    "molecular_weight": 271.806,
+    "inChl": "1S/C13H18ClNOS/c1-2-5-10(15-8-3-4-9-15)13(16)11-6-7-12(14)17-11/h6-7,10H,2-5,8-9H2,1H3",
+    "InChl_Key": "LQODNSVKUKBPFT-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccc(Cl)s1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1297",
+    "validation": "m_weight unsave, calculated(271.813)"
+}

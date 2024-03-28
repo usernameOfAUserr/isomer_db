@@ -1,0 +1,13 @@
+{
+    "names": "5-(NACSyl)-N-Me-\u03b1-MeDA",
+    "iupac_name": "N-Acetyl-S-{2,3-dihydroxy-5-[2-(methylamino)propyl]phenyl}cysteine ; 2-Acetamido-3-({2,3-dihydroxy-5-[2-(methylamino)propyl]phenyl}sulfanyl)propanoic acid",
+    "category": "Phenetylamine",
+    "index": 12215,
+    "formular": "C15H22N2O5S",
+    "molecular_weight": 342.411,
+    "inChl": "1S/C15H22N2O5S/c1-8(16-3)4-10-5-12(19)14(20)13(6-10)23-7-11(15(21)22)17-9(2)18/h5-6,8,11,16,19-20H,4,7H2,1-3H3,(H,17,18)(H,21,22)",
+    "InChl_Key": "JBSMMUAXYDZFQD-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1cc(O)c(O)c(SCC(NC(C)=O)C(=O)O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12215",
+    "validation": "m_weight unsave, calculated(342.41700000000003)"
+}

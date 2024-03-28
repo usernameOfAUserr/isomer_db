@@ -1,0 +1,13 @@
+{
+    "names": "bk-MBDB-M1 ; 4\u2032-Hydroxy-3\u2032-methoxy-2-(methylamino)butanophenone",
+    "iupac_name": "1-(4-Hydroxy-3-methoxyphenyl)-2-(methylamino)butan-1-one",
+    "category": "data not stored",
+    "index": 1057,
+    "formular": "C12H17NO3",
+    "molecular_weight": 223.268,
+    "inChl": "1S/C12H17NO3/c1-4-9(13-2)12(15)8-5-6-10(14)11(7-8)16-3/h5-7,9,13-14H,4H2,1-3H3",
+    "InChl_Key": "CYXZSSNTJZPLSB-UHFFFAOYSA-N",
+    "SMILES": "CCC(NC)C(=O)c1ccc(O)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1057",
+    "validation": "m_weight unsave, calculated(223.272)"
+}

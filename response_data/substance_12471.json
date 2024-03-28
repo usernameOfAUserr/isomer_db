@@ -1,0 +1,13 @@
+{
+    "names": "Gramine ; Donaxine",
+    "iupac_name": "1-(1H-Indol-3-yl)-N,N-dimethylmethanamine",
+    "category": "data not stored",
+    "index": 12471,
+    "formular": "C11H14N2",
+    "molecular_weight": 174.242,
+    "inChl": "1S/C11H14N2/c1-13(2)8-9-7-12-11-6-4-3-5-10(9)11/h3-7,12H,8H2,1-2H3",
+    "InChl_Key": "OCDGBSUVYYVKQZ-UHFFFAOYSA-N",
+    "SMILES": "CN(C)Cc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12471",
+    "validation": "m_weight unsave, calculated(174.24699999999999)"
+}

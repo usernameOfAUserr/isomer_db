@@ -1,0 +1,13 @@
+{
+    "names": "N-[(1E)-2-(3,4-Dimethoxyphenyl)ethylidene]hydroxylamine",
+    "iupac_name": "11166 ; C10H13NO3 ; 195.215",
+    "category": "data not stored",
+    "index": 11166,
+    "formular": "C10H13NO3",
+    "molecular_weight": 195.215,
+    "inChl": "1S/C10H13NO3/c1-13-9-4-3-8(5-6-11-12)7-10(9)14-2/h3-4,6-7,12H,5H2,1-2H3/b11-6+",
+    "InChl_Key": "RQXFLFFDJXYVIK-IZZDOVSWSA-N",
+    "SMILES": "COc1ccc(C/C=N/O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11166",
+    "validation": "m_weight unsave, calculated(195.218)"
+}

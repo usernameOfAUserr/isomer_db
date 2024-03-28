@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Me-NB34OMe ; N-(3,4-Dimethoxybenzyl)-\u03b2-methylphenethylamine",
+    "iupac_name": "N-[(3,4-Dimethoxyphenyl)methyl]-2-phenylpropan-1-amine",
+    "category": "data not stored",
+    "index": 1169,
+    "formular": "C18H23NO2",
+    "molecular_weight": 285.381,
+    "inChl": "1S/C18H23NO2/c1-14(16-7-5-4-6-8-16)12-19-13-15-9-10-17(20-2)18(11-15)21-3/h4-11,14,19H,12-13H2,1-3H3",
+    "InChl_Key": "OAJVDAKPEHHXTJ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CNCC(C)c2ccccc2)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1169",
+    "validation": "m_weight unsave, calculated(285.38700000000006)"
+}

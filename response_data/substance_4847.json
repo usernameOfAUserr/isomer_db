@@ -1,0 +1,13 @@
+{
+    "names": "WO 2001/058869 #184",
+    "iupac_name": "5-[(2-Methoxyphenyl)methyl]-1-[2-(morpholin-4-yl)ethyl]-1,5-dihydro-4H-pyrrolo[3,2-c]pyridin-4-one",
+    "category": "cannabinodids",
+    "index": 4847,
+    "formular": "C21H25N3O3",
+    "molecular_weight": 367.442,
+    "inChl": "1S/C21H25N3O3/c1-26-20-5-3-2-4-17(20)16-24-9-7-19-18(21(24)25)6-8-23(19)11-10-22-12-14-27-15-13-22/h2-9H,10-16H2,1H3",
+    "InChl_Key": "BQAUWOUQMSKVRG-UHFFFAOYSA-N",
+    "SMILES": "COc1ccccc1Cn1ccc2c(ccn2CCN2CCOCC2)c1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4847",
+    "validation": "m_weight unsave, calculated(367.44900000000024)"
+}

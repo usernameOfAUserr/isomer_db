@@ -1,0 +1,13 @@
+{
+    "names": "N-Cyanoethyl-5-MeO-NMT ; N-Cyanoethyl-5-methoxy-N-methyltryptamine",
+    "iupac_name": "3-{[2-(5-Methoxy-1H-indol-3-yl)ethyl](methyl)amino}propanenitrile",
+    "category": "Tryptamine",
+    "index": 5712,
+    "formular": "C15H19N3O",
+    "molecular_weight": 257.331,
+    "inChl": "1S/C15H19N3O/c1-18(8-3-7-16)9-6-12-11-17-15-5-4-13(19-2)10-14(12)15/h4-5,10-11,17H,3,6,8-9H2,1-2H3",
+    "InChl_Key": "XDRGHVUXWKNFQO-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN(C)CCC#N)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5712",
+    "validation": "m_weight unsave, calculated(257.337)"
+}

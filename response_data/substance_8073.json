@@ -1,0 +1,13 @@
+{
+    "names": "{6-Chloro-1-[(oxan-4-yl)methyl]-1H-indol-3-yl}(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "iupac_name": "8073 ; C22H28ClNO2 ; 373.916",
+    "category": "cannabinodids",
+    "index": 8073,
+    "formular": "C22H28ClNO2",
+    "molecular_weight": 373.916,
+    "inChl": "1S/C22H28ClNO2/c1-21(2)20(22(21,3)4)19(25)17-13-24(12-14-7-9-26-10-8-14)18-11-15(23)5-6-16(17)18/h5-6,11,13-14,20H,7-10,12H2,1-4H3",
+    "InChl_Key": "DTYTWKJDMYXMFQ-UHFFFAOYSA-N",
+    "SMILES": "CC1(C)C(C(=O)c2cn(CC3CCOCC3)c3cc(Cl)ccc23)C1(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8073",
+    "validation": "m_weight unsave, calculated(373.92400000000015)"
+}

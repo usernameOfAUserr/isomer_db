@@ -1,0 +1,13 @@
+{
+    "names": "N-[2-(2,3-Dichlorophenyl)propan-2-yl]-1-pentyl-1H-indazole-3-carboxamide",
+    "iupac_name": "7706 ; C22H25Cl2N3O ; 418.359",
+    "category": "cannabinodids",
+    "index": 7706,
+    "formular": "C22H25Cl2N3O",
+    "molecular_weight": 418.359,
+    "inChl": "1S/C22H25Cl2N3O/c1-4-5-8-14-27-18-13-7-6-10-15(18)20(26-27)21(28)25-22(2,3)16-11-9-12-17(23)19(16)24/h6-7,9-13H,4-5,8,14H2,1-3H3,(H,25,28)",
+    "InChl_Key": "PPXGNXCFMBMXGY-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1nc(C(=O)NC(C)(C)c2cccc(Cl)c2Cl)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7706",
+    "validation": "m_weight unsave, calculated(418.36800000000005)"
+}

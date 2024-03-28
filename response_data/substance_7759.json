@@ -1,0 +1,13 @@
+{
+    "names": "2,6-Me-MPEA ; 4-Methoxy-2,6-dimethylphenethylamine",
+    "iupac_name": "2-(4-Methoxy-2,6-dimethylphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7759,
+    "formular": "C11H17NO",
+    "molecular_weight": 179.259,
+    "inChl": "1S/C11H17NO/c1-8-6-10(13-3)7-9(2)11(8)4-5-12/h6-7H,4-5,12H2,1-3H3",
+    "InChl_Key": "QNQGECDYQYVFRU-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C)c(CCN)c(C)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7759",
+    "validation": "m_weight unsave, calculated(179.26299999999995)"
+}

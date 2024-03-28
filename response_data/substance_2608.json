@@ -1,0 +1,13 @@
+{
+    "names": "4-Benzyloxy-DPT ; 4-Benzyloxy-N,N-dipropyltryptamine",
+    "iupac_name": "N-{2-[4-(Benzyloxy)-1H-indol-3-yl]ethyl}-N-propylpropan-1-amine",
+    "category": "Tryptamine",
+    "index": 2608,
+    "formular": "C23H30N2O",
+    "molecular_weight": 350.497,
+    "inChl": "1S/C23H30N2O/c1-3-14-25(15-4-2)16-13-20-17-24-21-11-8-12-22(23(20)21)26-18-19-9-6-5-7-10-19/h5-12,17,24H,3-4,13-16,18H2,1-2H3",
+    "InChl_Key": "NUVORDRETOXRRS-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)CCc1c[nH]c2cccc(OCc3ccccc3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2608",
+    "validation": "m_weight unsave, calculated(350.5060000000001)"
+}

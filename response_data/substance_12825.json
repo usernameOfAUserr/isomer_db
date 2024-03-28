@@ -1,0 +1,13 @@
+{
+    "names": "4-Methoxy-2,3-trimethylene-\u03b2-methyl-\u03b2-nitrostyrene",
+    "iupac_name": "4-Methoxy-7-[(1E)-2-nitroprop-1-en-1-yl]-2,3-dihydro-1H-indene",
+    "category": "data not stored",
+    "index": 12825,
+    "formular": "C13H15NO3",
+    "molecular_weight": 233.263,
+    "inChl": "1S/C13H15NO3/c1-9(14(15)16)8-10-6-7-13(17-2)12-5-3-4-11(10)12/h6-8H,3-5H2,1-2H3/b9-8+",
+    "InChl_Key": "GUVIPQNRCSQEKZ-CMDGGOBGSA-N",
+    "SMILES": "COc1ccc(/C=C(\\C)[N+](=O)[O-])c2c1CCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12825",
+    "validation": "m_weight unsave, calculated(233.26699999999997)"
+}

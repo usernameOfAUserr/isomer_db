@@ -1,0 +1,13 @@
+{
+    "names": "Loratadine",
+    "iupac_name": "Ethyl 4-(8-chloro-5,6-dihydro-11H-benzo[5,6]cyclohepta[1,2-b]pyridin-11-ylidene)piperidine-1-carboxylate",
+    "category": "data not stored",
+    "index": 11123,
+    "formular": "C22H23ClN2O2",
+    "molecular_weight": 382.883,
+    "inChl": "1S/C22H23ClN2O2/c1-2-27-22(26)25-12-9-15(10-13-25)20-19-8-7-18(23)14-17(19)6-5-16-4-3-11-24-21(16)20/h3-4,7-8,11,14H,2,5-6,9-10,12-13H2,1H3",
+    "InChl_Key": "JCCNYMKQOSZNPW-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11123",
+    "validation": "m_weight unsave, calculated(382.8910000000001)"
+}

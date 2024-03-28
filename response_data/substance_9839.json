@@ -1,0 +1,13 @@
+{
+    "names": "homo-Norfenfluramine",
+    "iupac_name": "4-[3-(Trifluoromethyl)phenyl]butan-2-amine",
+    "category": "data not stored",
+    "index": 9839,
+    "formular": "C11H14F3N",
+    "molecular_weight": 217.231,
+    "inChl": "1S/C11H14F3N/c1-8(15)5-6-9-3-2-4-10(7-9)11(12,13)14/h2-4,7-8H,5-6,15H2,1H3",
+    "InChl_Key": "QPVLCHKIGUQAOL-UHFFFAOYSA-N",
+    "SMILES": "CC(N)CCc1cccc(C(F)(F)F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9839",
+    "validation": "m_weight unsave, calculated(217.23399999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "(3Z)-3-[2-(Dimethylamino)ethylidene]-3H-indol-4-ol",
+    "iupac_name": "11261 ; C12H14N2O ; 202.252",
+    "category": "data not stored",
+    "index": 11261,
+    "formular": "C12H14N2O",
+    "molecular_weight": 202.252,
+    "inChl": "1S/C12H14N2O/c1-14(2)7-6-9-8-13-10-4-3-5-11(15)12(9)10/h3-6,8,15H,7H2,1-2H3/b9-6+",
+    "InChl_Key": "GPXVDKFJWCTINB-RMKNXTFCSA-N",
+    "SMILES": "CN(C)C/C=C1\\C=Nc2cccc(O)c21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11261",
+    "validation": "m_weight unsave, calculated(202.257)"
+}

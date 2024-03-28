@@ -1,0 +1,13 @@
+{
+    "names": "WO 2001/058869 #18",
+    "iupac_name": "Methyl N-[6-methoxy-2-methyl-7-(pentyloxy)-1H-indole-3-carbonyl]-L-phenylalaninate ; Methyl (2S)-2-{[6-methoxy-2-methyl-7-(pentyloxy)-1H-indole-3-carbonyl]amino}-3-phenylpropanoate",
+    "category": "cannabinodids",
+    "index": 4841,
+    "formular": "C26H32N2O5",
+    "molecular_weight": 452.543,
+    "inChl": "1S/C26H32N2O5/c1-5-6-10-15-33-24-21(31-3)14-13-19-22(17(2)27-23(19)24)25(29)28-20(26(30)32-4)16-18-11-8-7-9-12-18/h7-9,11-14,20,27H,5-6,10,15-16H2,1-4H3,(H,28,29)/t20-/m0/s1",
+    "InChl_Key": "UPSJZPWXXMNCJT-FQEVSTJZSA-N",
+    "SMILES": "CCCCCOc1c(OC)ccc2c(C(=O)N[C@@H](Cc3ccccc3)C(=O)OC)c(C)[nH]c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4841",
+    "validation": "m_weight unsave, calculated(452.5510000000002)"
+}

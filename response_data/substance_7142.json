@@ -1,0 +1,13 @@
+{
+    "names": "7-MeO-THPI",
+    "iupac_name": "7-Methoxy-1,2,3,4-tetrahydropyrazino[1,2-a]indole",
+    "category": "data not stored",
+    "index": 7142,
+    "formular": "C12H14N2O",
+    "molecular_weight": 202.252,
+    "inChl": "1S/C12H14N2O/c1-15-11-3-2-9-6-10-8-13-4-5-14(10)12(9)7-11/h2-3,6-7,13H,4-5,8H2,1H3",
+    "InChl_Key": "TXOXRFRYYDBUAR-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2cc3n(c2c1)CCNC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7142",
+    "validation": "m_weight unsave, calculated(202.25699999999998)"
+}

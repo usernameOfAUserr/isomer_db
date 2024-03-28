@@ -1,0 +1,13 @@
+{
+    "names": "2-NMC",
+    "iupac_name": "N,2-Dimethyl-N-(4-methylphenyl)propanamide",
+    "category": "data not stored",
+    "index": 13910,
+    "formular": "C12H17NO",
+    "molecular_weight": 191.269,
+    "inChl": "1S/C12H17NO/c1-9(2)12(14)13(4)11-7-5-10(3)6-8-11/h5-9H,1-4H3",
+    "InChl_Key": "GYXHTKZVPMDHQT-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(N(C)C(=O)C(C)C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13910",
+    "validation": "m_weight unsave, calculated(191.274)"
+}

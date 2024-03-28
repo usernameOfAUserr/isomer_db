@@ -1,0 +1,13 @@
+{
+    "names": "5-(Hexan-2-yl)-2-(prop-2-en-1-yl)phenol",
+    "iupac_name": "1145 ; C15H22O ; 218.335",
+    "category": "data not stored",
+    "index": 1145,
+    "formular": "C15H22O",
+    "molecular_weight": 218.335,
+    "inChl": "1S/C15H22O/c1-4-6-8-12(3)14-10-9-13(7-5-2)15(16)11-14/h5,9-12,16H,2,4,6-8H2,1,3H3",
+    "InChl_Key": "KKODXQZSLBXZLC-UHFFFAOYSA-N",
+    "SMILES": "C=CCc1ccc(C(C)CCCC)cc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1145",
+    "validation": "m_weight unsave, calculated(218.33999999999995)"
+}

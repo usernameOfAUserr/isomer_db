@@ -1,0 +1,13 @@
+{
+    "names": "2-[(Diphenylmethanesulfinyl)methyl]-5-methylpyrimidine",
+    "iupac_name": "3659 ; C19H18N2OS ; 322.424",
+    "category": "data not stored",
+    "index": 3659,
+    "formular": "C19H18N2OS",
+    "molecular_weight": 322.424,
+    "inChl": "1S/C19H18N2OS/c1-15-12-20-18(21-13-15)14-23(22)19(16-8-4-2-5-9-16)17-10-6-3-7-11-17/h2-13,19H,14H2,1H3",
+    "InChl_Key": "VNXKSDYFXIYXBG-UHFFFAOYSA-N",
+    "SMILES": "Cc1cnc(CS(=O)C(c2ccccc2)c2ccccc2)nc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3659",
+    "validation": "m_weight unsave, calculated(322.43300000000005)"
+}

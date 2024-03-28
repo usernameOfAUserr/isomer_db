@@ -1,0 +1,13 @@
+{
+    "names": "1-(\u03b1-Butylphenethyl)pyrrolidine",
+    "iupac_name": "1-(1-Phenylhexan-2-yl)pyrrolidine",
+    "category": "data not stored",
+    "index": 10791,
+    "formular": "C16H25N",
+    "molecular_weight": 231.376,
+    "inChl": "1S/C16H25N/c1-2-3-11-16(17-12-7-8-13-17)14-15-9-5-4-6-10-15/h4-6,9-10,16H,2-3,7-8,11-14H2,1H3",
+    "InChl_Key": "ANIUUZHCYQQARB-UHFFFAOYSA-N",
+    "SMILES": "CCCCC(Cc1ccccc1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10791",
+    "validation": "m_weight unsave, calculated(231.383)"
+}

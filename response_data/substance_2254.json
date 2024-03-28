@@ -1,0 +1,13 @@
+{
+    "names": "Peyoxylic acid ; 1-Carboxy-8-hydroxy-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline",
+    "iupac_name": "8-Hydroxy-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline-1-carboxylic acid",
+    "category": "Peyote alkaloid",
+    "index": 2254,
+    "formular": "C12H15NO5",
+    "molecular_weight": 253.251,
+    "inChl": "1S/C12H15NO5/c1-17-7-5-6-3-4-13-9(12(15)16)8(6)10(14)11(7)18-2/h5,9,13-14H,3-4H2,1-2H3,(H,15,16)",
+    "InChl_Key": "KHQFOQGUONNSJF-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(c(O)c1OC)C(C(=O)O)NCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2254",
+    "validation": "m_weight unsave, calculated(253.25399999999996)"
+}

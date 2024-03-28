@@ -1,0 +1,13 @@
+{
+    "names": "Dimetonitazene",
+    "iupac_name": "2-{2-[(3,4-Dimethoxyphenyl)methyl]-5-nitro-1H-benzimidazol-1-yl}-N,N-diethylethan-1-amine",
+    "category": "data not stored",
+    "index": 11350,
+    "formular": "C22H28N4O4",
+    "molecular_weight": 412.482,
+    "inChl": "1S/C22H28N4O4/c1-5-24(6-2)11-12-25-19-9-8-17(26(27)28)15-18(19)23-22(25)14-16-7-10-20(29-3)21(13-16)30-4/h7-10,13,15H,5-6,11-12,14H2,1-4H3",
+    "InChl_Key": "TYFZJINIXRJOBV-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCn1c(Cc2ccc(OC)c(OC)c2)nc2cc([N+](=O)[O-])ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11350",
+    "validation": "m_weight unsave, calculated(412.4900000000002)"
+}

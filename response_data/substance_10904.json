@@ -1,0 +1,13 @@
+{
+    "names": "2-THEA",
+    "iupac_name": "2-(Thiophen-2-yl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10904,
+    "formular": "C6H9NS",
+    "molecular_weight": 127.207,
+    "inChl": "1S/C6H9NS/c7-4-3-6-2-1-5-8-6/h1-2,5H,3-4,7H2",
+    "InChl_Key": "HVLUYXIJZLDNIS-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10904",
+    "validation": "m_weight unsave, calculated(127.21199999999996)"
+}

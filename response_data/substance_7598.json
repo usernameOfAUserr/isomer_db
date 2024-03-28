@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-N-methoxyethyl-NMT ; 4-Hydroxy-N-methoxyethyl-N-methyltryptamine",
+    "iupac_name": "3-{2-[(2-Methoxyethyl)(methyl)amino]ethyl}-1H-indol-4-ol",
+    "category": "Prophetic? \u00b7 Tryptamine",
+    "index": 7598,
+    "formular": "C14H20N2O2",
+    "molecular_weight": 248.321,
+    "inChl": "1S/C14H20N2O2/c1-16(8-9-18-2)7-6-11-10-15-12-4-3-5-13(17)14(11)12/h3-5,10,15,17H,6-9H2,1-2H3",
+    "InChl_Key": "WUSMPAQLDDVMQN-UHFFFAOYSA-N",
+    "SMILES": "COCCN(C)CCc1c[nH]c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7598",
+    "validation": "m_weight unsave, calculated(248.326)"
+}

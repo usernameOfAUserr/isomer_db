@@ -1,0 +1,13 @@
+{
+    "names": "JWH-198 ",
+    "iupac_name": "(4-Methoxynaphthalen-1-yl){1-[2-(morpholin-4-yl)ethyl]-1H-indol-3-yl}methanone",
+    "category": "cannabinodids",
+    "index": 4307,
+    "formular": "C26H26N2O3",
+    "molecular_weight": 414.496,
+    "inChl": "1S/C26H26N2O3/c1-30-25-11-10-22(19-6-2-3-8-21(19)25)26(29)23-18-28(24-9-5-4-7-20(23)24)13-12-27-14-16-31-17-15-27/h2-11,18H,12-17H2,1H3",
+    "InChl_Key": "QWHSUXWDDKWTOG-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C(=O)c2cn(CCN3CCOCC3)c3ccccc23)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4307",
+    "validation": "m_weight unsave, calculated(414.5050000000003)"
+}

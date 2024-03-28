@@ -1,0 +1,13 @@
+{
+    "names": "3-MPEA NS ; 3-Methoxy-\u03b2-nitrostyrene",
+    "iupac_name": "1-Methoxy-3-[(E)-2-nitroethenyl]benzene",
+    "category": "data not stored",
+    "index": 12423,
+    "formular": "C9H9NO3",
+    "molecular_weight": 179.173,
+    "inChl": "1S/C9H9NO3/c1-13-9-4-2-3-8(7-9)5-6-10(11)12/h2-7H,1H3/b6-5+",
+    "InChl_Key": "IJBGIPFDIABTKB-AATRIKPKSA-N",
+    "SMILES": "COc1cccc(/C=C/[N+](=O)[O-])c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12423",
+    "validation": "m_weight unsave, calculated(179.17499999999998)"
+}

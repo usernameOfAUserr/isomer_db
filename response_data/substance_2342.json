@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-PVP ; \u03b1-(Pyrrolidin-1-yl)valerophenone ; Desmethylpyrovalerone ; O-2387 ; \u03b1-Pyrrolidinovalerophenone ; \u03b2k-Prolintane",
+    "iupac_name": "1-Phenyl-2-(pyrrolidin-1-yl)pentan-1-one",
+    "category": "Phenetylamine",
+    "index": 2342,
+    "formular": "C15H21NO",
+    "molecular_weight": 231.333,
+    "inChl": "1S/C15H21NO/c1-2-8-14(16-11-6-7-12-16)15(17)13-9-4-3-5-10-13/h3-5,9-10,14H,2,6-8,11-12H2,1H3",
+    "InChl_Key": "YDIIDRWHPFMLGR-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccccc1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2342",
+    "validation": "m_weight unsave, calculated(231.33899999999994)"
+}

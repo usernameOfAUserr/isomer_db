@@ -1,0 +1,13 @@
+{
+    "names": "5-Nonyloxy-NBT ; 5-Nonyloxy-N-butyltryptamine",
+    "iupac_name": "N-{2-[5-(Nonyloxy)-1H-indol-3-yl]ethyl}butan-1-amine",
+    "category": "Tryptamine",
+    "index": 14431,
+    "formular": "C23H38N2O",
+    "molecular_weight": 358.561,
+    "inChl": "1S/C23H38N2O/c1-3-5-7-8-9-10-11-17-26-21-12-13-23-22(18-21)20(19-25-23)14-16-24-15-6-4-2/h12-13,18-19,24-25H,3-11,14-17H2,1-2H3",
+    "InChl_Key": "LLJYSJYQCDMRRG-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCCOc1ccc2[nH]cc(CCNCCCC)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14431",
+    "validation": "m_weight unsave, calculated(358.57000000000016)"
+}

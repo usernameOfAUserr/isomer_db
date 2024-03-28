@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-N,\u03b1,2-Me-PEA-HFBA",
+    "iupac_name": "2,2,3,3,4,4,4-Heptafluoro-N-[1-(5-methoxy-2-methylphenyl)propan-2-yl]-N-methylbutanamide",
+    "category": "data not stored",
+    "index": 9017,
+    "formular": "C16H18F7NO2",
+    "molecular_weight": 389.308,
+    "inChl": "1S/C16H18F7NO2/c1-9-5-6-12(26-4)8-11(9)7-10(2)24(3)13(25)14(17,18)15(19,20)16(21,22)23/h5-6,8,10H,7H2,1-4H3",
+    "InChl_Key": "RZYLAJUQEYAUQQ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C)c(CC(C)N(C)C(=O)C(F)(F)C(F)(F)C(F)(F)F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9017",
+    "validation": "m_weight unsave, calculated(389.311)"
+}

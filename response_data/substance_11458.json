@@ -1,0 +1,13 @@
+{
+    "names": "4-ANPP-SO4",
+    "iupac_name": "N-Phenyl-1-(2-phenylethyl)-N-(sulfooxy)piperidin-4-amine",
+    "category": "data not stored",
+    "index": 11458,
+    "formular": "C19H24N2O4S",
+    "molecular_weight": 376.47,
+    "inChl": "1S/C19H24N2O4S/c22-26(23,24)25-21(18-9-5-2-6-10-18)19-12-15-20(16-13-19)14-11-17-7-3-1-4-8-17/h1-10,19H,11-16H2,(H,22,23,24)",
+    "InChl_Key": "ZXQURVJTDGDMMY-UHFFFAOYSA-N",
+    "SMILES": "O=S(=O)(O)ON(c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11458",
+    "validation": "m_weight unsave, calculated(376.4780000000002)"
+}

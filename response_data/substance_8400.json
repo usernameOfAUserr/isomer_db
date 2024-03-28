@@ -1,0 +1,13 @@
+{
+    "names": "Desethylibogamine",
+    "iupac_name": "4-Deethylibogamine ; (6R,6aS,9R)-6,6a,7,8,9,10,12,13-Octahydro-5H-6,9-methanopyrido[1\u2032,2\u2032:1,2]azepino[4,5-b]indole",
+    "category": "data not stored",
+    "index": 8400,
+    "formular": "C17H20N2",
+    "molecular_weight": 252.354,
+    "inChl": "1S/C17H20N2/c1-2-4-15-12(3-1)13-7-8-19-10-11-5-6-16(19)14(9-11)17(13)18-15/h1-4,11,14,16,18H,5-10H2/t11-,14-,16+/m1/s1",
+    "InChl_Key": "HWGBLBYCKKHAOB-XFJVYGCCSA-N",
+    "SMILES": "c1ccc2c3c([nH]c2c1)[C@@H]1C[C@H]2CC[C@@H]1N(CC3)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8400",
+    "validation": "m_weight unsave, calculated(252.36099999999993)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-iPr-\u03b2-HO-2,3-HPEA ; N-Isopropyl-\u03b2,2,3-trihydroxyphenethylamine",
+    "iupac_name": "3-{1-Hydroxy-2-[(propan-2-yl)amino]ethyl}benzene-1,2-diol",
+    "category": "Phenetylamine",
+    "index": 10030,
+    "formular": "C11H17NO3",
+    "molecular_weight": 211.258,
+    "inChl": "1S/C11H17NO3/c1-7(2)12-6-10(14)8-4-3-5-9(13)11(8)15/h3-5,7,10,12-15H,6H2,1-2H3",
+    "InChl_Key": "OXKUBEGCUWJYFV-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NCC(O)c1cccc(O)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10030",
+    "validation": "m_weight unsave, calculated(211.261)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "(Furan-2-yl)acetaldehyde",
+    "iupac_name": "11034 ; C6H6O2 ; 110.111",
+    "category": "data not stored",
+    "index": 11034,
+    "formular": "C6H6O2",
+    "molecular_weight": 110.111,
+    "inChl": "1S/C6H6O2/c7-4-3-6-2-1-5-8-6/h1-2,4-5H,3H2",
+    "InChl_Key": "LNKQTTQZURKWDO-UHFFFAOYSA-N",
+    "SMILES": "O=CCc1ccco1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11034",
+    "validation": "m_weight unsave, calculated(110.11199999999997)"
+}

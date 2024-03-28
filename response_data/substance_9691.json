@@ -1,0 +1,13 @@
+{
+    "names": "2-{[2-(Thiophen-2-yl)phenyl]methanesulfinyl}acetamide",
+    "iupac_name": "9691 ; C13H13NO2S2 ; 279.378",
+    "category": "data not stored",
+    "index": 9691,
+    "formular": "C13H13NO2S2",
+    "molecular_weight": 279.378,
+    "inChl": "1S/C13H13NO2S2/c14-13(15)9-18(16)8-10-4-1-2-5-11(10)12-6-3-7-17-12/h1-7H,8-9H2,(H2,14,15)",
+    "InChl_Key": "ASHLPVRZZNGLGJ-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)CS(=O)Cc1ccccc1-c1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9691",
+    "validation": "m_weight unsave, calculated(279.386)"
+}

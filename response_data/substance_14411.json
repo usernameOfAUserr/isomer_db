@@ -1,0 +1,13 @@
+{
+    "names": "5,6,7,8-Tetrahydronaphthalene-2-carbaldehyde",
+    "iupac_name": "14411 ; C11H12O ; 160.212",
+    "category": "data not stored",
+    "index": 14411,
+    "formular": "C11H12O",
+    "molecular_weight": 160.212,
+    "inChl": "1S/C11H12O/c12-8-9-5-6-10-3-1-2-4-11(10)7-9/h5-8H,1-4H2",
+    "InChl_Key": "NYNSNUNMTUNAEO-UHFFFAOYSA-N",
+    "SMILES": "O=Cc1ccc2c(c1)CCCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14411",
+    "validation": "m_weight unsave, calculated(160.21599999999995)"
+}

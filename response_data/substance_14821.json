@@ -1,0 +1,13 @@
+{
+    "names": "DET-4-glutarate",
+    "iupac_name": "5-({3-[2-(Diethylamino)ethyl]-1H-indol-4-yl}oxy)-5-oxopentanoic acid",
+    "category": "Tryptamine",
+    "index": 14821,
+    "formular": "C19H26N2O4",
+    "molecular_weight": 346.421,
+    "inChl": "1S/C19H26N2O4/c1-3-21(4-2)12-11-14-13-20-15-7-5-8-16(19(14)15)25-18(24)10-6-9-17(22)23/h5,7-8,13,20H,3-4,6,9-12H2,1-2H3,(H,22,23)",
+    "InChl_Key": "NUJVBMDNXQCERN-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCc1c[nH]c2cccc(OC(=O)CCCC(=O)O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14821",
+    "validation": "m_weight unsave, calculated(346.4270000000002)"
+}

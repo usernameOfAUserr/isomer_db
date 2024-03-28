@@ -1,0 +1,13 @@
+{
+    "names": "DO2OxolaneM ; 2,5-Dimethoxy-4-(oxolan-2-ylmethyl)amphetamine",
+    "iupac_name": "1-{2,5-Dimethoxy-4-[(oxolan-2-yl)methyl]phenyl}propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 5992,
+    "formular": "C16H25NO3",
+    "molecular_weight": 279.375,
+    "inChl": "1S/C16H25NO3/c1-11(17)7-12-9-16(19-3)13(10-15(12)18-2)8-14-5-4-6-20-14/h9-11,14H,4-8,17H2,1-3H3",
+    "InChl_Key": "CHOZVNZOEBJGKA-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC2CCCO2)c(OC)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5992",
+    "validation": "m_weight unsave, calculated(279.38)"
+}

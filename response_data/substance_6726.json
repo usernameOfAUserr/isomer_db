@@ -1,0 +1,13 @@
+{
+    "names": "sBuONE ; N-sec-Butyl-3,4-methylenedioxycathinone",
+    "iupac_name": "1-(2H-1,3-Benzodioxol-5-yl)-2-[(butan-2-yl)amino]propan-1-one ; 1-(1,3-Benzodioxol-5-yl)-2-(butan-2-ylamino)propan-1-one",
+    "category": "Shulgin_Index",
+    "index": 6726,
+    "formular": "C14H19NO3",
+    "molecular_weight": 249.306,
+    "inChl": "1S/C14H19NO3/c1-4-9(2)15-10(3)14(16)11-5-6-12-13(7-11)18-8-17-12/h5-7,9-10,15H,4,8H2,1-3H3",
+    "InChl_Key": "KORARLPJYCSCLJ-UHFFFAOYSA-N",
+    "SMILES": "CCC(C)NC(C)C(=O)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6726",
+    "validation": "m_weight unsave, calculated(249.30999999999995)"
+}

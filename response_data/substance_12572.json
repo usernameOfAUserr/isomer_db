@@ -1,0 +1,13 @@
+{
+    "names": "1-[2-(2-Benzyl-1H-inden-3-yl)ethyl]pyrrolidine",
+    "iupac_name": "12572 ; C22H25N ; 303.441",
+    "category": "data not stored",
+    "index": 12572,
+    "formular": "C22H25N",
+    "molecular_weight": 303.441,
+    "inChl": "1S/C22H25N/c1-2-8-18(9-3-1)16-20-17-19-10-4-5-11-21(19)22(20)12-15-23-13-6-7-14-23/h1-5,8-11H,6-7,12-17H2",
+    "InChl_Key": "PKCRHSDXHSBYCK-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(CC2=C(CCN3CCCC3)c3ccccc3C2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12572",
+    "validation": "m_weight unsave, calculated(303.4489999999999)"
+}

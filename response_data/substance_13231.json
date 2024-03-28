@@ -1,0 +1,13 @@
+{
+    "names": "Oxilorphan",
+    "iupac_name": "17-(Cyclopropylmethyl)morphinan-3,14-diol ; (4aS,10R,10aS)-11-(Cyclopropylmethyl)-1,2,3,4,9,10-hexahydro-10aH-10,4a-(epiminoethano)phenanthrene-6,10a-diol",
+    "category": "data not stored",
+    "index": 13231,
+    "formular": "C20H27NO2",
+    "molecular_weight": 313.434,
+    "inChl": "1S/C20H27NO2/c22-16-6-5-15-11-18-20(23)8-2-1-7-19(20,17(15)12-16)9-10-21(18)13-14-3-4-14/h5-6,12,14,18,22-23H,1-4,7-11,13H2/t18-,19+,20-/m1/s1",
+    "InChl_Key": "STBZIDOIKQNFCQ-HSALFYBXSA-N",
+    "SMILES": "Oc1ccc2c(c1)[C@@]13CCCC[C@@]1(O)[C@@H](C2)N(CC1CC1)CC3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13231",
+    "validation": "m_weight unsave, calculated(313.441)"
+}

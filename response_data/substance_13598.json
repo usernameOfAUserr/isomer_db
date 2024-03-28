@@ -1,0 +1,13 @@
+{
+    "names": "5-Fluoro-PCPT ; 5-Fluoro-N-propyl-N-cyclopropyltryptamine",
+    "iupac_name": "N-[2-(5-Fluoro-1H-indol-3-yl)ethyl]-N-propylcyclopropanamine",
+    "category": "Tryptamine",
+    "index": 13598,
+    "formular": "C16H21FN2",
+    "molecular_weight": 260.35,
+    "inChl": "1S/C16H21FN2/c1-2-8-19(14-4-5-14)9-7-12-11-18-16-6-3-13(17)10-15(12)16/h3,6,10-11,14,18H,2,4-5,7-9H2,1H3",
+    "InChl_Key": "QDBYHLJZAVDZSN-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCc1c[nH]c2ccc(F)cc12)C1CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13598",
+    "validation": "m_weight unsave, calculated(260.356)"
+}

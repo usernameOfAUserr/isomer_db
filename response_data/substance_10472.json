@@ -1,0 +1,13 @@
+{
+    "names": "Convolutamine H ; N-Methyl-2,3,4-tribromo-5,6-dimethoxyphenethylamine ; N-Me-2,3,4-Br-5,6-DMPEA",
+    "iupac_name": "N-Methyl-2-(2,3,4-tribromo-5,6-dimethoxyphenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10472,
+    "formular": "C11H14Br3NO2",
+    "molecular_weight": 431.946,
+    "inChl": "1S/C11H14Br3NO2/c1-15-5-4-6-7(12)8(13)9(14)11(17-3)10(6)16-2/h15H,4-5H2,1-3H3",
+    "InChl_Key": "TXBNYKFQXDKTHG-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1c(Br)c(Br)c(Br)c(OC)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10472",
+    "validation": "m_weight unsave, calculated(431.9500000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "p-Chlorophenylalanine methyl ester ; \u03b1-Methoxycarbonyl-4-chlorophenethylamine",
+    "iupac_name": "Methyl 4-chlorophenylalaninate ; Methyl 2-amino-3-(4-chlorophenyl)propanoate",
+    "category": "data not stored",
+    "index": 9605,
+    "formular": "C10H12ClNO2",
+    "molecular_weight": 213.661,
+    "inChl": "1S/C10H12ClNO2/c1-14-10(13)9(12)6-7-2-4-8(11)5-3-7/h2-5,9H,6,12H2,1H3",
+    "InChl_Key": "FBHPVOLRIXZZMD-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(N)Cc1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9605",
+    "validation": "m_weight unsave, calculated(213.664)"
+}

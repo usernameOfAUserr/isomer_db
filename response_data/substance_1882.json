@@ -1,0 +1,13 @@
+{
+    "names": "N-HO-4-FA ; 4-Fluoro-N-hydroxyamphetamine ; N-HO-4FMP",
+    "iupac_name": "1-(4-Fluorophenyl)-N-hydroxypropan-2-amine",
+    "category": "data not stored",
+    "index": 1882,
+    "formular": "C9H12FNO",
+    "molecular_weight": 169.196,
+    "inChl": "1S/C9H12FNO/c1-7(11-12)6-8-2-4-9(10)5-3-8/h2-5,7,11-12H,6H2,1H3",
+    "InChl_Key": "WQSWDXMSPZXRIG-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccc(F)cc1)NO",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1882",
+    "validation": "m_weight unsave, calculated(169.19899999999998)"
+}

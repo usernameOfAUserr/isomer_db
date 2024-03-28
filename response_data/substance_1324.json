@@ -1,0 +1,13 @@
+{
+    "names": "N,N-DiPr-2-AT ; N,N-DIpropyl-2-aminotetralin",
+    "iupac_name": "N,N-Dipropyl-1,2,3,4-tetrahydronaphthalen-2-amine",
+    "category": "data not stored",
+    "index": 1324,
+    "formular": "C16H25N",
+    "molecular_weight": 231.376,
+    "inChl": "1S/C16H25N/c1-3-11-17(12-4-2)16-10-9-14-7-5-6-8-15(14)13-16/h5-8,16H,3-4,9-13H2,1-2H3",
+    "InChl_Key": "IMMAROBNUIRASX-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)C1CCc2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1324",
+    "validation": "m_weight unsave, calculated(231.38299999999995)"
+}

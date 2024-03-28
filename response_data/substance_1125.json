@@ -1,0 +1,13 @@
+{
+    "names": "cis-4-Hydroxy-3,5-dimethoxyphenylprop-1-ene",
+    "iupac_name": "2,6-Dimethoxy-4-[(1Z)-prop-1-en-1-yl]phenol",
+    "category": "Essential oil",
+    "index": 1125,
+    "formular": "C11H14O3",
+    "molecular_weight": 194.227,
+    "inChl": "1S/C11H14O3/c1-4-5-8-6-9(13-2)11(12)10(7-8)14-3/h4-7,12H,1-3H3/b5-4-",
+    "InChl_Key": "YFHOHYAUMDHSBX-PLNGDYQASA-N",
+    "SMILES": "C/C=C\\c1cc(OC)c(O)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1125",
+    "validation": "m_weight unsave, calculated(194.23)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "LAMPA ; N-Methyl-N-propyllysergamide ; LMP",
+    "iupac_name": "N,6-Dimethyl-N-propyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N,7-Dimethyl-N-propyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N,6-Dimethyl-N-propyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 5326,
+    "formular": "C20H25N3O",
+    "molecular_weight": 323.432,
+    "inChl": "1S/C20H25N3O/c1-4-8-22(2)20(24)14-9-16-15-6-5-7-17-19(15)13(11-21-17)10-18(16)23(3)12-14/h5-7,9,11,14,18,21H,4,8,10,12H2,1-3H3/t14-,18-/m1/s1",
+    "InChl_Key": "CZRJGQXHVRNZRZ-RDTXWAMCSA-N",
+    "SMILES": "CCCN(C)C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5326",
+    "validation": "m_weight unsave, calculated(323.44000000000005)"
+}

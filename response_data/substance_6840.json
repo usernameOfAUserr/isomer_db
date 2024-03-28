@@ -1,0 +1,13 @@
+{
+    "names": "2-(4-Ethynylphenyl)-1,2-dihydro-3H-pyrazolo[4,3-c]quinolin-3-one",
+    "iupac_name": "6840 ; C18H11N3O ; 285.299",
+    "category": "data not stored",
+    "index": 6840,
+    "formular": "C18H11N3O",
+    "molecular_weight": 285.299,
+    "inChl": "1S/C18H11N3O/c1-2-12-7-9-13(10-8-12)21-18(22)15-11-19-16-6-4-3-5-14(16)17(15)20-21/h1,3-11,20H",
+    "InChl_Key": "ZNSSWFZNVYBLJJ-UHFFFAOYSA-N",
+    "SMILES": "C#Cc1ccc(-n2[nH]c3c(cnc4ccccc43)c2=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6840",
+    "validation": "m_weight unsave, calculated(285.306)"
+}

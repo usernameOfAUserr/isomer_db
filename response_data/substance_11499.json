@@ -1,0 +1,13 @@
+{
+    "names": "Ro-20-8895",
+    "iupac_name": "5-(2-Fluorophenyl)-8-methyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one",
+    "category": "Aryldiazepine",
+    "index": 11499,
+    "formular": "C16H13FN2O",
+    "molecular_weight": 268.286,
+    "inChl": "1S/C16H13FN2O/c1-10-6-7-12-14(8-10)19-15(20)9-18-16(12)11-4-2-3-5-13(11)17/h2-8H,9H2,1H3,(H,19,20)",
+    "InChl_Key": "FGBKSXIDKFFXPY-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc2c(c1)NC(=O)CN=C2c1ccccc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11499",
+    "validation": "m_weight unsave, calculated(268.291)"
+}

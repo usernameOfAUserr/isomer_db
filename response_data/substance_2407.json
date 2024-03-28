@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2,4-Dimethoxyamphetamine",
+    "iupac_name": "1-Methoxy-1-(4-methoxyphenyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 2407,
+    "formular": "C11H17NO2",
+    "molecular_weight": 195.258,
+    "inChl": "1S/C11H17NO2/c1-8(12)11(14-3)9-4-6-10(13-2)7-5-9/h4-8,11H,12H2,1-3H3",
+    "InChl_Key": "WHPCVJVNMYMZAG-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C(OC)C(C)N)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2407",
+    "validation": "m_weight unsave, calculated(195.26199999999997)"
+}

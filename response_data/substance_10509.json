@@ -1,0 +1,13 @@
+{
+    "names": "N-Et-3-TFMeOA ; N-Ethyl-3-trifluoromethoxyamphetamine",
+    "iupac_name": "N-Ethyl-1-[3-(trifluoromethoxy)phenyl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10509,
+    "formular": "C12H16F3NO",
+    "molecular_weight": 247.257,
+    "inChl": "1S/C12H16F3NO/c1-3-16-9(2)7-10-5-4-6-11(8-10)17-12(13,14)15/h4-6,8-9,16H,3,7H2,1-2H3",
+    "InChl_Key": "RMECOAGRPWRBCA-UHFFFAOYSA-N",
+    "SMILES": "CCNC(C)Cc1cccc(OC(F)(F)F)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10509",
+    "validation": "m_weight unsave, calculated(247.25999999999993)"
+}

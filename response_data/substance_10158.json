@@ -1,0 +1,13 @@
+{
+    "names": "4,3-MMePEA ; 4-Methoxy-3-methylphenethylamine",
+    "iupac_name": "2-(4-Methoxy-3-methylphenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10158,
+    "formular": "C10H15NO",
+    "molecular_weight": 165.232,
+    "inChl": "1S/C10H15NO/c1-8-7-9(5-6-11)3-4-10(8)12-2/h3-4,7H,5-6,11H2,1-2H3",
+    "InChl_Key": "NBFFCNUWKJZAKU-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CCN)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10158",
+    "validation": "m_weight unsave, calculated(165.23599999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-Methylserotonin ; 1-Methyl-5-hydroxytryptamine ; 1-Methyl-5-HO-T ; 1-Methyl-5HT",
+    "iupac_name": "3-(2-Aminoethyl)-1-methyl-1H-indol-5-ol",
+    "category": "Tryptamine",
+    "index": 5399,
+    "formular": "C11H14N2O",
+    "molecular_weight": 190.242,
+    "inChl": "1S/C11H14N2O/c1-13-7-8(4-5-12)10-6-9(14)2-3-11(10)13/h2-3,6-7,14H,4-5,12H2,1H3",
+    "InChl_Key": "RLDFVSFNVOLFEU-UHFFFAOYSA-N",
+    "SMILES": "Cn1cc(CCN)c2cc(O)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5399",
+    "validation": "m_weight unsave, calculated(190.24599999999998)"
+}

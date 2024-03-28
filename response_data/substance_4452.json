@@ -1,0 +1,13 @@
+{
+    "names": "NMP-7",
+    "iupac_name": "(9-Pentyl-9H-carbazol-3-yl)(piperidin-1-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4452,
+    "formular": "C23H28N2O",
+    "molecular_weight": 348.481,
+    "inChl": "1S/C23H28N2O/c1-2-3-7-16-25-21-11-6-5-10-19(21)20-17-18(12-13-22(20)25)23(26)24-14-8-4-9-15-24/h5-6,10-13,17H,2-4,7-9,14-16H2,1H3",
+    "InChl_Key": "NZEVKZAEMSMLMC-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1c2ccccc2c2cc(C(=O)N3CCCCC3)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4452",
+    "validation": "m_weight unsave, calculated(348.49000000000024)"
+}

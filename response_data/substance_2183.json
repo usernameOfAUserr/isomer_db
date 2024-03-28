@@ -1,0 +1,13 @@
+{
+    "names": "2C-T-32 ; 2,5-Dimethoxy-4-(pentafluorobenzylthio)phenethylamine",
+    "iupac_name": "2-(2,5-Dimethoxy-4-{[(pentafluorophenyl)methyl]sulfanyl}phenyl)ethan-1-amine ; 2-{2,5-Dimethoxy-4-[(pentafluorobenzyl)sulfanyl]phenyl}ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 2183,
+    "formular": "C17H16F5NO2S",
+    "molecular_weight": 393.371,
+    "inChl": "1S/C17H16F5NO2S/c1-24-10-6-12(11(25-2)5-8(10)3-4-23)26-7-9-13(18)15(20)17(22)16(21)14(9)19/h5-6H,3-4,7,23H2,1-2H3",
+    "InChl_Key": "SCZNXZRFVLLJGV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SCc2c(F)c(F)c(F)c(F)c2F)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2183",
+    "validation": "m_weight unsave, calculated(393.377)"
+}

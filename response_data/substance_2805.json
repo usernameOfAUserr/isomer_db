@@ -1,0 +1,13 @@
+{
+    "names": "3-Me-PCP ; 3-Methyl-PCP",
+    "iupac_name": "1-[1-(3-Methylphenyl)cyclohexyl]piperidine",
+    "category": "Arylcycloalkylamine",
+    "index": 2805,
+    "formular": "C18H27N",
+    "molecular_weight": 257.414,
+    "inChl": "1S/C18H27N/c1-16-9-8-10-17(15-16)18(11-4-2-5-12-18)19-13-6-3-7-14-19/h8-10,15H,2-7,11-14H2,1H3",
+    "InChl_Key": "BMFKUCGCXMDGBK-UHFFFAOYSA-N",
+    "SMILES": "Cc1cccc(C2(N3CCCCC3)CCCCC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2805",
+    "validation": "m_weight unsave, calculated(257.4209999999999)"
+}

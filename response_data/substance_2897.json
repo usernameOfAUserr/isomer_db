@@ -1,0 +1,13 @@
+{
+    "names": "1-(2-Aminoethyl)-1H-indazol-6-ol",
+    "iupac_name": "2897 ; C9H11N3O ; 177.203",
+    "category": "data not stored",
+    "index": 2897,
+    "formular": "C9H11N3O",
+    "molecular_weight": 177.203,
+    "inChl": "1S/C9H11N3O/c10-3-4-12-9-5-8(13)2-1-7(9)6-11-12/h1-2,5-6,13H,3-4,10H2",
+    "InChl_Key": "RVQKKYXTHSVLLB-UHFFFAOYSA-N",
+    "SMILES": "NCCn1ncc2ccc(O)cc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2897",
+    "validation": "m_weight unsave, calculated(177.207)"
+}

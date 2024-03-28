@@ -1,0 +1,13 @@
+{
+    "names": "4-{2-[(4-Aminobutan-2-yl)amino]-1-hydroxyethyl}benzene-1,2-diol",
+    "iupac_name": "1365 ; C12H20N2O3 ; 240.299",
+    "category": "data not stored",
+    "index": 1365,
+    "formular": "C12H20N2O3",
+    "molecular_weight": 240.299,
+    "inChl": "1S/C12H20N2O3/c1-8(4-5-13)14-7-12(17)9-2-3-10(15)11(16)6-9/h2-3,6,8,12,14-17H,4-5,7,13H2,1H3",
+    "InChl_Key": "RCVUJXVQEYODRK-UHFFFAOYSA-N",
+    "SMILES": "CC(CCN)NCC(O)c1ccc(O)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1365",
+    "validation": "m_weight unsave, calculated(240.303)"
+}

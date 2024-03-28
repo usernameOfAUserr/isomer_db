@@ -1,0 +1,13 @@
+{
+    "names": "PEA-NBBr34OMe",
+    "iupac_name": "N-[(2-Bromo-3,4-dimethoxyphenyl)methyl]-2-phenylethan-1-amine",
+    "category": "data not stored",
+    "index": 12466,
+    "formular": "C17H20BrNO2",
+    "molecular_weight": 350.25,
+    "inChl": "1S/C17H20BrNO2/c1-20-15-9-8-14(16(18)17(15)21-2)12-19-11-10-13-6-4-3-5-7-13/h3-9,19H,10-12H2,1-2H3",
+    "InChl_Key": "MYGAOJKKWVSPBK-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CNCCc2ccccc2)c(Br)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12466",
+    "validation": "m_weight unsave, calculated(350.2560000000001)"
+}

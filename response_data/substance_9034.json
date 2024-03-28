@@ -1,0 +1,13 @@
+{
+    "names": "2-EtO-\u03b1-Et-PEA-PFPA",
+    "iupac_name": "N-[1-(2-Ethoxyphenyl)butan-2-yl]-2,2,3,3,3-pentafluoropropanamide",
+    "category": "data not stored",
+    "index": 9034,
+    "formular": "C15H18F5NO2",
+    "molecular_weight": 339.301,
+    "inChl": "1S/C15H18F5NO2/c1-3-11(21-13(22)14(16,17)15(18,19)20)9-10-7-5-6-8-12(10)23-4-2/h5-8,11H,3-4,9H2,1-2H3,(H,21,22)",
+    "InChl_Key": "KPQYSDCMHMXJCE-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccccc1CC(CC)NC(=O)C(F)(F)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9034",
+    "validation": "m_weight unsave, calculated(339.304)"
+}

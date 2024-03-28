@@ -1,0 +1,13 @@
+{
+    "names": "Ethyl 1-{4-[(oxolan-2-yl)methoxy]butyl}-4-phenylpiperidine-4-carboxylate",
+    "iupac_name": "9076 ; C23H35NO4 ; 389.528",
+    "category": "data not stored",
+    "index": 9076,
+    "formular": "C23H35NO4",
+    "molecular_weight": 389.528,
+    "inChl": "1S/C23H35NO4/c1-2-27-22(25)23(20-9-4-3-5-10-20)12-15-24(16-13-23)14-6-7-17-26-19-21-11-8-18-28-21/h3-5,9-10,21H,2,6-8,11-19H2,1H3",
+    "InChl_Key": "KMUVLEYNEJRCCO-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CCCCOCC2CCCO2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9076",
+    "validation": "m_weight unsave, calculated(389.5360000000001)"
+}

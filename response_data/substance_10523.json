@@ -1,0 +1,13 @@
+{
+    "names": "Amidephrine ; N-Methyl-\u03b2-hydroxy-3-(methylsulfonylamino)phenethylamine ; Amidefrine ; N-Me-\u03b2-HO-3-MeSO2NH-PEA",
+    "iupac_name": "N-{3-[1-Hydroxy-2-(methylamino)ethyl]phenyl}methanesulfonamide",
+    "category": "Phenetylamine",
+    "index": 10523,
+    "formular": "C10H16N2O3S",
+    "molecular_weight": 244.311,
+    "inChl": "1S/C10H16N2O3S/c1-11-7-10(13)8-4-3-5-9(6-8)12-16(2,14)15/h3-6,10-13H,7H2,1-2H3",
+    "InChl_Key": "ZHOWHMXTJFZXRB-UHFFFAOYSA-N",
+    "SMILES": "CNCC(O)c1cccc(NS(C)(=O)=O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10523",
+    "validation": "m_weight unsave, calculated(244.316)"
+}

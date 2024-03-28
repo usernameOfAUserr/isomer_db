@@ -1,0 +1,13 @@
+{
+    "names": "GBR-12783",
+    "iupac_name": "1-[2-(Diphenylmethoxy)ethyl]-4-[(2E)-3-phenylprop-2-en-1-yl]piperazine",
+    "category": "data not stored",
+    "index": 3338,
+    "formular": "C28H32N2O",
+    "molecular_weight": 412.566,
+    "inChl": "1S/C28H32N2O/c1-4-11-25(12-5-1)13-10-18-29-19-21-30(22-20-29)23-24-31-28(26-14-6-2-7-15-26)27-16-8-3-9-17-27/h1-17,28H,18-24H2/b13-10+",
+    "InChl_Key": "XFBDGHFDKJITGC-JLHYYAGUSA-N",
+    "SMILES": "C(=C/c1ccccc1)\\CN1CCN(CCOC(c2ccccc2)c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3338",
+    "validation": "m_weight unsave, calculated(412.577)"
+}

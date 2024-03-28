@@ -1,0 +1,13 @@
+{
+    "names": "2-Cyclopentylethan-1-amine",
+    "iupac_name": "12158 ; C7H15N ; 113.201",
+    "category": "Phenetylamine",
+    "index": 12158,
+    "formular": "C7H15N",
+    "molecular_weight": 113.201,
+    "inChl": "1S/C7H15N/c8-6-5-7-3-1-2-4-7/h7H,1-6,8H2",
+    "InChl_Key": "UKPLRVAKKXWITN-UHFFFAOYSA-N",
+    "SMILES": "NCCC1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12158",
+    "validation": "m_weight unsave, calculated(113.20400000000001)"
+}

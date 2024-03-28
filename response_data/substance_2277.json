@@ -1,0 +1,13 @@
+{
+    "names": "N-Methylheliamine ; DMHM-4",
+    "iupac_name": "6,7-Dimethoxy-2-methyl-1,2,3,4-tetrahydroisoquinoline",
+    "category": "data not stored",
+    "index": 2277,
+    "formular": "C12H17NO2",
+    "molecular_weight": 207.269,
+    "inChl": "1S/C12H17NO2/c1-13-5-4-9-6-11(14-2)12(15-3)7-10(9)8-13/h6-7H,4-5,8H2,1-3H3",
+    "InChl_Key": "TXPPKWZEHFNZOE-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(cc1OC)CN(C)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2277",
+    "validation": "m_weight unsave, calculated(207.273)"
+}

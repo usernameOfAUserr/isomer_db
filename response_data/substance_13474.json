@@ -1,0 +1,13 @@
+{
+    "names": "1-[2,5-Dimethoxy-4-(5,5,5-trifluoropentyl)phenyl]propan-2-amine",
+    "iupac_name": "13474 ; C16H24F3NO2 ; 319.362",
+    "category": "data not stored",
+    "index": 13474,
+    "formular": "C16H24F3NO2",
+    "molecular_weight": 319.362,
+    "inChl": "1S/C16H24F3NO2/c1-11(20)8-13-10-14(21-2)12(9-15(13)22-3)6-4-5-7-16(17,18)19/h9-11H,4-8,20H2,1-3H3",
+    "InChl_Key": "ZQIHXFUWUJORSO-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)c(OC)cc1CCCCC(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13474",
+    "validation": "m_weight unsave, calculated(319.36699999999996)"
+}

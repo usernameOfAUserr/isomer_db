@@ -1,0 +1,13 @@
+{
+    "names": "DOB-FLY-TFA",
+    "iupac_name": "N-[1-(8-Bromo-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl)propan-2-yl]-2,2,2-trifluoroacetamide",
+    "category": "data not stored",
+    "index": 7051,
+    "formular": "C15H15BrF3NO3",
+    "molecular_weight": 394.184,
+    "inChl": "1S/C15H15BrF3NO3/c1-7(20-14(21)15(17,18)19)6-10-8-2-4-23-13(8)11(16)9-3-5-22-12(9)10/h7H,2-6H2,1H3,(H,20,21)",
+    "InChl_Key": "YDTGXJHAFGAOCD-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1c2c(c(Br)c3c1OCC3)OCC2)NC(=O)C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7051",
+    "validation": "m_weight unsave, calculated(394.18699999999995)"
+}

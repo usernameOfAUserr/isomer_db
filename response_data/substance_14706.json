@@ -1,0 +1,13 @@
+{
+    "names": "1-[1-(4-Butoxyphenyl)cyclohexyl]piperidine",
+    "iupac_name": "14706 ; C21H33NO ; 315.493",
+    "category": "Arylcycloalkylamine",
+    "index": 14706,
+    "formular": "C21H33NO",
+    "molecular_weight": 315.493,
+    "inChl": "1S/C21H33NO/c1-2-3-18-23-20-12-10-19(11-13-20)21(14-6-4-7-15-21)22-16-8-5-9-17-22/h10-13H,2-9,14-18H2,1H3",
+    "InChl_Key": "FNRNPGFYFBMGEO-UHFFFAOYSA-N",
+    "SMILES": "CCCCOc1ccc(C2(N3CCCCC3)CCCCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14706",
+    "validation": "m_weight unsave, calculated(315.50100000000015)"
+}

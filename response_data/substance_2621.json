@@ -1,0 +1,13 @@
+{
+    "names": "3-Methylfentanyl ; 3-MF ; Mefentanyl",
+    "iupac_name": "N-[3-Methyl-1-(2-phenylethyl)piperidin-4-yl]-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 2621,
+    "formular": "C23H30N2O",
+    "molecular_weight": 350.497,
+    "inChl": "1S/C23H30N2O/c1-3-23(26)25(21-12-8-5-9-13-21)22-15-17-24(18-19(22)2)16-14-20-10-6-4-7-11-20/h4-13,19,22H,3,14-18H2,1-2H3",
+    "InChl_Key": "MLQRZXNZHAOCHQ-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2621",
+    "validation": "m_weight unsave, calculated(350.50600000000003)"
+}

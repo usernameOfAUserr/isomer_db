@@ -1,0 +1,13 @@
+{
+    "names": "Hydroxetamine ; 3-HO-2\u2032-Oxo-PCE ; HXE",
+    "iupac_name": "2-(Ethylamino)-2-(3-hydroxyphenyl)cyclohexan-1-one",
+    "category": "Arylcycloalkylamine",
+    "index": 7505,
+    "formular": "C14H19NO2",
+    "molecular_weight": 233.306,
+    "inChl": "1S/C14H19NO2/c1-2-15-14(9-4-3-8-13(14)17)11-6-5-7-12(16)10-11/h5-7,10,15-16H,2-4,8-9H2,1H3",
+    "InChl_Key": "CQERUJSORROCGH-UHFFFAOYSA-N",
+    "SMILES": "CCNC1(c2cccc(O)c2)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7505",
+    "validation": "m_weight unsave, calculated(233.311)"
+}

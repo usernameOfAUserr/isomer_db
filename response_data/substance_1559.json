@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2,\u03b2-Me-PEA ; \u03b2,\u03b2-Dimethylphenethylamine",
+    "iupac_name": "2-Methyl-2-phenylpropan-1-amine",
+    "category": "data not stored",
+    "index": 1559,
+    "formular": "C10H15N",
+    "molecular_weight": 149.233,
+    "inChl": "1S/C10H15N/c1-10(2,8-11)9-6-4-3-5-7-9/h3-7H,8,11H2,1-2H3",
+    "InChl_Key": "CWSGTPMVOJFVIF-UHFFFAOYSA-N",
+    "SMILES": "CC(C)(CN)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1559",
+    "validation": "m_weight unsave, calculated(149.23699999999994)"
+}

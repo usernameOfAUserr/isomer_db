@@ -1,0 +1,13 @@
+{
+    "names": "5,6-MeO-pyr-T ; 5,6-Dimethoxy-pyr-tryptamine",
+    "iupac_name": "5,6-Dimethoxy-3-[2-(pyrrolidin-1-yl)ethyl]-1H-indole",
+    "category": "Tryptamine",
+    "index": 5167,
+    "formular": "C16H22N2O2",
+    "molecular_weight": 274.358,
+    "inChl": "1S/C16H22N2O2/c1-19-15-9-13-12(5-8-18-6-3-4-7-18)11-17-14(13)10-16(15)20-2/h9-11,17H,3-8H2,1-2H3",
+    "InChl_Key": "MLVAJUHHZASTCP-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2[nH]cc(CCN3CCCC3)c2cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5167",
+    "validation": "m_weight unsave, calculated(274.36400000000003)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "U02",
+    "iupac_name": "4-Chloro-N-[(1R,2R)-2-(dimethylamino)cyclohexyl]-N-methylbenzamide",
+    "category": "data not stored",
+    "index": 7624,
+    "formular": "C16H23ClN2O",
+    "molecular_weight": 294.82,
+    "inChl": "1S/C16H23ClN2O/c1-18(2)14-6-4-5-7-15(14)19(3)16(20)12-8-10-13(17)11-9-12/h8-11,14-15H,4-7H2,1-3H3/t14-,15-/m1/s1",
+    "InChl_Key": "VATXTTIUXCECJO-HUUCEWRRSA-N",
+    "SMILES": "CN(C)[C@@H]1CCCC[C@H]1N(C)C(=O)c1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7624",
+    "validation": "m_weight unsave, calculated(294.8260000000001)"
+}

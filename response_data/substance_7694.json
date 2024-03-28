@@ -1,0 +1,13 @@
+{
+    "names": "N-[1-(Cyclohexylmethyl)-1H-indole-3-carbonyl]-3-methyl-L-valylglycinamide ; N-{(2S)-1-[(2-Amino-2-oxoethyl)amino]-3,3-dimethyl-1-oxobutan-2-yl}-1-(cyclohexylmethyl)-1H-indole-3-carboxamide",
+    "iupac_name": "7694 ; C24H34N4O3 ; 426.552",
+    "category": "cannabinodids",
+    "index": 7694,
+    "formular": "C24H34N4O3",
+    "molecular_weight": 426.552,
+    "inChl": "1S/C24H34N4O3/c1-24(2,3)21(23(31)26-13-20(25)29)27-22(30)18-15-28(14-16-9-5-4-6-10-16)19-12-8-7-11-17(18)19/h7-8,11-12,15-16,21H,4-6,9-10,13-14H2,1-3H3,(H2,25,29)(H,26,31)(H,27,30)/t21-/m1/s1",
+    "InChl_Key": "RZWSFUPXRUFFJF-OAQYLSRUSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1cn(CC2CCCCC2)c2ccccc12)C(=O)NCC(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7694",
+    "validation": "m_weight unsave, calculated(426.5610000000003)"
+}

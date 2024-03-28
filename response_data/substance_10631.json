@@ -1,0 +1,13 @@
+{
+    "names": "Mesembrine",
+    "iupac_name": "3a-(3,4-Dimethoxyphenyl)-1-methyloctahydro-6H-indol-6-one",
+    "category": "data not stored",
+    "index": 10631,
+    "formular": "C17H23NO3",
+    "molecular_weight": 289.369,
+    "inChl": "1S/C17H23NO3/c1-18-9-8-17(7-6-13(19)11-16(17)18)12-4-5-14(20-2)15(10-12)21-3/h4-5,10,16H,6-9,11H2,1-3H3",
+    "InChl_Key": "DAHIQPJTGIHDGO-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C23CCC(=O)CC2N(C)CC3)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10631",
+    "validation": "m_weight unsave, calculated(289.37500000000006)"
+}

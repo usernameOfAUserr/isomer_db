@@ -1,0 +1,13 @@
+{
+    "names": "N-Propyl-N-[2-(1H-pyrrol-3-yl)ethyl]propan-1-amine",
+    "iupac_name": "10930 ; C12H22N2 ; 194.316",
+    "category": "Phenetylamine",
+    "index": 10930,
+    "formular": "C12H22N2",
+    "molecular_weight": 194.316,
+    "inChl": "1S/C12H22N2/c1-3-8-14(9-4-2)10-6-12-5-7-13-11-12/h5,7,11,13H,3-4,6,8-10H2,1-2H3",
+    "InChl_Key": "KTKMZHKIHYNDOC-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCC)CCc1cc[nH]c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10930",
+    "validation": "m_weight unsave, calculated(194.32199999999997)"
+}

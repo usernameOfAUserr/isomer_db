@@ -1,0 +1,13 @@
+{
+    "names": "Methyl salicylate",
+    "iupac_name": "Methyl 2-hydroxybenzoate",
+    "category": "data not stored",
+    "index": 13239,
+    "formular": "C8H8O3",
+    "molecular_weight": 152.147,
+    "inChl": "1S/C8H8O3/c1-11-8(10)6-4-2-3-5-7(6)9/h2-5,9H,1H3",
+    "InChl_Key": "OSWPMRLSEDHDFF-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)c1ccccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13239",
+    "validation": "m_weight unsave, calculated(152.14899999999997)"
+}

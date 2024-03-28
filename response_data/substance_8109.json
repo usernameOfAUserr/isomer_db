@@ -1,0 +1,13 @@
+{
+    "names": "CBX ; Cannabioxepane",
+    "iupac_name": "3-Methyl-10-methylidene-6-pentyl-9,10-dihydro[1]benzofuro[4,3,2-def][1]benzoxepine",
+    "category": "cannabinodids",
+    "index": 8109,
+    "formular": "C21H22O2",
+    "molecular_weight": 306.398,
+    "inChl": "1S/C21H22O2/c1-4-5-6-7-15-10-17-20-18(11-15)23-21-13(2)8-9-16(19(20)21)14(3)12-22-17/h8-11H,3-7,12H2,1-2H3",
+    "InChl_Key": "JNWBWFSVYIENLJ-UHFFFAOYSA-N",
+    "SMILES": "C=C1COc2cc(CCCCC)cc3oc4c(C)ccc1c4c23",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8109",
+    "validation": "m_weight unsave, calculated(306.405)"
+}

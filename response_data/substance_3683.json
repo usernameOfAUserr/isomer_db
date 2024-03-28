@@ -1,0 +1,13 @@
+{
+    "names": "Physostigmine",
+    "iupac_name": "(3aS,8aR)-1,3a,8-Trimethyl-1,2,3,3a,8,8a-hexahydropyrrolo[2,3-b]indol-5-yl methylcarbamate",
+    "category": "data not stored",
+    "index": 3683,
+    "formular": "C15H21N3O2",
+    "molecular_weight": 275.346,
+    "inChl": "1S/C15H21N3O2/c1-15-7-8-17(3)13(15)18(4)12-6-5-10(9-11(12)15)20-14(19)16-2/h5-6,9,13H,7-8H2,1-4H3,(H,16,19)/t13-,15+/m1/s1",
+    "InChl_Key": "PIJVFDBKTWXHHD-HIFRSBDPSA-N",
+    "SMILES": "CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3683",
+    "validation": "m_weight unsave, calculated(275.352)"
+}

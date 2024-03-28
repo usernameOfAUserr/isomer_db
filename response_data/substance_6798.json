@@ -1,0 +1,13 @@
+{
+    "names": "RY-097",
+    "iupac_name": "Ethyl 5-methyl-6-oxo-8-[3-(trimethylsilyl)prop-1-yn-1-yl]-5,6-dihydro-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 6798,
+    "formular": "C21H25N3O3Si",
+    "molecular_weight": 395.527,
+    "inChl": "1S/C21H25N3O3Si/c1-6-27-21(26)19-18-13-23(2)20(25)16-12-15(8-7-11-28(3,4)5)9-10-17(16)24(18)14-22-19/h9-10,12,14H,6,11,13H2,1-5H3",
+    "InChl_Key": "XJECKSDPJANHEM-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ncn2c1CN(C)C(=O)c1cc(C#CC[Si](C)(C)C)ccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6798",
+    "validation": "m_weight unsave, calculated(395.5350000000002)"
+}

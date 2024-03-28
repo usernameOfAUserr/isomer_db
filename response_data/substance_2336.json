@@ -1,0 +1,13 @@
+{
+    "names": "4-PhPr-2,6-DMA ; 2,6-Dimethoxy-4-(3-phenylpropyl)amphetamine",
+    "iupac_name": "1-[2,6-Dimethoxy-4-(3-phenylpropyl)phenyl]propan-2-amine",
+    "category": "data not stored",
+    "index": 2336,
+    "formular": "C20H27NO2",
+    "molecular_weight": 313.434,
+    "inChl": "1S/C20H27NO2/c1-15(21)12-18-19(22-2)13-17(14-20(18)23-3)11-7-10-16-8-5-4-6-9-16/h4-6,8-9,13-15H,7,10-12,21H2,1-3H3",
+    "InChl_Key": "BLTUEXQAJVYGCR-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCCc2ccccc2)cc(OC)c1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2336",
+    "validation": "m_weight unsave, calculated(313.4410000000001)"
+}

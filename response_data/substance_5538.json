@@ -1,0 +1,13 @@
+{
+    "names": "4\u2032-Phenyl-4-HO-pip-T ; 4\u2032-Phenyl-4-hydroxy-pip-tryptamine",
+    "iupac_name": "3-[2-(4-Phenylpiperidin-1-yl)ethyl]-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 5538,
+    "formular": "C21H24N2O",
+    "molecular_weight": 320.428,
+    "inChl": "1S/C21H24N2O/c24-20-8-4-7-19-21(20)18(15-22-19)11-14-23-12-9-17(10-13-23)16-5-2-1-3-6-16/h1-8,15,17,22,24H,9-14H2",
+    "InChl_Key": "OPTYEPUWQQEDFA-UHFFFAOYSA-N",
+    "SMILES": "Oc1cccc2[nH]cc(CCN3CCC(c4ccccc4)CC3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5538",
+    "validation": "m_weight unsave, calculated(320.4359999999999)"
+}

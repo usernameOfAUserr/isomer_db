@@ -1,0 +1,13 @@
+{
+    "names": "Isomethadone ; Isoamidone",
+    "iupac_name": "6-(Dimethylamino)-5-methyl-4,4-diphenylhexan-3-one",
+    "category": "data not stored",
+    "index": 13986,
+    "formular": "C21H27NO",
+    "molecular_weight": 309.445,
+    "inChl": "1S/C21H27NO/c1-5-20(23)21(17(2)16-22(3)4,18-12-8-6-9-13-18)19-14-10-7-11-15-19/h6-15,17H,5,16H2,1-4H3",
+    "InChl_Key": "IFKPLJWIEQBPGG-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)C(c1ccccc1)(c1ccccc1)C(C)CN(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13986",
+    "validation": "m_weight unsave, calculated(309.4530000000001)"
+}

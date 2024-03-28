@@ -1,0 +1,13 @@
+{
+    "names": "Piperonylic acid",
+    "iupac_name": "2H-1,3-Benzodioxole-5-carboxylic acid",
+    "category": "data not stored",
+    "index": 10234,
+    "formular": "C8H6O4",
+    "molecular_weight": 166.131,
+    "inChl": "1S/C8H6O4/c9-8(10)5-1-2-6-7(3-5)12-4-11-6/h1-3H,4H2,(H,9,10)",
+    "InChl_Key": "VDVJGIYXDVPQLP-UHFFFAOYSA-N",
+    "SMILES": "O=C(O)c1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10234",
+    "validation": "m_weight unsave, calculated(166.13199999999995)"
+}

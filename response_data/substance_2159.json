@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Diethyl-2,4-dimethoxyamphetamine ; 2,4-Dimethoxy-N,N-diethylamphetamine",
+    "iupac_name": "1-(2,4-Dimethoxyphenyl)-N,N-diethylpropan-2-amine",
+    "category": "data not stored",
+    "index": 2159,
+    "formular": "C15H25NO2",
+    "molecular_weight": 251.365,
+    "inChl": "1S/C15H25NO2/c1-6-16(7-2)12(3)10-13-8-9-14(17-4)11-15(13)18-5/h8-9,11-12H,6-7,10H2,1-5H3",
+    "InChl_Key": "UPHADWWRYAMJDX-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)C(C)Cc1ccc(OC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2159",
+    "validation": "m_weight unsave, calculated(251.36999999999995)"
+}

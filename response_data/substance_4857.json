@@ -1,0 +1,13 @@
+{
+    "names": "JWH-018 thioketone",
+    "iupac_name": "(Naphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanethione",
+    "category": "cannabinodids",
+    "index": 4857,
+    "formular": "C24H23NS",
+    "molecular_weight": 357.511,
+    "inChl": "1S/C24H23NS/c1-2-3-8-16-25-17-22(20-13-6-7-15-23(20)25)24(26)21-14-9-11-18-10-4-5-12-19(18)21/h4-7,9-15,17H,2-3,8,16H2,1H3",
+    "InChl_Key": "VUWRGUYVZSNPLC-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=S)c2cccc3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4857",
+    "validation": "m_weight unsave, calculated(357.5220000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Homomazindole",
+    "iupac_name": "6-(4-Chlorophenyl)-2,3,4,6-tetrahydropyrimido[2,1-a]isoindol-6-ol",
+    "category": "data not stored",
+    "index": 11426,
+    "formular": "C17H15ClN2O",
+    "molecular_weight": 298.767,
+    "inChl": "1S/C17H15ClN2O/c18-13-8-6-12(7-9-13)17(21)15-5-2-1-4-14(15)16-19-10-3-11-20(16)17/h1-2,4-9,21H,3,10-11H2",
+    "InChl_Key": "ZGLAJTSGABGHND-UHFFFAOYSA-N",
+    "SMILES": "OC1(c2ccc(Cl)cc2)c2ccccc2C2=NCCCN21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11426",
+    "validation": "m_weight unsave, calculated(298.7730000000001)"
+}

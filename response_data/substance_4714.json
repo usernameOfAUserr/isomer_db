@@ -1,0 +1,13 @@
+{
+    "names": "EG-018 ; NA-PCZMO",
+    "iupac_name": "(Naphthalen-1-yl)(9-pentyl-9H-carbazol-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4714,
+    "formular": "C28H25NO",
+    "molecular_weight": 391.504,
+    "inChl": "1S/C28H25NO/c1-2-3-8-18-29-26-15-7-6-13-23(26)25-19-21(16-17-27(25)29)28(30)24-14-9-11-20-10-4-5-12-22(20)24/h4-7,9-17,19H,2-3,8,18H2,1H3",
+    "InChl_Key": "FJMMDJDPNLZYLA-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1c2ccccc2c2cc(C(=O)c3cccc4ccccc34)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4714",
+    "validation": "m_weight unsave, calculated(391.5140000000001)"
+}

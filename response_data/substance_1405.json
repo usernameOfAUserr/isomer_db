@@ -1,0 +1,13 @@
+{
+    "names": "4CN-\u03b1-PVP ; 4\u2032-Cyano-\u03b1-(pyrrolidin-1-yl)valerophenone ; O-2475",
+    "iupac_name": "4-[2-(Pyrrolidin-1-yl)pentanoyl]benzonitrile",
+    "category": "data not stored",
+    "index": 1405,
+    "formular": "C16H20N2O",
+    "molecular_weight": 256.343,
+    "inChl": "1S/C16H20N2O/c1-2-5-15(18-10-3-4-11-18)16(19)14-8-6-13(12-17)7-9-14/h6-9,15H,2-5,10-11H2,1H3",
+    "InChl_Key": "AQQRGNNYEPRIIF-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccc(C#N)cc1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1405",
+    "validation": "m_weight unsave, calculated(256.34899999999993)"
+}

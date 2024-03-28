@@ -1,0 +1,13 @@
+{
+    "names": "3-(4-Bromo-1-methyl-1H-pyrazol-5-yl)-N-[4-(trifluoromethyl)phenyl]aniline",
+    "iupac_name": "7365 ; C17H13BrF3N3 ; 396.204",
+    "category": "data not stored",
+    "index": 7365,
+    "formular": "C17H13BrF3N3",
+    "molecular_weight": 396.204,
+    "inChl": "1S/C17H13BrF3N3/c1-24-16(15(18)10-22-24)11-3-2-4-14(9-11)23-13-7-5-12(6-8-13)17(19,20)21/h2-10,23H,1H3",
+    "InChl_Key": "ZAIICAYGFBFTHL-UHFFFAOYSA-N",
+    "SMILES": "Cn1ncc(Br)c1-c1cccc(Nc2ccc(C(F)(F)F)cc2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7365",
+    "validation": "m_weight unsave, calculated(396.21000000000004)"
+}

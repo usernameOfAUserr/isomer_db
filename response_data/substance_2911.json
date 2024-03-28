@@ -1,0 +1,13 @@
+{
+    "names": "RTI-193",
+    "iupac_name": "Cyclopropyl (2S,3S)-8-methyl-3-(4-methylphenyl)-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "category": "data not stored",
+    "index": 2911,
+    "formular": "C19H25NO2",
+    "molecular_weight": 299.407,
+    "inChl": "1S/C19H25NO2/c1-12-3-5-13(6-4-12)16-11-14-7-10-17(20(14)2)18(16)19(21)22-15-8-9-15/h3-6,14-18H,7-11H2,1-2H3/t14?,16-,17?,18+/m1/s1",
+    "InChl_Key": "LJQDDHCTODTELH-CCRGXQTGSA-N",
+    "SMILES": "Cc1ccc([C@H]2CC3CCC([C@H]2C(=O)OC2CC2)N3C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2911",
+    "validation": "m_weight unsave, calculated(299.41400000000004)"
+}

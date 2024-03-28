@@ -1,0 +1,13 @@
+{
+    "names": "MPP-4F-BUT7AICA",
+    "iupac_name": "Methyl N-[1-(4-fluorobutyl)-1H-pyrrolo[2,3-b]pyridine-3-carbonyl]-L-phenylalaninate ; Methyl (2S)-2-{[1-(4-fluorobutyl)-1H-pyrrolo[2,3-b]pyridine-3-carbonyl]amino}-3-phenylpropanoate",
+    "category": "cannabinodids",
+    "index": 14111,
+    "formular": "C22H24FN3O3",
+    "molecular_weight": 397.443,
+    "inChl": "1S/C22H24FN3O3/c1-29-22(28)19(14-16-8-3-2-4-9-16)25-21(27)18-15-26(13-6-5-11-23)20-17(18)10-7-12-24-20/h2-4,7-10,12,15,19H,5-6,11,13-14H2,1H3,(H,25,27)/t19-/m0/s1",
+    "InChl_Key": "SSXWFJPBCKDMEN-IBGZPJMESA-N",
+    "SMILES": "COC(=O)[C@H](Cc1ccccc1)NC(=O)c1cn(CCCCF)c2ncccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14111",
+    "validation": "m_weight unsave, calculated(397.4500000000002)"
+}

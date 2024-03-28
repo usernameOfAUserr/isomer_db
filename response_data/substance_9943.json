@@ -1,0 +1,13 @@
+{
+    "names": "Tetrahydrocannabinolic acid B",
+    "iupac_name": "(6aR)-1-Hydroxy-6,6,9-trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-4-carboxylic acid",
+    "category": "cannabinodids",
+    "index": 9943,
+    "formular": "C22H30O4",
+    "molecular_weight": 358.471,
+    "inChl": "1S/C22H30O4/c1-5-6-7-8-14-12-17(23)19-15-11-13(2)9-10-16(15)22(3,4)26-20(19)18(14)21(24)25/h11-12,15-16,23H,5-10H2,1-4H3,(H,24,25)/t15?,16-/m1/s1",
+    "InChl_Key": "VITZNDKHSIWPSR-OEMAIJDKSA-N",
+    "SMILES": "CCCCCc1cc(O)c2c(c1C(=O)O)OC(C)(C)[C@@H]1CCC(C)=CC21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9943",
+    "validation": "m_weight unsave, calculated(358.4780000000001)"
+}

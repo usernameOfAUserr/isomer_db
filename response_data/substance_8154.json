@@ -1,0 +1,13 @@
+{
+    "names": "(4-Butoxynaphthalen-1-yl)(naphthalen-1-yl)methanone",
+    "iupac_name": "8154 ; C25H22O2 ; 354.441",
+    "category": "cannabinodids",
+    "index": 8154,
+    "formular": "C25H22O2",
+    "molecular_weight": 354.441,
+    "inChl": "1S/C25H22O2/c1-2-3-17-27-24-16-15-23(20-12-6-7-13-21(20)24)25(26)22-14-8-10-18-9-4-5-11-19(18)22/h4-16H,2-3,17H2,1H3",
+    "InChl_Key": "PNGUNNSUNSTFHO-UHFFFAOYSA-N",
+    "SMILES": "CCCCOc1ccc(C(=O)c2cccc3ccccc23)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8154",
+    "validation": "m_weight unsave, calculated(354.44900000000007)"
+}

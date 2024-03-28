@@ -1,0 +1,13 @@
+{
+    "names": "4-(2-Bromopropyl)-2,6-dimethoxyphenol",
+    "iupac_name": "8668 ; C11H15BrO3 ; 275.139",
+    "category": "data not stored",
+    "index": 8668,
+    "formular": "C11H15BrO3",
+    "molecular_weight": 275.139,
+    "inChl": "1S/C11H15BrO3/c1-7(12)4-8-5-9(14-2)11(13)10(6-8)15-3/h5-7,13H,4H2,1-3H3",
+    "InChl_Key": "BLASVFATINOZMQ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)Br)cc(OC)c1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8668",
+    "validation": "m_weight unsave, calculated(275.142)"
+}

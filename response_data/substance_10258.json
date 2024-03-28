@@ -1,0 +1,13 @@
+{
+    "names": "1,2,3-Trimethoxy-6,7,8,9-tetrahydro-5H-benzo[7]annulen-6-amine",
+    "iupac_name": "10258 ; C14H21NO3 ; 251.321",
+    "category": "Phenetylamine",
+    "index": 10258,
+    "formular": "C14H21NO3",
+    "molecular_weight": 251.321,
+    "inChl": "1S/C14H21NO3/c1-16-12-8-9-7-10(15)5-4-6-11(9)13(17-2)14(12)18-3/h8,10H,4-7,15H2,1-3H3",
+    "InChl_Key": "ZPSMHQPMFJPPNP-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(c(OC)c1OC)CCCC(N)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10258",
+    "validation": "m_weight unsave, calculated(251.32599999999996)"
+}

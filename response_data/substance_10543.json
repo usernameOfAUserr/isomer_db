@@ -1,0 +1,13 @@
+{
+    "names": "1-(5-Bromofuran-2-yl)propan-2-amine",
+    "iupac_name": "10543 ; C7H10BrNO ; 204.064",
+    "category": "Phenetylamine",
+    "index": 10543,
+    "formular": "C7H10BrNO",
+    "molecular_weight": 204.064,
+    "inChl": "1S/C7H10BrNO/c1-5(9)4-6-2-3-7(8)10-6/h2-3,5H,4,9H2,1H3",
+    "InChl_Key": "WIKVZDSTRHFYER-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(Br)o1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10543",
+    "validation": "m_weight unsave, calculated(204.06699999999998)"
+}

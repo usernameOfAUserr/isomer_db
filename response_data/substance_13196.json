@@ -1,0 +1,13 @@
+{
+    "names": "(2S)-1-(9-Methyl-8,9-dihydro[1,4]oxazino[2,3-g]indazol-1(7H)-yl)propan-2-amine",
+    "iupac_name": "13196 ; C13H18N4O ; 246.308",
+    "category": "data not stored",
+    "index": 13196,
+    "formular": "C13H18N4O",
+    "molecular_weight": 246.308,
+    "inChl": "1S/C13H18N4O/c1-9(14)8-17-12-10(7-15-17)3-4-11-13(12)16(2)5-6-18-11/h3-4,7,9H,5-6,8,14H2,1-2H3/t9-/m0/s1",
+    "InChl_Key": "UYYIIXBGGQDVKP-VIFPVBQESA-N",
+    "SMILES": "C[C@H](N)Cn1ncc2ccc3c(c21)N(C)CCO3",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13196",
+    "validation": "m_weight unsave, calculated(246.31399999999994)"
+}

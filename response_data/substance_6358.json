@@ -1,0 +1,13 @@
+{
+    "names": "(M8) 2C-E-FLY",
+    "iupac_name": "[8-(2-Aminoethyl)-2,3,6,7-tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl]acetic acid",
+    "category": "data not stored",
+    "index": 6358,
+    "formular": "C14H17NO4",
+    "molecular_weight": 263.289,
+    "inChl": "1S/C14H17NO4/c15-4-1-8-9-2-5-19-14(9)11(7-12(16)17)10-3-6-18-13(8)10/h1-7,15H2,(H,16,17)",
+    "InChl_Key": "PKNWQNIFUHJVLG-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c2c(c(CC(=O)O)c3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6358",
+    "validation": "m_weight unsave, calculated(263.2929999999999)"
+}

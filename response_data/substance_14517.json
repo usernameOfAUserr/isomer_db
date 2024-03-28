@@ -1,0 +1,13 @@
+{
+    "names": "Ethylnorketobemidone",
+    "iupac_name": "1-[1-Ethyl-4-(3-hydroxyphenyl)piperidin-4-yl]propan-1-one",
+    "category": "data not stored",
+    "index": 14517,
+    "formular": "C16H23NO2",
+    "molecular_weight": 261.359,
+    "inChl": "1S/C16H23NO2/c1-3-15(19)16(8-10-17(4-2)11-9-16)13-6-5-7-14(18)12-13/h5-7,12,18H,3-4,8-11H2,1-2H3",
+    "InChl_Key": "XCAMYZFCUDXNFH-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)C1(c2cccc(O)c2)CCN(CC)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14517",
+    "validation": "m_weight unsave, calculated(261.365)"
+}

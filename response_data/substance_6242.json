@@ -1,0 +1,13 @@
+{
+    "names": "MDP-2-P oxime ; MDPP oxime ; Methylenedioxyphenyl-2-propanone oxime",
+    "iupac_name": "N-[(2E)-1-(2H-1,3-Benzodioxol-5-yl)propan-2-ylidene]hydroxylamine",
+    "category": "data not stored",
+    "index": 6242,
+    "formular": "C10H11NO3",
+    "molecular_weight": 193.199,
+    "inChl": "1S/C10H11NO3/c1-7(11-12)4-8-2-3-9-10(5-8)14-6-13-9/h2-3,5,12H,4,6H2,1H3/b11-7+",
+    "InChl_Key": "OHIFAOJHDDQCEV-YRNVUSSQSA-N",
+    "SMILES": "C/C(Cc1ccc2c(c1)OCO2)=N\\O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6242",
+    "validation": "m_weight unsave, calculated(193.20199999999997)"
+}

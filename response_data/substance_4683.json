@@ -1,0 +1,13 @@
+{
+    "names": "EAM-2201 ; 4Et-NA-5F-PIMO ; 4\u2032-Ethyl-AM-2201 ; 5\u2033-Fluoro-JWH-210 ; SGT-14",
+    "iupac_name": "(4-Ethylnaphthalen-1-yl)[1-(5-fluoropentyl)-1H-indol-3-yl]methanone",
+    "category": "cannabinodids",
+    "index": 4683,
+    "formular": "C26H26FNO",
+    "molecular_weight": 387.489,
+    "inChl": "1S/C26H26FNO/c1-2-19-14-15-23(21-11-5-4-10-20(19)21)26(29)24-18-28(17-9-3-8-16-27)25-13-7-6-12-22(24)25/h4-7,10-15,18H,2-3,8-9,16-17H2,1H3",
+    "InChl_Key": "NSCXPXDWLZORPX-UHFFFAOYSA-N",
+    "SMILES": "CCc1ccc(C(=O)c2cn(CCCCCF)c3ccccc23)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4683",
+    "validation": "m_weight unsave, calculated(387.49800000000016)"
+}

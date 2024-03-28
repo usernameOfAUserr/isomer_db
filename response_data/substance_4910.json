@@ -1,0 +1,13 @@
+{
+    "names": "O-2372",
+    "iupac_name": "6-[(6aR,10aR)-1-Hydroxy-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-3-yl]-6-methyl-1-(morpholin-4-yl)heptan-1-one",
+    "category": "cannabinodids",
+    "index": 4910,
+    "formular": "C28H41NO4",
+    "molecular_weight": 455.629,
+    "inChl": "1S/C28H41NO4/c1-19-9-10-22-21(16-19)26-23(30)17-20(18-24(26)33-28(22,4)5)27(2,3)11-7-6-8-25(31)29-12-14-32-15-13-29/h9,17-18,21-22,30H,6-8,10-16H2,1-5H3/t21-,22-/m1/s1",
+    "InChl_Key": "ASKNFEPPYVJXIA-FGZHOGPDSA-N",
+    "SMILES": "CC1=CC[C@@H]2[C@@H](C1)c1c(O)cc(C(C)(C)CCCCC(=O)N3CCOCC3)cc1OC2(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4910",
+    "validation": "m_weight unsave, calculated(455.63900000000046)"
+}

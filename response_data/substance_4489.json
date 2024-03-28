@@ -1,0 +1,13 @@
+{
+    "names": "5F-AB-PICA ; AMB-5F-PICA ; 5F-ABICA ; 5F-AMBICA",
+    "iupac_name": "N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4489,
+    "formular": "C19H26FN3O2",
+    "molecular_weight": 347.427,
+    "inChl": "1S/C19H26FN3O2/c1-13(2)17(18(21)24)22-19(25)15-12-23(11-7-3-6-10-20)16-9-5-4-8-14(15)16/h4-5,8-9,12-13,17H,3,6-7,10-11H2,1-2H3,(H2,21,24)(H,22,25)/t17-/m0/s1",
+    "InChl_Key": "GQYZBLMAONPUNX-KRWDZBQOSA-N",
+    "SMILES": "CC(C)[C@H](NC(=O)c1cn(CCCCCF)c2ccccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4489",
+    "validation": "m_weight unsave, calculated(347.43400000000014)"
+}

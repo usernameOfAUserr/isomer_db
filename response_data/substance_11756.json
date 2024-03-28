@@ -1,0 +1,13 @@
+{
+    "names": "Ro-11-5073",
+    "iupac_name": "(4S)-8-Chloro-6-(2-fluorophenyl)-1,4-dimethyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine",
+    "category": "Aryldiazepine",
+    "index": 11756,
+    "formular": "C18H14ClFN4",
+    "molecular_weight": 340.782,
+    "inChl": "1S/C18H14ClFN4/c1-10-18-23-22-11(2)24(18)16-8-7-12(19)9-14(16)17(21-10)13-5-3-4-6-15(13)20/h3-10H,1-2H3/t10-/m0/s1",
+    "InChl_Key": "KNNHTJYHASBPGF-JTQLQIEISA-N",
+    "SMILES": "Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=N[C@H]2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11756",
+    "validation": "m_weight unsave, calculated(340.78900000000004)"
+}

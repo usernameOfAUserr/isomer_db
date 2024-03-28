@@ -1,0 +1,13 @@
+{
+    "names": "Methylphenylisonipecotonitrile ; Pethidine intermediate A",
+    "iupac_name": "1-Methyl-4-phenylpiperidine-4-carbonitrile",
+    "category": "data not stored",
+    "index": 3263,
+    "formular": "C13H16N2",
+    "molecular_weight": 200.28,
+    "inChl": "1S/C13H16N2/c1-15-9-7-13(11-14,8-10-15)12-5-3-2-4-6-12/h2-6H,7-10H2,1H3",
+    "InChl_Key": "ZLFQTZYFXYOGLS-UHFFFAOYSA-N",
+    "SMILES": "CN1CCC(C#N)(c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3263",
+    "validation": "m_weight unsave, calculated(200.28500000000003)"
+}

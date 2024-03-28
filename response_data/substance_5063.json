@@ -1,0 +1,13 @@
+{
+    "names": "4-MeO-T ; 4-Methoxytryptamine",
+    "iupac_name": "2-(4-Methoxy-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5063,
+    "formular": "C11H14N2O",
+    "molecular_weight": 190.242,
+    "inChl": "1S/C11H14N2O/c1-14-10-4-2-3-9-11(10)8(5-6-12)7-13-9/h2-4,7,13H,5-6,12H2,1H3",
+    "InChl_Key": "WMBARRJMPVVQEZ-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc2[nH]cc(CCN)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5063",
+    "validation": "m_weight unsave, calculated(190.24599999999998)"
+}

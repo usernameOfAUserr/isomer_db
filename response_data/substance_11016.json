@@ -1,0 +1,13 @@
+{
+    "names": "2-Cl-PCP ; 2-Chloro-PCP ; 2-Chlorophencyclidine",
+    "iupac_name": "1-[1-(2-Chlorophenyl)cyclohexyl]piperidine",
+    "category": "Arylcycloalkylamine",
+    "index": 11016,
+    "formular": "C17H24ClN",
+    "molecular_weight": 277.832,
+    "inChl": "1S/C17H24ClN/c18-16-10-4-3-9-15(16)17(11-5-1-6-12-17)19-13-7-2-8-14-19/h3-4,9-10H,1-2,5-8,11-14H2",
+    "InChl_Key": "VGOZTBWNYAPRMU-UHFFFAOYSA-N",
+    "SMILES": "Clc1ccccc1C1(N2CCCCC2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11016",
+    "validation": "m_weight unsave, calculated(277.83899999999994)"
+}

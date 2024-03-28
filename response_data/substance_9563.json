@@ -1,0 +1,13 @@
+{
+    "names": "2,2,3Me-3en-B-PIMO",
+    "iupac_name": "3,3,4-Trimethyl-1-(1-pentyl-1H-indol-3-yl)pent-4-en-1-one",
+    "category": "cannabinodids",
+    "index": 9563,
+    "formular": "C21H29NO",
+    "molecular_weight": 311.461,
+    "inChl": "1S/C21H29NO/c1-6-7-10-13-22-15-18(17-11-8-9-12-19(17)22)20(23)14-21(4,5)16(2)3/h8-9,11-12,15H,2,6-7,10,13-14H2,1,3-5H3",
+    "InChl_Key": "NBJHWTCAQOYUND-UHFFFAOYSA-N",
+    "SMILES": "C=C(C)C(C)(C)CC(=O)c1cn(CCCCC)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9563",
+    "validation": "m_weight unsave, calculated(311.4690000000001)"
+}

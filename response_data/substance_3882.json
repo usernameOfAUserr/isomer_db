@@ -1,0 +1,13 @@
+{
+    "names": "O,O-Dibenzylpsilocybin ; 4-Di(benzyloxy)phosphoryloxy-N,N-dimethyltryptamine ; 4-Di(benzyloxy)phosphoryloxy-DMT",
+    "iupac_name": "Dibenzyl 3-[2-(dimethylamino)ethyl]-1H-indol-4-yl phosphate",
+    "category": "Tryptamine",
+    "index": 3882,
+    "formular": "C26H29N2O4P",
+    "molecular_weight": 464.493,
+    "inChl": "1S/C26H29N2O4P/c1-28(2)17-16-23-18-27-24-14-9-15-25(26(23)24)32-33(29,30-19-21-10-5-3-6-11-21)31-20-22-12-7-4-8-13-22/h3-15,18,27H,16-17,19-20H2,1-2H3",
+    "InChl_Key": "YILTVSXUBNGIET-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2cccc(OP(=O)(OCc3ccccc3)OCc3ccccc3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3882",
+    "validation": "m_weight unsave, calculated(464.5020000000002)"
+}

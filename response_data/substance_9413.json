@@ -1,0 +1,13 @@
+{
+    "names": "Clozapine",
+    "iupac_name": "8-Chloro-11-(4-methylpiperazin-1-yl)-5H-dibenzo[b,e][1,4]diazepine",
+    "category": "data not stored",
+    "index": 9413,
+    "formular": "C18H19ClN4",
+    "molecular_weight": 326.823,
+    "inChl": "1S/C18H19ClN4/c1-22-8-10-23(11-9-22)18-14-4-2-3-5-15(14)20-16-7-6-13(19)12-17(16)21-18/h2-7,12,20H,8-11H2,1H3",
+    "InChl_Key": "QZUDBNBUXVUHMW-UHFFFAOYSA-N",
+    "SMILES": "CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9413",
+    "validation": "m_weight unsave, calculated(326.8310000000001)"
+}

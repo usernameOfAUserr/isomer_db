@@ -1,0 +1,13 @@
+{
+    "names": "PRX-07034",
+    "iupac_name": "N-[1-(5-Chloro-2,3-dimethoxyphenyl)ethyl]-2-(methanesulfonyl)-5-(piperazin-1-yl)aniline",
+    "category": "data not stored",
+    "index": 3707,
+    "formular": "C21H28ClN3O4S",
+    "molecular_weight": 453.983,
+    "inChl": "1S/C21H28ClN3O4S/c1-14(17-11-15(22)12-19(28-2)21(17)29-3)24-18-13-16(25-9-7-23-8-10-25)5-6-20(18)30(4,26)27/h5-6,11-14,23-24H,7-10H2,1-4H3",
+    "InChl_Key": "BSLXKMCHXRCBIH-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(Cl)cc(C(C)Nc2cc(N3CCNCC3)ccc2S(C)(=O)=O)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3707",
+    "validation": "m_weight unsave, calculated(453.9920000000003)"
+}

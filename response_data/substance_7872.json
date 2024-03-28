@@ -1,0 +1,13 @@
+{
+    "names": "6-Fluoroindole ; 6-F-Indole",
+    "iupac_name": "6-Fluoro-1H-indole",
+    "category": "data not stored",
+    "index": 7872,
+    "formular": "C8H6FN",
+    "molecular_weight": 135.138,
+    "inChl": "1S/C8H6FN/c9-7-2-1-6-3-4-10-8(6)5-7/h1-5,10H",
+    "InChl_Key": "YYFFEPUCAKVRJX-UHFFFAOYSA-N",
+    "SMILES": "Fc1ccc2cc[nH]c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7872",
+    "validation": "m_weight unsave, calculated(135.141)"
+}

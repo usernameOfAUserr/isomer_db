@@ -1,0 +1,13 @@
+{
+    "names": "CL-218,872",
+    "iupac_name": "3-Methyl-6-[3-(trifluoromethyl)phenyl][1,2,4]triazolo[4,3-b]pyridazine",
+    "category": "data not stored",
+    "index": 3336,
+    "formular": "C13H9F3N4",
+    "molecular_weight": 278.233,
+    "inChl": "1S/C13H9F3N4/c1-8-17-18-12-6-5-11(19-20(8)12)9-3-2-4-10(7-9)13(14,15)16/h2-7H,1H3",
+    "InChl_Key": "GUOQUXNJZHGPQF-UHFFFAOYSA-N",
+    "SMILES": "Cc1nnc2ccc(-c3cccc(C(F)(F)F)c3)nn12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3336",
+    "validation": "m_weight unsave, calculated(278.237)"
+}

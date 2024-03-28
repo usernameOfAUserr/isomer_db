@@ -1,0 +1,13 @@
+{
+    "names": "4-MAlO-3,5-DMBAL ; 4-Methallyloxy-3,5-dimethoxybenzaldehyde",
+    "iupac_name": "3,5-Dimethoxy-4-[(2-methylprop-2-en-1-yl)oxy]benzaldehyde",
+    "category": "data not stored",
+    "index": 1932,
+    "formular": "C13H16O4",
+    "molecular_weight": 236.264,
+    "inChl": "1S/C13H16O4/c1-9(2)8-17-13-11(15-3)5-10(7-14)6-12(13)16-4/h5-7H,1,8H2,2-4H3",
+    "InChl_Key": "LKZXVMQGTRGZBC-UHFFFAOYSA-N",
+    "SMILES": "C=C(C)COc1c(OC)cc(C=O)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1932",
+    "validation": "m_weight unsave, calculated(236.26699999999994)"
+}

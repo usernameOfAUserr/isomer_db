@@ -1,0 +1,13 @@
+{
+    "names": "N-PrPEA ; N-Propylphenethylamine",
+    "iupac_name": "N-(2-Phenylethyl)propan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 6005,
+    "formular": "C11H17N",
+    "molecular_weight": 163.259,
+    "inChl": "1S/C11H17N/c1-2-9-12-10-8-11-6-4-3-5-7-11/h3-7,12H,2,8-10H2,1H3",
+    "InChl_Key": "IIIRPZWDICEMGU-UHFFFAOYSA-N",
+    "SMILES": "CCCNCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6005",
+    "validation": "m_weight unsave, calculated(163.264)"
+}

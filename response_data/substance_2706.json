@@ -1,0 +1,13 @@
+{
+    "names": "4-Fluoroephedrine ; 4-Fluoro-\u03b2-hydroxymethamphetamine",
+    "iupac_name": "(1R,2S)-1-(4-Fluorophenyl)-2-(methylamino)propan-1-ol",
+    "category": "data not stored",
+    "index": 2706,
+    "formular": "C10H14FNO",
+    "molecular_weight": 183.223,
+    "inChl": "1S/C10H14FNO/c1-7(12-2)10(13)8-3-5-9(11)6-4-8/h3-7,10,12-13H,1-2H3/t7-,10-/m0/s1",
+    "InChl_Key": "SPEQHEOLWDGWML-XVKPBYJWSA-N",
+    "SMILES": "CN[C@@H](C)[C@H](O)c1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2706",
+    "validation": "m_weight unsave, calculated(183.22599999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Ethiopropanamine",
+    "iupac_name": "N-Ethyl-1-(thiophen-2-yl)propan-2-amine",
+    "category": "data not stored",
+    "index": 11394,
+    "formular": "C9H15NS",
+    "molecular_weight": 169.287,
+    "inChl": "1S/C9H15NS/c1-3-10-8(2)7-9-5-4-6-11-9/h4-6,8,10H,3,7H2,1-2H3",
+    "InChl_Key": "COWHJKNRHICALL-UHFFFAOYSA-N",
+    "SMILES": "CCNC(C)Cc1cccs1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11394",
+    "validation": "m_weight unsave, calculated(169.29299999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3,5-Cl-4-BPEA ; 3,5-Dichloro-4-butoxyphenethylamine",
+    "iupac_name": "2-(4-Butoxy-3,5-dichlorophenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 7511,
+    "formular": "C12H17Cl2NO",
+    "molecular_weight": 262.175,
+    "inChl": "1S/C12H17Cl2NO/c1-2-3-6-16-12-10(13)7-9(4-5-15)8-11(12)14/h7-8H,2-6,15H2,1H3",
+    "InChl_Key": "XKLASDBBEZZNCJ-UHFFFAOYSA-N",
+    "SMILES": "CCCCOc1c(Cl)cc(CCN)cc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7511",
+    "validation": "m_weight unsave, calculated(262.17999999999995)"
+}

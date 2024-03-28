@@ -1,0 +1,13 @@
+{
+    "names": "25O-NB23F ; N-(2,3-Difluorobenzyl)-2,4,5-trimethoxyphenethylamine",
+    "iupac_name": "N-[(2,3-Difluorophenyl)methyl]-2-(2,4,5-trimethoxyphenyl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14265,
+    "formular": "C18H21F2NO3",
+    "molecular_weight": 337.361,
+    "inChl": "1S/C18H21F2NO3/c1-22-15-10-17(24-3)16(23-2)9-12(15)7-8-21-11-13-5-4-6-14(19)18(13)20/h4-6,9-10,21H,7-8,11H2,1-3H3",
+    "InChl_Key": "HSLGGKQLIPNKAZ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OC)c(OC)cc1CCNCc1cccc(F)c1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14265",
+    "validation": "m_weight unsave, calculated(337.36600000000004)"
+}

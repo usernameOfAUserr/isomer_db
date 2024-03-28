@@ -1,0 +1,13 @@
+{
+    "names": "2-{[3-(1-Benzothiophen-2-yl)phenyl]methanesulfinyl}acetamide",
+    "iupac_name": "9697 ; C17H15NO2S2 ; 329.437",
+    "category": "data not stored",
+    "index": 9697,
+    "formular": "C17H15NO2S2",
+    "molecular_weight": 329.437,
+    "inChl": "1S/C17H15NO2S2/c18-17(19)11-22(20)10-12-4-3-6-13(8-12)16-9-14-5-1-2-7-15(14)21-16/h1-9H,10-11H2,(H2,18,19)",
+    "InChl_Key": "NPGKLFJNFPTUKV-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)CS(=O)Cc1cccc(-c2cc3ccccc3s2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9697",
+    "validation": "m_weight unsave, calculated(329.446)"
+}

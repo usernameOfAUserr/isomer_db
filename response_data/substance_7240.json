@@ -1,0 +1,13 @@
+{
+    "names": "2C-DFAZET ; 4-(3,3-Difluoroazetidin-1-yl)-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-[4-(3,3-Difluoroazetidin-1-yl)-2,5-dimethoxyphenyl]ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 7240,
+    "formular": "C13H18F2N2O2",
+    "molecular_weight": 272.291,
+    "inChl": "1S/C13H18F2N2O2/c1-18-11-6-10(17-7-13(14,15)8-17)12(19-2)5-9(11)3-4-16/h5-6H,3-4,7-8,16H2,1-2H3",
+    "InChl_Key": "QCKATTVMMNTRKJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(N2CC(F)(F)C2)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7240",
+    "validation": "m_weight unsave, calculated(272.29499999999996)"
+}

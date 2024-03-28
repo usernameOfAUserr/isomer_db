@@ -1,0 +1,13 @@
+{
+    "names": "3-Br-3,4-DEBAL",
+    "iupac_name": "3-Bromo-4,5-diethoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 8315,
+    "formular": "C11H13BrO3",
+    "molecular_weight": 273.123,
+    "inChl": "1S/C11H13BrO3/c1-3-14-10-6-8(7-13)5-9(12)11(10)15-4-2/h5-7H,3-4H2,1-2H3",
+    "InChl_Key": "YPBFTPYBXACRPN-UHFFFAOYSA-N",
+    "SMILES": "CCOc1cc(C=O)cc(Br)c1OCC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8315",
+    "validation": "m_weight unsave, calculated(273.126)"
+}

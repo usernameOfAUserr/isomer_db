@@ -1,0 +1,13 @@
+{
+    "names": "5-DM-2C-H ; 5-Hydroxy-2-methoxyphenethylamine ; 5-HO-2-MPEA",
+    "iupac_name": "3-(2-Aminoethyl)-4-methoxyphenol",
+    "category": "Phenetylamine",
+    "index": 2493,
+    "formular": "C9H13NO2",
+    "molecular_weight": 167.205,
+    "inChl": "1S/C9H13NO2/c1-12-9-3-2-8(11)6-7(9)4-5-10/h2-3,6,11H,4-5,10H2,1H3",
+    "InChl_Key": "TUYQTLFSASJJSG-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(O)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2493",
+    "validation": "m_weight unsave, calculated(167.20799999999997)"
+}

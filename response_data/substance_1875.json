@@ -1,0 +1,13 @@
+{
+    "names": "p-Hydroxyphenylacetic acid",
+    "iupac_name": "(4-Hydroxyphenyl)acetic acid",
+    "category": "data not stored",
+    "index": 1875,
+    "formular": "C8H8O3",
+    "molecular_weight": 152.147,
+    "inChl": "1S/C8H8O3/c9-7-3-1-6(2-4-7)5-8(10)11/h1-4,9H,5H2,(H,10,11)",
+    "InChl_Key": "XQXPVVBIMDBYFF-UHFFFAOYSA-N",
+    "SMILES": "O=C(O)Cc1ccc(O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1875",
+    "validation": "m_weight unsave, calculated(152.149)"
+}

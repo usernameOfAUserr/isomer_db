@@ -1,0 +1,13 @@
+{
+    "names": "2-tert-Butyl-6-chloro-3-methyl-2,3-dihydroisoquinolin-4(1H)-one",
+    "iupac_name": "6730 ; C14H18ClNO ; 251.752",
+    "category": "data not stored",
+    "index": 6730,
+    "formular": "C14H18ClNO",
+    "molecular_weight": 251.752,
+    "inChl": "1S/C14H18ClNO/c1-9-13(17)12-7-11(15)6-5-10(12)8-16(9)14(2,3)4/h5-7,9H,8H2,1-4H3",
+    "InChl_Key": "FKPMMRLETAKLGP-UHFFFAOYSA-N",
+    "SMILES": "CC1C(=O)c2cc(Cl)ccc2CN1C(C)(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6730",
+    "validation": "m_weight unsave, calculated(251.75699999999995)"
+}

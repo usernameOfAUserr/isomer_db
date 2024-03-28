@@ -1,0 +1,13 @@
+{
+    "names": "2-I-4,5-MDA ; 2-Iodo-4,5-methylenedioxyamphetamine",
+    "iupac_name": "1-(6-Iodo-2H-1,3-benzodioxol-5-yl)propan-2-amine ; 1-(6-Iodo-1,3-benzodioxol-5-yl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7461,
+    "formular": "C10H12INO2",
+    "molecular_weight": 305.112,
+    "inChl": "1S/C10H12INO2/c1-6(12)2-7-3-9-10(4-8(7)11)14-5-13-9/h3-4,6H,2,5,12H2,1H3",
+    "InChl_Key": "OKDRKCZGKPEBOU-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1cc2c(cc1I)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7461",
+    "validation": "m_weight unsave, calculated(305.115)"
+}

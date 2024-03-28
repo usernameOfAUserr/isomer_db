@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-3-MeO-MA ; 4-Hydroxy-3-methoxymethamphetamine ; HMMA ; MHMA",
+    "iupac_name": "2-Methoxy-4-[2-(methylamino)propyl]phenol",
+    "category": "Shulgin_Index",
+    "index": 6564,
+    "formular": "C11H17NO2",
+    "molecular_weight": 195.258,
+    "inChl": "1S/C11H17NO2/c1-8(12-2)6-9-4-5-10(13)11(7-9)14-3/h4-5,7-8,12-13H,6H2,1-3H3",
+    "InChl_Key": "UVDWYWYWOMOEFX-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1ccc(O)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6564",
+    "validation": "m_weight unsave, calculated(195.26199999999997)"
+}

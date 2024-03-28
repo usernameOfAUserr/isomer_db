@@ -1,0 +1,13 @@
+{
+    "names": "3-(Piperidin-3-yl)-1H-indazole",
+    "iupac_name": "14846 ; C12H15N3 ; 201.268",
+    "category": "data not stored",
+    "index": 14846,
+    "formular": "C12H15N3",
+    "molecular_weight": 201.268,
+    "inChl": "1S/C12H15N3/c1-2-6-11-10(5-1)12(15-14-11)9-4-3-7-13-8-9/h1-2,5-6,9,13H,3-4,7-8H2,(H,14,15)",
+    "InChl_Key": "CODSMCOUHVHHQD-UHFFFAOYSA-N",
+    "SMILES": "c1ccc2c(C3CCCNC3)n[nH]c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14846",
+    "validation": "m_weight unsave, calculated(201.27300000000002)"
+}

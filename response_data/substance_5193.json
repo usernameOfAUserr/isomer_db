@@ -1,0 +1,13 @@
+{
+    "names": "Dehydrobufotenine",
+    "iupac_name": "5,5-Dimethyl-1,3,4,5-tetrahydropyrrolo[4,3,2-de]quinolin-5-ium-6-olate",
+    "category": "data not stored",
+    "index": 5193,
+    "formular": "C12H14N2O",
+    "molecular_weight": 202.252,
+    "inChl": "1S/C12H14N2O/c1-14(2)6-5-8-7-13-9-3-4-10(15)12(14)11(8)9/h3-4,7,13H,5-6H2,1-2H3",
+    "InChl_Key": "XRZDSPVDZKCARG-UHFFFAOYSA-N",
+    "SMILES": "C[N+]1(C)CCc2c[nH]c3ccc([O-])c1c23",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5193",
+    "validation": "m_weight unsave, calculated(202.257)"
+}

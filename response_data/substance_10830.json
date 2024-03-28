@@ -1,0 +1,13 @@
+{
+    "names": "2-Methyl-1,3-diphenylpropan-1-amine",
+    "iupac_name": "10830 ; C16H19N ; 225.329",
+    "category": "data not stored",
+    "index": 10830,
+    "formular": "C16H19N",
+    "molecular_weight": 225.329,
+    "inChl": "1S/C16H19N/c1-13(12-14-8-4-2-5-9-14)16(17)15-10-6-3-7-11-15/h2-11,13,16H,12,17H2,1H3",
+    "InChl_Key": "JKQITKNFQUFVAO-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)C(N)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10830",
+    "validation": "m_weight unsave, calculated(225.33499999999998)"
+}

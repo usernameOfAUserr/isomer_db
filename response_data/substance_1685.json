@@ -1,0 +1,13 @@
+{
+    "names": "N-Benzyl-butyrylfentanyl",
+    "iupac_name": "N-(1-Benzylpiperidin-4-yl)-N-phenylbutanamide",
+    "category": "Fentanyl",
+    "index": 1685,
+    "formular": "C22H28N2O",
+    "molecular_weight": 336.471,
+    "inChl": "1S/C22H28N2O/c1-2-9-22(25)24(20-12-7-4-8-13-20)21-14-16-23(17-15-21)18-19-10-5-3-6-11-19/h3-8,10-13,21H,2,9,14-18H2,1H3",
+    "InChl_Key": "YYXPMGNUMFXSSW-UHFFFAOYSA-N",
+    "SMILES": "CCCC(=O)N(c1ccccc1)C1CCN(Cc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1685",
+    "validation": "m_weight unsave, calculated(336.47900000000004)"
+}

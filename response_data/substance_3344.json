@@ -1,0 +1,13 @@
+{
+    "names": "RTI-112 ; 2\u03b2-Carbomethoxy-3\u03b2-(3-methyl-4-chlorophenyl)tropane ; RTI-4229-112",
+    "iupac_name": "Methyl (2S,3S)-3-(4-chloro-3-methylphenyl)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "category": "data not stored",
+    "index": 3344,
+    "formular": "C17H22ClNO2",
+    "molecular_weight": 307.815,
+    "inChl": "1S/C17H22ClNO2/c1-10-8-11(4-6-14(10)18)13-9-12-5-7-15(19(12)2)16(13)17(20)21-3/h4,6,8,12-13,15-16H,5,7,9H2,1-3H3/t12?,13-,15?,16+/m1/s1",
+    "InChl_Key": "VMITZEMDDZVHBZ-FYAIKVRKSA-N",
+    "SMILES": "COC(=O)[C@@H]1C2CCC(C[C@@H]1c1ccc(Cl)c(C)c1)N2C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3344",
+    "validation": "m_weight unsave, calculated(307.821)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "6-BBOX",
+    "iupac_name": "6-Bromo-7-methoxy-2,3,4,5-tetrahydro-1-benzoxepin-4-amine",
+    "category": "Phenetylamine",
+    "index": 10230,
+    "formular": "C11H14BrNO2",
+    "molecular_weight": 272.138,
+    "inChl": "1S/C11H14BrNO2/c1-14-10-3-2-9-8(11(10)12)6-7(13)4-5-15-9/h2-3,7H,4-6,13H2,1H3",
+    "InChl_Key": "IZMHNVBYFIKAGL-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c(c1Br)CC(N)CCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10230",
+    "validation": "m_weight unsave, calculated(272.142)"
+}

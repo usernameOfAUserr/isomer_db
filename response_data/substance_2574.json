@@ -1,0 +1,13 @@
+{
+    "names": "2,4-DMA-NBOMe ; N-(2-Methoxybenzyl)-2,4-dimethoxyamphetamine",
+    "iupac_name": "1-(2,4-Dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]propan-2-amine ; 1-(2,4-Dimethoxyphenyl)-N-(2-methoxybenzyl)propan-2-amine",
+    "category": "data not stored",
+    "index": 2574,
+    "formular": "C19H25NO3",
+    "molecular_weight": 315.407,
+    "inChl": "1S/C19H25NO3/c1-14(20-13-16-7-5-6-8-18(16)22-3)11-15-9-10-17(21-2)12-19(15)23-4/h5-10,12,14,20H,11,13H2,1-4H3",
+    "InChl_Key": "WDOGGJVWZKNJFX-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(CC(C)NCc2ccccc2OC)c(OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2574",
+    "validation": "m_weight unsave, calculated(315.41300000000007)"
+}

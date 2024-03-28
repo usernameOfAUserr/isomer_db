@@ -1,0 +1,13 @@
+{
+    "names": "N-Phenylbutyl-5-MeO-NMT ; N-Phenylbutyl-5-methoxy-N-methyltryptamine",
+    "iupac_name": "N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]-N-methyl-4-phenylbutan-1-amine",
+    "category": "Tryptamine",
+    "index": 5683,
+    "formular": "C22H28N2O",
+    "molecular_weight": 336.471,
+    "inChl": "1S/C22H28N2O/c1-24(14-7-6-10-18-8-4-3-5-9-18)15-13-19-17-23-22-12-11-20(25-2)16-21(19)22/h3-5,8-9,11-12,16-17,23H,6-7,10,13-15H2,1-2H3",
+    "InChl_Key": "LRWVRZYPLXOCLF-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN(C)CCCCc3ccccc3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5683",
+    "validation": "m_weight unsave, calculated(336.4789999999999)"
+}

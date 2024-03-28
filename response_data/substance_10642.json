@@ -1,0 +1,13 @@
+{
+    "names": "Phenelzine ; N-Aminophenethylamine ; N-NH2PEA",
+    "iupac_name": "(2-Phenylethyl)hydrazine",
+    "category": "Phenetylamine",
+    "index": 10642,
+    "formular": "C8H12N2",
+    "molecular_weight": 136.194,
+    "inChl": "1S/C8H12N2/c9-10-7-6-8-4-2-1-3-5-8/h1-5,10H,6-7,9H2",
+    "InChl_Key": "RMUCZJUITONUFY-UHFFFAOYSA-N",
+    "SMILES": "NNCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10642",
+    "validation": "m_weight unsave, calculated(136.19799999999998)"
+}

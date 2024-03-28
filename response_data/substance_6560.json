@@ -1,0 +1,13 @@
+{
+    "names": "GEA-\u03b2k ; \u03b2-Keto-4-hydroxy-3-methoxyphenethylamine",
+    "iupac_name": "2-Amino-1-(4-hydroxy-3-methoxyphenyl)ethan-1-one ; 2-Amino-1-(4-hydroxy-3-methoxyphenyl)ethanone",
+    "category": "Shulgin_Index",
+    "index": 6560,
+    "formular": "C9H11NO3",
+    "molecular_weight": 181.189,
+    "inChl": "1S/C9H11NO3/c1-13-9-4-6(8(12)5-10)2-3-7(9)11/h2-4,11H,5,10H2,1H3",
+    "InChl_Key": "FYNRSZWMMZSECJ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C(=O)CN)ccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6560",
+    "validation": "m_weight unsave, calculated(181.19099999999997)"
+}

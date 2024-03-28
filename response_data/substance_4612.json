@@ -1,0 +1,13 @@
+{
+    "names": "C4-\u03949-THC ; Butyl-THC ; Tetrahydrocannabinol-C4",
+    "iupac_name": "(6aR,10aR)-3-Butyl-6,6,9-trimethyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-ol",
+    "category": "cannabinodids",
+    "index": 4612,
+    "formular": "C20H28O2",
+    "molecular_weight": 300.435,
+    "inChl": "1S/C20H28O2/c1-5-6-7-14-11-17(21)19-15-10-13(2)8-9-16(15)20(3,4)22-18(19)12-14/h10-12,15-16,21H,5-9H2,1-4H3/t15-,16-/m1/s1",
+    "InChl_Key": "QHCQSGYWGBDSIY-HZPDHXFCSA-N",
+    "SMILES": "CCCCc1cc(O)c2c(c1)OC(C)(C)[C@@H]1CCC(C)=C[C@@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4612",
+    "validation": "m_weight unsave, calculated(300.44200000000006)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-homo-MDMA ; N-Methyl-3,4-methylenedioxyphenylbutylamine",
+    "iupac_name": "3-(2H-1,3-Benzodioxol-5-yl)-N,2-dimethylpropan-1-amine",
+    "category": "data not stored",
+    "index": 9301,
+    "formular": "C12H17NO2",
+    "molecular_weight": 207.269,
+    "inChl": "1S/C12H17NO2/c1-9(7-13-2)5-10-3-4-11-12(6-10)15-8-14-11/h3-4,6,9,13H,5,7-8H2,1-2H3",
+    "InChl_Key": "OUDAACSONIJLOT-UHFFFAOYSA-N",
+    "SMILES": "CNCC(C)Cc1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9301",
+    "validation": "m_weight unsave, calculated(207.27299999999997)"
+}

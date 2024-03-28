@@ -1,0 +1,13 @@
+{
+    "names": "1-Spiro-(3-methylcyclohexyl)-TH\u03b2C",
+    "iupac_name": "3-Methyl-2\u2032,3\u2032,4\u2032,9\u2032-tetrahydrospiro[cyclohexane-1,1\u2032-pyrido[3,4-b]indole] ; 3\u2032-Methyl-2,3,4,9-tetrahydrospiro[\u03b2-carboline-1,1\u2032-cyclohexane]",
+    "category": "data not stored",
+    "index": 5793,
+    "formular": "C17H22N2",
+    "molecular_weight": 254.37,
+    "inChl": "1S/C17H22N2/c1-12-5-4-9-17(11-12)16-14(8-10-18-17)13-6-2-3-7-15(13)19-16/h2-3,6-7,12,18-19H,4-5,8-11H2,1H3",
+    "InChl_Key": "LPEYZMKDCFQJKR-UHFFFAOYSA-N",
+    "SMILES": "CC1CCCC2(C1)NCCc1c2[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5793",
+    "validation": "m_weight unsave, calculated(254.377)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "6-Fluoro-5-HO-tryptophan",
+    "iupac_name": "6-Fluoro-5-hydroxytryptophan ; 2-Amino-3-(6-fluoro-5-hydroxy-1H-indol-3-yl)propanoic acid",
+    "category": "Tryptamine",
+    "index": 7898,
+    "formular": "C11H11FN2O3",
+    "molecular_weight": 238.215,
+    "inChl": "1S/C11H11FN2O3/c12-7-3-9-6(2-10(7)15)5(4-14-9)1-8(13)11(16)17/h2-4,8,14-15H,1,13H2,(H,16,17)",
+    "InChl_Key": "ZJIDVFQTOHBCAG-UHFFFAOYSA-N",
+    "SMILES": "NC(Cc1c[nH]c2cc(F)c(O)cc12)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7898",
+    "validation": "m_weight unsave, calculated(238.218)"
+}

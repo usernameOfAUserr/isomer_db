@@ -1,0 +1,13 @@
+{
+    "names": "Zaleplon",
+    "iupac_name": "N-[3-(3-Cyanopyrazolo[1,5-a]pyrimidin-7-yl)phenyl]-N-ethylacetamide",
+    "category": "data not stored",
+    "index": 9530,
+    "formular": "C17H15N5O",
+    "molecular_weight": 305.334,
+    "inChl": "1S/C17H15N5O/c1-3-21(12(2)23)15-6-4-5-13(9-15)16-7-8-19-17-14(10-18)11-20-22(16)17/h4-9,11H,3H2,1-2H3",
+    "InChl_Key": "HUNXMJYCHXQEGX-UHFFFAOYSA-N",
+    "SMILES": "CCN(C(C)=O)c1cccc(-c2ccnc3c(C#N)cnn23)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9530",
+    "validation": "m_weight unsave, calculated(305.34100000000007)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-tBu-3-HO-2,6-DMePEA ; 4-tert-Butyl-3-hydroxy-2,6-dimethylphenethylamine",
+    "iupac_name": "3-(2-Aminoethyl)-6-tert-butyl-2,4-dimethylphenol",
+    "category": "Phenetylamine",
+    "index": 10425,
+    "formular": "C14H23NO",
+    "molecular_weight": 221.339,
+    "inChl": "1S/C14H23NO/c1-9-8-12(14(3,4)5)13(16)10(2)11(9)6-7-15/h8,16H,6-7,15H2,1-5H3",
+    "InChl_Key": "HVQTXWREBLUDAI-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(C(C)(C)C)c(O)c(C)c1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10425",
+    "validation": "m_weight unsave, calculated(221.34399999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Bretazenil",
+    "iupac_name": "tert-Butyl (13aS)-8-bromo-9-oxo-11,12,13,13a-tetrahydro-9H-imidazo[1,5-a]pyrrolo[2,1-c][1,4]benzodiazepine-1-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 3059,
+    "formular": "C19H20BrN3O3",
+    "molecular_weight": 418.284,
+    "inChl": "1S/C19H20BrN3O3/c1-19(2,3)26-18(25)15-16-13-8-5-9-22(13)17(24)14-11(20)6-4-7-12(14)23(16)10-21-15/h4,6-7,10,13H,5,8-9H2,1-3H3/t13-/m0/s1",
+    "InChl_Key": "LWUDDYHYYNNIQI-ZDUSSCGKSA-N",
+    "SMILES": "CC(C)(C)OC(=O)c1ncn2c1[C@@H]1CCCN1C(=O)c1c(Br)cccc1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3059",
+    "validation": "m_weight unsave, calculated(418.2910000000001)"
+}

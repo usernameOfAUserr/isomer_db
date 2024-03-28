@@ -1,0 +1,13 @@
+{
+    "names": "M(3OP)M ; 4-(3-Hydroxypropoxy)-2,5-dimethoxyamphetamine",
+    "iupac_name": "3-[4-(2-Aminopropyl)-2,5-dimethoxyphenoxy]propan-1-ol",
+    "category": "Shulgin_Index",
+    "index": 7354,
+    "formular": "C14H23NO4",
+    "molecular_weight": 269.337,
+    "inChl": "1S/C14H23NO4/c1-10(15)7-11-8-13(18-3)14(9-12(11)17-2)19-6-4-5-16/h8-10,16H,4-7,15H2,1-3H3",
+    "InChl_Key": "UJYMLOWSDODCLN-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OCCCO)c(OC)cc1CC(C)N",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7354",
+    "validation": "m_weight unsave, calculated(269.34099999999995)"
+}

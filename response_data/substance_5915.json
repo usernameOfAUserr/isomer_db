@@ -1,0 +1,13 @@
+{
+    "names": "5-Bromo-N-methyl-IPYR",
+    "iupac_name": "5-Bromo-3-(1-methylpyrrolidin-3-yl)-1H-indole",
+    "category": "data not stored",
+    "index": 5915,
+    "formular": "C13H15BrN2",
+    "molecular_weight": 279.176,
+    "inChl": "1S/C13H15BrN2/c1-16-5-4-9(8-16)12-7-15-13-3-2-10(14)6-11(12)13/h2-3,6-7,9,15H,4-5,8H2,1H3",
+    "InChl_Key": "ZZQOVQIQWNYKBJ-UHFFFAOYSA-N",
+    "SMILES": "CN1CCC(c2c[nH]c3ccc(Br)cc23)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5915",
+    "validation": "m_weight unsave, calculated(279.181)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-Hexan-2-yllysergamide",
+    "iupac_name": "N-(Hexan-2-yl)-6-methyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (6aR,9R)-N-(Hexan-2-yl)-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide ; (8\u03b2)-N-(Hexan-2-yl)-6-methyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 5321,
+    "formular": "C22H29N3O",
+    "molecular_weight": 351.485,
+    "inChl": "1S/C22H29N3O/c1-4-5-7-14(2)24-22(26)16-10-18-17-8-6-9-19-21(17)15(12-23-19)11-20(18)25(3)13-16/h6,8-10,12,14,16,20,23H,4-5,7,11,13H2,1-3H3,(H,24,26)/t14?,16-,20-/m1/s1",
+    "InChl_Key": "XPLDMBFWNMAYJN-ANGYQSCVSA-N",
+    "SMILES": "CCCCC(C)NC(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5321",
+    "validation": "m_weight unsave, calculated(351.4940000000001)"
+}

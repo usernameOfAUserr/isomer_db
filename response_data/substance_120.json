@@ -1,0 +1,13 @@
+{
+    "names": "MEDA ; 3,4-Ethylenedioxy-5-methoxyamphetamine ; 3-Methoxy-4,5-ethylenedioxyamphetamine",
+    "iupac_name": "1-(8-Methoxy-2,3-dihydro-1,4-benzodioxin-6-yl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 120,
+    "formular": "C12H17NO3",
+    "molecular_weight": 223.268,
+    "inChl": "1S/C12H17NO3/c1-8(13)5-9-6-10(14-2)12-11(7-9)15-3-4-16-12/h6-8H,3-5,13H2,1-2H3",
+    "InChl_Key": "HEYPARQBPGSFKW-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CC(C)N)cc2c1OCCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=120",
+    "validation": "m_weight unsave, calculated(223.27199999999996)"
+}

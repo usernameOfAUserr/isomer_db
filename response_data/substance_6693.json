@@ -1,0 +1,13 @@
+{
+    "names": "Isobutyllysergamide ; Lysergic acid isobutyl amide",
+    "iupac_name": "6-Methyl-N-(2-methylpropyl)-9,10-didehydroergoline-8\u03b2-carboxamide ; (8\u03b2)-6-Methyl-N-(2-methylpropyl)-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 6693,
+    "formular": "C20H25N3O",
+    "molecular_weight": 323.432,
+    "inChl": "1S/C20H25N3O/c1-12(2)9-22-20(24)14-7-16-15-5-4-6-17-19(15)13(10-21-17)8-18(16)23(3)11-14/h4-7,10,12,14,18,21H,8-9,11H2,1-3H3,(H,22,24)/t14-,18-/m1/s1",
+    "InChl_Key": "WXDORYFFOXRMCT-RDTXWAMCSA-N",
+    "SMILES": "CC(C)CNC(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6693",
+    "validation": "m_weight unsave, calculated(323.44000000000005)"
+}

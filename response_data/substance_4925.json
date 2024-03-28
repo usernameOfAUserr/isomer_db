@@ -1,0 +1,13 @@
+{
+    "names": "WO 2009/106982 #33",
+    "iupac_name": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-1-benzyl-6-bromo-1H-indazole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 4925,
+    "formular": "C21H23BrN4O2",
+    "molecular_weight": 443.337,
+    "inChl": "1S/C21H23BrN4O2/c1-21(2,3)18(19(23)27)24-20(28)17-15-10-9-14(22)11-16(15)26(25-17)12-13-7-5-4-6-8-13/h4-11,18H,12H2,1-3H3,(H2,23,27)(H,24,28)/t18-/m1/s1",
+    "InChl_Key": "ZNOFLUGKXXVJHK-GOSISDBHSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(Cc2ccccc2)c2cc(Br)ccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4925",
+    "validation": "m_weight unsave, calculated(443.3450000000001)"
+}

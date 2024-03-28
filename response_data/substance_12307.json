@@ -1,0 +1,13 @@
+{
+    "names": "4-EBAL",
+    "iupac_name": "4-Ethoxybenzaldehyde",
+    "category": "data not stored",
+    "index": 12307,
+    "formular": "C9H10O2",
+    "molecular_weight": 150.175,
+    "inChl": "1S/C9H10O2/c1-2-11-9-5-3-8(7-10)4-6-9/h3-7H,2H2,1H3",
+    "InChl_Key": "JRHHJNMASOIRDS-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(C=O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12307",
+    "validation": "m_weight unsave, calculated(150.17699999999996)"
+}

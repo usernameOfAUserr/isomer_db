@@ -1,0 +1,13 @@
+{
+    "names": "Carburazepam",
+    "iupac_name": "7-Chloro-1-methyl-2-oxo-5-phenyl-1,2,3,5-tetrahydro-4H-1,4-benzodiazepine-4-carboxamide",
+    "category": "Aryldiazepine",
+    "index": 3424,
+    "formular": "C17H16ClN3O2",
+    "molecular_weight": 329.781,
+    "inChl": "1S/C17H16ClN3O2/c1-20-14-8-7-12(18)9-13(14)16(11-5-3-2-4-6-11)21(17(19)23)10-15(20)22/h2-9,16H,10H2,1H3,(H2,19,23)",
+    "InChl_Key": "HFFJORVBQWPILU-UHFFFAOYSA-N",
+    "SMILES": "CN1C(=O)CN(C(N)=O)C(c2ccccc2)c2cc(Cl)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3424",
+    "validation": "m_weight unsave, calculated(329.7870000000001)"
+}

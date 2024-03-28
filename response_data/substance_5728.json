@@ -1,0 +1,13 @@
+{
+    "names": "5-Nonyloxy-T ; 5-Nonyloxytryptamine",
+    "iupac_name": "2-[5-(Nonyloxy)-1H-indol-3-yl]ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5728,
+    "formular": "C19H30N2O",
+    "molecular_weight": 302.454,
+    "inChl": "1S/C19H30N2O/c1-2-3-4-5-6-7-8-13-22-17-9-10-19-18(14-17)16(11-12-20)15-21-19/h9-10,14-15,21H,2-8,11-13,20H2,1H3",
+    "InChl_Key": "YHSMSRREJYOGQJ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCCCCOc1ccc2[nH]cc(CCN)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5728",
+    "validation": "m_weight unsave, calculated(302.46200000000005)"
+}

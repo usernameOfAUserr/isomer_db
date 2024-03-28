@@ -1,0 +1,13 @@
+{
+    "names": "3-[2-(Dimethylamino)ethyl]-1H-indol-4-yl diphenyl phosphate",
+    "iupac_name": "14788 ; C24H25N2O4P ; 436.44",
+    "category": "Tryptamine",
+    "index": 14788,
+    "formular": "C24H25N2O4P",
+    "molecular_weight": 436.44,
+    "inChl": "1S/C24H25N2O4P/c1-26(2)17-16-19-18-25-22-14-9-15-23(24(19)22)30-31(27,28-20-10-5-3-6-11-20)29-21-12-7-4-8-13-21/h3-15,18,25H,16-17H2,1-2H3",
+    "InChl_Key": "WQBYKGAIJGEKSS-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2cccc(OP(=O)(Oc3ccccc3)Oc3ccccc3)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14788",
+    "validation": "m_weight unsave, calculated(436.4480000000001)"
+}

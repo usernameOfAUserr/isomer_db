@@ -1,0 +1,13 @@
+{
+    "names": "5-BzO-2-Me-TH\u03b2C",
+    "iupac_name": "5-(Benzyloxy)-2-methyl-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indole ; 5-(Benzyloxy)-2-methyl-2,3,4,9-tetrahydro-1H-\u03b2-carboline",
+    "category": "data not stored",
+    "index": 5255,
+    "formular": "C19H20N2O",
+    "molecular_weight": 292.375,
+    "inChl": "1S/C19H20N2O/c1-21-11-10-15-17(12-21)20-16-8-5-9-18(19(15)16)22-13-14-6-3-2-4-7-14/h2-9,20H,10-13H2,1H3",
+    "InChl_Key": "PQXKOCKZXAIQLM-UHFFFAOYSA-N",
+    "SMILES": "CN1CCc2c([nH]c3cccc(OCc4ccccc4)c23)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5255",
+    "validation": "m_weight unsave, calculated(292.382)"
+}

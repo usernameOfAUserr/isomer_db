@@ -1,0 +1,13 @@
+{
+    "names": "Pargyline",
+    "iupac_name": "N-Benzyl-N-methylprop-2-yn-1-amine",
+    "category": "Phenetylamine",
+    "index": 1285,
+    "formular": "C11H13N",
+    "molecular_weight": 159.228,
+    "inChl": "1S/C11H13N/c1-3-9-12(2)10-11-7-5-4-6-8-11/h1,4-8H,9-10H2,2H3",
+    "InChl_Key": "DPWPWRLQFGFJFI-UHFFFAOYSA-N",
+    "SMILES": "C#CCN(C)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1285",
+    "validation": "m_weight unsave, calculated(159.23199999999994)"
+}

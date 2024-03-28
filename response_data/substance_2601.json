@@ -1,0 +1,13 @@
+{
+    "names": "PCEPA",
+    "iupac_name": "N-(3-Ethoxypropyl)-1-phenylcyclohexan-1-amine",
+    "category": "Arylcycloalkylamine",
+    "index": 2601,
+    "formular": "C17H27NO",
+    "molecular_weight": 261.402,
+    "inChl": "1S/C17H27NO/c1-2-19-15-9-14-18-17(12-7-4-8-13-17)16-10-5-3-6-11-16/h3,5-6,10-11,18H,2,4,7-9,12-15H2,1H3",
+    "InChl_Key": "MUDHHWLZEUJOQU-UHFFFAOYSA-N",
+    "SMILES": "CCOCCCNC1(c2ccccc2)CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2601",
+    "validation": "m_weight unsave, calculated(261.40899999999993)"
+}

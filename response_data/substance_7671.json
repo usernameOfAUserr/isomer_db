@@ -1,0 +1,13 @@
+{
+    "names": "Normorphine",
+    "iupac_name": "7,8-Didehydro-4,5\u03b1-epoxymorphinan-3,6\u03b1-diol ; (4R,4aR,7S,7aR,12bS)-2,3,4,4a,7,7a-Hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinoline-7,9-diol ; (5\u03b1,6\u03b1)-7,8-Didehydro-4,5-epoxymorphinan-3,6-diol",
+    "category": "data not stored",
+    "index": 7671,
+    "formular": "C16H17NO3",
+    "molecular_weight": 271.311,
+    "inChl": "1S/C16H17NO3/c18-11-3-1-8-7-10-9-2-4-12(19)15-16(9,5-6-17-10)13(8)14(11)20-15/h1-4,9-10,12,15,17-19H,5-7H2/t9-,10+,12-,15-,16-/m0/s1",
+    "InChl_Key": "ONBWJWYUHXVEJS-ZTYRTETDSA-N",
+    "SMILES": "Oc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)NCC[C@@]341",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7671",
+    "validation": "m_weight unsave, calculated(271.316)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Phenylnormetazocine",
+    "iupac_name": "(2R,6R,11R)-6,11-Dimethyl-3-phenyl-1,2,3,4,5,6-hexahydro-2,6-methano-3-benzazocin-8-ol",
+    "category": "data not stored",
+    "index": 14513,
+    "formular": "C20H23NO",
+    "molecular_weight": 293.403,
+    "inChl": "1S/C20H23NO/c1-14-19-12-15-8-9-17(22)13-18(15)20(14,2)10-11-21(19)16-6-4-3-5-7-16/h3-9,13-14,19,22H,10-12H2,1-2H3/t14-,19+,20+/m0/s1",
+    "InChl_Key": "RILPMGKKHVCIOG-VHKYSDTDSA-N",
+    "SMILES": "C[C@H]1[C@H]2Cc3ccc(O)cc3[C@]1(C)CCN2c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14513",
+    "validation": "m_weight unsave, calculated(293.40999999999997)"
+}

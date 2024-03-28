@@ -1,0 +1,13 @@
+{
+    "names": "4F-\u03b1-PEP ; 4\u2032-Fluoro-\u03b1-(pyrrolidin-1-yl)heptanophenone ; 4F-\u03b1-PHPP ; 4F-PV8 ; 4-Fluoro-PV8",
+    "iupac_name": "1-(4-Fluorophenyl)-2-(pyrrolidin-1-yl)heptan-1-one",
+    "category": "data not stored",
+    "index": 1096,
+    "formular": "C17H24FNO",
+    "molecular_weight": 277.377,
+    "inChl": "1S/C17H24FNO/c1-2-3-4-7-16(19-12-5-6-13-19)17(20)14-8-10-15(18)11-9-14/h8-11,16H,2-7,12-13H2,1H3",
+    "InChl_Key": "YAFFHHPPOAYLLA-UHFFFAOYSA-N",
+    "SMILES": "CCCCCC(C(=O)c1ccc(F)cc1)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1096",
+    "validation": "m_weight unsave, calculated(277.38300000000004)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "[1-(2-Methoxyethyl)-1H-pyrrolo[2,3-c]pyridin-3-yl](naphthalen-1-yl)methanone",
+    "iupac_name": "14703 ; C21H18N2O2 ; 330.38",
+    "category": "cannabinodids",
+    "index": 14703,
+    "formular": "C21H18N2O2",
+    "molecular_weight": 330.38,
+    "inChl": "1S/C21H18N2O2/c1-25-12-11-23-14-19(17-9-10-22-13-20(17)23)21(24)18-8-4-6-15-5-2-3-7-16(15)18/h2-10,13-14H,11-12H2,1H3",
+    "InChl_Key": "UPQGJGUWDNSFCX-UHFFFAOYSA-N",
+    "SMILES": "COCCn1cc(C(=O)c2cccc3ccccc23)c2ccncc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14703",
+    "validation": "m_weight unsave, calculated(330.38700000000006)"
+}

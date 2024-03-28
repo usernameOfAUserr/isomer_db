@@ -1,0 +1,13 @@
+{
+    "names": "2-Phenyl-AMT ; 2-Phenyl-\u03b1-methyltryptamine",
+    "iupac_name": "1-(2-Phenyl-1H-indol-3-yl)propan-2-amine",
+    "category": "Tryptamine",
+    "index": 9391,
+    "formular": "C17H18N2",
+    "molecular_weight": 250.338,
+    "inChl": "1S/C17H18N2/c1-12(18)11-15-14-9-5-6-10-16(14)19-17(15)13-7-3-2-4-8-13/h2-10,12,19H,11,18H2,1H3",
+    "InChl_Key": "GOPCDZFAFBMJGR-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c(-c2ccccc2)[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9391",
+    "validation": "m_weight unsave, calculated(250.34500000000003)"
+}

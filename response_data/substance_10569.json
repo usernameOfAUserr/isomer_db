@@ -1,0 +1,13 @@
+{
+    "names": "N-Ac-4-Cl-PEA ; N-Acetyl-4-chlorophenethylamine",
+    "iupac_name": "N-[2-(4-Chlorophenyl)ethyl]acetamide",
+    "category": "Phenetylamine",
+    "index": 10569,
+    "formular": "C10H12ClNO",
+    "molecular_weight": 197.661,
+    "inChl": "1S/C10H12ClNO/c1-8(13)12-7-6-9-2-4-10(11)5-3-9/h2-5H,6-7H2,1H3,(H,12,13)",
+    "InChl_Key": "WUALHNRHDHIVKF-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)NCCc1ccc(Cl)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10569",
+    "validation": "m_weight unsave, calculated(197.665)"
+}

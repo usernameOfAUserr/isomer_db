@@ -1,0 +1,13 @@
+{
+    "names": "Ethysticin",
+    "iupac_name": "6-[(E)-2-(2H-1,3-Benzodioxol-5-yl)ethenyl]-4-ethoxy-5,6-dihydro-2H-pyran-2-one",
+    "category": "data not stored",
+    "index": 9899,
+    "formular": "C16H16O5",
+    "molecular_weight": 288.295,
+    "inChl": "1S/C16H16O5/c1-2-18-13-8-12(21-16(17)9-13)5-3-11-4-6-14-15(7-11)20-10-19-14/h3-7,9,12H,2,8,10H2,1H3/b5-3+",
+    "InChl_Key": "XVOJTPBIUWPFCA-HWKANZROSA-N",
+    "SMILES": "CCOC1=CC(=O)OC(/C=C/c2ccc3c(c2)OCO3)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9899",
+    "validation": "m_weight unsave, calculated(288.29900000000004)"
+}

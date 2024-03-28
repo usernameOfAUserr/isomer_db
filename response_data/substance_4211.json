@@ -1,0 +1,13 @@
+{
+    "names": "WO 2004/108688 #8",
+    "iupac_name": "[1-(Cyclohexylmethyl)-2-(2-methylbutan-2-yl)-1H-benzimidazol-5-yl][(2R,6S)-2,6-dimethylmorpholin-4-yl]methanone",
+    "category": "cannabinodids",
+    "index": 4211,
+    "formular": "C26H39N3O2",
+    "molecular_weight": 425.607,
+    "inChl": "1S/C26H39N3O2/c1-6-26(4,5)25-27-22-14-21(24(30)28-15-18(2)31-19(3)16-28)12-13-23(22)29(25)17-20-10-8-7-9-11-20/h12-14,18-20H,6-11,15-17H2,1-5H3/t18-,19+",
+    "InChl_Key": "RXWBYBXDVXARNQ-KDURUIRLSA-N",
+    "SMILES": "CCC(C)(C)c1nc2cc(C(=O)N3C[C@@H](C)O[C@@H](C)C3)ccc2n1CC1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4211",
+    "validation": "m_weight unsave, calculated(425.6170000000002)"
+}

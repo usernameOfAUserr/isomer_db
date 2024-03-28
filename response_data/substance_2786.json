@@ -1,0 +1,13 @@
+{
+    "names": "N-[2-(1H-Indol-4-yl)ethyl]-N-(2-phenylethyl)propan-1-amine",
+    "iupac_name": "2786 ; C21H26N2 ; 306.445",
+    "category": "data not stored",
+    "index": 2786,
+    "formular": "C21H26N2",
+    "molecular_weight": 306.445,
+    "inChl": "1S/C21H26N2/c1-2-15-23(16-12-18-7-4-3-5-8-18)17-13-19-9-6-10-21-20(19)11-14-22-21/h3-11,14,22H,2,12-13,15-17H2,1H3",
+    "InChl_Key": "USHLGVVXYKMFAA-UHFFFAOYSA-N",
+    "SMILES": "CCCN(CCc1ccccc1)CCc1cccc2[nH]ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2786",
+    "validation": "m_weight unsave, calculated(306.453)"
+}

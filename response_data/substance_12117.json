@@ -1,0 +1,13 @@
+{
+    "names": "1-(1,3-Oxazol-4-yl)methanamine",
+    "iupac_name": "12117 ; C4H6N2O ; 98.103",
+    "category": "Phenetylamine",
+    "index": 12117,
+    "formular": "C4H6N2O",
+    "molecular_weight": 98.103,
+    "inChl": "1S/C4H6N2O/c5-1-4-2-7-3-6-4/h2-3H,1,5H2",
+    "InChl_Key": "ULZXEYFKBUPRQM-UHFFFAOYSA-N",
+    "SMILES": "NCc1cocn1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12117",
+    "validation": "m_weight unsave, calculated(98.10499999999999)"
+}

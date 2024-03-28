@@ -1,0 +1,13 @@
+{
+    "names": "3-MePEA ; 3-Methylphenethylamine",
+    "iupac_name": "2-(3-Methylphenyl)ethan-1-amine",
+    "category": "Shulgin_Index",
+    "index": 6137,
+    "formular": "C9H13N",
+    "molecular_weight": 135.206,
+    "inChl": "1S/C9H13N/c1-8-3-2-4-9(7-8)5-6-10/h2-4,7H,5-6,10H2,1H3",
+    "InChl_Key": "GUERDLPJJJMIEU-UHFFFAOYSA-N",
+    "SMILES": "Cc1cccc(CCN)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6137",
+    "validation": "m_weight unsave, calculated(135.20999999999995)"
+}

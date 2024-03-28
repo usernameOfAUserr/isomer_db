@@ -1,0 +1,13 @@
+{
+    "names": "Arizonine ; 8-Hydroxy-7-methoxy-1-methyl-THIQ",
+    "iupac_name": "7-Methoxy-1-methyl-1,2,3,4-tetrahydroisoquinolin-8-ol",
+    "category": "data not stored",
+    "index": 14331,
+    "formular": "C11H15NO2",
+    "molecular_weight": 193.242,
+    "inChl": "1S/C11H15NO2/c1-7-10-8(5-6-12-7)3-4-9(14-2)11(10)13/h3-4,7,12-13H,5-6H2,1-2H3",
+    "InChl_Key": "ABQXHDZNTSTAKX-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c(c1O)C(C)NCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14331",
+    "validation": "m_weight unsave, calculated(193.24599999999998)"
+}

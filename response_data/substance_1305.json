@@ -1,0 +1,13 @@
+{
+    "names": "2-(Azepan-1-yl)-1-(5-chlorothiophen-2-yl)pentan-1-one",
+    "iupac_name": "1305 ; C15H22ClNOS ; 299.859",
+    "category": "data not stored",
+    "index": 1305,
+    "formular": "C15H22ClNOS",
+    "molecular_weight": 299.859,
+    "inChl": "1S/C15H22ClNOS/c1-2-7-12(17-10-5-3-4-6-11-17)15(18)13-8-9-14(16)19-13/h8-9,12H,2-7,10-11H2,1H3",
+    "InChl_Key": "BATMCZQTJBSQBI-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1ccc(Cl)s1)N1CCCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1305",
+    "validation": "m_weight unsave, calculated(299.8670000000001)"
+}

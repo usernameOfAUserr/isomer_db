@@ -1,0 +1,13 @@
+{
+    "names": "Despropionyl-4-methoxyfentanyl",
+    "iupac_name": "N-(4-Methoxyphenyl)-1-(2-phenylethyl)piperidin-4-amine",
+    "category": "Fentanyl",
+    "index": 6998,
+    "formular": "C20H26N2O",
+    "molecular_weight": 310.433,
+    "inChl": "1S/C20H26N2O/c1-23-20-9-7-18(8-10-20)21-19-12-15-22(16-13-19)14-11-17-5-3-2-4-6-17/h2-10,19,21H,11-16H2,1H3",
+    "InChl_Key": "HVZBFQZTWWJOHF-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(NC2CCN(CCc3ccccc3)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6998",
+    "validation": "m_weight unsave, calculated(310.4409999999999)"
+}

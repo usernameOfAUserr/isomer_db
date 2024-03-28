@@ -1,0 +1,13 @@
+{
+    "names": "Ethylnormeperidine",
+    "iupac_name": "Ethyl 1-ethyl-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 14514,
+    "formular": "C16H23NO2",
+    "molecular_weight": 261.359,
+    "inChl": "1S/C16H23NO2/c1-3-17-12-10-16(11-13-17,15(18)19-4-2)14-8-6-5-7-9-14/h5-9H,3-4,10-13H2,1-2H3",
+    "InChl_Key": "LBILWUCGKPKJPO-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccccc2)CCN(CC)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14514",
+    "validation": "m_weight unsave, calculated(261.36499999999995)"
+}

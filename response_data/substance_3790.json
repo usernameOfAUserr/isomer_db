@@ -1,0 +1,13 @@
+{
+    "names": "N-(2-Chlorophenyl)-3-oxo-1,2,3,5-tetrahydropyrido[1,2-a]benzimidazole-4-carboxamide",
+    "iupac_name": "3790 ; C18H14ClN3O2 ; 339.776",
+    "category": "data not stored",
+    "index": 3790,
+    "formular": "C18H14ClN3O2",
+    "molecular_weight": 339.776,
+    "inChl": "1S/C18H14ClN3O2/c19-11-5-1-2-6-12(11)21-18(24)16-15(23)9-10-22-14-8-4-3-7-13(14)20-17(16)22/h1-8,20H,9-10H2,(H,21,24)",
+    "InChl_Key": "VEOZFOPRIYEDHN-UHFFFAOYSA-N",
+    "SMILES": "O=C1CCN2C(=C1C(=O)Nc1ccccc1Cl)Nc1ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3790",
+    "validation": "m_weight unsave, calculated(339.78200000000004)"
+}

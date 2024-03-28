@@ -1,0 +1,13 @@
+{
+    "names": "Dimethedrone ; 4-Methoxy-N,N-dimethylcathinone",
+    "iupac_name": "2-(Dimethylamino)-1-(4-methoxyphenyl)propan-1-one",
+    "category": "data not stored",
+    "index": 8520,
+    "formular": "C12H17NO2",
+    "molecular_weight": 207.269,
+    "inChl": "1S/C12H17NO2/c1-9(13(2)3)12(14)10-5-7-11(15-4)8-6-10/h5-9H,1-4H3",
+    "InChl_Key": "LODCRGDBFNUJIZ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C(=O)C(C)N(C)C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8520",
+    "validation": "m_weight unsave, calculated(207.27299999999997)"
+}

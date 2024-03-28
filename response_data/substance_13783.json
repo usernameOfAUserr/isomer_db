@@ -1,0 +1,13 @@
+{
+    "names": "3-(1,2,5,6-Tetrahydropyridin-3-yl)-1H-pyrrolo[2,3-b]pyridine",
+    "iupac_name": "13783 ; C12H13N3 ; 199.252",
+    "category": "data not stored",
+    "index": 13783,
+    "formular": "C12H13N3",
+    "molecular_weight": 199.252,
+    "inChl": "1S/C12H13N3/c1-3-9(7-13-5-1)11-8-15-12-10(11)4-2-6-14-12/h2-4,6,8,13H,1,5,7H2,(H,14,15)",
+    "InChl_Key": "DHKUNFIIBCFCLQ-UHFFFAOYSA-N",
+    "SMILES": "C1=C(c2c[nH]c3ncccc23)CNCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13783",
+    "validation": "m_weight unsave, calculated(199.257)"
+}

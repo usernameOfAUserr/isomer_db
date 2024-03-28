@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-Oxo-4,6-difluoro-DMT ; \u03b2-Oxo-4,6-difluoro-N,N-dimethyltryptamine",
+    "iupac_name": "1-(4,6-Difluoro-1H-indol-3-yl)-2-(dimethylamino)ethan-1-one",
+    "category": "Tryptamine",
+    "index": 13578,
+    "formular": "C12H12F2N2O",
+    "molecular_weight": 238.233,
+    "inChl": "1S/C12H12F2N2O/c1-16(2)6-11(17)8-5-15-10-4-7(13)3-9(14)12(8)10/h3-5,15H,6H2,1-2H3",
+    "InChl_Key": "UMXIPLBVDLODCE-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CC(=O)c1c[nH]c2cc(F)cc(F)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13578",
+    "validation": "m_weight unsave, calculated(238.23699999999997)"
+}

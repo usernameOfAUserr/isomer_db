@@ -1,0 +1,13 @@
+{
+    "names": "WIN-2299",
+    "iupac_name": "2-(Diethylamino)ethyl cyclopentyl(hydroxy)(thiophen-2-yl)acetate",
+    "category": "data not stored",
+    "index": 9796,
+    "formular": "C17H27NO3S",
+    "molecular_weight": 325.466,
+    "inChl": "1S/C17H27NO3S/c1-3-18(4-2)11-12-21-16(19)17(20,14-8-5-6-9-14)15-10-7-13-22-15/h7,10,13-14,20H,3-6,8-9,11-12H2,1-2H3",
+    "InChl_Key": "ASXBIKGZCPZCAN-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)CCOC(=O)C(O)(c1cccs1)C1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9796",
+    "validation": "m_weight unsave, calculated(325.47400000000016)"
+}

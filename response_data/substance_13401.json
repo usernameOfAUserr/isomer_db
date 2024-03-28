@@ -1,0 +1,13 @@
+{
+    "names": "2-[2-Bromo-4-(butylsulfanyl)-3,5-dimethoxyphenyl]ethan-1-amine",
+    "iupac_name": "13401 ; C14H22BrNO2S ; 348.299",
+    "category": "data not stored",
+    "index": 13401,
+    "formular": "C14H22BrNO2S",
+    "molecular_weight": 348.299,
+    "inChl": "1S/C14H22BrNO2S/c1-4-5-8-19-14-11(17-2)9-10(6-7-16)12(15)13(14)18-3/h9H,4-8,16H2,1-3H3",
+    "InChl_Key": "XFYUUUQZVDHAKH-UHFFFAOYSA-N",
+    "SMILES": "CCCCSc1c(OC)cc(CCN)c(Br)c1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13401",
+    "validation": "m_weight unsave, calculated(348.30600000000004)"
+}

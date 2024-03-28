@@ -1,0 +1,13 @@
+{
+    "names": "SGT-117",
+    "iupac_name": "1-(Cyclohexylmethyl)-N-pentyl-1H-indole-3-carboxamide",
+    "category": "cannabinodids",
+    "index": 11544,
+    "formular": "C21H30N2O",
+    "molecular_weight": 326.476,
+    "inChl": "1S/C21H30N2O/c1-2-3-9-14-22-21(24)19-16-23(15-17-10-5-4-6-11-17)20-13-8-7-12-18(19)20/h7-8,12-13,16-17H,2-6,9-11,14-15H2,1H3,(H,22,24)",
+    "InChl_Key": "YJWOUQDJUFJOGZ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCNC(=O)c1cn(CC2CCCCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11544",
+    "validation": "m_weight unsave, calculated(326.4840000000002)"
+}

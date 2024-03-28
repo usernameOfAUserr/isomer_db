@@ -1,0 +1,13 @@
+{
+    "names": "NIBT ; N-Isobutyltryptamine",
+    "iupac_name": "N-[2-(1H-Indol-3-yl)ethyl]-2-methylpropan-1-amine",
+    "category": "Tryptamine",
+    "index": 5184,
+    "formular": "C14H20N2",
+    "molecular_weight": 216.322,
+    "inChl": "1S/C14H20N2/c1-11(2)9-15-8-7-12-10-16-14-6-4-3-5-13(12)14/h3-6,10-11,15-16H,7-9H2,1-2H3",
+    "InChl_Key": "HUZOBAFMOMZMBQ-UHFFFAOYSA-N",
+    "SMILES": "CC(C)CNCCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5184",
+    "validation": "m_weight unsave, calculated(216.328)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1P-AL-LAD",
+    "iupac_name": "(8\u03b2)-N,N-Diethyl-1-propanoyl-6-(prop-2-en-1-yl)-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 12922,
+    "formular": "C25H31N3O2",
+    "molecular_weight": 405.533,
+    "inChl": "1S/C25H31N3O2/c1-5-12-27-15-18(25(30)26(7-3)8-4)13-20-19-10-9-11-21-24(19)17(14-22(20)27)16-28(21)23(29)6-2/h5,9-11,13,16,18,22H,1,6-8,12,14-15H2,2-4H3/t18-,22-/m1/s1",
+    "InChl_Key": "GAGOTJNMWJYWMB-XMSQKQJNSA-N",
+    "SMILES": "C=CCN1C[C@H](C(=O)N(CC)CC)C=C2c3cccc4c3c(cn4C(=O)CC)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12922",
+    "validation": "m_weight unsave, calculated(405.54200000000026)"
+}

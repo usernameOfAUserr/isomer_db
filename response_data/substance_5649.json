@@ -1,0 +1,13 @@
+{
+    "names": "N-Phenylpropenyl-NMT ; N-Phenylpropenyl-N-methyltryptamine",
+    "iupac_name": "(2E)-N-[2-(1H-Indol-3-yl)ethyl]-N-methyl-3-phenylprop-2-en-1-amine",
+    "category": "Tryptamine",
+    "index": 5649,
+    "formular": "C20H22N2",
+    "molecular_weight": 290.402,
+    "inChl": "1S/C20H22N2/c1-22(14-7-10-17-8-3-2-4-9-17)15-13-18-16-21-20-12-6-5-11-19(18)20/h2-12,16,21H,13-15H2,1H3/b10-7+",
+    "InChl_Key": "DDNORTQHAFNTAF-JXMROGBWSA-N",
+    "SMILES": "CN(C/C=C/c1ccccc1)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5649",
+    "validation": "m_weight unsave, calculated(290.41)"
+}

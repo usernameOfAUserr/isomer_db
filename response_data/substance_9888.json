@@ -1,0 +1,13 @@
+{
+    "names": "11-Methoxy-nor-yangonin",
+    "iupac_name": "6-[(E)-2-(4-Hydroxy-3-methoxyphenyl)ethenyl]-4-methoxy-2H-pyran-2-one",
+    "category": "data not stored",
+    "index": 9888,
+    "formular": "C15H14O5",
+    "molecular_weight": 274.269,
+    "inChl": "1S/C15H14O5/c1-18-12-8-11(20-15(17)9-12)5-3-10-4-6-13(16)14(7-10)19-2/h3-9,16H,1-2H3/b5-3+",
+    "InChl_Key": "YHVDGZPFCGLBOW-HWKANZROSA-N",
+    "SMILES": "COc1cc(/C=C/c2ccc(O)c(OC)c2)oc(=O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9888",
+    "validation": "m_weight unsave, calculated(274.272)"
+}

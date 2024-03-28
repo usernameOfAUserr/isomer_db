@@ -1,0 +1,13 @@
+{
+    "names": "25I-NMeInd ; N-(Indole-3-ylmethyl)-4-iodo-2,5-dimethoxyphenethylamine",
+    "iupac_name": "N-[(1H-Indol-3-yl)methyl]-2-(4-iodo-2,5-dimethoxyphenyl)ethan-1-amine ; N-(1H-Indol-3-ylmethyl)-2-(4-iodo-2,5-dimethoxyphenyl)ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 5511,
+    "formular": "C19H21IN2O2",
+    "molecular_weight": 436.287,
+    "inChl": "1S/C19H21IN2O2/c1-23-18-10-16(20)19(24-2)9-13(18)7-8-21-11-14-12-22-17-6-4-3-5-15(14)17/h3-6,9-10,12,21-22H,7-8,11H2,1-2H3",
+    "InChl_Key": "CYNBAHOIZVVZMZ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(CCNCc2c[nH]c3ccccc23)c(OC)cc1I",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5511",
+    "validation": "m_weight unsave, calculated(436.2930000000002)"
+}

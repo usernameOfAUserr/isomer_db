@@ -1,0 +1,13 @@
+{
+    "names": "6,7-Dihydroxy-2-methyl-THIQ",
+    "iupac_name": "2-Methyl-1,2,3,4-tetrahydroisoquinoline-6,7-diol",
+    "category": "data not stored",
+    "index": 14320,
+    "formular": "C10H13NO2",
+    "molecular_weight": 179.216,
+    "inChl": "1S/C10H13NO2/c1-11-3-2-7-4-9(12)10(13)5-8(7)6-11/h4-5,12-13H,2-3,6H2,1H3",
+    "InChl_Key": "WETXYFNVBDLWIW-UHFFFAOYSA-N",
+    "SMILES": "CN1CCc2cc(O)c(O)cc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14320",
+    "validation": "m_weight unsave, calculated(179.219)"
+}

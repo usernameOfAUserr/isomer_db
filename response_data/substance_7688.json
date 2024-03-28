@@ -1,0 +1,13 @@
+{
+    "names": "2\u2032-Fluoro-2-(pentyloxy)-N-(2-phenylpropan-2-yl)[1,1\u2032-biphenyl]-4-carboxamide",
+    "iupac_name": "7688 ; C27H30FNO2 ; 419.531",
+    "category": "cannabinodids",
+    "index": 7688,
+    "formular": "C27H30FNO2",
+    "molecular_weight": 419.531,
+    "inChl": "1S/C27H30FNO2/c1-4-5-11-18-31-25-19-20(16-17-23(25)22-14-9-10-15-24(22)28)26(30)29-27(2,3)21-12-7-6-8-13-21/h6-10,12-17,19H,4-5,11,18H2,1-3H3,(H,29,30)",
+    "InChl_Key": "MHUYWQLBTUZSLV-UHFFFAOYSA-N",
+    "SMILES": "CCCCCOc1cc(C(=O)NC(C)(C)c2ccccc2)ccc1-c1ccccc1F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7688",
+    "validation": "m_weight unsave, calculated(419.5400000000002)"
+}

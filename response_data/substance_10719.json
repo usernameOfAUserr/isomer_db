@@ -1,0 +1,13 @@
+{
+    "names": "N-3FPh-4-MePEA ; N-(3-Fluorophenyl)-4-methylphenethylamine",
+    "iupac_name": "3-Fluoro-N-[2-(4-methylphenyl)ethyl]aniline",
+    "category": "data not stored",
+    "index": 10719,
+    "formular": "C15H16FN",
+    "molecular_weight": 229.293,
+    "inChl": "1S/C15H16FN/c1-12-5-7-13(8-6-12)9-10-17-15-4-2-3-14(16)11-15/h2-8,11,17H,9-10H2,1H3",
+    "InChl_Key": "YWSLYPXSPPMOQG-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(CCNc2cccc(F)c2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10719",
+    "validation": "m_weight unsave, calculated(229.298)"
+}

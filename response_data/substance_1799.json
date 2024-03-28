@@ -1,0 +1,13 @@
+{
+    "names": "Mesyl salvinorin B",
+    "iupac_name": "Methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-2-(furan-3-yl)-9-[(methanesulfonyl)oxy]-6a,10b-dimethyl-4,10-dioxododecahydro-2H-naphtho[2,1-c]pyran-7-carboxylate",
+    "category": "data not stored",
+    "index": 1799,
+    "formular": "C22H28O9S",
+    "molecular_weight": 468.517,
+    "inChl": "1S/C22H28O9S/c1-21-7-5-13-20(25)30-16(12-6-8-29-11-12)10-22(13,2)18(21)17(23)15(31-32(4,26)27)9-14(21)19(24)28-3/h6,8,11,13-16,18H,5,7,9-10H2,1-4H3/t13-,14-,15-,16-,18-,21-,22-/m0/s1",
+    "InChl_Key": "JPQCLBRBPPZECE-VOVNARLJSA-N",
+    "SMILES": "COC(=O)[C@@H]1C[C@H](OS(C)(=O)=O)C(=O)[C@H]2[C@@]1(C)CC[C@H]1C(=O)O[C@H](c3ccoc3)C[C@]21C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1799",
+    "validation": "m_weight unsave, calculated(468.5240000000003)"
+}

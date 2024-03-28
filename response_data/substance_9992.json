@@ -1,0 +1,13 @@
+{
+    "names": "4-{[(E)-{1-[(6aR,10aR)-1-Hydroxy-6,6,9-trimethyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-3-yl]ethylidene}amino]oxy}butanenitrile",
+    "iupac_name": "9992 ; C22H28N2O3 ; 368.469",
+    "category": "cannabinodids",
+    "index": 9992,
+    "formular": "C22H28N2O3",
+    "molecular_weight": 368.469,
+    "inChl": "1S/C22H28N2O3/c1-14-7-8-18-17(11-14)21-19(25)12-16(13-20(21)27-22(18,3)4)15(2)24-26-10-6-5-9-23/h7,12-13,17-18,25H,5-6,8,10-11H2,1-4H3/b24-15+/t17-,18-/m1/s1",
+    "InChl_Key": "BPUPSNATXJVJDE-RWZXWVHUSA-N",
+    "SMILES": "CC1=CC[C@@H]2[C@@H](C1)c1c(O)cc(/C(C)=N/OCCCC#N)cc1OC2(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9992",
+    "validation": "m_weight unsave, calculated(368.4770000000002)"
+}

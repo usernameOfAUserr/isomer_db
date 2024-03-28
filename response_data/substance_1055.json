@@ -1,0 +1,13 @@
+{
+    "names": "N,\u03b1-DEPEA ; N,\u03b1-Diethylphenylethylamine ; N-Ethyl-PBA",
+    "iupac_name": "N-Ethyl-1-phenylbutan-2-amine",
+    "category": "data not stored",
+    "index": 1055,
+    "formular": "C12H19N",
+    "molecular_weight": 177.286,
+    "inChl": "1S/C12H19N/c1-3-12(13-4-2)10-11-8-6-5-7-9-11/h5-9,12-13H,3-4,10H2,1-2H3",
+    "InChl_Key": "KHWYSUBVXWWBRB-UHFFFAOYSA-N",
+    "SMILES": "CCNC(CC)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1055",
+    "validation": "m_weight unsave, calculated(177.29099999999997)"
+}

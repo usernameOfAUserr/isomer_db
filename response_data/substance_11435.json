@@ -1,0 +1,13 @@
+{
+    "names": "Bemethyl",
+    "iupac_name": "2-(Ethylsulfanyl)-1H-benzimidazole",
+    "category": "data not stored",
+    "index": 11435,
+    "formular": "C9H10N2S",
+    "molecular_weight": 178.254,
+    "inChl": "1S/C9H10N2S/c1-2-12-9-10-7-5-3-4-6-8(7)11-9/h3-6H,2H2,1H3,(H,10,11)",
+    "InChl_Key": "UGCOPUIBNABIEP-UHFFFAOYSA-N",
+    "SMILES": "CCSc1nc2ccccc2[nH]1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11435",
+    "validation": "m_weight unsave, calculated(178.26000000000002)"
+}

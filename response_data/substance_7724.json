@@ -1,0 +1,13 @@
+{
+    "names": "N-[2-(5-{[(2-Amino-2-oxoethyl)(methyl)amino]methyl}-1,2,4-oxadiazol-3-yl)propan-2-yl]-1-pentyl-1H-indole-3-carboxamide",
+    "iupac_name": "7724 ; C23H32N6O3 ; 440.539",
+    "category": "cannabinodids",
+    "index": 7724,
+    "formular": "C23H32N6O3",
+    "molecular_weight": 440.539,
+    "inChl": "1S/C23H32N6O3/c1-5-6-9-12-29-13-17(16-10-7-8-11-18(16)29)21(31)26-23(2,3)22-25-20(32-27-22)15-28(4)14-19(24)30/h7-8,10-11,13H,5-6,9,12,14-15H2,1-4H3,(H2,24,30)(H,26,31)",
+    "InChl_Key": "GUTAQRZZPNHECE-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)NC(C)(C)c2noc(CN(C)CC(N)=O)n2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7724",
+    "validation": "m_weight unsave, calculated(440.5480000000003)"
+}

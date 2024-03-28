@@ -1,0 +1,13 @@
+{
+    "names": "2-FMAP",
+    "iupac_name": "1-(Furan-2-yl)-N-methylpropan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10940,
+    "formular": "C8H13NO",
+    "molecular_weight": 139.195,
+    "inChl": "1S/C8H13NO/c1-7(9-2)6-8-4-3-5-10-8/h3-5,7,9H,6H2,1-2H3",
+    "InChl_Key": "BFXUFGFUXGOVRU-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1ccco1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10940",
+    "validation": "m_weight unsave, calculated(139.19799999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "6-Fluoro-3-(1-propylpiperidin-4-yl)-1H-indole",
+    "iupac_name": "9707 ; C16H21FN2 ; 260.35",
+    "category": "data not stored",
+    "index": 9707,
+    "formular": "C16H21FN2",
+    "molecular_weight": 260.35,
+    "inChl": "1S/C16H21FN2/c1-2-7-19-8-5-12(6-9-19)15-11-18-16-10-13(17)3-4-14(15)16/h3-4,10-12,18H,2,5-9H2,1H3",
+    "InChl_Key": "LUENAZOOIPSKQU-UHFFFAOYSA-N",
+    "SMILES": "CCCN1CCC(c2c[nH]c3cc(F)ccc23)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9707",
+    "validation": "m_weight unsave, calculated(260.356)"
+}

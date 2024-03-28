@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-HO-N-Me-2,5-DEA ; \u03b2-Hydroxy-2,5-diethoxymethamphetamine",
+    "iupac_name": "1-(2,5-Diethoxyphenyl)-2-(methylamino)propan-1-ol",
+    "category": "Shulgin_Index",
+    "index": 6916,
+    "formular": "C14H23NO3",
+    "molecular_weight": 253.337,
+    "inChl": "1S/C14H23NO3/c1-5-17-11-7-8-13(18-6-2)12(9-11)14(16)10(3)15-4/h7-10,14-16H,5-6H2,1-4H3",
+    "InChl_Key": "FGZDUDYGCWQMGI-UHFFFAOYSA-N",
+    "SMILES": "CCOc1ccc(OCC)c(C(O)C(C)NC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6916",
+    "validation": "m_weight unsave, calculated(253.34199999999998)"
+}

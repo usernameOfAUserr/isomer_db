@@ -1,0 +1,13 @@
+{
+    "names": "4,5-DMe-2-MBAL ; 4,5-Dimethyl-2-methoxybenzaldehyde",
+    "iupac_name": "2-Methoxy-4,5-dimethylbenzaldehyde",
+    "category": "data not stored",
+    "index": 13116,
+    "formular": "C10H12O2",
+    "molecular_weight": 164.201,
+    "inChl": "1S/C10H12O2/c1-7-4-9(6-11)10(12-3)5-8(7)2/h4-6H,1-3H3",
+    "InChl_Key": "BFVZDEJGUQFXCV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C)c(C)cc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13116",
+    "validation": "m_weight unsave, calculated(164.20399999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "3,5-Dibromo-N,O-dimethyltyramine ; N-Methyl-3,5-dibromo-4-methoxyphenethylamine ; 3,5-Dibromo-4-methoxy-N-methyltyramine [as in original]",
+    "iupac_name": "2-(3,5-Dibromo-4-methoxyphenyl)-N-methylethan-1-amine",
+    "category": "data not stored",
+    "index": 7932,
+    "formular": "C10H13Br2NO",
+    "molecular_weight": 323.024,
+    "inChl": "1S/C10H13Br2NO/c1-13-4-3-7-5-8(11)10(14-2)9(12)6-7/h5-6,13H,3-4H2,1-2H3",
+    "InChl_Key": "NQPABTRNVKPCSN-UHFFFAOYSA-N",
+    "SMILES": "CNCCc1cc(Br)c(OC)c(Br)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7932",
+    "validation": "m_weight unsave, calculated(323.028)"
+}

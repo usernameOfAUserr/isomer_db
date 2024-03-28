@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-iPr-N-Me-3,4-MDPEA ; \u03b1-Isopropyl-N-methyl-3,4-methylenedioxyphenethylamine ; ATK-0104",
+    "iupac_name": "1-(2H-1,3-Benzodioxol-5-yl)-N,3-dimethylbutan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10174,
+    "formular": "C13H19NO2",
+    "molecular_weight": 221.295,
+    "inChl": "1S/C13H19NO2/c1-9(2)11(14-3)6-10-4-5-12-13(7-10)16-8-15-12/h4-5,7,9,11,14H,6,8H2,1-3H3",
+    "InChl_Key": "UEVRNSSAHWZFRQ-UHFFFAOYSA-N",
+    "SMILES": "CNC(Cc1ccc2c(c1)OCO2)C(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10174",
+    "validation": "m_weight unsave, calculated(221.29999999999998)"
+}

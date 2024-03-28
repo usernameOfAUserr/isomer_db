@@ -1,0 +1,13 @@
+{
+    "names": "Morphine",
+    "iupac_name": "17-Methyl-7,8-didehydro-4,5\u03b1-epoxymorphinan-3,6\u03b1-diol ; (4R,4aR,7S,7aR,12bS)-3-Methyl-2,3,4,4a,7,7a-hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinoline-7,9-diol ; (5\u03b1,6\u03b1)-17-Methyl-7,8-didehydro-4,5-epoxymorphinan-3,6-diol",
+    "category": "data not stored",
+    "index": 9155,
+    "formular": "C17H19NO3",
+    "molecular_weight": 285.338,
+    "inChl": "1S/C17H19NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2-5,10-11,13,16,19-20H,6-8H2,1H3/t10-,11+,13-,16-,17-/m0/s1",
+    "InChl_Key": "BQJCRHHNABKAKU-KBQPJGBKSA-N",
+    "SMILES": "CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9155",
+    "validation": "m_weight unsave, calculated(285.34299999999996)"
+}

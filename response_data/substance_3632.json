@@ -1,0 +1,13 @@
+{
+    "names": "RTI-15",
+    "iupac_name": "Phenyl (2R,3S)-3-(benzoyloxy)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate",
+    "category": "data not stored",
+    "index": 3632,
+    "formular": "C22H23NO4",
+    "molecular_weight": 365.422,
+    "inChl": "1S/C22H23NO4/c1-23-16-12-13-18(23)20(22(25)26-17-10-6-3-7-11-17)19(14-16)27-21(24)15-8-4-2-5-9-15/h2-11,16,18-20H,12-14H2,1H3/t16?,18?,19-,20+/m0/s1",
+    "InChl_Key": "RLATZNIHDCUZGM-DXBWTPJFSA-N",
+    "SMILES": "CN1C2CCC1[C@@H](C(=O)Oc1ccccc1)[C@@H](OC(=O)c1ccccc1)C2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3632",
+    "validation": "m_weight unsave, calculated(365.4290000000001)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Benzocaine",
+    "iupac_name": "Ethyl 4-aminobenzoate",
+    "category": "data not stored",
+    "index": 11339,
+    "formular": "C9H11NO2",
+    "molecular_weight": 165.189,
+    "inChl": "1S/C9H11NO2/c1-2-12-9(11)7-3-5-8(10)6-4-7/h3-6H,2,10H2,1H3",
+    "InChl_Key": "BLFLLBZGZJTVJG-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)c1ccc(N)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11339",
+    "validation": "m_weight unsave, calculated(165.19199999999998)"
+}

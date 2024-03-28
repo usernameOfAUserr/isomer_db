@@ -1,0 +1,13 @@
+{
+    "names": "2-(Azepan-1-yl)-1-(2H-1,3-benzodioxol-5-yl)butan-1-one ; 2-(Azepan-1-yl)-1-(1,3-benzodioxol-5-yl)butan-1-one",
+    "iupac_name": "2567 ; C17H23NO3 ; 289.369",
+    "category": "data not stored",
+    "index": 2567,
+    "formular": "C17H23NO3",
+    "molecular_weight": 289.369,
+    "inChl": "1S/C17H23NO3/c1-2-14(18-9-5-3-4-6-10-18)17(19)13-7-8-15-16(11-13)21-12-20-15/h7-8,11,14H,2-6,9-10,12H2,1H3",
+    "InChl_Key": "DPMDXDRLNBPDTG-UHFFFAOYSA-N",
+    "SMILES": "CCC(C(=O)c1ccc2c(c1)OCO2)N1CCCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2567",
+    "validation": "m_weight unsave, calculated(289.37500000000006)"
+}

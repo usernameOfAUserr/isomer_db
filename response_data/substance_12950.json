@@ -1,0 +1,13 @@
+{
+    "names": "LPA ; Lysophosphatidic acid",
+    "iupac_name": "2-Hydroxy-3-(phosphonooxy)propyl (9Z)-octadec-9-enoate",
+    "category": "data not stored",
+    "index": 12950,
+    "formular": "C21H41O7P",
+    "molecular_weight": 436.52,
+    "inChl": "1S/C21H41O7P/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-21(23)27-18-20(22)19-28-29(24,25)26/h9-10,20,22H,2-8,11-19H2,1H3,(H2,24,25,26)/b10-9-",
+    "InChl_Key": "WRGQSWVCFNIUNZ-KTKRTIGZSA-N",
+    "SMILES": "CCCCCCCC/C=C\\CCCCCCCC(=O)OCC(O)COP(=O)(O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12950",
+    "validation": "m_weight unsave, calculated(436.52600000000007)"
+}

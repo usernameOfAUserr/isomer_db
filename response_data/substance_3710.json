@@ -1,0 +1,13 @@
+{
+    "names": "SB-258719",
+    "iupac_name": "N,3-Dimethyl-N-[(2R)-4-(4-methylpiperidin-1-yl)butan-2-yl]benzene-1-sulfonamide",
+    "category": "data not stored",
+    "index": 3710,
+    "formular": "C18H30N2O2S",
+    "molecular_weight": 338.508,
+    "inChl": "1S/C18H30N2O2S/c1-15-8-11-20(12-9-15)13-10-17(3)19(4)23(21,22)18-7-5-6-16(2)14-18/h5-7,14-15,17H,8-13H2,1-4H3/t17-/m1/s1",
+    "InChl_Key": "AGVNHDNTFYHZNL-QGZVFWFLSA-N",
+    "SMILES": "Cc1cccc(S(=O)(=O)N(C)[C@H](C)CCN2CCC(C)CC2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3710",
+    "validation": "m_weight unsave, calculated(338.5170000000001)"
+}

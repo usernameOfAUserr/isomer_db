@@ -1,0 +1,13 @@
+{
+    "names": "MIP-2-AI ; N-Isopropyl-N-methyl-2-aminoindane",
+    "iupac_name": "N-Methyl-N-(propan-2-yl)-2,3-dihydro-1H-inden-2-amine",
+    "category": "data not stored",
+    "index": 1336,
+    "formular": "C13H19N",
+    "molecular_weight": 189.297,
+    "inChl": "1S/C13H19N/c1-10(2)14(3)13-8-11-6-4-5-7-12(11)9-13/h4-7,10,13H,8-9H2,1-3H3",
+    "InChl_Key": "VIKSKFWKHBZMCS-UHFFFAOYSA-N",
+    "SMILES": "CC(C)N(C)C1Cc2ccccc2C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1336",
+    "validation": "m_weight unsave, calculated(189.30200000000002)"
+}

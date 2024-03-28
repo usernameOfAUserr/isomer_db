@@ -1,0 +1,13 @@
+{
+    "names": "4-NO2-MPH ; 4-Nitromethylphenidate",
+    "iupac_name": "Methyl (4-nitrophenyl)(piperidin-2-yl)acetate",
+    "category": "data not stored",
+    "index": 8643,
+    "formular": "C14H18N2O4",
+    "molecular_weight": 278.304,
+    "inChl": "1S/C14H18N2O4/c1-20-14(17)13(12-4-2-3-9-15-12)10-5-7-11(8-6-10)16(18)19/h5-8,12-13,15H,2-4,9H2,1H3",
+    "InChl_Key": "BLBRFFAJTBEQKE-UHFFFAOYSA-N",
+    "SMILES": "COC(=O)C(c1ccc([N+](=O)[O-])cc1)C1CCCCN1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8643",
+    "validation": "m_weight unsave, calculated(278.308)"
+}

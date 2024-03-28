@@ -1,0 +1,13 @@
+{
+    "names": "N-Phenylpropenyl-5-MeO-NMT ; N-Phenylpropenyl-5-methoxy-N-methyltryptamine",
+    "iupac_name": "(2E)-N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]-N-methyl-3-phenylprop-2-en-1-amine",
+    "category": "Tryptamine",
+    "index": 5698,
+    "formular": "C21H24N2O",
+    "molecular_weight": 320.428,
+    "inChl": "1S/C21H24N2O/c1-23(13-6-9-17-7-4-3-5-8-17)14-12-18-16-22-21-11-10-19(24-2)15-20(18)21/h3-11,15-16,22H,12-14H2,1-2H3/b9-6+",
+    "InChl_Key": "QPIGGIFVKXJSNI-RMKNXTFCSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCN(C)C/C=C/c3ccccc3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5698",
+    "validation": "m_weight unsave, calculated(320.436)"
+}

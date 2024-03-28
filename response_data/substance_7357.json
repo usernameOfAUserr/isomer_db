@@ -1,0 +1,13 @@
+{
+    "names": "4-TFMSO2O-2-MBAL ; 4-Trifluoromethylsulfonyloxy-2-methoxybenzaldehyde",
+    "iupac_name": "4-Formyl-3-methoxyphenyl trifluoromethanesulfonate",
+    "category": "data not stored",
+    "index": 7357,
+    "formular": "C9H7F3O5S",
+    "molecular_weight": 284.209,
+    "inChl": "1S/C9H7F3O5S/c1-16-8-4-7(3-2-6(8)5-13)17-18(14,15)9(10,11)12/h2-5H,1H3",
+    "InChl_Key": "WHBISVRAIDXFLE-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(OS(=O)(=O)C(F)(F)F)ccc1C=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7357",
+    "validation": "m_weight unsave, calculated(284.21099999999996)"
+}

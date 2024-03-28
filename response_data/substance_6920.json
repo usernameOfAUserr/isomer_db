@@ -1,0 +1,13 @@
+{
+    "names": "3,5-HPEA ; 3,5-Dihydroxyphenethylamine",
+    "iupac_name": "5-(2-Aminoethyl)benzene-1,3-diol",
+    "category": "Shulgin_Index",
+    "index": 6920,
+    "formular": "C8H11NO2",
+    "molecular_weight": 153.178,
+    "inChl": "1S/C8H11NO2/c9-2-1-6-3-7(10)5-8(11)4-6/h3-5,10-11H,1-2,9H2",
+    "InChl_Key": "MCRRJJIDXUJDBN-UHFFFAOYSA-N",
+    "SMILES": "NCCc1cc(O)cc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6920",
+    "validation": "m_weight unsave, calculated(153.18099999999998)"
+}

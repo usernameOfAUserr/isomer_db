@@ -1,0 +1,13 @@
+{
+    "names": "6-Amino-DMT ; 6-Amino-N,N-dimethyltryptamine ; 6-NH2-DMT",
+    "iupac_name": "3-[2-(Dimethylamino)ethyl]-1H-indol-6-amine",
+    "category": "Tryptamine",
+    "index": 5493,
+    "formular": "C12H17N3",
+    "molecular_weight": 203.283,
+    "inChl": "1S/C12H17N3/c1-15(2)6-5-9-8-14-12-7-10(13)3-4-11(9)12/h3-4,7-8,14H,5-6,13H2,1-2H3",
+    "InChl_Key": "VMKMTGSIPCKLSC-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1c[nH]c2cc(N)ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5493",
+    "validation": "m_weight unsave, calculated(203.289)"
+}

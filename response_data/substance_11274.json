@@ -1,0 +1,13 @@
+{
+    "names": "2-Chloro-N-{[1-(piperidin-1-yl)cyclohexyl]methyl}benzamide",
+    "iupac_name": "11274 ; C19H27ClN2O ; 334.883",
+    "category": "data not stored",
+    "index": 11274,
+    "formular": "C19H27ClN2O",
+    "molecular_weight": 334.883,
+    "inChl": "1S/C19H27ClN2O/c20-17-10-4-3-9-16(17)18(23)21-15-19(11-5-1-6-12-19)22-13-7-2-8-14-22/h3-4,9-10H,1-2,5-8,11-15H2,(H,21,23)",
+    "InChl_Key": "FSXGYGBUDLQKRO-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCC1(N2CCCCC2)CCCCC1)c1ccccc1Cl",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11274",
+    "validation": "m_weight unsave, calculated(334.89100000000013)"
+}

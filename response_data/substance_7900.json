@@ -1,0 +1,13 @@
+{
+    "names": "6-Fluoro-5-hydroxyindole-3-acetic acid ; 6-F-5-HO-Indole-3-acetic acid",
+    "iupac_name": "(6-Fluoro-5-hydroxy-1H-indol-3-yl)acetic acid",
+    "category": "data not stored",
+    "index": 7900,
+    "formular": "C10H8FNO3",
+    "molecular_weight": 209.174,
+    "inChl": "1S/C10H8FNO3/c11-7-3-8-6(2-9(7)13)5(4-12-8)1-10(14)15/h2-4,12-13H,1H2,(H,14,15)",
+    "InChl_Key": "RYECKFBXKYLYLJ-UHFFFAOYSA-N",
+    "SMILES": "O=C(O)Cc1c[nH]c2cc(F)c(O)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7900",
+    "validation": "m_weight unsave, calculated(209.176)"
+}

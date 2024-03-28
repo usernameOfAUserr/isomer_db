@@ -1,0 +1,13 @@
+{
+    "names": "DOB-CE ; N-Ethoxycarbonyl-4-bromo-2,5-dimethoxyamphetamine",
+    "iupac_name": "Ethyl [1-(4-bromo-2,5-dimethoxyphenyl)propan-2-yl]carbamate",
+    "category": "Phenetylamine",
+    "index": 10362,
+    "formular": "C14H20BrNO4",
+    "molecular_weight": 346.217,
+    "inChl": "1S/C14H20BrNO4/c1-5-20-14(17)16-9(2)6-10-7-13(19-4)11(15)8-12(10)18-3/h7-9H,5-6H2,1-4H3,(H,16,17)",
+    "InChl_Key": "KWIUVHRLQBHLTB-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)NC(C)Cc1cc(OC)c(Br)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10362",
+    "validation": "m_weight unsave, calculated(346.221)"
+}

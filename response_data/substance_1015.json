@@ -1,0 +1,13 @@
+{
+    "names": "MT-45",
+    "iupac_name": "1-Cyclohexyl-4-(1,2-diphenylethyl)piperazine",
+    "category": "data not stored",
+    "index": 1015,
+    "formular": "C24H32N2",
+    "molecular_weight": 348.524,
+    "inChl": "1S/C24H32N2/c1-4-10-21(11-5-1)20-24(22-12-6-2-7-13-22)26-18-16-25(17-19-26)23-14-8-3-9-15-23/h1-2,4-7,10-13,23-24H,3,8-9,14-20H2",
+    "InChl_Key": "IGBRRSIHEGCUEN-UHFFFAOYSA-N",
+    "SMILES": "c1ccc(CC(c2ccccc2)N2CCN(C3CCCCC3)CC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1015",
+    "validation": "m_weight unsave, calculated(348.5340000000001)"
+}

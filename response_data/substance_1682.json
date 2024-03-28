@@ -1,0 +1,13 @@
+{
+    "names": "N-Methyl norfentanyl",
+    "iupac_name": "N-(1-Methylpiperidin-4-yl)-N-phenylpropanamide",
+    "category": "Fentanyl",
+    "index": 1682,
+    "formular": "C15H22N2O",
+    "molecular_weight": 246.348,
+    "inChl": "1S/C15H22N2O/c1-3-15(18)17(13-7-5-4-6-8-13)14-9-11-16(2)12-10-14/h4-8,14H,3,9-12H2,1-2H3",
+    "InChl_Key": "PCMUWYHREXSXFM-UHFFFAOYSA-N",
+    "SMILES": "CCC(=O)N(c1ccccc1)C1CCN(C)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1682",
+    "validation": "m_weight unsave, calculated(246.35399999999993)"
+}

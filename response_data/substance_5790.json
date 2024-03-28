@@ -1,0 +1,13 @@
+{
+    "names": "1,1-Diethyl-TH\u03b2C",
+    "iupac_name": "1,1-Diethyl-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indole ; 1,1-Diethyl-2,3,4,9-tetrahydro-1H-\u03b2-carboline",
+    "category": "data not stored",
+    "index": 5790,
+    "formular": "C15H20N2",
+    "molecular_weight": 228.333,
+    "inChl": "1S/C15H20N2/c1-3-15(4-2)14-12(9-10-16-15)11-7-5-6-8-13(11)17-14/h5-8,16-17H,3-4,9-10H2,1-2H3",
+    "InChl_Key": "ADKATHYCWYZQOP-UHFFFAOYSA-N",
+    "SMILES": "CCC1(CC)NCCc2c1[nH]c1ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5790",
+    "validation": "m_weight unsave, calculated(228.33900000000003)"
+}

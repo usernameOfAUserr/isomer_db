@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-HO-DET ; \u03b1-Hydroxy-N,N-diethyltryptamine",
+    "iupac_name": "1-(Diethylamino)-2-(1H-indol-3-yl)ethan-1-ol",
+    "category": "Tryptamine",
+    "index": 6750,
+    "formular": "C14H20N2O",
+    "molecular_weight": 232.321,
+    "inChl": "1S/C14H20N2O/c1-3-16(4-2)14(17)9-11-10-15-13-8-6-5-7-12(11)13/h5-8,10,14-15,17H,3-4,9H2,1-2H3",
+    "InChl_Key": "LFHUEGFWDOXVAT-UHFFFAOYSA-N",
+    "SMILES": "CCN(CC)C(O)Cc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6750",
+    "validation": "m_weight unsave, calculated(232.327)"
+}

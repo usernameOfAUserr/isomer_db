@@ -1,0 +1,13 @@
+{
+    "names": "3-(2-Aminoethyl)-1-benzothiophene-5-ol",
+    "iupac_name": "14717 ; C10H11NOS ; 193.265",
+    "category": "data not stored",
+    "index": 14717,
+    "formular": "C10H11NOS",
+    "molecular_weight": 193.265,
+    "inChl": "1S/C10H11NOS/c11-4-3-7-6-13-10-2-1-8(12)5-9(7)10/h1-2,5-6,12H,3-4,11H2",
+    "InChl_Key": "ONTWCYDBNXHETF-UHFFFAOYSA-N",
+    "SMILES": "NCCc1csc2ccc(O)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14717",
+    "validation": "m_weight unsave, calculated(193.271)"
+}

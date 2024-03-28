@@ -1,0 +1,13 @@
+{
+    "names": "N-Me-ALEPH ; 4-Methylthio-2,5-dimethoxymethamphetamine",
+    "iupac_name": "1-[2,5-Dimethoxy-4-(methylsulfanyl)phenyl]-N-methylpropan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7364,
+    "formular": "C13H21NO2S",
+    "molecular_weight": 255.376,
+    "inChl": "1S/C13H21NO2S/c1-9(14-2)6-10-7-12(16-4)13(17-5)8-11(10)15-3/h7-9,14H,6H2,1-5H3",
+    "InChl_Key": "HSFQBCBKMINXBH-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1cc(OC)c(SC)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7364",
+    "validation": "m_weight unsave, calculated(255.38299999999998)"
+}

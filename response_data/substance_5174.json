@@ -1,0 +1,13 @@
+{
+    "names": "MET ; N-Methyl-N-ethyltryptamine",
+    "iupac_name": "N-Ethyl-2-(1H-indol-3-yl)-N-methylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5174,
+    "formular": "C13H18N2",
+    "molecular_weight": 202.295,
+    "inChl": "1S/C13H18N2/c1-3-15(2)9-8-11-10-14-13-7-5-4-6-12(11)13/h4-7,10,14H,3,8-9H2,1-2H3",
+    "InChl_Key": "MYEGVMLMDWYPOA-UHFFFAOYSA-N",
+    "SMILES": "CCN(C)CCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5174",
+    "validation": "m_weight unsave, calculated(202.30100000000002)"
+}

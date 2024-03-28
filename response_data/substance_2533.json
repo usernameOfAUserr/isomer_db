@@ -1,0 +1,13 @@
+{
+    "names": "DMA N-oxide ; N,N-Dimethylamphetamine N-oxide",
+    "iupac_name": "N,N-Dimethyl-1-phenylpropan-2-amine N-oxide ; Dimethyl(1-phenylpropan-2-yl)amine oxide",
+    "category": "Phenetylamine",
+    "index": 2533,
+    "formular": "C11H17NO",
+    "molecular_weight": 179.259,
+    "inChl": "1S/C11H17NO/c1-10(12(2,3)13)9-11-7-5-4-6-8-11/h4-8,10H,9H2,1-3H3",
+    "InChl_Key": "OUZGZBKDZGDUDT-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)[N+](C)(C)[O-]",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2533",
+    "validation": "m_weight unsave, calculated(179.263)"
+}

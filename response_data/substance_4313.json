@@ -1,0 +1,13 @@
+{
+    "names": "JWH-213",
+    "iupac_name": "(4-Ethylnaphthalen-1-yl)(2-methyl-1-pentyl-1H-indol-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 4313,
+    "formular": "C27H29NO",
+    "molecular_weight": 383.525,
+    "inChl": "1S/C27H29NO/c1-4-6-11-18-28-19(3)26(24-14-9-10-15-25(24)28)27(29)23-17-16-20(5-2)21-12-7-8-13-22(21)23/h7-10,12-17H,4-6,11,18H2,1-3H3",
+    "InChl_Key": "JAVDQKMSPNBPCK-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1c(C)c(C(=O)c2ccc(CC)c3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4313",
+    "validation": "m_weight unsave, calculated(383.53500000000014)"
+}

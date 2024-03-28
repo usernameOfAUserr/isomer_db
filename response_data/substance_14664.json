@@ -1,0 +1,13 @@
+{
+    "names": "4-PeS-BA",
+    "iupac_name": "1-[4-(Pentylsulfanyl)phenyl]propan-1-amine",
+    "category": "data not stored",
+    "index": 14664,
+    "formular": "C14H23NS",
+    "molecular_weight": 237.404,
+    "inChl": "1S/C14H23NS/c1-3-5-6-11-16-13-9-7-12(8-10-13)14(15)4-2/h7-10,14H,3-6,11,15H2,1-2H3",
+    "InChl_Key": "MLNFJHDSSYRDFN-UHFFFAOYSA-N",
+    "SMILES": "CCCCCSc1ccc(C(N)CC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14664",
+    "validation": "m_weight unsave, calculated(237.412)"
+}

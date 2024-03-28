@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-HO-2-HPEA ; \u03b2-Hydroxy-2-hydroxyphenethylamine",
+    "iupac_name": "2-(2-Amino-1-hydroxyethyl)phenol",
+    "category": "Shulgin_Index",
+    "index": 6075,
+    "formular": "C8H11NO2",
+    "molecular_weight": 153.178,
+    "inChl": "1S/C8H11NO2/c9-5-8(11)6-3-1-2-4-7(6)10/h1-4,8,10-11H,5,9H2",
+    "InChl_Key": "NAMWREVXAKBGFY-UHFFFAOYSA-N",
+    "SMILES": "NCC(O)c1ccccc1O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6075",
+    "validation": "m_weight unsave, calculated(153.18099999999998)"
+}

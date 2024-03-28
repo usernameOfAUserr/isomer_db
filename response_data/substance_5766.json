@@ -1,0 +1,13 @@
+{
+    "names": "1-Ethyl-5-MeO-DMT ; 1-Ethyl-5-methoxy-N,N-dimethyltryptamine",
+    "iupac_name": "2-(1-Ethyl-5-methoxy-1H-indol-3-yl)-N,N-dimethylethan-1-amine",
+    "category": "Tryptamine",
+    "index": 5766,
+    "formular": "C15H22N2O",
+    "molecular_weight": 246.348,
+    "inChl": "1S/C15H22N2O/c1-5-17-11-12(8-9-16(2)3)14-10-13(18-4)6-7-15(14)17/h6-7,10-11H,5,8-9H2,1-4H3",
+    "InChl_Key": "NROYJCARPGQFQY-UHFFFAOYSA-N",
+    "SMILES": "CCn1cc(CCN(C)C)c2cc(OC)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5766",
+    "validation": "m_weight unsave, calculated(246.35399999999996)"
+}

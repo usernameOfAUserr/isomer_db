@@ -1,0 +1,13 @@
+{
+    "names": "DOMOM ; 4-Methoxymethyl-2,5-dimethoxyamphetamine",
+    "iupac_name": "1-[2,5-Dimethoxy-4-(methoxymethyl)phenyl]propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 1520,
+    "formular": "C13H21NO3",
+    "molecular_weight": 239.311,
+    "inChl": "1S/C13H21NO3/c1-9(14)5-10-6-13(17-4)11(8-15-2)7-12(10)16-3/h6-7,9H,5,8,14H2,1-4H3",
+    "InChl_Key": "IACSUTUTFQAPTC-UHFFFAOYSA-N",
+    "SMILES": "COCc1cc(OC)c(CC(C)N)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1520",
+    "validation": "m_weight unsave, calculated(239.31499999999997)"
+}

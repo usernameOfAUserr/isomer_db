@@ -1,0 +1,13 @@
+{
+    "names": "Pregabalin",
+    "iupac_name": "(3S)-3-(Aminomethyl)-5-methylhexanoic acid",
+    "category": "data not stored",
+    "index": 1909,
+    "formular": "C8H17NO2",
+    "molecular_weight": 159.226,
+    "inChl": "1S/C8H17NO2/c1-6(2)3-7(5-9)4-8(10)11/h6-7H,3-5,9H2,1-2H3,(H,10,11)/t7-/m0/s1",
+    "InChl_Key": "AYXYPKUFHZROOJ-ZETCQYMHSA-N",
+    "SMILES": "CC(C)C[C@H](CN)CC(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1909",
+    "validation": "m_weight unsave, calculated(159.22899999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Trihexylphenidyl",
+    "iupac_name": "2-(Piperidin-1-yl)ethyl cyclohexyl(hydroxy)phenylacetate",
+    "category": "data not stored",
+    "index": 11832,
+    "formular": "C21H31NO3",
+    "molecular_weight": 345.476,
+    "inChl": "1S/C21H31NO3/c23-20(25-17-16-22-14-8-3-9-15-22)21(24,18-10-4-1-5-11-18)19-12-6-2-7-13-19/h1,4-5,10-11,19,24H,2-3,6-9,12-17H2",
+    "InChl_Key": "ULSFDMDCOKMGSL-UHFFFAOYSA-N",
+    "SMILES": "O=C(OCCN1CCCCC1)C(O)(c1ccccc1)C1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11832",
+    "validation": "m_weight unsave, calculated(345.4830000000001)"
+}

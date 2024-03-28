@@ -1,0 +1,13 @@
+{
+    "names": "Butylnormeperidine",
+    "iupac_name": "Ethyl 1-butyl-4-phenylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 14515,
+    "formular": "C18H27NO2",
+    "molecular_weight": 289.412,
+    "inChl": "1S/C18H27NO2/c1-3-5-13-19-14-11-18(12-15-19,17(20)21-4-2)16-9-7-6-8-10-16/h6-10H,3-5,11-15H2,1-2H3",
+    "InChl_Key": "OIPRXRRVWUUDEU-UHFFFAOYSA-N",
+    "SMILES": "CCCCN1CCC(C(=O)OCC)(c2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14515",
+    "validation": "m_weight unsave, calculated(289.419)"
+}

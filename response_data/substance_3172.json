@@ -1,0 +1,13 @@
+{
+    "names": "Dipipanone sulfone",
+    "iupac_name": "1-[4-(Ethanesulfonyl)-4,4-diphenylbutan-2-yl]piperidine",
+    "category": "data not stored",
+    "index": 3172,
+    "formular": "C23H31NO2S",
+    "molecular_weight": 385.563,
+    "inChl": "1S/C23H31NO2S/c1-3-27(25,26)23(21-13-7-4-8-14-21,22-15-9-5-10-16-22)19-20(2)24-17-11-6-12-18-24/h4-5,7-10,13-16,20H,3,6,11-12,17-19H2,1-2H3",
+    "InChl_Key": "ZVXQZJPYLLIYSB-UHFFFAOYSA-N",
+    "SMILES": "CCS(=O)(=O)C(CC(C)N1CCCCC1)(c1ccccc1)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3172",
+    "validation": "m_weight unsave, calculated(385.5730000000003)"
+}

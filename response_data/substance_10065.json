@@ -1,0 +1,13 @@
+{
+    "names": "1-(2,4-Dimethylphenyl)-2-[(propan-2-yl)amino]propan-1-ol",
+    "iupac_name": "10065 ; C14H23NO ; 221.339",
+    "category": "Phenetylamine",
+    "index": 10065,
+    "formular": "C14H23NO",
+    "molecular_weight": 221.339,
+    "inChl": "1S/C14H23NO/c1-9(2)15-12(5)14(16)13-7-6-10(3)8-11(13)4/h6-9,12,14-16H,1-5H3",
+    "InChl_Key": "HCIRNMMFGFNIGA-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(O)C(C)NC(C)C)c(C)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10065",
+    "validation": "m_weight unsave, calculated(221.34399999999997)"
+}

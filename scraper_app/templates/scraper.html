@@ -8,11 +8,33 @@
 
     <script src="{% static 'scripts/scraper.js' %}"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+    function changeBackground(){
+        // Neue Videoquelle
+var oldSource = "{% static 'videos/background.mp4' %}";
+ var newSource = "{% static 'videos/load (2).mp4' %}";
+ // Videoelement und Quellen-Element auswählen
+ var video = document.getElementById("video-background");
+ var source = document.getElementById("video-source");
+ var number = source.dataset.number;
+ if (number == "old"){
+ source["src"] = newSource;
+ source.dataset.number ="new";
+ }
+ else{
+    source["src"] = oldSource;
+    source.dataset.number ="old";
+ }
+ video.load();
+ }
+ </script>
     <title>Webscraper</title>
 </head>
 <body>
-<video id="video-background" autoplay loop muted> <source src="{% static 'videos/background.mp4' %}" type="video/mp4"> </video>
-
+    <video id="video-background" autoplay loop muted>
+        <source id="video-source" src="{% static 'videos/background.mp4' %}" data-number="old"type="video/mp4">
+      </video>
+      
 <div class="container">
     <div class="search">
         <p>Search for substances</p>
@@ -31,7 +53,7 @@
     <div class="modi_div">
         <button class="modi" onclick="reset_db()">reset database</button>
         <button class="modi" onclick="load_new_substances()">load new substances </button>
-        <button class="modi" onclick="show_reset_progress()">load new substances, look for data-changes </button>
+        <button class="modi" onclick="changeBackground()">load new substances, look for data-changes </button>
 </div>    
 {%if selected != None%}
 <div style="position: absolute; left: 40%; top: 1.1%; font-size: 25px; color: rgb(201, 214, 16); opacity: 0.5;"><h1>{{ answer|length }} {% if answer|length == 1 %}RESULT{% else %}RESULTS{% endif %}</h1></div>

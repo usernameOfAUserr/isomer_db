@@ -1,0 +1,13 @@
+{
+    "names": "Fentanyl carbamate",
+    "iupac_name": "Ethyl phenyl[1-(2-phenylethyl)piperidin-4-yl]carbamate",
+    "category": "Fentanyl",
+    "index": 1645,
+    "formular": "C22H28N2O2",
+    "molecular_weight": 352.47,
+    "inChl": "1S/C22H28N2O2/c1-2-26-22(25)24(20-11-7-4-8-12-20)21-14-17-23(18-15-21)16-13-19-9-5-3-6-10-19/h3-12,21H,2,13-18H2,1H3",
+    "InChl_Key": "BPXVEPWHWMDYCP-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1645",
+    "validation": "m_weight unsave, calculated(352.47800000000007)"
+}

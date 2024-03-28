@@ -1,0 +1,13 @@
+{
+    "names": "JWH-175",
+    "iupac_name": "3-[(Naphthalen-1-yl)methyl]-1-pentyl-1H-indole",
+    "category": "cannabinodids",
+    "index": 4300,
+    "formular": "C24H25N",
+    "molecular_weight": 327.462,
+    "inChl": "1S/C24H25N/c1-2-3-8-16-25-18-21(23-14-6-7-15-24(23)25)17-20-12-9-11-19-10-4-5-13-22(19)20/h4-7,9-15,18H,2-3,8,16-17H2,1H3",
+    "InChl_Key": "TYBRSILIYTUTSQ-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(Cc2cccc3ccccc23)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4300",
+    "validation": "m_weight unsave, calculated(327.47100000000006)"
+}

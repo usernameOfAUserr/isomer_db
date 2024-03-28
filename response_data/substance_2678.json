@@ -1,0 +1,13 @@
+{
+    "names": "APAAN ; \u03b1-Phenylacetoacetonitrile",
+    "iupac_name": "3-Oxo-2-phenylbutanenitrile",
+    "category": "data not stored",
+    "index": 2678,
+    "formular": "C10H9NO",
+    "molecular_weight": 159.185,
+    "inChl": "1S/C10H9NO/c1-8(12)10(7-11)9-5-3-2-4-6-9/h2-6,10H,1H3",
+    "InChl_Key": "KHNWFTMUBKJWRZ-UHFFFAOYSA-N",
+    "SMILES": "CC(=O)C(C#N)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2678",
+    "validation": "m_weight unsave, calculated(159.18799999999996)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "4-Fluoropethidine ; 4-Fluoromeperidine",
+    "iupac_name": "Ethyl 4-(4-fluorophenyl)-1-methylpiperidine-4-carboxylate",
+    "category": "data not stored",
+    "index": 3289,
+    "formular": "C15H20FNO2",
+    "molecular_weight": 265.323,
+    "inChl": "1S/C15H20FNO2/c1-3-19-14(18)15(8-10-17(2)11-9-15)12-4-6-13(16)7-5-12/h4-7H,3,8-11H2,1-2H3",
+    "InChl_Key": "CHOQGLPFQOQESN-UHFFFAOYSA-N",
+    "SMILES": "CCOC(=O)C1(c2ccc(F)cc2)CCN(C)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3289",
+    "validation": "m_weight unsave, calculated(265.328)"
+}

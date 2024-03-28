@@ -1,0 +1,13 @@
+{
+    "names": "Deglucopterocereine N-oxide",
+    "iupac_name": "1-(Hydroxymethyl)-6,7-dimethoxy-2-methyl-2-oxo-1,2,3,4-tetrahydro-2\u03bb5-isoquinolin-5-ol",
+    "category": "data not stored",
+    "index": 12665,
+    "formular": "C13H19NO5",
+    "molecular_weight": 269.294,
+    "inChl": "1S/C13H19NO5/c1-14(17)5-4-8-9(10(14)7-15)6-11(18-2)13(19-3)12(8)16/h6,10,15-16H,4-5,7H2,1-3H3",
+    "InChl_Key": "LRJHVWWITVQYQX-UHFFFAOYSA-N",
+    "SMILES": "COc1cc2c(c(O)c1OC)CC[N+](C)([O-])C2CO",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12665",
+    "validation": "m_weight unsave, calculated(269.29699999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "TMeA-4 ; 2,3,5-Trimethylphenethylamine",
+    "iupac_name": "1-(2,3,5-Trimethylphenyl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 7056,
+    "formular": "C12H19N",
+    "molecular_weight": 177.286,
+    "inChl": "1S/C12H19N/c1-8-5-9(2)11(4)12(6-8)7-10(3)13/h5-6,10H,7,13H2,1-4H3",
+    "InChl_Key": "OUSJUNDNZLHHLY-UHFFFAOYSA-N",
+    "SMILES": "Cc1cc(C)c(C)c(CC(C)N)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7056",
+    "validation": "m_weight unsave, calculated(177.29099999999997)"
+}

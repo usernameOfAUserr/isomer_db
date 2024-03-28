@@ -1,0 +1,13 @@
+{
+    "names": "N-Me-N-PhEt-A ; N-Methyl-N-phenethylamphetamine",
+    "iupac_name": "N-Methyl-1-phenyl-N-(2-phenylethyl)propan-2-amine",
+    "category": "Phenetylamine",
+    "index": 10704,
+    "formular": "C18H23N",
+    "molecular_weight": 253.382,
+    "inChl": "1S/C18H23N/c1-16(15-18-11-7-4-8-12-18)19(2)14-13-17-9-5-3-6-10-17/h3-12,16H,13-15H2,1-2H3",
+    "InChl_Key": "GQJHAVHSZPQZHD-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)N(C)CCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10704",
+    "validation": "m_weight unsave, calculated(253.38899999999998)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2,5-Dimethyl-\u03b1-PVP ; 2\u2032,5\u2032-Dimethyl-\u03b1-(pyrrolidin-1-yl)valerophenone",
+    "iupac_name": "1-(2,5-Dimethylphenyl)-2-(pyrrolidin-1-yl)pentan-1-one",
+    "category": "data not stored",
+    "index": 6994,
+    "formular": "C17H25NO",
+    "molecular_weight": 259.387,
+    "inChl": "1S/C17H25NO/c1-4-7-16(18-10-5-6-11-18)17(19)15-12-13(2)8-9-14(15)3/h8-9,12,16H,4-7,10-11H2,1-3H3",
+    "InChl_Key": "MIGNJPCJJLFQGK-UHFFFAOYSA-N",
+    "SMILES": "CCCC(C(=O)c1cc(C)ccc1C)N1CCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6994",
+    "validation": "m_weight unsave, calculated(259.393)"
+}

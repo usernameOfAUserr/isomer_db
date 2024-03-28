@@ -1,0 +1,13 @@
+{
+    "names": "Pheniprazine ; N-Aminoamphetamine ; Amphetamine hydrazide ; Amphethydrazine ; N-NH2A",
+    "iupac_name": "(1-Phenylpropan-2-yl)hydrazine",
+    "category": "Phenetylamine",
+    "index": 10643,
+    "formular": "C9H14N2",
+    "molecular_weight": 150.221,
+    "inChl": "1S/C9H14N2/c1-8(11-10)7-9-5-3-2-4-6-9/h2-6,8,11H,7,10H2,1H3",
+    "InChl_Key": "VXTWEDPZMSVFEF-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)NN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10643",
+    "validation": "m_weight unsave, calculated(150.22499999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N,N-Dimethyl-4-(5-nitro-1H-indol-3-yl)cyclohex-3-en-1-amine",
+    "iupac_name": "9361 ; C16H19N3O2 ; 285.341",
+    "category": "data not stored",
+    "index": 9361,
+    "formular": "C16H19N3O2",
+    "molecular_weight": 285.341,
+    "inChl": "1S/C16H19N3O2/c1-18(2)12-5-3-11(4-6-12)15-10-17-16-8-7-13(19(20)21)9-14(15)16/h3,7-10,12,17H,4-6H2,1-2H3",
+    "InChl_Key": "OQPMHMPOPMZPGV-UHFFFAOYSA-N",
+    "SMILES": "CN(C)C1CC=C(c2c[nH]c3ccc([N+](=O)[O-])cc23)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9361",
+    "validation": "m_weight unsave, calculated(285.34700000000004)"
+}

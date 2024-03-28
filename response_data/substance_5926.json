@@ -1,0 +1,13 @@
+{
+    "names": "6-Fluoro-DALT ; 6-Fluoro-N,N-diallyltryptamine",
+    "iupac_name": "N-[2-(6-Fluoro-1H-indol-3-yl)ethyl]-N-(prop-2-en-1-yl)prop-2-en-1-amine",
+    "category": "Tryptamine",
+    "index": 5926,
+    "formular": "C16H19FN2",
+    "molecular_weight": 258.334,
+    "inChl": "1S/C16H19FN2/c1-3-8-19(9-4-2)10-7-13-12-18-16-11-14(17)5-6-15(13)16/h3-6,11-12,18H,1-2,7-10H2",
+    "InChl_Key": "URXPMLFMNQFHBS-UHFFFAOYSA-N",
+    "SMILES": "C=CCN(CC=C)CCc1c[nH]c2cc(F)ccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=5926",
+    "validation": "m_weight unsave, calculated(258.34000000000003)"
+}

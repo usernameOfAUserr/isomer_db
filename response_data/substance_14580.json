@@ -1,0 +1,13 @@
+{
+    "names": "4-Bromo-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]benzamide",
+    "iupac_name": "14580 ; C18H17BrN2O2 ; 373.244",
+    "category": "Tryptamine",
+    "index": 14580,
+    "formular": "C18H17BrN2O2",
+    "molecular_weight": 373.244,
+    "inChl": "1S/C18H17BrN2O2/c1-23-15-6-7-17-16(10-15)13(11-21-17)8-9-20-18(22)12-2-4-14(19)5-3-12/h2-7,10-11,21H,8-9H2,1H3,(H,20,22)",
+    "InChl_Key": "URPYXNUUQKBSLJ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2[nH]cc(CCNC(=O)c3ccc(Br)cc3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14580",
+    "validation": "m_weight unsave, calculated(373.24999999999994)"
+}

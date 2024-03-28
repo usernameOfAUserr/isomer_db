@@ -1,0 +1,13 @@
+{
+    "names": "trans-3-Hydroxy-4-methoxyphenylprop-1-ene",
+    "iupac_name": "2-Methoxy-5-[(1E)-prop-1-en-1-yl]phenol",
+    "category": "Essential oil",
+    "index": 1133,
+    "formular": "C10H12O2",
+    "molecular_weight": 164.201,
+    "inChl": "1S/C10H12O2/c1-3-4-8-5-6-10(12-2)9(11)7-8/h3-7,11H,1-2H3/b4-3+",
+    "InChl_Key": "LHJZSWVADJCBNI-ONEGZZNKSA-N",
+    "SMILES": "C/C=C/c1ccc(OC)c(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1133",
+    "validation": "m_weight unsave, calculated(164.20399999999998)"
+}

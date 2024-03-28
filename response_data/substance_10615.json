@@ -1,0 +1,13 @@
+{
+    "names": "Ritodrine ; N-(4-Hydroxypheethyl)-\u03b2,4-dihydroxyamphetamine ; N-4HOPhEt-\u03b2,4-DHA",
+    "iupac_name": "4-(1-Hydroxy-2-{[2-(4-hydroxyphenyl)ethyl]amino}propyl)phenol",
+    "category": "Phenetylamine",
+    "index": 10615,
+    "formular": "C17H21NO3",
+    "molecular_weight": 287.354,
+    "inChl": "1S/C17H21NO3/c1-12(17(21)14-4-8-16(20)9-5-14)18-11-10-13-2-6-15(19)7-3-13/h2-9,12,17-21H,10-11H2,1H3",
+    "InChl_Key": "IOVGROKTTNBUGK-UHFFFAOYSA-N",
+    "SMILES": "CC(NCCc1ccc(O)cc1)C(O)c1ccc(O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10615",
+    "validation": "m_weight unsave, calculated(287.35900000000004)"
+}

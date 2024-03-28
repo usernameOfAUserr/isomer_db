@@ -1,0 +1,13 @@
+{
+    "names": "4-MeO-CPCA",
+    "iupac_name": "2-(4-Methoxyphenyl)cyclopropane-1-carboxylic acid",
+    "category": "data not stored",
+    "index": 3621,
+    "formular": "C11H12O3",
+    "molecular_weight": 192.211,
+    "inChl": "1S/C11H12O3/c1-14-8-4-2-7(3-5-8)9-6-10(9)11(12)13/h2-5,9-10H,6H2,1H3,(H,12,13)",
+    "InChl_Key": "CCTYOCDEILYYEF-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C2CC2C(=O)O)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3621",
+    "validation": "m_weight unsave, calculated(192.21399999999997)"
+}

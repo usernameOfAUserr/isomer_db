@@ -1,0 +1,13 @@
+{
+    "names": "2-Bromo-5,8-dimethoxy-6-methyl-3,4-dihydronaphthalen-1(2H)-one",
+    "iupac_name": "1858 ; C13H15BrO3 ; 299.16",
+    "category": "data not stored",
+    "index": 1858,
+    "formular": "C13H15BrO3",
+    "molecular_weight": 299.16,
+    "inChl": "1S/C13H15BrO3/c1-7-6-10(16-2)11-8(13(7)17-3)4-5-9(14)12(11)15/h6,9H,4-5H2,1-3H3",
+    "InChl_Key": "NKMVCZLVMJVAMV-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C)c(OC)c2c1C(=O)C(Br)CC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1858",
+    "validation": ""
+}

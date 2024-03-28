@@ -1,0 +1,13 @@
+{
+    "names": "2C-T-28 ; 4-(3-Fluoropropylthio)-2,5-dimethoxyphenethylamine",
+    "iupac_name": "2-{4-[(3-Fluoropropyl)sulfanyl]-2,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 2180,
+    "formular": "C13H20FNO2S",
+    "molecular_weight": 273.367,
+    "inChl": "1S/C13H20FNO2S/c1-16-11-9-13(18-7-3-5-14)12(17-2)8-10(11)4-6-15/h8-9H,3-7,15H2,1-2H3",
+    "InChl_Key": "XAFVGDRNPGLCMI-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(SCCCF)c(OC)cc1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2180",
+    "validation": "m_weight unsave, calculated(273.37299999999993)"
+}

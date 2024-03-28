@@ -1,0 +1,13 @@
+{
+    "names": "4-HO-N-oxetanyl-NMT ; 4-Hydroxy-N-oxetanyl-N-methyltryptamine",
+    "iupac_name": "3-{2-[Methyl(oxetan-3-yl)amino]ethyl}-1H-indol-4-ol",
+    "category": "Prophetic? \u00b7 Tryptamine",
+    "index": 7599,
+    "formular": "C14H18N2O2",
+    "molecular_weight": 246.305,
+    "inChl": "1S/C14H18N2O2/c1-16(11-8-18-9-11)6-5-10-7-15-12-3-2-4-13(17)14(10)12/h2-4,7,11,15,17H,5-6,8-9H2,1H3",
+    "InChl_Key": "ROMFQAFZHKFKMA-UHFFFAOYSA-N",
+    "SMILES": "CN(CCc1c[nH]c2cccc(O)c12)C1COC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7599",
+    "validation": "m_weight unsave, calculated(246.31000000000003)"
+}

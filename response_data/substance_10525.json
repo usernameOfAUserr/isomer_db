@@ -1,0 +1,13 @@
+{
+    "names": "\u03b2-YN-3-HPEA ; \u03b2-Ethynyl-3-hydroxyphenethylamine",
+    "iupac_name": "3-(1-Aminobut-3-yn-2-yl)phenol",
+    "category": "Phenetylamine",
+    "index": 10525,
+    "formular": "C10H11NO",
+    "molecular_weight": 161.2,
+    "inChl": "1S/C10H11NO/c1-2-8(7-11)9-4-3-5-10(12)6-9/h1,3-6,8,12H,7,11H2",
+    "InChl_Key": "DDIRPTZZQVMPTP-UHFFFAOYSA-N",
+    "SMILES": "C#CC(CN)c1cccc(O)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10525",
+    "validation": ""
+}

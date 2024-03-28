@@ -1,0 +1,13 @@
+{
+    "names": "US 8410099 #3",
+    "iupac_name": "3-[2-Chloro-3-(trifluoromethyl)phenyl]-1-[(2,4-difluorophenyl)methyl]cinnolin-4(1H)-one",
+    "category": "cannabinodids",
+    "index": 7557,
+    "formular": "C22H12ClF5N2O",
+    "molecular_weight": 450.788,
+    "inChl": "1S/C22H12ClF5N2O/c23-19-15(5-3-6-16(19)22(26,27)28)20-21(31)14-4-1-2-7-18(14)30(29-20)11-12-8-9-13(24)10-17(12)25/h1-10H,11H2",
+    "InChl_Key": "GDBGEDIBWTUOLE-UHFFFAOYSA-N",
+    "SMILES": "O=c1c(-c2cccc(C(F)(F)F)c2Cl)nn(Cc2ccc(F)cc2F)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7557",
+    "validation": "m_weight unsave, calculated(450.7940000000001)"
+}

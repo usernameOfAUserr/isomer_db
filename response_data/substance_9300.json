@@ -1,0 +1,13 @@
+{
+    "names": "Mephedrone-BOC ; N-tert-Butoxycarbonyl-N-methyl-4-methylcatinone",
+    "iupac_name": "tert-Butyl methyl[1-(4-methylphenyl)-1-oxopropan-2-yl]carbamate",
+    "category": "data not stored",
+    "index": 9300,
+    "formular": "C16H23NO3",
+    "molecular_weight": 277.359,
+    "inChl": "1S/C16H23NO3/c1-11-7-9-13(10-8-11)14(18)12(2)17(6)15(19)20-16(3,4)5/h7-10,12H,1-6H3",
+    "InChl_Key": "KDCYAFSHFNXDRF-UHFFFAOYSA-N",
+    "SMILES": "Cc1ccc(C(=O)C(C)N(C)C(=O)OC(C)(C)C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9300",
+    "validation": "m_weight unsave, calculated(277.36400000000003)"
+}

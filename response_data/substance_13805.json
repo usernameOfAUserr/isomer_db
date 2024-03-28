@@ -1,0 +1,13 @@
+{
+    "names": "Aildenafil ; Methisosildenafil",
+    "iupac_name": "5-{5-[(3R,5S)-3,5-Dimethylpiperazine-1-sulfonyl]-2-ethoxyphenyl}-1-methyl-3-propyl-1,4-dihydro-7H-pyrazolo[4,3-d]pyrimidin-7-one",
+    "category": "data not stored",
+    "index": 13805,
+    "formular": "C23H32N6O4S",
+    "molecular_weight": 488.603,
+    "inChl": "1S/C23H32N6O4S/c1-6-8-18-20-21(28(5)27-18)23(30)26-22(25-20)17-11-16(9-10-19(17)33-7-2)34(31,32)29-12-14(3)24-15(4)13-29/h9-11,14-15,24H,6-8,12-13H2,1-5H3,(H,25,26,30)/t14-,15+",
+    "InChl_Key": "NFSWSZIPXJAYLR-GASCZTMLSA-N",
+    "SMILES": "CCCc1nn(C)c2c(=O)nc(-c3cc(S(=O)(=O)N4C[C@@H](C)N[C@@H](C)C4)ccc3OCC)[nH]c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13805",
+    "validation": "m_weight unsave, calculated(488.6140000000003)"
+}

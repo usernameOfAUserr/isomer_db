@@ -1,0 +1,13 @@
+{
+    "names": "O-(2-Ethylbutanoyl)-1-isopropyldihydrolysergol-I",
+    "iupac_name": "(6-Methyl-1-(propan-2-yl)ergolin-8\u03b2-yl)methyl 2-ethylbutanoate ; [(6aR,9R,10aR)-7-Methyl-4-(propan-2-yl)-4,6,6a,7,8,9,10,10a-octahydroindolo[4,3-fg]quinolin-9-yl]methyl 2-ethylbutanoate ; [(8\u03b2)-6-Methyl-1-(propan-2-yl)ergolin-8-yl]methyl 2-ethylbutanoate",
+    "category": "data not stored",
+    "index": 6892,
+    "formular": "C25H36N2O2",
+    "molecular_weight": 396.566,
+    "inChl": "1S/C25H36N2O2/c1-6-18(7-2)25(28)29-15-17-11-21-20-9-8-10-22-24(20)19(14-27(22)16(3)4)12-23(21)26(5)13-17/h8-10,14,16-18,21,23H,6-7,11-13,15H2,1-5H3/t17-,21-,23-/m1/s1",
+    "InChl_Key": "BCAYAVYHJCRRIL-ODOSVJCGSA-N",
+    "SMILES": "CCC(CC)C(=O)OC[C@@H]1C[C@@H]2c3cccc4c3c(cn4C(C)C)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6892",
+    "validation": "m_weight unsave, calculated(396.5750000000002)"
+}

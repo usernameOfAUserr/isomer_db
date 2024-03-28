@@ -1,0 +1,13 @@
+{
+    "names": "DOH-FLY ; FLY ; 1-(2,3,6,7-Tetrahydrofuro[2,3-f][1]benzofuran-4-yl)propan-2-amine",
+    "iupac_name": "1-(2,3,6,7-Tetrahydrobenzo[1,2-b:4,5-b\u2032]difuran-4-yl)propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 2022,
+    "formular": "C13H17NO2",
+    "molecular_weight": 219.28,
+    "inChl": "1S/C13H17NO2/c1-8(14)6-11-10-3-5-15-12(10)7-9-2-4-16-13(9)11/h7-8H,2-6,14H2,1H3",
+    "InChl_Key": "QTMQYHDNFFQCRI-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1c2c(cc3c1OCC3)OCC2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2022",
+    "validation": ""
+}

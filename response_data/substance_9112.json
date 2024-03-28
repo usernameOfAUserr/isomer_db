@@ -1,0 +1,13 @@
+{
+    "names": "1-(4-Methoxyphenyl)-N-[(oxolan-2-yl)methyl]cyclohexan-1-amine",
+    "iupac_name": "9112 ; C18H27NO2 ; 289.412",
+    "category": "Arylcycloalkylamine",
+    "index": 9112,
+    "formular": "C18H27NO2",
+    "molecular_weight": 289.412,
+    "inChl": "1S/C18H27NO2/c1-20-16-9-7-15(8-10-16)18(11-3-2-4-12-18)19-14-17-6-5-13-21-17/h7-10,17,19H,2-6,11-14H2,1H3",
+    "InChl_Key": "DDISCRRPZWTBOU-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(C2(NCC3CCCO3)CCCCC2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9112",
+    "validation": "m_weight unsave, calculated(289.419)"
+}

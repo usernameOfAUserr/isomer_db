@@ -1,0 +1,13 @@
+{
+    "names": "tert-Butyl 4-methyl-5-phenylimidazo[1,5-a]quinoline-3-carboxylate",
+    "iupac_name": "6097 ; C23H22N2O2 ; 358.433",
+    "category": "data not stored",
+    "index": 6097,
+    "formular": "C23H22N2O2",
+    "molecular_weight": 358.433,
+    "inChl": "1S/C23H22N2O2/c1-15-19(16-10-6-5-7-11-16)17-12-8-9-13-18(17)25-14-24-20(21(15)25)22(26)27-23(2,3)4/h5-14H,1-4H3",
+    "InChl_Key": "UYEASBDUDDPGFB-UHFFFAOYSA-N",
+    "SMILES": "Cc1c(-c2ccccc2)c2ccccc2n2cnc(C(=O)OC(C)(C)C)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6097",
+    "validation": "m_weight unsave, calculated(358.44100000000014)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "1-Benzyl-N-cyclohexyl-7-methoxy-4-oxo-1,4-dihydroquinoline-3-carboxamide",
+    "iupac_name": "4189 ; C24H26N2O3 ; 390.475",
+    "category": "cannabinodids",
+    "index": 4189,
+    "formular": "C24H26N2O3",
+    "molecular_weight": 390.475,
+    "inChl": "1S/C24H26N2O3/c1-29-19-12-13-20-22(14-19)26(15-17-8-4-2-5-9-17)16-21(23(20)27)24(28)25-18-10-6-3-7-11-18/h2,4-5,8-9,12-14,16,18H,3,6-7,10-11,15H2,1H3,(H,25,28)",
+    "InChl_Key": "NTVPQJZVGIVDJZ-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc2c(=O)c(C(=O)NC3CCCCC3)cn(Cc3ccccc3)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4189",
+    "validation": "m_weight unsave, calculated(390.4830000000003)"
+}

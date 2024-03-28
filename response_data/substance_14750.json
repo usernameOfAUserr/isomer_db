@@ -1,0 +1,13 @@
+{
+    "names": "2-Methyl-2-[(propan-2-yl)amino]cyclohexan-1-one",
+    "iupac_name": "14750 ; C10H19NO ; 169.264",
+    "category": "data not stored",
+    "index": 14750,
+    "formular": "C10H19NO",
+    "molecular_weight": 169.264,
+    "inChl": "1S/C10H19NO/c1-8(2)11-10(3)7-5-4-6-9(10)12/h8,11H,4-7H2,1-3H3",
+    "InChl_Key": "DEOHAIGJIBJSHJ-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NC1(C)CCCCC1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14750",
+    "validation": "m_weight unsave, calculated(169.268)"
+}

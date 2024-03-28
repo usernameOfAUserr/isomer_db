@@ -1,0 +1,13 @@
+{
+    "names": "sec-Buscaline ; SBU ; 4-sec-Butoxy-3,5-dimethoxyphenethylamine",
+    "iupac_name": "2-{4-[(Butan-2-yl)oxy]-3,5-dimethoxyphenyl}ethan-1-amine",
+    "category": "Phenetylamine",
+    "index": 10269,
+    "formular": "C14H23NO3",
+    "molecular_weight": 253.337,
+    "inChl": "1S/C14H23NO3/c1-5-10(2)18-14-12(16-3)8-11(6-7-15)9-13(14)17-4/h8-10H,5-7,15H2,1-4H3",
+    "InChl_Key": "KBNIGQYPTGSZSI-UHFFFAOYSA-N",
+    "SMILES": "CCC(C)Oc1c(OC)cc(CCN)cc1OC",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10269",
+    "validation": "m_weight unsave, calculated(253.34199999999996)"
+}

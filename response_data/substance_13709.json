@@ -1,0 +1,13 @@
+{
+    "names": "4-TFM-2,3-EDPEA",
+    "iupac_name": "2-[8-(Trifluoromethyl)-2,3-dihydro-1,4-benzodioxin-5-yl]ethan-1-amine",
+    "category": "data not stored",
+    "index": 13709,
+    "formular": "C11H12F3NO2",
+    "molecular_weight": 247.214,
+    "inChl": "1S/C11H12F3NO2/c12-11(13,14)8-2-1-7(3-4-15)9-10(8)17-6-5-16-9/h1-2H,3-6,15H2",
+    "InChl_Key": "VPHCDLYNPYCCNS-UHFFFAOYSA-N",
+    "SMILES": "NCCc1ccc(C(F)(F)F)c2c1OCCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13709",
+    "validation": "m_weight unsave, calculated(247.2159999999999)"
+}

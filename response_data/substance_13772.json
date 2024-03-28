@@ -1,0 +1,13 @@
+{
+    "names": "3-(5-Methyl-1-propyl-1,2,5,6-tetrahydropyridin-3-yl)-1H-pyrrolo[2,3-b]pyridine",
+    "iupac_name": "13772 ; C16H21N3 ; 255.358",
+    "category": "data not stored",
+    "index": 13772,
+    "formular": "C16H21N3",
+    "molecular_weight": 255.358,
+    "inChl": "1S/C16H21N3/c1-3-7-19-10-12(2)8-13(11-19)15-9-18-16-14(15)5-4-6-17-16/h4-6,8-9,12H,3,7,10-11H2,1-2H3,(H,17,18)",
+    "InChl_Key": "NKZDKQPQIGQBBB-UHFFFAOYSA-N",
+    "SMILES": "CCCN1CC(c2c[nH]c3ncccc23)=CC(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13772",
+    "validation": "m_weight unsave, calculated(255.36500000000004)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2C-B-3PIP-POMe",
+    "iupac_name": "5-(4-Bromo-2,5-dimethoxyphenyl)-2-(2-methoxyphenyl)piperidine",
+    "category": "Phenetylamine",
+    "index": 1237,
+    "formular": "C20H24BrNO3",
+    "molecular_weight": 406.313,
+    "inChl": "1S/C20H24BrNO3/c1-23-18-7-5-4-6-14(18)17-9-8-13(12-22-17)15-10-20(25-3)16(21)11-19(15)24-2/h4-7,10-11,13,17,22H,8-9,12H2,1-3H3",
+    "InChl_Key": "BDZXVOHNVCEDNQ-UHFFFAOYSA-N",
+    "SMILES": "COc1cc(C2CCC(c3ccccc3OC)NC2)c(OC)cc1Br",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1237",
+    "validation": "m_weight unsave, calculated(406.32000000000016)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2C-MPOM ; 2,5-Dimethoxy-4-(3-methoxyphenoxymethyl)phenethylamine",
+    "iupac_name": "2-{2,5-Dimethoxy-4-[(3-methoxyphenoxy)methyl]phenyl}ethan-1-amine",
+    "category": "Prophetic?",
+    "index": 7238,
+    "formular": "C18H23NO4",
+    "molecular_weight": 317.38,
+    "inChl": "1S/C18H23NO4/c1-20-15-5-4-6-16(11-15)23-12-14-10-17(21-2)13(7-8-19)9-18(14)22-3/h4-6,9-11H,7-8,12,19H2,1-3H3",
+    "InChl_Key": "CEOOPEZSTCUSTM-UHFFFAOYSA-N",
+    "SMILES": "COc1cccc(OCc2cc(OC)c(CCN)cc2OC)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7238",
+    "validation": "m_weight unsave, calculated(317.38500000000005)"
+}

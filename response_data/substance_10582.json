@@ -1,0 +1,13 @@
+{
+    "names": "4-NMe2-A ; 4-Dimethylaminoamphetamine",
+    "iupac_name": "4-(2-Aminopropyl)-N,N-dimethylaniline",
+    "category": "Phenetylamine",
+    "index": 10582,
+    "formular": "C11H18N2",
+    "molecular_weight": 178.274,
+    "inChl": "1S/C11H18N2/c1-9(12)8-10-4-6-11(7-5-10)13(2)3/h4-7,9H,8,12H2,1-3H3",
+    "InChl_Key": "RWZBJXQDQJZOLY-UHFFFAOYSA-N",
+    "SMILES": "CC(N)Cc1ccc(N(C)C)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10582",
+    "validation": "m_weight unsave, calculated(178.27899999999994)"
+}

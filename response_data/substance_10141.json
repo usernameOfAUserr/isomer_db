@@ -1,0 +1,13 @@
+{
+    "names": "\u03b1-DFM-3,4-DHPEA ; \u03b1-Difluoromethyl-3,4-dihydroxyphenethylamine",
+    "iupac_name": "4-(2-Amino-3,3-difluoropropyl)benzene-1,2-diol",
+    "category": "Phenetylamine",
+    "index": 10141,
+    "formular": "C9H11F2NO2",
+    "molecular_weight": 203.186,
+    "inChl": "1S/C9H11F2NO2/c10-9(11)6(12)3-5-1-2-7(13)8(14)4-5/h1-2,4,6,9,13-14H,3,12H2",
+    "InChl_Key": "FTKXOWOYHYYAJM-UHFFFAOYSA-N",
+    "SMILES": "NC(Cc1ccc(O)c(O)c1)C(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=10141",
+    "validation": "m_weight unsave, calculated(203.188)"
+}

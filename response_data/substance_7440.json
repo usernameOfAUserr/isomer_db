@@ -1,0 +1,13 @@
+{
+    "names": "T-NBOH6F ; N-(2-Hydroxy-6-fluorobenzyl)tryptamine",
+    "iupac_name": "3-Fluoro-2-({[2-(1H-indol-3-yl)ethyl]amino}methyl)phenol",
+    "category": "Tryptamine",
+    "index": 7440,
+    "formular": "C17H17FN2O",
+    "molecular_weight": 284.328,
+    "inChl": "1S/C17H17FN2O/c18-15-5-3-7-17(21)14(15)11-19-9-8-12-10-20-16-6-2-1-4-13(12)16/h1-7,10,19-21H,8-9,11H2",
+    "InChl_Key": "NMMWVASOCLIDJZ-UHFFFAOYSA-N",
+    "SMILES": "Oc1cccc(F)c1CNCCc1c[nH]c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7440",
+    "validation": "m_weight unsave, calculated(284.334)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "Ro4882224",
+    "iupac_name": "3,10-Dichloro-9H-imidazo[1,5-a][1,2,4]triazolo[1,5-d][1,4]benzodiazepine",
+    "category": "Aryldiazepine",
+    "index": 8260,
+    "formular": "C12H7Cl2N5",
+    "molecular_weight": 292.123,
+    "inChl": "1S/C12H7Cl2N5/c13-7-1-2-9-8(3-7)12-15-5-17-19(12)4-10-11(14)16-6-18(9)10/h1-3,5-6H,4H2",
+    "InChl_Key": "VVBYXJYBLBPAEN-UHFFFAOYSA-N",
+    "SMILES": "Clc1ccc2c(c1)-c1ncnn1Cc1c(Cl)ncn1-2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=8260",
+    "validation": "m_weight unsave, calculated(292.129)"
+}

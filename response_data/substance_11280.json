@@ -1,0 +1,13 @@
+{
+    "names": "SGT-2",
+    "iupac_name": "(4-Ethylphenyl)(1-pentyl-1H-indol-3-yl)methanone",
+    "category": "cannabinodids",
+    "index": 11280,
+    "formular": "C22H25NO",
+    "molecular_weight": 319.44,
+    "inChl": "1S/C22H25NO/c1-3-5-8-15-23-16-20(19-9-6-7-10-21(19)23)22(24)18-13-11-17(4-2)12-14-18/h6-7,9-14,16H,3-5,8,15H2,1-2H3",
+    "InChl_Key": "LRHIYDBTHCEKOF-UHFFFAOYSA-N",
+    "SMILES": "CCCCCn1cc(C(=O)c2ccc(CC)cc2)c2ccccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11280",
+    "validation": "m_weight unsave, calculated(319.4480000000001)"
+}

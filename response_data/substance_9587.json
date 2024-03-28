@@ -1,0 +1,13 @@
+{
+    "names": "Mitragynaline",
+    "iupac_name": "Methyl 3-ethyl-1-formyl-8-methoxy-4-oxo-4,6,7,12-tetrahydroindolo[2,3-a]quinolizine-2-carboxylate",
+    "category": "data not stored",
+    "index": 9587,
+    "formular": "C21H20N2O5",
+    "molecular_weight": 380.394,
+    "inChl": "1S/C21H20N2O5/c1-4-11-16(21(26)28-3)13(10-24)19-18-12(8-9-23(19)20(11)25)17-14(22-18)6-5-7-15(17)27-2/h5-7,10,22H,4,8-9H2,1-3H3",
+    "InChl_Key": "REAILSCOPNKOKV-UHFFFAOYSA-N",
+    "SMILES": "CCc1c(C(=O)OC)c(C=O)c2n(c1=O)CCc1c-2[nH]c2cccc(OC)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9587",
+    "validation": "m_weight unsave, calculated(380.40000000000003)"
+}

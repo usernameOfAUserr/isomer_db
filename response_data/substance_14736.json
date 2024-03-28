@@ -1,0 +1,13 @@
+{
+    "names": "1,1,1-Trifluoro-3-(2-nitrophenyl)-N-(propan-2-yl)propan-2-amine",
+    "iupac_name": "14736 ; C12H15F3N2O2 ; 276.255",
+    "category": "data not stored",
+    "index": 14736,
+    "formular": "C12H15F3N2O2",
+    "molecular_weight": 276.255,
+    "inChl": "1S/C12H15F3N2O2/c1-8(2)16-11(12(13,14)15)7-9-5-3-4-6-10(9)17(18)19/h3-6,8,11,16H,7H2,1-2H3",
+    "InChl_Key": "DYPVNUWJFPOUCG-UHFFFAOYSA-N",
+    "SMILES": "CC(C)NC(Cc1ccccc1[N+](=O)[O-])C(F)(F)F",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14736",
+    "validation": "m_weight unsave, calculated(276.25800000000004)"
+}

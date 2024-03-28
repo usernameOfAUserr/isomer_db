@@ -1,0 +1,13 @@
+{
+    "names": "N-Isobutylphenethylamine",
+    "iupac_name": "2-Methyl-N-(2-phenylethyl)propan-1-amine",
+    "category": "data not stored",
+    "index": 11164,
+    "formular": "C12H19N",
+    "molecular_weight": 177.286,
+    "inChl": "1S/C12H19N/c1-11(2)10-13-9-8-12-6-4-3-5-7-12/h3-7,11,13H,8-10H2,1-2H3",
+    "InChl_Key": "MYJFFRMEBNWEQO-UHFFFAOYSA-N",
+    "SMILES": "CC(C)CNCCc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11164",
+    "validation": "m_weight unsave, calculated(177.291)"
+}

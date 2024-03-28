@@ -1,0 +1,13 @@
+{
+    "names": "3-Me-PBCHP",
+    "iupac_name": "1-[2-(3-Methylphenyl)bicyclo[2.2.1]heptan-2-yl]piperidine",
+    "category": "Arylcycloalkylamine",
+    "index": 1717,
+    "formular": "C19H27N",
+    "molecular_weight": 269.424,
+    "inChl": "1S/C19H27N/c1-15-6-5-7-17(12-15)19(20-10-3-2-4-11-20)14-16-8-9-18(19)13-16/h5-7,12,16,18H,2-4,8-11,13-14H2,1H3",
+    "InChl_Key": "CZTXCFJJBYYGDL-UHFFFAOYSA-N",
+    "SMILES": "Cc1cccc(C2(N3CCCCC3)CC3CCC2C3)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1717",
+    "validation": "m_weight unsave, calculated(269.43199999999996)"
+}

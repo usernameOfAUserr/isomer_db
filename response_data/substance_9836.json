@@ -1,0 +1,13 @@
+{
+    "names": "MA-NMeThiophene3 ; N-(Thiophen-3-ylmethyl)-N-methylamphetamine",
+    "iupac_name": "N-Methyl-1-phenyl-N-[(thiophen-3-yl)methyl]propan-2-amine",
+    "category": "data not stored",
+    "index": 9836,
+    "formular": "C15H19NS",
+    "molecular_weight": 245.383,
+    "inChl": "1S/C15H19NS/c1-13(10-14-6-4-3-5-7-14)16(2)11-15-8-9-17-12-15/h3-9,12-13H,10-11H2,1-2H3",
+    "InChl_Key": "QXYGGLBIHAKOEE-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)N(C)Cc1ccsc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9836",
+    "validation": "m_weight unsave, calculated(245.391)"
+}

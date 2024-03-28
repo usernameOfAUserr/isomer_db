@@ -1,0 +1,13 @@
+{
+    "names": "2-(4-Azidophenyl)-N-benzyl-N-methylethan-1-amine",
+    "iupac_name": "14420 ; C16H18N4 ; 266.341",
+    "category": "data not stored",
+    "index": 14420,
+    "formular": "C16H18N4",
+    "molecular_weight": 266.341,
+    "inChl": "1S/C16H18N4/c1-20(13-15-5-3-2-4-6-15)12-11-14-7-9-16(10-8-14)18-19-17/h2-10H,11-13H2,1H3",
+    "InChl_Key": "RDQFIGROIBFWNK-UHFFFAOYSA-N",
+    "SMILES": "CN(CCc1ccc(N=[N+]=[N-])cc1)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14420",
+    "validation": "m_weight unsave, calculated(266.34799999999996)"
+}

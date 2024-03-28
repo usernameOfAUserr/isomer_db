@@ -1,0 +1,13 @@
+{
+    "names": "W-18",
+    "iupac_name": "4-Chloro-N-{1-[2-(4-nitrophenyl)ethyl]piperidin-2-ylidene}benzene-1-sulfonamide",
+    "category": "data not stored",
+    "index": 3084,
+    "formular": "C19H20ClN3O4S",
+    "molecular_weight": 421.898,
+    "inChl": "1S/C19H20ClN3O4S/c20-16-6-10-18(11-7-16)28(26,27)21-19-3-1-2-13-22(19)14-12-15-4-8-17(9-5-15)23(24)25/h4-11H,1-3,12-14H2",
+    "InChl_Key": "BKRSVROQVRTSND-UHFFFAOYSA-N",
+    "SMILES": "O=[N+]([O-])c1ccc(CCN2CCCCC2=NS(=O)(=O)c2ccc(Cl)cc2)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=3084",
+    "validation": "m_weight unsave, calculated(421.9060000000001)"
+}

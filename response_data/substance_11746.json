@@ -1,0 +1,13 @@
+{
+    "names": "DM-146",
+    "iupac_name": "tert-Butyl 5-methyl-6-oxo-8-(piperidin-1-yl)-5,6-dihydro-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate",
+    "category": "Aryldiazepine",
+    "index": 11746,
+    "formular": "C22H28N4O3",
+    "molecular_weight": 396.483,
+    "inChl": "1S/C22H28N4O3/c1-22(2,3)29-21(28)19-18-13-24(4)20(27)16-12-15(25-10-6-5-7-11-25)8-9-17(16)26(18)14-23-19/h8-9,12,14H,5-7,10-11,13H2,1-4H3",
+    "InChl_Key": "OYXXATFJACEJGE-UHFFFAOYSA-N",
+    "SMILES": "CN1Cc2c(C(=O)OC(C)(C)C)ncn2-c2ccc(N3CCCCC3)cc2C1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=11746",
+    "validation": "m_weight unsave, calculated(396.49100000000027)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "2-Bromosafrole",
+    "iupac_name": "5-(2-Bromopropyl)-2H-1,3-benzodioxole",
+    "category": "data not stored",
+    "index": 6895,
+    "formular": "C10H11BrO2",
+    "molecular_weight": 243.097,
+    "inChl": "1S/C10H11BrO2/c1-7(11)4-8-2-3-9-10(5-8)13-6-12-9/h2-3,5,7H,4,6H2,1H3",
+    "InChl_Key": "HRTRXPZBWBBZNP-UHFFFAOYSA-N",
+    "SMILES": "CC(Br)Cc1ccc2c(c1)OCO2",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=6895",
+    "validation": "m_weight unsave, calculated(243.09999999999994)"
+}
