@@ -1,5 +1,5 @@
 
-cd C:\Users\User\PycharmProjects\web_scraper REM this must be the location on the downloaded project
+cd C:\Users\User\PycharmProjects\web_scraper
 pip install asyncio
 pip install aiohttp
 pip install bs4
