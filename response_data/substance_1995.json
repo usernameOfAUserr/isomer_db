@@ -1,0 +1,13 @@
+{
+    "names": "Salvinorin C",
+    "iupac_name": "Methyl (2S,4aR,6aR,9S,10R,10aR,10bR)-9,10-bis(acetyloxy)-2-(furan-3-yl)-6a,10b-dimethyl-4-oxo-1,4,4a,5,6,6a,9,10,10a,10b-decahydro-2H-naphtho[2,1-c]pyran-7-carboxylate",
+    "category": "data not stored",
+    "index": 1995,
+    "formular": "C25H30O9",
+    "molecular_weight": 474.5,
+    "inChl": "1S/C25H30O9/c1-13(26)32-18-10-17(22(28)30-5)24(3)8-6-16-23(29)34-19(15-7-9-31-12-15)11-25(16,4)21(24)20(18)33-14(2)27/h7,9-10,12,16,18-21H,6,8,11H2,1-5H3/t16-,18-,19-,20-,21-,24-,25-/m0/s1",
+    "InChl_Key": "FQPFAKLWYQMQER-DZQZDKHXSA-N",
+    "SMILES": "COC(=O)C1=C[C@H](OC(C)=O)[C@H](OC(C)=O)[C@@H]2[C@@]3(C)C[C@@H](c4ccoc4)OC(=O)[C@@H]3CC[C@@]12C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=1995",
+    "validation": "m_weight unsave, calculated(474.50600000000026)"
+}

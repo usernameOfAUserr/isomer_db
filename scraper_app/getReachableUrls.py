@@ -218,7 +218,7 @@ def getReachableUrls():
     data = {
         "not_reachable": not_reachable
     }
-    with open("not_reachable_urls.json", "r") as file:
+    with open("not_reachable_urls.json", "w") as file:
         json.dump(data, file)
     data = {
         "new_ones": changes_accoure

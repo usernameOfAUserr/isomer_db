@@ -1,6 +1,14 @@
 document.addEventListener("DOMContentLoaded",function(){
-
-});
+    var select = document.getElementById('select');
+  
+    select.addEventListener('mouseenter', function() {
+      this.size = this.options.length;
+    });
+    
+    select.addEventListener('mouseleave', function() {
+      this.size = 1;
+    });
+  });
 var resetInterval; 
 function selectFunction(resetInterval){
 let select = document.querySelector('#select');
@@ -15,7 +23,6 @@ if(value != "massebereich"){
 }
 }
 
-
 function show_reset_progress(resetInterval){
     $.ajax({
         type: 'GET',
@@ -23,19 +30,20 @@ function show_reset_progress(resetInterval){
         success: function(response) {
             $(".progressbar").width(response.progress +"%");
             console.log(response.progress)
-            if (response.progress >= 100){
+            if (response.progress >= 95){
                 $(".progressbar").width("0%"); 
                 clearInterval(resetInterval);
                 document.querySelector('.progressbar').style['display'] = "none";
                 document.querySelector('.progress_message').style["display"]= "none"; 
                  var show_witz = document.querySelector('.show_witz')
+                 show_witz.style['display'] = "none";
                  try{  
                 var answer = document.querySelector('.answer');
                  answer.style["display"] = "flex";}
-                 catch{}
+                 catch{
+                    
+                 }
                 show_witz.style["display"] = "none";
-                 var answer = document.querySelector('.answer');
-                answer.style["display"] = "flex";
                 changeBackground();
                 var answer = document.querySelector('.answer');
                 if(answer != null){answer.style["display"] = "block";}

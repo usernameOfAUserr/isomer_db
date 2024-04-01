@@ -19,7 +19,7 @@ body, html {
 width: 100%;
 height: 1000%;
 position: relative;
-font-family: "Oswald", sans-serif;
+
 }
 .container ul{
     list-style-type: none;
@@ -35,10 +35,6 @@ opacity: 0.95;
 border: 2px solid white;
 }
 
-.search p{
-    font-size: 36px;
-    font-family: "Oswald", sans-serif;}
-
 select {
 font-size: 17.5px;
 position: absolute;
@@ -52,17 +48,22 @@ font-size: 20px;
 position: absolute;
 height: 10vh;
 width: 100%;
-top: 38%;
+top: 42.5%;
 right: 1%;
 font-family: "Oswald", sans-serif;
 }
 #search_field{
-
 margin-left: 30%;
 width: 25vw;
 }
+#search_field:hover{
+    border: 2px solid rgb(196, 179, 32);
+}
 #submit_button{font-size: 25px; border-radius: 20px; font-family: "Oswald", sans-serif;}
-
+#submit_button:hover{
+    color: white;
+    background-color: black;
+}
 #abweichung{
 position: absolute;
 display: none;
@@ -71,7 +72,8 @@ left: 30%;
 }
 
 
-.search p{position: relative; color: yellow; top: 1%; margin: 0px; z-index: 100;font-size: 25px; left: 28%;}
+.search p{position: relative; display:flex; justify-content:flex-end; align-content: center; font-weight: bold; color: rgb(15, 15, 15); top: 1%; margin: 0px; z-index: 100;font-size: 25px; left: 0%;  margin-top: 15px; padding: 0px; width: 67.5%; background-color:  yellow; padding-right: 10px;
+border-bottom-right-radius: 15px;} 
 
 .modi_div{
 font-family: "Oswald", sans-serif;
@@ -178,14 +180,17 @@ color: yellow;
     font-size: 20px;
     width: 100%;
     border: 1px solid white;
-    height: 3.5%;
+    padding:0px;
+    height: 5%;
     color: white;
-
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
 }
 
 .show_one ul li{
-        margin-left: 10px;
-        padding-top: 2px;
+        
         border: 0.5px solid white;
     }
 .show_one strong{

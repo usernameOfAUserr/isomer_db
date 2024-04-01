@@ -1,0 +1,13 @@
+{
+    "names": "Ephedrine ; \u03b2-Hydroxymethamphetamine",
+    "iupac_name": "(1R,2S)-2-(Methylamino)-1-phenylpropan-1-ol ; (1R,2S)-2-Methylamino-1-phenylpropan-1-ol",
+    "category": "Shulgin_Index",
+    "index": 2000,
+    "formular": "C10H15NO",
+    "molecular_weight": 165.232,
+    "inChl": "1S/C10H15NO/c1-8(11-2)10(12)9-6-4-3-5-7-9/h3-8,10-12H,1-2H3/t8-,10-/m0/s1",
+    "InChl_Key": "KWGRBVOPPLSCSI-WPRPVWTQSA-N",
+    "SMILES": "CN[C@@H](C)[C@H](O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2000",
+    "validation": "m_weight unsave, calculated(165.236)"
+}

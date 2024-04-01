@@ -1,0 +1,13 @@
+{
+    "names": "MA ; Methamphetamine",
+    "iupac_name": "N-Methyl-1-phenylpropan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 2002,
+    "formular": "C10H15N",
+    "molecular_weight": 149.233,
+    "inChl": "1S/C10H15N/c1-9(11-2)8-10-6-4-3-5-7-10/h3-7,9,11H,8H2,1-2H3",
+    "InChl_Key": "MYWUZJCMWCOHBA-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)Cc1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2002",
+    "validation": "m_weight unsave, calculated(149.23699999999997)"
+}

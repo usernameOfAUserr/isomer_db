@@ -1,0 +1,13 @@
+{
+    "names": "Methcathinone ; 2-(Methylamino)propanophenone ; Ephedrone ; \u03b2-Ketomethamphetamine ; METHCATH ; N-Methylcathinone",
+    "iupac_name": "2-(Methylamino)-1-phenylpropan-1-one",
+    "category": "Shulgin_Index",
+    "index": 2003,
+    "formular": "C10H13NO",
+    "molecular_weight": 163.216,
+    "inChl": "1S/C10H13NO/c1-8(11-2)10(12)9-6-4-3-5-7-9/h3-8,11H,1-2H3",
+    "InChl_Key": "LPLLVINFLBSFRP-UHFFFAOYSA-N",
+    "SMILES": "CNC(C)C(=O)c1ccccc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2003",
+    "validation": "m_weight unsave, calculated(163.21999999999997)"
+}

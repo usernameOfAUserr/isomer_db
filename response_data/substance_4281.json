@@ -1,0 +1,13 @@
+{
+    "names": "WO 2007/061360 #14",
+    "iupac_name": "N-(Cyclobutylmethyl)-6-[(pyridin-2-yl)methoxy]-3-({4-[(1H-1,2,3-triazol-1-yl)methyl]naphthalene-1-carbonyl}amino)pyridine-2-carboxamide",
+    "category": "cannabinodids",
+    "index": 4281,
+    "formular": "C31H29N7O3",
+    "molecular_weight": 547.607,
+    "inChl": "1S/C31H29N7O3/c39-30(26-12-11-22(19-38-17-16-34-37-38)24-9-1-2-10-25(24)26)35-27-13-14-28(41-20-23-8-3-4-15-32-23)36-29(27)31(40)33-18-21-6-5-7-21/h1-4,8-17,21H,5-7,18-20H2,(H,33,40)(H,35,39)",
+    "InChl_Key": "KDUWUKRFNWMTAI-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCC1CCC1)c1nc(OCc2ccccn2)ccc1NC(=O)c1ccc(Cn2ccnn2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4281",
+    "validation": "m_weight unsave, calculated(547.619)"
+}

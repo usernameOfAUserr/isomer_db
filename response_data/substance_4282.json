@@ -1,0 +1,13 @@
+{
+    "names": "4,4-Difluoro-1-({3-[4-(2-fluoro-5-methoxyphenyl)-1H-imidazol-2-yl]phenyl}methyl)piperidine",
+    "iupac_name": "4282 ; C22H22F3N3O ; 401.425",
+    "category": "cannabinodids",
+    "index": 4282,
+    "formular": "C22H22F3N3O",
+    "molecular_weight": 401.425,
+    "inChl": "1S/C22H22F3N3O/c1-29-17-5-6-19(23)18(12-17)20-13-26-21(27-20)16-4-2-3-15(11-16)14-28-9-7-22(24,25)8-10-28/h2-6,11-13H,7-10,14H2,1H3,(H,26,27)",
+    "InChl_Key": "LLCQMLXZDRRZIF-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(F)c(-c2c[nH]c(-c3cccc(CN4CCC(F)(F)CC4)c3)n2)c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4282",
+    "validation": "m_weight unsave, calculated(401.43200000000024)"
+}

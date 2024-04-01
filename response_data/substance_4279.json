@@ -1,0 +1,13 @@
+{
+    "names": "3-({4-[(Methanesulfinyl)methyl]naphthalene-1-carbonyl}amino)-6-methoxy-N-[(oxan-4-yl)methyl]pyridine-2-carboxamide",
+    "iupac_name": "4279 ; C26H29N3O5S ; 495.591",
+    "category": "cannabinodids",
+    "index": 4279,
+    "formular": "C26H29N3O5S",
+    "molecular_weight": 495.591,
+    "inChl": "1S/C26H29N3O5S/c1-33-23-10-9-22(24(29-23)26(31)27-15-17-11-13-34-14-12-17)28-25(30)21-8-7-18(16-35(2)32)19-5-3-4-6-20(19)21/h3-10,17H,11-16H2,1-2H3,(H,27,31)(H,28,30)",
+    "InChl_Key": "RTEBTDAJVQZWBC-UHFFFAOYSA-N",
+    "SMILES": "COc1ccc(NC(=O)c2ccc(CS(C)=O)c3ccccc23)c(C(=O)NCC2CCOCC2)n1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4279",
+    "validation": "m_weight unsave, calculated(495.60100000000017)"
+}

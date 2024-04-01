@@ -1,0 +1,13 @@
+{
+    "names": "WO 2002/042248 #4",
+    "iupac_name": "1-(Hexyloxy)-4-(naphthalene-1-sulfonyl)naphthalene",
+    "category": "cannabinodids",
+    "index": 4290,
+    "formular": "C26H26O3S",
+    "molecular_weight": 418.548,
+    "inChl": "1S/C26H26O3S/c1-2-3-4-9-19-29-24-17-18-26(23-15-8-7-14-22(23)24)30(27,28)25-16-10-12-20-11-5-6-13-21(20)25/h5-8,10-18H,2-4,9,19H2,1H3",
+    "InChl_Key": "UVSWWEGGHUASDI-UHFFFAOYSA-N",
+    "SMILES": "CCCCCCOc1ccc(S(=O)(=O)c2cccc3ccccc23)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4290",
+    "validation": "m_weight unsave, calculated(418.55800000000016)"
+}

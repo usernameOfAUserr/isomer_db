@@ -1,0 +1,13 @@
+{
+    "names": "NNDMA ; N,N-Dimethylamphetamine ; DIMETH",
+    "iupac_name": "N,N-Dimethyl-1-phenylpropan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 2007,
+    "formular": "C11H17N",
+    "molecular_weight": 163.259,
+    "inChl": "1S/C11H17N/c1-10(12(2)3)9-11-7-5-4-6-8-11/h4-8,10H,9H2,1-3H3",
+    "InChl_Key": "OBDSVYOSYSKVMX-UHFFFAOYSA-N",
+    "SMILES": "CC(Cc1ccccc1)N(C)C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=2007",
+    "validation": "m_weight unsave, calculated(163.264)"
+}

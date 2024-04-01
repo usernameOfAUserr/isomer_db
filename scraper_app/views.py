@@ -1,5 +1,5 @@
 import json
-from .getData import start
+from .getData import getData
 from django.shortcuts import render
 import os
 import logging
@@ -12,8 +12,13 @@ import re
 from bs4 import BeautifulSoup
 from .getReachableUrls import getReachableUrls
 from django.template.defaultfilters import stringfilter
+import aiohttp, asyncio
 
 # Create your views here.
+
+
+getDataObject = getData()
+
 
 def scraper(request):
     if request.method == "POST":
@@ -73,20 +78,13 @@ def reset_database(request):
         shutil.rmtree(json_source_folder)
     except:
         pass
-    start()
+    getDataObject.start()
     add_all_to_db(request)
     
 def request_how_many_json_file(request):
-    json_source_folder = ".\\response_data"
-    try:
-        how_many = 0
-        dir = os.listdir(json_source_folder)
-        for files in dir:
-            how_many = how_many + 1
-        progress = (how_many / 14500) * 100
-        return JsonResponse({"progress":progress})
-    except:
-        print("no dir there")
+    progress = getDataObject.getProgress()
+    return JsonResponse({"progress":progress})
+    
 
 def search_for_newcomers(request):
     new_ones = getReachableUrls()
@@ -104,14 +102,27 @@ def search_for_newcomers(request):
     print("stroed in db")
     return JsonResponse({"newSubstances": new_ones})
 
+################################################################
+#Get joke
+
+async def get_witz_asynchron(url):
+    async with aiohttp.ClientSession() as session:  
+        try:
+            async with session.get(url) as response:
+                data = await response.json()
+                witz = data[0]["text"]
+                return witz
+        except Exception as e:  
+            return {"error": str(e)}
+
+async def get_witz_task(session, url):
+    async with session.get(url) as response:
+        data = await response.json()
+        witz = data[0]["text"]
+        return witz
+
 def get_witz(request):
-    parameters ={
-        "limit":1,
-        "category":"funny",
-        "language":"de"
-    }
     url = "https://witzapi.de/api/joke/"
-    data_json = requests.get(url)
-    data = data_json.json()
-    witz = data[0]["text"]
-    return JsonResponse({"witz":witz})
+    witz = asyncio.run(get_witz_asynchron(url))  
+    return JsonResponse({"witz": witz})
+#####################################################################

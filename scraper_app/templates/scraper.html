@@ -29,6 +29,7 @@ var oldSource = "{% static 'videos/background.mp4' %}";
  }
  video.load();
  }
+
  </script>
     <title>Webscraper</title>
 </head>
@@ -41,7 +42,7 @@ var oldSource = "{% static 'videos/background.mp4' %}";
     <div class="search">
         <p>Search for substances</p>
         <form action="" method="post" id="form">
-        <select id="select" onchange="selectFunction() " name="select">
+        <select id="select" onchange="selectFunction()" name="select">
             <option value="SMILES">SMILES</option>
             <option value="summenformel">molecular formula</option>
             <option value="massebereich">molecular mass</option>

@@ -1,0 +1,13 @@
+{
+    "names": "N-(Cyclobutylmethyl)-3-{[4-(methoxymethyl)naphthalene-1-carbonyl]amino}pyridine-2-carboxamide",
+    "iupac_name": "4277 ; C24H25N3O3 ; 403.474",
+    "category": "cannabinodids",
+    "index": 4277,
+    "formular": "C24H25N3O3",
+    "molecular_weight": 403.474,
+    "inChl": "1S/C24H25N3O3/c1-30-15-17-11-12-20(19-9-3-2-8-18(17)19)23(28)27-21-10-5-13-25-22(21)24(29)26-14-16-6-4-7-16/h2-3,5,8-13,16H,4,6-7,14-15H2,1H3,(H,26,29)(H,27,28)",
+    "InChl_Key": "ZYXHCWAYPIYTQW-UHFFFAOYSA-N",
+    "SMILES": "COCc1ccc(C(=O)Nc2cccnc2C(=O)NCC2CCC2)c2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4277",
+    "validation": "m_weight unsave, calculated(403.48200000000026)"
+}

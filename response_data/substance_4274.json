@@ -1,0 +1,13 @@
+{
+    "names": "N-(Cyclohexylmethyl)-3-[(naphthalene-1-carbonyl)amino]pyrazine-2-carboxamide",
+    "iupac_name": "4274 ; C23H24N4O2 ; 388.462",
+    "category": "cannabinodids",
+    "index": 4274,
+    "formular": "C23H24N4O2",
+    "molecular_weight": 388.462,
+    "inChl": "1S/C23H24N4O2/c28-22(19-12-6-10-17-9-4-5-11-18(17)19)27-21-20(24-13-14-25-21)23(29)26-15-16-7-2-1-3-8-16/h4-6,9-14,16H,1-3,7-8,15H2,(H,26,29)(H,25,27,28)",
+    "InChl_Key": "NFKFHKPFGGDEGL-UHFFFAOYSA-N",
+    "SMILES": "O=C(NCC1CCCCC1)c1nccnc1NC(=O)c1cccc2ccccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4274",
+    "validation": "m_weight unsave, calculated(388.47100000000023)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "WO 2003/066603 #93",
+    "iupac_name": "Cyclobutylmethyl 2-({[(2-hydroxy-2-methylpropyl)carbamoyl]oxy}methyl)-5,7-dimethyl-3-[2-(methylsulfamoyl)phenyl]-4-oxo-3,4-dihydroquinazoline-6-carboxylate",
+    "category": "cannabinodids",
+    "index": 4295,
+    "formular": "C29H36N4O8S",
+    "molecular_weight": 600.683,
+    "inChl": "1S/C29H36N4O8S/c1-17-13-20-25(18(2)24(17)27(35)40-14-19-9-8-10-19)26(34)33(21-11-6-7-12-22(21)42(38,39)30-5)23(32-20)15-41-28(36)31-16-29(3,4)37/h6-7,11-13,19,30,37H,8-10,14-16H2,1-5H3,(H,31,36)",
+    "InChl_Key": "MVAFBWKECKWYGZ-UHFFFAOYSA-N",
+    "SMILES": "CNS(=O)(=O)c1ccccc1-n1c(COC(=O)NCC(C)(C)O)nc2cc(C)c(C(=O)OCC3CCC3)c(C)c2c1=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=4295",
+    "validation": "m_weight unsave, calculated(600.6940000000001)"
+}
