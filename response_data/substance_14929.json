@@ -1,0 +1,13 @@
+{
+    "names": "d-Lysergic acid N-2,2-dimethylethanol amide",
+    "iupac_name": "N-(2-Hydroxy-2-methylpropyl)-6-methyl-9,10-didehydroergoline-8\u03b2-carboxamide ; (8\u03b2)-N-(2-Hydroxy-2-methylpropyl)-6-methyl-9,10-didehydroergoline-8-carboxamide",
+    "category": "data not stored",
+    "index": 14929,
+    "formular": "C20H25N3O2",
+    "molecular_weight": 339.431,
+    "inChl": "1S/C20H25N3O2/c1-20(2,25)11-22-19(24)13-7-15-14-5-4-6-16-18(14)12(9-21-16)8-17(15)23(3)10-13/h4-7,9,13,17,21,25H,8,10-11H2,1-3H3,(H,22,24)/t13-,17-/m1/s1",
+    "InChl_Key": "JOCHBOHTWRAUCL-CXAGYDPISA-N",
+    "SMILES": "CN1C[C@H](C(=O)NCC(C)(C)O)C=C2c3cccc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14929",
+    "validation": "m_weight unsave, calculated(339.4390000000001)"
+}

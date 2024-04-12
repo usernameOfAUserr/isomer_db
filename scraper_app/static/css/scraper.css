@@ -197,3 +197,106 @@ color: yellow;
         font-size: 25px;
         color: rgb(226, 212, 14);
         font-family: "Oswald", sans-serif;    }
+
+
+#message_bar {
+    width: 30%;
+    height: 0%;
+    position: relative;
+    left: 35%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: end;
+    animation-name: show_message_bar;
+    animation-duration: 3s;
+    background-color: none;
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 100px;
+    color: black;
+    
+    }
+#skull_video{
+    position: absolute;
+    top: 7.5%;
+    opacity: 0.7;
+}
+
+#message_div{
+    padding: 20px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: row;
+    animation-name: message_div;
+    font-size: 20px;
+    color: white;
+    animation-duration: 3.8s;
+    width: 50%;
+    position: absolute;
+    height: 20%;
+    background-color: black;
+    left: 25%;
+    top: 1.32%;
+    border: 1.5px solid white;
+}
+
+@keyframes show_message_bar{
+    0%{
+        height: 0%;
+        background-color: none;
+    }
+    15%{
+        height: 9%;
+        background-color: none;
+    }
+    49%{
+        background-color: none;
+    }
+    50%{
+       
+    }
+    80%{
+        height: 9%;
+    }
+    100%{
+        height: 0%;
+        background-color: none;
+    }
+}
+@keyframes message_div{
+    0%{
+        display: none;
+    }
+    70%{
+        display: none;
+    }
+    80%{
+        display: flex;
+        opacity: 0;
+    }
+    100%{
+        opacity: 100;
+    }
+}
+
+#dismis_message{
+    position: absolute;
+    font-size: 30px;
+    top: 0%;
+    width: 100%;
+    left: 0%;
+    height: 50px;
+    background-color: rgb(221, 42, 10);
+}
+#bring_message{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    top: 5%;
+    justify-content: center;
+    font-size: 20px;
+}

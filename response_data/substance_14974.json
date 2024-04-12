@@ -1,0 +1,13 @@
+{
+    "names": "2F-MBZP",
+    "iupac_name": "1-[(2-Fluorophenyl)methyl]-4-methylpiperazine",
+    "category": "data not stored",
+    "index": 14974,
+    "formular": "C12H17FN2",
+    "molecular_weight": 208.275,
+    "inChl": "1S/C12H17FN2/c1-14-6-8-15(9-7-14)10-11-4-2-3-5-12(11)13/h2-5H,6-10H2,1H3",
+    "InChl_Key": "FPSSOSDLJGHUJK-UHFFFAOYSA-N",
+    "SMILES": "CN1CCN(Cc2ccccc2F)CC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14974",
+    "validation": "m_weight unsave, calculated(208.28)"
+}

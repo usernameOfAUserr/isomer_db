@@ -1,0 +1,13 @@
+{
+    "names": "7-Fluorotryptamine",
+    "iupac_name": "2-(7-Fluoro-1H-indol-3-yl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14912,
+    "formular": "C10H11FN2",
+    "molecular_weight": 178.206,
+    "inChl": "1S/C10H11FN2/c11-9-3-1-2-8-7(4-5-12)6-13-10(8)9/h1-3,6,13H,4-5,12H2",
+    "InChl_Key": "QRAWNNQNLQPNIZ-UHFFFAOYSA-N",
+    "SMILES": "NCCc1c[nH]c2c(F)cccc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14912",
+    "validation": "m_weight unsave, calculated(178.20999999999998)"
+}

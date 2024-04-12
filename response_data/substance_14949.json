@@ -1,0 +1,13 @@
+{
+    "names": "ADB-5Br-BUTINACA-COOH",
+    "iupac_name": "N-(5-Bromo-1-butyl-1H-indazole-3-carbonyl)-3-methyl-L-valine ; (2S)-2-[(5-Bromo-1-butyl-1H-indazole-3-carbonyl)amino]-3,3-dimethylbutanoic acid",
+    "category": "Cannabinoid",
+    "index": 14949,
+    "formular": "C18H24BrN3O3",
+    "molecular_weight": 410.305,
+    "inChl": "1S/C18H24BrN3O3/c1-5-6-9-22-13-8-7-11(19)10-12(13)14(21-22)16(23)20-15(17(24)25)18(2,3)4/h7-8,10,15H,5-6,9H2,1-4H3,(H,20,23)(H,24,25)/t15-/m1/s1",
+    "InChl_Key": "PIZZIEOWAWWAAK-OAHLLOKOSA-N",
+    "SMILES": "CCCCn1nc(C(=O)N[C@H](C(=O)O)C(C)(C)C)c2cc(Br)ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14949",
+    "validation": "m_weight unsave, calculated(410.3120000000002)"
+}

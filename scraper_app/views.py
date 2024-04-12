@@ -64,7 +64,7 @@ def add_all_to_db(request):
                 json_content = json.load(json_file)
                 file_name = Substance(names=json_content["names"], iupac_names=json_content["iupac_name"], id=json_content["index"], formular=json_content["formular"],
                                       molecular_weight=json_content["molecular_weight"], inchl=json_content["inChl"], inchl_key=json_content["InChl_Key"], smiles=json_content["SMILES"],
-                                      category_tag=json_content["category"])
+                                      category_tag=json_content["category"], url=json_content["url"]) 
                 file_name.save()
         db = json_substance.objects.all()
         return render(request, "scraper.html",{
@@ -126,3 +126,8 @@ def get_witz(request):
     witz = asyncio.run(get_witz_asynchron(url))  
     return JsonResponse({"witz": witz})
 #####################################################################
+def get_smile_from_id(request):
+    if request.method == "GET":
+        id = request.GET.get('id')
+        sub_name = Substance.objects.get(id=id)
+        return JsonResponse({"sub_name":sub_name})

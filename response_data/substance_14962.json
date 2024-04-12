@@ -1,0 +1,13 @@
+{
+    "names": "5Br-INACA",
+    "iupac_name": "5-Bromo-1H-indazole-3-carboxamide",
+    "category": "Cannabinoid",
+    "index": 14962,
+    "formular": "C8H6BrN3O",
+    "molecular_weight": 240.057,
+    "inChl": "1S/C8H6BrN3O/c9-4-1-2-6-5(3-4)7(8(10)13)12-11-6/h1-3H,(H2,10,13)(H,11,12)",
+    "InChl_Key": "BLPIUDHMDGSMME-UHFFFAOYSA-N",
+    "SMILES": "NC(=O)c1n[nH]c2ccc(Br)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14962",
+    "validation": "m_weight unsave, calculated(240.06)"
+}

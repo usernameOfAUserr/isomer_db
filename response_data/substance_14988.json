@@ -1,0 +1,13 @@
+{
+    "names": "ADB-3TMS-PRINACA",
+    "iupac_name": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-1-[3-(trimethylsilyl)propyl]-1H-indazole-3-carboxamide",
+    "category": "Cannabinoid",
+    "index": 14988,
+    "formular": "C20H32N4O2Si",
+    "molecular_weight": 388.579,
+    "inChl": "1S/C20H32N4O2Si/c1-20(2,3)17(18(21)25)22-19(26)16-14-10-7-8-11-15(14)24(23-16)12-9-13-27(4,5)6/h7-8,10-11,17H,9,12-13H2,1-6H3,(H2,21,25)(H,22,26)/t17-/m1/s1",
+    "InChl_Key": "LJKMOYFTWIBFJI-QGZVFWFLSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(CCC[Si](C)(C)C)c2ccccc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14988",
+    "validation": "m_weight unsave, calculated(388.58800000000014)"
+}

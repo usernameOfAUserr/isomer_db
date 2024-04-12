@@ -1,0 +1,13 @@
+{
+    "names": "5-Butyltryptamine",
+    "iupac_name": "2-(5-Butyl-1H-indol-3-yl)ethan-1-amine",
+    "category": "Tryptamine",
+    "index": 14898,
+    "formular": "C14H20N2",
+    "molecular_weight": 216.322,
+    "inChl": "1S/C14H20N2/c1-2-3-4-11-5-6-14-13(9-11)12(7-8-15)10-16-14/h5-6,9-10,16H,2-4,7-8,15H2,1H3",
+    "InChl_Key": "LEVMBRDBNSGBQA-UHFFFAOYSA-N",
+    "SMILES": "CCCCc1ccc2[nH]cc(CCN)c2c1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14898",
+    "validation": "m_weight unsave, calculated(216.32799999999997)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-Desethyl metonitazene",
+    "iupac_name": "N-Ethyl-2-{2-[(4-methoxyphenyl)methyl]-5-nitro-1H-benzimidazol-1-yl}ethan-1-amine",
+    "category": "data not stored",
+    "index": 14978,
+    "formular": "C19H22N4O3",
+    "molecular_weight": 354.403,
+    "inChl": "1S/C19H22N4O3/c1-3-20-10-11-22-18-9-6-15(23(24)25)13-17(18)21-19(22)12-14-4-7-16(26-2)8-5-14/h4-9,13,20H,3,10-12H2,1-2H3",
+    "InChl_Key": "IKAGAOZPALXGDX-UHFFFAOYSA-N",
+    "SMILES": "CCNCCn1c(Cc2ccc(OC)cc2)nc2cc([N+](=O)[O-])ccc21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14978",
+    "validation": "m_weight unsave, calculated(354.41000000000014)"
+}

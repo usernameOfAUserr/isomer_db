@@ -1,0 +1,13 @@
+{
+    "names": "5-Methyl-1,3,4,5-tetrahydropyrrolo[4,3,2-de]quinolin-6-ol",
+    "iupac_name": "14914 ; C11H12N2O ; 188.226",
+    "category": "data not stored",
+    "index": 14914,
+    "formular": "C11H12N2O",
+    "molecular_weight": 188.226,
+    "inChl": "1S/C11H12N2O/c1-13-5-4-7-6-12-8-2-3-9(14)11(13)10(7)8/h2-3,6,12,14H,4-5H2,1H3",
+    "InChl_Key": "YHBSJCCUQUORCZ-UHFFFAOYSA-N",
+    "SMILES": "CN1CCc2c[nH]c3ccc(O)c1c23",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14914",
+    "validation": "m_weight unsave, calculated(188.23000000000002)"
+}

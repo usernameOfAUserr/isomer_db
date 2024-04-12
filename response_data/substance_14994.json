@@ -1,0 +1,13 @@
+{
+    "names": "CHM-FUBIATA",
+    "iupac_name": "N-(Cyclohexylmethyl)-2-{1-[(4-fluorophenyl)methyl]-1H-indol-3-yl}acetamide",
+    "category": "Cannabinoid",
+    "index": 14994,
+    "formular": "C24H27FN2O",
+    "molecular_weight": 378.482,
+    "inChl": "1S/C24H27FN2O/c25-21-12-10-19(11-13-21)16-27-17-20(22-8-4-5-9-23(22)27)14-24(28)26-15-18-6-2-1-3-7-18/h4-5,8-13,17-18H,1-3,6-7,14-16H2,(H,26,28)",
+    "InChl_Key": "AOUXUOYCTNNOND-UHFFFAOYSA-N",
+    "SMILES": "O=C(Cc1cn(Cc2ccc(F)cc2)c2ccccc12)NCC1CCCCC1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14994",
+    "validation": "m_weight unsave, calculated(378.49100000000027)"
+}

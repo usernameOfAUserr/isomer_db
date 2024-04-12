@@ -1,0 +1,13 @@
+{
+    "names": "5F-ADB-5BR-PINACA",
+    "iupac_name": "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-5-bromo-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+    "category": "Cannabinoid",
+    "index": 14954,
+    "formular": "C19H26BrFN4O2",
+    "molecular_weight": 441.338,
+    "inChl": "1S/C19H26BrFN4O2/c1-19(2,3)16(17(22)26)23-18(27)15-13-11-12(20)7-8-14(13)25(24-15)10-6-4-5-9-21/h7-8,11,16H,4-6,9-10H2,1-3H3,(H2,22,26)(H,23,27)/t16-/m1/s1",
+    "InChl_Key": "NFPAJGRKUHSQLR-MRXNPFEDSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1nn(CCCCCF)c2ccc(Br)cc12)C(N)=O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14954",
+    "validation": "m_weight unsave, calculated(441.34500000000025)"
+}

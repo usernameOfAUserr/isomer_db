@@ -1,0 +1,13 @@
+{
+    "names": "1-Cyclopropylmethyl-psilocin",
+    "iupac_name": "1-(Cyclopropylmethyl)-3-[2-(dimethylamino)ethyl]-1H-indol-4-ol",
+    "category": "Tryptamine",
+    "index": 14891,
+    "formular": "C16H22N2O",
+    "molecular_weight": 258.359,
+    "inChl": "1S/C16H22N2O/c1-17(2)9-8-13-11-18(10-12-6-7-12)14-4-3-5-15(19)16(13)14/h3-5,11-12,19H,6-10H2,1-2H3",
+    "InChl_Key": "SJJZDXFWNBMUPH-UHFFFAOYSA-N",
+    "SMILES": "CN(C)CCc1cn(CC2CC2)c2cccc(O)c12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14891",
+    "validation": "m_weight unsave, calculated(258.36499999999995)"
+}

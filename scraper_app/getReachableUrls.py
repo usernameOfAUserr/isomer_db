@@ -196,13 +196,13 @@ async def find_not_reachable_urls(session, url):
 async def manage(urls):
    print(f"Length of urls: {len(urls)}")
    timeout = aiohttp.ClientTimeout(total=None, connect=None, sock_connect=None, sock_read=60)
-   async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(limit=10), timeout=timeout) as session:
+   async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(limit=30), timeout=timeout) as session:
         tasks = [find_not_reachable_urls(session, url) for url in urls]
         results = await asyncio.gather(*tasks)
 
 
 def getReachableUrls():
-    
+    counter = 0
     with open("not_reachable_urls.json", "r") as json_file:
         file = json.load(json_file)
     previous_not_reachable = file["not_reachable"]

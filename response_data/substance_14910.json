@@ -1,0 +1,13 @@
+{
+    "names": "2,7-Dimethyl-4-fluorotryptamine",
+    "iupac_name": "2-(4-Fluoro-2,7-dimethyl-1H-indol-3-yl)ethan-1-amine",
+    "category": "data not stored",
+    "index": 14910,
+    "formular": "C12H15FN2",
+    "molecular_weight": 206.259,
+    "inChl": "1S/C12H15FN2/c1-7-3-4-10(13)11-9(5-6-14)8(2)15-12(7)11/h3-4,15H,5-6,14H2,1-2H3",
+    "InChl_Key": "BAJZCZBLABINHZ-UHFFFAOYSA-N",
+    "SMILES": "Cc1[nH]c2c(C)ccc(F)c2c1CCN",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14910",
+    "validation": "m_weight unsave, calculated(206.26399999999998)"
+}

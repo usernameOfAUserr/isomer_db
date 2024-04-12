@@ -1,0 +1,13 @@
+{
+    "names": "Medetomidine",
+    "iupac_name": "4-[1-(2,3-Dimethylphenyl)ethyl]-1H-imidazole",
+    "category": "data not stored",
+    "index": 14989,
+    "formular": "C13H16N2",
+    "molecular_weight": 200.28,
+    "inChl": "1S/C13H16N2/c1-9-5-4-6-12(10(9)2)11(3)13-7-14-8-15-13/h4-8,11H,1-3H3,(H,14,15)",
+    "InChl_Key": "CUHVIMMYOGQXCV-UHFFFAOYSA-N",
+    "SMILES": "Cc1cccc(C(C)c2c[nH]cn2)c1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14989",
+    "validation": "m_weight unsave, calculated(200.28500000000003)"
+}

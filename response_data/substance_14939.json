@@ -1,0 +1,13 @@
+{
+    "names": "14-Ethoxymetopon",
+    "iupac_name": "(5\u03b1)-14-Ethoxy-3-hydroxy-5,17-dimethyl-4,5-epoxymorphinan-6-one",
+    "category": "data not stored",
+    "index": 14939,
+    "formular": "C20H25NO4",
+    "molecular_weight": 343.417,
+    "inChl": "1S/C20H25NO4/c1-4-24-20-8-7-15(23)18(2)19(20)9-10-21(3)14(20)11-12-5-6-13(22)17(25-18)16(12)19/h5-6,14,22H,4,7-11H2,1-3H3/t14-,18+,19+,20-/m1/s1",
+    "InChl_Key": "LDTUYTORBPKTNO-QRKUABHPSA-N",
+    "SMILES": "CCO[C@@]12CCC(=O)[C@]3(C)Oc4c(O)ccc5c4[C@@]31CCN(C)[C@@H]2C5",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14939",
+    "validation": "m_weight unsave, calculated(343.42300000000006)"
+}

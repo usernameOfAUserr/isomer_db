@@ -1,0 +1,13 @@
+{
+    "names": "d-Lysergic acid 2,6-lupetidide",
+    "iupac_name": "(2,6-Dimethylpiperidin-1-yl)(6-methyl-9,10-didehydroergolin-8\u03b2-yl)methanone ; (2,6-Dimethylpiperidin-1-yl)[(8\u03b2)-6-methyl-9,10-didehydroergolin-8-yl]methanone",
+    "category": "data not stored",
+    "index": 14930,
+    "formular": "C23H29N3O",
+    "molecular_weight": 363.496,
+    "inChl": "1S/C23H29N3O/c1-14-6-4-7-15(2)26(14)23(27)17-10-19-18-8-5-9-20-22(18)16(12-24-20)11-21(19)25(3)13-17/h5,8-10,12,14-15,17,21,24H,4,6-7,11,13H2,1-3H3/t14?,15?,17-,21-/m1/s1",
+    "InChl_Key": "CMKPYURVQLXCIL-FGLRIPBYSA-N",
+    "SMILES": "CC1CCCC(C)N1C(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14930",
+    "validation": "m_weight unsave, calculated(363.50500000000017)"
+}

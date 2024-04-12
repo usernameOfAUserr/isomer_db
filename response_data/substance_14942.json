@@ -1,0 +1,13 @@
+{
+    "names": "5-Bromo-1-[(4-fluorophenyl)methyl]-4-hydroxy-6-methyl-2-oxo-1,2-dihydropyridine-3-carboxamide",
+    "iupac_name": "14942 ; C14H12BrFN2O3 ; 355.159",
+    "category": "data not stored",
+    "index": 14942,
+    "formular": "C14H12BrFN2O3",
+    "molecular_weight": 355.159,
+    "inChl": "1S/C14H12BrFN2O3/c1-7-11(15)12(19)10(13(17)20)14(21)18(7)6-8-2-4-9(16)5-3-8/h2-5,19H,6H2,1H3,(H2,17,20)",
+    "InChl_Key": "QBWYOAFQPWOLEA-UHFFFAOYSA-N",
+    "SMILES": "Cc1c(Br)c(O)c(C(N)=O)c(=O)n1Cc1ccc(F)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14942",
+    "validation": "m_weight unsave, calculated(355.1630000000001)"
+}

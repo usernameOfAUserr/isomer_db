@@ -1,69 +1,18 @@
 Watching for file changes with StatReloader
-Exception in thread django-main-thread:
-Traceback (most recent call last):
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
-    self.run()
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
-    self._target(*self._args, **self._kwargs)
-  File "C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\autoreload.py", line 64, in wrapper
-    fn(*args, **kwargs)
-  File "C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\management\commands\runserver.py", line 133, in inner_run
-    self.check(display_num_errors=True)
-  File "C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\management\base.py", line 486, in check
-    all_issues = checks.run_checks(
-                 ^^^^^^^^^^^^^^^^^^
-  File "C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\checks\registry.py", line 88, in run_checks
-    new_errors = check(app_configs=app_configs, databases=databases)
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\checks\urls.py", line 42, in check_url_namespaces_unique
-    all_namespaces = _load_all_namespaces(resolver)
-                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\checks\urls.py", line 61, in _load_all_namespaces
-    url_patterns = getattr(resolver, "url_patterns", [])
-                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\functional.py", line 47, in __get__
-    res = instance.__dict__[self.name] = self.func(instance)
-                                         ^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\urls\resolvers.py", line 738, in url_patterns
-    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
-                       ^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\functional.py", line 47, in __get__
-    res = instance.__dict__[self.name] = self.func(instance)
-                                         ^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\urls\resolvers.py", line 731, in urlconf_module
-    return import_module(self.urlconf_name)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\Lib\importlib\__init__.py", line 126, in import_module
-    return _bootstrap._gcd_import(name[level:], package, level)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
-  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
-  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
-  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
-  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
-  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
-  File "C:\Users\User\PycharmProjects\web_scraper\web_scraper\urls.py", line 22, in <module>
-    path('webscraper', include('scraper_app.urls'))
-                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\urls\conf.py", line 39, in include
-    urlconf_module = import_module(urlconf_module)
-                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\Lib\importlib\__init__.py", line 126, in import_module
-    return _bootstrap._gcd_import(name[level:], package, level)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
-  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
-  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
-  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
-  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
-  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
-  File "C:\Users\User\PycharmProjects\web_scraper\scraper_app\urls.py", line 2, in <module>
-    from . import views
-  File "C:\Users\User\PycharmProjects\web_scraper\scraper_app\views.py", line 2, in <module>
-    from .getData import start
-  File "C:\Users\User\PycharmProjects\web_scraper\scraper_app\getData.py", line 23
-    html = await response.text()  # wait until the server responses
-    ^
-IndentationError: expected an indented block after 'if' statement on line 21
-Performing system checks...
+System check identified some issues:
 
+WARNINGS:
+?: (urls.W002) Your URL pattern '/add_all' [name='add_all_to_db'] has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+?: (urls.W002) Your URL pattern '/get_new_substances' [name='search_for_newcomers'] has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+?: (urls.W002) Your URL pattern '/get_smile_from_id' [name='get_name_from_id'] has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+?: (urls.W002) Your URL pattern '/get_witz' [name='get_witz'] has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+?: (urls.W002) Your URL pattern '/request_how_many_json_file' [name='request_how_many_json_file'] has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+?: (urls.W002) Your URL pattern '/reset_database' [name='reset_database'] has a route beginning with a '/'. Remove this slash as it is unnecessary. If this pattern is targeted in an include(), ensure the include() pattern has a trailing '/'.
+
+System check identified 6 issues (0 silenced).
+[11/Apr/2024 11:44:04] "GET /webscraper HTTP/1.1" 200 4299
+[11/Apr/2024 11:44:04] "GET /static/css/scraper.css HTTP/1.1" 200 5370
+[11/Apr/2024 11:44:04] "GET /static/scripts/scraper.js HTTP/1.1" 200 5039
+[11/Apr/2024 11:44:05] "GET /static/videos/background.mp4 HTTP/1.1" 200 6494359
+Not Found: /favicon.ico
+[11/Apr/2024 11:44:05] "GET /favicon.ico HTTP/1.1" 404 2225

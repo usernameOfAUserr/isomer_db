@@ -1,0 +1,13 @@
+{
+    "names": "13-Fluorolysergol",
+    "iupac_name": "(13-Fluoro-6-methyl-9,10-didehydroergolin-8\u03b2-yl)methanol ; [(6aR,9R)-2-Fluoro-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-yl]methanol ; [(8\u03b2)-13-Fluoro-6-methyl-9,10-didehydroergolin-8-yl]methanol",
+    "category": "Tryptamine",
+    "index": 14892,
+    "formular": "C16H17FN2O",
+    "molecular_weight": 272.317,
+    "inChl": "1S/C16H17FN2O/c1-19-7-9(8-20)2-12-13-4-11(17)5-14-16(13)10(6-18-14)3-15(12)19/h2,4-6,9,15,18,20H,3,7-8H2,1H3/t9-,15-/m1/s1",
+    "InChl_Key": "UBKCOUCTZVGLJQ-RFAUZJTJSA-N",
+    "SMILES": "CN1C[C@H](CO)C=C2c3cc(F)cc4[nH]cc(c34)C[C@H]21",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14892",
+    "validation": "m_weight unsave, calculated(272.3229999999999)"
+}

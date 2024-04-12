@@ -1,0 +1,13 @@
+{
+    "names": "3-[(5R)-1,5-Dimethyl-1,2,5,6-tetrahydropyridin-3-yl]-1H-pyrrolo[2,3-b]pyridine",
+    "iupac_name": "14895 ; C14H17N3 ; 227.305",
+    "category": "data not stored",
+    "index": 14895,
+    "formular": "C14H17N3",
+    "molecular_weight": 227.305,
+    "inChl": "1S/C14H17N3/c1-10-6-11(9-17(2)8-10)13-7-16-14-12(13)4-3-5-15-14/h3-7,10H,8-9H2,1-2H3,(H,15,16)/t10-/m1/s1",
+    "InChl_Key": "BVUHRQDBEWGRFX-SNVBAGLBSA-N",
+    "SMILES": "C[C@@H]1C=C(c2c[nH]c3ncccc23)CN(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14895",
+    "validation": "m_weight unsave, calculated(227.31100000000004)"
+}

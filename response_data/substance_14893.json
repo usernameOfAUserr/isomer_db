@@ -1,0 +1,13 @@
+{
+    "names": "Lysergine",
+    "iupac_name": "6,8\u03b2-Dimethyl-9,10-didehydroergoline ; (8\u03b2)-6,8-Dimethyl-9,10-didehydroergoline",
+    "category": "data not stored",
+    "index": 14893,
+    "formular": "C16H18N2",
+    "molecular_weight": 238.328,
+    "inChl": "1S/C16H18N2/c1-10-6-13-12-4-3-5-14-16(12)11(8-17-14)7-15(13)18(2)9-10/h3-6,8,10,15,17H,7,9H2,1-2H3/t10-,15-/m1/s1",
+    "InChl_Key": "YOZGACBWDKFAAD-MEBBXXQBSA-N",
+    "SMILES": "C[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14893",
+    "validation": "m_weight unsave, calculated(238.33399999999997)"
+}

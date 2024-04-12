@@ -43,7 +43,7 @@ function show_reset_progress(resetInterval){
                  catch{
                     
                  }
-                show_witz.style["display"] = "none";
+    
                 changeBackground();
                 var answer = document.querySelector('.answer');
                 if(answer != null){answer.style["display"] = "block";}
@@ -82,6 +82,7 @@ function reset_db(){
         type:'GET',
         url: "/webscraper/reset_database", //app_name(in urls.py):patern_name(in Dango, but here JavaScrips, because of that relative url)
         success:function(response){
+            new_substances_loaded("DATABASE WAS COMPLETLY RESTORED");
         },
         error:function(){
             console.log("error ocoured");
@@ -89,21 +90,49 @@ function reset_db(){
     });
 }
 
-function load_new_substances(){
+async function load_new_substances() {
     changeBackground();
-    $.ajax({
-        type:'GET',
-        url: "webscraper/get_new_substances",
-        timeout: 0,
-        success:function(response){
-            alert("New Substances loaded");
-            for (url in response.newSubstances){
-                alert(response.newSubstances[smile])
-            }
-            changeBackground();
-        },
-        error:function(){
-            alert("not possible, try to reload whole db");
-        },
-    });
+    try {
+        const response = await $.ajax({
+            type: 'GET',
+            url: "webscraper/get_new_substances",
+            timeout: 0
+        });
+
+        let message = "New Substances loaded:";
+        for(url in response.newSubstances){
+            message+= "\n"+response.newSubstances[url];
+        }
+        new_substances_loaded(message);
+        changeBackground();
+    } catch (error) {
+        alert("not possible, try to reload whole db");
+    }
+}
+
+function new_substances_loaded(message){
+    
+    document.querySelector(".container").style["background-color"] = "black";
+    let show_message = document.createElement("div");
+    show_message.setAttribute("id","message_bar");
+    let skull_video = document.createElement("video");
+    skull_video.setAttribute("id","skull_video");
+
+    let skull_source = document.createElement("source");
+    skull_source.setAttribute("src","{% static 'videos/roboter.mp4' %}");
+    skull_source.setAttribute("type","video/mp4");
+    skull_video.append(skull_source);
+
+    show_message.append(skull_video);
+    skull_video.autoplay = true;
+    skull_video.loop = true;
+    show_message.innerHTML = message;
+    show_message.append(skull_video);
+
+    document.querySelector(".container").append(show_message);
+    setTimeout(function() {
+        skull_video.style.display = "none";
+        document.querySelector(".container").style["background-color"] = "transparent";
+
+    }, 8000);
 }

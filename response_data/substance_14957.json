@@ -1,0 +1,13 @@
+{
+    "names": "5-MeO-MSBT",
+    "iupac_name": "N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]-N-methylbutan-2-amine",
+    "category": "Tryptamine",
+    "index": 14957,
+    "formular": "C16H24N2O",
+    "molecular_weight": 260.375,
+    "inChl": "1S/C16H24N2O/c1-5-12(2)18(3)9-8-13-11-17-16-7-6-14(19-4)10-15(13)16/h6-7,10-12,17H,5,8-9H2,1-4H3",
+    "InChl_Key": "VBRYRPHGPPNPMK-UHFFFAOYSA-N",
+    "SMILES": "CCC(C)N(C)CCc1c[nH]c2ccc(OC)cc12",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14957",
+    "validation": "m_weight unsave, calculated(260.381)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "N-Desethyl protonitazene",
+    "iupac_name": "N-Ethyl-2-{5-nitro-2-[(4-propoxyphenyl)methyl]-1H-benzimidazol-1-yl}ethan-1-amine",
+    "category": "data not stored",
+    "index": 14964,
+    "formular": "C21H26N4O3",
+    "molecular_weight": 382.456,
+    "inChl": "1S/C21H26N4O3/c1-3-13-28-18-8-5-16(6-9-18)14-21-23-19-15-17(25(26)27)7-10-20(19)24(21)12-11-22-4-2/h5-10,15,22H,3-4,11-14H2,1-2H3",
+    "InChl_Key": "NPHUSRHIDKYNDO-UHFFFAOYSA-N",
+    "SMILES": "CCCOc1ccc(Cc2nc3cc([N+](=O)[O-])ccc3n2CCNCC)cc1",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14964",
+    "validation": "m_weight unsave, calculated(382.4640000000001)"
+}

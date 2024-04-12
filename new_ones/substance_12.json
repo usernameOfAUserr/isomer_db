@@ -1,0 +1,13 @@
+{
+    "names": "BIS-TOM ; 2,5-Bismethylthio-4-methylamphetamine ; 4-Methyl-2,5-bis-(methylthio)amphetamine",
+    "iupac_name": "1-[4-Methyl-2,5-bis(methylsulfanyl)phenyl]propan-2-amine",
+    "category": "Shulgin_Index",
+    "index": 12,
+    "formular": "C12H19NS2",
+    "molecular_weight": 241.416,
+    "inChl": "1S/C12H19NS2/c1-8-5-12(15-4)10(6-9(2)13)7-11(8)14-3/h5,7,9H,6,13H2,1-4H3",
+    "InChl_Key": "XFCQINWERPNOHI-UHFFFAOYSA-N",
+    "SMILES": "CSc1cc(CC(C)N)c(SC)cc1C",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=12",
+    "validation": "m_weight unsave, calculated(241.42499999999995)"
+}

@@ -1,0 +1,13 @@
+{
+    "names": "MDMB-INACA 3,3-dimethylbutanoic acid metabolite",
+    "iupac_name": "N-(1H-Indazole-3-carbonyl)-3-methyl-L-valine ; (2S)-2-[(1H-Indazole-3-carbonyl)amino]-3,3-dimethylbutanoic acid",
+    "category": "Cannabinoid",
+    "index": 14986,
+    "formular": "C14H17N3O3",
+    "molecular_weight": 275.303,
+    "inChl": "1S/C14H17N3O3/c1-14(2,3)11(13(19)20)15-12(18)10-8-6-4-5-7-9(8)16-17-10/h4-7,11H,1-3H3,(H,15,18)(H,16,17)(H,19,20)/t11-/m1/s1",
+    "InChl_Key": "CPHMGHDQBWTCMZ-LLVKDONJSA-N",
+    "SMILES": "CC(C)(C)[C@H](NC(=O)c1n[nH]c2ccccc12)C(=O)O",
+    "url": "https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14986",
+    "validation": "m_weight unsave, calculated(275.308)"
+}
