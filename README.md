@@ -14,3 +14,7 @@ Usage:
 
 Download everything and store it wherever you please. You only need to change the path in the start_scraper.bat file.
 To open, simply click on start_scraper.bat
+
+Superuser:
+username:user
+password: password
