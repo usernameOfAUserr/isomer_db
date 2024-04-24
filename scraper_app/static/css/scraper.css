@@ -33,10 +33,14 @@ top: 0%;
 background-color: black;
 opacity: 0.95;
 border: 2px solid white;
+z-index: 1000;
 }
-
+select option:hover{
+    background-color: rgb(235, 235, 89);
+}
 select {
 font-size: 17.5px;
+z-index: 1000;
 position: absolute;
 top: 5%;
 left: 3%;
@@ -76,6 +80,8 @@ left: 30%;
 border-bottom-right-radius: 15px;} 
 
 .modi_div{
+    z-index: 1000;
+
 font-family: "Oswald", sans-serif;
 top: 0%;
 position: absolute;
@@ -167,6 +173,7 @@ color: yellow;
     top: 2%;
 }
 .show_massebereich{
+    z-index: 10;
     height: 90%;
     width: 100%;
     position: relative;
@@ -177,22 +184,30 @@ color: yellow;
 .show_one{
     margin-top: 5px;
     background-color: black;
-    font-size: 20px;
+    opacity: 0.8;
+    font-size: 25px;
     width: 100%;
     border: 1px solid white;
     padding:0px;
-    height: 5%;
     color: white;
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    
+    z-index: 10;
 }
 
 .show_one ul li{
-        
+        z-index: 100;
         border: 0.5px solid white;
+        opacity: 100;
     }
+.show_one ul{
+    z-index: 100;
+    opacity: 100 !important;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+}
 .show_one strong{
         font-size: 25px;
         color: rgb(226, 212, 14);

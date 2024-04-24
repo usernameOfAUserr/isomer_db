@@ -10,14 +10,14 @@ document.addEventListener("DOMContentLoaded",function(){
     });
   });
 var resetInterval; 
-function selectFunction(resetInterval){
+function selectFunction(){
 let select = document.querySelector('#select');
 let value = select.value;
-if (value=="massebereich"){
+if (value=="molecular_mass"){
     let abweichung = document.querySelector('#abweichung');
     abweichung.style["display"] = "block";
 }
-if(value != "massebereich"){
+if(value != "molecular_mass"){
     let abweichung = document.querySelector('#abweichung');
     abweichung.style["display"] = "none";
 }

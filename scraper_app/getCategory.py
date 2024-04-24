@@ -19,12 +19,16 @@ category_urls = {
 }
 
 assignedCategorys = {}
+
+category_list = {}
+
 find_id_regex = re.compile(r'&id=\d{1,5}')
 just_id_regex = re.compile(r'\d{1,5}')
 
 async def get_category(category_name, category_url, session):
     result = []
     try:
+        print(category_name + " aufgerufen")
         async with session.get(category_url) as response:
             html = await response.text()
             soup = BeautifulSoup(html, "html.parser")
@@ -34,20 +38,14 @@ async def get_category(category_name, category_url, session):
                 if href:
                     match = find_id_regex.search(href)
                     if match:
-                        id = just_id_regex.search(href)
-                        result.append(int(id.group()))
+
+                        category_list[href] = [category_name]
     except aiohttp.ClientError as e:
         print(f"Error for category '{category_name}': {e}")
-    if category_name != "Phenetylamine" and category_name != "Shulgin_Index":
-        assignedCategorys[category_name] = result
-    else:
-        if category_name not in assignedCategorys.keys():
-            assignedCategorys[category_name] = result
-        else:
-            assignedCategorys[category_name].extend(result)
-    return category_name, result
 
-async def get_all_parts_for_parts(session, chapter_path):
+
+
+async def get_all_parts_for_parts(session, chapter_path,category, subcategory):
     urls = []
     async with session.get(chapter_path) as response:
         html = await response.text()
@@ -58,11 +56,13 @@ async def get_all_parts_for_parts(session, chapter_path):
         for part_value in values:
             part = f"&part={part_value}"
             part_path = chapter_path + part
+            await create_category_list(session,part_path, category,subcategory)
             urls.append(part_path)
         return urls
 
 async def add_Phenetylamine_Urls(session):
     url_list = []
+    category = "Phenethylamine"
     phenetylamine_url = "https://isomerdesign.com/PiHKAL/tablePEA.php?domain=tk"
     async with session.get(phenetylamine_url) as response:
         html = await response.text()
@@ -70,16 +70,33 @@ async def add_Phenetylamine_Urls(session):
         chapter = text.find(id="chapter")
         options = chapter.find_all('option')
         values = [option['value'] for option in options]
+        subcategorys = [option.string for option in options]
+        i = 0
         for chapter_value in values:
             c = f"&chapter={chapter_value}"
             chapter_path = phenetylamine_url + c
-            urls = await get_all_parts_for_parts(session, chapter_path)
+            urls = await get_all_parts_for_parts(session, chapter_path, category, subcategorys[i])
+            i+=1
             url_list += urls
         return url_list
 
+async def create_category_list(session, part_path,category, subcategory):
+    async with session.get(part_path) as response:
+        html = await response.text()
+        text = BeautifulSoup(html, "html.parser")
+        links = text.find_all('a')
+        info = [category, subcategory]
+        print(info)
+        for link in links:
+            href = link.get('href')
+            if href:
+                match = find_id_regex.search(href)
+                if match:
+                    category_list[href] = info
 
-async def get_all_parts_for_table(session, chapter_path):
+async def get_all_parts_for_table(session, chapter_path, category, subcategory):
     urls = []
+
     async with session.get(chapter_path) as response:
         html = await response.text()
         text = BeautifulSoup(html, "html.parser")
@@ -89,10 +106,12 @@ async def get_all_parts_for_table(session, chapter_path):
         for part_value in values:
             part = f"&page={part_value}"
             part_path = chapter_path + part
+            await create_category_list(session, part_path, category, subcategory)
             urls.append(part_path)
         return urls
 async def add_ShulginIndex_Urls(session):
     url_list = []
+    category = "The Shulgin Index"
     root_url = "https://isomerdesign.com/PiHKAL/tableSI.php?domain=tk"
     async with session.get(root_url) as response:
         html = await response.text()
@@ -100,49 +119,36 @@ async def add_ShulginIndex_Urls(session):
         chapter = text.find(id="table")
         options = chapter.find_all('option')
         values = [option['value'] for option in options]
+        subcategorys = [option.string for option in options]
+        i = 0
         for chapter_value in values:
             c = f"&table={chapter_value}"  # shulgin index does hava a other url system then Phent...(tabels instead of chapter, page instead of parts
             chapter_path = root_url + c
-            urls = await get_all_parts_for_table(session, chapter_path)
+            urls = await get_all_parts_for_table(session, chapter_path, category, subcategorys[i])
+            i+=1
             url_list += urls
         return url_list
 
 async def main():
     async with aiohttp.ClientSession() as session:
-        urls = await add_Phenetylamine_Urls(session)
-        category_urls["Phenetylamine"] = urls
-        urls = await add_ShulginIndex_Urls(session)
-        category_urls["Shulgin_Index"] = urls
         tasks = [
             get_category(category_name=name, category_url=url, session=session)
             for name, url in category_urls.items() if name != "Phenetylamine" and name != "Shulgin_Index"
         ]
-        tasks.extend(
-            get_category(category_name="Phenetylamine", category_url=url, session=session)
-            for url in category_urls["Phenetylamine"]
-        )
-        tasks.extend(
-            get_category(category_name="Shulgin_Index", category_url=url, session=session)
-            for url in category_urls["Shulgin_Index"]
-        )
-        results = await asyncio.gather(*tasks)
+        await asyncio.gather(*tasks)
+        urls = await add_Phenetylamine_Urls(session)
+        category_urls["Phenetylamine"] = urls
+        urls = await add_ShulginIndex_Urls(session)
+        category_urls["Shulgin_Index"] = urls
+
         count = 0
-        for category, values in assignedCategorys.items():
-            count += len(values)
-            print(f"{category}: {len(values)}")
-        print(f"{count} ids found")
+
 
 def getCategorys():
     start = time.time()
     asyncio.run(main())
     print(f"Runtime:  {int(time.time() - start)}")
-    return assignedCategorys
-
-def create_category_json():
-    data_dict = {}
-    categorys_d = getCategorys()
-    for dictionary, list in categorys_d.items():
-        data_dict[dictionary] = list
-
-    with open("categorys.json", "w") as file:
-        json.dump(data_dict, file, indent=4)
+    print(str(len(category_list.keys())) + " ids found")
+    with open("category_json_file.json","w") as file:
+        json.dump(category_list, file)
+    return category_list

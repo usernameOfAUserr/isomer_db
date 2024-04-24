@@ -85,9 +85,9 @@ var oldSource = "{% static 'videos/background.mp4' %}";
         <p>Search for substances</p>
         <form action="" method="post" id="form">
         <select id="select" onchange="selectFunction()" name="select">
-            <option value="SMILES">SMILES</option>
-            <option value="summenformel">molecular formula</option>
-            <option value="massebereich">molecular mass</option>
+            {%for opt in keys%}
+            <option value="{{opt}}">{{opt|upper}}</option>
+            {%endfor%}
         </select>
             {% csrf_token %}
             <input type="search" id="search_field" name="search_field">
@@ -103,48 +103,48 @@ var oldSource = "{% static 'videos/background.mp4' %}";
 {%if selected != None%}
 <div style="position: absolute; left: 40%; top: 1.1%; font-size: 25px; color: rgb(201, 214, 16); opacity: 0.5;"><h1>{{ answer|length }} {% if answer|length == 1 %}RESULT{% else %}RESULTS{% endif %}</h1></div>
 {% endif %}
-{% if selected == "SMILES" %}
-<div class="answer">
 
-        {% for substance in answer %}
-        <ul>
-        <li><strong>Names:</strong> {{ substance.names }}</li>
-        <li><strong>IUPAC NAMES:</strong> {{ substance.iupac_names }}</li>
-        <li><strong>ID:</strong> {{ substance.id }}</li>
-        <li><strong>Formular:</strong> {{ substance.formular }}</li>
-        <li><strong>Molecular Weight:</strong> {{ substance.molecular_weight}}</li>
-        <li><strong>InChl:</strong> {{ substance.inchl }}</li>
-        <li><strong>InChl Key:</strong> {{ substance.inchl_key }}</li>
-        <li><strong>SMILES:</strong> {{ substance.smiles }}</li>
-        <li><strong>Category Tag:</strong> {{ substance.category_tag}}</li>
-    </ul>
-    {% endfor %}
-</div>
-{% endif %}
 <div class="show_witz"></div>
 <div class="progress_message">Please wait until completion</div>
 <div class="progressbar">
 </div>
-{% if selected == "massebereich" or selected == "summenformel" %}
+{% if selected != None%}
 <div class="show_massebereich">
 {% for substance in answer %}
 <div class="show_one">
     <ul>
-        <li><strong>Names:</strong> {{ substance.names }}</li>
-        <li><strong>IUPAC NAMES:</strong> {{ substance.iupac_names }}</li>
-        <li><strong>ID:</strong> {{ substance.id }}</li>
+        <li><strong>Names:</strong>{% for name in substance.names %}<br>------- {{name}}{% endfor %}</li>
+        <li><strong>IUPAC NAMES:</strong>{% for name in substance.iupac_name %}<br>------- {{name}} {% endfor %}</li>
         <li><strong>Formular:</strong> {{ substance.formular }}</li>
-        <li><strong>Molecular Weight:</strong> {{ substance.molecular_weight}}</li>
-        <li><strong>InChl:</strong> {{ substance.inchl }}</li>
-        <li><strong>InChl Key:</strong> {{ substance.inchl_key }}</li>
+        <li><strong>Molecular Weight:</strong> {{ substance.molecular_mass}}</li>
+        <li><strong>InChi:</strong> {{ substance.inchi }}</li>
+        <li><strong>InChi Key:</strong> {{ substance.inchi_key }}</li>
         <li><strong>SMILES:</strong> {{ substance.smiles }}</li>
-        <li><strong>Category Tag:</strong> {{ substance.category_tag}}</li>
+        {% if substance.category|length > 1 %}
+        <li><strong>Category Tag:</strong>
+        {% for name in substance.category %}
+        <br>{{forloop.counter}}.{{ name }}
+        {% endfor %}
+        </li>
+    {% else %}
+        <li><strong>Category Tag:</strong><br>{{ substance.category }}</li>
+    {% endif %}
+    
+        <li><strong>Url:</strong><a href={{substance.source_url}}>{{substance.source_url}}</a></li>
+        <li><strong>Soure Website:</strong> {{ substance.source_name }}</li>
+        <li><strong>Valid:</strong> {{ substance.valid}}</li>
+        <li><strong>Last Changed At:</strong> {{ substance.last_changed_at}}</li>
+        <li><strong>Version:</strong> {{ substance.version }}</li>
+        {%if substance.details|length > 1 %}
+        <li><strong>Zusätzliche Informationen:</strong><br>{% for name in substance.details %}{{name}}<br>{% endfor %}</li>
+        {%endif%}
     </ul>
 </div>
 {% endfor %}
 </div>
 {% endif %}
 </div>
+<script src="{% static 'scripts/scraper.js' %}"></script>
 
 </body>
 </html> 

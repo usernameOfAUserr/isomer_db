@@ -4,8 +4,8 @@ from django.shortcuts import render
 import os
 import logging
 import requests
-from scraper_app.models import Substance,json_substance
-from django.http import JsonResponse
+from scraper_app.models import Substances
+from django.http import HttpResponse, JsonResponse
 import time
 import shutil
 import re
@@ -18,68 +18,92 @@ import aiohttp, asyncio
 
 
 getDataObject = getData()
-
+JS = Substances.objects.all()
+keys = [field.name for field in Substances._meta.fields]
+del keys[0]
 
 def scraper(request):
     if request.method == "POST":
-        JS = Substance.objects.all()
+        requested = []
         selected = request.POST.get('select')
         searched = request.POST.get('search_field')
-        if selected == "massebereich":
+        if selected == "molecular_mass":
             toleranz = request.POST.get("abweichung")
             start = float(searched)-float(toleranz)
             end = float(searched)+float(toleranz)
-            requested = Substance.objects.filter(molecular_weight__range=[start,end])
-        if selected == "SMILES":
-            if Substance.objects.filter(smiles=searched) is not None:
-                requested = Substance.objects.filter(smiles=searched)
+            requested = Substances.objects.filter(molecular_mass__range=[start,end])
+        elif selected == "smiles":
+            if Substances.objects.filter(smiles=searched) is not None:
+                requested = Substances.objects.filter(smiles=searched)
             else:
                 request = None
-        if selected == "summenformel":
+        elif selected == "formular":
             requested = []
             format = ".*" + searched + ".*"
             compare_regex = re.compile(format)
             for formular in JS:
                 if compare_regex.search(formular.formular) is not None:
                     requested.append(formular)
-        if requested is None:
+        elif selected == "names":
+            requested = []
+            for names in JS:
+                if searched in names.names:
+                    requested.append(names)
+        elif selected == "iupac_name":
+            requested = []
+            for names in JS:
+                if searched in names.iupac_name:
+                    requested.append(names)        
+        elif selected == "cas_num":
+            cas_num_results = Substances.objects.filter(cas_num=searched)
+            requested.append(cas_num_results)
+
+        elif selected == "category":
+            category_results = Substances.objects.filter(category__icontains=searched)
+            requested.append(category_results)
+
+        elif selected == "source_url":
+            source_url_results = Substances.objects.filter(source_url__icontains=searched)
+            requested.append(source_url_results)
+
+        elif selected == "source_name":
+            source_name_results = Substances.objects.filter(source_name__icontains=searched)
+            requested.append(source_name_results)
+
+        elif selected == "valid":
+            valid_results = Substances.objects.filter(valid=searched)
+            requested.append(valid_results)
+
+        elif selected == "deleted":
+            deleted_results = Substances.objects.filter(deleted=searched)
+            requested.append(deleted_results)
+
+        elif selected == "version":
+            version_results = Substances.objects.filter(version=searched)
+            requested.append(version_results)
+
+        elif selected == "details":
+            details_results = Substances.objects.filter(details__icontains=searched)
+            requested.append(details_results)
+    
+        else:
             requested = None
         return render(request, "scraper.html",{
             "answer": requested, "selected":selected,
+                        "keys":keys,
+
         })
     else:
-        db = Substance.objects.all()
+        db = Substances.objects.all()
         return render(request,"scraper.html",{
-            "db": db, "answer": None
+            "db": db, "answer": None,
+            "keys":keys,
         })
 
-
-
-def add_all_to_db(request):
-    json_source_folder = ".\\response_data"
-    if os.path.exists(json_source_folder) and os.path.isdir(json_source_folder):
-        for file_name in os.listdir(json_source_folder):
-            new_file_name = os.path.join(json_source_folder, file_name)
-            with open(new_file_name, "r") as json_file:
-                json_content = json.load(json_file)
-                file_name = Substance(names=json_content["names"], iupac_names=json_content["iupac_name"], id=json_content["index"], formular=json_content["formular"],
-                                      molecular_weight=json_content["molecular_weight"], inchl=json_content["inChl"], inchl_key=json_content["InChl_Key"], smiles=json_content["SMILES"],
-                                      category_tag=json_content["category"], url=json_content["url"]) 
-                file_name.save()
-        db = json_substance.objects.all()
-        return render(request, "scraper.html",{
-            "db": db
-        })
 
 def reset_database(request):
-
-    json_source_folder = ".\\response_data"
-    try:
-        shutil.rmtree(json_source_folder)
-    except:
-        pass
     getDataObject.start()
-    add_all_to_db(request)
+    return HttpResponse("Database was fully restored")
     
 def request_how_many_json_file(request):
     progress = getDataObject.getProgress()
@@ -95,7 +119,7 @@ def search_for_newcomers(request):
             new_file_name = os.path.join(json_source_folder, file_name)
             with open(new_file_name, "r") as json_file:
                 json_content = json.load(json_file)
-                file_name = Substance(names=json_content["names"], iupac_names=json_content["iupac_name"], id=json_content["index"], formular=json_content["formular"],
+                file_name = Substances(names=json_content["names"], iupac_names=json_content["iupac_name"], id=json_content["index"], formular=json_content["formular"],
                                       molecular_weight=json_content["molecular_weight"], inchl=json_content["inChl"], inchl_key=json_content["InChl_Key"], smiles=json_content["SMILES"],
                                       category_tag=json_content["category"], validation_message=json_content["validation"])   
                 file_name.save()
@@ -126,8 +150,3 @@ def get_witz(request):
     witz = asyncio.run(get_witz_asynchron(url))  
     return JsonResponse({"witz": witz})
 #####################################################################
-def get_smile_from_id(request):
-    if request.method == "GET":
-        id = request.GET.get('id')
-        sub_name = Substance.objects.get(id=id)
-        return JsonResponse({"sub_name":sub_name})
