@@ -117,7 +117,8 @@ function new_substances_loaded(message){
     show_message.setAttribute("id","message_bar");
     let skull_video = document.createElement("video");
     skull_video.setAttribute("id","skull_video");
-
+    let message_div = document.createElement("div");
+    message_div.setAttribute("id","message_div");
     let skull_source = document.createElement("source");
     skull_source.setAttribute("src","{% static 'videos/roboter.mp4' %}");
     skull_source.setAttribute("type","video/mp4");
@@ -126,13 +127,26 @@ function new_substances_loaded(message){
     show_message.append(skull_video);
     skull_video.autoplay = true;
     skull_video.loop = true;
-    show_message.innerHTML = message;
-    show_message.append(skull_video);
+    let bring_message = document.createElement("div");
+    bring_message.innerHTML = message;
+    bring_message.setAttribute("id","bring_message");
 
+    show_message.append(skull_video);
+    
+    let dismis = document.createElement("button");
+    dismis.setAttribute("id","dismis_message");
+    dismis.innerHTML="Dissmis Information";
+    message_div.append(dismis);
+    message_div.append(bring_message);
     document.querySelector(".container").append(show_message);
+    document.querySelector(".container").append(message_div);
     setTimeout(function() {
         skull_video.style.display = "none";
         document.querySelector(".container").style["background-color"] = "transparent";
-
-    }, 8000);
+        show_message.style["display"] = "none";
+    }, 1500);
+    dismis.onclick=function(){
+    message_div.remove();
+    show_message.remove()
+    };
 }

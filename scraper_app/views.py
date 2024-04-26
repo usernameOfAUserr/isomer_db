@@ -112,17 +112,6 @@ def request_how_many_json_file(request):
 
 def search_for_newcomers(request):
     new_ones = getReachableUrls()
-    print("looking for new substances completed, begining integration")
-    json_source_folder = "new_ones"
-    if os.path.exists(json_source_folder) and os.path.isdir(json_source_folder):
-        for file_name in os.listdir(json_source_folder):
-            new_file_name = os.path.join(json_source_folder, file_name)
-            with open(new_file_name, "r") as json_file:
-                json_content = json.load(json_file)
-                file_name = Substances(names=json_content["names"], iupac_names=json_content["iupac_name"], id=json_content["index"], formular=json_content["formular"],
-                                      molecular_weight=json_content["molecular_weight"], inchl=json_content["inChl"], inchl_key=json_content["InChl_Key"], smiles=json_content["SMILES"],
-                                      category_tag=json_content["category"], validation_message=json_content["validation"])   
-                file_name.save()
     print("stroed in db")
     return JsonResponse({"newSubstances": new_ones})
 

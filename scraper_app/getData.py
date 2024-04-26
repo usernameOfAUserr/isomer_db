@@ -68,21 +68,24 @@ class getData:
                     return True
 
                 # index & category
-                category = ["data not stored"]
+                category = []
                 # substance_index = index
 
                 #category
                 # look, if the index is known in categorys
                 if url in self.categorys.keys():
-                    category = self.categorys[url]
+                    category.append(self.categorys[url])
                 else:
-            # search for tag in the data that reviels the category
+            # search for tag in the data that reviels the categorypyto
                     tags = data.find_all(class_="sLabel")
                     for tag in tags:
                         if tag.text == "Tags":
                             right_div = tag.parent
                             text = right_div.text.strip()
-                            category = text.replace("Tags", "").strip()
+                            category_found = text.replace("Tags", "").strip()
+                            category.append(category_found)
+                if len(category) == 0:
+                    category.append("unknown")
                 # formular
                 formular = clippable[data_quantity - 5].text
 
