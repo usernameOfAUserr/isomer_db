@@ -20,3 +20,7 @@ class Substances(models.Model):
     last_changed_at = models.DateTimeField(blank=True, auto_now_add=True,primary_key=False)
     version = models.FloatField(default=0.0, blank=True,primary_key=False)
     details = models.JSONField(blank=True,default=list,primary_key=False)
+
+class Store_exchange_json(models.Model):
+    name = models.CharField(max_length=200)
+    file = models.FileField(upload_to="./files_from_others/")

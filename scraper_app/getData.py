@@ -10,9 +10,10 @@ from .getCategory import getCategorys
 from rdkit import Chem
 from rdkit.Chem import Descriptors, rdMolDescriptors
 from .models import Substances
-
+from .Store import Store
 
 class getData:
+    Storer = Store()
     progress = 0
     gatherd_substances = []
     Substances = Substances.objects.all()
@@ -167,31 +168,6 @@ class getData:
             self.categorys = json.load(f)
         # #load the categorys from external file in order to improve the speed, categorys are NOT!!! loaded in in this run
         asyncio.run(self.get_responses(urls))
-        self.store_in_db()
+        self.Storer.Substances(self.gatherd_substances)
 
-    def store_in_db(self):
-        for substance in self.gatherd_substances:
-            data_dict = substance
-            url = substance['source_url']
-            existing_object = Substances.objects.filter(source_name="PIHKAL", source_url=url).first()
-            if existing_object:
-                existing_object.delete()
-                print(str(substance) +" removed form db")
-            new_object = Substances.objects.create(
-                smiles=data_dict['smiles'],
-                names=data_dict['names'],
-                iupac_name=data_dict['iupac_name'],
-                formular=data_dict['formular'],
-                inchi=data_dict['inchi'],
-                inchi_key=data_dict['inchi_key'],
-                molecular_mass=data_dict['molecular_mass'],
-                cas_num=data_dict['cas_num'],
-                category=data_dict['category'],
-                source_name=data_dict['source_name'],
-                source_url=data_dict['source_url'],
-                valid=data_dict['valid'],
-                deleted=data_dict['deleted'],
-                version=data_dict['version'],
-                details=data_dict['details']
-            )
-            print(str(substance['names']) +" added to db")
+    

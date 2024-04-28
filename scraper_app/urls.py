@@ -9,4 +9,6 @@ urlpatterns=[
     path('/request_how_many_json_file',views.request_how_many_json_file, name="request_how_many_json_file"),
     path('/get_new_substances', views.search_for_newcomers, name="search_for_newcomers"),
     path("/get_witz",views.get_witz, name="get_witz"),
-]
+    path("/generate", views.generateJsonFile, name="generateJsonFile"),
+    path("/processJsonInput", views.processJsonInput, name="ProcessJsonInput"),
+    ]

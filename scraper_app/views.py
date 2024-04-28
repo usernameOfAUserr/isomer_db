@@ -13,6 +13,7 @@ from bs4 import BeautifulSoup
 from .getReachableUrls import getReachableUrls
 from django.template.defaultfilters import stringfilter
 import aiohttp, asyncio
+from .Exchanger import Exchanger
 
 # Create your views here.
 
@@ -139,3 +140,16 @@ def get_witz(request):
     witz = asyncio.run(get_witz_asynchron(url))  
     return JsonResponse({"witz": witz})
 #####################################################################
+
+def generateJsonFile(request):
+    exchanger = Exchanger()
+    json_file = exchanger.generate("example_name")
+    return HttpResponse(json_file)
+
+def processJsonInput(request):
+    file_name = request.FILES['file']
+
+    print(str(file_name)+ " was recived, starting integration in database")
+    exchanger = Exchanger()
+    if exchanger.process(file_name):
+       return HttpResponse("File: "+ str(file_name) + " successfuly stored" )

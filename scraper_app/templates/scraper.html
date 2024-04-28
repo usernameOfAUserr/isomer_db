@@ -1,4 +1,5 @@
 {% load static %}
+{% csrf_token %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,8 +31,94 @@ var oldSource = "{% static 'videos/background.mp4' %}";
  }
  video.load();
  }
- 
 
+
+ function generateJsonFile(){
+    try{
+       $.ajax(
+            {
+                type: "GET",
+                url:"webscraper/generate",
+                success:function(response){
+                    var json_data = JSON.stringify(response)
+        var blob = new Blob([json_data], {type: "application/json"})
+        var url = URL.createObjectURL(blob)
+        var a = document.createElement("a");
+        a.style.display = "none";
+        a.href = url;
+        a.download = "PIHKAL.json"; 
+        document.body.appendChild(a);
+        a.click();
+
+        document.body.removeChild(a);
+
+        URL.revokeObjectURL(url);
+                }
+            }
+        );
+      
+
+    }catch(Exeption ){
+        alert("This action isnt possible");
+    }
+}
+var drag_and_drop_is_active = false;
+function proccesJsonFile(){
+    if(!drag_and_drop_is_active){
+        drag_and_drop_is_active = true;
+    }else{
+        drag_and_drop_is_active = false;
+    }if(drag_and_drop_is_active){
+    var drop_zone = document.createElement('div');
+    drop_zone.setAttribute('class', 'drop-zone');
+    drop_zone.setAttribute('id', 'drop-zone');
+    drop_zone.innerHTML="Drag and Drugs, Baby";
+    document.querySelector('.process').innerHTML="End Inserting";
+
+    drop_zone.addEventListener('dragover', (event)=>{
+        event.preventDefault();
+        drop_zone.classList.add('drag-over');
+        console.log("dragover");
+    });
+    drop_zone.addEventListener('dragleave', (event)=>{
+        drop_zone.classList.remove('drag-over');
+        console.log("dragleave");
+
+    });
+    drop_zone.addEventListener('drop', (event)=>{
+        event.preventDefault();
+        drop_zone.classList.remove('drag-over');
+        var file = event.dataTransfer.files[0];
+        var csrfToken = $('[name="csrfmiddlewaretoken"]').val();
+
+        const data = new FormData();
+        data.append("csrfmiddlewaretoken", csrfToken);
+        data.append("file", file);
+    
+        $.ajax({
+            type:"POST",
+            url:"webscraper/processJsonInput",
+            data : data,
+            processData:false,
+            contentType: false,
+            success:function(response){
+                alert(file.name +" was tasty, thanks Buddy!!");
+            },
+            error:function(response){
+                alert("File couldnt be stored");
+            },
+        })
+    });
+    
+
+    document.querySelector('.container').append(drop_zone);
+}
+else{
+    document.querySelector('#drop-zone').remove();
+    document.querySelector('.process').innerHTML="Insert Data";
+
+}
+}
 
  </script>
     <title>Webscraper</title>
@@ -55,6 +142,10 @@ var oldSource = "{% static 'videos/background.mp4' %}";
             <input type="number" id="abweichung" placeholder="Tolaranz +/-" step="0.1" form="form" name="abweichung">
             <input type="submit" value="search" id="submit_button">
         </form>
+        <div class="Exchanger">
+            <button class="process" onclick="proccesJsonFile()">Insert Data</button>
+            <button class="generate" onclick="generateJsonFile()">Generate Data</button>
+        </div>
     </div>
     <div class="modi_div">
         <button class="modi" onclick="reset_db()">reset database</button>
