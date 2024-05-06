@@ -22,6 +22,7 @@ getDataObject = getData()
 JS = Substances.objects.all()
 keys = [field.name for field in Substances._meta.fields]
 del keys[0]
+model_fields_that_are_lists = ["names", "details", "iupac_name", "category"]
 
 def scraper(request):
     if request.method == "POST":
@@ -153,3 +154,114 @@ def processJsonInput(request):
     exchanger = Exchanger()
     if exchanger.process(file_name):
        return HttpResponse("File: "+ str(file_name) + " successfuly stored" )
+
+def my_api(request):
+    
+        category = request.GET.get('category')
+        searched = request.GET.get('searched')
+     
+        print("Category: " +category+", Searched: "+ searched)
+     
+        requested = []
+        most_relevant = []
+        if category == "smiles":
+            requested = Substances.objects.filter(smiles__icontains=searched)
+            for req in requested.values():
+            #print(str(req))
+                if category in model_fields_that_are_lists:
+                    for li in req["smiles"]:
+                        if li.startswith(searched):
+                            most_relevant.append(li)
+                else:
+                        if req[category].startswith(searched):
+                            most_relevant.append(req[category])
+
+        elif category == "formular":
+            requested = Substances.objects.filter(formular__icontains=searched)
+            for req in requested.values():
+            #print(str(req))
+                if category in model_fields_that_are_lists:
+                    for li in req["formular"]:
+                        if li.startswith(searched):
+                            most_relevant.append(li)
+                else:
+                    if req["formular"].startswith(searched):
+                        most_relevant.append(req[category])
+        elif category == "names":
+            requested = Substances.objects.filter(names__icontains=searched)
+            for req in requested.values():
+                if category in model_fields_that_are_lists:
+                    for li in req["names"]:
+                        if li.startswith(searched):
+                            most_relevant.append(li)
+        elif category == "iupac_name":
+            requested = Substances.objects.filter(iupac_name__icontains=searched)
+            for req in requested.values():
+            #print(str(req))
+                if category in model_fields_that_are_lists:
+                    for li in req["iupac_name"]:
+                        if li.startswith(searched):
+                            most_relevant.append(li)
+        elif category == "cas_num":
+            requested = Substances.objects.filter(cas_num__icontains=searched)
+            for req in requested.values():
+            #print(str(req))
+                if category in model_fields_that_are_lists:
+                    for li in req["cas_num"]:
+                        if li.startswith(searched):
+                            most_relevant.append(li)
+                else:
+        
+                        if req[category].startswith(searched):
+                            most_relevant.append(req[category])
+        elif category == "category":
+            requested = Substances.objects.filter(category__icontains=searched)
+            for req in requested.values():
+            #print(str(req))
+                if category in model_fields_that_are_lists:
+                    for li in req["category"]:
+                        if li.startswith(searched):
+                            most_relevant.append(li)
+               
+        elif category == "source_url":
+            requested = Substances.objects.filter(source_url__icontains=searched)
+            for req in requested.values():
+            #print(str(req))
+                if category in model_fields_that_are_lists:
+                    for li in req.source_url:
+                        if li.startswith(searched):
+                            most_relevant.append(li)
+                else:
+                
+                        if req[category].startswith(searched):
+                            most_relevant.append(req[category])
+        elif category == "source_name":
+            requested = Substances.objects.filter(source_name__icontains=searched)
+            for req in requested.values():
+            #print(str(req))
+                if category in model_fields_that_are_lists:
+                    for li in req.source_name:
+                        if li.startswith(searched):
+                            most_relevant.append(li)
+                else:
+                    for sth in req:
+                        if sth.startswith(searched):
+                            most_relevant.append(li)
+        elif category == "valid":
+            requested = Substances.objects.filter(valid__icontains=searched)
+
+        elif category == "deleted":
+            requested = Substances.objects.filter(deleted__icontains=searched)
+
+        elif category == "version":
+            requested = Substances.objects.filter(version__icontains=searched)
+
+        elif category == "details":
+            requested = Substances.objects.filter(details__icontains=searched)
+
+
+        print(str(most_relevant))
+        
+       # print("Response data: " +str(most_relevant))
+        return JsonResponse(most_relevant, safe=False)
+    

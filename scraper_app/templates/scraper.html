@@ -11,8 +11,15 @@
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
 
     <script src="{% static 'scripts/scraper.js' %}"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+ <!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- jQuery UI -->
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+
     <script>
+
+
     function changeBackground(){
         // Neue Videoquelle
 var oldSource = "{% static 'videos/background.mp4' %}";
@@ -119,6 +126,56 @@ else{
 
 }
 }
+const get_search_category = () =>
+   $('#select').val();
+
+const get_what_is_searched = () =>
+    $('#search_field').val();  
+
+const suggestions = []
+
+function searchSuggestions(){
+    var category = get_search_category();
+    var what_is_searched = get_what_is_searched();
+
+    if((what_is_searched.length >= 2 && category!="molecular_mass" && category!="smiles" )|| what_is_searched.length > 5 && category=="smiles"){
+        data={
+            category: category,
+            searched: what_is_searched,
+        }
+    
+        $.ajax({
+            type:"GET",
+            url:"webscraper/my_api",
+            data:data,
+            success:(response)=>{
+                let suggestions = response;
+                displaySuggestions(suggestions,category);
+            },
+            error:(response)=>{},
+        })
+    }
+}
+const setSearchText = (element) => {
+    let val = $(element).text(); 
+    $('#search_field').text(val);
+};
+
+function displaySuggestions(suggestions) {
+    $('#suggestionList').empty();
+    for (let suggestion in suggestions) {
+        var text = suggestions[suggestion];
+        var sug = $('<div></div>');
+        sug.text(text);
+        sug.addClass("suggestionItem");
+        sug.click(function() {
+            setSearchText(this);
+        });
+        $('#suggestionList').append(sug);
+    }
+}
+
+
 
  </script>
     <title>Webscraper</title>
@@ -138,7 +195,10 @@ else{
             {%endfor%}
         </select>
             {% csrf_token %}
-            <input type="search" id="search_field" name="search_field">
+            <input type="search" id="search_field" name="search_field" oninput="searchSuggestions()">
+            <div id="suggestionList">
+
+            </div>
             <input type="number" id="abweichung" placeholder="Tolaranz +/-" step="0.1" form="form" name="abweichung">
             <input type="submit" value="search" id="submit_button">
         </form>

@@ -147,6 +147,8 @@ function new_substances_loaded(message){
     }, 1500);
     dismis.onclick=function(){
     message_div.remove();
-    show_message.remove()
+    show_message.remove();
     };
 }
+
+

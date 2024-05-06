@@ -11,4 +11,5 @@ urlpatterns=[
     path("/get_witz",views.get_witz, name="get_witz"),
     path("/generate", views.generateJsonFile, name="generateJsonFile"),
     path("/processJsonInput", views.processJsonInput, name="ProcessJsonInput"),
+    path('/my_api', views.my_api, name="my_api"),
     ]
