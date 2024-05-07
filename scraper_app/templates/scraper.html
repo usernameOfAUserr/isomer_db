@@ -156,24 +156,9 @@ function searchSuggestions(){
         })
     }
 }
-const setSearchText = (element) => {
-    let val = $(element).text(); 
-    $('#search_field').text(val);
-};
 
-function displaySuggestions(suggestions) {
-    $('#suggestionList').empty();
-    for (let suggestion in suggestions) {
-        var text = suggestions[suggestion];
-        var sug = $('<div></div>');
-        sug.text(text);
-        sug.addClass("suggestionItem");
-        sug.click(function() {
-            setSearchText(this);
-        });
-        $('#suggestionList').append(sug);
-    }
-}
+
+
 
 
 
@@ -195,7 +180,7 @@ function displaySuggestions(suggestions) {
             {%endfor%}
         </select>
             {% csrf_token %}
-            <input type="search" id="search_field" name="search_field" oninput="searchSuggestions()">
+            <input type="search" id="search_field" name="search_field" oninput="searchSuggestions() ">
             <div id="suggestionList">
 
             </div>

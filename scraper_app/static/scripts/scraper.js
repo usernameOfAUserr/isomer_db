@@ -35,8 +35,7 @@ function show_reset_progress(resetInterval){
                 clearInterval(resetInterval);
                 document.querySelector('.progressbar').style['display'] = "none";
                 document.querySelector('.progress_message').style["display"]= "none"; 
-                 var show_witz = document.querySelector('.show_witz')
-                 show_witz.style['display'] = "none";
+                document.querySelector('.show_witz').style["display"]= "none";
                  try{  
                 var answer = document.querySelector('.answer');
                  answer.style["display"] = "flex";}
@@ -83,6 +82,7 @@ function reset_db(){
         url: "/webscraper/reset_database", //app_name(in urls.py):patern_name(in Dango, but here JavaScrips, because of that relative url)
         success:function(response){
             new_substances_loaded("DATABASE WAS COMPLETLY RESTORED");
+            document.querySelector('.show_witz').style["display"]= "none";
         },
         error:function(){
             console.log("error ocoured");
@@ -150,5 +150,23 @@ function new_substances_loaded(message){
     show_message.remove();
     };
 }
+$('#search_field').on("focusout", ()=>{
+    setTimeout(()=>$('#suggestionList').empty(),100);    
+})
 
+function displaySuggestions(suggestions) {
+    $('#suggestionList').empty();
+    for (var suggestion in suggestions) {
+        var displayed_text = suggestions[suggestion];
+        const sug = $('<div></div>');
+        sug.text(displayed_text);
+        sug.addClass("suggestionItem");
+        sug.on("click", function(){
+            var text = $(this).text();
+            $('#search_field').val(text);
+            $('#suggestionList').empty();
+        })
+        $('#suggestionList').append(sug);
+    }
+}
 
