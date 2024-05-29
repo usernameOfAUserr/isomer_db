@@ -58,11 +58,32 @@ def scraper(request):
                     requested.append(names)        
         elif selected == "cas_num":
             cas_num_results = Substances.objects.filter(cas_num=searched)
+
             requested.append(cas_num_results)
 
         elif selected == "category":
             category_results = Substances.objects.filter(category__icontains=searched)
-            requested.append(category_results)
+            for res in category_results:
+                requested.append({
+                   
+                    "names": res.names,
+                    "formular": res.formular,
+                    "iupac_name": res.iupac_name,
+                    "smiles": res.smiles,
+                    "inchi": res.inchi,
+                    "inchi_key": res.inchi_key,
+                    "molecular_mass": res.molecular_mass,
+                    "cas_num": res.cas_num,
+                    "category": res.category,
+                    "source_url": res.source_url,
+                    "source_name": res.source_name,
+                    "valid": res.valid,
+                    "deleted": res.deleted,
+                    "last_changed_at": res.last_changed_at,
+                    "version": res.version,
+                    "details": res.details,
+                
+                })
 
         elif selected == "source_url":
             source_url_results = Substances.objects.filter(source_url__icontains=searched)
@@ -217,16 +238,13 @@ def my_api(request):
         elif category == "category":
             requested = Substances.objects.filter(category__icontains=searched)
             for req in requested.values():
-            #print(str(req))
-                if category in model_fields_that_are_lists:
-                    for li in req["category"]:
-                        if li.startswith(searched):
-                            most_relevant.append(li)
+                    if req["category"] not in most_relevant:
+                        most_relevant.append(req["category"])
+                    
                
         elif category == "source_url":
             requested = Substances.objects.filter(source_url__icontains=searched)
             for req in requested.values():
-            #print(str(req))
                 if category in model_fields_that_are_lists:
                     for li in req.source_url:
                         if li.startswith(searched):
@@ -259,8 +277,6 @@ def my_api(request):
         elif category == "details":
             requested = Substances.objects.filter(details__icontains=searched)
 
-
-        print(str(most_relevant))
         
        # print("Response data: " +str(most_relevant))
         return JsonResponse(most_relevant, safe=False)

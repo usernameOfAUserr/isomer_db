@@ -5,7 +5,6 @@ class Store():
      def Substances(self, list_of_substances):
         for substance in list_of_substances:
             try:
-                print(substance)
                 data_dict = substance
                 url = substance['source_url']
                 source_name = substance['source_name']
@@ -13,7 +12,7 @@ class Store():
                 if existing_object:
                     existing_object.delete()
                     print(str(substance) +" removed form db")
-                new_object = Substances.objects.create(
+                Substances.objects.create(
                     smiles=data_dict['smiles'],
                     names=data_dict['names'],
                     iupac_name=data_dict['iupac_name'],
@@ -30,9 +29,10 @@ class Store():
                     version=data_dict['version'],
                     details=data_dict['details']
                 )
-                print(str(substance['names']) +" added to db")
             except:
                 print(str(substance)+ " couldnt be stored")
+
+                
      def  Store_exchange_json(self, one_file):
         file_name = str(one_file)
         name = str(file_name) + str(datetime.datetime.now().time())

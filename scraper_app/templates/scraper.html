@@ -138,7 +138,7 @@ function searchSuggestions(){
     var category = get_search_category();
     var what_is_searched = get_what_is_searched();
 
-    if((what_is_searched.length >= 2 && category!="molecular_mass" && category!="smiles" )|| what_is_searched.length > 5 && category=="smiles"){
+    if((what_is_searched.length >= 2 && category!="molecular_mass" && category!="smiles" )|| (what_is_searched.length > 5 && category=="smiles") || category=="category"){
         data={
             category: category,
             searched: what_is_searched,

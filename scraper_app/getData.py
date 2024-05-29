@@ -17,6 +17,8 @@ class getData:
     progress = 0
     gatherd_substances = []
     Substances = Substances.objects.all()
+    find_id_regex = re.compile(r'&id=\d{1,5}')
+    just_id_regex = re.compile(r'\d{1,5}')
     categorys = {}
     def __init__(self) -> None:
         pass
@@ -31,12 +33,11 @@ class getData:
         try:  # for the case that the uls isnt accessible
             async with session.get(url) as response:
                 if response.status != 200:
-                    return True
-              
-                print(f"done for {url}")
+                    return True 
+        
                 if index %100 == 0:
                     self.progress = index / 150
-                
+                    print(f"done for {url}")
                 html = await response.text()  # wait until the server responses
                 # parse to process data better
                 data = BeautifulSoup(html, "html.parser")
@@ -74,8 +75,20 @@ class getData:
 
                 #category
                 # look, if the index is known in categorys
-                if url in self.categorys.keys():
-                    category.append(self.categorys[url])
+                id_string_match = self.find_id_regex.search(url)
+                if id_string_match:
+                    id = self.just_id_regex.search(id_string_match.group()).group()
+                if id in self.categorys.keys():
+                    category =self.categorys[id]
+                    """
+                        needed_format_of_url = "https://isomerdesign.com/PiHKAL/search.php?domain=tk&id="+str(id)
+                        if needed_format_of_url in self.categorys.keys():
+                            category.append(self.categorys[needed_format_of_url])
+                            print(self.categorys[needed_format_of_url])
+                         elif url in self.categorys.keys():
+                            category.append(self.categorys[url])
+                            print(self.categorys[url])
+                    """
                 else:
             # search for tag in the data that reviels the categorypyto
                     tags = data.find_all(class_="sLabel")
@@ -84,7 +97,7 @@ class getData:
                             right_div = tag.parent
                             text = right_div.text.strip()
                             category_found = text.replace("Tags", "").strip()
-                            category.append(category_found)
+                            category = category_found
                 if len(category) == 0:
                     category.append("unknown")
                 # formular
@@ -108,7 +121,7 @@ class getData:
                 canonical_smiles = Chem.MolToSmiles(molecule)
                 weight_chem = Descriptors.MolWt(molecule) 
                 formula_chem = rdMolDescriptors.CalcMolFormula(molecule)
-                if molecular_weight != round(weight_chem,2):
+                if molecular_weight < round(weight_chem,2) - 0.1 or molecular_weight > round(weight_chem, 2)+ 0.1:
                     is_valid = False
                 if formula_chem != formular:
                     is_valid = False
@@ -161,11 +174,13 @@ class getData:
 
     def start(self):
         self.progress = 0
-        urls = [f"https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id={i}" for i in range(1, 15000)]
-        #categorys = getCategorys() # look for categorys and connected ids on your own  #  
-  
-        with open("category_json_file.json", 'r') as f: 
-            self.categorys = json.load(f)
+        urls = [f"https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id={i}" for i in range(1, 16000)]
+        reuse_old_categorys = True
+        if reuse_old_categorys:
+            with open("cateogry_id_json_file.json", 'r') as f: 
+                self.categorys = json.load(f)
+        else:
+            self.categorys = getCategorys() 
         # #load the categorys from external file in order to improve the speed, categorys are NOT!!! loaded in in this run
         asyncio.run(self.get_responses(urls))
         self.Storer.Substances(self.gatherd_substances)
