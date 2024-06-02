@@ -88,6 +88,10 @@ async def create_category_list(session, part_path,category, subcategory):   #thi
         html = await response.text()
         text = BeautifulSoup(html, "html.parser")
         links = text.find_all('a')
+        space_regex = re.compile(r'\s')
+        if(space_regex.search(subcategory)):
+            split = subcategory.split(' ')
+            subcategory = split[1]
         info = [category, subcategory] #combine the category and the subcategory in one array
         print(info)
         for link in links:

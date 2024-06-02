@@ -17,7 +17,7 @@ from .Exchanger import Exchanger
 
 # Create your views here.
 
-
+latest_search_results = []
 getDataObject = getData()
 JS = Substances.objects.all()
 keys = [field.name for field in Substances._meta.fields]
@@ -86,31 +86,42 @@ def scraper(request):
                 })
 
         elif selected == "source_url":
+            requested = []
             source_url_results = Substances.objects.filter(source_url__icontains=searched)
             requested.append(source_url_results)
 
         elif selected == "source_name":
-            source_name_results = Substances.objects.filter(source_name__icontains=searched)
-            requested.append(source_name_results)
+            requested = []
+            print("searched: "+ searched+ " in categroy: " + selected)
+            requested_substances = Substances.objects.filter(source_name__icontains=searched)
+            for req in requested_substances:
+                requested.append(req)
+            print(len(requested))
 
         elif selected == "valid":
+            requested = []
             valid_results = Substances.objects.filter(valid=searched)
             requested.append(valid_results)
 
         elif selected == "deleted":
+            requested = []
             deleted_results = Substances.objects.filter(deleted=searched)
             requested.append(deleted_results)
 
         elif selected == "version":
+            requested = []
             version_results = Substances.objects.filter(version=searched)
             requested.append(version_results)
 
         elif selected == "details":
+            requested = []
             details_results = Substances.objects.filter(details__icontains=searched)
             requested.append(details_results)
     
         else:
             requested = None
+        global latest_search_results
+        latest_search_results = requested
         return render(request, "scraper.html",{
             "answer": requested, "selected":selected,
                         "keys":keys,
@@ -125,13 +136,25 @@ def scraper(request):
 
 
 def reset_database(request):
-    getDataObject.start()
+    getDataObject.start(None)
     return HttpResponse("Database was fully restored")
     
 def request_how_many_json_file(request):
     progress = getDataObject.getProgress()
     return JsonResponse({"progress":progress})
     
+def delete_search_results(request):
+    global latest_search_results
+    print("Delete request for "+ str(len(latest_search_results)) + " substances")
+    i = 0
+    for sub in latest_search_results:
+        print(sub)
+        
+        Substances.objects.filter(smiles=sub.smiles).delete()
+        print(str(i) + " deleted")
+        i+=1
+    latest_search_results = []
+    return HttpResponse(200)
 
 def search_for_newcomers(request):
     new_ones = getReachableUrls()
@@ -255,16 +278,10 @@ def my_api(request):
                             most_relevant.append(req[category])
         elif category == "source_name":
             requested = Substances.objects.filter(source_name__icontains=searched)
-            for req in requested.values():
-            #print(str(req))
-                if category in model_fields_that_are_lists:
-                    for li in req.source_name:
-                        if li.startswith(searched):
-                            most_relevant.append(li)
-                else:
-                    for sth in req:
-                        if sth.startswith(searched):
-                            most_relevant.append(li)
+            full_searched_category = requested.values()[0]["source_name"]
+            print(full_searched_category)
+            most_relevant.append(full_searched_category)
+          
         elif category == "valid":
             requested = Substances.objects.filter(valid__icontains=searched)
 

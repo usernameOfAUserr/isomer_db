@@ -11,7 +11,6 @@ class Store():
                 existing_object = Substances.objects.filter(source_name=source_name, source_url=url).first()
                 if existing_object:
                     existing_object.delete()
-                    print(str(substance) +" removed form db")
                 Substances.objects.create(
                     smiles=data_dict['smiles'],
                     names=data_dict['names'],
