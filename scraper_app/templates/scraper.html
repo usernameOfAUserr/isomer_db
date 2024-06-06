@@ -17,167 +17,25 @@
 <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js"></script>
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
 
-    <script>
-
-
+ <script>
     function changeBackground(){
-        // Neue Videoquelle
+    // Neue Videoquelle
 var oldSource = "{% static 'videos/background.mp4' %}";
- var newSource = "{% static 'videos/load (2).mp4' %}";
- // Videoelement und Quellen-Element auswählen
- var video = document.getElementById("video-background");
- var source = document.getElementById("video-source");
- var number = source.dataset.number;
- if (number == "old"){
- source["src"] = newSource;
- source.dataset.number ="new";
- }
- else{
-    source["src"] = oldSource;
-    source.dataset.number ="old";
- }
- video.load();
- }
-
-
- function generateJsonFile(){
-    try{
-       $.ajax(
-            {
-                type: "GET",
-                url:"webscraper/generate",
-                success:function(response){
-                    var json_data = JSON.stringify(response)
-        var blob = new Blob([json_data], {type: "application/json"})
-        var url = URL.createObjectURL(blob)
-        var a = document.createElement("a");
-        a.style.display = "none";
-        a.href = url;
-        a.download = "PIHKAL.json"; 
-        document.body.appendChild(a);
-        a.click();
-
-        document.body.removeChild(a);
-
-        URL.revokeObjectURL(url);
-                }
-            }
-        );
-      
-
-    }catch(Exeption ){
-        alert("This action isnt possible");
-    }
-}
-var drag_and_drop_is_active = false;
-function proccesJsonFile(){
-    if(!drag_and_drop_is_active){
-        drag_and_drop_is_active = true;
-    }else{
-        drag_and_drop_is_active = false;
-    }if(drag_and_drop_is_active){
-    var drop_zone = document.createElement('div');
-    drop_zone.setAttribute('class', 'drop-zone');
-    drop_zone.setAttribute('id', 'drop-zone');
-    drop_zone.innerHTML="Drag and Drugs, Baby";
-    document.querySelector('.process').innerHTML="End Inserting";
-
-    drop_zone.addEventListener('dragover', (event)=>{
-        event.preventDefault();
-        drop_zone.classList.add('drag-over');
-        console.log("dragover");
-    });
-    drop_zone.addEventListener('dragleave', (event)=>{
-        drop_zone.classList.remove('drag-over');
-        console.log("dragleave");
-
-    });
-    drop_zone.addEventListener('drop', (event)=>{
-        event.preventDefault();
-        drop_zone.classList.remove('drag-over');
-        var file = event.dataTransfer.files[0];
-        var csrfToken = $('[name="csrfmiddlewaretoken"]').val();
-
-        const data = new FormData();
-        data.append("csrfmiddlewaretoken", csrfToken);
-        data.append("file", file);
-    
-        $.ajax({
-            type:"POST",
-            url:"webscraper/processJsonInput",
-            data : data,
-            processData:false,
-            contentType: false,
-            success:function(response){
-                alert(file.name +" was tasty, thanks Buddy!!");
-            },
-            error:function(response){
-                alert("File couldnt be stored");
-            },
-        })
-    });
-    
-
-    document.querySelector('.container').append(drop_zone);
+var newSource = "{% static 'videos/load (2).mp4' %}";
+// Videoelement und Quellen-Element auswählen
+var video = document.getElementById("video-background");
+var source = document.getElementById("video-source");
+var number = source.dataset.number;
+if (number == "old"){
+source["src"] = newSource;
+source.dataset.number ="new";
 }
 else{
-    document.querySelector('#drop-zone').remove();
-    document.querySelector('.process').innerHTML="Insert Data";
-
+source["src"] = oldSource;
+source.dataset.number ="old";
 }
+video.load();
 }
-const get_search_category = () =>
-   $('#select').val();
-
-const get_what_is_searched = () =>
-    $('#search_field').val();  
-
-const suggestions = []
-
-function searchSuggestions(){
-    var category = get_search_category();
-    var what_is_searched = get_what_is_searched();
-
-    if((what_is_searched.length >= 2 && category!="molecular_mass" && category!="smiles" )|| (what_is_searched.length > 5 && category=="smiles") || category=="category"){
-        data={
-            category: category,
-            searched: what_is_searched,
-        }
-    
-        $.ajax({
-            type:"GET",
-            url:"webscraper/my_api",
-            data:data,
-            success:(response)=>{
-                let suggestions = response;
-                displaySuggestions(suggestions,category);
-            },
-            error:(response)=>{},
-        })
-    }
-}
-
-
-function delete_search_results() {
-    console.log("Delete request made");
-    $.ajax({
-        type: 'GET',
-        url: "webscraper/delete_search_result",
-
-        success: function(response) {
-            alert("Delete request successful");
-            // Hier kannst du die Antwort des Servers verarbeiten, wenn benötigt
-        },
-        error: function(xhr, status, error) {
-            console.error("Error deleting search results:", error);
-            // Hier kannst du auf einen Fehler reagieren, wenn benötigt
-        }
-    });
-}
-
-
-
-
  </script>
     <title>Webscraper</title>
 </head>
@@ -196,7 +54,7 @@ function delete_search_results() {
             {%endfor%}
         </select>
             {% csrf_token %}
-            <input type="search" id="search_field" name="search_field" oninput="searchSuggestions() ">
+            <input type="search" id="search_field" name="search_field">
             <div id="suggestionList">
 
             </div>
@@ -204,14 +62,14 @@ function delete_search_results() {
             <input type="submit" value="search" id="submit_button">
         </form>
         <div class="Exchanger">
-            <button class="process" onclick="proccesJsonFile()">Insert Data</button>
-            <button class="generate" onclick="generateJsonFile()">Generate Data</button>
+            <button class="process" id="proccessJsonFile">Insert Data</button>
+            <button class="generate"  id="generateJsonFile">Generate Data</button>
         </div>
     </div>
     <div class="modi_div">
-        <button class="modi" onclick="reset_db()">reset database</button>
-        <button class="modi" onclick="load_new_substances()">load new substances </button>
-        <button class="modi" onclick="delete_search_results()">Delete Search Results</button>
+        <button class="modi" id="reset_db">reset database</button>
+        <button class="modi" id="load_new_substances">load new substances </button>
+        <button class="modi"  id="delete_search_results">Delete Search Results</button>
 </div>    
 {%if selected != None%}
 <div style="position: absolute; left: 40%; top: 1.1%; font-size: 25px; color: rgb(201, 214, 16); opacity: 0.5;"><h1>{{ answer|length }} {% if answer|length == 1 %}RESULT{% else %}RESULTS{% endif %}</h1></div>
@@ -227,15 +85,15 @@ function delete_search_results() {
 <div class="show_one">
     <ul>
         <li><strong>Names:</strong>{% for name in substance.names %}<br>------- {{name}}{% endfor %}</li>
-        <li><strong>IUPAC NAMES:</strong>{% for name in substance.iupac_name %}<br>------- {{name}} {% endfor %}</li>
-        <li><strong>Formular:</strong> {{ substance.formular }}</li>
+        <li><strong>IUPAC NAMES:</strong>{% for name in substance.iupac_names %}<br>------- {{name}} {% endfor %}</li>
+        <li><strong>Formular:</strong> {{ substance.formula }}</li>
         <li><strong>Molecular Weight:</strong> {{ substance.molecular_mass}}</li>
         <li><strong>InChi:</strong> {{ substance.inchi }}</li>
         <li><strong>InChi Key:</strong> {{ substance.inchi_key }}</li>
         <li><strong>SMILES:</strong> {{ substance.smiles }}</li>
-        {% if substance.category|length > 1 %}
+        {% if substance.categories|length > 1 %}
         <li><strong>Category Tag:</strong>
-        {% for name in substance.category %}
+        {% for name in substance.categories %}
         <br>{{forloop.counter}}.{{ name }}
         {% endfor %}
         </li>
@@ -243,9 +101,9 @@ function delete_search_results() {
         <li><strong>Category Tag:</strong><br>{{ substance.category }}</li>
     {% endif %}
     
-        <li><strong>Url:</strong><a href={{substance.source_url}}>{{substance.source_url}}</a></li>
-        <li><strong>Soure Website:</strong> {{ substance.source_name }}</li>
-        <li><strong>Valid:</strong> {{ substance.valid}}</li>
+        <li><strong>Url:</strong><a href={{substance.source_url}}>{{substance.source.url}}</a></li>
+        <li><strong>Soure Website:</strong> {{ substance.source.name }}</li>
+        <li><strong>Valid:</strong> {{ substance.validated}}</li>
         <li><strong>Last Changed At:</strong> {{ substance.last_changed_at}}</li>
         <li><strong>Version:</strong> {{ substance.version }}</li>
         {%if substance.details|length > 1 %}

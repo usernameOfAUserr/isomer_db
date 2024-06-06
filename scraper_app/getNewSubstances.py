@@ -23,8 +23,6 @@ async def test_if_url_is_accesable(session, url, index):
     except:
         print("url not accessable")
 
-
-
 async def look():
     urls = [f"https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id={i}" for i in
             range(1, 16000)]
@@ -35,7 +33,6 @@ async def look():
             result = await asyncio.gather(*tasks)
     except:
         print("skipped")
-
 
 def get_urls_of_new_substances():
     asyncio.run(look())
@@ -49,8 +46,6 @@ def get_urls_of_new_substances():
     print("new urls saved in list")
     return newOnes
     
-
-
 async def fetch_url(session, url, folder,categorys):
 
     try:  # for the case that the uls isnt accessible
@@ -152,8 +147,6 @@ async def fetch_url(session, url, folder,categorys):
     except Exception as e:
         print(f"Fehler beim Abrufen der URL {url}: {e}")
         return True
-
-
 
 async def get_responses(urls,categorys):
     folder = "response_data"  # Der Zielordner, in dem die JSON-Dateien gespeichert werden sollen

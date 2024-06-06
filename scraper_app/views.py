@@ -87,13 +87,13 @@ def scraper(request):
 
         elif selected == "source_url":
             requested = []
-            source_url_results = Substances.objects.filter(source_url__icontains=searched)
+            source_url_results = Substances.objects.filter(source__icontains=searched)
             requested.append(source_url_results)
 
-        elif selected == "source_name":
+        elif selected == "source":
             requested = []
             print("searched: "+ searched+ " in categroy: " + selected)
-            requested_substances = Substances.objects.filter(source_name__icontains=searched)
+            requested_substances = Substances.objects.filter(source__icontains=searched)
             for req in requested_substances:
                 requested.append(req)
             print(len(requested))

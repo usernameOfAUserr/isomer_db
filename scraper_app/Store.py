@@ -6,26 +6,22 @@ class Store():
         for substance in list_of_substances:
             try:
                 data_dict = substance
-                url = substance['source_url']
-                source_name = substance['source_name']
-                existing_object = Substances.objects.filter(source_name=source_name, source_url=url).first()
+                existing_object = Substances.objects.filter(source=substance["source"]).first()
                 if existing_object:
                     existing_object.delete()
                 Substances.objects.create(
                     smiles=data_dict['smiles'],
                     names=data_dict['names'],
-                    iupac_name=data_dict['iupac_name'],
-                    formular=data_dict['formular'],
+                    iupac_names=data_dict['iupac_names'],
+                    formula=data_dict['formula'],
                     inchi=data_dict['inchi'],
                     inchi_key=data_dict['inchi_key'],
                     molecular_mass=data_dict['molecular_mass'],
                     cas_num=data_dict['cas_num'],
-                    category=data_dict['category'],
-                    source_name=data_dict['source_name'],
-                    source_url=data_dict['source_url'],
-                    valid=data_dict['valid'],
+                    categories=data_dict['categories'],
+                    source=data_dict["source"],
+                    validated=data_dict['validated'],
                     deleted=data_dict['deleted'],
-                    version=data_dict['version'],
                     details=data_dict['details']
                 )
             except:

@@ -81,7 +81,6 @@ class getData:
                     else:
                         iupac.append("Unknown")
                         names.append("Unknown")
-
          
                 except:
                     print(f"error by url {url}, data_quantity: {number_of_clippable}")
@@ -114,7 +113,6 @@ class getData:
                 # molecular_weight
                 molecular_weight = all_clippable[number_of_clippable-4].text
                 molecular_weight = float(molecular_weight)
-
                 # inChl
                 InChl_regex = re.compile(r"InChI=(.*)")
                 match = InChl_regex.search(all_clippable[number_of_clippable-3].text)
@@ -137,19 +135,18 @@ class getData:
                 data_dict = {
                     "smiles": canonical_smiles,
                     "names": names,
-                    "iupac_name": iupac,
-                    "formular": formular,
+                    "iupac_names": iupac,
+                    "formula": formular,
                     "inchi": inchi,
                     "inchi_key": inchi_key,
                     "molecular_mass": molecular_weight,
                     "cas_num": 0,
-                    "category": category,
-                    "source_name": "PIHKAL",
-                    "source_url": url,
-                    "valid": is_valid,
+                    "categories": category,
+                    "source": {"name": "PIHKAL", "url": url},
+                    "validated": is_valid,
                     "deleted": False,
-                    "version": 0.0,
-                    "details": [],
+                    "version": "0.0",
+                    "details": {},
                 }
                 self.gatherd_substances.append(data_dict)
                 

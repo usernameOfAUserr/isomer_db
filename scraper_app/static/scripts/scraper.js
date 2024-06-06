@@ -1,6 +1,13 @@
 document.addEventListener("DOMContentLoaded",function(){
     var select = document.getElementById('select');
-  
+    document.querySelector('#select').addEventListener('click', selectFunction)
+    document.querySelector('#search_field').addEventListener('input', searchSuggestions)
+    document.querySelector('#proccessJsonFile').addEventListener('click', proccesJsonFile)
+    document.querySelector('#generateJsonFile').addEventListener('click', generateJsonFile)
+    document.querySelector('#reset_db').addEventListener('click', reset_db)
+    document.querySelector('#load_new_substances').addEventListener('click', load_new_substances)
+    document.querySelector('#delete_search_results').addEventListener('click', delete_search_results)
+
     select.addEventListener('mouseenter', function() {
       this.size = this.options.length;
     });
@@ -67,6 +74,7 @@ function show_reset_progress(resetInterval){
 }
 
 function reset_db(){
+    alert("starting to reset_db")
     changeBackground();
     var answer = document.querySelector('.answer');
     if(answer != null){answer.style["display"] = "none";}
@@ -150,7 +158,7 @@ function new_substances_loaded(message){
     show_message.remove();
     };
 }
-$('#search_field').on("focusout", ()=>{
+document.querySelector('#search_field').addEventListener("focusout", ()=>{
     setTimeout(()=>$('#suggestionList').empty(),100);    
 })
 
@@ -170,3 +178,138 @@ function displaySuggestions(suggestions) {
     }
 }
 
+
+function generateJsonFile(){
+try{
+   $.ajax(
+        {
+            type: "GET",
+            url:"webscraper/generate",
+            success:function(response){
+                var json_data = JSON.stringify(response)
+    var blob = new Blob([json_data], {type: "application/json"})
+    var url = URL.createObjectURL(blob)
+    var a = document.createElement("a");
+    a.style.display = "none";
+    a.href = url;
+    a.download = "PIHKAL.json"; 
+    document.body.appendChild(a);
+    a.click();
+
+    document.body.removeChild(a);
+
+    URL.revokeObjectURL(url);
+            }
+        }
+    );
+  
+
+}catch(Exeption ){
+    alert("This action isnt possible");
+}
+}
+var drag_and_drop_is_active = false;
+function proccesJsonFile(){
+if(!drag_and_drop_is_active){
+    drag_and_drop_is_active = true;
+}else{
+    drag_and_drop_is_active = false;
+}if(drag_and_drop_is_active){
+var drop_zone = document.createElement('div');
+drop_zone.setAttribute('class', 'drop-zone');
+drop_zone.setAttribute('id', 'drop-zone');
+drop_zone.innerHTML="Drag and Drugs, Baby";
+document.querySelector('.process').innerHTML="End Inserting";
+
+drop_zone.addEventListener('dragover', (event)=>{
+    event.preventDefault();
+    drop_zone.classList.add('drag-over');
+    console.log("dragover");
+});
+drop_zone.addEventListener('dragleave', (event)=>{
+    drop_zone.classList.remove('drag-over');
+    console.log("dragleave");
+
+});
+drop_zone.addEventListener('drop', (event)=>{
+    event.preventDefault();
+    drop_zone.classList.remove('drag-over');
+    var file = event.dataTransfer.files[0];
+    var csrfToken = $('[name="csrfmiddlewaretoken"]').val();
+
+    const data = new FormData();
+    data.append("csrfmiddlewaretoken", csrfToken);
+    data.append("file", file);
+
+    $.ajax({
+        type:"POST",
+        url:"webscraper/processJsonInput",
+        data : data,
+        processData:false,
+        contentType: false,
+        success:function(response){
+            alert(file.name +" was tasty, thanks Buddy!!");
+        },
+        error:function(response){
+            alert("File couldnt be stored");
+        },
+    })
+});
+
+
+document.querySelector('.container').append(drop_zone);
+}
+else{
+document.querySelector('#drop-zone').remove();
+document.querySelector('.process').innerHTML="Insert Data";
+
+}
+}
+function get_search_category(){
+return $('#select').val();
+}
+function get_what_is_searched(){
+return $('#search_field').val();  }
+
+const suggestions = []
+
+function searchSuggestions(){
+var category = get_search_category();
+var what_is_searched = get_what_is_searched();
+
+if((what_is_searched.length >= 2 && category!="molecular_mass" && category!="smiles" )|| (what_is_searched.length > 5 && category=="smiles") || category=="category"){
+    data={
+        category: category,
+        searched: what_is_searched,
+    }
+
+    $.ajax({
+        type:"GET",
+        url:"webscraper/my_api",
+        data:data,
+        success:(response)=>{
+            let suggestions = response;
+            displaySuggestions(suggestions,category);
+        },
+        error:(response)=>{},
+    })
+}
+}
+
+
+function delete_search_results() {
+console.log("Delete request made");
+$.ajax({
+    type: 'GET',
+    url: "webscraper/delete_search_result",
+
+    success: function(response) {
+        alert("Delete request successful");
+        // Hier kannst du die Antwort des Servers verarbeiten, wenn benötigt
+    },
+    error: function(xhr, status, error) {
+        console.error("Error deleting search results:", error);
+        // Hier kannst du auf einen Fehler reagieren, wenn benötigt
+    }
+});
+}
